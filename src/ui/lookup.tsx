@@ -45,9 +45,15 @@ const LookupUI: React.FC<{
       Search phrase:
       <TextArea value={query} onChange={x => setQuery(x.target.value)} />
       <Button onClick={search}>Search</Button>
-      {answer.map((x, index) => (
+      {answer.length > 0 && (
+        <div>
+          Top-{answer.length} answers:
+        {answer.map((x, index) => (
         <AnswerField answer={x} key={index} />
       ))}
+        </div>
+      )
+      }
     </div>
   );
 };
@@ -64,8 +70,8 @@ const AnswerField: React.FC<{answer: Answer}> = function ({answer}) {
   return (
     <fieldset>
       <legend>{answer.word}</legend>
-      <p>{answer.definition}</p>
-      <p>{answer.score}</p>
+      <p>Definition: {answer.definition}</p>
+      <p>BERT score: {answer.score}</p>
     </fieldset>
   );
 };
