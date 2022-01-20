@@ -1,0 +1,127 @@
+term: ungeoreferenced grid
+termid: 1927
+eng:
+  id: 1927
+  definition: >-
+    gridded data that does not include any information that can be used to
+    determine a cell’s geographic coordinate values
+  language_code: eng
+  notes: []
+  examples:
+    - A digital photo without georectification information included.
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO/TS 19163-1:2016'
+    clause: '4.15'
+    link: 'https://www.iso.org/standard/32581.html'
+  date_accepted: 2016-01-15T00:00:00.000Z
+  review_date: 2014-08-15T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2016-01-15T00:00:00.000Z
+  review_decision_event: Normal ISO processing
+  review_decision_notes: 'Publication of document ISO/TS 19163-1:2016(E)'
+  release: '4'
+  terms:
+    - type: expression
+      designation: ungeoreferenced grid
+      normative_status: preferred
+  _revisions:
+    current: 58244d
+    tree:
+      58244d:
+        object:
+          id: 1927
+          definition: >-
+            gridded data that does not include any information that can be used
+            to determine a cell’s geographic coordinate values
+          language_code: eng
+          notes: []
+          examples:
+            - A digital photo without georectification information included.
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO/TS 19163-1:2016'
+            clause: '4.15'
+            link: 'https://www.iso.org/standard/32581.html'
+          date_accepted: 2016-01-15T00:00:00.000Z
+          review_date: 2014-08-15T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2016-01-15T00:00:00.000Z
+          review_decision_event: Normal ISO processing
+          review_decision_notes: 'Publication of document ISO/TS 19163-1:2016(E)'
+          release: '4'
+          terms:
+            - type: expression
+              designation: ungeoreferenced grid
+              normative_status: preferred
+        parents: []
+        timeCreated: 2016-01-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 1927
+  definition: >-
+    datos malla que no incluyen ninguna información que pueda utilizarse para
+    determinar los valores de las coordenadas geográficas de una celda
+  language_code: spa
+  notes: []
+  examples:
+    - Una fotografía digital sin información de georectificación incluida.
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO/TS 19163-1:2016'
+    clause: '4.15'
+    link: 'https://www.iso.org/standard/32581.html'
+  date_accepted: 2016-01-15T00:00:00.000Z
+  review_date: 2014-08-15T00:00:00.000Z
+  review_status: final
+  review_decision: ''
+  review_decision_date: 2016-01-15T00:00:00.000Z
+  review_decision_event: Normal ISO processing
+  review_decision_notes: 'Publication of document ISO/TS 19163-1:2016(E)'
+  release: '4'
+  terms:
+    - type: expression
+      designation: malla sin georreferenciar
+      normative_status: preferred
+  _revisions:
+    current: '949721'
+    tree:
+      '949721':
+        object:
+          id: 1927
+          definition: >-
+            datos malla que no incluyen ninguna información que pueda utilizarse
+            para determinar los valores de las coordenadas geográficas de una
+            celda
+          language_code: spa
+          notes: []
+          examples:
+            - >-
+              Una fotografía digital sin información de georectificación
+              incluida.
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO/TS 19163-1:2016'
+            clause: '4.15'
+            link: 'https://www.iso.org/standard/32581.html'
+          date_accepted: 2016-01-15T00:00:00.000Z
+          review_date: 2014-08-15T00:00:00.000Z
+          review_status: final
+          review_decision: ''
+          review_decision_date: 2016-01-15T00:00:00.000Z
+          review_decision_event: Normal ISO processing
+          review_decision_notes: 'Publication of document ISO/TS 19163-1:2016(E)'
+          release: '4'
+          terms:
+            - type: expression
+              designation: malla sin georreferenciar
+              normative_status: preferred
+        parents: []
+        timeCreated: 2016-01-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

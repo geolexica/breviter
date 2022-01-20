@@ -1,0 +1,638 @@
+term: continuous change
+termid: 659
+eng:
+  id: 659
+  definition: >-
+    change in an attribute whose type has a distance measure such that its value
+    can be assumed to take on intermediate values between two known measurements
+  language_code: eng
+  notes:
+    - >-
+      The interpolation of continuous change is usually done by taking into
+      consideration constraints on the "curve" joining the two data points
+      (time1, value1) and (time2, value2), looking at the value as a function of
+      time. For example, if the continuous change is for the motion of a
+      vehicle, then the constraints of physics and of the paths appropriate for
+      that vehicle must be taken into consideration.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19132:2007'
+    link: 'https://www.iso.org/standard/40601.html'
+  date_accepted: 2007-10-15T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: continuous change
+      normative_status: preferred
+  _revisions:
+    current: 1445a8
+    tree:
+      1445a8:
+        object:
+          id: 659
+          definition: >-
+            change in an attribute whose type has a distance measure such that
+            its value can be assumed to take on intermediate values between two
+            known measurements
+          language_code: eng
+          notes:
+            - >-
+              The interpolation of continuous change is usually done by taking
+              into consideration constraints on the "curve" joining the two data
+              points (time1, value1) and (time2, value2), looking at the value
+              as a function of time. For example, if the continuous change is
+              for the motion of a vehicle, then the constraints of physics and
+              of the paths appropriate for that vehicle must be taken into
+              consideration.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19132:2007'
+            link: 'https://www.iso.org/standard/40601.html'
+          date_accepted: 2007-10-15T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: continuous change
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-10-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+ara:
+  id: 659
+  definition: >-
+    تغيير في صفة مميزة والتي نوعها له قياس مسافة بحيث يمكن افتراض قيمتها لتأخذ
+    قيم  وسط بين قياسين معروفين.
+  language_code: ara
+  notes:
+    - >-
+      عملية توليد التغيير المستمر تتم عادة بأن تؤخذ في الاعتبار القيود التي تكون
+      على "المنحنى" الذي يربط بين نقطتي البيانات (الوقت (1) , القيمة (1)) من جهة
+      و (الوقت (2) , القيمة (2)) من جهة أخرى ، وذلك باعتبار أن القيمة عامل متغير
+      أو غير ثابت و يعتمد على الوقت. وكمثال على ذلك , إذا كان التغيير يتعلق
+      بحركة مركبة آلية فإن قيوداً مثل قيود الطبيعة والممرات أو المسارات المناسبة
+      لتلك المركبة لابد أن تؤخذ في الاعتبار.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19132:2007'
+    link: 'https://www.iso.org/standard/40601.html'
+  date_accepted: 2007-10-15T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: تغيير مستمر
+      normative_status: preferred
+  _revisions:
+    current: 95cee0
+    tree:
+      95cee0:
+        object:
+          id: 659
+          definition: >-
+            تغيير في صفة مميزة والتي نوعها له قياس مسافة بحيث يمكن افتراض قيمتها
+            لتأخذ قيم  وسط بين قياسين معروفين.
+          language_code: ara
+          notes:
+            - >-
+              عملية توليد التغيير المستمر تتم عادة بأن تؤخذ في الاعتبار القيود
+              التي تكون على "المنحنى" الذي يربط بين نقطتي البيانات (الوقت (1) ,
+              القيمة (1)) من جهة و (الوقت (2) , القيمة (2)) من جهة أخرى ، وذلك
+              باعتبار أن القيمة عامل متغير أو غير ثابت و يعتمد على الوقت. وكمثال
+              على ذلك , إذا كان التغيير يتعلق بحركة مركبة آلية فإن قيوداً مثل
+              قيود الطبيعة والممرات أو المسارات المناسبة لتلك المركبة لابد أن
+              تؤخذ في الاعتبار.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19132:2007'
+            link: 'https://www.iso.org/standard/40601.html'
+          date_accepted: 2007-10-15T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: تغيير مستمر
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-10-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+zho:
+  id: 659
+  definition: 带有距离度量类型的属性的变化，该值可在两个已知量测值间取值。
+  language_code: zho
+  notes:
+    - >-
+      连续变化的插值通常的做法是：考虑在'曲线'中加入两个数据点( time1, value1 )和( time2 , value2
+      )的限制。（作为时间函数，value1和
+      value2的值取决于变量time1和time2的取值）举例来说,如果连续变化是对车辆的运动而言,那么必须考虑对物理学和与车辆相适应的路径的限制。
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19132:2007'
+    link: 'https://www.iso.org/standard/40601.html'
+  date_accepted: 2007-10-15T00:00:00.000Z
+  terms:
+    - type: expression
+      designation: 连续变化
+      normative_status: preferred
+  _revisions:
+    current: e1f001
+    tree:
+      e1f001:
+        object:
+          id: 659
+          definition: 带有距离度量类型的属性的变化，该值可在两个已知量测值间取值。
+          language_code: zho
+          notes:
+            - >-
+              连续变化的插值通常的做法是：考虑在'曲线'中加入两个数据点( time1, value1 )和( time2 , value2
+              )的限制。（作为时间函数，value1和
+              value2的值取决于变量time1和time2的取值）举例来说,如果连续变化是对车辆的运动而言,那么必须考虑对物理学和与车辆相适应的路径的限制。
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19132:2007'
+            link: 'https://www.iso.org/standard/40601.html'
+          date_accepted: 2007-10-15T00:00:00.000Z
+          terms:
+            - type: expression
+              designation: 连续变化
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-10-15T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+fin:
+  id: 659
+  definition: >-
+    etäisyyden muuttuminen siten, että mitattujen arvojen välillä on aina
+    jatkuvia arvoja
+  language_code: fin
+  notes:
+    - >-
+      Jatkuvan muuttumisen interpoloinnissa otetaan huomioon mittauspisteiden
+      (aika1, arvo1) ja (aika2, arvo2) välisen ’käyrän’ rajoitukset. Esimerkiksi
+      ajoneuvon liikkuessa fyysiset rajoitukset ja ajoneuvolle soveltuvat reitit
+      otetaan huomioon.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19132:2007'
+    link: 'https://www.iso.org/standard/40601.html'
+  lineage_source: 'Ei lähdettä, käännetty'
+  date_accepted: 2007-10-15T00:00:00.000Z
+  terms:
+    - type: expression
+      designation: jatkuva muuttuminen
+      normative_status: preferred
+  _revisions:
+    current: af037b
+    tree:
+      af037b:
+        object:
+          id: 659
+          definition: >-
+            etäisyyden muuttuminen siten, että mitattujen arvojen välillä on
+            aina jatkuvia arvoja
+          language_code: fin
+          notes:
+            - >-
+              Jatkuvan muuttumisen interpoloinnissa otetaan huomioon
+              mittauspisteiden (aika1, arvo1) ja (aika2, arvo2) välisen ’käyrän’
+              rajoitukset. Esimerkiksi ajoneuvon liikkuessa fyysiset rajoitukset
+              ja ajoneuvolle soveltuvat reitit otetaan huomioon.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19132:2007'
+            link: 'https://www.iso.org/standard/40601.html'
+          lineage_source: 'Ei lähdettä, käännetty'
+          date_accepted: 2007-10-15T00:00:00.000Z
+          terms:
+            - type: expression
+              designation: jatkuva muuttuminen
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-10-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+fra:
+  id: 659
+  definition: >-
+    variation d'un attribut dont le type comporte une mesure de distance telle
+    que sa valeur peut être supposée se trouver entre deux valeurs connues
+  language_code: fra
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: ISO 19132
+    link: 'https://www.iso.org/standard/40601.html'
+  lineage_source: ''
+  date_accepted: 2007-10-15T00:00:00.000Z
+  terms:
+    - type: expression
+      designation: variation continue
+      normative_status: preferred
+  _revisions:
+    current: e3db3b
+    tree:
+      e3db3b:
+        object:
+          id: 659
+          definition: >-
+            variation d'un attribut dont le type comporte une mesure de distance
+            telle que sa valeur peut être supposée se trouver entre deux valeurs
+            connues
+          language_code: fra
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: ISO 19132
+            link: 'https://www.iso.org/standard/40601.html'
+          lineage_source: ''
+          date_accepted: 2007-10-15T00:00:00.000Z
+          terms:
+            - type: expression
+              designation: variation continue
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-10-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+deu:
+  id: 659
+  language_code: deu
+  notes:
+    - >-
+      The interpolation of continuous change is usually done by taking into
+      consideration constraints on the "curve" joining the two data points
+      (time1, value1) and (time2, value2), looking at the value as a function of
+      time. For example, if the continuous change is for the motion of a
+      vehicle, then the constraints of physics and of the paths appropriate for
+      that vehicle must be taken into consideration.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19132:2007'
+    link: 'https://www.iso.org/standard/40601.html'
+  date_accepted: 2007-10-15T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: stetige Änderung
+      normative_status: preferred
+  _revisions:
+    current: ed257f
+    tree:
+      ed257f:
+        object:
+          id: 659
+          language_code: deu
+          notes:
+            - >-
+              The interpolation of continuous change is usually done by taking
+              into consideration constraints on the "curve" joining the two data
+              points (time1, value1) and (time2, value2), looking at the value
+              as a function of time. For example, if the continuous change is
+              for the motion of a vehicle, then the constraints of physics and
+              of the paths appropriate for that vehicle must be taken into
+              consideration.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19132:2007'
+            link: 'https://www.iso.org/standard/40601.html'
+          date_accepted: 2007-10-15T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: stetige Änderung
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-10-15T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+kor:
+  id: 659
+  definition: 속성이 거리 관측 유형인 변환에서 속성의 값은 알려진 두 측정 간의 매개 값을 사용한 것으로 가정할 수 있다.
+  language_code: kor
+  notes:
+    - >-
+      연속 변환의 보간법은 일반적으로 "곡선"상 두 개의 데이터 점((시간1,값1), (시간2,값2))과 시간 함수 값을 제약 조건으로
+      사용한다. 예를 들어, 차량의 이동에 대한 연속 변환의 경우 반드시 제약 조건으로 물리학과 도로 상태를 고려해야 한다.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19132:2007'
+    link: 'https://www.iso.org/standard/40601.html'
+  lineage_source: KS X ISO 19132
+  date_accepted: 2009-12-29T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: 연속 변환
+      normative_status: preferred
+  _revisions:
+    current: 35353c
+    tree:
+      35353c:
+        object:
+          id: 659
+          definition: 속성이 거리 관측 유형인 변환에서 속성의 값은 알려진 두 측정 간의 매개 값을 사용한 것으로 가정할 수 있다.
+          language_code: kor
+          notes:
+            - >-
+              연속 변환의 보간법은 일반적으로 "곡선"상 두 개의 데이터 점((시간1,값1), (시간2,값2))과 시간 함수 값을
+              제약 조건으로 사용한다. 예를 들어, 차량의 이동에 대한 연속 변환의 경우 반드시 제약 조건으로 물리학과 도로 상태를
+              고려해야 한다.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19132:2007'
+            link: 'https://www.iso.org/standard/40601.html'
+          lineage_source: KS X ISO 19132
+          date_accepted: 2009-12-29T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: 연속 변환
+              normative_status: preferred
+        parents: []
+        timeCreated: 2009-12-29T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+msa:
+  id: 659
+  language_code: msa
+  notes:
+    - >-
+      The interpolation of continuous change is usually done by taking into
+      consideration constraints on the "curve" joining the two data points
+      (time1, value1) and (time2, value2), looking at the value as a function of
+      time. For example, if the continuous change is for the motion of a
+      vehicle, then the constraints of physics and of the paths appropriate for
+      that vehicle must be taken into consideration.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19132:2007'
+    link: 'https://www.iso.org/standard/40601.html'
+  lineage_source: 'Istilah ukur dan Pemetaan (DBP, 1992)'
+  date_accepted: 2007-10-15T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: Perubahan selanjar
+      normative_status: preferred
+  _revisions:
+    current: e08eda
+    tree:
+      e08eda:
+        object:
+          id: 659
+          language_code: msa
+          notes:
+            - >-
+              The interpolation of continuous change is usually done by taking
+              into consideration constraints on the "curve" joining the two data
+              points (time1, value1) and (time2, value2), looking at the value
+              as a function of time. For example, if the continuous change is
+              for the motion of a vehicle, then the constraints of physics and
+              of the paths appropriate for that vehicle must be taken into
+              consideration.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19132:2007'
+            link: 'https://www.iso.org/standard/40601.html'
+          lineage_source: 'Istilah ukur dan Pemetaan (DBP, 1992)'
+          date_accepted: 2007-10-15T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: Perubahan selanjar
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-10-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 659
+  definition: >-
+    такое изменение атрибута, характеризующего некоторое расстояние, при котором
+    предполагается, что этот атрибут принимал промежуточные значения между
+    результатами двух фиксированных измерений
+  language_code: rus
+  notes:
+    - >-
+      Интерполяция непрерывного изменения обычно выполняется, принимая во
+      внимание  ограничения на «кривую», соединяющую две точки данных (время 1,
+      значение 1) и (время 2, значение 2), определяя значение как функцию от
+      времени. К примеру, если непрерывное изменение определяется для движения
+      транспортного средства, то во внимание должны быть приняты физические
+      ограничения и ограничения на прохождение пути, определяемые для данного 
+      транспортного средства
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19132:2007'
+    link: 'https://www.iso.org/standard/40601.html'
+  lineage_source: Internet
+  date_accepted: 2007-10-15T00:00:00.000Z
+  terms:
+    - type: expression
+      designation: непрерывное изменение
+      normative_status: preferred
+  _revisions:
+    current: '745636'
+    tree:
+      '745636':
+        object:
+          id: 659
+          definition: >-
+            такое изменение атрибута, характеризующего некоторое расстояние, при
+            котором предполагается, что этот атрибут принимал промежуточные
+            значения между результатами двух фиксированных измерений
+          language_code: rus
+          notes:
+            - >-
+              Интерполяция непрерывного изменения обычно выполняется, принимая
+              во внимание  ограничения на «кривую», соединяющую две точки данных
+              (время 1, значение 1) и (время 2, значение 2), определяя значение
+              как функцию от времени. К примеру, если непрерывное изменение
+              определяется для движения транспортного средства, то во внимание
+              должны быть приняты физические ограничения и ограничения на
+              прохождение пути, определяемые для данного  транспортного средства
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19132:2007'
+            link: 'https://www.iso.org/standard/40601.html'
+          lineage_source: Internet
+          date_accepted: 2007-10-15T00:00:00.000Z
+          terms:
+            - type: expression
+              designation: непрерывное изменение
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-10-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 659
+  definition: >-
+    cambio en un atributo cuyo tipo tiene una medida de distancia tal que su
+    valor se puede suponer que tiene valores intermedios entre dos mediciones
+    conocidas
+  language_code: spa
+  notes:
+    - >-
+      La interpolación de cambio continuo se suele hacer teniendo en cuenta las
+      limitaciones en la "curva" que une los dos puntos de datos (tiempo1,
+      valor1) y (tiempo2, valor2), considerando el valor en función del tiempo.
+      Por ejemplo, si el cambio continuo es para el movimiento de un vehículo,
+      entonces se deben tomar en consideración las limitaciones físicas y de las
+      vías apropiadas para ese vehículo.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19132:2007'
+    link: 'https://www.iso.org/standard/40601.html'
+  date_accepted: 2007-10-15T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: cambio continuo
+      normative_status: preferred
+  _revisions:
+    current: 99b567
+    tree:
+      99b567:
+        object:
+          id: 659
+          definition: >-
+            cambio en un atributo cuyo tipo tiene una medida de distancia tal
+            que su valor se puede suponer que tiene valores intermedios entre
+            dos mediciones conocidas
+          language_code: spa
+          notes:
+            - >-
+              La interpolación de cambio continuo se suele hacer teniendo en
+              cuenta las limitaciones en la "curva" que une los dos puntos de
+              datos (tiempo1, valor1) y (tiempo2, valor2), considerando el valor
+              en función del tiempo. Por ejemplo, si el cambio continuo es para
+              el movimiento de un vehículo, entonces se deben tomar en
+              consideración las limitaciones físicas y de las vías apropiadas
+              para ese vehículo.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19132:2007'
+            link: 'https://www.iso.org/standard/40601.html'
+          date_accepted: 2007-10-15T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: cambio continuo
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-10-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+swe:
+  id: 659
+  definition: >-
+    <hos attribut> det att attributet kan anta vilket värde som helst mellan två
+    angivna värden
+  country_code: swe
+  language_code: swe
+  notes:
+    - >-
+      The interpolation of continuous change is usually done by taking into
+      consideration constraints on the "curve" joining the two data points
+      (time1, value1) and (time2, value2), looking at the value as a function of
+      time. For example, if the continuous change is for the motion of a
+      vehicle, then the constraints of physics and of the paths appropriate for
+      that vehicle must be taken into consideration.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19132:2007'
+    link: 'https://www.iso.org/standard/40601.html'
+  lineage_source: (Type reference to national language document)
+  date_accepted: 2007-10-15T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: kontinuerlig värdeförändring
+      normative_status: preferred
+  _revisions:
+    current: 92ec01
+    tree:
+      92ec01:
+        object:
+          id: 659
+          definition: >-
+            <hos attribut> det att attributet kan anta vilket värde som helst
+            mellan två angivna värden
+          country_code: swe
+          language_code: swe
+          notes:
+            - >-
+              The interpolation of continuous change is usually done by taking
+              into consideration constraints on the "curve" joining the two data
+              points (time1, value1) and (time2, value2), looking at the value
+              as a function of time. For example, if the continuous change is
+              for the motion of a vehicle, then the constraints of physics and
+              of the paths appropriate for that vehicle must be taken into
+              consideration.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19132:2007'
+            link: 'https://www.iso.org/standard/40601.html'
+          lineage_source: (Type reference to national language document)
+          date_accepted: 2007-10-15T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: kontinuerlig värdeförändring
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-10-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

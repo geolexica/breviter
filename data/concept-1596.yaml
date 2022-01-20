@@ -1,0 +1,120 @@
+term: geographic context awareness
+termid: 1596
+eng:
+  id: 1596
+  definition: >-
+    application or service behaviour based on the recognition of user’s
+    geographic context
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19154:2014'
+    clause: '4.7'
+    link: 'https://www.iso.org/standard/32572.html'
+  date_accepted: 2014-11-01T00:00:00.000Z
+  review_date: 2012-08-03T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2014-11-01T00:00:00.000Z
+  review_decision_event: Normal ISO processing
+  review_decision_notes: 'Publication of document ISO 19154:2014(E)'
+  release: '4'
+  terms:
+    - type: expression
+      designation: geographic context awareness
+      normative_status: preferred
+  _revisions:
+    current: d0c6af
+    tree:
+      d0c6af:
+        object:
+          id: 1596
+          definition: >-
+            application or service behaviour based on the recognition of user’s
+            geographic context
+          language_code: eng
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19154:2014'
+            clause: '4.7'
+            link: 'https://www.iso.org/standard/32572.html'
+          date_accepted: 2014-11-01T00:00:00.000Z
+          review_date: 2012-08-03T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2014-11-01T00:00:00.000Z
+          review_decision_event: Normal ISO processing
+          review_decision_notes: 'Publication of document ISO 19154:2014(E)'
+          release: '4'
+          terms:
+            - type: expression
+              designation: geographic context awareness
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-11-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 1596
+  definition: >-
+    comportamiento de una aplicación o servicio basado en el reconocimiento del
+    contexto geográfico del usuario
+  language_code: spa
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19154:2014'
+    clause: '4.7'
+    link: 'https://www.iso.org/standard/32572.html'
+  date_accepted: 2014-11-01T00:00:00.000Z
+  review_date: 2012-08-03T00:00:00.000Z
+  review_status: final
+  review_decision: ''
+  review_decision_date: 2014-11-01T00:00:00.000Z
+  review_decision_event: Normal ISO processing
+  review_decision_notes: 'Publication of document ISO 19154:2014(E)'
+  release: '4'
+  terms:
+    - type: expression
+      designation: conocimiento del contexto geográfico
+      normative_status: preferred
+  _revisions:
+    current: 61d13a
+    tree:
+      61d13a:
+        object:
+          id: 1596
+          definition: >-
+            comportamiento de una aplicación o servicio basado en el
+            reconocimiento del contexto geográfico del usuario
+          language_code: spa
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19154:2014'
+            clause: '4.7'
+            link: 'https://www.iso.org/standard/32572.html'
+          date_accepted: 2014-11-01T00:00:00.000Z
+          review_date: 2012-08-03T00:00:00.000Z
+          review_status: final
+          review_decision: ''
+          review_decision_date: 2014-11-01T00:00:00.000Z
+          review_decision_event: Normal ISO processing
+          review_decision_notes: 'Publication of document ISO 19154:2014(E)'
+          release: '4'
+          terms:
+            - type: expression
+              designation: conocimiento del contexto geográfico
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-11-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

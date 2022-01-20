@@ -1,0 +1,68 @@
+term: generic concept system
+termid: 2261
+eng:
+  id: 2261
+  definition: >-
+    concept system in which concepts that belong to the category of the
+    subordinate concept are part of the extension of the superordinate concept
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19146:2018'
+    clause: '(E), 3.1.17'
+    link: 'https://www.iso.org/standard/72217.html'
+  date_accepted: 2018-06-01T00:00:00.000Z
+  review_date: 2018-06-01T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2018-06-01T00:00:00.000Z
+  review_decision_event: 'Publication of document ISO 19146:2018(E)'
+  review_decision_notes: >-
+    This entry supersedes the entry for generic concept system in ISO
+    19146:2010(E)
+  release: '5'
+  terms:
+    - type: expression
+      designation: generic concept system
+      normative_status: preferred
+  _revisions:
+    current: 8c3a77
+    tree:
+      8c3a77:
+        object:
+          id: 2261
+          definition: >-
+            concept system in which concepts that belong to the category of the
+            subordinate concept are part of the extension of the superordinate
+            concept
+          language_code: eng
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19146:2018'
+            clause: '(E), 3.1.17'
+            link: 'https://www.iso.org/standard/72217.html'
+          date_accepted: 2018-06-01T00:00:00.000Z
+          review_date: 2018-06-01T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2018-06-01T00:00:00.000Z
+          review_decision_event: 'Publication of document ISO 19146:2018(E)'
+          review_decision_notes: >-
+            This entry supersedes the entry for generic concept system in ISO
+            19146:2010(E)
+          release: '5'
+          terms:
+            - type: expression
+              designation: generic concept system
+              normative_status: preferred
+        parents: []
+        timeCreated: 2018-06-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

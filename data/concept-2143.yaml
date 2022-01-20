@@ -1,0 +1,69 @@
+term: U-code
+termid: 2143
+eng:
+  id: 2143
+  definition: condensed representation for a postal address element or sub-element
+  language_code: eng
+  notes:
+    - >-
+      The postal address element code conforms to conventions specified in 7.2
+      and is relatively language independent when compared with the element and
+      sub-element names.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19160-4:2017'
+    clause: '(E), 3.16'
+    link: 'https://www.iso.org/standard/64242.html'
+  date_accepted: 2017-11-15T00:00:00.000Z
+  review_date: 2017-11-15T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2017-11-15T00:00:00.000Z
+  review_decision_event: Normal ISO processing
+  review_decision_notes: 'Publication of document ISO 19160-4:2017(E)'
+  release: '5'
+  terms:
+    - type: expression
+      designation: U-code
+      normative_status: admitted
+    - designation: postal address element code
+      type: expression
+  _revisions:
+    current: 0f3d41
+    tree:
+      0f3d41:
+        object:
+          id: 2143
+          definition: condensed representation for a postal address element or sub-element
+          language_code: eng
+          notes:
+            - >-
+              The postal address element code conforms to conventions specified
+              in 7.2 and is relatively language independent when compared with
+              the element and sub-element names.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19160-4:2017'
+            clause: '(E), 3.16'
+            link: 'https://www.iso.org/standard/64242.html'
+          date_accepted: 2017-11-15T00:00:00.000Z
+          review_date: 2017-11-15T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2017-11-15T00:00:00.000Z
+          review_decision_event: Normal ISO processing
+          review_decision_notes: 'Publication of document ISO 19160-4:2017(E)'
+          release: '5'
+          terms:
+            - type: expression
+              designation: U-code
+              normative_status: admitted
+            - designation: postal address element code
+              type: expression
+        parents: []
+        timeCreated: 2017-11-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

@@ -1,0 +1,717 @@
+term: portrayal service
+termid: 345
+eng:
+  id: 345
+  definition: generic interface used to portray features
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19117:2012'
+    clause: '4.26'
+    link: 'https://www.iso.org/standard/46226.html'
+  lineage_source: 'ISO 19117:2005'
+  lineage_source_similarity: 1
+  date_accepted: 2005-06-01T00:00:00.000Z
+  review_date: 2009-11-25T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2012-12-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19117:2012'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19117:2005 to ISO 19117:2012.
+    Lineage source added as ISO 19117:2005.
+  release: '1'
+  terms:
+    - type: expression
+      designation: portrayal service
+      normative_status: preferred
+  _revisions:
+    current: 1c5056
+    tree:
+      1c5056:
+        object:
+          id: 345
+          definition: generic interface used to portray features
+          language_code: eng
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19117:2012'
+            clause: '4.26'
+            link: 'https://www.iso.org/standard/46226.html'
+          lineage_source: 'ISO 19117:2005'
+          lineage_source_similarity: 1
+          date_accepted: 2005-06-01T00:00:00.000Z
+          review_date: 2009-11-25T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2012-12-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19117:2012'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19117:2005 to ISO
+            19117:2012. Lineage source added as ISO 19117:2005.
+          release: '1'
+          terms:
+            - type: expression
+              designation: portrayal service
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-06-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+ara:
+  id: 345
+  definition: واجهة شاملة تستخدم لتصوير أو وصف المعالم
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19117:2012'
+    clause: '4.26'
+    link: 'https://www.iso.org/standard/46226.html'
+  lineage_source: 'ISO 19117:2005'
+  lineage_source_similarity: 1
+  date_accepted: 2005-06-01T00:00:00.000Z
+  review_date: 2009-11-25T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2012-12-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19117:2012'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19117:2005 to ISO 19117:2012.
+    Lineage source added as ISO 19117:2005.
+  release: '1'
+  terms:
+    - type: expression
+      designation: خدمة العرض
+      normative_status: preferred
+  _revisions:
+    current: 465c60
+    tree:
+      465c60:
+        object:
+          id: 345
+          definition: واجهة شاملة تستخدم لتصوير أو وصف المعالم
+          language_code: ara
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19117:2012'
+            clause: '4.26'
+            link: 'https://www.iso.org/standard/46226.html'
+          lineage_source: 'ISO 19117:2005'
+          lineage_source_similarity: 1
+          date_accepted: 2005-06-01T00:00:00.000Z
+          review_date: 2009-11-25T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2012-12-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19117:2012'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19117:2005 to ISO
+            19117:2012. Lineage source added as ISO 19117:2005.
+          release: '1'
+          terms:
+            - type: expression
+              designation: خدمة العرض
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-06-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+zho:
+  id: 345
+  definition: 用于图示表达要素的通用接口。
+  language_code: zho
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19117:2012'
+    clause: '4.26'
+    link: 'https://www.iso.org/standard/46226.html'
+  lineage_source: 'ISO 19117:2005'
+  lineage_source_similarity: 1
+  date_accepted: 2005-06-01T00:00:00.000Z
+  review_date: 2009-11-25T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2012-12-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19117:2012'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19117:2005 to ISO 19117:2012.
+    Lineage source added as ISO 19117:2005.
+  release: '1'
+  terms:
+    - type: expression
+      designation: 图示表达服务
+      normative_status: preferred
+  _revisions:
+    current: 3aa0a5
+    tree:
+      3aa0a5:
+        object:
+          id: 345
+          definition: 用于图示表达要素的通用接口。
+          language_code: zho
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19117:2012'
+            clause: '4.26'
+            link: 'https://www.iso.org/standard/46226.html'
+          lineage_source: 'ISO 19117:2005'
+          lineage_source_similarity: 1
+          date_accepted: 2005-06-01T00:00:00.000Z
+          review_date: 2009-11-25T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2012-12-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19117:2012'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19117:2005 to ISO
+            19117:2012. Lineage source added as ISO 19117:2005.
+          release: '1'
+          terms:
+            - type: expression
+              designation: 图示表达服务
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-06-01T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+fin:
+  id: 345
+  definition: kohteiden esittämiseen käytettävä geneerinen rajapintapalvelu
+  language_code: fin
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19117:2012'
+    clause: '4.26'
+    link: 'https://www.iso.org/standard/46226.html'
+  lineage_source: 'ISO 19117:2005'
+  lineage_source_similarity: 1
+  date_accepted: 2005-06-01T00:00:00.000Z
+  review_date: 2009-11-25T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2012-12-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19117:2012'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19117:2005 to ISO 19117:2012.
+    Lineage source added as ISO 19117:2005.
+  release: '1'
+  terms:
+    - type: expression
+      designation: esitystapapalvelu
+      normative_status: preferred
+  _revisions:
+    current: 34b7ad
+    tree:
+      34b7ad:
+        object:
+          id: 345
+          definition: kohteiden esittämiseen käytettävä geneerinen rajapintapalvelu
+          language_code: fin
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19117:2012'
+            clause: '4.26'
+            link: 'https://www.iso.org/standard/46226.html'
+          lineage_source: 'ISO 19117:2005'
+          lineage_source_similarity: 1
+          date_accepted: 2005-06-01T00:00:00.000Z
+          review_date: 2009-11-25T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2012-12-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19117:2012'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19117:2005 to ISO
+            19117:2012. Lineage source added as ISO 19117:2005.
+          release: '1'
+          terms:
+            - type: expression
+              designation: esitystapapalvelu
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-06-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+fra:
+  id: 345
+  definition: interface générique utilisée pour représenter des entités
+  language_code: fra
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19117:2012'
+    clause: '4.26'
+    link: 'https://www.iso.org/standard/46226.html'
+  lineage_source: 'ISO 19117:2005'
+  lineage_source_similarity: 1
+  date_accepted: 2005-06-01T00:00:00.000Z
+  review_date: 2009-11-25T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2012-12-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19117:2012'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19117:2005 to ISO 19117:2012.
+    Lineage source added as ISO 19117:2005.
+  release: '1'
+  terms:
+    - type: expression
+      designation: service de représentation
+      normative_status: preferred
+  _revisions:
+    current: f121c1
+    tree:
+      f121c1:
+        object:
+          id: 345
+          definition: interface générique utilisée pour représenter des entités
+          language_code: fra
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19117:2012'
+            clause: '4.26'
+            link: 'https://www.iso.org/standard/46226.html'
+          lineage_source: 'ISO 19117:2005'
+          lineage_source_similarity: 1
+          date_accepted: 2005-06-01T00:00:00.000Z
+          review_date: 2009-11-25T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2012-12-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19117:2012'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19117:2005 to ISO
+            19117:2012. Lineage source added as ISO 19117:2005.
+          release: '1'
+          terms:
+            - type: expression
+              designation: service de représentation
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-06-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+deu:
+  id: 345
+  definition: allgemeine Schnittstelle zur Feature-Darstellung
+  language_code: deu
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19117:2012'
+    clause: '4.26'
+    link: 'https://www.iso.org/standard/46226.html'
+  lineage_source: 'ISO 19117:2005'
+  lineage_source_similarity: 1
+  date_accepted: 2005-06-01T00:00:00.000Z
+  review_date: 2009-11-25T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2012-12-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19117:2012'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19117:2005 to ISO 19117:2012.
+    Lineage source added as ISO 19117:2005.
+  release: '1'
+  terms:
+    - type: expression
+      designation: 'Portrayalservice (Syn.: Darstellungsdienst)'
+      normative_status: preferred
+  _revisions:
+    current: 8bbf94
+    tree:
+      8bbf94:
+        object:
+          id: 345
+          definition: allgemeine Schnittstelle zur Feature-Darstellung
+          language_code: deu
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19117:2012'
+            clause: '4.26'
+            link: 'https://www.iso.org/standard/46226.html'
+          lineage_source: 'ISO 19117:2005'
+          lineage_source_similarity: 1
+          date_accepted: 2005-06-01T00:00:00.000Z
+          review_date: 2009-11-25T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2012-12-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19117:2012'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19117:2005 to ISO
+            19117:2012. Lineage source added as ISO 19117:2005.
+          release: '1'
+          terms:
+            - type: expression
+              designation: 'Portrayalservice (Syn.: Darstellungsdienst)'
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-06-01T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+kor:
+  id: 345
+  definition: 피처를 묘화하는데 사용되는 일반적인 인터페이스
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19117:2012'
+    clause: '4.26'
+    link: 'https://www.iso.org/standard/46226.html'
+  lineage_source: 'ISO 19117:2005'
+  lineage_source_similarity: 1
+  date_accepted: 2006-05-01T00:00:00.000Z
+  review_date: 2009-11-25T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2012-12-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19117:2012'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19117:2005 to ISO 19117:2012.
+    Lineage source added as ISO 19117:2005.
+  release: '1'
+  terms:
+    - type: expression
+      designation: 묘화 서비스
+      normative_status: preferred
+  _revisions:
+    current: f3b40c
+    tree:
+      f3b40c:
+        object:
+          id: 345
+          definition: 피처를 묘화하는데 사용되는 일반적인 인터페이스
+          language_code: kor
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19117:2012'
+            clause: '4.26'
+            link: 'https://www.iso.org/standard/46226.html'
+          lineage_source: 'ISO 19117:2005'
+          lineage_source_similarity: 1
+          date_accepted: 2006-05-01T00:00:00.000Z
+          review_date: 2009-11-25T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2012-12-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19117:2012'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19117:2005 to ISO
+            19117:2012. Lineage source added as ISO 19117:2005.
+          release: '1'
+          terms:
+            - type: expression
+              designation: 묘화 서비스
+              normative_status: preferred
+        parents: []
+        timeCreated: 2006-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+pol:
+  id: 345
+  definition: podstawowy interfejs używany do prezentacji obiektów
+  language_code: pol
+  notes: []
+  examples: []
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19117:2012'
+    clause: '4.26'
+    link: 'https://www.iso.org/standard/46226.html'
+  lineage_source: 'ISO 19117:2005'
+  lineage_source_similarity: 1
+  date_accepted: 2005-06-01T00:00:00.000Z
+  review_date: 2009-11-25T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2012-12-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19117:2012'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19117:2005 to ISO 19117:2012.
+    Lineage source added as ISO 19117:2005.
+  release: '1'
+  terms:
+    - type: expression
+      designation: usługa prezentacji
+      normative_status: preferred
+  _revisions:
+    current: 224fa6
+    tree:
+      224fa6:
+        object:
+          id: 345
+          definition: podstawowy interfejs używany do prezentacji obiektów
+          language_code: pol
+          notes: []
+          examples: []
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19117:2012'
+            clause: '4.26'
+            link: 'https://www.iso.org/standard/46226.html'
+          lineage_source: 'ISO 19117:2005'
+          lineage_source_similarity: 1
+          date_accepted: 2005-06-01T00:00:00.000Z
+          review_date: 2009-11-25T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2012-12-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19117:2012'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19117:2005 to ISO
+            19117:2012. Lineage source added as ISO 19117:2005.
+          release: '1'
+          terms:
+            - type: expression
+              designation: usługa prezentacji
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-06-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 345
+  definition: 'базовый интерфейс, используемый для отображения моделей объектов'
+  language_code: rus
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19117:2012'
+    clause: '4.26'
+    link: 'https://www.iso.org/standard/46226.html'
+  lineage_source: 'перевод ИСО 19117:2012'
+  lineage_source_similarity: 1
+  date_accepted: 2005-06-01T00:00:00.000Z
+  review_date: 2009-11-25T00:00:00.000Z
+  review_status: ''
+  review_decision: ''
+  review_decision_date: 2012-12-15T00:00:00.000Z
+  review_decision_event: 'Публикация ИСО19117:2012'
+  review_decision_notes: >-
+    Авторитетная ссылка изменена с ISO 19117:2005 на ISO 19117: 2012. Источник
+    происхождения добавлен как ISO 19117: 2005.
+  release: '1'
+  terms:
+    - type: expression
+      designation: сервис  графического отображения
+      normative_status: preferred
+  _revisions:
+    current: 0a667e
+    tree:
+      0a667e:
+        object:
+          id: 345
+          definition: 'базовый интерфейс, используемый для отображения моделей объектов'
+          language_code: rus
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19117:2012'
+            clause: '4.26'
+            link: 'https://www.iso.org/standard/46226.html'
+          lineage_source: 'перевод ИСО 19117:2012'
+          lineage_source_similarity: 1
+          date_accepted: 2005-06-01T00:00:00.000Z
+          review_date: 2009-11-25T00:00:00.000Z
+          review_status: ''
+          review_decision: ''
+          review_decision_date: 2012-12-15T00:00:00.000Z
+          review_decision_event: 'Публикация ИСО19117:2012'
+          review_decision_notes: >-
+            Авторитетная ссылка изменена с ISO 19117:2005 на ISO 19117: 2012.
+            Источник происхождения добавлен как ISO 19117: 2005.
+          release: '1'
+          terms:
+            - type: expression
+              designation: сервис  графического отображения
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-06-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 345
+  definition: interfaz genérica utilizada para representar objetos geográficos
+  language_code: spa
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19117:2012'
+    clause: '4.26'
+    link: 'https://www.iso.org/standard/46226.html'
+  lineage_source: 'ISO 19117:2005'
+  lineage_source_similarity: 1
+  date_accepted: 2005-06-01T00:00:00.000Z
+  review_date: 2009-11-25T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2012-12-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19117:2012'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19117:2005 to ISO 19117:2012.
+    Lineage source added as ISO 19117:2005.
+  release: '1'
+  terms:
+    - type: expression
+      designation: servicio de representación
+      normative_status: preferred
+  _revisions:
+    current: ef4d8a
+    tree:
+      ef4d8a:
+        object:
+          id: 345
+          definition: interfaz genérica utilizada para representar objetos geográficos
+          language_code: spa
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19117:2012'
+            clause: '4.26'
+            link: 'https://www.iso.org/standard/46226.html'
+          lineage_source: 'ISO 19117:2005'
+          lineage_source_similarity: 1
+          date_accepted: 2005-06-01T00:00:00.000Z
+          review_date: 2009-11-25T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2012-12-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19117:2012'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19117:2005 to ISO
+            19117:2012. Lineage source added as ISO 19117:2005.
+          release: '1'
+          terms:
+            - type: expression
+              designation: servicio de representación
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-06-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+swe:
+  id: 345
+  definition: generic interface used to portray features
+  country_code: swe
+  language_code: swe
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19117:2012'
+    clause: '4.26'
+    link: 'https://www.iso.org/standard/46226.html'
+  lineage_source: 'ISO 19117:2005'
+  lineage_source_similarity: 1
+  date_accepted: 2005-06-01T00:00:00.000Z
+  review_date: 2009-11-25T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2012-12-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19117:2012'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19117:2005 to ISO 19117:2012.
+    Lineage source added as ISO 19117:2005.
+  release: '1'
+  terms:
+    - type: expression
+      designation: visningstjänst
+      normative_status: preferred
+  _revisions:
+    current: 4e0f3d
+    tree:
+      4e0f3d:
+        object:
+          id: 345
+          definition: generic interface used to portray features
+          country_code: swe
+          language_code: swe
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19117:2012'
+            clause: '4.26'
+            link: 'https://www.iso.org/standard/46226.html'
+          lineage_source: 'ISO 19117:2005'
+          lineage_source_similarity: 1
+          date_accepted: 2005-06-01T00:00:00.000Z
+          review_date: 2009-11-25T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2012-12-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19117:2012'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19117:2005 to ISO
+            19117:2012. Lineage source added as ISO 19117:2005.
+          release: '1'
+          terms:
+            - type: expression
+              designation: visningstjänst
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-06-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

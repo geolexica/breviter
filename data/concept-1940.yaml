@@ -1,0 +1,144 @@
+term: lever arm
+termid: 1940
+eng:
+  id: 1940
+  definition: >-
+    relative position vector of one sensor with respect to another in a direct
+    georeferencing system
+  language_code: eng
+  notes:
+    - >-
+      For example, with aerial mapping cameras, there are lever arms between the
+      inertial centre of the Inertial Measurement Unit (IMU) and the phase
+      centre of the Global Navigation Satellite System (GNSS) antenna, each with
+      respect to the camera perspective centre within the lens of the camera.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO/TS 19159-2:2016'
+    clause: '4.18'
+    link: 'https://www.iso.org/standard/64768.html'
+  date_accepted: 2016-04-15T00:00:00.000Z
+  review_date: 2014-08-26T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2016-04-15T00:00:00.000Z
+  review_decision_event: Normal ISO processing
+  review_decision_notes: 'Publication of document ISO/TS 19159-2:2016(E)'
+  release: '4'
+  terms:
+    - type: expression
+      designation: lever arm
+      normative_status: preferred
+  _revisions:
+    current: 51610d
+    tree:
+      51610d:
+        object:
+          id: 1940
+          definition: >-
+            relative position vector of one sensor with respect to another in a
+            direct georeferencing system
+          language_code: eng
+          notes:
+            - >-
+              For example, with aerial mapping cameras, there are lever arms
+              between the inertial centre of the Inertial Measurement Unit (IMU)
+              and the phase centre of the Global Navigation Satellite System
+              (GNSS) antenna, each with respect to the camera perspective centre
+              within the lens of the camera.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO/TS 19159-2:2016'
+            clause: '4.18'
+            link: 'https://www.iso.org/standard/64768.html'
+          date_accepted: 2016-04-15T00:00:00.000Z
+          review_date: 2014-08-26T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2016-04-15T00:00:00.000Z
+          review_decision_event: Normal ISO processing
+          review_decision_notes: 'Publication of document ISO/TS 19159-2:2016(E)'
+          release: '4'
+          terms:
+            - type: expression
+              designation: lever arm
+              normative_status: preferred
+        parents: []
+        timeCreated: 2016-04-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 1940
+  definition: >-
+    vector de posición relativa de un sensor con respecto a otro en un sistema
+    de georreferenciación directa
+  language_code: spa
+  notes:
+    - >-
+      Por ejemplo, con cámaras cartográficas aéreas, hay vectores de
+      desplazamiento entre el centro inercial de la Unidad de Medida Inercial 
+      (IMU) y el centro de fase de la antena del Sistema Global de Navegación
+      por Satélite (GNSS), y cada uno con respecto al centro de perspectiva de
+      la cámara localizado dentro de la lente de la cámara.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO/TS 19159-2:2016'
+    clause: '4.18'
+    link: 'https://www.iso.org/standard/64768.html'
+  date_accepted: 2016-04-15T00:00:00.000Z
+  review_date: 2014-08-26T00:00:00.000Z
+  review_status: final
+  review_decision: ''
+  review_decision_date: 2016-04-15T00:00:00.000Z
+  review_decision_event: Normal ISO processing
+  review_decision_notes: 'Publication of document ISO/TS 19159-2:2016(E)'
+  release: '4'
+  terms:
+    - type: expression
+      designation: vector de desplazamiento
+      normative_status: preferred
+  _revisions:
+    current: 8284a1
+    tree:
+      8284a1:
+        object:
+          id: 1940
+          definition: >-
+            vector de posición relativa de un sensor con respecto a otro en un
+            sistema de georreferenciación directa
+          language_code: spa
+          notes:
+            - >-
+              Por ejemplo, con cámaras cartográficas aéreas, hay vectores de
+              desplazamiento entre el centro inercial de la Unidad de Medida
+              Inercial  (IMU) y el centro de fase de la antena del Sistema
+              Global de Navegación por Satélite (GNSS), y cada uno con respecto
+              al centro de perspectiva de la cámara localizado dentro de la
+              lente de la cámara.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO/TS 19159-2:2016'
+            clause: '4.18'
+            link: 'https://www.iso.org/standard/64768.html'
+          date_accepted: 2016-04-15T00:00:00.000Z
+          review_date: 2014-08-26T00:00:00.000Z
+          review_status: final
+          review_decision: ''
+          review_decision_date: 2016-04-15T00:00:00.000Z
+          review_decision_event: Normal ISO processing
+          review_decision_notes: 'Publication of document ISO/TS 19159-2:2016(E)'
+          release: '4'
+          terms:
+            - type: expression
+              designation: vector de desplazamiento
+              normative_status: preferred
+        parents: []
+        timeCreated: 2016-04-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

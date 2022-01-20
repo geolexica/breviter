@@ -1,0 +1,668 @@
+term: abstract test suite
+termid: 6
+eng:
+  id: 6
+  abbrev: ATS
+  definition: >-
+    abstract test module specifying all the requirements to be satisfied for
+    conformance
+  language_code: eng
+  notes:
+    - Abstract test suites are described in a conformance clause.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19105:2000'
+    link: 'https://www.iso.org/standard/26010.html'
+  date_accepted: 2000-12-15T00:00:00.000Z
+  review_date: 2019-07-05T00:00:00.000Z
+  review_status: pending
+  review_type: retirement
+  release: '1'
+  terms:
+    - type: expression
+      designation: abstract test suite
+      normative_status: preferred
+  _revisions:
+    current: 3768d0
+    tree:
+      3768d0:
+        object:
+          id: 6
+          abbrev: ATS
+          definition: >-
+            abstract test module specifying all the requirements to be satisfied
+            for conformance
+          language_code: eng
+          notes:
+            - Abstract test suites are described in a conformance clause.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19105:2000'
+            link: 'https://www.iso.org/standard/26010.html'
+          date_accepted: 2000-12-15T00:00:00.000Z
+          review_date: 2019-07-05T00:00:00.000Z
+          review_status: pending
+          review_type: retirement
+          release: '1'
+          terms:
+            - type: expression
+              designation: abstract test suite
+              normative_status: preferred
+        parents: []
+        timeCreated: 2000-12-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+ara:
+  id: 6
+  abbrev: م ا ت
+  definition: نموذج اختبار تجريدي يحدد جميع المتطلبات اللازم تحقيقها للتطابق
+  language_code: ara
+  notes:
+    - توصف مجموعات الاختبار التجريدي في فقرة للمطابقة
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19105:2000'
+    link: 'https://www.iso.org/standard/26010.html'
+  date_accepted: 2000-12-15T00:00:00.000Z
+  review_date: 2019-07-05T00:00:00.000Z
+  review_status: pending
+  review_type: retirement
+  release: '1'
+  terms:
+    - type: expression
+      designation: مجموعة اختبار تجريدي
+      normative_status: preferred
+  _revisions:
+    current: eea12a
+    tree:
+      eea12a:
+        object:
+          id: 6
+          abbrev: م ا ت
+          definition: نموذج اختبار تجريدي يحدد جميع المتطلبات اللازم تحقيقها للتطابق
+          language_code: ara
+          notes:
+            - توصف مجموعات الاختبار التجريدي في فقرة للمطابقة
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19105:2000'
+            link: 'https://www.iso.org/standard/26010.html'
+          date_accepted: 2000-12-15T00:00:00.000Z
+          review_date: 2019-07-05T00:00:00.000Z
+          review_status: pending
+          review_type: retirement
+          release: '1'
+          terms:
+            - type: expression
+              designation: مجموعة اختبار تجريدي
+              normative_status: preferred
+        parents: []
+        timeCreated: 2000-12-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+zho:
+  id: 6
+  abbrev: ATS
+  definition: 规定了实现一致性所要满足的全部要求的抽象测试模块。
+  language_code: zho
+  notes:
+    - 抽象测试套件由一致性条款进行描述。
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19105:2000'
+    link: 'https://www.iso.org/standard/26010.html'
+  date_accepted: 2000-12-15T00:00:00.000Z
+  review_date: 2019-07-05T00:00:00.000Z
+  review_status: pending
+  review_type: retirement
+  release: '1'
+  terms:
+    - type: expression
+      designation: 抽象测试套件
+      normative_status: preferred
+  _revisions:
+    current: '459867'
+    tree:
+      '459867':
+        object:
+          id: 6
+          abbrev: ATS
+          definition: 规定了实现一致性所要满足的全部要求的抽象测试模块。
+          language_code: zho
+          notes:
+            - 抽象测试套件由一致性条款进行描述。
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19105:2000'
+            link: 'https://www.iso.org/standard/26010.html'
+          date_accepted: 2000-12-15T00:00:00.000Z
+          review_date: 2019-07-05T00:00:00.000Z
+          review_status: pending
+          review_type: retirement
+          release: '1'
+          terms:
+            - type: expression
+              designation: 抽象测试套件
+              normative_status: preferred
+        parents: []
+        timeCreated: 2000-12-15T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+dan:
+  id: 6
+  abbrev: ATS
+  definition: >-
+    abstrakt testmodul, som specificerer alle krav, der skal opfyldes for, at
+    der er overensstemmelse
+  language_code: dan
+  notes:
+    - Abstrakte testsuiter er beskrevet i en overensstemmelsesklausul.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19105:2000'
+    link: 'https://www.iso.org/standard/26010.html'
+  date_accepted: 2000-12-15T00:00:00.000Z
+  review_date: 2019-07-05T00:00:00.000Z
+  review_status: pending
+  review_type: retirement
+  release: '1'
+  terms:
+    - type: expression
+      designation: abstrakt testsuite
+      normative_status: preferred
+  _revisions:
+    current: 7b8a9b
+    tree:
+      7b8a9b:
+        object:
+          id: 6
+          abbrev: ATS
+          definition: >-
+            abstrakt testmodul, som specificerer alle krav, der skal opfyldes
+            for, at der er overensstemmelse
+          language_code: dan
+          notes:
+            - Abstrakte testsuiter er beskrevet i en overensstemmelsesklausul.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19105:2000'
+            link: 'https://www.iso.org/standard/26010.html'
+          date_accepted: 2000-12-15T00:00:00.000Z
+          review_date: 2019-07-05T00:00:00.000Z
+          review_status: pending
+          review_type: retirement
+          release: '1'
+          terms:
+            - type: expression
+              designation: abstrakt testsuite
+              normative_status: preferred
+        parents: []
+        timeCreated: 2000-12-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+fin:
+  id: 6
+  definition: >-
+    abstrakti testausmoduuli, jossa on määritelty kaikki laatuvaatimustason
+    täyttymiseen edellytettävät vaatimukset
+  language_code: fin
+  notes:
+    - Abstraktit testisarjat on kuvattu vaatimuksenmukaisuuden määrittelyssä.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19105:2000'
+    link: 'https://www.iso.org/standard/26010.html'
+  date_accepted: 2000-12-15T00:00:00.000Z
+  review_date: 2019-07-05T00:00:00.000Z
+  review_status: pending
+  review_type: retirement
+  release: '1'
+  terms:
+    - type: expression
+      designation: abstrakti testisarja
+      normative_status: preferred
+  _revisions:
+    current: def12f
+    tree:
+      def12f:
+        object:
+          id: 6
+          definition: >-
+            abstrakti testausmoduuli, jossa on määritelty kaikki
+            laatuvaatimustason täyttymiseen edellytettävät vaatimukset
+          language_code: fin
+          notes:
+            - >-
+              Abstraktit testisarjat on kuvattu vaatimuksenmukaisuuden
+              määrittelyssä.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19105:2000'
+            link: 'https://www.iso.org/standard/26010.html'
+          date_accepted: 2000-12-15T00:00:00.000Z
+          review_date: 2019-07-05T00:00:00.000Z
+          review_status: pending
+          review_type: retirement
+          release: '1'
+          terms:
+            - type: expression
+              designation: abstrakti testisarja
+              normative_status: preferred
+        parents: []
+        timeCreated: 2000-12-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+fra:
+  id: 6
+  definition: >-
+    module de test abstrait spécifiant toutes les exigences de satisfaction par
+    conformité
+  language_code: fra
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19105:2000'
+    link: 'https://www.iso.org/standard/26010.html'
+  date_accepted: 2000-12-15T00:00:00.000Z
+  review_date: 2019-07-05T00:00:00.000Z
+  review_status: pending
+  review_type: retirement
+  release: '1'
+  terms:
+    - type: expression
+      designation: suite de tests abstraits
+      normative_status: preferred
+  _revisions:
+    current: 7acf88
+    tree:
+      7acf88:
+        object:
+          id: 6
+          definition: >-
+            module de test abstrait spécifiant toutes les exigences de
+            satisfaction par conformité
+          language_code: fra
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19105:2000'
+            link: 'https://www.iso.org/standard/26010.html'
+          date_accepted: 2000-12-15T00:00:00.000Z
+          review_date: 2019-07-05T00:00:00.000Z
+          review_status: pending
+          review_type: retirement
+          release: '1'
+          terms:
+            - type: expression
+              designation: suite de tests abstraits
+              normative_status: preferred
+        parents: []
+        timeCreated: 2000-12-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+deu:
+  id: 6
+  abbrev: ATS
+  language_code: deu
+  notes:
+    - Abstract test suites are described in a conformance clause.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19105:2000'
+    link: 'https://www.iso.org/standard/26010.html'
+  date_accepted: 2000-12-15T00:00:00.000Z
+  review_date: 2019-07-05T00:00:00.000Z
+  review_status: pending
+  review_type: retirement
+  release: '1'
+  terms:
+    - type: expression
+      designation: abstrakte Test-Suite
+      normative_status: preferred
+  _revisions:
+    current: b6af4c
+    tree:
+      b6af4c:
+        object:
+          id: 6
+          abbrev: ATS
+          language_code: deu
+          notes:
+            - Abstract test suites are described in a conformance clause.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19105:2000'
+            link: 'https://www.iso.org/standard/26010.html'
+          date_accepted: 2000-12-15T00:00:00.000Z
+          review_date: 2019-07-05T00:00:00.000Z
+          review_status: pending
+          review_type: retirement
+          release: '1'
+          terms:
+            - type: expression
+              designation: abstrakte Test-Suite
+              normative_status: preferred
+        parents: []
+        timeCreated: 2000-12-15T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+jpn:
+  id: 6
+  abbrev: ATS
+  definition: 満たされなければならないすべての要件を規定する抽象試験モジュール。
+  language_code: jpn
+  notes:
+    - 抽象試験項目群は，適合性の箇条において記述する。
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19105:2000'
+    link: 'https://www.iso.org/standard/26010.html'
+  date_accepted: 2000-12-15T00:00:00.000Z
+  review_date: 2019-07-05T00:00:00.000Z
+  review_status: pending
+  review_type: retirement
+  release: '1'
+  terms:
+    - type: expression
+      designation: 抽象試験項目群，ATS
+      normative_status: preferred
+  _revisions:
+    current: a5545a
+    tree:
+      a5545a:
+        object:
+          id: 6
+          abbrev: ATS
+          definition: 満たされなければならないすべての要件を規定する抽象試験モジュール。
+          language_code: jpn
+          notes:
+            - 抽象試験項目群は，適合性の箇条において記述する。
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19105:2000'
+            link: 'https://www.iso.org/standard/26010.html'
+          date_accepted: 2000-12-15T00:00:00.000Z
+          review_date: 2019-07-05T00:00:00.000Z
+          review_status: pending
+          review_type: retirement
+          release: '1'
+          terms:
+            - type: expression
+              designation: 抽象試験項目群，ATS
+              normative_status: preferred
+        parents: []
+        timeCreated: 2000-12-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+kor:
+  id: 6
+  abbrev: ATS
+  definition: 적합성 시험에 요구되는 모든 사항들을 규정한 추상 시험 모듈
+  language_code: kor
+  notes:
+    - 추상 시험 스위트는 적합성 조항에서 기술되어 있다.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19105:2000'
+    link: 'https://www.iso.org/standard/26010.html'
+  date_accepted: 2000-12-15T00:00:00.000Z
+  review_date: 2019-07-05T00:00:00.000Z
+  review_status: pending
+  review_type: retirement
+  release: '1'
+  terms:
+    - type: expression
+      designation: 추상 시험 스위트
+      normative_status: preferred
+  _revisions:
+    current: fd1818
+    tree:
+      fd1818:
+        object:
+          id: 6
+          abbrev: ATS
+          definition: 적합성 시험에 요구되는 모든 사항들을 규정한 추상 시험 모듈
+          language_code: kor
+          notes:
+            - 추상 시험 스위트는 적합성 조항에서 기술되어 있다.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19105:2000'
+            link: 'https://www.iso.org/standard/26010.html'
+          date_accepted: 2000-12-15T00:00:00.000Z
+          review_date: 2019-07-05T00:00:00.000Z
+          review_status: pending
+          review_type: retirement
+          release: '1'
+          terms:
+            - type: expression
+              designation: 추상 시험 스위트
+              normative_status: preferred
+        parents: []
+        timeCreated: 2000-12-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 6
+  definition: >-
+    тестовый модуль, определяющий все требования, которые должны быть
+    удовлетворены для заключения о соответствии
+  language_code: rus
+  notes:
+    - >-
+      Комплексы абстрактных тестов описываются в разделе «Соответствие»
+      международного стандарта
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19105:2000'
+    link: 'https://www.iso.org/standard/26010.html'
+  date_accepted: 2000-12-15T00:00:00.000Z
+  review_date: 2019-07-05T00:00:00.000Z
+  review_status: pending
+  review_type: retirement
+  release: '1'
+  terms:
+    - type: expression
+      designation: комплекс абстрактных тестов
+      normative_status: preferred
+  _revisions:
+    current: 900bf5
+    tree:
+      900bf5:
+        object:
+          id: 6
+          definition: >-
+            тестовый модуль, определяющий все требования, которые должны быть
+            удовлетворены для заключения о соответствии
+          language_code: rus
+          notes:
+            - >-
+              Комплексы абстрактных тестов описываются в разделе «Соответствие»
+              международного стандарта
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19105:2000'
+            link: 'https://www.iso.org/standard/26010.html'
+          date_accepted: 2000-12-15T00:00:00.000Z
+          review_date: 2019-07-05T00:00:00.000Z
+          review_status: pending
+          review_type: retirement
+          release: '1'
+          terms:
+            - type: expression
+              designation: комплекс абстрактных тестов
+              normative_status: preferred
+        parents: []
+        timeCreated: 2000-12-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 6
+  abbrev: ATS
+  definition: >-
+    módulo de pruebas genéricas que especifica todos los requisitos que deben
+    ser satisfechos para la conformidad
+  language_code: spa
+  notes:
+    - >-
+      Los conjuntos de pruebas genéricas se describen en un capítulo de
+      conformidad.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19105:2000'
+    link: 'https://www.iso.org/standard/26010.html'
+  date_accepted: 2000-12-15T00:00:00.000Z
+  review_date: 2019-07-05T00:00:00.000Z
+  review_status: pending
+  review_type: retirement
+  release: '1'
+  terms:
+    - type: expression
+      designation: conjunto de pruebas abstractas
+      normative_status: preferred
+  _revisions:
+    current: a933dd
+    tree:
+      a933dd:
+        object:
+          id: 6
+          abbrev: ATS
+          definition: >-
+            módulo de pruebas genéricas que especifica todos los requisitos que
+            deben ser satisfechos para la conformidad
+          language_code: spa
+          notes:
+            - >-
+              Los conjuntos de pruebas genéricas se describen en un capítulo de
+              conformidad.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19105:2000'
+            link: 'https://www.iso.org/standard/26010.html'
+          date_accepted: 2000-12-15T00:00:00.000Z
+          review_date: 2019-07-05T00:00:00.000Z
+          review_status: pending
+          review_type: retirement
+          release: '1'
+          terms:
+            - type: expression
+              designation: conjunto de pruebas abstractas
+              normative_status: preferred
+        parents: []
+        timeCreated: 2000-12-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+swe:
+  id: 6
+  abbrev: ATS
+  definition: |-
+    samling abstrakta testfall som tillsammans
+    kan avgöra om överensstämmelse råder med alla uppställda krav
+  country_code: swe
+  language_code: swe
+  notes:
+    - Abstract test suites are described in a conformance clause.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19105:2000'
+    link: 'https://www.iso.org/standard/26010.html'
+  date_accepted: 2000-12-15T00:00:00.000Z
+  review_date: 2019-07-05T00:00:00.000Z
+  review_status: pending
+  review_type: retirement
+  release: '1'
+  terms:
+    - type: expression
+      designation: abstrakt testsvit
+      normative_status: preferred
+  _revisions:
+    current: bca77d
+    tree:
+      bca77d:
+        object:
+          id: 6
+          abbrev: ATS
+          definition: |-
+            samling abstrakta testfall som tillsammans
+            kan avgöra om överensstämmelse råder med alla uppställda krav
+          country_code: swe
+          language_code: swe
+          notes:
+            - Abstract test suites are described in a conformance clause.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19105:2000'
+            link: 'https://www.iso.org/standard/26010.html'
+          date_accepted: 2000-12-15T00:00:00.000Z
+          review_date: 2019-07-05T00:00:00.000Z
+          review_status: pending
+          review_type: retirement
+          release: '1'
+          terms:
+            - type: expression
+              designation: abstrakt testsvit
+              normative_status: preferred
+        parents: []
+        timeCreated: 2000-12-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

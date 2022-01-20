@@ -1,0 +1,520 @@
+term: ground range <SAR>
+termid: 947
+eng:
+  id: 947
+  definition: magnitude of the range vector projected onto the ground
+  language_code: eng
+  notes:
+    - >-
+      Ground range of an image is represented by the distance from the nadir
+      point of the antenna to a point in the scene. Usually measured in the
+      horizontal plane, but can also be measured as true distance along the
+      ground, DEM, geoid or ellipsoid surface.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19130-1:2018'
+    clause: '(E), 3.43'
+    link: 'https://www.iso.org/standard/66847.html'
+  lineage_source: 'ISO/TS 19130:2010(E)'
+  lineage_source_similarity: '1'
+  date_accepted: 2010-06-15T00:00:00.000Z
+  review_date: 2018-09-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2018-09-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19130-1:2018(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO/TS 19130:2010 to ISO
+    19130-1:2018(E), 3.43. Lineage source added as ISO/TS 19130:2010(E)
+  release: '2'
+  terms:
+    - type: expression
+      designation: ground range <SAR>
+      normative_status: preferred
+  _revisions:
+    current: ee00f1
+    tree:
+      ee00f1:
+        object:
+          id: 947
+          definition: magnitude of the range vector projected onto the ground
+          language_code: eng
+          notes:
+            - >-
+              Ground range of an image is represented by the distance from the
+              nadir point of the antenna to a point in the scene. Usually
+              measured in the horizontal plane, but can also be measured as true
+              distance along the ground, DEM, geoid or ellipsoid surface.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19130-1:2018'
+            clause: '(E), 3.43'
+            link: 'https://www.iso.org/standard/66847.html'
+          lineage_source: 'ISO/TS 19130:2010(E)'
+          lineage_source_similarity: '1'
+          date_accepted: 2010-06-15T00:00:00.000Z
+          review_date: 2018-09-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2018-09-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19130-1:2018(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO/TS 19130:2010 to ISO
+            19130-1:2018(E), 3.43. Lineage source added as ISO/TS 19130:2010(E)
+          release: '2'
+          terms:
+            - type: expression
+              designation: ground range <SAR>
+              normative_status: preferred
+        parents: []
+        timeCreated: 2010-06-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+ara:
+  id: 947
+  definition: مقدار متجه المدى المسقط على الأرض
+  language_code: ara
+  notes:
+    - >-
+      المدى الأرضي لصورة ما يمثَّل بالمسافة من نقطة نظير سمت الهوائي إلى نقط في
+      المشهد. يقاس عادة على المستوى الأفقي ولكن يمكن أن يقاس أيضا كمسافة حقيقية
+      على الأرض ، ونماذج رقمية للارتفاعات ، أو الجويد ، أو سطح مجسَّم القطع
+      الناقص.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19130-1:2018'
+    clause: '(E), 3.43'
+    link: 'https://www.iso.org/standard/66847.html'
+  lineage_source: 'ISO/TS 19130:2010(E)'
+  lineage_source_similarity: '1'
+  date_accepted: 2010-06-15T00:00:00.000Z
+  review_date: 2018-09-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2018-09-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19130-1:2018(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO/TS 19130:2010 to ISO
+    19130-1:2018(E), 3.43. Lineage source added as ISO/TS 19130:2010(E)
+  release: '2'
+  terms:
+    - type: expression
+      designation: المدى الأرضي < تقنية رادار الرصد المركب"سار">
+      normative_status: preferred
+  _revisions:
+    current: ef0400
+    tree:
+      ef0400:
+        object:
+          id: 947
+          definition: مقدار متجه المدى المسقط على الأرض
+          language_code: ara
+          notes:
+            - >-
+              المدى الأرضي لصورة ما يمثَّل بالمسافة من نقطة نظير سمت الهوائي إلى
+              نقط في المشهد. يقاس عادة على المستوى الأفقي ولكن يمكن أن يقاس أيضا
+              كمسافة حقيقية على الأرض ، ونماذج رقمية للارتفاعات ، أو الجويد ، أو
+              سطح مجسَّم القطع الناقص.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19130-1:2018'
+            clause: '(E), 3.43'
+            link: 'https://www.iso.org/standard/66847.html'
+          lineage_source: 'ISO/TS 19130:2010(E)'
+          lineage_source_similarity: '1'
+          date_accepted: 2010-06-15T00:00:00.000Z
+          review_date: 2018-09-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2018-09-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19130-1:2018(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO/TS 19130:2010 to ISO
+            19130-1:2018(E), 3.43. Lineage source added as ISO/TS 19130:2010(E)
+          release: '2'
+          terms:
+            - type: expression
+              designation: المدى الأرضي < تقنية رادار الرصد المركب"سار">
+              normative_status: preferred
+        parents: []
+        timeCreated: 2010-06-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+deu:
+  id: 947
+  definition: >-
+    auf die Erdoberfläche projizierte Radarmessstrecke von der Antenne zum
+    Objekt
+  language_code: deu
+  notes:
+    - >-
+      Ground range of an image is represented by the distance from the nadir
+      point of the antenna to a point in the scene. Usually measured in the
+      horizontal plane, but can also be measured as true distance along the
+      ground, DEM, geoid or ellipsoid surface.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19130-1:2018'
+    clause: '(E), 3.43'
+    link: 'https://www.iso.org/standard/66847.html'
+  lineage_source: 'ISO/TS 19130:2010(E)'
+  lineage_source_similarity: '1'
+  date_accepted: 2010-06-15T00:00:00.000Z
+  review_date: 2018-09-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2018-09-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19130-1:2018(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO/TS 19130:2010 to ISO
+    19130-1:2018(E), 3.43. Lineage source added as ISO/TS 19130:2010(E)
+  release: '2'
+  terms:
+    - type: expression
+      designation: Horizontalentfernung
+      normative_status: preferred
+  _revisions:
+    current: f52994
+    tree:
+      f52994:
+        object:
+          id: 947
+          definition: >-
+            auf die Erdoberfläche projizierte Radarmessstrecke von der Antenne
+            zum Objekt
+          language_code: deu
+          notes:
+            - >-
+              Ground range of an image is represented by the distance from the
+              nadir point of the antenna to a point in the scene. Usually
+              measured in the horizontal plane, but can also be measured as true
+              distance along the ground, DEM, geoid or ellipsoid surface.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19130-1:2018'
+            clause: '(E), 3.43'
+            link: 'https://www.iso.org/standard/66847.html'
+          lineage_source: 'ISO/TS 19130:2010(E)'
+          lineage_source_similarity: '1'
+          date_accepted: 2010-06-15T00:00:00.000Z
+          review_date: 2018-09-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2018-09-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19130-1:2018(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO/TS 19130:2010 to ISO
+            19130-1:2018(E), 3.43. Lineage source added as ISO/TS 19130:2010(E)
+          release: '2'
+          terms:
+            - type: expression
+              designation: Horizontalentfernung
+              normative_status: preferred
+        parents: []
+        timeCreated: 2010-06-15T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+kor:
+  id: 947
+  definition: 지상 위에 투영된 범위 벡터의 크기
+  language_code: kor
+  notes:
+    - >-
+      Ground range of an image is represented by the distance from the nadir
+      point of the antenna to a point in the scene. Usually measured in the
+      horizontal plane, but can also be measured as true distance along the
+      ground, DEM, geoid or ellipsoid surface.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19130-1:2018'
+    clause: '(E), 3.43'
+    link: 'https://www.iso.org/standard/66847.html'
+  lineage_source: 'ISO/TS 19130:2010(E)'
+  lineage_source_similarity: '1'
+  date_accepted: 2010-06-15T00:00:00.000Z
+  review_date: 2018-09-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2018-09-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19130-1:2018(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO/TS 19130:2010 to ISO
+    19130-1:2018(E), 3.43. Lineage source added as ISO/TS 19130:2010(E)
+  release: '2'
+  terms:
+    - type: expression
+      designation: 지상거리
+      normative_status: preferred
+  _revisions:
+    current: cb2912
+    tree:
+      cb2912:
+        object:
+          id: 947
+          definition: 지상 위에 투영된 범위 벡터의 크기
+          language_code: kor
+          notes:
+            - >-
+              Ground range of an image is represented by the distance from the
+              nadir point of the antenna to a point in the scene. Usually
+              measured in the horizontal plane, but can also be measured as true
+              distance along the ground, DEM, geoid or ellipsoid surface.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19130-1:2018'
+            clause: '(E), 3.43'
+            link: 'https://www.iso.org/standard/66847.html'
+          lineage_source: 'ISO/TS 19130:2010(E)'
+          lineage_source_similarity: '1'
+          date_accepted: 2010-06-15T00:00:00.000Z
+          review_date: 2018-09-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2018-09-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19130-1:2018(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO/TS 19130:2010 to ISO
+            19130-1:2018(E), 3.43. Lineage source added as ISO/TS 19130:2010(E)
+          release: '2'
+          terms:
+            - type: expression
+              designation: 지상거리
+              normative_status: preferred
+        parents: []
+        timeCreated: 2010-06-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 947
+  definition: проекция вектора дальности на поверхность земли
+  language_code: rus
+  notes:
+    - >-
+      наземный  диапазон  изображения представлен расстоянием от точки Надира
+      антенны до точки сцены. Обычно измеряется в горизонтальной плоскости, но
+      также может быть измерено как истинное расстояние вдоль поверхности Земли,
+      DEM, геоида или эллипсоида
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19130-1:2018'
+    clause: '(E), 3.43'
+    link: 'https://www.iso.org/standard/66847.html'
+  lineage_source: 'ISO/TS 19130:2010(E)'
+  lineage_source_similarity: '1'
+  date_accepted: 2010-06-15T00:00:00.000Z
+  review_date: 2018-09-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2018-09-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19130-1:2018(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO/TS 19130:2010 to ISO
+    19130-1:2018(E), 3.43. Lineage source added as ISO/TS 19130:2010(E)
+  release: '2'
+  terms:
+    - type: expression
+      designation: Наземная дальность <SAR>
+      normative_status: preferred
+  _revisions:
+    current: 8d1131
+    tree:
+      8d1131:
+        object:
+          id: 947
+          definition: проекция вектора дальности на поверхность земли
+          language_code: rus
+          notes:
+            - >-
+              наземный  диапазон  изображения представлен расстоянием от точки
+              Надира антенны до точки сцены. Обычно измеряется в горизонтальной
+              плоскости, но также может быть измерено как истинное расстояние
+              вдоль поверхности Земли, DEM, геоида или эллипсоида
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19130-1:2018'
+            clause: '(E), 3.43'
+            link: 'https://www.iso.org/standard/66847.html'
+          lineage_source: 'ISO/TS 19130:2010(E)'
+          lineage_source_similarity: '1'
+          date_accepted: 2010-06-15T00:00:00.000Z
+          review_date: 2018-09-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2018-09-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19130-1:2018(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO/TS 19130:2010 to ISO
+            19130-1:2018(E), 3.43. Lineage source added as ISO/TS 19130:2010(E)
+          release: '2'
+          terms:
+            - type: expression
+              designation: Наземная дальность <SAR>
+              normative_status: preferred
+        parents: []
+        timeCreated: 2010-06-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 947
+  definition: magnitud del vector alcance proyectado en el terreno
+  language_code: spa
+  notes:
+    - >-
+      El rango terrestre de una imagen se representa mediante la distancia entre
+      el punto nadiral de la antena y un punto de la escena. Normalmente se mide
+      en el plano horizontal, pero también se puede medir como distancia
+      verdadera sobre el terreno, MDE, geoide o superficie elipsoidal.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19130-1:2018'
+    clause: '(E), 3.43'
+    link: 'https://www.iso.org/standard/66847.html'
+  lineage_source: 'ISO/TS 19130:2010(E)'
+  lineage_source_similarity: '1'
+  date_accepted: 2010-06-15T00:00:00.000Z
+  review_date: 2018-09-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2018-09-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19130-1:2018(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO/TS 19130:2010 to ISO
+    19130-1:2018(E), 3.43. Lineage source added as ISO/TS 19130:2010(E)
+  release: '2'
+  terms:
+    - type: expression
+      designation: alcance terrestre (ground range) <SAR>
+      normative_status: preferred
+  _revisions:
+    current: f7f409
+    tree:
+      f7f409:
+        object:
+          id: 947
+          definition: magnitud del vector alcance proyectado en el terreno
+          language_code: spa
+          notes:
+            - >-
+              El rango terrestre de una imagen se representa mediante la
+              distancia entre el punto nadiral de la antena y un punto de la
+              escena. Normalmente se mide en el plano horizontal, pero también
+              se puede medir como distancia verdadera sobre el terreno, MDE,
+              geoide o superficie elipsoidal.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19130-1:2018'
+            clause: '(E), 3.43'
+            link: 'https://www.iso.org/standard/66847.html'
+          lineage_source: 'ISO/TS 19130:2010(E)'
+          lineage_source_similarity: '1'
+          date_accepted: 2010-06-15T00:00:00.000Z
+          review_date: 2018-09-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2018-09-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19130-1:2018(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO/TS 19130:2010 to ISO
+            19130-1:2018(E), 3.43. Lineage source added as ISO/TS 19130:2010(E)
+          release: '2'
+          terms:
+            - type: expression
+              designation: alcance terrestre (ground range) <SAR>
+              normative_status: preferred
+        parents: []
+        timeCreated: 2010-06-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+swe:
+  id: 947
+  definition: längden av mätvektorns projektion på marken
+  country_code: swe
+  language_code: swe
+  notes:
+    - >-
+      Ground range of an image is represented by the distance from the nadir
+      point of the antenna to a point in the scene. Usually measured in the
+      horizontal plane, but can also be measured as true distance along the
+      ground, DEM, geoid or ellipsoid surface.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19130-1:2018'
+    clause: '(E), 3.43'
+    link: 'https://www.iso.org/standard/66847.html'
+  lineage_source: 'ISO/TS 19130:2010(E)'
+  lineage_source_similarity: '1'
+  date_accepted: 2010-06-15T00:00:00.000Z
+  review_date: 2018-09-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2018-09-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19130-1:2018(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO/TS 19130:2010 to ISO
+    19130-1:2018(E), 3.43. Lineage source added as ISO/TS 19130:2010(E)
+  release: '2'
+  terms:
+    - type: expression
+      designation: markavstånd
+      normative_status: preferred
+  _revisions:
+    current: 17cb65
+    tree:
+      17cb65:
+        object:
+          id: 947
+          definition: längden av mätvektorns projektion på marken
+          country_code: swe
+          language_code: swe
+          notes:
+            - >-
+              Ground range of an image is represented by the distance from the
+              nadir point of the antenna to a point in the scene. Usually
+              measured in the horizontal plane, but can also be measured as true
+              distance along the ground, DEM, geoid or ellipsoid surface.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19130-1:2018'
+            clause: '(E), 3.43'
+            link: 'https://www.iso.org/standard/66847.html'
+          lineage_source: 'ISO/TS 19130:2010(E)'
+          lineage_source_similarity: '1'
+          date_accepted: 2010-06-15T00:00:00.000Z
+          review_date: 2018-09-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2018-09-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19130-1:2018(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO/TS 19130:2010 to ISO
+            19130-1:2018(E), 3.43. Lineage source added as ISO/TS 19130:2010(E)
+          release: '2'
+          terms:
+            - type: expression
+              designation: markavstånd
+              normative_status: preferred
+        parents: []
+        timeCreated: 2010-06-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

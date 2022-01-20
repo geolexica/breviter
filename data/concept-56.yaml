@@ -1,0 +1,1006 @@
+term: composite solid
+termid: 56
+eng:
+  id: 56
+  definition: connected set of solids adjoining one another along shared boundary surfaces
+  language_code: eng
+  notes:
+    - >-
+      A composite solid, as a set of direct positions, has all the properties of
+      a solid.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19136-1:2020'
+    clause: '(E), 3.1.10'
+    link: 'https://www.iso.org/standard/75676.html'
+  lineage_source: 'ISO 19107:2003'
+  lineage_source_similarity: 1
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2018-06-08T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2020-01-09T00:00:00.000Z
+  review_decision_event: 'Supersession of ISO 19107:2003 and publication of ISO 19136-1:2020'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19107:2003 to ISO 19136-1:2020(E),
+    3.1.10. Lineage source added as ISO 19107:2003
+  release: '1'
+  terms:
+    - type: expression
+      designation: composite solid
+      normative_status: preferred
+  _revisions:
+    current: 03e064
+    tree:
+      03e064:
+        object:
+          id: 56
+          definition: >-
+            connected set of solids adjoining one another along shared boundary
+            surfaces
+          language_code: eng
+          notes:
+            - >-
+              A composite solid, as a set of direct positions, has all the
+              properties of a solid.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19136-1:2020'
+            clause: '(E), 3.1.10'
+            link: 'https://www.iso.org/standard/75676.html'
+          lineage_source: 'ISO 19107:2003'
+          lineage_source_similarity: 1
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2018-06-08T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2020-01-09T00:00:00.000Z
+          review_decision_event: 'Supersession of ISO 19107:2003 and publication of ISO 19136-1:2020'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19107:2003 to ISO
+            19136-1:2020(E), 3.1.10. Lineage source added as ISO 19107:2003
+          release: '1'
+          terms:
+            - type: expression
+              designation: composite solid
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+ara:
+  id: 56
+  definition: مجموعة مجسمات متصلة ومجاورة بعضها ببعض على طول أسطح الحدود المشتركه
+  language_code: ara
+  notes:
+    - >-
+      المجسم المركب ، باعتباره مجموعة مواقع مباشرة ، تتوفر فيه جميع خصائص
+      المجسم.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19136-1:2020'
+    clause: '(E), 3.1.10'
+    link: 'https://www.iso.org/standard/75676.html'
+  lineage_source: 'ISO 19107:2003'
+  lineage_source_similarity: 1
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2018-06-08T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2020-01-09T00:00:00.000Z
+  review_decision_event: 'Supersession of ISO 19107:2003 and publication of ISO 19136-1:2020'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19107:2003 to ISO 19136-1:2020(E),
+    3.1.10. Lineage source added as ISO 19107:2003
+  release: '1'
+  terms:
+    - type: expression
+      designation: مجسم مركب
+      normative_status: preferred
+  _revisions:
+    current: 73b36c
+    tree:
+      73b36c:
+        object:
+          id: 56
+          definition: مجموعة مجسمات متصلة ومجاورة بعضها ببعض على طول أسطح الحدود المشتركه
+          language_code: ara
+          notes:
+            - >-
+              المجسم المركب ، باعتباره مجموعة مواقع مباشرة ، تتوفر فيه جميع
+              خصائص المجسم.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19136-1:2020'
+            clause: '(E), 3.1.10'
+            link: 'https://www.iso.org/standard/75676.html'
+          lineage_source: 'ISO 19107:2003'
+          lineage_source_similarity: 1
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2018-06-08T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2020-01-09T00:00:00.000Z
+          review_decision_event: 'Supersession of ISO 19107:2003 and publication of ISO 19136-1:2020'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19107:2003 to ISO
+            19136-1:2020(E), 3.1.10. Lineage source added as ISO 19107:2003
+          release: '1'
+          terms:
+            - type: expression
+              designation: مجسم مركب
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+zho:
+  id: 56
+  definition: 沿着共享边界曲面相邻且相连的体的集合。
+  language_code: zho
+  notes:
+    - 组合体作为直接位置的集合，具有体的所有特征。
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19136-1:2020'
+    clause: '(E), 3.1.10'
+    link: 'https://www.iso.org/standard/75676.html'
+  lineage_source: 'ISO 19107:2003'
+  lineage_source_similarity: 1
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2018-06-08T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2020-01-09T00:00:00.000Z
+  review_decision_event: 'Supersession of ISO 19107:2003 and publication of ISO 19136-1:2020'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19107:2003 to ISO 19136-1:2020(E),
+    3.1.10. Lineage source added as ISO 19107:2003
+  release: '1'
+  terms:
+    - type: expression
+      designation: 组合体
+      normative_status: preferred
+  _revisions:
+    current: 6ab3d1
+    tree:
+      6ab3d1:
+        object:
+          id: 56
+          definition: 沿着共享边界曲面相邻且相连的体的集合。
+          language_code: zho
+          notes:
+            - 组合体作为直接位置的集合，具有体的所有特征。
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19136-1:2020'
+            clause: '(E), 3.1.10'
+            link: 'https://www.iso.org/standard/75676.html'
+          lineage_source: 'ISO 19107:2003'
+          lineage_source_similarity: 1
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2018-06-08T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2020-01-09T00:00:00.000Z
+          review_decision_event: 'Supersession of ISO 19107:2003 and publication of ISO 19136-1:2020'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19107:2003 to ISO
+            19136-1:2020(E), 3.1.10. Lineage source added as ISO 19107:2003
+          release: '1'
+          terms:
+            - type: expression
+              designation: 组合体
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+dan:
+  id: 56
+  definition: >-
+    samlet sæt af legemer, der er forbundet med hinanden langs fælles
+    grænseflader
+  language_code: dan
+  notes:
+    - >-
+      Et sammensat legeme er i realiteten et antal direkte positioner og har de
+      samme egenskaber som et legeme.
+  examples: []
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19136-1:2020'
+    clause: '(E), 3.1.10'
+    link: 'https://www.iso.org/standard/75676.html'
+  lineage_source: 'ISO 19107:2003'
+  lineage_source_similarity: 1
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2018-06-08T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2020-01-09T00:00:00.000Z
+  review_decision_event: 'Supersession of ISO 19107:2003 and publication of ISO 19136-1:2020'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19107:2003 to ISO 19136-1:2020(E),
+    3.1.10. Lineage source added as ISO 19107:2003
+  release: '1'
+  terms:
+    - type: expression
+      designation: sammensat legeme
+      normative_status: null
+  _revisions:
+    current: e5e5b9
+    tree:
+      e5e5b9:
+        object:
+          id: 56
+          definition: >-
+            samlet sæt af legemer, der er forbundet med hinanden langs fælles
+            grænseflader
+          language_code: dan
+          notes:
+            - >-
+              Et sammensat legeme er i realiteten et antal direkte positioner og
+              har de samme egenskaber som et legeme.
+          examples: []
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19136-1:2020'
+            clause: '(E), 3.1.10'
+            link: 'https://www.iso.org/standard/75676.html'
+          lineage_source: 'ISO 19107:2003'
+          lineage_source_similarity: 1
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2018-06-08T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2020-01-09T00:00:00.000Z
+          review_decision_event: 'Supersession of ISO 19107:2003 and publication of ISO 19136-1:2020'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19107:2003 to ISO
+            19136-1:2020(E), 3.1.10. Lineage source added as ISO 19107:2003
+          release: '1'
+          terms:
+            - type: expression
+              designation: sammensat legeme
+              normative_status: null
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+fin:
+  id: 56
+  definition: 'komposiitti, joka koostuu toisissaan kiinni olevista kappaleista'
+  language_code: fin
+  notes:
+    - Komposiittikappaleella on kaikki kappaleen ominaisuudet.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19136-1:2020'
+    clause: '(E), 3.1.10'
+    link: 'https://www.iso.org/standard/75676.html'
+  lineage_source: 'ISO 19107:2003'
+  lineage_source_similarity: 1
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2018-06-08T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2020-01-09T00:00:00.000Z
+  review_decision_event: 'Supersession of ISO 19107:2003 and publication of ISO 19136-1:2020'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19107:2003 to ISO 19136-1:2020(E),
+    3.1.10. Lineage source added as ISO 19107:2003
+  release: '1'
+  terms:
+    - type: expression
+      designation: komposiittikappale
+      normative_status: preferred
+  _revisions:
+    current: fede4f
+    tree:
+      fede4f:
+        object:
+          id: 56
+          definition: 'komposiitti, joka koostuu toisissaan kiinni olevista kappaleista'
+          language_code: fin
+          notes:
+            - Komposiittikappaleella on kaikki kappaleen ominaisuudet.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19136-1:2020'
+            clause: '(E), 3.1.10'
+            link: 'https://www.iso.org/standard/75676.html'
+          lineage_source: 'ISO 19107:2003'
+          lineage_source_similarity: 1
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2018-06-08T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2020-01-09T00:00:00.000Z
+          review_decision_event: 'Supersession of ISO 19107:2003 and publication of ISO 19136-1:2020'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19107:2003 to ISO
+            19136-1:2020(E), 3.1.10. Lineage source added as ISO 19107:2003
+          release: '1'
+          terms:
+            - type: expression
+              designation: komposiittikappale
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+fra:
+  id: 56
+  definition: >-
+    ensemble de solides connectés attenants l'un à l'autre le long d'une
+    frontière surfacique partagée
+  language_code: fra
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19136-1:2020'
+    clause: '(E), 3.1.10'
+    link: 'https://www.iso.org/standard/75676.html'
+  lineage_source: 'ISO 19107:2003'
+  lineage_source_similarity: 1
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2018-06-08T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2020-01-09T00:00:00.000Z
+  review_decision_event: 'Supersession of ISO 19107:2003 and publication of ISO 19136-1:2020'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19107:2003 to ISO 19136-1:2020(E),
+    3.1.10. Lineage source added as ISO 19107:2003
+  release: '1'
+  terms:
+    - type: expression
+      designation: solide composite
+      normative_status: preferred
+  _revisions:
+    current: 0c909d
+    tree:
+      0c909d:
+        object:
+          id: 56
+          definition: >-
+            ensemble de solides connectés attenants l'un à l'autre le long d'une
+            frontière surfacique partagée
+          language_code: fra
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19136-1:2020'
+            clause: '(E), 3.1.10'
+            link: 'https://www.iso.org/standard/75676.html'
+          lineage_source: 'ISO 19107:2003'
+          lineage_source_similarity: 1
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2018-06-08T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2020-01-09T00:00:00.000Z
+          review_decision_event: 'Supersession of ISO 19107:2003 and publication of ISO 19136-1:2020'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19107:2003 to ISO
+            19136-1:2020(E), 3.1.10. Lineage source added as ISO 19107:2003
+          release: '1'
+          terms:
+            - type: expression
+              designation: solide composite
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+deu:
+  id: 56
+  definition: >-
+    verbundene Menge von Körpern, die gegenseitig entlang von gemeinsamen
+    Grenzflächen verbunden sind
+  language_code: deu
+  notes:
+    - >-
+      A composite solid, as a set of direct positions, has all the properties of
+      a solid.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19136-1:2020'
+    clause: '(E), 3.1.10'
+    link: 'https://www.iso.org/standard/75676.html'
+  lineage_source: 'ISO 19107:2003'
+  lineage_source_similarity: 1
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2018-06-08T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2020-01-09T00:00:00.000Z
+  review_decision_event: 'Supersession of ISO 19107:2003 and publication of ISO 19136-1:2020'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19107:2003 to ISO 19136-1:2020(E),
+    3.1.10. Lineage source added as ISO 19107:2003
+  release: '1'
+  terms:
+    - type: expression
+      designation: zusammenhängender Körper
+      normative_status: preferred
+  _revisions:
+    current: f66b34
+    tree:
+      f66b34:
+        object:
+          id: 56
+          definition: >-
+            verbundene Menge von Körpern, die gegenseitig entlang von
+            gemeinsamen Grenzflächen verbunden sind
+          language_code: deu
+          notes:
+            - >-
+              A composite solid, as a set of direct positions, has all the
+              properties of a solid.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19136-1:2020'
+            clause: '(E), 3.1.10'
+            link: 'https://www.iso.org/standard/75676.html'
+          lineage_source: 'ISO 19107:2003'
+          lineage_source_similarity: 1
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2018-06-08T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2020-01-09T00:00:00.000Z
+          review_decision_event: 'Supersession of ISO 19107:2003 and publication of ISO 19136-1:2020'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19107:2003 to ISO
+            19136-1:2020(E), 3.1.10. Lineage source added as ISO 19107:2003
+          release: '1'
+          terms:
+            - type: expression
+              designation: zusammenhängender Körper
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+jpn:
+  id: 56
+  definition: 共有された境界曲面に沿って互いに隣接する立体の連結した集合。
+  language_code: jpn
+  notes:
+    - 合成立体は，直接位置の集合として，立体すべての性質をもつ。
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19136-1:2020'
+    clause: '(E), 3.1.10'
+    link: 'https://www.iso.org/standard/75676.html'
+  lineage_source: 'ISO 19107:2003'
+  lineage_source_similarity: 1
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2018-06-08T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2020-01-09T00:00:00.000Z
+  review_decision_event: 'Supersession of ISO 19107:2003 and publication of ISO 19136-1:2020'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19107:2003 to ISO 19136-1:2020(E),
+    3.1.10. Lineage source added as ISO 19107:2003
+  release: '1'
+  terms:
+    - type: expression
+      designation: 合成立体
+      normative_status: preferred
+  _revisions:
+    current: 3af091
+    tree:
+      3af091:
+        object:
+          id: 56
+          definition: 共有された境界曲面に沿って互いに隣接する立体の連結した集合。
+          language_code: jpn
+          notes:
+            - 合成立体は，直接位置の集合として，立体すべての性質をもつ。
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19136-1:2020'
+            clause: '(E), 3.1.10'
+            link: 'https://www.iso.org/standard/75676.html'
+          lineage_source: 'ISO 19107:2003'
+          lineage_source_similarity: 1
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2018-06-08T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2020-01-09T00:00:00.000Z
+          review_decision_event: 'Supersession of ISO 19107:2003 and publication of ISO 19136-1:2020'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19107:2003 to ISO
+            19136-1:2020(E), 3.1.10. Lineage source added as ISO 19107:2003
+          release: '1'
+          terms:
+            - type: expression
+              designation: 合成立体
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+kor:
+  id: 56
+  definition: 공유 경계 표면을 따라 서로 연결된 입방체의 집합
+  language_code: kor
+  notes:
+    - 직접 위치의 집합으로서의 합성 입방체는 입방체의 모든 특성을 갖는다.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19136-1:2020'
+    clause: '(E), 3.1.10'
+    link: 'https://www.iso.org/standard/75676.html'
+  lineage_source: 'ISO 19107:2003'
+  lineage_source_similarity: 1
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2018-06-08T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2020-01-09T00:00:00.000Z
+  review_decision_event: 'Supersession of ISO 19107:2003 and publication of ISO 19136-1:2020'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19107:2003 to ISO 19136-1:2020(E),
+    3.1.10. Lineage source added as ISO 19107:2003
+  release: '1'
+  terms:
+    - type: expression
+      designation: 합성 입방체
+      normative_status: preferred
+  _revisions:
+    current: 797f76
+    tree:
+      797f76:
+        object:
+          id: 56
+          definition: 공유 경계 표면을 따라 서로 연결된 입방체의 집합
+          language_code: kor
+          notes:
+            - 직접 위치의 집합으로서의 합성 입방체는 입방체의 모든 특성을 갖는다.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19136-1:2020'
+            clause: '(E), 3.1.10'
+            link: 'https://www.iso.org/standard/75676.html'
+          lineage_source: 'ISO 19107:2003'
+          lineage_source_similarity: 1
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2018-06-08T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2020-01-09T00:00:00.000Z
+          review_decision_event: 'Supersession of ISO 19107:2003 and publication of ISO 19136-1:2020'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19107:2003 to ISO
+            19136-1:2020(E), 3.1.10. Lineage source added as ISO 19107:2003
+          release: '1'
+          terms:
+            - type: expression
+              designation: 합성 입방체
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+msa:
+  id: 56
+  definition: >-
+    set terhubung pepejal bersebelahan di sepanjang permukaan sempadan yang
+    dikongsi
+  language_code: msa
+  notes:
+    - >-
+      A composite solid, as a set of direct positions, has all the properties of
+      a solid.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19136-1:2020'
+    clause: '(E), 3.1.10'
+    link: 'https://www.iso.org/standard/75676.html'
+  lineage_source: 'ISO 19107:2003'
+  lineage_source_similarity: 1
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2018-06-08T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2020-01-09T00:00:00.000Z
+  review_decision_event: 'Supersession of ISO 19107:2003 and publication of ISO 19136-1:2020'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19107:2003 to ISO 19136-1:2020(E),
+    3.1.10. Lineage source added as ISO 19107:2003
+  release: '1'
+  terms:
+    - type: expression
+      designation: pepejal komposit
+      normative_status: preferred
+  _revisions:
+    current: da6d7f
+    tree:
+      da6d7f:
+        object:
+          id: 56
+          definition: >-
+            set terhubung pepejal bersebelahan di sepanjang permukaan sempadan
+            yang dikongsi
+          language_code: msa
+          notes:
+            - >-
+              A composite solid, as a set of direct positions, has all the
+              properties of a solid.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19136-1:2020'
+            clause: '(E), 3.1.10'
+            link: 'https://www.iso.org/standard/75676.html'
+          lineage_source: 'ISO 19107:2003'
+          lineage_source_similarity: 1
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2018-06-08T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2020-01-09T00:00:00.000Z
+          review_decision_event: 'Supersession of ISO 19107:2003 and publication of ISO 19136-1:2020'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19107:2003 to ISO
+            19136-1:2020(E), 3.1.10. Lineage source added as ISO 19107:2003
+          release: '1'
+          terms:
+            - type: expression
+              designation: pepejal komposit
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+pol:
+  id: 56
+  definition: >-
+    spójny zbiór brył dołączonych, przylegających jedna do drugiej poprzez
+    współdzielone powierzchnie graniczne
+  language_code: pol
+  notes:
+    - >-
+      Bryła kompozytowa, jako zbiór położeń bezpośrednich, ma wszystkie
+      właściwości bryły.
+  examples: []
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19136-1:2020'
+    clause: '(E), 3.1.10'
+    link: 'https://www.iso.org/standard/75676.html'
+  lineage_source: 'ISO 19107:2003'
+  lineage_source_similarity: 1
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2018-06-08T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2020-01-09T00:00:00.000Z
+  review_decision_event: 'Supersession of ISO 19107:2003 and publication of ISO 19136-1:2020'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19107:2003 to ISO 19136-1:2020(E),
+    3.1.10. Lineage source added as ISO 19107:2003
+  release: '1'
+  terms:
+    - type: expression
+      designation: bryła kompozytowa
+      normative_status: preferred
+  _revisions:
+    current: 0b4218
+    tree:
+      0b4218:
+        object:
+          id: 56
+          definition: >-
+            spójny zbiór brył dołączonych, przylegających jedna do drugiej
+            poprzez współdzielone powierzchnie graniczne
+          language_code: pol
+          notes:
+            - >-
+              Bryła kompozytowa, jako zbiór położeń bezpośrednich, ma wszystkie
+              właściwości bryły.
+          examples: []
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19136-1:2020'
+            clause: '(E), 3.1.10'
+            link: 'https://www.iso.org/standard/75676.html'
+          lineage_source: 'ISO 19107:2003'
+          lineage_source_similarity: 1
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2018-06-08T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2020-01-09T00:00:00.000Z
+          review_decision_event: 'Supersession of ISO 19107:2003 and publication of ISO 19136-1:2020'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19107:2003 to ISO
+            19136-1:2020(E), 3.1.10. Lineage source added as ISO 19107:2003
+          release: '1'
+          terms:
+            - type: expression
+              designation: bryła kompozytowa
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 56
+  definition: >-
+    связное  множество тел, примыкающих друг к другу по общим ограничивающим
+    поверхностям
+  language_code: rus
+  notes:
+    - >-
+      Составное тело, как множество точек, имеет те же свойства, которые присущи
+      телу
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19136-1:2020'
+    clause: '(E), 3.1.10'
+    link: 'https://www.iso.org/standard/75676.html'
+  lineage_source: 'ISO 19107:2003'
+  lineage_source_similarity: 1
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2018-06-08T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2020-01-09T00:00:00.000Z
+  review_decision_event: 'Supersession of ISO 19107:2003 and publication of ISO 19136-1:2020'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19107:2003 to ISO 19136-1:2020(E),
+    3.1.10. Lineage source added as ISO 19107:2003
+  release: '1'
+  terms:
+    - type: expression
+      designation: составное тело
+      normative_status: preferred
+  _revisions:
+    current: 3b32fc
+    tree:
+      3b32fc:
+        object:
+          id: 56
+          definition: >-
+            связное  множество тел, примыкающих друг к другу по общим
+            ограничивающим поверхностям
+          language_code: rus
+          notes:
+            - >-
+              Составное тело, как множество точек, имеет те же свойства, которые
+              присущи телу
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19136-1:2020'
+            clause: '(E), 3.1.10'
+            link: 'https://www.iso.org/standard/75676.html'
+          lineage_source: 'ISO 19107:2003'
+          lineage_source_similarity: 1
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2018-06-08T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2020-01-09T00:00:00.000Z
+          review_decision_event: 'Supersession of ISO 19107:2003 and publication of ISO 19136-1:2020'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19107:2003 to ISO
+            19136-1:2020(E), 3.1.10. Lineage source added as ISO 19107:2003
+          release: '1'
+          terms:
+            - type: expression
+              designation: составное тело
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 56
+  definition: >-
+    conjunto conectado de sólidos que son colindantes unos con otros a través de
+    las superficies de frontera que comparten
+  language_code: spa
+  notes:
+    - >-
+      Un sólido compuesto, como conjunto de posiciones directas, tiene todas las
+      propiedades de un sólido.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19136-1:2020'
+    clause: '(E), 3.1.10'
+    link: 'https://www.iso.org/standard/75676.html'
+  lineage_source: 'ISO 19107:2003'
+  lineage_source_similarity: 1
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2018-06-08T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2020-01-09T00:00:00.000Z
+  review_decision_event: 'Supersession of ISO 19107:2003 and publication of ISO 19136-1:2020'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19107:2003 to ISO 19136-1:2020(E),
+    3.1.10. Lineage source added as ISO 19107:2003
+  release: '1'
+  terms:
+    - type: expression
+      designation: sólido compuesto
+      normative_status: preferred
+  _revisions:
+    current: 844d94
+    tree:
+      844d94:
+        object:
+          id: 56
+          definition: >-
+            conjunto conectado de sólidos que son colindantes unos con otros a
+            través de las superficies de frontera que comparten
+          language_code: spa
+          notes:
+            - >-
+              Un sólido compuesto, como conjunto de posiciones directas, tiene
+              todas las propiedades de un sólido.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19136-1:2020'
+            clause: '(E), 3.1.10'
+            link: 'https://www.iso.org/standard/75676.html'
+          lineage_source: 'ISO 19107:2003'
+          lineage_source_similarity: 1
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2018-06-08T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2020-01-09T00:00:00.000Z
+          review_decision_event: 'Supersession of ISO 19107:2003 and publication of ISO 19136-1:2020'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19107:2003 to ISO
+            19136-1:2020(E), 3.1.10. Lineage source added as ISO 19107:2003
+          release: '1'
+          terms:
+            - type: expression
+              designation: sólido compuesto
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+swe:
+  id: 56
+  definition: >-
+    samling kroppar där varje kropp delar gränsyta med minst en av de övriga
+    kropparna
+  country_code: swe
+  language_code: swe
+  notes:
+    - >-
+      A composite solid, as a set of direct positions, has all the properties of
+      a solid.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19136-1:2020'
+    clause: '(E), 3.1.10'
+    link: 'https://www.iso.org/standard/75676.html'
+  lineage_source: 'ISO 19107:2003'
+  lineage_source_similarity: 1
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2018-06-08T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2020-01-09T00:00:00.000Z
+  review_decision_event: 'Supersession of ISO 19107:2003 and publication of ISO 19136-1:2020'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19107:2003 to ISO 19136-1:2020(E),
+    3.1.10. Lineage source added as ISO 19107:2003
+  release: '1'
+  terms:
+    - type: expression
+      designation: sammansatt kropp
+      normative_status: preferred
+  _revisions:
+    current: a27451
+    tree:
+      a27451:
+        object:
+          id: 56
+          definition: >-
+            samling kroppar där varje kropp delar gränsyta med minst en av de
+            övriga kropparna
+          country_code: swe
+          language_code: swe
+          notes:
+            - >-
+              A composite solid, as a set of direct positions, has all the
+              properties of a solid.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19136-1:2020'
+            clause: '(E), 3.1.10'
+            link: 'https://www.iso.org/standard/75676.html'
+          lineage_source: 'ISO 19107:2003'
+          lineage_source_similarity: 1
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2018-06-08T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2020-01-09T00:00:00.000Z
+          review_decision_event: 'Supersession of ISO 19107:2003 and publication of ISO 19136-1:2020'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19107:2003 to ISO
+            19136-1:2020(E), 3.1.10. Lineage source added as ISO 19107:2003
+          release: '1'
+          terms:
+            - type: expression
+              designation: sammansatt kropp
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

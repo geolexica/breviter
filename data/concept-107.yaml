@@ -1,0 +1,717 @@
+term: data interchange
+termid: 107
+eng:
+  id: 107
+  definition: 'delivery, receipt and interpretation of data'
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19118:2011'
+    clause: '4.9'
+    link: 'https://www.iso.org/standard/44212.html'
+  lineage_source: 'ISO 19118:2005'
+  lineage_source_similarity: 1
+  date_accepted: 2005-07-15T00:00:00.000Z
+  review_date: 2007-01-23T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2011-10-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19118:2011'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19118:2005 to ISO 19118:2011.
+    Lineage source added as ISO 19118:2005.
+  release: '1'
+  terms:
+    - type: expression
+      designation: data interchange
+      normative_status: preferred
+  _revisions:
+    current: 9f15bd
+    tree:
+      9f15bd:
+        object:
+          id: 107
+          definition: 'delivery, receipt and interpretation of data'
+          language_code: eng
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19118:2011'
+            clause: '4.9'
+            link: 'https://www.iso.org/standard/44212.html'
+          lineage_source: 'ISO 19118:2005'
+          lineage_source_similarity: 1
+          date_accepted: 2005-07-15T00:00:00.000Z
+          review_date: 2007-01-23T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2011-10-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19118:2011'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19118:2005 to ISO
+            19118:2011. Lineage source added as ISO 19118:2005.
+          release: '1'
+          terms:
+            - type: expression
+              designation: data interchange
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-07-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+ara:
+  id: 107
+  definition: إيصال البيانات واستلامها وتفسيرها
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19118:2011'
+    clause: '4.9'
+    link: 'https://www.iso.org/standard/44212.html'
+  lineage_source: 'ISO 19118:2005'
+  lineage_source_similarity: 1
+  date_accepted: 2005-07-15T00:00:00.000Z
+  review_date: 2007-01-23T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2011-10-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19118:2011'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19118:2005 to ISO 19118:2011.
+    Lineage source added as ISO 19118:2005.
+  release: '1'
+  terms:
+    - type: expression
+      designation: تبادل البيانات
+      normative_status: preferred
+  _revisions:
+    current: 40206b
+    tree:
+      40206b:
+        object:
+          id: 107
+          definition: إيصال البيانات واستلامها وتفسيرها
+          language_code: ara
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19118:2011'
+            clause: '4.9'
+            link: 'https://www.iso.org/standard/44212.html'
+          lineage_source: 'ISO 19118:2005'
+          lineage_source_similarity: 1
+          date_accepted: 2005-07-15T00:00:00.000Z
+          review_date: 2007-01-23T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2011-10-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19118:2011'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19118:2005 to ISO
+            19118:2011. Lineage source added as ISO 19118:2005.
+          release: '1'
+          terms:
+            - type: expression
+              designation: تبادل البيانات
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-07-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+zho:
+  id: 107
+  definition: 数据的传输、接收和解释。
+  language_code: zho
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19118:2011'
+    clause: '4.9'
+    link: 'https://www.iso.org/standard/44212.html'
+  lineage_source: 'ISO 19118:2005'
+  lineage_source_similarity: 1
+  date_accepted: 2005-07-15T00:00:00.000Z
+  review_date: 2007-01-23T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2011-10-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19118:2011'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19118:2005 to ISO 19118:2011.
+    Lineage source added as ISO 19118:2005.
+  release: '1'
+  terms:
+    - type: expression
+      designation: 数据交换
+      normative_status: preferred
+  _revisions:
+    current: '557317'
+    tree:
+      '557317':
+        object:
+          id: 107
+          definition: 数据的传输、接收和解释。
+          language_code: zho
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19118:2011'
+            clause: '4.9'
+            link: 'https://www.iso.org/standard/44212.html'
+          lineage_source: 'ISO 19118:2005'
+          lineage_source_similarity: 1
+          date_accepted: 2005-07-15T00:00:00.000Z
+          review_date: 2007-01-23T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2011-10-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19118:2011'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19118:2005 to ISO
+            19118:2011. Lineage source added as ISO 19118:2005.
+          release: '1'
+          terms:
+            - type: expression
+              designation: 数据交换
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-07-15T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+dan:
+  id: 107
+  definition: 'levering, modtagelse og fortolkning af data'
+  language_code: dan
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19118:2011'
+    clause: '4.9'
+    link: 'https://www.iso.org/standard/44212.html'
+  lineage_source: 'ISO 19118:2005'
+  lineage_source_similarity: 1
+  date_accepted: 2005-07-15T00:00:00.000Z
+  review_date: 2007-01-23T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2011-10-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19118:2011'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19118:2005 to ISO 19118:2011.
+    Lineage source added as ISO 19118:2005.
+  release: '1'
+  terms:
+    - type: expression
+      designation: dataudveksling
+      normative_status: preferred
+  _revisions:
+    current: 386f28
+    tree:
+      386f28:
+        object:
+          id: 107
+          definition: 'levering, modtagelse og fortolkning af data'
+          language_code: dan
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19118:2011'
+            clause: '4.9'
+            link: 'https://www.iso.org/standard/44212.html'
+          lineage_source: 'ISO 19118:2005'
+          lineage_source_similarity: 1
+          date_accepted: 2005-07-15T00:00:00.000Z
+          review_date: 2007-01-23T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2011-10-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19118:2011'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19118:2005 to ISO
+            19118:2011. Lineage source added as ISO 19118:2005.
+          release: '1'
+          terms:
+            - type: expression
+              designation: dataudveksling
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-07-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+fin:
+  id: 107
+  definition: 'tiedon jakaminen, vastaanottaminen ja tulkinta'
+  language_code: fin
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19118:2011'
+    clause: '4.9'
+    link: 'https://www.iso.org/standard/44212.html'
+  lineage_source: 'ISO 19118:2005'
+  lineage_source_similarity: 1
+  date_accepted: 2005-07-15T00:00:00.000Z
+  review_date: 2007-01-23T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2011-10-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19118:2011'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19118:2005 to ISO 19118:2011.
+    Lineage source added as ISO 19118:2005.
+  release: '1'
+  terms:
+    - type: expression
+      designation: tiedonvaihto
+      normative_status: preferred
+  _revisions:
+    current: af5c74
+    tree:
+      af5c74:
+        object:
+          id: 107
+          definition: 'tiedon jakaminen, vastaanottaminen ja tulkinta'
+          language_code: fin
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19118:2011'
+            clause: '4.9'
+            link: 'https://www.iso.org/standard/44212.html'
+          lineage_source: 'ISO 19118:2005'
+          lineage_source_similarity: 1
+          date_accepted: 2005-07-15T00:00:00.000Z
+          review_date: 2007-01-23T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2011-10-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19118:2011'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19118:2005 to ISO
+            19118:2011. Lineage source added as ISO 19118:2005.
+          release: '1'
+          terms:
+            - type: expression
+              designation: tiedonvaihto
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-07-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+fra:
+  id: 107
+  definition: 'livraison, réception et interprétation de données'
+  language_code: fra
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19118:2011'
+    clause: '4.9'
+    link: 'https://www.iso.org/standard/44212.html'
+  lineage_source: 'ISO 19118:2005'
+  lineage_source_similarity: 1
+  date_accepted: 2005-07-15T00:00:00.000Z
+  review_date: 2007-01-23T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2011-10-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19118:2011'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19118:2005 to ISO 19118:2011.
+    Lineage source added as ISO 19118:2005.
+  release: '1'
+  terms:
+    - type: expression
+      designation: échange de données
+      normative_status: preferred
+  _revisions:
+    current: b4110e
+    tree:
+      b4110e:
+        object:
+          id: 107
+          definition: 'livraison, réception et interprétation de données'
+          language_code: fra
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19118:2011'
+            clause: '4.9'
+            link: 'https://www.iso.org/standard/44212.html'
+          lineage_source: 'ISO 19118:2005'
+          lineage_source_similarity: 1
+          date_accepted: 2005-07-15T00:00:00.000Z
+          review_date: 2007-01-23T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2011-10-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19118:2011'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19118:2005 to ISO
+            19118:2011. Lineage source added as ISO 19118:2005.
+          release: '1'
+          terms:
+            - type: expression
+              designation: échange de données
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-07-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+deu:
+  id: 107
+  language_code: deu
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19118:2011'
+    clause: '4.9'
+    link: 'https://www.iso.org/standard/44212.html'
+  lineage_source: 'ISO 19118:2005'
+  lineage_source_similarity: 1
+  date_accepted: 2005-07-15T00:00:00.000Z
+  review_date: 2007-01-23T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2011-10-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19118:2011'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19118:2005 to ISO 19118:2011.
+    Lineage source added as ISO 19118:2005.
+  release: '1'
+  terms:
+    - type: expression
+      designation: Datenaustausch
+      normative_status: preferred
+  _revisions:
+    current: 7af8cf
+    tree:
+      7af8cf:
+        object:
+          id: 107
+          language_code: deu
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19118:2011'
+            clause: '4.9'
+            link: 'https://www.iso.org/standard/44212.html'
+          lineage_source: 'ISO 19118:2005'
+          lineage_source_similarity: 1
+          date_accepted: 2005-07-15T00:00:00.000Z
+          review_date: 2007-01-23T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2011-10-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19118:2011'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19118:2005 to ISO
+            19118:2011. Lineage source added as ISO 19118:2005.
+          release: '1'
+          terms:
+            - type: expression
+              designation: Datenaustausch
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-07-15T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+kor:
+  id: 107
+  definition: 데이터의 송수신 및 해석을 위한 처리 과정
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19118:2011'
+    clause: '4.9'
+    link: 'https://www.iso.org/standard/44212.html'
+  lineage_source: 'ISO 19118:2005'
+  lineage_source_similarity: 1
+  date_accepted: 2008-12-30T00:00:00.000Z
+  review_date: 2007-01-23T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2011-10-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19118:2011'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19118:2005 to ISO 19118:2011.
+    Lineage source added as ISO 19118:2005.
+  release: '1'
+  terms:
+    - type: expression
+      designation: 데이터 교환
+      normative_status: preferred
+  _revisions:
+    current: b256b2
+    tree:
+      b256b2:
+        object:
+          id: 107
+          definition: 데이터의 송수신 및 해석을 위한 처리 과정
+          language_code: kor
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19118:2011'
+            clause: '4.9'
+            link: 'https://www.iso.org/standard/44212.html'
+          lineage_source: 'ISO 19118:2005'
+          lineage_source_similarity: 1
+          date_accepted: 2008-12-30T00:00:00.000Z
+          review_date: 2007-01-23T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2011-10-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19118:2011'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19118:2005 to ISO
+            19118:2011. Lineage source added as ISO 19118:2005.
+          release: '1'
+          terms:
+            - type: expression
+              designation: 데이터 교환
+              normative_status: preferred
+        parents: []
+        timeCreated: 2008-12-30T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 107
+  definition: 'передача, прием и интепретация данных'
+  language_code: rus
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19118:2011'
+    clause: '4.9'
+    link: 'https://www.iso.org/standard/44212.html'
+  lineage_source: 'ISO 19118:2005'
+  lineage_source_similarity: 1
+  date_accepted: 2005-07-15T00:00:00.000Z
+  review_date: 2007-01-23T00:00:00.000Z
+  review_status: ''
+  review_decision: ''
+  review_decision_date: 2011-10-15T00:00:00.000Z
+  review_decision_event: 'Публикация ИСО19118:2011'
+  review_decision_notes: >-
+    Авторитетная ссылка изменена с ISO 19118:2005 на ISO 19118: 2011. Источник
+    происхождения добавлен как ISO 19118: 2005.
+  release: '1'
+  terms:
+    - type: expression
+      designation: обмен данными
+      normative_status: preferred
+  _revisions:
+    current: '5680e8'
+    tree:
+      '5680e8':
+        object:
+          id: 107
+          definition: 'передача, прием и интепретация данных'
+          language_code: rus
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19118:2011'
+            clause: '4.9'
+            link: 'https://www.iso.org/standard/44212.html'
+          lineage_source: 'ISO 19118:2005'
+          lineage_source_similarity: 1
+          date_accepted: 2005-07-15T00:00:00.000Z
+          review_date: 2007-01-23T00:00:00.000Z
+          review_status: ''
+          review_decision: ''
+          review_decision_date: 2011-10-15T00:00:00.000Z
+          review_decision_event: 'Публикация ИСО19118:2011'
+          review_decision_notes: >-
+            Авторитетная ссылка изменена с ISO 19118:2005 на ISO 19118: 2011.
+            Источник происхождения добавлен как ISO 19118: 2005.
+          release: '1'
+          terms:
+            - type: expression
+              designation: обмен данными
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-07-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 107
+  definition: 'entrega, recepción e interpretación de datos'
+  language_code: spa
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19118:2011'
+    clause: '4.9'
+    link: 'https://www.iso.org/standard/44212.html'
+  lineage_source: 'ISO 19118:2005'
+  lineage_source_similarity: 1
+  date_accepted: 2005-07-15T00:00:00.000Z
+  review_date: 2007-01-23T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2011-10-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19118:2011'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19118:2005 to ISO 19118:2011.
+    Lineage source added as ISO 19118:2005.
+  release: '1'
+  terms:
+    - type: expression
+      designation: intercambio de datos
+      normative_status: preferred
+  _revisions:
+    current: 007de3
+    tree:
+      007de3:
+        object:
+          id: 107
+          definition: 'entrega, recepción e interpretación de datos'
+          language_code: spa
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19118:2011'
+            clause: '4.9'
+            link: 'https://www.iso.org/standard/44212.html'
+          lineage_source: 'ISO 19118:2005'
+          lineage_source_similarity: 1
+          date_accepted: 2005-07-15T00:00:00.000Z
+          review_date: 2007-01-23T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2011-10-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19118:2011'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19118:2005 to ISO
+            19118:2011. Lineage source added as ISO 19118:2005.
+          release: '1'
+          terms:
+            - type: expression
+              designation: intercambio de datos
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-07-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+swe:
+  id: 107
+  definition: 'leverans, mottagning och tolkning av data'
+  country_code: swe
+  language_code: swe
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19118:2011'
+    clause: '4.9'
+    link: 'https://www.iso.org/standard/44212.html'
+  lineage_source: 'ISO 19118:2005'
+  lineage_source_similarity: 1
+  date_accepted: 2005-07-15T00:00:00.000Z
+  review_date: 2007-01-23T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2011-10-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19118:2011'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19118:2005 to ISO 19118:2011.
+    Lineage source added as ISO 19118:2005.
+  release: '1'
+  terms:
+    - type: expression
+      designation: datautbyte
+      normative_status: preferred
+  _revisions:
+    current: bd81b4
+    tree:
+      bd81b4:
+        object:
+          id: 107
+          definition: 'leverans, mottagning och tolkning av data'
+          country_code: swe
+          language_code: swe
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19118:2011'
+            clause: '4.9'
+            link: 'https://www.iso.org/standard/44212.html'
+          lineage_source: 'ISO 19118:2005'
+          lineage_source_similarity: 1
+          date_accepted: 2005-07-15T00:00:00.000Z
+          review_date: 2007-01-23T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2011-10-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19118:2011'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19118:2005 to ISO
+            19118:2011. Lineage source added as ISO 19118:2005.
+          release: '1'
+          terms:
+            - type: expression
+              designation: datautbyte
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-07-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

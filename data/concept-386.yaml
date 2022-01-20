@@ -1,0 +1,539 @@
+term: robustness testing
+termid: 386
+eng:
+  id: 386
+  definition: process of determining how well an IUT processes data which contains errors
+  language_code: eng
+  notes:
+    - This is not a part of conformance testing
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19105:2000'
+    link: 'https://www.iso.org/standard/26010.html'
+  date_accepted: 2000-12-15T00:00:00.000Z
+  review_date: 2019-07-05T00:00:00.000Z
+  review_status: pending
+  review_type: retirement
+  release: '1'
+  terms:
+    - type: expression
+      designation: robustness testing
+      normative_status: preferred
+  _revisions:
+    current: 58ccda
+    tree:
+      58ccda:
+        object:
+          id: 386
+          definition: >-
+            process of determining how well an IUT processes data which contains
+            errors
+          language_code: eng
+          notes:
+            - This is not a part of conformance testing
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19105:2000'
+            link: 'https://www.iso.org/standard/26010.html'
+          date_accepted: 2000-12-15T00:00:00.000Z
+          review_date: 2019-07-05T00:00:00.000Z
+          review_status: pending
+          review_type: retirement
+          release: '1'
+          terms:
+            - type: expression
+              designation: robustness testing
+              normative_status: preferred
+        parents: []
+        timeCreated: 2000-12-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+ara:
+  id: 386
+  definition: >-
+    العملية التي يتم بموجبها تحديد مدى الجودة في أداء تجهيز تحت الاختبار (IUT )
+    عند معالجته لبيانات تحتوى على أخطاء
+  language_code: ara
+  notes:
+    - هذا ليس جزءاً من اختبار المطابقة.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19105:2000'
+    link: 'https://www.iso.org/standard/26010.html'
+  date_accepted: 2000-12-15T00:00:00.000Z
+  review_date: 2019-07-05T00:00:00.000Z
+  review_status: pending
+  review_type: retirement
+  release: '1'
+  terms:
+    - type: expression
+      designation: اختبار المتانة
+      normative_status: preferred
+  _revisions:
+    current: 9f0b8f
+    tree:
+      9f0b8f:
+        object:
+          id: 386
+          definition: >-
+            العملية التي يتم بموجبها تحديد مدى الجودة في أداء تجهيز تحت الاختبار
+            (IUT ) عند معالجته لبيانات تحتوى على أخطاء
+          language_code: ara
+          notes:
+            - هذا ليس جزءاً من اختبار المطابقة.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19105:2000'
+            link: 'https://www.iso.org/standard/26010.html'
+          date_accepted: 2000-12-15T00:00:00.000Z
+          review_date: 2019-07-05T00:00:00.000Z
+          review_status: pending
+          review_type: retirement
+          release: '1'
+          terms:
+            - type: expression
+              designation: اختبار المتانة
+              normative_status: preferred
+        parents: []
+        timeCreated: 2000-12-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+zho:
+  id: 386
+  definition: 确认IUT在处理含错误数据时正常工作能力的过程。
+  language_code: zho
+  notes:
+    - 鲁棒性测试不作为一致性测试的一个部分。
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19105:2000'
+    link: 'https://www.iso.org/standard/26010.html'
+  date_accepted: 2000-12-15T00:00:00.000Z
+  review_date: 2019-07-05T00:00:00.000Z
+  review_status: pending
+  review_type: retirement
+  release: '1'
+  terms:
+    - type: expression
+      designation: 鲁棒性测试
+      normative_status: preferred
+  _revisions:
+    current: 5914cf
+    tree:
+      5914cf:
+        object:
+          id: 386
+          definition: 确认IUT在处理含错误数据时正常工作能力的过程。
+          language_code: zho
+          notes:
+            - 鲁棒性测试不作为一致性测试的一个部分。
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19105:2000'
+            link: 'https://www.iso.org/standard/26010.html'
+          date_accepted: 2000-12-15T00:00:00.000Z
+          review_date: 2019-07-05T00:00:00.000Z
+          review_status: pending
+          review_type: retirement
+          release: '1'
+          terms:
+            - type: expression
+              designation: 鲁棒性测试
+              normative_status: preferred
+        parents: []
+        timeCreated: 2000-12-15T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+fin:
+  id: 386
+  definition: >-
+    määritysprosessi, miten hyvin testattavana oleva toteutus (Implementation
+    Under Test, IUT) käsittelee virheitä sisältävää tietoa
+  language_code: fin
+  notes:
+    - Vakaustestaus ei kuulu vaatimuksenmukaisuuden testaukseen.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19105:2000'
+    link: 'https://www.iso.org/standard/26010.html'
+  date_accepted: 2000-12-15T00:00:00.000Z
+  review_date: 2019-07-05T00:00:00.000Z
+  review_status: pending
+  review_type: retirement
+  release: '1'
+  terms:
+    - type: expression
+      designation: vakaustestaus
+      normative_status: preferred
+  _revisions:
+    current: bcdb0a
+    tree:
+      bcdb0a:
+        object:
+          id: 386
+          definition: >-
+            määritysprosessi, miten hyvin testattavana oleva toteutus
+            (Implementation Under Test, IUT) käsittelee virheitä sisältävää
+            tietoa
+          language_code: fin
+          notes:
+            - Vakaustestaus ei kuulu vaatimuksenmukaisuuden testaukseen.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19105:2000'
+            link: 'https://www.iso.org/standard/26010.html'
+          date_accepted: 2000-12-15T00:00:00.000Z
+          review_date: 2019-07-05T00:00:00.000Z
+          review_status: pending
+          review_type: retirement
+          release: '1'
+          terms:
+            - type: expression
+              designation: vakaustestaus
+              normative_status: preferred
+        parents: []
+        timeCreated: 2000-12-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+fra:
+  id: 386
+  definition: >-
+    processus déterminant comment une implémentation soumise à test traite des
+    données contenant des erreurs
+  language_code: fra
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19105:2000'
+    link: 'https://www.iso.org/standard/26010.html'
+  date_accepted: 2000-12-15T00:00:00.000Z
+  review_date: 2019-07-05T00:00:00.000Z
+  review_status: pending
+  review_type: retirement
+  release: '1'
+  terms:
+    - type: expression
+      designation: test de robustesse
+      normative_status: preferred
+  _revisions:
+    current: eab8c4
+    tree:
+      eab8c4:
+        object:
+          id: 386
+          definition: >-
+            processus déterminant comment une implémentation soumise à test
+            traite des données contenant des erreurs
+          language_code: fra
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19105:2000'
+            link: 'https://www.iso.org/standard/26010.html'
+          date_accepted: 2000-12-15T00:00:00.000Z
+          review_date: 2019-07-05T00:00:00.000Z
+          review_status: pending
+          review_type: retirement
+          release: '1'
+          terms:
+            - type: expression
+              designation: test de robustesse
+              normative_status: preferred
+        parents: []
+        timeCreated: 2000-12-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+jpn:
+  id: 386
+  definition: 試験対象(IUT)が，誤りを含むデータをいかに適切に処理するかを決める試験。
+  language_code: jpn
+  notes:
+    - 頑健性試験は，適合性試験の一部ではない。
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19105:2000'
+    link: 'https://www.iso.org/standard/26010.html'
+  date_accepted: 2000-12-15T00:00:00.000Z
+  review_date: 2019-07-05T00:00:00.000Z
+  review_status: pending
+  review_type: retirement
+  release: '1'
+  terms:
+    - type: expression
+      designation: 頑健性試験
+      normative_status: preferred
+  _revisions:
+    current: a119d9
+    tree:
+      a119d9:
+        object:
+          id: 386
+          definition: 試験対象(IUT)が，誤りを含むデータをいかに適切に処理するかを決める試験。
+          language_code: jpn
+          notes:
+            - 頑健性試験は，適合性試験の一部ではない。
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19105:2000'
+            link: 'https://www.iso.org/standard/26010.html'
+          date_accepted: 2000-12-15T00:00:00.000Z
+          review_date: 2019-07-05T00:00:00.000Z
+          review_status: pending
+          review_type: retirement
+          release: '1'
+          terms:
+            - type: expression
+              designation: 頑健性試験
+              normative_status: preferred
+        parents: []
+        timeCreated: 2000-12-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+kor:
+  id: 386
+  definition: IUT가 오류를 포함하고 있는 데이터를 얼마나 잘 처리하는지를 결정하는 과정
+  language_code: kor
+  notes:
+    - 강도 시험은 적합성 시험의 일부가 아니다.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19105:2000'
+    link: 'https://www.iso.org/standard/26010.html'
+  date_accepted: 2000-12-15T00:00:00.000Z
+  review_date: 2019-07-05T00:00:00.000Z
+  review_status: pending
+  review_type: retirement
+  release: '1'
+  terms:
+    - type: expression
+      designation: 강도 시험
+      normative_status: preferred
+  _revisions:
+    current: 159dd3
+    tree:
+      159dd3:
+        object:
+          id: 386
+          definition: IUT가 오류를 포함하고 있는 데이터를 얼마나 잘 처리하는지를 결정하는 과정
+          language_code: kor
+          notes:
+            - 강도 시험은 적합성 시험의 일부가 아니다.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19105:2000'
+            link: 'https://www.iso.org/standard/26010.html'
+          date_accepted: 2000-12-15T00:00:00.000Z
+          review_date: 2019-07-05T00:00:00.000Z
+          review_status: pending
+          review_type: retirement
+          release: '1'
+          terms:
+            - type: expression
+              designation: 강도 시험
+              normative_status: preferred
+        parents: []
+        timeCreated: 2000-12-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 386
+  definition: >-
+    процесс, состоящий в оценке качества обработки данных, содержащих ошибки,
+    тестируемым объектом
+  language_code: rus
+  notes:
+    - Не является частью тестирования на соответствие
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19105:2000'
+    link: 'https://www.iso.org/standard/26010.html'
+  date_accepted: 2000-12-15T00:00:00.000Z
+  review_date: 2019-07-05T00:00:00.000Z
+  review_status: pending
+  review_type: retirement
+  release: '1'
+  terms:
+    - type: expression
+      designation: проверка на устойчивость
+      normative_status: preferred
+  _revisions:
+    current: 6c501e
+    tree:
+      6c501e:
+        object:
+          id: 386
+          definition: >-
+            процесс, состоящий в оценке качества обработки данных, содержащих
+            ошибки, тестируемым объектом
+          language_code: rus
+          notes:
+            - Не является частью тестирования на соответствие
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19105:2000'
+            link: 'https://www.iso.org/standard/26010.html'
+          date_accepted: 2000-12-15T00:00:00.000Z
+          review_date: 2019-07-05T00:00:00.000Z
+          review_status: pending
+          review_type: retirement
+          release: '1'
+          terms:
+            - type: expression
+              designation: проверка на устойчивость
+              normative_status: preferred
+        parents: []
+        timeCreated: 2000-12-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 386
+  definition: >-
+    proceso de determinar si una IUT procesa adecuadamente datos que contienen
+    errores
+  language_code: spa
+  notes:
+    - Esto no es parte de la prueba de conformidad
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19105:2000'
+    link: 'https://www.iso.org/standard/26010.html'
+  date_accepted: 2000-12-15T00:00:00.000Z
+  review_date: 2019-07-05T00:00:00.000Z
+  review_status: pending
+  review_type: retirement
+  release: '1'
+  terms:
+    - type: expression
+      designation: prueba de robustez
+      normative_status: preferred
+  _revisions:
+    current: '424076'
+    tree:
+      '424076':
+        object:
+          id: 386
+          definition: >-
+            proceso de determinar si una IUT procesa adecuadamente datos que
+            contienen errores
+          language_code: spa
+          notes:
+            - Esto no es parte de la prueba de conformidad
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19105:2000'
+            link: 'https://www.iso.org/standard/26010.html'
+          date_accepted: 2000-12-15T00:00:00.000Z
+          review_date: 2019-07-05T00:00:00.000Z
+          review_status: pending
+          review_type: retirement
+          release: '1'
+          terms:
+            - type: expression
+              designation: prueba de robustez
+              normative_status: preferred
+        parents: []
+        timeCreated: 2000-12-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+swe:
+  id: 386
+  definition: |-
+    <med avseende på indata> testning av hur väl
+     ett program fungerar trots felaktiga indata
+  country_code: swe
+  language_code: swe
+  notes:
+    - This is not a part of conformance testing
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19105:2000'
+    link: 'https://www.iso.org/standard/26010.html'
+  date_accepted: 2000-12-15T00:00:00.000Z
+  review_date: 2019-07-05T00:00:00.000Z
+  review_status: pending
+  review_type: retirement
+  release: '1'
+  terms:
+    - type: expression
+      designation: robusthetstestning
+      normative_status: preferred
+  _revisions:
+    current: '910347'
+    tree:
+      '910347':
+        object:
+          id: 386
+          definition: |-
+            <med avseende på indata> testning av hur väl
+             ett program fungerar trots felaktiga indata
+          country_code: swe
+          language_code: swe
+          notes:
+            - This is not a part of conformance testing
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19105:2000'
+            link: 'https://www.iso.org/standard/26010.html'
+          date_accepted: 2000-12-15T00:00:00.000Z
+          review_date: 2019-07-05T00:00:00.000Z
+          review_status: pending
+          review_type: retirement
+          release: '1'
+          terms:
+            - type: expression
+              designation: robusthetstestning
+              normative_status: preferred
+        parents: []
+        timeCreated: 2000-12-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

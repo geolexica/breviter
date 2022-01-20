@@ -1,0 +1,188 @@
+term: SONAR processing system
+termid: 1419
+eng:
+  id: 1419
+  definition: >-
+    system that processes the SONAR signals to determine the geopositions of
+    objects sensed by SONAR sensors
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO/TS 19130-2:2014'
+    clause: '4.71'
+    link: 'https://www.iso.org/standard/56113.html'
+  date_accepted: 2014-01-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: SONAR processing system
+      normative_status: preferred
+  _revisions:
+    current: 3d9dbc
+    tree:
+      3d9dbc:
+        object:
+          id: 1419
+          definition: >-
+            system that processes the SONAR signals to determine the
+            geopositions of objects sensed by SONAR sensors
+          language_code: eng
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO/TS 19130-2:2014'
+            clause: '4.71'
+            link: 'https://www.iso.org/standard/56113.html'
+          date_accepted: 2014-01-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: SONAR processing system
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-01-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+kor:
+  id: 1419
+  definition: 소나 센서에 의해 탐지된 객체의 지리위치를 결정하기 위해 소나 신호를 처리하는 시스템
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO/TS 19130-2:2014'
+    clause: '4.71'
+    link: 'https://www.iso.org/standard/56113.html'
+  date_accepted: 2014-01-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: 소나 프로세싱 시스템
+      normative_status: preferred
+  _revisions:
+    current: 4cbb63
+    tree:
+      4cbb63:
+        object:
+          id: 1419
+          definition: 소나 센서에 의해 탐지된 객체의 지리위치를 결정하기 위해 소나 신호를 처리하는 시스템
+          language_code: kor
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO/TS 19130-2:2014'
+            clause: '4.71'
+            link: 'https://www.iso.org/standard/56113.html'
+          date_accepted: 2014-01-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: 소나 프로세싱 시스템
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-01-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 1419
+  definition: >-
+    система, которая обрабатывает сигналы SONAR для определения геопозиции
+    объектов, воспринимаемых датчиками SONAR
+  language_code: rus
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO/TS 19130-2:2014'
+    clause: '4.71'
+    link: 'https://www.iso.org/standard/56113.html'
+  lineage_source: 'ISO/TS 19130-2:2014'
+  date_accepted: 2014-01-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: система обработки SONAR
+      normative_status: preferred
+  _revisions:
+    current: 0ebda1
+    tree:
+      0ebda1:
+        object:
+          id: 1419
+          definition: >-
+            система, которая обрабатывает сигналы SONAR для определения
+            геопозиции объектов, воспринимаемых датчиками SONAR
+          language_code: rus
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO/TS 19130-2:2014'
+            clause: '4.71'
+            link: 'https://www.iso.org/standard/56113.html'
+          lineage_source: 'ISO/TS 19130-2:2014'
+          date_accepted: 2014-01-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: система обработки SONAR
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-01-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 1419
+  definition: >-
+    sistema que procesa las señales sonar para determinar la posición geográfica
+    de los objetos detectados por los sensores sonar
+  language_code: spa
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO/TS 19130-2:2014'
+    clause: '4.71'
+    link: 'https://www.iso.org/standard/56113.html'
+  date_accepted: 2014-01-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: sistema de procesamiento sonar
+      normative_status: preferred
+  _revisions:
+    current: 6a8547
+    tree:
+      6a8547:
+        object:
+          id: 1419
+          definition: >-
+            sistema que procesa las señales sonar para determinar la posición
+            geográfica de los objetos detectados por los sensores sonar
+          language_code: spa
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO/TS 19130-2:2014'
+            clause: '4.71'
+            link: 'https://www.iso.org/standard/56113.html'
+          date_accepted: 2014-01-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: sistema de procesamiento sonar
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-01-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

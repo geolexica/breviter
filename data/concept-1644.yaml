@@ -1,0 +1,136 @@
+term: literal
+termid: 1644
+eng:
+  id: 1644
+  definition: 'constant, explicitly specified value'
+  language_code: eng
+  notes:
+    - >-
+      This contrasts with a value that is determined by resolving a chain of
+      substitution (e.g. a variable).
+  examples:
+    - '“1”^^xsd:integer, “abc”^^xsd:string'
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19143:2010'
+    clause: '4.15'
+    link: 'https://www.iso.org/standard/42137.html'
+  date_accepted: 2015-07-01T00:00:00.000Z
+  review_date: 2012-05-25T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2015-07-01T00:00:00.000Z
+  review_decision_event: Normal ISO processing
+  review_decision_notes: 'Publication of document ISO 19150-2:2015(E)'
+  release: '4'
+  terms:
+    - type: expression
+      designation: literal
+      normative_status: admitted
+    - designation: literal value
+      type: expression
+  _revisions:
+    current: eb1d18
+    tree:
+      eb1d18:
+        object:
+          id: 1644
+          definition: 'constant, explicitly specified value'
+          language_code: eng
+          notes:
+            - >-
+              This contrasts with a value that is determined by resolving a
+              chain of substitution (e.g. a variable).
+          examples:
+            - '“1”^^xsd:integer, “abc”^^xsd:string'
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19143:2010'
+            clause: '4.15'
+            link: 'https://www.iso.org/standard/42137.html'
+          date_accepted: 2015-07-01T00:00:00.000Z
+          review_date: 2012-05-25T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2015-07-01T00:00:00.000Z
+          review_decision_event: Normal ISO processing
+          review_decision_notes: 'Publication of document ISO 19150-2:2015(E)'
+          release: '4'
+          terms:
+            - type: expression
+              designation: literal
+              normative_status: admitted
+            - designation: literal value
+              type: expression
+        parents: []
+        timeCreated: 2015-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 1644
+  definition: valor constante especificado explícitamente
+  language_code: spa
+  notes:
+    - >-
+      A diferencia del valor que se determina resolviendo una cadena de
+      sustituciones (por ejemplo, una variable).
+  examples:
+    - '"1"^^xsd:integer, "abc"^^xsd:string'
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19143:2010'
+    clause: '4.15'
+    link: 'https://www.iso.org/standard/42137.html'
+  date_accepted: 2015-07-01T00:00:00.000Z
+  review_date: 2012-05-25T00:00:00.000Z
+  review_status: final
+  review_decision: ''
+  review_decision_date: 2015-07-01T00:00:00.000Z
+  review_decision_event: Normal ISO processing
+  review_decision_notes: 'Publication of document ISO 19150-2:2015(E)'
+  release: '4'
+  terms:
+    - type: expression
+      designation: valor literal
+      normative_status: admitted
+    - designation: valor literal
+      type: expression
+  _revisions:
+    current: f17b9c
+    tree:
+      f17b9c:
+        object:
+          id: 1644
+          definition: valor constante especificado explícitamente
+          language_code: spa
+          notes:
+            - >-
+              A diferencia del valor que se determina resolviendo una cadena de
+              sustituciones (por ejemplo, una variable).
+          examples:
+            - '"1"^^xsd:integer, "abc"^^xsd:string'
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19143:2010'
+            clause: '4.15'
+            link: 'https://www.iso.org/standard/42137.html'
+          date_accepted: 2015-07-01T00:00:00.000Z
+          review_date: 2012-05-25T00:00:00.000Z
+          review_status: final
+          review_decision: ''
+          review_decision_date: 2015-07-01T00:00:00.000Z
+          review_decision_event: Normal ISO processing
+          review_decision_notes: 'Publication of document ISO 19150-2:2015(E)'
+          release: '4'
+          terms:
+            - type: expression
+              designation: valor literal
+              normative_status: admitted
+            - designation: valor literal
+              type: expression
+        parents: []
+        timeCreated: 2015-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

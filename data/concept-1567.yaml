@@ -1,0 +1,302 @@
+term: receiver
+termid: 1567
+eng:
+  id: 1567
+  definition: hardware used to detect and record signals
+  language_code: eng
+  notes:
+    - >-
+      In LIDAR and SONAR systems, the receiver detects and records reflected
+      pulse returns.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO/TS 19130-2:2014'
+    clause: '4.59'
+    link: 'https://www.iso.org/standard/56113.html'
+  date_accepted: 2014-01-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: receiver
+      normative_status: preferred
+  _revisions:
+    current: f4384c
+    tree:
+      f4384c:
+        object:
+          id: 1567
+          definition: hardware used to detect and record signals
+          language_code: eng
+          notes:
+            - >-
+              In LIDAR and SONAR systems, the receiver detects and records
+              reflected pulse returns.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO/TS 19130-2:2014'
+            clause: '4.59'
+            link: 'https://www.iso.org/standard/56113.html'
+          date_accepted: 2014-01-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: receiver
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-01-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+kor:
+  id: 1567
+  definition: 신호 탐지 및 기록을 위해 사용되는 하드웨어
+  language_code: kor
+  notes:
+    - >-
+      In LIDAR and SONAR systems, the receiver detects and records reflected
+      pulse returns.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO/TS 19130-2:2014'
+    clause: '4.59'
+    link: 'https://www.iso.org/standard/56113.html'
+  date_accepted: 2014-01-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: '수신기, 리시버'
+      normative_status: preferred
+  _revisions:
+    current: 0b5793
+    tree:
+      0b5793:
+        object:
+          id: 1567
+          definition: 신호 탐지 및 기록을 위해 사용되는 하드웨어
+          language_code: kor
+          notes:
+            - >-
+              In LIDAR and SONAR systems, the receiver detects and records
+              reflected pulse returns.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO/TS 19130-2:2014'
+            clause: '4.59'
+            link: 'https://www.iso.org/standard/56113.html'
+          date_accepted: 2014-01-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: '수신기, 리시버'
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-01-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+msa:
+  id: 1567
+  definition: Perkakasan yang digunakan untuk mengesan dan merekodkan isyarat.
+  language_code: msa
+  notes:
+    - >-
+      In LIDAR and SONAR systems, the receiver detects and records reflected
+      pulse returns.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO/TS 19130-2:2014'
+    clause: '4.59'
+    link: 'https://www.iso.org/standard/56113.html'
+  date_accepted: 2014-01-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: penerima
+      normative_status: preferred
+  _revisions:
+    current: c1b1ff
+    tree:
+      c1b1ff:
+        object:
+          id: 1567
+          definition: Perkakasan yang digunakan untuk mengesan dan merekodkan isyarat.
+          language_code: msa
+          notes:
+            - >-
+              In LIDAR and SONAR systems, the receiver detects and records
+              reflected pulse returns.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO/TS 19130-2:2014'
+            clause: '4.59'
+            link: 'https://www.iso.org/standard/56113.html'
+          date_accepted: 2014-01-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: penerima
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-01-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 1567
+  definition: 'Оборудование, используемое для обнаружения и записи сигналов'
+  language_code: rus
+  notes:
+    - >-
+      в системах ЛИДАР и СОНАР , приемник обнаруживает и записывает отраженный
+      пульс.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO/TS 19130-2:2014'
+    clause: '4.59'
+    link: 'https://www.iso.org/standard/56113.html'
+  lineage_source: 'ISO/TS 19130-2:2014'
+  date_accepted: 2014-01-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: Приёмник
+      normative_status: preferred
+  _revisions:
+    current: d3c8b1
+    tree:
+      d3c8b1:
+        object:
+          id: 1567
+          definition: 'Оборудование, используемое для обнаружения и записи сигналов'
+          language_code: rus
+          notes:
+            - >-
+              в системах ЛИДАР и СОНАР , приемник обнаруживает и записывает
+              отраженный пульс.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO/TS 19130-2:2014'
+            clause: '4.59'
+            link: 'https://www.iso.org/standard/56113.html'
+          lineage_source: 'ISO/TS 19130-2:2014'
+          date_accepted: 2014-01-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: Приёмник
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-01-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 1567
+  definition: dispositivo usado para detectar y grabar señales
+  language_code: spa
+  notes:
+    - >-
+      En los sistemas lidar y sonar el receptor detecta y almacena los pulsos
+      reflejados de retorno.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO/TS 19130-2:2014'
+    clause: '4.59'
+    link: 'https://www.iso.org/standard/56113.html'
+  date_accepted: 2014-01-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: receptor
+      normative_status: preferred
+  _revisions:
+    current: 6a11d4
+    tree:
+      6a11d4:
+        object:
+          id: 1567
+          definition: dispositivo usado para detectar y grabar señales
+          language_code: spa
+          notes:
+            - >-
+              En los sistemas lidar y sonar el receptor detecta y almacena los
+              pulsos reflejados de retorno.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO/TS 19130-2:2014'
+            clause: '4.59'
+            link: 'https://www.iso.org/standard/56113.html'
+          date_accepted: 2014-01-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: receptor
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-01-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+swe:
+  id: 1567
+  definition: del i SONAR som lyssnar och registrerar pulser
+  country_code: swe
+  language_code: swe
+  notes:
+    - >-
+      In LIDAR and SONAR systems, the receiver detects and records reflected
+      pulse returns.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO/TS 19130-2:2014'
+    clause: '4.59'
+    link: 'https://www.iso.org/standard/56113.html'
+  lineage_source: (Type reference to national language document)
+  date_accepted: 2014-01-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: mottagare
+      normative_status: preferred
+  _revisions:
+    current: 03c64d
+    tree:
+      03c64d:
+        object:
+          id: 1567
+          definition: del i SONAR som lyssnar och registrerar pulser
+          country_code: swe
+          language_code: swe
+          notes:
+            - >-
+              In LIDAR and SONAR systems, the receiver detects and records
+              reflected pulse returns.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO/TS 19130-2:2014'
+            clause: '4.59'
+            link: 'https://www.iso.org/standard/56113.html'
+          lineage_source: (Type reference to national language document)
+          date_accepted: 2014-01-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: mottagare
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-01-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

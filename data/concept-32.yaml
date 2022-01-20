@@ -1,0 +1,591 @@
+term: calendar era
+termid: 32
+eng:
+  id: 32
+  definition: >-
+    sequence of periods of one of the types used in a calendar, counted from a
+    specified event
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19108:2002'
+    link: 'https://www.iso.org/standard/26013.html'
+  date_accepted: 2002-09-01T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: calendar era
+      normative_status: preferred
+  _revisions:
+    current: 96223d
+    tree:
+      96223d:
+        object:
+          id: 32
+          definition: >-
+            sequence of periods of one of the types used in a calendar, counted
+            from a specified event
+          language_code: eng
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19108:2002'
+            link: 'https://www.iso.org/standard/26013.html'
+          date_accepted: 2002-09-01T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: calendar era
+              normative_status: preferred
+        parents: []
+        timeCreated: 2002-09-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+ara:
+  id: 32
+  definition: >-
+    سلسلة من المدد الزمنية المتتالية من أحد الأنواع التي تستخدم في التقاويم ،
+    تحسب اعتبارا من واقعة محددة
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19108:2002'
+    link: 'https://www.iso.org/standard/26013.html'
+  date_accepted: 2002-09-01T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: حقبة تقويمية
+      normative_status: preferred
+  _revisions:
+    current: deeed3
+    tree:
+      deeed3:
+        object:
+          id: 32
+          definition: >-
+            سلسلة من المدد الزمنية المتتالية من أحد الأنواع التي تستخدم في
+            التقاويم ، تحسب اعتبارا من واقعة محددة
+          language_code: ara
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19108:2002'
+            link: 'https://www.iso.org/standard/26013.html'
+          date_accepted: 2002-09-01T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: حقبة تقويمية
+              normative_status: preferred
+        parents: []
+        timeCreated: 2002-09-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+zho:
+  id: 32
+  definition: 从特定事件起算的，日历中使用的一类时段序列。
+  language_code: zho
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19108:2002'
+    link: 'https://www.iso.org/standard/26013.html'
+  date_accepted: 2002-09-01T00:00:00.000Z
+  terms:
+    - type: expression
+      designation: 日历时代
+      normative_status: preferred
+  _revisions:
+    current: '670513'
+    tree:
+      '670513':
+        object:
+          id: 32
+          definition: 从特定事件起算的，日历中使用的一类时段序列。
+          language_code: zho
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19108:2002'
+            link: 'https://www.iso.org/standard/26013.html'
+          date_accepted: 2002-09-01T00:00:00.000Z
+          terms:
+            - type: expression
+              designation: 日历时代
+              normative_status: preferred
+        parents: []
+        timeCreated: 2002-09-01T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+dan:
+  id: 32
+  definition: >-
+    sekvens af perioder af en af de typer, der anvendes i en kalender, regnet
+    fra en nærmere angivet hændelse
+  language_code: dan
+  notes: []
+  examples: []
+  authoritative_source:
+    ref: 'ISO 19108:2002'
+    link: 'https://www.iso.org/standard/26013.html'
+  date_accepted: 2002-09-01T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: kalenderinddeling
+      normative_status: null
+  _revisions:
+    current: 287d5b
+    tree:
+      287d5b:
+        object:
+          id: 32
+          definition: >-
+            sekvens af perioder af en af de typer, der anvendes i en kalender,
+            regnet fra en nærmere angivet hændelse
+          language_code: dan
+          notes: []
+          examples: []
+          authoritative_source:
+            ref: 'ISO 19108:2002'
+            link: 'https://www.iso.org/standard/26013.html'
+          date_accepted: 2002-09-01T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: kalenderinddeling
+              normative_status: null
+        parents: []
+        timeCreated: 2002-09-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+fin:
+  id: 32
+  definition: >-
+    kalenterissa käytössä olevien joidenkin aikajaksojen jono, joka aloitetaan
+    tietystä ajanhetkestä
+  language_code: fin
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19108:2002'
+    link: 'https://www.iso.org/standard/26013.html'
+  lineage_source: 'Ei lähdettä, käännetty'
+  date_accepted: 2002-09-01T00:00:00.000Z
+  terms:
+    - type: expression
+      designation: kalenterikausi
+      normative_status: preferred
+  _revisions:
+    current: 31ab9c
+    tree:
+      31ab9c:
+        object:
+          id: 32
+          definition: >-
+            kalenterissa käytössä olevien joidenkin aikajaksojen jono, joka
+            aloitetaan tietystä ajanhetkestä
+          language_code: fin
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19108:2002'
+            link: 'https://www.iso.org/standard/26013.html'
+          lineage_source: 'Ei lähdettä, käännetty'
+          date_accepted: 2002-09-01T00:00:00.000Z
+          terms:
+            - type: expression
+              designation: kalenterikausi
+              normative_status: preferred
+        parents: []
+        timeCreated: 2002-09-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+fra:
+  id: 32
+  definition: >-
+    séquence de périodes de l'un des types utilisés dans un calendrier, comptée
+    à partir d'un évenement particulier
+  language_code: fra
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: ISO 19108
+    link: 'https://www.iso.org/standard/26013.html'
+  lineage_source: ''
+  date_accepted: 2002-09-01T00:00:00.000Z
+  terms:
+    - type: expression
+      designation: ère calendaire
+      normative_status: preferred
+  _revisions:
+    current: '926097'
+    tree:
+      '926097':
+        object:
+          id: 32
+          definition: >-
+            séquence de périodes de l'un des types utilisés dans un calendrier,
+            comptée à partir d'un évenement particulier
+          language_code: fra
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: ISO 19108
+            link: 'https://www.iso.org/standard/26013.html'
+          lineage_source: ''
+          date_accepted: 2002-09-01T00:00:00.000Z
+          terms:
+            - type: expression
+              designation: ère calendaire
+              normative_status: preferred
+        parents: []
+        timeCreated: 2002-09-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+deu:
+  id: 32
+  language_code: deu
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19108:2002'
+    link: 'https://www.iso.org/standard/26013.html'
+  date_accepted: 2002-09-01T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: kalendarischer Zeitraum
+      normative_status: preferred
+  _revisions:
+    current: fd4d39
+    tree:
+      fd4d39:
+        object:
+          id: 32
+          language_code: deu
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19108:2002'
+            link: 'https://www.iso.org/standard/26013.html'
+          date_accepted: 2002-09-01T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: kalendarischer Zeitraum
+              normative_status: preferred
+        parents: []
+        timeCreated: 2002-09-01T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+jpn:
+  id: 32
+  definition: 暦の中で使用する型の一つとなり，ある特定の事象からその長さを数える期間。
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19108:2002'
+    link: 'https://www.iso.org/standard/26013.html'
+  lineage_source: JIS X 7108
+  date_accepted: 2002-09-01T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: 暦年代
+      normative_status: preferred
+  _revisions:
+    current: 076cb6
+    tree:
+      076cb6:
+        object:
+          id: 32
+          definition: 暦の中で使用する型の一つとなり，ある特定の事象からその長さを数える期間。
+          language_code: jpn
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19108:2002'
+            link: 'https://www.iso.org/standard/26013.html'
+          lineage_source: JIS X 7108
+          date_accepted: 2002-09-01T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: 暦年代
+              normative_status: preferred
+        parents: []
+        timeCreated: 2002-09-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+kor:
+  id: 32
+  definition: 기간의 연속을 표현하는 달력의 유형으로 특정 사건으로부터 계산된 기간 표시
+  language_code: kor
+  notes: []
+  examples:
+    - '단기 0000년, 서기 0000년'
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19108:2002'
+    link: 'https://www.iso.org/standard/26013.html'
+  lineage_source: KS X ISO 19108
+  date_accepted: 2007-11-01T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: 달력 연대
+      normative_status: preferred
+  _revisions:
+    current: bc95b8
+    tree:
+      bc95b8:
+        object:
+          id: 32
+          definition: 기간의 연속을 표현하는 달력의 유형으로 특정 사건으로부터 계산된 기간 표시
+          language_code: kor
+          notes: []
+          examples:
+            - '단기 0000년, 서기 0000년'
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19108:2002'
+            link: 'https://www.iso.org/standard/26013.html'
+          lineage_source: KS X ISO 19108
+          date_accepted: 2007-11-01T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: 달력 연대
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-11-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+pol:
+  id: 32
+  definition: >-
+    zastosowany w kalendarzu ciąg okresów jednego typu,liczonych od określonego
+    zdarzenia
+  language_code: pol
+  notes: []
+  examples: []
+  authoritative_source:
+    ref: 'ISO 19108:2002'
+    link: 'https://www.iso.org/standard/26013.html'
+  lineage_source: PN-EN ISO 19108
+  date_accepted: 2002-09-01T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: era kalendarzowa
+      normative_status: preferred
+  _revisions:
+    current: 42bab8
+    tree:
+      42bab8:
+        object:
+          id: 32
+          definition: >-
+            zastosowany w kalendarzu ciąg okresów jednego typu,liczonych od
+            określonego zdarzenia
+          language_code: pol
+          notes: []
+          examples: []
+          authoritative_source:
+            ref: 'ISO 19108:2002'
+            link: 'https://www.iso.org/standard/26013.html'
+          lineage_source: PN-EN ISO 19108
+          date_accepted: 2002-09-01T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: era kalendarzowa
+              normative_status: preferred
+        parents: []
+        timeCreated: 2002-09-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 32
+  definition: >-
+    последовательность периодов одного типа, используемого в календаре, с
+    отсчетом от определенного события
+  language_code: rus
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19108:2002'
+    link: 'https://www.iso.org/standard/26013.html'
+  lineage_source: 'ISO 19108:2002'
+  date_accepted: 2002-09-01T00:00:00.000Z
+  terms:
+    - type: expression
+      designation: календарная эра
+      normative_status: preferred
+  _revisions:
+    current: f6849b
+    tree:
+      f6849b:
+        object:
+          id: 32
+          definition: >-
+            последовательность периодов одного типа, используемого в календаре,
+            с отсчетом от определенного события
+          language_code: rus
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19108:2002'
+            link: 'https://www.iso.org/standard/26013.html'
+          lineage_source: 'ISO 19108:2002'
+          date_accepted: 2002-09-01T00:00:00.000Z
+          terms:
+            - type: expression
+              designation: календарная эра
+              normative_status: preferred
+        parents: []
+        timeCreated: 2002-09-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 32
+  definition: >-
+    secuencia de períodos de uno de los tipos utilizados en un calendario,
+    contando a partir de un evento específico
+  language_code: spa
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19108:2002'
+    link: 'https://www.iso.org/standard/26013.html'
+  date_accepted: 2002-09-01T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: era de calendario
+      normative_status: preferred
+  _revisions:
+    current: d0ce30
+    tree:
+      d0ce30:
+        object:
+          id: 32
+          definition: >-
+            secuencia de períodos de uno de los tipos utilizados en un
+            calendario, contando a partir de un evento específico
+          language_code: spa
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19108:2002'
+            link: 'https://www.iso.org/standard/26013.html'
+          date_accepted: 2002-09-01T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: era de calendario
+              normative_status: preferred
+        parents: []
+        timeCreated: 2002-09-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+swe:
+  id: 32
+  definition: >-
+    sequence of periods of one of the types used in a calendar, counted from a
+    specified event
+  country_code: swe
+  language_code: swe
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19108:2002'
+    link: 'https://www.iso.org/standard/26013.html'
+  lineage_source: (Type reference to national language document)
+  date_accepted: 2002-09-01T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: kalenderera
+      normative_status: preferred
+  _revisions:
+    current: 410aca
+    tree:
+      410aca:
+        object:
+          id: 32
+          definition: >-
+            sequence of periods of one of the types used in a calendar, counted
+            from a specified event
+          country_code: swe
+          language_code: swe
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19108:2002'
+            link: 'https://www.iso.org/standard/26013.html'
+          lineage_source: (Type reference to national language document)
+          date_accepted: 2002-09-01T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: kalenderera
+              normative_status: preferred
+        parents: []
+        timeCreated: 2002-09-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

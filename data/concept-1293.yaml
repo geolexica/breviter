@@ -1,0 +1,233 @@
+term: converter
+termid: 1293
+eng:
+  id: 1293
+  definition: resource that performs conversion
+  language_code: eng
+  notes:
+    - The resource can be a device or software.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19145:2013'
+    clause: 4.1.5
+    link: 'https://www.iso.org/standard/32563.html'
+  date_accepted: 2013-02-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: converter
+      normative_status: preferred
+  _revisions:
+    current: 0abcf3
+    tree:
+      0abcf3:
+        object:
+          id: 1293
+          definition: resource that performs conversion
+          language_code: eng
+          notes:
+            - The resource can be a device or software.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19145:2013'
+            clause: 4.1.5
+            link: 'https://www.iso.org/standard/32563.html'
+          date_accepted: 2013-02-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: converter
+              normative_status: preferred
+        parents: []
+        timeCreated: 2013-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+kor:
+  id: 1293
+  definition: 변환을 수행하는 자원
+  language_code: kor
+  notes:
+    - The resource can be a device or software.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19145:2013'
+    clause: 4.1.5
+    link: 'https://www.iso.org/standard/32563.html'
+  date_accepted: 2013-02-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: 변환기
+      normative_status: preferred
+  _revisions:
+    current: '46e933'
+    tree:
+      '46e933':
+        object:
+          id: 1293
+          definition: 변환을 수행하는 자원
+          language_code: kor
+          notes:
+            - The resource can be a device or software.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19145:2013'
+            clause: 4.1.5
+            link: 'https://www.iso.org/standard/32563.html'
+          date_accepted: 2013-02-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: 변환기
+              normative_status: preferred
+        parents: []
+        timeCreated: 2013-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 1293
+  definition: 'ресурс, который выполняет конвертацию'
+  language_code: rus
+  notes:
+    - Источником может быть устройство или программное обеспечение
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19145:2013'
+    clause: 4.1.5
+    link: 'https://www.iso.org/standard/32563.html'
+  lineage_source: 'ISO 19145:2013'
+  date_accepted: 2013-02-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: конвертер
+      normative_status: preferred
+  _revisions:
+    current: 00af74
+    tree:
+      00af74:
+        object:
+          id: 1293
+          definition: 'ресурс, который выполняет конвертацию'
+          language_code: rus
+          notes:
+            - Источником может быть устройство или программное обеспечение
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19145:2013'
+            clause: 4.1.5
+            link: 'https://www.iso.org/standard/32563.html'
+          lineage_source: 'ISO 19145:2013'
+          date_accepted: 2013-02-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: конвертер
+              normative_status: preferred
+        parents: []
+        timeCreated: 2013-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 1293
+  definition: recurso que realiza una conversión
+  language_code: spa
+  notes:
+    - El recurso puede ser un dispositivo o software.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19145:2013'
+    clause: 4.1.5
+    link: 'https://www.iso.org/standard/32563.html'
+  date_accepted: 2013-02-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: conversor
+      normative_status: preferred
+  _revisions:
+    current: 78dad3
+    tree:
+      78dad3:
+        object:
+          id: 1293
+          definition: recurso que realiza una conversión
+          language_code: spa
+          notes:
+            - El recurso puede ser un dispositivo o software.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19145:2013'
+            clause: 4.1.5
+            link: 'https://www.iso.org/standard/32563.html'
+          date_accepted: 2013-02-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: conversor
+              normative_status: preferred
+        parents: []
+        timeCreated: 2013-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+swe:
+  id: 1293
+  definition: resurs som kan utföra konvertering
+  country_code: swe
+  language_code: swe
+  notes:
+    - The resource can be a device or software.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19145:2013'
+    clause: 4.1.5
+    link: 'https://www.iso.org/standard/32563.html'
+  lineage_source: (Type reference to national language document)
+  date_accepted: 2013-02-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: konverterare
+      normative_status: preferred
+  _revisions:
+    current: '661737'
+    tree:
+      '661737':
+        object:
+          id: 1293
+          definition: resurs som kan utföra konvertering
+          country_code: swe
+          language_code: swe
+          notes:
+            - The resource can be a device or software.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19145:2013'
+            clause: 4.1.5
+            link: 'https://www.iso.org/standard/32563.html'
+          lineage_source: (Type reference to national language document)
+          date_accepted: 2013-02-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: konverterare
+              normative_status: preferred
+        parents: []
+        timeCreated: 2013-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

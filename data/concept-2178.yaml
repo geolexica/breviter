@@ -1,0 +1,67 @@
+term: inverse geodetic problem <differential geometry>
+termid: 2178
+eng:
+  id: 2178
+  definition: >-
+    problem that given two points, determines the initial direction and length
+    of a geodesic that connects them
+  language_code: eng
+  notes:
+    - 'See the first geodetic problem, which reverses this operation.'
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19107:2019'
+    clause: '(E), 3.82'
+    link: 'https://www.iso.org/standard/66175.html'
+  date_accepted: 2019-12-02T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: Normal ISO processing
+  review_decision_notes: 'Publication of document ISO 19107:2019(E)'
+  release: '5'
+  terms:
+    - type: expression
+      designation: inverse geodetic problem <differential geometry>
+      normative_status: admitted
+    - designation: second geodetic problem <differential geometry>
+      type: expression
+  _revisions:
+    current: d38b2c
+    tree:
+      d38b2c:
+        object:
+          id: 2178
+          definition: >-
+            problem that given two points, determines the initial direction and
+            length of a geodesic that connects them
+          language_code: eng
+          notes:
+            - 'See the first geodetic problem, which reverses this operation.'
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19107:2019'
+            clause: '(E), 3.82'
+            link: 'https://www.iso.org/standard/66175.html'
+          date_accepted: 2019-12-02T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: Normal ISO processing
+          review_decision_notes: 'Publication of document ISO 19107:2019(E)'
+          release: '5'
+          terms:
+            - type: expression
+              designation: inverse geodetic problem <differential geometry>
+              normative_status: admitted
+            - designation: second geodetic problem <differential geometry>
+              type: expression
+        parents: []
+        timeCreated: 2019-12-02T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

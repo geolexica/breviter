@@ -1,0 +1,975 @@
+term: external function
+termid: 164
+eng:
+  id: 164
+  definition: function not part of the application schema
+  language_code: eng
+  notes:
+    - >-
+      The electronic map in a car navigation system has to be displayed so that
+      the up-direction of the map is always in the direction the car is moving.
+      To be able to specify the rotation of the map, the current position of the
+      car must be retrieved continuously from an external position device using
+      an external function.
+  examples: []
+  entry_status: retired
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19117:2005'
+    clause: '4.5'
+    link: 'https://www.iso.org/standard/40395.html'
+  lineage_source: ''
+  lineage_source_similarity: 0
+  date_accepted: 2005-06-01T00:00:00.000Z
+  date_amended: 2012-12-15T00:00:00.000Z
+  review_date: 2012-12-15T00:00:00.000Z
+  review_status: final
+  review_type: retirement
+  review_decision: accepted
+  review_decision_date: 2012-12-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19117:2012'
+  review_decision_notes: 'The entry has been omitted from the superseding standard  (ISO 19117:2012).'
+  release: '-1'
+  terms:
+    - type: expression
+      designation: external function
+      normative_status: null
+  _revisions:
+    current: 6b2bd2
+    tree:
+      6b2bd2:
+        object:
+          id: 164
+          definition: function not part of the application schema
+          language_code: eng
+          notes:
+            - >-
+              The electronic map in a car navigation system has to be displayed
+              so that the up-direction of the map is always in the direction the
+              car is moving. To be able to specify the rotation of the map, the
+              current position of the car must be retrieved continuously from an
+              external position device using an external function.
+          examples: []
+          entry_status: retired
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19117:2005'
+            clause: '4.5'
+            link: 'https://www.iso.org/standard/40395.html'
+          lineage_source: ''
+          lineage_source_similarity: 0
+          date_accepted: 2005-06-01T00:00:00.000Z
+          date_amended: 2012-12-15T00:00:00.000Z
+          review_date: 2012-12-15T00:00:00.000Z
+          review_status: final
+          review_type: retirement
+          review_decision: accepted
+          review_decision_date: 2012-12-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19117:2012'
+          review_decision_notes: >-
+            The entry has been omitted from the superseding standard  (ISO
+            19117:2012).
+          release: '-1'
+          terms:
+            - type: expression
+              designation: external function
+              normative_status: null
+        parents: []
+        timeCreated: 2005-06-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+ara:
+  id: 164
+  definition: وظيفة لا تشكل جزءاً من مخطط التطبيق
+  language_code: ara
+  notes:
+    - >-
+      الخارطة الالكترونية التي يعرضها نظام الملاحة المركب على سيارة لا بد أن
+      يكون الاتجاه العلوي فيها موافقاً دائماً للاتجاه الذي تسير فيه السيارة.
+      ولكي يمكن تحديد دوران الخريطة , لا بد من استرجاع الموقع الراهن للسيارة
+      بصورة مستمرة من جهاز موقع خارجي باستخدام دالة خارجية.
+  examples: []
+  entry_status: retired
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19117:2005'
+    clause: '4.5'
+    link: 'https://www.iso.org/standard/40395.html'
+  date_accepted: 2005-06-01T00:00:00.000Z
+  date_amended: 2012-12-15T00:00:00.000Z
+  review_date: 2012-12-15T00:00:00.000Z
+  review_status: final
+  review_type: retirement
+  review_decision: accepted
+  review_decision_date: 2012-12-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19117:2012'
+  review_decision_notes: 'The entry has been omitted from the superseding standard  (ISO 19117:2012).'
+  release: '-1'
+  terms:
+    - type: expression
+      designation: الوظيفة الخارجية
+      normative_status: null
+  _revisions:
+    current: 11c18d
+    tree:
+      11c18d:
+        object:
+          id: 164
+          definition: وظيفة لا تشكل جزءاً من مخطط التطبيق
+          language_code: ara
+          notes:
+            - >-
+              الخارطة الالكترونية التي يعرضها نظام الملاحة المركب على سيارة لا
+              بد أن يكون الاتجاه العلوي فيها موافقاً دائماً للاتجاه الذي تسير
+              فيه السيارة. ولكي يمكن تحديد دوران الخريطة , لا بد من استرجاع
+              الموقع الراهن للسيارة بصورة مستمرة من جهاز موقع خارجي باستخدام
+              دالة خارجية.
+          examples: []
+          entry_status: retired
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19117:2005'
+            clause: '4.5'
+            link: 'https://www.iso.org/standard/40395.html'
+          date_accepted: 2005-06-01T00:00:00.000Z
+          date_amended: 2012-12-15T00:00:00.000Z
+          review_date: 2012-12-15T00:00:00.000Z
+          review_status: final
+          review_type: retirement
+          review_decision: accepted
+          review_decision_date: 2012-12-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19117:2012'
+          review_decision_notes: >-
+            The entry has been omitted from the superseding standard  (ISO
+            19117:2012).
+          release: '-1'
+          terms:
+            - type: expression
+              designation: الوظيفة الخارجية
+              normative_status: null
+        parents: []
+        timeCreated: 2005-06-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+zho:
+  id: 164
+  definition: 非应用模式部分的函数。
+  language_code: zho
+  notes:
+    - >-
+      车载导航系统中的电子地图必须这样显示，即地图的上方总是朝着汽车前进的方向。为了能说明地图的方向，必须要利用外部函数从一个外部定位装置连续地搜索汽车的当前位置。
+  examples: []
+  entry_status: retired
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19117:2005'
+    clause: '4.5'
+    link: 'https://www.iso.org/standard/40395.html'
+  lineage_source: ''
+  date_accepted: 2005-06-01T00:00:00.000Z
+  date_amended: 2012-12-15T00:00:00.000Z
+  review_date: 2012-12-15T00:00:00.000Z
+  review_status: final
+  review_type: retirement
+  review_decision: accepted
+  review_decision_date: 2012-12-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19117:2012'
+  review_decision_notes: 'The entry has been omitted from the superseding standard  (ISO 19117:2012).'
+  release: '-1'
+  terms:
+    - type: expression
+      designation: 外部函数
+      normative_status: null
+  _revisions:
+    current: 05dd49
+    tree:
+      05dd49:
+        object:
+          id: 164
+          definition: 非应用模式部分的函数。
+          language_code: zho
+          notes:
+            - >-
+              车载导航系统中的电子地图必须这样显示，即地图的上方总是朝着汽车前进的方向。为了能说明地图的方向，必须要利用外部函数从一个外部定位装置连续地搜索汽车的当前位置。
+          examples: []
+          entry_status: retired
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19117:2005'
+            clause: '4.5'
+            link: 'https://www.iso.org/standard/40395.html'
+          lineage_source: ''
+          date_accepted: 2005-06-01T00:00:00.000Z
+          date_amended: 2012-12-15T00:00:00.000Z
+          review_date: 2012-12-15T00:00:00.000Z
+          review_status: final
+          review_type: retirement
+          review_decision: accepted
+          review_decision_date: 2012-12-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19117:2012'
+          review_decision_notes: >-
+            The entry has been omitted from the superseding standard  (ISO
+            19117:2012).
+          release: '-1'
+          terms:
+            - type: expression
+              designation: 外部函数
+              normative_status: null
+        parents: []
+        timeCreated: 2005-06-01T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+dan:
+  id: 164
+  definition: 'funktion, der ikke er en del af applikationsmodellen'
+  language_code: dan
+  notes:
+    - >-
+      Det elektroniske kort i et navigationssystem i en bil skal vises således,
+      at opad på kortet altid er den retning, hvori bilen bevæger sig. For at
+      kunne specificere kortets rotation, skal bilens aktuelle position hentes
+      kontinuerligt fra en ekstern positionsmåler ved hjælp af en ekstern
+      funktion.
+  examples: []
+  entry_status: retired
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19117:2005'
+    clause: '4.5'
+    link: 'https://www.iso.org/standard/40395.html'
+  lineage_source: ''
+  date_accepted: 2005-06-01T00:00:00.000Z
+  date_amended: 2012-12-15T00:00:00.000Z
+  review_date: 2012-12-15T00:00:00.000Z
+  review_status: final
+  review_type: retirement
+  review_decision: accepted
+  review_decision_date: 2012-12-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19117:2012'
+  review_decision_notes: 'The entry has been omitted from the superseding standard  (ISO 19117:2012).'
+  release: '-1'
+  terms:
+    - type: expression
+      designation: ekstern funktion
+      normative_status: null
+  _revisions:
+    current: '9e2668'
+    tree:
+      '9e2668':
+        object:
+          id: 164
+          definition: 'funktion, der ikke er en del af applikationsmodellen'
+          language_code: dan
+          notes:
+            - >-
+              Det elektroniske kort i et navigationssystem i en bil skal vises
+              således, at opad på kortet altid er den retning, hvori bilen
+              bevæger sig. For at kunne specificere kortets rotation, skal
+              bilens aktuelle position hentes kontinuerligt fra en ekstern
+              positionsmåler ved hjælp af en ekstern funktion.
+          examples: []
+          entry_status: retired
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19117:2005'
+            clause: '4.5'
+            link: 'https://www.iso.org/standard/40395.html'
+          lineage_source: ''
+          date_accepted: 2005-06-01T00:00:00.000Z
+          date_amended: 2012-12-15T00:00:00.000Z
+          review_date: 2012-12-15T00:00:00.000Z
+          review_status: final
+          review_type: retirement
+          review_decision: accepted
+          review_decision_date: 2012-12-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19117:2012'
+          review_decision_notes: >-
+            The entry has been omitted from the superseding standard  (ISO
+            19117:2012).
+          release: '-1'
+          terms:
+            - type: expression
+              designation: ekstern funktion
+              normative_status: null
+        parents: []
+        timeCreated: 2005-06-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+fin:
+  id: 164
+  definition: 'toiminto, joka ei ole osa sovellusskeemaa'
+  language_code: fin
+  notes:
+    - >-
+      Auton paikannusjärjestelmän sähköinen kartta on esitettävä aina siinä
+      suunnassa, johon auto liikkuu. Kartan kiertymisen määrittämiseksi on
+      saatava auton kunkinhetkinen suuntaus ulkoisen paikannuslaitteen avulla
+      käyttäen ulkoista toimintoa.
+  examples: []
+  entry_status: retired
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19117:2005'
+    clause: '4.5'
+    link: 'https://www.iso.org/standard/40395.html'
+  lineage_source: ''
+  date_accepted: 2005-06-01T00:00:00.000Z
+  date_amended: 2012-12-15T00:00:00.000Z
+  review_date: 2012-12-15T00:00:00.000Z
+  review_status: final
+  review_type: retirement
+  review_decision: accepted
+  review_decision_date: 2012-12-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19117:2012'
+  review_decision_notes: 'The entry has been omitted from the superseding standard  (ISO 19117:2012).'
+  release: '-1'
+  terms:
+    - type: expression
+      designation: ulkoinen toiminto
+      normative_status: null
+  _revisions:
+    current: ec54ea
+    tree:
+      ec54ea:
+        object:
+          id: 164
+          definition: 'toiminto, joka ei ole osa sovellusskeemaa'
+          language_code: fin
+          notes:
+            - >-
+              Auton paikannusjärjestelmän sähköinen kartta on esitettävä aina
+              siinä suunnassa, johon auto liikkuu. Kartan kiertymisen
+              määrittämiseksi on saatava auton kunkinhetkinen suuntaus ulkoisen
+              paikannuslaitteen avulla käyttäen ulkoista toimintoa.
+          examples: []
+          entry_status: retired
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19117:2005'
+            clause: '4.5'
+            link: 'https://www.iso.org/standard/40395.html'
+          lineage_source: ''
+          date_accepted: 2005-06-01T00:00:00.000Z
+          date_amended: 2012-12-15T00:00:00.000Z
+          review_date: 2012-12-15T00:00:00.000Z
+          review_status: final
+          review_type: retirement
+          review_decision: accepted
+          review_decision_date: 2012-12-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19117:2012'
+          review_decision_notes: >-
+            The entry has been omitted from the superseding standard  (ISO
+            19117:2012).
+          release: '-1'
+          terms:
+            - type: expression
+              designation: ulkoinen toiminto
+              normative_status: null
+        parents: []
+        timeCreated: 2005-06-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+fra:
+  id: 164
+  definition: fonction n'appartenant pas au schéma d'application
+  language_code: fra
+  notes: []
+  examples: []
+  entry_status: retired
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19117:2005'
+    clause: '4.5'
+    link: 'https://www.iso.org/standard/40395.html'
+  lineage_source: ''
+  date_accepted: 2005-06-01T00:00:00.000Z
+  date_amended: 2012-12-15T00:00:00.000Z
+  review_date: 2012-12-15T00:00:00.000Z
+  review_status: final
+  review_type: retirement
+  review_decision: accepted
+  review_decision_date: 2012-12-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19117:2012'
+  review_decision_notes: 'The entry has been omitted from the superseding standard  (ISO 19117:2012).'
+  release: '-1'
+  terms:
+    - type: expression
+      designation: fonction externe
+      normative_status: null
+  _revisions:
+    current: '293834'
+    tree:
+      '293834':
+        object:
+          id: 164
+          definition: fonction n'appartenant pas au schéma d'application
+          language_code: fra
+          notes: []
+          examples: []
+          entry_status: retired
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19117:2005'
+            clause: '4.5'
+            link: 'https://www.iso.org/standard/40395.html'
+          lineage_source: ''
+          date_accepted: 2005-06-01T00:00:00.000Z
+          date_amended: 2012-12-15T00:00:00.000Z
+          review_date: 2012-12-15T00:00:00.000Z
+          review_status: final
+          review_type: retirement
+          review_decision: accepted
+          review_decision_date: 2012-12-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19117:2012'
+          review_decision_notes: >-
+            The entry has been omitted from the superseding standard  (ISO
+            19117:2012).
+          release: '-1'
+          terms:
+            - type: expression
+              designation: fonction externe
+              normative_status: null
+        parents: []
+        timeCreated: 2005-06-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+deu:
+  id: 164
+  definition: Funktion außerhalb des Applikationsschemas
+  language_code: deu
+  notes:
+    - >-
+      The electronic map in a car navigation system has to be displayed so that
+      the up-direction of the map is always in the direction the car is moving.
+      To be able to specify the rotation of the map, the current position of the
+      car must be retrieved continuously from an external position device using
+      an external function.
+  examples: []
+  entry_status: retired
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19117:2005'
+    clause: '4.5'
+    link: 'https://www.iso.org/standard/40395.html'
+  lineage_source: ''
+  date_accepted: 2005-06-01T00:00:00.000Z
+  date_amended: 2012-12-15T00:00:00.000Z
+  review_date: 2012-12-15T00:00:00.000Z
+  review_status: final
+  review_type: retirement
+  review_decision: accepted
+  review_decision_date: 2012-12-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19117:2012'
+  review_decision_notes: 'The entry has been omitted from the superseding standard  (ISO 19117:2012).'
+  release: '-1'
+  terms:
+    - type: expression
+      designation: externe Funktion
+      normative_status: null
+  _revisions:
+    current: e92435
+    tree:
+      e92435:
+        object:
+          id: 164
+          definition: Funktion außerhalb des Applikationsschemas
+          language_code: deu
+          notes:
+            - >-
+              The electronic map in a car navigation system has to be displayed
+              so that the up-direction of the map is always in the direction the
+              car is moving. To be able to specify the rotation of the map, the
+              current position of the car must be retrieved continuously from an
+              external position device using an external function.
+          examples: []
+          entry_status: retired
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19117:2005'
+            clause: '4.5'
+            link: 'https://www.iso.org/standard/40395.html'
+          lineage_source: ''
+          date_accepted: 2005-06-01T00:00:00.000Z
+          date_amended: 2012-12-15T00:00:00.000Z
+          review_date: 2012-12-15T00:00:00.000Z
+          review_status: final
+          review_type: retirement
+          review_decision: accepted
+          review_decision_date: 2012-12-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19117:2012'
+          review_decision_notes: >-
+            The entry has been omitted from the superseding standard  (ISO
+            19117:2012).
+          release: '-1'
+          terms:
+            - type: expression
+              designation: externe Funktion
+              normative_status: null
+        parents: []
+        timeCreated: 2005-06-01T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+kor:
+  id: 164
+  definition: 응용스키마 내부에 포함되지 않는 함수
+  language_code: kor
+  notes:
+    - >-
+      차량 내비게이션 시스템의 전자 지도는 차량의 진행 방향이 항상 지도의 위쪽 방향으로 표시되어야 한다. 지도의 회전을 위하여 차량의
+      현재 위치는 외부 함수를 사용하는 외부 측위 장치를 통해 지속적으로 갱신되어야 한다.
+  examples: []
+  entry_status: retired
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19117:2005'
+    clause: '4.5'
+    link: 'https://www.iso.org/standard/40395.html'
+  lineage_source: ''
+  date_accepted: 2006-05-01T00:00:00.000Z
+  date_amended: 2012-12-15T00:00:00.000Z
+  review_date: 2012-12-15T00:00:00.000Z
+  review_status: final
+  review_type: retirement
+  review_decision: accepted
+  review_decision_date: 2012-12-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19117:2012'
+  review_decision_notes: 'The entry has been omitted from the superseding standard  (ISO 19117:2012).'
+  release: '-1'
+  terms:
+    - type: expression
+      designation: 외부 함수
+      normative_status: null
+  _revisions:
+    current: d33631
+    tree:
+      d33631:
+        object:
+          id: 164
+          definition: 응용스키마 내부에 포함되지 않는 함수
+          language_code: kor
+          notes:
+            - >-
+              차량 내비게이션 시스템의 전자 지도는 차량의 진행 방향이 항상 지도의 위쪽 방향으로 표시되어야 한다. 지도의 회전을
+              위하여 차량의 현재 위치는 외부 함수를 사용하는 외부 측위 장치를 통해 지속적으로 갱신되어야 한다.
+          examples: []
+          entry_status: retired
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19117:2005'
+            clause: '4.5'
+            link: 'https://www.iso.org/standard/40395.html'
+          lineage_source: ''
+          date_accepted: 2006-05-01T00:00:00.000Z
+          date_amended: 2012-12-15T00:00:00.000Z
+          review_date: 2012-12-15T00:00:00.000Z
+          review_status: final
+          review_type: retirement
+          review_decision: accepted
+          review_decision_date: 2012-12-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19117:2012'
+          review_decision_notes: >-
+            The entry has been omitted from the superseding standard  (ISO
+            19117:2012).
+          release: '-1'
+          terms:
+            - type: expression
+              designation: 외부 함수
+              normative_status: null
+        parents: []
+        timeCreated: 2006-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+msa:
+  id: 164
+  language_code: msa
+  notes:
+    - >-
+      The electronic map in a car navigation system has to be displayed so that
+      the up-direction of the map is always in the direction the car is moving.
+      To be able to specify the rotation of the map, the current position of the
+      car must be retrieved continuously from an external position device using
+      an external function.
+  examples: []
+  entry_status: retired
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19117:2005'
+    clause: '4.5'
+    link: 'https://www.iso.org/standard/40395.html'
+  lineage_source: Pusat Rujukan Persuratan Melayu (DBP)
+  date_accepted: 2005-06-01T00:00:00.000Z
+  date_amended: 2012-12-15T00:00:00.000Z
+  review_date: 2012-12-15T00:00:00.000Z
+  review_status: final
+  review_type: retirement
+  review_decision: accepted
+  review_decision_date: 2012-12-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19117:2012'
+  review_decision_notes: 'The entry has been omitted from the superseding standard  (ISO 19117:2012).'
+  release: '-1'
+  terms:
+    - type: expression
+      designation: fungsi luaran
+      normative_status: null
+  _revisions:
+    current: '704315'
+    tree:
+      '704315':
+        object:
+          id: 164
+          language_code: msa
+          notes:
+            - >-
+              The electronic map in a car navigation system has to be displayed
+              so that the up-direction of the map is always in the direction the
+              car is moving. To be able to specify the rotation of the map, the
+              current position of the car must be retrieved continuously from an
+              external position device using an external function.
+          examples: []
+          entry_status: retired
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19117:2005'
+            clause: '4.5'
+            link: 'https://www.iso.org/standard/40395.html'
+          lineage_source: Pusat Rujukan Persuratan Melayu (DBP)
+          date_accepted: 2005-06-01T00:00:00.000Z
+          date_amended: 2012-12-15T00:00:00.000Z
+          review_date: 2012-12-15T00:00:00.000Z
+          review_status: final
+          review_type: retirement
+          review_decision: accepted
+          review_decision_date: 2012-12-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19117:2012'
+          review_decision_notes: >-
+            The entry has been omitted from the superseding standard  (ISO
+            19117:2012).
+          release: '-1'
+          terms:
+            - type: expression
+              designation: fungsi luaran
+              normative_status: null
+        parents: []
+        timeCreated: 2005-06-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+pol:
+  id: 164
+  definition: funkcja nie będąca częścią schematu aplikacyjnego
+  language_code: pol
+  notes:
+    - >-
+      Mapa elektroniczna w systemie nawigacji samochodowej powinna być
+      wyświetlana w taki sposób, aby górna ramka mapy była zawsze zgodna z
+      kierunkiem poruszania się samochodu. Aby można było określić kąt obrotu
+      mapy, bieżąca pozycja samochodu powinna być pobierana - w sposób ciągły -
+      z zewnętrznego urządzenia pozycjonującego przy użyciu funkcji zewnętrznej.
+  examples: []
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19117:2005'
+    clause: '4.5'
+    link: 'https://www.iso.org/standard/40395.html'
+  lineage_source: ''
+  date_accepted: 2005-06-01T00:00:00.000Z
+  date_amended: 2012-12-15T00:00:00.000Z
+  review_date: 2012-12-15T00:00:00.000Z
+  review_status: final
+  review_type: retirement
+  review_decision: accepted
+  review_decision_date: 2012-12-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19117:2012'
+  review_decision_notes: 'The entry has been omitted from the superseding standard  (ISO 19117:2012).'
+  release: '-1'
+  terms:
+    - type: expression
+      designation: funkcja zewnętrzna
+      normative_status: null
+  _revisions:
+    current: 85467c
+    tree:
+      85467c:
+        object:
+          id: 164
+          definition: funkcja nie będąca częścią schematu aplikacyjnego
+          language_code: pol
+          notes:
+            - >-
+              Mapa elektroniczna w systemie nawigacji samochodowej powinna być
+              wyświetlana w taki sposób, aby górna ramka mapy była zawsze zgodna
+              z kierunkiem poruszania się samochodu. Aby można było określić kąt
+              obrotu mapy, bieżąca pozycja samochodu powinna być pobierana - w
+              sposób ciągły - z zewnętrznego urządzenia pozycjonującego przy
+              użyciu funkcji zewnętrznej.
+          examples: []
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19117:2005'
+            clause: '4.5'
+            link: 'https://www.iso.org/standard/40395.html'
+          lineage_source: ''
+          date_accepted: 2005-06-01T00:00:00.000Z
+          date_amended: 2012-12-15T00:00:00.000Z
+          review_date: 2012-12-15T00:00:00.000Z
+          review_status: final
+          review_type: retirement
+          review_decision: accepted
+          review_decision_date: 2012-12-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19117:2012'
+          review_decision_notes: >-
+            The entry has been omitted from the superseding standard  (ISO
+            19117:2012).
+          release: '-1'
+          terms:
+            - type: expression
+              designation: funkcja zewnętrzna
+              normative_status: null
+        parents: []
+        timeCreated: 2005-06-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 164
+  definition: 'функция, не являющаяся частью схемы приложения'
+  language_code: rus
+  notes:
+    - >-
+      Электронная карта в автомобильной навигационной системе должна быть
+      отображена таким образом, чтобы ее ориентация всегда соответствовала
+      направлению движения автомобиля. Для определения угла поворота карты
+      текущее местоположение автомобиля должно в непрерывном режиме приниматься
+      из внешнего устройства позиционирования с использованием внешней функции
+  examples: []
+  entry_status: изъятый
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19117:2005'
+    clause: '4.5'
+    link: 'https://www.iso.org/standard/40395.html'
+  lineage_source: ''
+  date_accepted: 2005-06-01T00:00:00.000Z
+  date_amended: 2012-12-15T00:00:00.000Z
+  review_date: 2012-12-15T00:00:00.000Z
+  review_status: ''
+  review_type: ''
+  review_decision: ''
+  review_decision_date: 2012-12-15T00:00:00.000Z
+  review_decision_event: 'Публикация ИСО 19117:2012'
+  review_decision_notes: 'Эта запись была опущена из заменяющего стандарта  (ISO 19117:2012).'
+  release: '-1'
+  terms:
+    - type: expression
+      designation: внешняя функция
+      normative_status: null
+  _revisions:
+    current: ff1b1c
+    tree:
+      ff1b1c:
+        object:
+          id: 164
+          definition: 'функция, не являющаяся частью схемы приложения'
+          language_code: rus
+          notes:
+            - >-
+              Электронная карта в автомобильной навигационной системе должна
+              быть отображена таким образом, чтобы ее ориентация всегда
+              соответствовала направлению движения автомобиля. Для определения
+              угла поворота карты текущее местоположение автомобиля должно в
+              непрерывном режиме приниматься из внешнего устройства
+              позиционирования с использованием внешней функции
+          examples: []
+          entry_status: изъятый
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19117:2005'
+            clause: '4.5'
+            link: 'https://www.iso.org/standard/40395.html'
+          lineage_source: ''
+          date_accepted: 2005-06-01T00:00:00.000Z
+          date_amended: 2012-12-15T00:00:00.000Z
+          review_date: 2012-12-15T00:00:00.000Z
+          review_status: ''
+          review_type: ''
+          review_decision: ''
+          review_decision_date: 2012-12-15T00:00:00.000Z
+          review_decision_event: 'Публикация ИСО 19117:2012'
+          review_decision_notes: 'Эта запись была опущена из заменяющего стандарта  (ISO 19117:2012).'
+          release: '-1'
+          terms:
+            - type: expression
+              designation: внешняя функция
+              normative_status: null
+        parents: []
+        timeCreated: 2005-06-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 164
+  definition: función que no es parte del esquema de aplicación
+  language_code: spa
+  notes:
+    - >-
+      El mapa electrónico de un sistema de navegación de un vehículo tiene que
+      visualizarse de manera que la parte superior del mapa siempre esté en la
+      dirección de avance del vehículo. Para ser capaz de especificar el valor
+      de la rotación del mapa, la posición debe calcularse continuamente desde
+      un dispositivo externo de posicionamiento utilizando una función externa.
+  examples: []
+  entry_status: retired
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19117:2005'
+    clause: '4.5'
+    link: 'https://www.iso.org/standard/40395.html'
+  lineage_source: ''
+  date_accepted: 2005-06-01T00:00:00.000Z
+  date_amended: 2012-12-15T00:00:00.000Z
+  review_date: 2012-12-15T00:00:00.000Z
+  review_status: final
+  review_type: retirement
+  review_decision: accepted
+  review_decision_date: 2012-12-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19117:2012'
+  review_decision_notes: 'The entry has been omitted from the superseding standard  (ISO 19117:2012).'
+  release: '-1'
+  terms:
+    - type: expression
+      designation: función externa
+      normative_status: null
+  _revisions:
+    current: d481bc
+    tree:
+      d481bc:
+        object:
+          id: 164
+          definition: función que no es parte del esquema de aplicación
+          language_code: spa
+          notes:
+            - >-
+              El mapa electrónico de un sistema de navegación de un vehículo
+              tiene que visualizarse de manera que la parte superior del mapa
+              siempre esté en la dirección de avance del vehículo. Para ser
+              capaz de especificar el valor de la rotación del mapa, la posición
+              debe calcularse continuamente desde un dispositivo externo de
+              posicionamiento utilizando una función externa.
+          examples: []
+          entry_status: retired
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19117:2005'
+            clause: '4.5'
+            link: 'https://www.iso.org/standard/40395.html'
+          lineage_source: ''
+          date_accepted: 2005-06-01T00:00:00.000Z
+          date_amended: 2012-12-15T00:00:00.000Z
+          review_date: 2012-12-15T00:00:00.000Z
+          review_status: final
+          review_type: retirement
+          review_decision: accepted
+          review_decision_date: 2012-12-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19117:2012'
+          review_decision_notes: >-
+            The entry has been omitted from the superseding standard  (ISO
+            19117:2012).
+          release: '-1'
+          terms:
+            - type: expression
+              designation: función externa
+              normative_status: null
+        parents: []
+        timeCreated: 2005-06-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+swe:
+  id: 164
+  definition: function not part of the application schema
+  country_code: swe
+  language_code: swe
+  notes:
+    - >-
+      The electronic map in a car navigation system has to be displayed so that
+      the up-direction of the map is always in the direction the car is moving.
+      To be able to specify the rotation of the map, the current position of the
+      car must be retrieved continuously from an external position device using
+      an external function.
+  examples: []
+  entry_status: retired
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19117:2005'
+    clause: '4.5'
+    link: 'https://www.iso.org/standard/40395.html'
+  lineage_source: ''
+  lineage_source_similarity: 0
+  date_accepted: 2005-06-01T00:00:00.000Z
+  date_amended: 2012-12-15T00:00:00.000Z
+  review_date: 2012-12-15T00:00:00.000Z
+  review_status: final
+  review_type: retirement
+  review_decision: accepted
+  review_decision_date: 2012-12-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19117:2012'
+  review_decision_notes: 'The entry has been omitted from the superseding standard  (ISO 19117:2012).'
+  release: '-1'
+  terms:
+    - type: expression
+      designation: extern funktion
+      normative_status: null
+  _revisions:
+    current: d0a8b1
+    tree:
+      d0a8b1:
+        object:
+          id: 164
+          definition: function not part of the application schema
+          country_code: swe
+          language_code: swe
+          notes:
+            - >-
+              The electronic map in a car navigation system has to be displayed
+              so that the up-direction of the map is always in the direction the
+              car is moving. To be able to specify the rotation of the map, the
+              current position of the car must be retrieved continuously from an
+              external position device using an external function.
+          examples: []
+          entry_status: retired
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19117:2005'
+            clause: '4.5'
+            link: 'https://www.iso.org/standard/40395.html'
+          lineage_source: ''
+          lineage_source_similarity: 0
+          date_accepted: 2005-06-01T00:00:00.000Z
+          date_amended: 2012-12-15T00:00:00.000Z
+          review_date: 2012-12-15T00:00:00.000Z
+          review_status: final
+          review_type: retirement
+          review_decision: accepted
+          review_decision_date: 2012-12-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19117:2012'
+          review_decision_notes: >-
+            The entry has been omitted from the superseding standard  (ISO
+            19117:2012).
+          release: '-1'
+          terms:
+            - type: expression
+              designation: extern funktion
+              normative_status: null
+        parents: []
+        timeCreated: 2005-06-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

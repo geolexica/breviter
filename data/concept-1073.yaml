@@ -1,0 +1,378 @@
+term: linear element
+termid: 1073
+eng:
+  id: 1073
+  definition: >-
+    1-dimensional object that serves as the axis along which linear referencing
+    is performed
+  language_code: eng
+  notes:
+    - Also known as curvilinear element.
+  examples:
+    - >-
+      Feature, such as “road”; curve geometry; directed edge topological
+      primitive.
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19148:2012'
+    clause: '4.9'
+    link: 'https://www.iso.org/standard/32566.html'
+  date_accepted: 2012-02-15T00:00:00.000Z
+  review_date: 2019-11-22T00:00:00.000Z
+  review_status: pending
+  review_type: retirement
+  release: '3'
+  terms:
+    - type: expression
+      designation: linear element
+      normative_status: preferred
+  _revisions:
+    current: 380a6e
+    tree:
+      380a6e:
+        object:
+          id: 1073
+          definition: >-
+            1-dimensional object that serves as the axis along which linear
+            referencing is performed
+          language_code: eng
+          notes:
+            - Also known as curvilinear element.
+          examples:
+            - >-
+              Feature, such as “road”; curve geometry; directed edge topological
+              primitive.
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19148:2012'
+            clause: '4.9'
+            link: 'https://www.iso.org/standard/32566.html'
+          date_accepted: 2012-02-15T00:00:00.000Z
+          review_date: 2019-11-22T00:00:00.000Z
+          review_status: pending
+          review_type: retirement
+          release: '3'
+          terms:
+            - type: expression
+              designation: linear element
+              normative_status: preferred
+        parents: []
+        timeCreated: 2012-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+kor:
+  id: 1073
+  definition: 선형참조가 수행되는 곳을 따라 축으로 기능하는 1차원 객체
+  language_code: kor
+  notes:
+    - Also known as curvilinear element.
+  examples:
+    - >-
+      Feature, such as “road”; curve geometry; directed edge topological
+      primitive.
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19148:2012'
+    clause: '4.9'
+    link: 'https://www.iso.org/standard/32566.html'
+  date_accepted: 2012-02-15T00:00:00.000Z
+  review_date: 2019-11-22T00:00:00.000Z
+  review_status: pending
+  review_type: retirement
+  release: '3'
+  terms:
+    - type: expression
+      designation: '선재, 직선 소자, 선형 소자'
+      normative_status: preferred
+  _revisions:
+    current: c23a20
+    tree:
+      c23a20:
+        object:
+          id: 1073
+          definition: 선형참조가 수행되는 곳을 따라 축으로 기능하는 1차원 객체
+          language_code: kor
+          notes:
+            - Also known as curvilinear element.
+          examples:
+            - >-
+              Feature, such as “road”; curve geometry; directed edge topological
+              primitive.
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19148:2012'
+            clause: '4.9'
+            link: 'https://www.iso.org/standard/32566.html'
+          date_accepted: 2012-02-15T00:00:00.000Z
+          review_date: 2019-11-22T00:00:00.000Z
+          review_status: pending
+          review_type: retirement
+          release: '3'
+          terms:
+            - type: expression
+              designation: '선재, 직선 소자, 선형 소자'
+              normative_status: preferred
+        parents: []
+        timeCreated: 2012-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+msa:
+  id: 1073
+  definition: >-
+    Objek 1 dimensi yang berfungsi sebagai paksi di mana rujukan linear
+    dilakukan
+  language_code: msa
+  notes:
+    - Also known as curvilinear element.
+  examples:
+    - >-
+      Feature, such as “road”; curve geometry; directed edge topological
+      primitive.
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19148:2012'
+    clause: '4.9'
+    link: 'https://www.iso.org/standard/32566.html'
+  date_accepted: 2012-02-15T00:00:00.000Z
+  review_date: 2019-11-22T00:00:00.000Z
+  review_status: pending
+  review_type: retirement
+  release: '3'
+  terms:
+    - type: expression
+      designation: unsur linear
+      normative_status: preferred
+  _revisions:
+    current: 3aa356
+    tree:
+      3aa356:
+        object:
+          id: 1073
+          definition: >-
+            Objek 1 dimensi yang berfungsi sebagai paksi di mana rujukan linear
+            dilakukan
+          language_code: msa
+          notes:
+            - Also known as curvilinear element.
+          examples:
+            - >-
+              Feature, such as “road”; curve geometry; directed edge topological
+              primitive.
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19148:2012'
+            clause: '4.9'
+            link: 'https://www.iso.org/standard/32566.html'
+          date_accepted: 2012-02-15T00:00:00.000Z
+          review_date: 2019-11-22T00:00:00.000Z
+          review_status: pending
+          review_type: retirement
+          release: '3'
+          terms:
+            - type: expression
+              designation: unsur linear
+              normative_status: preferred
+        parents: []
+        timeCreated: 2012-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 1073
+  definition: >-
+    1-мерный объект, который служит осью, по которой выполняется линейная
+    привязка
+  language_code: rus
+  notes:
+    - Также известен как криволинейный элемент.
+  examples:
+    - >-
+      Объект (4.4), например, “дорога”; геометрия кривой; топологический
+      простейший элемент направленного ребра
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19148:2012'
+    clause: '4.9'
+    link: 'https://www.iso.org/standard/32566.html'
+  date_accepted: 2012-02-15T00:00:00.000Z
+  review_date: 2019-11-22T00:00:00.000Z
+  review_status: pending
+  review_type: retirement
+  release: '3'
+  terms:
+    - type: expression
+      designation: линейный элемент
+      normative_status: preferred
+  _revisions:
+    current: c1603f
+    tree:
+      c1603f:
+        object:
+          id: 1073
+          definition: >-
+            1-мерный объект, который служит осью, по которой выполняется
+            линейная привязка
+          language_code: rus
+          notes:
+            - Также известен как криволинейный элемент.
+          examples:
+            - >-
+              Объект (4.4), например, “дорога”; геометрия кривой; топологический
+              простейший элемент направленного ребра
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19148:2012'
+            clause: '4.9'
+            link: 'https://www.iso.org/standard/32566.html'
+          date_accepted: 2012-02-15T00:00:00.000Z
+          review_date: 2019-11-22T00:00:00.000Z
+          review_status: pending
+          review_type: retirement
+          release: '3'
+          terms:
+            - type: expression
+              designation: линейный элемент
+              normative_status: preferred
+        parents: []
+        timeCreated: 2012-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 1073
+  definition: >-
+    objeto unidimensional que sirve como eje a lo largo del cual se realiza la
+    referencia lineal
+  language_code: spa
+  notes:
+    - También conocido como elemento curvilíneo
+  examples:
+    - >-
+      S Fenómeno (4.4), tal como "carretera": geometría curva; primitiva
+      topológica de arcos dirigidos
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19148:2012'
+    clause: '4.9'
+    link: 'https://www.iso.org/standard/32566.html'
+  date_accepted: 2012-02-15T00:00:00.000Z
+  review_date: 2019-11-22T00:00:00.000Z
+  review_status: pending
+  review_type: retirement
+  release: '3'
+  terms:
+    - type: expression
+      designation: elemento lineal
+      normative_status: preferred
+  _revisions:
+    current: '7070e1'
+    tree:
+      '7070e1':
+        object:
+          id: 1073
+          definition: >-
+            objeto unidimensional que sirve como eje a lo largo del cual se
+            realiza la referencia lineal
+          language_code: spa
+          notes:
+            - También conocido como elemento curvilíneo
+          examples:
+            - >-
+              S Fenómeno (4.4), tal como "carretera": geometría curva; primitiva
+              topológica de arcos dirigidos
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19148:2012'
+            clause: '4.9'
+            link: 'https://www.iso.org/standard/32566.html'
+          date_accepted: 2012-02-15T00:00:00.000Z
+          review_date: 2019-11-22T00:00:00.000Z
+          review_status: pending
+          review_type: retirement
+          release: '3'
+          terms:
+            - type: expression
+              designation: elemento lineal
+              normative_status: preferred
+        parents: []
+        timeCreated: 2012-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+swe:
+  id: 1073
+  definition: >-
+    geometrisk linje som utgör den axel längs vilken linjerelativ
+    lägesbestämning utförs
+  country_code: swe
+  language_code: swe
+  notes:
+    - Also known as curvilinear element.
+  examples:
+    - >-
+      Feature, such as “road”; curve geometry; directed edge topological
+      primitive.
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19148:2012'
+    clause: '4.9'
+    link: 'https://www.iso.org/standard/32566.html'
+  date_accepted: 2012-02-15T00:00:00.000Z
+  review_date: 2019-11-22T00:00:00.000Z
+  review_status: pending
+  review_type: retirement
+  release: '3'
+  terms:
+    - type: expression
+      designation: referenslinje
+      normative_status: preferred
+  _revisions:
+    current: 0d65de
+    tree:
+      0d65de:
+        object:
+          id: 1073
+          definition: >-
+            geometrisk linje som utgör den axel längs vilken linjerelativ
+            lägesbestämning utförs
+          country_code: swe
+          language_code: swe
+          notes:
+            - Also known as curvilinear element.
+          examples:
+            - >-
+              Feature, such as “road”; curve geometry; directed edge topological
+              primitive.
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19148:2012'
+            clause: '4.9'
+            link: 'https://www.iso.org/standard/32566.html'
+          date_accepted: 2012-02-15T00:00:00.000Z
+          review_date: 2019-11-22T00:00:00.000Z
+          review_status: pending
+          review_type: retirement
+          release: '3'
+          terms:
+            - type: expression
+              designation: referenslinje
+              normative_status: preferred
+        parents: []
+        timeCreated: 2012-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

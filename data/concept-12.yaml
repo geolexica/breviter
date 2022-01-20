@@ -1,0 +1,742 @@
+term: altitude
+termid: 12
+eng:
+  id: 12
+  abbrev: h or H
+  definition: >-
+    distance of a point from a chosen reference surface along a line
+    perpendicular to that surface
+  language_code: eng
+  notes:
+    - See ellipsoidal height and gravity-related height.
+    - >-
+      Height of a point outside the surface treated as positive; negative height
+      is designated as depth.
+  examples: []
+  entry_status: superseded
+  authoritative_source:
+    ref: 'ISO 19116:2004'
+    link: 'https://www.iso.org/standard/37805.html'
+  date_accepted: 2004-07-01T00:00:00.000Z
+  date_amended: '2008-07-15'
+  review_date: 2007-12-07T00:00:00.000Z
+  review_status: ''
+  review_type: ''
+  review_decision: ''
+  review_decision_date: '2008-05-22'
+  review_decision_event: 'Result of FDIS Ballot for ISO 6709:2008'
+  review_decision_notes: 'Definition in ISO 19116:2002 was superseded by a new definition in ISO 6709'
+  release: '-1'
+  terms:
+    - type: expression
+      designation: altitude
+      normative_status: null
+    - designation: height
+      type: expression
+  _revisions:
+    current: cdcd3d
+    tree:
+      cdcd3d:
+        object:
+          id: 12
+          abbrev: h or H
+          definition: >-
+            distance of a point from a chosen reference surface along a line
+            perpendicular to that surface
+          language_code: eng
+          notes:
+            - See ellipsoidal height and gravity-related height.
+            - >-
+              Height of a point outside the surface treated as positive;
+              negative height is designated as depth.
+          examples: []
+          entry_status: superseded
+          authoritative_source:
+            ref: 'ISO 19116:2004'
+            link: 'https://www.iso.org/standard/37805.html'
+          date_accepted: 2004-07-01T00:00:00.000Z
+          date_amended: '2008-07-15'
+          review_date: 2007-12-07T00:00:00.000Z
+          review_status: ''
+          review_type: ''
+          review_decision: ''
+          review_decision_date: '2008-05-22'
+          review_decision_event: 'Result of FDIS Ballot for ISO 6709:2008'
+          review_decision_notes: >-
+            Definition in ISO 19116:2002 was superseded by a new definition in
+            ISO 6709
+          release: '-1'
+          terms:
+            - type: expression
+              designation: altitude
+              normative_status: null
+            - designation: height
+              type: expression
+        parents: []
+        timeCreated: 2004-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+ara:
+  id: 12
+  abbrev: 'ع, ر'
+  definition: مسافة نقطة عن سطح إسناد مرجعي مختار على خط رأسي متعامد مع ذلك السطح
+  language_code: ara
+  notes:
+    - أنظر ارتفاع مجسم القطع الناقص والارتفاع المتصل بالجاذبية
+    - >-
+      ارتفاع نقطة تقع خارج السطح ويعامل كقيمة موجبة ؛ أما الارتفاع ذو القيمة
+      السالبة فيصنف على أنه عمق.
+  examples: []
+  entry_status: superseded
+  authoritative_source:
+    ref: 'ISO 19116:2004'
+    link: 'https://www.iso.org/standard/37805.html'
+  date_accepted: 2004-07-01T00:00:00.000Z
+  date_amended: '2008-07-15'
+  review_date: 2007-12-07T00:00:00.000Z
+  review_status: ''
+  review_type: ''
+  review_decision: ''
+  review_decision_date: '2008-05-22'
+  review_decision_event: 'Result of FDIS Ballot for ISO 6709:2008'
+  review_decision_notes: 'Definition in ISO 19116:2002 was superseded by a new definition in ISO 6709'
+  release: '-1'
+  terms:
+    - type: expression
+      designation: الارتفاع
+      normative_status: null
+    - designation: height
+      type: expression
+  _revisions:
+    current: cec671
+    tree:
+      cec671:
+        object:
+          id: 12
+          abbrev: 'ع, ر'
+          definition: مسافة نقطة عن سطح إسناد مرجعي مختار على خط رأسي متعامد مع ذلك السطح
+          language_code: ara
+          notes:
+            - أنظر ارتفاع مجسم القطع الناقص والارتفاع المتصل بالجاذبية
+            - >-
+              ارتفاع نقطة تقع خارج السطح ويعامل كقيمة موجبة ؛ أما الارتفاع ذو
+              القيمة السالبة فيصنف على أنه عمق.
+          examples: []
+          entry_status: superseded
+          authoritative_source:
+            ref: 'ISO 19116:2004'
+            link: 'https://www.iso.org/standard/37805.html'
+          date_accepted: 2004-07-01T00:00:00.000Z
+          date_amended: '2008-07-15'
+          review_date: 2007-12-07T00:00:00.000Z
+          review_status: ''
+          review_type: ''
+          review_decision: ''
+          review_decision_date: '2008-05-22'
+          review_decision_event: 'Result of FDIS Ballot for ISO 6709:2008'
+          review_decision_notes: >-
+            Definition in ISO 19116:2002 was superseded by a new definition in
+            ISO 6709
+          release: '-1'
+          terms:
+            - type: expression
+              designation: الارتفاع
+              normative_status: null
+            - designation: height
+              type: expression
+        parents: []
+        timeCreated: 2004-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+zho:
+  id: 12
+  abbrev: h or H
+  definition: 地球自然表面点到所选择的参照面间的垂直距离
+  language_code: zho
+  notes:
+    - 参加椭球面高和重力高。
+    - 向地表面外的高度视为正，相反的高度视为深度。
+  examples: []
+  entry_status: superseded
+  authoritative_source:
+    ref: 'ISO 19116:2004'
+    link: 'https://www.iso.org/standard/37805.html'
+  date_accepted: 2004-07-01T00:00:00.000Z
+  date_amended: '2008-07-15'
+  review_date: 2007-12-07T00:00:00.000Z
+  review_status: ''
+  review_type: ''
+  review_decision: ''
+  review_decision_date: '2008-05-22'
+  review_decision_event: 'Result of FDIS Ballot for ISO 6709:2008'
+  review_decision_notes: 'Definition in ISO 19116:2002 was superseded by a new definition in ISO 6709'
+  release: '-1'
+  terms:
+    - type: expression
+      designation: 海拔
+      normative_status: null
+    - designation: height
+      type: expression
+  _revisions:
+    current: '766355'
+    tree:
+      '766355':
+        object:
+          id: 12
+          abbrev: h or H
+          definition: 地球自然表面点到所选择的参照面间的垂直距离
+          language_code: zho
+          notes:
+            - 参加椭球面高和重力高。
+            - 向地表面外的高度视为正，相反的高度视为深度。
+          examples: []
+          entry_status: superseded
+          authoritative_source:
+            ref: 'ISO 19116:2004'
+            link: 'https://www.iso.org/standard/37805.html'
+          date_accepted: 2004-07-01T00:00:00.000Z
+          date_amended: '2008-07-15'
+          review_date: 2007-12-07T00:00:00.000Z
+          review_status: ''
+          review_type: ''
+          review_decision: ''
+          review_decision_date: '2008-05-22'
+          review_decision_event: 'Result of FDIS Ballot for ISO 6709:2008'
+          review_decision_notes: >-
+            Definition in ISO 19116:2002 was superseded by a new definition in
+            ISO 6709
+          release: '-1'
+          terms:
+            - type: expression
+              designation: 海拔
+              normative_status: null
+            - designation: height
+              type: expression
+        parents: []
+        timeCreated: 2004-07-01T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+fin:
+  id: 12
+  abbrev: h; H
+  definition: >-
+    pisteen etäisyys valitusta vertauspinnasta kyseistä pintaa vastaan
+    kohtisuorassa olevaa viivaa pitkin
+  language_code: fin
+  notes:
+    - Katso myös ellipsoidinen korkeus ja painovoimaan perustuva korkeus.
+    - >-
+      Termillä korkeus viitataan pinnan yläpuolella olevan pisteen etäisyyteen
+      pinnasta; negatiivista korkeutta nimitetään syvyydeksi.
+  examples: []
+  entry_status: superseded
+  authoritative_source:
+    ref: 'ISO 19116:2004'
+    link: 'https://www.iso.org/standard/37805.html'
+  lineage_source: Maanmittauslaitos
+  date_accepted: 2004-07-01T00:00:00.000Z
+  date_amended: '2008-07-15'
+  review_date: 2007-12-07T00:00:00.000Z
+  review_status: ''
+  review_type: ''
+  review_decision: ''
+  review_decision_date: '2008-05-22'
+  review_decision_event: 'ISO 6709:2008 FDIS äänestystulos'
+  review_decision_notes: >-
+    ISO 19116:2002 määritelmä korvattiin uudella standardin ISO 6709 mukaisella
+    määritelmällä
+  release: '-1'
+  terms:
+    - type: expression
+      designation: korkeus
+      normative_status: null
+  _revisions:
+    current: 490e4e
+    tree:
+      490e4e:
+        object:
+          id: 12
+          abbrev: h; H
+          definition: >-
+            pisteen etäisyys valitusta vertauspinnasta kyseistä pintaa vastaan
+            kohtisuorassa olevaa viivaa pitkin
+          language_code: fin
+          notes:
+            - >-
+              Katso myös ellipsoidinen korkeus ja painovoimaan perustuva
+              korkeus.
+            - >-
+              Termillä korkeus viitataan pinnan yläpuolella olevan pisteen
+              etäisyyteen pinnasta; negatiivista korkeutta nimitetään
+              syvyydeksi.
+          examples: []
+          entry_status: superseded
+          authoritative_source:
+            ref: 'ISO 19116:2004'
+            link: 'https://www.iso.org/standard/37805.html'
+          lineage_source: Maanmittauslaitos
+          date_accepted: 2004-07-01T00:00:00.000Z
+          date_amended: '2008-07-15'
+          review_date: 2007-12-07T00:00:00.000Z
+          review_status: ''
+          review_type: ''
+          review_decision: ''
+          review_decision_date: '2008-05-22'
+          review_decision_event: 'ISO 6709:2008 FDIS äänestystulos'
+          review_decision_notes: >-
+            ISO 19116:2002 määritelmä korvattiin uudella standardin ISO 6709
+            mukaisella määritelmällä
+          release: '-1'
+          terms:
+            - type: expression
+              designation: korkeus
+              normative_status: null
+        parents: []
+        timeCreated: 2004-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+fra:
+  id: 12
+  definition: >-
+    distance d'un point à une surface de référence choisie, selon une ligne
+    perpendiculaire à cette surface
+  language_code: fra
+  notes: []
+  examples: []
+  entry_status: superseded
+  authoritative_source:
+    ref: ISO 19116
+    link: 'https://www.iso.org/standard/70882.html'
+  lineage_source: ''
+  date_accepted: 2004-07-01T00:00:00.000Z
+  date_amended: '2008-07-15'
+  review_date: 2007-12-07T00:00:00.000Z
+  review_status: ''
+  review_type: ''
+  review_decision: ''
+  review_decision_date: '2008-05-22'
+  review_decision_event: 'Result of FDIS Ballot for ISO 6709:2008'
+  review_decision_notes: 'Definition in ISO 19116:2002 was superseded by a new definition in ISO 6709'
+  release: '-1'
+  terms:
+    - type: expression
+      designation: altitude
+      normative_status: null
+    - designation: height
+      type: expression
+  _revisions:
+    current: a02d58
+    tree:
+      a02d58:
+        object:
+          id: 12
+          definition: >-
+            distance d'un point à une surface de référence choisie, selon une
+            ligne perpendiculaire à cette surface
+          language_code: fra
+          notes: []
+          examples: []
+          entry_status: superseded
+          authoritative_source:
+            ref: ISO 19116
+            link: 'https://www.iso.org/standard/70882.html'
+          lineage_source: ''
+          date_accepted: 2004-07-01T00:00:00.000Z
+          date_amended: '2008-07-15'
+          review_date: 2007-12-07T00:00:00.000Z
+          review_status: ''
+          review_type: ''
+          review_decision: ''
+          review_decision_date: '2008-05-22'
+          review_decision_event: 'Result of FDIS Ballot for ISO 6709:2008'
+          review_decision_notes: >-
+            Definition in ISO 19116:2002 was superseded by a new definition in
+            ISO 6709
+          release: '-1'
+          terms:
+            - type: expression
+              designation: altitude
+              normative_status: null
+            - designation: height
+              type: expression
+        parents: []
+        timeCreated: 2004-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+kor:
+  id: 12
+  abbrev: h; H
+  definition: 선택된 기준면으로부터 그 면의 수직선으로 연결된 어떤 지점까지의 거리
+  language_code: kor
+  notes:
+    - 타원체의 높이와 중력과 관련된 높이 참조
+    - '양으로 여겨지는 표면 외부 지점의 높이, 음의 높이는 깊이라고 불린다.'
+  examples: []
+  entry_status: superseded
+  authoritative_source:
+    ref: 'ISO 19116:2004'
+    link: 'https://www.iso.org/standard/37805.html'
+  lineage_source: KS X ISO 19116
+  date_accepted: 2004-11-05T00:00:00.000Z
+  date_amended: '2008-07-15'
+  review_date: 2007-12-07T00:00:00.000Z
+  review_status: ''
+  review_type: ''
+  review_decision: ''
+  review_decision_date: '2008-05-22'
+  review_decision_event: 'Result of FDIS Ballot for ISO 6709:2008'
+  review_decision_notes: 'Definition in ISO 19116:2002 was superseded by a new definition in ISO 6709'
+  release: '-1'
+  terms:
+    - type: expression
+      designation: 높이
+      normative_status: null
+  _revisions:
+    current: 37835c
+    tree:
+      37835c:
+        object:
+          id: 12
+          abbrev: h; H
+          definition: 선택된 기준면으로부터 그 면의 수직선으로 연결된 어떤 지점까지의 거리
+          language_code: kor
+          notes:
+            - 타원체의 높이와 중력과 관련된 높이 참조
+            - '양으로 여겨지는 표면 외부 지점의 높이, 음의 높이는 깊이라고 불린다.'
+          examples: []
+          entry_status: superseded
+          authoritative_source:
+            ref: 'ISO 19116:2004'
+            link: 'https://www.iso.org/standard/37805.html'
+          lineage_source: KS X ISO 19116
+          date_accepted: 2004-11-05T00:00:00.000Z
+          date_amended: '2008-07-15'
+          review_date: 2007-12-07T00:00:00.000Z
+          review_status: ''
+          review_type: ''
+          review_decision: ''
+          review_decision_date: '2008-05-22'
+          review_decision_event: 'Result of FDIS Ballot for ISO 6709:2008'
+          review_decision_notes: >-
+            Definition in ISO 19116:2002 was superseded by a new definition in
+            ISO 6709
+          release: '-1'
+          terms:
+            - type: expression
+              designation: 높이
+              normative_status: null
+        parents: []
+        timeCreated: 2004-11-05T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+msa:
+  id: 12
+  definition: ketinggian sesuatu tempat (kawasan) yg biasanya diukur dr aras laut.
+  language_code: msa
+  notes:
+    - See ellipsoidal height and gravity-related height.
+    - >-
+      Height of a point outside the surface treated as positive; negative height
+      is designated as depth.
+  examples: []
+  entry_status: superseded
+  authoritative_source:
+    ref: 'ISO 19116:2004'
+    link: 'https://www.iso.org/standard/37805.html'
+  date_accepted: 2004-07-01T00:00:00.000Z
+  date_amended: '2008-07-15'
+  review_date: 2007-12-07T00:00:00.000Z
+  review_status: ''
+  review_type: ''
+  review_decision: ''
+  review_decision_date: '2008-05-22'
+  review_decision_event: 'Result of FDIS Ballot for ISO 6709:2008'
+  review_decision_notes: 'Definition in ISO 19116:2002 was superseded by a new definition in ISO 6709'
+  release: '-1'
+  terms:
+    - type: expression
+      designation: Altitud
+      normative_status: null
+    - designation: height
+      type: expression
+  _revisions:
+    current: f503df
+    tree:
+      f503df:
+        object:
+          id: 12
+          definition: ketinggian sesuatu tempat (kawasan) yg biasanya diukur dr aras laut.
+          language_code: msa
+          notes:
+            - See ellipsoidal height and gravity-related height.
+            - >-
+              Height of a point outside the surface treated as positive;
+              negative height is designated as depth.
+          examples: []
+          entry_status: superseded
+          authoritative_source:
+            ref: 'ISO 19116:2004'
+            link: 'https://www.iso.org/standard/37805.html'
+          date_accepted: 2004-07-01T00:00:00.000Z
+          date_amended: '2008-07-15'
+          review_date: 2007-12-07T00:00:00.000Z
+          review_status: ''
+          review_type: ''
+          review_decision: ''
+          review_decision_date: '2008-05-22'
+          review_decision_event: 'Result of FDIS Ballot for ISO 6709:2008'
+          review_decision_notes: >-
+            Definition in ISO 19116:2002 was superseded by a new definition in
+            ISO 6709
+          release: '-1'
+          terms:
+            - type: expression
+              designation: Altitud
+              normative_status: null
+            - designation: height
+              type: expression
+        parents: []
+        timeCreated: 2004-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 12
+  abbrev: ''
+  definition: >-
+    расстояние от отсчетной поверхности до выбранной точки по нормали к этой
+    поверхности
+  language_code: rus
+  notes:
+    - >-
+      Высота точки, расположенная выше отсчетной поверхности, является
+      положительной, а ниже нее – отрицательной
+    - >-
+      Высота точки над поверхностью считается положительной; отрицательная
+      высота называется глубиной
+  examples: []
+  entry_status: замененный
+  authoritative_source:
+    ref: 'ISO 19116:2004'
+    link: 'https://www.iso.org/standard/37805.html'
+  lineage_source: ГОСТ Р 52572-2006
+  date_accepted: 2004-07-01T00:00:00.000Z
+  date_amended: '2008-07-15'
+  review_date: 2007-12-07T00:00:00.000Z
+  review_status: ''
+  review_type: ''
+  review_decision: ''
+  review_decision_date: '2008-05-22'
+  review_decision_event: 'результат FDIS голосования по  ISO 6709:2008'
+  review_decision_notes: 'Определение в ISO 19116: 2002 было заменено новым определением в ISO 6709'
+  release: '-1'
+  terms:
+    - type: expression
+      designation: высота
+      normative_status: null
+    - designation: height
+      type: expression
+  _revisions:
+    current: fdac9d
+    tree:
+      fdac9d:
+        object:
+          id: 12
+          abbrev: ''
+          definition: >-
+            расстояние от отсчетной поверхности до выбранной точки по нормали к
+            этой поверхности
+          language_code: rus
+          notes:
+            - >-
+              Высота точки, расположенная выше отсчетной поверхности, является
+              положительной, а ниже нее – отрицательной
+            - >-
+              Высота точки над поверхностью считается положительной;
+              отрицательная высота называется глубиной
+          examples: []
+          entry_status: замененный
+          authoritative_source:
+            ref: 'ISO 19116:2004'
+            link: 'https://www.iso.org/standard/37805.html'
+          lineage_source: ГОСТ Р 52572-2006
+          date_accepted: 2004-07-01T00:00:00.000Z
+          date_amended: '2008-07-15'
+          review_date: 2007-12-07T00:00:00.000Z
+          review_status: ''
+          review_type: ''
+          review_decision: ''
+          review_decision_date: '2008-05-22'
+          review_decision_event: 'результат FDIS голосования по  ISO 6709:2008'
+          review_decision_notes: >-
+            Определение в ISO 19116: 2002 было заменено новым определением в ISO
+            6709
+          release: '-1'
+          terms:
+            - type: expression
+              designation: высота
+              normative_status: null
+            - designation: height
+              type: expression
+        parents: []
+        timeCreated: 2004-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 12
+  abbrev: h or H
+  definition: >-
+    distancia de un punto a una superficie de referencia escogida a lo largo de
+    una línea perpendicular a esta superficie
+  language_code: spa
+  notes:
+    - Véase altitud elipsoidal y altitud ligada a la gravedad.
+    - >-
+      La altitud de un punto, sí es hacia el exterior de la superficie, se
+      considera positiva; la altitud negativa se designa como profundidad.
+  examples: []
+  entry_status: superseded
+  authoritative_source:
+    ref: 'ISO 19116:2004'
+    link: 'https://www.iso.org/standard/37805.html'
+  date_accepted: 2004-07-01T00:00:00.000Z
+  date_amended: '2008-07-15'
+  review_date: 2007-12-07T00:00:00.000Z
+  review_status: ''
+  review_type: ''
+  review_decision: ''
+  review_decision_date: '2008-05-22'
+  review_decision_event: 'Resultado de la votación del documento FDIS 6709:2008'
+  review_decision_notes: >-
+    La definición de la Norma ISO 19116:2002 fue reemplazada por una nueva
+    definición de la Norma ISO 6709:2008
+  release: '-1'
+  terms:
+    - type: expression
+      designation: altitud
+      normative_status: null
+    - designation: altitud ortométrica
+      type: expression
+  _revisions:
+    current: 5b806f
+    tree:
+      5b806f:
+        object:
+          id: 12
+          abbrev: h or H
+          definition: >-
+            distancia de un punto a una superficie de referencia escogida a lo
+            largo de una línea perpendicular a esta superficie
+          language_code: spa
+          notes:
+            - Véase altitud elipsoidal y altitud ligada a la gravedad.
+            - >-
+              La altitud de un punto, sí es hacia el exterior de la superficie,
+              se considera positiva; la altitud negativa se designa como
+              profundidad.
+          examples: []
+          entry_status: superseded
+          authoritative_source:
+            ref: 'ISO 19116:2004'
+            link: 'https://www.iso.org/standard/37805.html'
+          date_accepted: 2004-07-01T00:00:00.000Z
+          date_amended: '2008-07-15'
+          review_date: 2007-12-07T00:00:00.000Z
+          review_status: ''
+          review_type: ''
+          review_decision: ''
+          review_decision_date: '2008-05-22'
+          review_decision_event: 'Resultado de la votación del documento FDIS 6709:2008'
+          review_decision_notes: >-
+            La definición de la Norma ISO 19116:2002 fue reemplazada por una
+            nueva definición de la Norma ISO 6709:2008
+          release: '-1'
+          terms:
+            - type: expression
+              designation: altitud
+              normative_status: null
+            - designation: altitud ortométrica
+              type: expression
+        parents: []
+        timeCreated: 2004-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+swe:
+  id: 12
+  abbrev: h or H
+  definition: höjd där den valda referensytan är världshavens medelvattenyta
+  country_code: swe
+  language_code: swe
+  notes:
+    - See ellipsoidal height and gravity-related height.
+    - >-
+      Height of a point outside the surface treated as positive; negative height
+      is designated as depth.
+  examples: []
+  entry_status: superseded
+  authoritative_source:
+    ref: 'ISO 19116:2004'
+    link: 'https://www.iso.org/standard/37805.html'
+  date_accepted: 2004-07-01T00:00:00.000Z
+  date_amended: '2008-07-15'
+  review_date: 2007-12-07T00:00:00.000Z
+  review_status: ''
+  review_type: ''
+  review_decision: ''
+  review_decision_date: '2008-05-22'
+  review_decision_event: 'Result of FDIS Ballot for ISO 6709:2008'
+  release: '-1'
+  terms:
+    - type: expression
+      designation: altitud
+      normative_status: null
+    - designation: height
+      type: expression
+  _revisions:
+    current: '981161'
+    tree:
+      '981161':
+        object:
+          id: 12
+          abbrev: h or H
+          definition: höjd där den valda referensytan är världshavens medelvattenyta
+          country_code: swe
+          language_code: swe
+          notes:
+            - See ellipsoidal height and gravity-related height.
+            - >-
+              Height of a point outside the surface treated as positive;
+              negative height is designated as depth.
+          examples: []
+          entry_status: superseded
+          authoritative_source:
+            ref: 'ISO 19116:2004'
+            link: 'https://www.iso.org/standard/37805.html'
+          date_accepted: 2004-07-01T00:00:00.000Z
+          date_amended: '2008-07-15'
+          review_date: 2007-12-07T00:00:00.000Z
+          review_status: ''
+          review_type: ''
+          review_decision: ''
+          review_decision_date: '2008-05-22'
+          review_decision_event: 'Result of FDIS Ballot for ISO 6709:2008'
+          release: '-1'
+          terms:
+            - type: expression
+              designation: altitud
+              normative_status: null
+            - designation: height
+              type: expression
+        parents: []
+        timeCreated: 2004-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

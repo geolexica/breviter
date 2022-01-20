@@ -1,0 +1,120 @@
+term: localName
+termid: 1587
+eng:
+  id: 1587
+  definition: reference to a local object directly accessible from a namespace
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19103:2015'
+    clause: modified – Derived from 7.5.5.1
+    link: 'https://www.iso.org/standard/56734.html'
+  lineage_source: 'ISO 19150-2:2015, 4.1.22'
+  date_accepted: 2015-07-01T00:00:00.000Z
+  review_date: 2012-05-25T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2015-07-01T00:00:00.000Z
+  review_decision_event: Normal ISO processing
+  review_decision_notes: 'Publication of document ISO 19150-2:2015(E)'
+  release: '4'
+  terms:
+    - type: expression
+      designation: localName
+      normative_status: preferred
+  _revisions:
+    current: e44be0
+    tree:
+      e44be0:
+        object:
+          id: 1587
+          definition: reference to a local object directly accessible from a namespace
+          language_code: eng
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19103:2015'
+            clause: modified – Derived from 7.5.5.1
+            link: 'https://www.iso.org/standard/56734.html'
+          lineage_source: 'ISO 19150-2:2015, 4.1.22'
+          date_accepted: 2015-07-01T00:00:00.000Z
+          review_date: 2012-05-25T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2015-07-01T00:00:00.000Z
+          review_decision_event: Normal ISO processing
+          review_decision_notes: 'Publication of document ISO 19150-2:2015(E)'
+          release: '4'
+          terms:
+            - type: expression
+              designation: localName
+              normative_status: preferred
+        parents: []
+        timeCreated: 2015-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 1587
+  definition: >-
+    referencia a un objeto local accesible directamente  desde un espacio de
+    nombres
+  language_code: spa
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19103:2015'
+    clause: modified – Derived from 7.5.5.1
+    link: 'https://www.iso.org/standard/56734.html'
+  lineage_source: 'ISO 19150-2:2015, 4.1.22'
+  date_accepted: 2015-07-01T00:00:00.000Z
+  review_date: 2012-05-25T00:00:00.000Z
+  review_status: final
+  review_decision: ''
+  review_decision_date: 2015-07-01T00:00:00.000Z
+  review_decision_event: Normal ISO processing
+  review_decision_notes: 'Publication of document ISO 19150-2:2015(E)'
+  release: '4'
+  terms:
+    - type: expression
+      designation: nombre local
+      normative_status: preferred
+  _revisions:
+    current: bfeaf8
+    tree:
+      bfeaf8:
+        object:
+          id: 1587
+          definition: >-
+            referencia a un objeto local accesible directamente  desde un
+            espacio de nombres
+          language_code: spa
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19103:2015'
+            clause: modified – Derived from 7.5.5.1
+            link: 'https://www.iso.org/standard/56734.html'
+          lineage_source: 'ISO 19150-2:2015, 4.1.22'
+          date_accepted: 2015-07-01T00:00:00.000Z
+          review_date: 2012-05-25T00:00:00.000Z
+          review_status: final
+          review_decision: ''
+          review_decision_date: 2015-07-01T00:00:00.000Z
+          review_decision_event: Normal ISO processing
+          review_decision_notes: 'Publication of document ISO 19150-2:2015(E)'
+          release: '4'
+          terms:
+            - type: expression
+              designation: nombre local
+              normative_status: preferred
+        parents: []
+        timeCreated: 2015-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

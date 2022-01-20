@@ -1,0 +1,818 @@
+term: concatenated operation
+termid: 600
+eng:
+  id: 600
+  definition: >-
+    coordinate operation consisting of sequential application of multiple
+    coordinate operations
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19111:2019'
+    clause: '(E), 3.1.4'
+    link: 'https://www.iso.org/standard/74039.html'
+  lineage_source: 'ISO 19111:2007(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2007-07-01T00:00:00.000Z
+  review_date: 2019-01-31T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-01-31T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19111:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19111:2007 to ISO 19111:2019(E),
+    3.1.4. Lineage source added as ISO 19111:2007(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: concatenated operation
+      normative_status: preferred
+  _revisions:
+    current: c63946
+    tree:
+      c63946:
+        object:
+          id: 600
+          definition: >-
+            coordinate operation consisting of sequential application of
+            multiple coordinate operations
+          language_code: eng
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19111:2019'
+            clause: '(E), 3.1.4'
+            link: 'https://www.iso.org/standard/74039.html'
+          lineage_source: 'ISO 19111:2007(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2007-07-01T00:00:00.000Z
+          review_date: 2019-01-31T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-01-31T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19111:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19111:2007 to ISO
+            19111:2019(E), 3.1.4. Lineage source added as ISO 19111:2007(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: concatenated operation
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+ara:
+  id: 600
+  definition: عملية إحداثية تتكون من تطبيقات متتابعة لعمليات إحداثية متعددة
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19111:2019'
+    clause: '(E), 3.1.4'
+    link: 'https://www.iso.org/standard/74039.html'
+  lineage_source: 'ISO 19111:2007(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2007-07-01T00:00:00.000Z
+  review_date: 2019-01-31T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-01-31T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19111:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19111:2007 to ISO 19111:2019(E),
+    3.1.4. Lineage source added as ISO 19111:2007(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: عملية متسلسلة
+      normative_status: preferred
+  _revisions:
+    current: a60e42
+    tree:
+      a60e42:
+        object:
+          id: 600
+          definition: عملية إحداثية تتكون من تطبيقات متتابعة لعمليات إحداثية متعددة
+          language_code: ara
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19111:2019'
+            clause: '(E), 3.1.4'
+            link: 'https://www.iso.org/standard/74039.html'
+          lineage_source: 'ISO 19111:2007(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2007-07-01T00:00:00.000Z
+          review_date: 2019-01-31T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-01-31T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19111:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19111:2007 to ISO
+            19111:2019(E), 3.1.4. Lineage source added as ISO 19111:2007(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: عملية متسلسلة
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+zho:
+  id: 600
+  definition: 多个坐标操作的顺序应用组成的坐标操作。
+  language_code: zho
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19111:2019'
+    clause: '(E), 3.1.4'
+    link: 'https://www.iso.org/standard/74039.html'
+  lineage_source: 'ISO 19111:2007(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2007-07-01T00:00:00.000Z
+  review_date: 2019-01-31T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-01-31T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19111:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19111:2007 to ISO 19111:2019(E),
+    3.1.4. Lineage source added as ISO 19111:2007(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: 级联操作
+      normative_status: preferred
+  _revisions:
+    current: 608fe7
+    tree:
+      608fe7:
+        object:
+          id: 600
+          definition: 多个坐标操作的顺序应用组成的坐标操作。
+          language_code: zho
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19111:2019'
+            clause: '(E), 3.1.4'
+            link: 'https://www.iso.org/standard/74039.html'
+          lineage_source: 'ISO 19111:2007(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2007-07-01T00:00:00.000Z
+          review_date: 2019-01-31T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-01-31T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19111:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19111:2007 to ISO
+            19111:2019(E), 3.1.4. Lineage source added as ISO 19111:2007(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: 级联操作
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-07-01T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+nld:
+  id: 600
+  definition: >-
+    coördinaatbewerking bestaande uit achter elkaar toegepaste of meervoudige
+    coördinaatbewerkingen
+  language_code: nld
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19111:2019'
+    clause: '(E), 3.1.4'
+    link: 'https://www.iso.org/standard/74039.html'
+  lineage_source: 'ISO 19111:2007(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2007-07-01T00:00:00.000Z
+  review_date: 2019-01-31T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-01-31T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19111:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19111:2007 to ISO 19111:2019(E),
+    3.1.4. Lineage source added as ISO 19111:2007(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: aaneengeschakelde bewerking
+      normative_status: preferred
+  _revisions:
+    current: 37526c
+    tree:
+      37526c:
+        object:
+          id: 600
+          definition: >-
+            coördinaatbewerking bestaande uit achter elkaar toegepaste of
+            meervoudige coördinaatbewerkingen
+          language_code: nld
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19111:2019'
+            clause: '(E), 3.1.4'
+            link: 'https://www.iso.org/standard/74039.html'
+          lineage_source: 'ISO 19111:2007(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2007-07-01T00:00:00.000Z
+          review_date: 2019-01-31T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-01-31T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19111:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19111:2007 to ISO
+            19111:2019(E), 3.1.4. Lineage source added as ISO 19111:2007(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: aaneengeschakelde bewerking
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-07-01T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+fin:
+  id: 600
+  definition: >-
+    koordinaatteihin liittyvä laskentaoperaatio, joka koostuu useiden
+    laskentaoperaatioiden peräkkäisestä suorittamisesta
+  language_code: fin
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19111:2019'
+    clause: '(E), 3.1.4'
+    link: 'https://www.iso.org/standard/74039.html'
+  lineage_source: 'ISO 19111:2007(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2007-07-01T00:00:00.000Z
+  review_date: 2019-01-31T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-01-31T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19111:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19111:2007 to ISO 19111:2019(E),
+    3.1.4. Lineage source added as ISO 19111:2007(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: ketjutettu laskentaoperaatio
+      normative_status: preferred
+  _revisions:
+    current: aa5dba
+    tree:
+      aa5dba:
+        object:
+          id: 600
+          definition: >-
+            koordinaatteihin liittyvä laskentaoperaatio, joka koostuu useiden
+            laskentaoperaatioiden peräkkäisestä suorittamisesta
+          language_code: fin
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19111:2019'
+            clause: '(E), 3.1.4'
+            link: 'https://www.iso.org/standard/74039.html'
+          lineage_source: 'ISO 19111:2007(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2007-07-01T00:00:00.000Z
+          review_date: 2019-01-31T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-01-31T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19111:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19111:2007 to ISO
+            19111:2019(E), 3.1.4. Lineage source added as ISO 19111:2007(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: ketjutettu laskentaoperaatio
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+fra:
+  id: 600
+  definition: >-
+    opération sur une coordonnée consistant en l'application successive
+    d'opérations multiples sur la coordonnée
+  language_code: fra
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19111:2019'
+    clause: '(E), 3.1.4'
+    link: 'https://www.iso.org/standard/74039.html'
+  lineage_source: 'ISO 19111:2007(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2007-07-01T00:00:00.000Z
+  review_date: 2019-01-31T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-01-31T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19111:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19111:2007 to ISO 19111:2019(E),
+    3.1.4. Lineage source added as ISO 19111:2007(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: opération enchaînée
+      normative_status: preferred
+  _revisions:
+    current: e08750
+    tree:
+      e08750:
+        object:
+          id: 600
+          definition: >-
+            opération sur une coordonnée consistant en l'application successive
+            d'opérations multiples sur la coordonnée
+          language_code: fra
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19111:2019'
+            clause: '(E), 3.1.4'
+            link: 'https://www.iso.org/standard/74039.html'
+          lineage_source: 'ISO 19111:2007(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2007-07-01T00:00:00.000Z
+          review_date: 2019-01-31T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-01-31T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19111:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19111:2007 to ISO
+            19111:2019(E), 3.1.4. Lineage source added as ISO 19111:2007(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: opération enchaînée
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+deu:
+  id: 600
+  definition: >-
+    Koordinatenoperation, die eine Folge von einzelnen Koordinatenoperationen
+    verkettet
+  language_code: deu
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19111:2019'
+    clause: '(E), 3.1.4'
+    link: 'https://www.iso.org/standard/74039.html'
+  lineage_source: 'ISO 19111:2007(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2007-07-01T00:00:00.000Z
+  review_date: 2019-01-31T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-01-31T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19111:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19111:2007 to ISO 19111:2019(E),
+    3.1.4. Lineage source added as ISO 19111:2007(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: verkettete Operation
+      normative_status: preferred
+  _revisions:
+    current: 87556d
+    tree:
+      87556d:
+        object:
+          id: 600
+          definition: >-
+            Koordinatenoperation, die eine Folge von einzelnen
+            Koordinatenoperationen verkettet
+          language_code: deu
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19111:2019'
+            clause: '(E), 3.1.4'
+            link: 'https://www.iso.org/standard/74039.html'
+          lineage_source: 'ISO 19111:2007(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2007-07-01T00:00:00.000Z
+          review_date: 2019-01-31T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-01-31T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19111:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19111:2007 to ISO
+            19111:2019(E), 3.1.4. Lineage source added as ISO 19111:2007(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: verkettete Operation
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-07-01T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+kor:
+  id: 600
+  definition: 다수의 좌표 연산을 순차적으로 수행하는 응용으로 구성된 좌표 연산
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19111:2019'
+    clause: '(E), 3.1.4'
+    link: 'https://www.iso.org/standard/74039.html'
+  lineage_source: 'ISO 19111:2007(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2007-07-01T00:00:00.000Z
+  review_date: 2019-01-31T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-01-31T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19111:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19111:2007 to ISO 19111:2019(E),
+    3.1.4. Lineage source added as ISO 19111:2007(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: 연쇄 연산
+      normative_status: preferred
+  _revisions:
+    current: b6c17b
+    tree:
+      b6c17b:
+        object:
+          id: 600
+          definition: 다수의 좌표 연산을 순차적으로 수행하는 응용으로 구성된 좌표 연산
+          language_code: kor
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19111:2019'
+            clause: '(E), 3.1.4'
+            link: 'https://www.iso.org/standard/74039.html'
+          lineage_source: 'ISO 19111:2007(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2007-07-01T00:00:00.000Z
+          review_date: 2019-01-31T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-01-31T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19111:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19111:2007 to ISO
+            19111:2019(E), 3.1.4. Lineage source added as ISO 19111:2007(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: 연쇄 연산
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+pol:
+  id: 600
+  definition: >-
+    operacja na współrzędnych składająca się z sekwencyjnych operacji na
+    współrzędnych
+  language_code: pol
+  notes: []
+  examples: []
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19111:2019'
+    clause: '(E), 3.1.4'
+    link: 'https://www.iso.org/standard/74039.html'
+  lineage_source: 'ISO 19111:2007(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2007-07-01T00:00:00.000Z
+  review_date: 2019-01-31T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-01-31T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19111:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19111:2007 to ISO 19111:2019(E),
+    3.1.4. Lineage source added as ISO 19111:2007(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: operacja złożona
+      normative_status: preferred
+  _revisions:
+    current: 6afb60
+    tree:
+      6afb60:
+        object:
+          id: 600
+          definition: >-
+            operacja na współrzędnych składająca się z sekwencyjnych operacji na
+            współrzędnych
+          language_code: pol
+          notes: []
+          examples: []
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19111:2019'
+            clause: '(E), 3.1.4'
+            link: 'https://www.iso.org/standard/74039.html'
+          lineage_source: 'ISO 19111:2007(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2007-07-01T00:00:00.000Z
+          review_date: 2019-01-31T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-01-31T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19111:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19111:2007 to ISO
+            19111:2019(E), 3.1.4. Lineage source added as ISO 19111:2007(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: operacja złożona
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 600
+  definition: >-
+    операция с координатами, состоящая из последовательного применения множества
+    операций с координатами
+  language_code: rus
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19111:2019'
+    clause: '(E), 3.1.4'
+    link: 'https://www.iso.org/standard/74039.html'
+  lineage_source: 'ISO 19111:2007(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2007-07-01T00:00:00.000Z
+  review_date: 2019-01-31T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-01-31T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19111:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19111:2007 to ISO 19111:2019(E),
+    3.1.4. Lineage source added as ISO 19111:2007(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: составная операция
+      normative_status: preferred
+  _revisions:
+    current: 29f35b
+    tree:
+      29f35b:
+        object:
+          id: 600
+          definition: >-
+            операция с координатами, состоящая из последовательного применения
+            множества операций с координатами
+          language_code: rus
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19111:2019'
+            clause: '(E), 3.1.4'
+            link: 'https://www.iso.org/standard/74039.html'
+          lineage_source: 'ISO 19111:2007(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2007-07-01T00:00:00.000Z
+          review_date: 2019-01-31T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-01-31T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19111:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19111:2007 to ISO
+            19111:2019(E), 3.1.4. Lineage source added as ISO 19111:2007(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: составная операция
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 600
+  definition: >-
+    operación de coordenadas que consiste en una aplicación secuencial de
+    múltiples operaciones de coordenadas
+  language_code: spa
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19111:2019'
+    clause: '(E), 3.1.4'
+    link: 'https://www.iso.org/standard/74039.html'
+  lineage_source: 'ISO 19111:2007(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2007-07-01T00:00:00.000Z
+  review_date: 2019-01-31T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-01-31T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19111:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19111:2007 to ISO 19111:2019(E),
+    3.1.4. Lineage source added as ISO 19111:2007(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: operación concatenada
+      normative_status: preferred
+  _revisions:
+    current: '403611'
+    tree:
+      '403611':
+        object:
+          id: 600
+          definition: >-
+            operación de coordenadas que consiste en una aplicación secuencial
+            de múltiples operaciones de coordenadas
+          language_code: spa
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19111:2019'
+            clause: '(E), 3.1.4'
+            link: 'https://www.iso.org/standard/74039.html'
+          lineage_source: 'ISO 19111:2007(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2007-07-01T00:00:00.000Z
+          review_date: 2019-01-31T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-01-31T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19111:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19111:2007 to ISO
+            19111:2019(E), 3.1.4. Lineage source added as ISO 19111:2007(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: operación concatenada
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+swe:
+  id: 600
+  definition: >-
+    koordinatomräkning genom tillämpning av flera koordinatomräkningar efter
+    varandra
+  country_code: swe
+  language_code: swe
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19111:2019'
+    clause: '(E), 3.1.4'
+    link: 'https://www.iso.org/standard/74039.html'
+  lineage_source: 'ISO 19111:2007(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2007-07-01T00:00:00.000Z
+  review_date: 2019-01-31T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-01-31T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19111:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19111:2007 to ISO 19111:2019(E),
+    3.1.4. Lineage source added as ISO 19111:2007(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: sammanlänkad koordinatomräkning
+      normative_status: preferred
+  _revisions:
+    current: cad3b9
+    tree:
+      cad3b9:
+        object:
+          id: 600
+          definition: >-
+            koordinatomräkning genom tillämpning av flera koordinatomräkningar
+            efter varandra
+          country_code: swe
+          language_code: swe
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19111:2019'
+            clause: '(E), 3.1.4'
+            link: 'https://www.iso.org/standard/74039.html'
+          lineage_source: 'ISO 19111:2007(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2007-07-01T00:00:00.000Z
+          review_date: 2019-01-31T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-01-31T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19111:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19111:2007 to ISO
+            19111:2019(E), 3.1.4. Lineage source added as ISO 19111:2007(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: sammanlänkad koordinatomräkning
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

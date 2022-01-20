@@ -1,0 +1,513 @@
+term: open systems environment
+termid: 316
+eng:
+  id: 316
+  abbrev: OSE
+  definition: >-
+    comprehensive set of interfaces, services and supporting formats, plus user
+    aspects, for interoperability and/or portability of applications, data, or
+    people, as specified by information technology standards and profiles
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO/IEC TR 10000-1:1998'
+    link: 'https://www.iso.org/standard/30726.html'
+  lineage_source: 'ISO 19106:2004'
+  lineage_source_similarity: 1
+  date_accepted: 2004-07-01T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: open systems environment
+      normative_status: preferred
+  _revisions:
+    current: aabab4
+    tree:
+      aabab4:
+        object:
+          id: 316
+          abbrev: OSE
+          definition: >-
+            comprehensive set of interfaces, services and supporting formats,
+            plus user aspects, for interoperability and/or portability of
+            applications, data, or people, as specified by information
+            technology standards and profiles
+          language_code: eng
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO/IEC TR 10000-1:1998'
+            link: 'https://www.iso.org/standard/30726.html'
+          lineage_source: 'ISO 19106:2004'
+          lineage_source_similarity: 1
+          date_accepted: 2004-07-01T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: open systems environment
+              normative_status: preferred
+        parents: []
+        timeCreated: 2004-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+ara:
+  id: 316
+  abbrev: ب ن م
+  definition: >-
+    مجموعة شاملة من الواجهات أو الخدمات والصيغ المساندة ، يضاف إليها الجوانب
+    الخاصة بالمستخدمين للتشغيل المشترك و/أو إمكانية نقل التطبيقات ، أو البيانات
+    أو الأشخاص ، وفقا لما هو محدد في المواصفات القياسية والصور الجانبية لتقنية
+    المعلومات
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO/IEC TR 10000-1:1998'
+    link: 'https://www.iso.org/standard/30726.html'
+  date_accepted: 2004-07-01T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: بيئة نظم مفتوحة
+      normative_status: preferred
+  _revisions:
+    current: 046b4f
+    tree:
+      046b4f:
+        object:
+          id: 316
+          abbrev: ب ن م
+          definition: >-
+            مجموعة شاملة من الواجهات أو الخدمات والصيغ المساندة ، يضاف إليها
+            الجوانب الخاصة بالمستخدمين للتشغيل المشترك و/أو إمكانية نقل
+            التطبيقات ، أو البيانات أو الأشخاص ، وفقا لما هو محدد في المواصفات
+            القياسية والصور الجانبية لتقنية المعلومات
+          language_code: ara
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO/IEC TR 10000-1:1998'
+            link: 'https://www.iso.org/standard/30726.html'
+          date_accepted: 2004-07-01T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: بيئة نظم مفتوحة
+              normative_status: preferred
+        parents: []
+        timeCreated: 2004-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+zho:
+  id: 316
+  abbrev: OSE
+  definition: '为实现应用、数据或人的互操作性和/或可移植性,由信息技术标准或专用标准规定的接口、服务和支持格式以及用户方面的综合集合。'
+  language_code: zho
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO/IEC TR 10000-1:1998'
+    link: 'https://www.iso.org/standard/30726.html'
+  date_accepted: 2004-07-01T00:00:00.000Z
+  terms:
+    - type: expression
+      designation: 开放系统环境
+      normative_status: preferred
+  _revisions:
+    current: 3b92eb
+    tree:
+      3b92eb:
+        object:
+          id: 316
+          abbrev: OSE
+          definition: '为实现应用、数据或人的互操作性和/或可移植性,由信息技术标准或专用标准规定的接口、服务和支持格式以及用户方面的综合集合。'
+          language_code: zho
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO/IEC TR 10000-1:1998'
+            link: 'https://www.iso.org/standard/30726.html'
+          date_accepted: 2004-07-01T00:00:00.000Z
+          terms:
+            - type: expression
+              designation: 开放系统环境
+              normative_status: preferred
+        parents: []
+        timeCreated: 2004-07-01T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+fin:
+  id: 316
+  definition: >-
+    kattava joukko rajapintoja, palveluita, ylläpitoformaatteja ja
+    käyttäjänäkökohtia, jota hyödynnetään edistettäessä sovellusten, tiedon ja
+    ihmisten yhteentoimivuutta ja/tai siirrettävyyttä siten kuin
+    tietotekniikkastandardeissa ja profiileissa on määritelty
+  language_code: fin
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO/IEC TR 10000-1:1998'
+    link: 'https://www.iso.org/standard/30726.html'
+  lineage_source: Internet (sovellettu)
+  date_accepted: 2004-07-01T00:00:00.000Z
+  terms:
+    - type: expression
+      designation: avointen järjestelmien ympäristö
+      normative_status: preferred
+  _revisions:
+    current: 894a15
+    tree:
+      894a15:
+        object:
+          id: 316
+          definition: >-
+            kattava joukko rajapintoja, palveluita, ylläpitoformaatteja ja
+            käyttäjänäkökohtia, jota hyödynnetään edistettäessä sovellusten,
+            tiedon ja ihmisten yhteentoimivuutta ja/tai siirrettävyyttä siten
+            kuin tietotekniikkastandardeissa ja profiileissa on määritelty
+          language_code: fin
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO/IEC TR 10000-1:1998'
+            link: 'https://www.iso.org/standard/30726.html'
+          lineage_source: Internet (sovellettu)
+          date_accepted: 2004-07-01T00:00:00.000Z
+          terms:
+            - type: expression
+              designation: avointen järjestelmien ympäristö
+              normative_status: preferred
+        parents: []
+        timeCreated: 2004-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+fra:
+  id: 316
+  definition: >-
+    ensemble complet d'interfaces, services et formats supportés, ainsi que les
+    aspects utilisateurs, pour l'interopérabilité et/ou la portabilité
+    d'applications, données, ou acteurs humains, tel que spécifié par des normes
+    de technologie de l'information et leurs profils
+  language_code: fra
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO/IEC TR 10000-1:1998'
+    link: 'https://www.iso.org/standard/30726.html'
+  lineage_source: ISO 19106
+  lineage_source_similarity: 1
+  date_accepted: 2004-07-01T00:00:00.000Z
+  terms:
+    - type: expression
+      designation: environnement de systèmes ouverts
+      normative_status: preferred
+  _revisions:
+    current: b6b897
+    tree:
+      b6b897:
+        object:
+          id: 316
+          definition: >-
+            ensemble complet d'interfaces, services et formats supportés, ainsi
+            que les aspects utilisateurs, pour l'interopérabilité et/ou la
+            portabilité d'applications, données, ou acteurs humains, tel que
+            spécifié par des normes de technologie de l'information et leurs
+            profils
+          language_code: fra
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO/IEC TR 10000-1:1998'
+            link: 'https://www.iso.org/standard/30726.html'
+          lineage_source: ISO 19106
+          lineage_source_similarity: 1
+          date_accepted: 2004-07-01T00:00:00.000Z
+          terms:
+            - type: expression
+              designation: environnement de systèmes ouverts
+              normative_status: preferred
+        parents: []
+        timeCreated: 2004-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+deu:
+  id: 316
+  abbrev: OSE
+  language_code: deu
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO/IEC TR 10000-1:1998'
+    link: 'https://www.iso.org/standard/30726.html'
+  date_accepted: 2004-07-01T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: offene Systemumgebung
+      normative_status: preferred
+  _revisions:
+    current: c7a90e
+    tree:
+      c7a90e:
+        object:
+          id: 316
+          abbrev: OSE
+          language_code: deu
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO/IEC TR 10000-1:1998'
+            link: 'https://www.iso.org/standard/30726.html'
+          date_accepted: 2004-07-01T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: offene Systemumgebung
+              normative_status: preferred
+        parents: []
+        timeCreated: 2004-07-01T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+kor:
+  id: 316
+  definition: >-
+    사용자 관점에서 응용, 데이터, 또는 사람에 대한 이식성 및 상호 운용성을 위한 인터페이스, 서비스, 지원 포맷 및 이들의 프로파일로
+    구성된 포괄적 집합
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO/IEC TR 10000-1:1998'
+    link: 'https://www.iso.org/standard/30726.html'
+  lineage_source: KS  X ISO/IEC 10000-1
+  date_accepted: 2002-08-29T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: 개방형 시스템 환경
+      normative_status: preferred
+  _revisions:
+    current: 1281bd
+    tree:
+      1281bd:
+        object:
+          id: 316
+          definition: >-
+            사용자 관점에서 응용, 데이터, 또는 사람에 대한 이식성 및 상호 운용성을 위한 인터페이스, 서비스, 지원 포맷 및 이들의
+            프로파일로 구성된 포괄적 집합
+          language_code: kor
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO/IEC TR 10000-1:1998'
+            link: 'https://www.iso.org/standard/30726.html'
+          lineage_source: KS  X ISO/IEC 10000-1
+          date_accepted: 2002-08-29T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: 개방형 시스템 환경
+              normative_status: preferred
+        parents: []
+        timeCreated: 2002-08-29T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 316
+  definition: >-
+    исчерпывающий набор интерфейсов, сервISOв, поддерживаемых форматов и
+    пользовательских аспектов, обеспечивающий  интероперабельность и/или
+    мобильность приложений, данных или людей, как это предусмотрено стандартами
+    и профилями информационных технологий
+  language_code: rus
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO/IEC TR 10000-1:1998'
+    link: 'https://www.iso.org/standard/30726.html'
+  lineage_source: Internet
+  date_accepted: 2004-07-01T00:00:00.000Z
+  terms:
+    - type: expression
+      designation: среда открытых систем
+      normative_status: preferred
+  _revisions:
+    current: 0017eb
+    tree:
+      0017eb:
+        object:
+          id: 316
+          definition: >-
+            исчерпывающий набор интерфейсов, сервISOв, поддерживаемых форматов и
+            пользовательских аспектов, обеспечивающий  интероперабельность и/или
+            мобильность приложений, данных или людей, как это предусмотрено
+            стандартами и профилями информационных технологий
+          language_code: rus
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO/IEC TR 10000-1:1998'
+            link: 'https://www.iso.org/standard/30726.html'
+          lineage_source: Internet
+          date_accepted: 2004-07-01T00:00:00.000Z
+          terms:
+            - type: expression
+              designation: среда открытых систем
+              normative_status: preferred
+        parents: []
+        timeCreated: 2004-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 316
+  definition: >-
+    conjunto detallado de interfaces, servicios y formatos soportados, junto con
+    aspectos de usuario, para la interoperabilidad o la portabilidad de
+    aplicaciones, datos y personas, según lo especificado por normas y perfiles
+    de las tecnologías de la información
+  language_code: spa
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO/IEC TR 10000-1:1998'
+    link: 'https://www.iso.org/standard/30726.html'
+  date_accepted: 2004-07-01T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: entorno de sistemas abiertos
+      normative_status: preferred
+  _revisions:
+    current: d6579b
+    tree:
+      d6579b:
+        object:
+          id: 316
+          definition: >-
+            conjunto detallado de interfaces, servicios y formatos soportados,
+            junto con aspectos de usuario, para la interoperabilidad o la
+            portabilidad de aplicaciones, datos y personas, según lo
+            especificado por normas y perfiles de las tecnologías de la
+            información
+          language_code: spa
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO/IEC TR 10000-1:1998'
+            link: 'https://www.iso.org/standard/30726.html'
+          date_accepted: 2004-07-01T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: entorno de sistemas abiertos
+              normative_status: preferred
+        parents: []
+        timeCreated: 2004-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+swe:
+  id: 316
+  abbrev: OSE
+  definition: >-
+    uppsättning av definitioner för standardiserade tjänster, protokoll och
+    datastrukturer som möjliggör sammankoppling av system
+  country_code: swe
+  language_code: swe
+  notes:
+    - >-
+      Enligt OSI: system som vid kommunikation följer OSI-standard och därför
+      kan anslutas till andra system som följer samma standard.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO/IEC TR 10000-1:1998'
+    link: 'https://www.iso.org/standard/30726.html'
+  lineage_source: 'ISO 19106:2004'
+  lineage_source_similarity: 1
+  date_accepted: 2004-07-01T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: öppen systemiljö
+      normative_status: preferred
+  _revisions:
+    current: 075ecf
+    tree:
+      075ecf:
+        object:
+          id: 316
+          abbrev: OSE
+          definition: >-
+            uppsättning av definitioner för standardiserade tjänster, protokoll
+            och datastrukturer som möjliggör sammankoppling av system
+          country_code: swe
+          language_code: swe
+          notes:
+            - >-
+              Enligt OSI: system som vid kommunikation följer OSI-standard och
+              därför kan anslutas till andra system som följer samma standard.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO/IEC TR 10000-1:1998'
+            link: 'https://www.iso.org/standard/30726.html'
+          lineage_source: 'ISO 19106:2004'
+          lineage_source_similarity: 1
+          date_accepted: 2004-07-01T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: öppen systemiljö
+              normative_status: preferred
+        parents: []
+        timeCreated: 2004-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

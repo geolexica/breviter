@@ -1,0 +1,767 @@
+term: dependency <UML>
+termid: 130
+eng:
+  id: 130
+  definition: >-
+    relationship between two modelling elements, in which a change to one
+    modelling element (the independent element) will affect the other modelling
+    element (the dependent element)
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: ISO/IEC 19501
+    link: 'https://www.iso.org/standard/32620.html'
+  lineage_source: 'ISO/TS 19103:2005 ,4.2.12'
+  lineage_source_similarity: 1
+  date_accepted: 2005-07-15T00:00:00.000Z
+  date_amended: 2015-12-01T00:00:00.000Z
+  review_date: 2009-01-14T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2015-12-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19103:2015'
+  review_decision_notes: >-
+    The entry has been superseded. An entry with a revised definition has been
+    published in ISO 19103:2015
+  release: '-1'
+  terms:
+    - type: expression
+      designation: dependency <UML>
+      normative_status: null
+  _revisions:
+    current: fed6a6
+    tree:
+      fed6a6:
+        object:
+          id: 130
+          definition: >-
+            relationship between two modelling elements, in which a change to
+            one modelling element (the independent element) will affect the
+            other modelling element (the dependent element)
+          language_code: eng
+          notes: []
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: ISO/IEC 19501
+            link: 'https://www.iso.org/standard/32620.html'
+          lineage_source: 'ISO/TS 19103:2005 ,4.2.12'
+          lineage_source_similarity: 1
+          date_accepted: 2005-07-15T00:00:00.000Z
+          date_amended: 2015-12-01T00:00:00.000Z
+          review_date: 2009-01-14T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2015-12-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19103:2015'
+          review_decision_notes: >-
+            The entry has been superseded. An entry with a revised definition
+            has been published in ISO 19103:2015
+          release: '-1'
+          terms:
+            - type: expression
+              designation: dependency <UML>
+              normative_status: null
+        parents: []
+        timeCreated: 2005-07-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+ara:
+  id: 130
+  definition: >-
+    علاقة متبادلة بين عنصرين للنمذجة يكون فيها للتغيير في أحد العنصرين (وهو
+    العنصر المستقل ) تأثير على العنصر الآخر ( أي العنصر التابع )
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: ISO/IEC 19501
+    link: 'https://www.iso.org/standard/32620.html'
+  lineage_source: 'ISO/TS 19103:2005 ,4.2.12'
+  lineage_source_similarity: 1
+  date_accepted: 2005-07-15T00:00:00.000Z
+  date_amended: 2015-12-01T00:00:00.000Z
+  review_date: 2009-01-14T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2015-12-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19103:2015'
+  review_decision_notes: >-
+    The entry has been superseded. An entry with a revised definition has been
+    published in ISO 19103:2015
+  release: '-1'
+  terms:
+    - type: expression
+      designation: التبعية  < UML  >
+      normative_status: null
+  _revisions:
+    current: 2fc98c
+    tree:
+      2fc98c:
+        object:
+          id: 130
+          definition: >-
+            علاقة متبادلة بين عنصرين للنمذجة يكون فيها للتغيير في أحد العنصرين
+            (وهو العنصر المستقل ) تأثير على العنصر الآخر ( أي العنصر التابع )
+          language_code: ara
+          notes: []
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: ISO/IEC 19501
+            link: 'https://www.iso.org/standard/32620.html'
+          lineage_source: 'ISO/TS 19103:2005 ,4.2.12'
+          lineage_source_similarity: 1
+          date_accepted: 2005-07-15T00:00:00.000Z
+          date_amended: 2015-12-01T00:00:00.000Z
+          review_date: 2009-01-14T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2015-12-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19103:2015'
+          review_decision_notes: >-
+            The entry has been superseded. An entry with a revised definition
+            has been published in ISO 19103:2015
+          release: '-1'
+          terms:
+            - type: expression
+              designation: التبعية  < UML  >
+              normative_status: null
+        parents: []
+        timeCreated: 2005-07-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+zho:
+  id: 130
+  definition: 两个建模元素之间的关系，一个建模元素（独立元素）发生改变会影响另一个建模元素（依赖元素）。
+  language_code: zho
+  notes: []
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: ISO/IEC 19501
+    link: 'https://www.iso.org/standard/32620.html'
+  lineage_source: 'ISO/TS 19103:2005 ,4.2.12'
+  lineage_source_similarity: 1
+  date_accepted: 2005-07-15T00:00:00.000Z
+  date_amended: 2015-12-01T00:00:00.000Z
+  review_date: 2009-01-14T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2015-12-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19103:2015'
+  review_decision_notes: >-
+    The entry has been superseded. An entry with a revised definition has been
+    published in ISO 19103:2015
+  release: '-1'
+  terms:
+    - type: expression
+      designation: 依赖<UML>
+      normative_status: null
+  _revisions:
+    current: 403e3a
+    tree:
+      403e3a:
+        object:
+          id: 130
+          definition: 两个建模元素之间的关系，一个建模元素（独立元素）发生改变会影响另一个建模元素（依赖元素）。
+          language_code: zho
+          notes: []
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: ISO/IEC 19501
+            link: 'https://www.iso.org/standard/32620.html'
+          lineage_source: 'ISO/TS 19103:2005 ,4.2.12'
+          lineage_source_similarity: 1
+          date_accepted: 2005-07-15T00:00:00.000Z
+          date_amended: 2015-12-01T00:00:00.000Z
+          review_date: 2009-01-14T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2015-12-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19103:2015'
+          review_decision_notes: >-
+            The entry has been superseded. An entry with a revised definition
+            has been published in ISO 19103:2015
+          release: '-1'
+          terms:
+            - type: expression
+              designation: 依赖<UML>
+              normative_status: null
+        parents: []
+        timeCreated: 2005-07-15T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+dan:
+  id: 130
+  definition: >-
+    relation mellem to elementer (klasser), hvor en ændring af det ene element
+    (det uafhængige element) vil påvirke det andet element (det afhængige
+    element)
+  language_code: dan
+  notes: []
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: ISO/IEC 19501
+    link: 'https://www.iso.org/standard/32620.html'
+  lineage_source: 'ISO/TS 19103:2005 ,4.2.12'
+  lineage_source_similarity: 1
+  date_accepted: 2005-07-15T00:00:00.000Z
+  date_amended: 2015-12-01T00:00:00.000Z
+  review_date: 2009-01-14T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2015-12-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19103:2015'
+  review_decision_notes: >-
+    The entry has been superseded. An entry with a revised definition has been
+    published in ISO 19103:2015
+  release: '-1'
+  terms:
+    - type: expression
+      designation: afhængighed <UML>
+      normative_status: null
+  _revisions:
+    current: 28247c
+    tree:
+      28247c:
+        object:
+          id: 130
+          definition: >-
+            relation mellem to elementer (klasser), hvor en ændring af det ene
+            element (det uafhængige element) vil påvirke det andet element (det
+            afhængige element)
+          language_code: dan
+          notes: []
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: ISO/IEC 19501
+            link: 'https://www.iso.org/standard/32620.html'
+          lineage_source: 'ISO/TS 19103:2005 ,4.2.12'
+          lineage_source_similarity: 1
+          date_accepted: 2005-07-15T00:00:00.000Z
+          date_amended: 2015-12-01T00:00:00.000Z
+          review_date: 2009-01-14T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2015-12-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19103:2015'
+          review_decision_notes: >-
+            The entry has been superseded. An entry with a revised definition
+            has been published in ISO 19103:2015
+          release: '-1'
+          terms:
+            - type: expression
+              designation: afhængighed <UML>
+              normative_status: null
+        parents: []
+        timeCreated: 2005-07-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+fin:
+  id: 130
+  definition: >-
+    kahden mallinnuselementin välinen suhde, jossa yhteen mallinnuselementtiin
+    (riippumaton elementti) kohdistuva muutos vaikuttaa toiseen (riippuvainen
+    elementti)
+  language_code: fin
+  notes: []
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: ISO/IEC 19501
+    link: 'https://www.iso.org/standard/32620.html'
+  lineage_source: 'ISO/TS 19103:2005 ,4.2.12'
+  lineage_source_similarity: 1
+  date_accepted: 2005-07-15T00:00:00.000Z
+  date_amended: 2015-12-01T00:00:00.000Z
+  review_date: 2009-01-14T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2015-12-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19103:2015'
+  review_decision_notes: >-
+    The entry has been superseded. An entry with a revised definition has been
+    published in ISO 19103:2015
+  release: '-1'
+  terms:
+    - type: expression
+      designation: riippuvuus <UML>
+      normative_status: null
+  _revisions:
+    current: 614c46
+    tree:
+      614c46:
+        object:
+          id: 130
+          definition: >-
+            kahden mallinnuselementin välinen suhde, jossa yhteen
+            mallinnuselementtiin (riippumaton elementti) kohdistuva muutos
+            vaikuttaa toiseen (riippuvainen elementti)
+          language_code: fin
+          notes: []
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: ISO/IEC 19501
+            link: 'https://www.iso.org/standard/32620.html'
+          lineage_source: 'ISO/TS 19103:2005 ,4.2.12'
+          lineage_source_similarity: 1
+          date_accepted: 2005-07-15T00:00:00.000Z
+          date_amended: 2015-12-01T00:00:00.000Z
+          review_date: 2009-01-14T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2015-12-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19103:2015'
+          review_decision_notes: >-
+            The entry has been superseded. An entry with a revised definition
+            has been published in ISO 19103:2015
+          release: '-1'
+          terms:
+            - type: expression
+              designation: riippuvuus <UML>
+              normative_status: null
+        parents: []
+        timeCreated: 2005-07-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+fra:
+  id: 130
+  definition: >-
+    relation entre deux éléments du modèle, dans laquelle un changement d'un
+    élément du modèle (l'élément indépendant) affectera l'autre élément du
+    modèle (l'élément dépendant)
+  language_code: fra
+  notes: []
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: ISO/IEC 19501
+    link: 'https://www.iso.org/standard/32620.html'
+  lineage_source: 'ISO/TS 19103:2005 ,4.2.12'
+  lineage_source_similarity: 1
+  date_accepted: 2005-07-15T00:00:00.000Z
+  date_amended: 2015-12-01T00:00:00.000Z
+  review_date: 2009-01-14T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2015-12-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19103:2015'
+  review_decision_notes: >-
+    The entry has been superseded. An entry with a revised definition has been
+    published in ISO 19103:2015
+  release: '-1'
+  terms:
+    - type: expression
+      designation: dépendance <UML>
+      normative_status: null
+  _revisions:
+    current: c3af7e
+    tree:
+      c3af7e:
+        object:
+          id: 130
+          definition: >-
+            relation entre deux éléments du modèle, dans laquelle un changement
+            d'un élément du modèle (l'élément indépendant) affectera l'autre
+            élément du modèle (l'élément dépendant)
+          language_code: fra
+          notes: []
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: ISO/IEC 19501
+            link: 'https://www.iso.org/standard/32620.html'
+          lineage_source: 'ISO/TS 19103:2005 ,4.2.12'
+          lineage_source_similarity: 1
+          date_accepted: 2005-07-15T00:00:00.000Z
+          date_amended: 2015-12-01T00:00:00.000Z
+          review_date: 2009-01-14T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2015-12-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19103:2015'
+          review_decision_notes: >-
+            The entry has been superseded. An entry with a revised definition
+            has been published in ISO 19103:2015
+          release: '-1'
+          terms:
+            - type: expression
+              designation: dépendance <UML>
+              normative_status: null
+        parents: []
+        timeCreated: 2005-07-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+deu:
+  id: 130
+  language_code: deu
+  notes: []
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: ISO/IEC 19501
+    link: 'https://www.iso.org/standard/32620.html'
+  lineage_source: 'ISO/TS 19103:2005 ,4.2.12'
+  lineage_source_similarity: 1
+  date_accepted: 2005-07-15T00:00:00.000Z
+  date_amended: 2015-12-01T00:00:00.000Z
+  review_date: 2009-01-14T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2015-12-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19103:2015'
+  review_decision_notes: >-
+    The entry has been superseded. An entry with a revised definition has been
+    published in ISO 19103:2015
+  release: '-1'
+  terms:
+    - type: expression
+      designation: Abhängigkeit <UML>
+      normative_status: null
+  _revisions:
+    current: c66cae
+    tree:
+      c66cae:
+        object:
+          id: 130
+          language_code: deu
+          notes: []
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: ISO/IEC 19501
+            link: 'https://www.iso.org/standard/32620.html'
+          lineage_source: 'ISO/TS 19103:2005 ,4.2.12'
+          lineage_source_similarity: 1
+          date_accepted: 2005-07-15T00:00:00.000Z
+          date_amended: 2015-12-01T00:00:00.000Z
+          review_date: 2009-01-14T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2015-12-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19103:2015'
+          review_decision_notes: >-
+            The entry has been superseded. An entry with a revised definition
+            has been published in ISO 19103:2015
+          release: '-1'
+          terms:
+            - type: expression
+              designation: Abhängigkeit <UML>
+              normative_status: null
+        parents: []
+        timeCreated: 2005-07-15T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+kor:
+  id: 130
+  definition: 하나의 모델링 요소(독립 요소)가 변경되었을 때 다른 모델링 요소(종속 요소)에 영향을 미치는 두 모델링 요소 간의 관계
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: ISO/IEC 19501
+    link: 'https://www.iso.org/standard/32620.html'
+  lineage_source: 'ISO/TS 19103:2005 ,4.2.12'
+  lineage_source_similarity: 1
+  date_accepted: 2005-07-15T00:00:00.000Z
+  date_amended: 2015-12-01T00:00:00.000Z
+  review_date: 2009-01-14T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2015-12-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19103:2015'
+  review_decision_notes: >-
+    The entry has been superseded. An entry with a revised definition has been
+    published in ISO 19103:2015
+  release: '-1'
+  terms:
+    - type: expression
+      designation: 의존 <UML>
+      normative_status: null
+  _revisions:
+    current: a17cae
+    tree:
+      a17cae:
+        object:
+          id: 130
+          definition: 하나의 모델링 요소(독립 요소)가 변경되었을 때 다른 모델링 요소(종속 요소)에 영향을 미치는 두 모델링 요소 간의 관계
+          language_code: kor
+          notes: []
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: ISO/IEC 19501
+            link: 'https://www.iso.org/standard/32620.html'
+          lineage_source: 'ISO/TS 19103:2005 ,4.2.12'
+          lineage_source_similarity: 1
+          date_accepted: 2005-07-15T00:00:00.000Z
+          date_amended: 2015-12-01T00:00:00.000Z
+          review_date: 2009-01-14T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2015-12-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19103:2015'
+          review_decision_notes: >-
+            The entry has been superseded. An entry with a revised definition
+            has been published in ISO 19103:2015
+          release: '-1'
+          terms:
+            - type: expression
+              designation: 의존 <UML>
+              normative_status: null
+        parents: []
+        timeCreated: 2005-07-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 130
+  definition: >-
+    отношение двух моделируемых элементов, при котором изменение одного из них
+    (независимого) может повлиять на другой (зависимый)
+  language_code: rus
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: ISO/IEC 19501
+    link: 'https://www.iso.org/standard/32620.html'
+  lineage_source: 'ISO/TS 19103:2005 ,4.2.12'
+  lineage_source_similarity: 1
+  date_accepted: 2005-07-15T00:00:00.000Z
+  review_date: 2009-08-31T00:00:00.000Z
+  review_status: ''
+  review_type: ''
+  release: '1'
+  terms:
+    - type: expression
+      designation: зависимость <UML>
+      normative_status: preferred
+  _revisions:
+    current: ebcb50
+    tree:
+      ebcb50:
+        object:
+          id: 130
+          definition: >-
+            отношение двух моделируемых элементов, при котором изменение одного
+            из них (независимого) может повлиять на другой (зависимый)
+          language_code: rus
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: ISO/IEC 19501
+            link: 'https://www.iso.org/standard/32620.html'
+          lineage_source: 'ISO/TS 19103:2005 ,4.2.12'
+          lineage_source_similarity: 1
+          date_accepted: 2005-07-15T00:00:00.000Z
+          review_date: 2009-08-31T00:00:00.000Z
+          review_status: ''
+          review_type: ''
+          release: '1'
+          terms:
+            - type: expression
+              designation: зависимость <UML>
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-07-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 130
+  definition: >-
+    relación entre dos elementos de modelado en el que un cambio en uno de los
+    elementos (elementos independientes) afecta a otros elementos de modelado
+    (elementos dependientes)
+  language_code: spa
+  notes: []
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: ISO/IEC 19501
+    link: 'https://www.iso.org/standard/32620.html'
+  lineage_source: 'ISO/TS 19103:2005 ,4.2.12'
+  lineage_source_similarity: 1
+  date_accepted: 2005-07-15T00:00:00.000Z
+  date_amended: 2015-12-01T00:00:00.000Z
+  review_date: 2009-01-14T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2015-12-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19103:2015'
+  review_decision_notes: >-
+    The entry has been superseded. An entry with a revised definition has been
+    published in ISO 19103:2015
+  release: '-1'
+  terms:
+    - type: expression
+      designation: dependencia <UML>
+      normative_status: null
+  _revisions:
+    current: 21da16
+    tree:
+      21da16:
+        object:
+          id: 130
+          definition: >-
+            relación entre dos elementos de modelado en el que un cambio en uno
+            de los elementos (elementos independientes) afecta a otros elementos
+            de modelado (elementos dependientes)
+          language_code: spa
+          notes: []
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: ISO/IEC 19501
+            link: 'https://www.iso.org/standard/32620.html'
+          lineage_source: 'ISO/TS 19103:2005 ,4.2.12'
+          lineage_source_similarity: 1
+          date_accepted: 2005-07-15T00:00:00.000Z
+          date_amended: 2015-12-01T00:00:00.000Z
+          review_date: 2009-01-14T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2015-12-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19103:2015'
+          review_decision_notes: >-
+            The entry has been superseded. An entry with a revised definition
+            has been published in ISO 19103:2015
+          release: '-1'
+          terms:
+            - type: expression
+              designation: dependencia <UML>
+              normative_status: null
+        parents: []
+        timeCreated: 2005-07-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+swe:
+  id: 130
+  definition: >-
+    relationship between two modelling elements, in which a change to one
+    modelling element (the independent element) will affect the other modelling
+    element (the dependent element)
+  language_code: swe
+  notes: []
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: ISO/IEC 19501
+    link: 'https://www.iso.org/standard/32620.html'
+  lineage_source: 'ISO/TS 19103:2005 ,4.2.12'
+  lineage_source_similarity: 1
+  date_accepted: 2005-07-15T00:00:00.000Z
+  date_amended: 2015-12-01T00:00:00.000Z
+  review_date: 2009-01-14T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2015-12-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19103:2015'
+  review_decision_notes: >-
+    The entry has been superseded. An entry with a revised definition has been
+    published in ISO 19103:2015
+  release: '-1'
+  terms:
+    - type: expression
+      designation: dependency <UML>
+      normative_status: null
+  _revisions:
+    current: dc6c58
+    tree:
+      dc6c58:
+        object:
+          id: 130
+          definition: >-
+            relationship between two modelling elements, in which a change to
+            one modelling element (the independent element) will affect the
+            other modelling element (the dependent element)
+          language_code: swe
+          notes: []
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: ISO/IEC 19501
+            link: 'https://www.iso.org/standard/32620.html'
+          lineage_source: 'ISO/TS 19103:2005 ,4.2.12'
+          lineage_source_similarity: 1
+          date_accepted: 2005-07-15T00:00:00.000Z
+          date_amended: 2015-12-01T00:00:00.000Z
+          review_date: 2009-01-14T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2015-12-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19103:2015'
+          review_decision_notes: >-
+            The entry has been superseded. An entry with a revised definition
+            has been published in ISO 19103:2015
+          release: '-1'
+          terms:
+            - type: expression
+              designation: dependency <UML>
+              normative_status: null
+        parents: []
+        timeCreated: 2005-07-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

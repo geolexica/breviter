@@ -1,0 +1,126 @@
+term: stereotype <UML>
+termid: 1157
+eng:
+  id: 1157
+  definition: >-
+    extension of an existing metaclass that enables the use of platform or
+    domain specific terminology or notation in place of, or in addition to, the
+    ones used for the extended metaclass
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: UML 2
+  lineage_source: 'ISO 19150-2:2015, 4.1.35'
+  date_accepted: 2015-07-01T00:00:00.000Z
+  review_date: 2009-01-14T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2015-07-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19103:2015'
+  review_decision_notes: 'This entry supersedes the entry for "stereotype <UML>" in ISO/TS 19103:2005'
+  release: '4'
+  terms:
+    - type: expression
+      designation: stereotype <UML>
+      normative_status: preferred
+  _revisions:
+    current: 0c4a44
+    tree:
+      0c4a44:
+        object:
+          id: 1157
+          definition: >-
+            extension of an existing metaclass that enables the use of platform
+            or domain specific terminology or notation in place of, or in
+            addition to, the ones used for the extended metaclass
+          language_code: eng
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: UML 2
+          lineage_source: 'ISO 19150-2:2015, 4.1.35'
+          date_accepted: 2015-07-01T00:00:00.000Z
+          review_date: 2009-01-14T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2015-07-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19103:2015'
+          review_decision_notes: >-
+            This entry supersedes the entry for "stereotype <UML>" in ISO/TS
+            19103:2005
+          release: '4'
+          terms:
+            - type: expression
+              designation: stereotype <UML>
+              normative_status: preferred
+        parents: []
+        timeCreated: 2015-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 1157
+  definition: >-
+    extensión de una metaclase existente que permite el uso de la terminología o
+    notación específicas del dominio o la plataforma en lugar de, o además de,
+    los utilizados para la metaclase extendida
+  language_code: spa
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: UML 2
+  lineage_source: 'ISO 19150-2:2015, 4.1.35'
+  date_accepted: 2015-07-01T00:00:00.000Z
+  review_date: 2009-01-14T00:00:00.000Z
+  review_status: final
+  review_decision: ''
+  review_decision_date: 2015-07-01T00:00:00.000Z
+  review_decision_event: 'Publicación de ISO 19103:2015'
+  review_decision_notes: >-
+    Esta entrada terminológica sustituye a "stereotype <UML>" en la
+    Especificación Técnica ISO/TS 19103:2005
+  release: '4'
+  terms:
+    - type: expression
+      designation: estereotipo  <UML>
+      normative_status: preferred
+  _revisions:
+    current: 1517a7
+    tree:
+      1517a7:
+        object:
+          id: 1157
+          definition: >-
+            extensión de una metaclase existente que permite el uso de la
+            terminología o notación específicas del dominio o la plataforma en
+            lugar de, o además de, los utilizados para la metaclase extendida
+          language_code: spa
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: UML 2
+          lineage_source: 'ISO 19150-2:2015, 4.1.35'
+          date_accepted: 2015-07-01T00:00:00.000Z
+          review_date: 2009-01-14T00:00:00.000Z
+          review_status: final
+          review_decision: ''
+          review_decision_date: 2015-07-01T00:00:00.000Z
+          review_decision_event: 'Publicación de ISO 19103:2015'
+          review_decision_notes: >-
+            Esta entrada terminológica sustituye a "stereotype <UML>" en la
+            Especificación Técnica ISO/TS 19103:2005
+          release: '4'
+          terms:
+            - type: expression
+              designation: estereotipo  <UML>
+              normative_status: preferred
+        parents: []
+        timeCreated: 2015-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

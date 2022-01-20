@@ -1,0 +1,352 @@
+term: altitude
+termid: 733
+eng:
+  id: 733
+  definition: height where the chosen reference surface is mean sea level
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 6709:2008'
+    link: 'https://www.iso.org/standard/39242.html'
+  date_accepted: 2008-07-15T00:00:00.000Z
+  release: '2'
+  terms:
+    - type: expression
+      designation: altitude
+      normative_status: preferred
+  _revisions:
+    current: 4d701e
+    tree:
+      4d701e:
+        object:
+          id: 733
+          definition: height where the chosen reference surface is mean sea level
+          language_code: eng
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 6709:2008'
+            link: 'https://www.iso.org/standard/39242.html'
+          date_accepted: 2008-07-15T00:00:00.000Z
+          release: '2'
+          terms:
+            - type: expression
+              designation: altitude
+              normative_status: preferred
+        parents: []
+        timeCreated: 2008-07-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+ara:
+  id: 733
+  definition: الارتفاع عند ما يكون سطح الإسناد المرجعي هو متوسط منسوب سطح البحر
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 6709:2008'
+    link: 'https://www.iso.org/standard/39242.html'
+  date_accepted: 2008-07-15T00:00:00.000Z
+  release: '2'
+  terms:
+    - type: expression
+      designation: الارتفاع
+      normative_status: preferred
+  _revisions:
+    current: 4e5cba
+    tree:
+      4e5cba:
+        object:
+          id: 733
+          definition: الارتفاع عند ما يكون سطح الإسناد المرجعي هو متوسط منسوب سطح البحر
+          language_code: ara
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 6709:2008'
+            link: 'https://www.iso.org/standard/39242.html'
+          date_accepted: 2008-07-15T00:00:00.000Z
+          release: '2'
+          terms:
+            - type: expression
+              designation: الارتفاع
+              normative_status: preferred
+        parents: []
+        timeCreated: 2008-07-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+fin:
+  id: 733
+  definition: keskimerenpinnan suhteen ilmoitettu korkeus
+  language_code: fin
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 6709:2008'
+    link: 'https://www.iso.org/standard/39242.html'
+  lineage_source: Maanmittauslaitos
+  date_accepted: 2008-07-15T00:00:00.000Z
+  release: '2'
+  terms:
+    - type: expression
+      designation: korkeus
+      normative_status: preferred
+  _revisions:
+    current: 1e1ffd
+    tree:
+      1e1ffd:
+        object:
+          id: 733
+          definition: keskimerenpinnan suhteen ilmoitettu korkeus
+          language_code: fin
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 6709:2008'
+            link: 'https://www.iso.org/standard/39242.html'
+          lineage_source: Maanmittauslaitos
+          date_accepted: 2008-07-15T00:00:00.000Z
+          release: '2'
+          terms:
+            - type: expression
+              designation: korkeus
+              normative_status: preferred
+        parents: []
+        timeCreated: 2008-07-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+deu:
+  id: 733
+  definition: 'Höhe, bei der die gewählte Bezugsfläche das Normalnull ist'
+  language_code: deu
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 6709:2008'
+    link: 'https://www.iso.org/standard/39242.html'
+  date_accepted: 2008-07-15T00:00:00.000Z
+  release: '2'
+  terms:
+    - type: expression
+      designation: Höhe
+      normative_status: preferred
+  _revisions:
+    current: 0449d8
+    tree:
+      0449d8:
+        object:
+          id: 733
+          definition: 'Höhe, bei der die gewählte Bezugsfläche das Normalnull ist'
+          language_code: deu
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 6709:2008'
+            link: 'https://www.iso.org/standard/39242.html'
+          date_accepted: 2008-07-15T00:00:00.000Z
+          release: '2'
+          terms:
+            - type: expression
+              designation: Höhe
+              normative_status: preferred
+        parents: []
+        timeCreated: 2008-07-15T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+kor:
+  id: 733
+  definition: 선택된 기준면과 평균 해수면이 같은 높이
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 6709:2008'
+    link: 'https://www.iso.org/standard/39242.html'
+  date_accepted: 2008-07-15T00:00:00.000Z
+  release: '2'
+  terms:
+    - type: expression
+      designation: 고도
+      normative_status: preferred
+  _revisions:
+    current: a5fb5c
+    tree:
+      a5fb5c:
+        object:
+          id: 733
+          definition: 선택된 기준면과 평균 해수면이 같은 높이
+          language_code: kor
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 6709:2008'
+            link: 'https://www.iso.org/standard/39242.html'
+          date_accepted: 2008-07-15T00:00:00.000Z
+          release: '2'
+          terms:
+            - type: expression
+              designation: 고도
+              normative_status: preferred
+        parents: []
+        timeCreated: 2008-07-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 733
+  definition: >-
+    высота, где выбранная поверхность отсчета  представляет собой средний
+    уровень моря
+  language_code: rus
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 6709:2008'
+    link: 'https://www.iso.org/standard/39242.html'
+  lineage_source: 'перевод ИСО 6709:2008'
+  date_accepted: 2008-07-15T00:00:00.000Z
+  release: '2'
+  terms:
+    - type: expression
+      designation: альтитуда
+      normative_status: preferred
+    - designation: высота
+      type: expression
+  _revisions:
+    current: 1b500a
+    tree:
+      1b500a:
+        object:
+          id: 733
+          definition: >-
+            высота, где выбранная поверхность отсчета  представляет собой
+            средний уровень моря
+          language_code: rus
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 6709:2008'
+            link: 'https://www.iso.org/standard/39242.html'
+          lineage_source: 'перевод ИСО 6709:2008'
+          date_accepted: 2008-07-15T00:00:00.000Z
+          release: '2'
+          terms:
+            - type: expression
+              designation: альтитуда
+              normative_status: preferred
+            - designation: высота
+              type: expression
+        parents: []
+        timeCreated: 2008-07-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 733
+  definition: altura cuya superficie de referencia es el nivel medio del mar
+  language_code: spa
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 6709:2008'
+    link: 'https://www.iso.org/standard/39242.html'
+  date_accepted: 2008-07-15T00:00:00.000Z
+  release: '2'
+  terms:
+    - type: expression
+      designation: altitud ortométrica
+      normative_status: preferred
+  _revisions:
+    current: bab6a2
+    tree:
+      bab6a2:
+        object:
+          id: 733
+          definition: altura cuya superficie de referencia es el nivel medio del mar
+          language_code: spa
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 6709:2008'
+            link: 'https://www.iso.org/standard/39242.html'
+          date_accepted: 2008-07-15T00:00:00.000Z
+          release: '2'
+          terms:
+            - type: expression
+              designation: altitud ortométrica
+              normative_status: preferred
+        parents: []
+        timeCreated: 2008-07-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+swe:
+  id: 733
+  country_code: swe
+  language_code: swe
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 6709:2008'
+    link: 'https://www.iso.org/standard/39242.html'
+  lineage_source: (Type reference to national language document)
+  date_accepted: 2008-07-15T00:00:00.000Z
+  review_decision_notes: 'Definition in ISO 19116:2002 was superseded by a new definition in ISO 6709'
+  release: '2'
+  terms:
+    - type: expression
+      designation: |-
+        altitud
+        höjd över havet
+      normative_status: preferred
+  _revisions:
+    current: d900dc
+    tree:
+      d900dc:
+        object:
+          id: 733
+          country_code: swe
+          language_code: swe
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 6709:2008'
+            link: 'https://www.iso.org/standard/39242.html'
+          lineage_source: (Type reference to national language document)
+          date_accepted: 2008-07-15T00:00:00.000Z
+          review_decision_notes: >-
+            Definition in ISO 19116:2002 was superseded by a new definition in
+            ISO 6709
+          release: '2'
+          terms:
+            - type: expression
+              designation: |-
+                altitud
+                höjd över havet
+              normative_status: preferred
+        parents: []
+        timeCreated: 2008-07-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

@@ -1,0 +1,707 @@
+term: acceptance testing <user>
+termid: 7
+eng:
+  id: 7
+  definition: >-
+    process of determining whether an implementation satisfies acceptance
+    criteria and enables the user to determine whether to accept the
+    implementation
+  language_code: eng
+  notes:
+    - >-
+      This includes the planning and execution of several kinds of tests (e.g.
+      functional, volume, performance tests) that demonstrate that the
+      implementation satisfies the user requirements.
+    - This is not a part of conformance testing
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19105:2000'
+    link: 'https://www.iso.org/standard/26010.html'
+  date_accepted: 2000-12-15T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: acceptance testing <user>
+      normative_status: preferred
+  _revisions:
+    current: f7d086
+    tree:
+      f7d086:
+        object:
+          id: 7
+          definition: >-
+            process of determining whether an implementation satisfies
+            acceptance criteria and enables the user to determine whether to
+            accept the implementation
+          language_code: eng
+          notes:
+            - >-
+              This includes the planning and execution of several kinds of tests
+              (e.g. functional, volume, performance tests) that demonstrate that
+              the implementation satisfies the user requirements.
+            - This is not a part of conformance testing
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19105:2000'
+            link: 'https://www.iso.org/standard/26010.html'
+          date_accepted: 2000-12-15T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: acceptance testing <user>
+              normative_status: preferred
+        parents: []
+        timeCreated: 2000-12-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+ara:
+  id: 7
+  definition: >-
+    عملية تحديد ما إذا كان التنفيذ يحقق معيار القبول ويمكن المستخدم من قبول
+    التنفيذ .
+  language_code: ara
+  notes:
+    - >-
+      هذا يشمل تخطيط وتنفيذ عدة أنواع من الاختبارات (مثل الاختبارات الوظيفية
+      واختبارات الحجم واختبارات الأداء) التي تثبت أن التنفيذ يفي بجميع شروط
+      ومتطلبات المستخدم
+    - هذا لا يشكل جزءا من اختبار المطابقة.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19105:2000'
+    link: 'https://www.iso.org/standard/26010.html'
+  date_accepted: 2000-12-15T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: اختبار القبول (المستخدم)
+      normative_status: preferred
+  _revisions:
+    current: 55a6ce
+    tree:
+      55a6ce:
+        object:
+          id: 7
+          definition: >-
+            عملية تحديد ما إذا كان التنفيذ يحقق معيار القبول ويمكن المستخدم من
+            قبول التنفيذ .
+          language_code: ara
+          notes:
+            - >-
+              هذا يشمل تخطيط وتنفيذ عدة أنواع من الاختبارات (مثل الاختبارات
+              الوظيفية واختبارات الحجم واختبارات الأداء) التي تثبت أن التنفيذ
+              يفي بجميع شروط ومتطلبات المستخدم
+            - هذا لا يشكل جزءا من اختبار المطابقة.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19105:2000'
+            link: 'https://www.iso.org/standard/26010.html'
+          date_accepted: 2000-12-15T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: اختبار القبول (المستخدم)
+              normative_status: preferred
+        parents: []
+        timeCreated: 2000-12-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+zho:
+  id: 7
+  definition: <用户>决定一个实现是否满足验收准则以及用户能否决定接受该实现的过程。
+  language_code: zho
+  notes:
+    - 这个过程包括几种类型测试（例如：功能、容量、性能测试）的设计和执行，用来表明该实现是否满足的用户要求。
+    - 验收测试不作为一致性测试的组成部分。
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19105:2000'
+    link: 'https://www.iso.org/standard/26010.html'
+  date_accepted: 2000-12-15T00:00:00.000Z
+  terms:
+    - type: expression
+      designation: 验收测试<用户>
+      normative_status: preferred
+  _revisions:
+    current: 3d83bd
+    tree:
+      3d83bd:
+        object:
+          id: 7
+          definition: <用户>决定一个实现是否满足验收准则以及用户能否决定接受该实现的过程。
+          language_code: zho
+          notes:
+            - 这个过程包括几种类型测试（例如：功能、容量、性能测试）的设计和执行，用来表明该实现是否满足的用户要求。
+            - 验收测试不作为一致性测试的组成部分。
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19105:2000'
+            link: 'https://www.iso.org/standard/26010.html'
+          date_accepted: 2000-12-15T00:00:00.000Z
+          terms:
+            - type: expression
+              designation: 验收测试<用户>
+              normative_status: preferred
+        parents: []
+        timeCreated: 2000-12-15T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+dan:
+  id: 7
+  definition: >-
+    proces til bestemmelse af, om en implementering opfylder
+    acceptance-kriterier og sætter brugeren i stand til at afgøre, om
+    implementeringen skal accepteres
+  language_code: dan
+  notes:
+    - >-
+      Dette omfatter planlægning og gennemførelse af forskellige slags test (fx
+      funktions-, volumen-, performancetest), som viser, at implementeringen
+      opfylder brugerens krav.
+    - Dette indgår ikke i overensstemmelsestest.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19105:2000'
+    link: 'https://www.iso.org/standard/26010.html'
+  date_accepted: 2000-12-15T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: acceptance test (bruger)
+      normative_status: preferred
+  _revisions:
+    current: 051b71
+    tree:
+      051b71:
+        object:
+          id: 7
+          definition: >-
+            proces til bestemmelse af, om en implementering opfylder
+            acceptance-kriterier og sætter brugeren i stand til at afgøre, om
+            implementeringen skal accepteres
+          language_code: dan
+          notes:
+            - >-
+              Dette omfatter planlægning og gennemførelse af forskellige slags
+              test (fx funktions-, volumen-, performancetest), som viser, at
+              implementeringen opfylder brugerens krav.
+            - Dette indgår ikke i overensstemmelsestest.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19105:2000'
+            link: 'https://www.iso.org/standard/26010.html'
+          date_accepted: 2000-12-15T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: acceptance test (bruger)
+              normative_status: preferred
+        parents: []
+        timeCreated: 2000-12-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+fin:
+  id: 7
+  definition: >-
+    prosessi, jossa määritetään, täyttääkö toteutus hyväksyttävyyskriteerit ja
+    jossa käyttäjälle annetaan mahdollisuus päättää toteutuksen hyväksymisestä
+  language_code: fin
+  notes:
+    - >-
+      Hyväksymistestaukseen kuuluu monenlaisten käyttäjävaatimusten täyttymistä
+      mittaavien testien (esim. toiminnallisuus-, kuormitus- ja
+      suorituskykytestit) suunnittelua ja toteuttamista.
+    - Hyväksymistestaus ei kuulu vaatimuksenmukaisuuden testaukseen.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19105:2000'
+    link: 'https://www.iso.org/standard/26010.html'
+  lineage_source: Internet (Kuopion yliopiston tietojenkäsittelytiede)
+  date_accepted: 2000-12-15T00:00:00.000Z
+  terms:
+    - type: expression
+      designation: hyväksymistestaus (käyttäjän)
+      normative_status: preferred
+  _revisions:
+    current: b494c4
+    tree:
+      b494c4:
+        object:
+          id: 7
+          definition: >-
+            prosessi, jossa määritetään, täyttääkö toteutus
+            hyväksyttävyyskriteerit ja jossa käyttäjälle annetaan mahdollisuus
+            päättää toteutuksen hyväksymisestä
+          language_code: fin
+          notes:
+            - >-
+              Hyväksymistestaukseen kuuluu monenlaisten käyttäjävaatimusten
+              täyttymistä mittaavien testien (esim. toiminnallisuus-, kuormitus-
+              ja suorituskykytestit) suunnittelua ja toteuttamista.
+            - Hyväksymistestaus ei kuulu vaatimuksenmukaisuuden testaukseen.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19105:2000'
+            link: 'https://www.iso.org/standard/26010.html'
+          lineage_source: Internet (Kuopion yliopiston tietojenkäsittelytiede)
+          date_accepted: 2000-12-15T00:00:00.000Z
+          terms:
+            - type: expression
+              designation: hyväksymistestaus (käyttäjän)
+              normative_status: preferred
+        parents: []
+        timeCreated: 2000-12-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+fra:
+  id: 7
+  definition: >-
+    processus déterminant si une implémentation satisfait un critère
+    d'acceptation et permet à l'utilisateur de déterminer s'il accepte
+    l'implémentation
+  language_code: fra
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: ISO 19105
+    link: 'https://www.iso.org/standard/26010.html'
+  lineage_source: ''
+  date_accepted: 2000-11-16T00:00:00.000Z
+  terms:
+    - type: expression
+      designation: test d'acceptation (utilisateur)
+      normative_status: preferred
+  _revisions:
+    current: 37da30
+    tree:
+      37da30:
+        object:
+          id: 7
+          definition: >-
+            processus déterminant si une implémentation satisfait un critère
+            d'acceptation et permet à l'utilisateur de déterminer s'il accepte
+            l'implémentation
+          language_code: fra
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: ISO 19105
+            link: 'https://www.iso.org/standard/26010.html'
+          lineage_source: ''
+          date_accepted: 2000-11-16T00:00:00.000Z
+          terms:
+            - type: expression
+              designation: test d'acceptation (utilisateur)
+              normative_status: preferred
+        parents: []
+        timeCreated: 2000-11-16T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+deu:
+  id: 7
+  language_code: deu
+  notes:
+    - >-
+      This includes the planning and execution of several kinds of tests (e.g.
+      functional, volume, performance tests) that demonstrate that the
+      implementation satisfies the user requirements.
+    - This is not a part of conformance testing
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19105:2000'
+    link: 'https://www.iso.org/standard/26010.html'
+  date_accepted: 2000-12-15T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: Akzeptanzprüfung
+      normative_status: preferred
+  _revisions:
+    current: b75c19
+    tree:
+      b75c19:
+        object:
+          id: 7
+          language_code: deu
+          notes:
+            - >-
+              This includes the planning and execution of several kinds of tests
+              (e.g. functional, volume, performance tests) that demonstrate that
+              the implementation satisfies the user requirements.
+            - This is not a part of conformance testing
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19105:2000'
+            link: 'https://www.iso.org/standard/26010.html'
+          date_accepted: 2000-12-15T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: Akzeptanzprüfung
+              normative_status: preferred
+        parents: []
+        timeCreated: 2000-12-15T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+jpn:
+  id: 7
+  definition: ある実装が利用者の受入基準を満たすかどうかを決定し，利用者がそれを受け入れるかどうかを判断するための試験。
+  language_code: jpn
+  notes:
+    - 受入試験には，実装が利用者の要求を満たしていることを立証するための，種々の試験（機能性試験，数量試験，性能試験など）の計画及び実行が含まれる。
+    - 受入試験は，適合性試験の一部ではない。
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19105:2000'
+    link: 'https://www.iso.org/standard/26010.html'
+  lineage_source: JIS X 7105
+  date_accepted: 2000-12-15T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: 受入試験
+      normative_status: preferred
+  _revisions:
+    current: 127f1a
+    tree:
+      127f1a:
+        object:
+          id: 7
+          definition: ある実装が利用者の受入基準を満たすかどうかを決定し，利用者がそれを受け入れるかどうかを判断するための試験。
+          language_code: jpn
+          notes:
+            - >-
+              受入試験には，実装が利用者の要求を満たしていることを立証するための，種々の試験（機能性試験，数量試験，性能試験など）の計画及び実行が含まれる。
+            - 受入試験は，適合性試験の一部ではない。
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19105:2000'
+            link: 'https://www.iso.org/standard/26010.html'
+          lineage_source: JIS X 7105
+          date_accepted: 2000-12-15T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: 受入試験
+              normative_status: preferred
+        parents: []
+        timeCreated: 2000-12-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+kor:
+  id: 7
+  definition: 구현된 결과가 검수 기준을 만족하는지에 대한 결정 과정
+  language_code: kor
+  notes:
+    - >-
+      사용자 요구 사항에 맞게 구현되는지를 시연하는 여러 종류의 시험(기능 시험, 용량 시험, 성능 시험 등)을 기획하고 실행하는 것이
+      검수 시험에 포함된다.
+    - 검수 시험은 적합성 시험의 일부가 아니다.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19105:2000'
+    link: 'https://www.iso.org/standard/26010.html'
+  lineage_source: KS X ISO 19105
+  date_accepted: 2007-06-29T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: 검수 시험<사용자>
+      normative_status: preferred
+  _revisions:
+    current: 8b9fc8
+    tree:
+      8b9fc8:
+        object:
+          id: 7
+          definition: 구현된 결과가 검수 기준을 만족하는지에 대한 결정 과정
+          language_code: kor
+          notes:
+            - >-
+              사용자 요구 사항에 맞게 구현되는지를 시연하는 여러 종류의 시험(기능 시험, 용량 시험, 성능 시험 등)을 기획하고
+              실행하는 것이 검수 시험에 포함된다.
+            - 검수 시험은 적합성 시험의 일부가 아니다.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19105:2000'
+            link: 'https://www.iso.org/standard/26010.html'
+          lineage_source: KS X ISO 19105
+          date_accepted: 2007-06-29T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: 검수 시험<사용자>
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-06-29T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+msa:
+  id: 7
+  language_code: msa
+  notes:
+    - >-
+      This includes the planning and execution of several kinds of tests (e.g.
+      functional, volume, performance tests) that demonstrate that the
+      implementation satisfies the user requirements.
+    - This is not a part of conformance testing
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19105:2000'
+    link: 'https://www.iso.org/standard/26010.html'
+  lineage_source: 'Istilah ukur dan Pemetaan (DBP, 1992)'
+  date_accepted: 2000-12-15T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: ujian penerimaan
+      normative_status: preferred
+  _revisions:
+    current: 24bd0b
+    tree:
+      24bd0b:
+        object:
+          id: 7
+          language_code: msa
+          notes:
+            - >-
+              This includes the planning and execution of several kinds of tests
+              (e.g. functional, volume, performance tests) that demonstrate that
+              the implementation satisfies the user requirements.
+            - This is not a part of conformance testing
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19105:2000'
+            link: 'https://www.iso.org/standard/26010.html'
+          lineage_source: 'Istilah ukur dan Pemetaan (DBP, 1992)'
+          date_accepted: 2000-12-15T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: ujian penerimaan
+              normative_status: preferred
+        parents: []
+        timeCreated: 2000-12-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 7
+  definition: >-
+    процесс, позволяющий оценить, удовлетворяет ли реализация критериям
+    приемлемости и дающий пользователю возможность вынести решение об этом
+  language_code: rus
+  notes:
+    - >-
+      Включает планирование и выполнение различных видов тестов, например, на
+      функциональность, полноту, эффективность,  которые показывают,
+      удовлетворяет ли реализация  требованиям пользователя
+    - Не является частью тестирования на соответствие
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19105:2000'
+    link: 'https://www.iso.org/standard/26010.html'
+  lineage_source: Internet
+  date_accepted: 2000-12-15T00:00:00.000Z
+  terms:
+    - type: expression
+      designation: тестирование на приемлемость для пользователя
+      normative_status: preferred
+  _revisions:
+    current: 91ef1c
+    tree:
+      91ef1c:
+        object:
+          id: 7
+          definition: >-
+            процесс, позволяющий оценить, удовлетворяет ли реализация критериям
+            приемлемости и дающий пользователю возможность вынести решение об
+            этом
+          language_code: rus
+          notes:
+            - >-
+              Включает планирование и выполнение различных видов тестов,
+              например, на функциональность, полноту, эффективность,  которые
+              показывают, удовлетворяет ли реализация  требованиям пользователя
+            - Не является частью тестирования на соответствие
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19105:2000'
+            link: 'https://www.iso.org/standard/26010.html'
+          lineage_source: Internet
+          date_accepted: 2000-12-15T00:00:00.000Z
+          terms:
+            - type: expression
+              designation: тестирование на приемлемость для пользователя
+              normative_status: preferred
+        parents: []
+        timeCreated: 2000-12-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 7
+  definition: >-
+    proceso de determinación de si una implementación satisface o no los
+    criterios de aceptación y permite al usuario determinar si acepta o no la
+    implementación
+  language_code: spa
+  notes:
+    - >-
+      Esto incluye la planificación y ejecución de varias clases de pruebas (por
+      ejemplo funcionales, de volumen, de desempeño) que demues¬tran que la
+      implementación satisface los requisitos de usuario.
+    - No es una parte de la prueba de conformidad.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19105:2000'
+    link: 'https://www.iso.org/standard/26010.html'
+  date_accepted: 2000-12-15T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: prueba de aceptación (usuario)
+      normative_status: preferred
+  _revisions:
+    current: 75c320
+    tree:
+      75c320:
+        object:
+          id: 7
+          definition: >-
+            proceso de determinación de si una implementación satisface o no los
+            criterios de aceptación y permite al usuario determinar si acepta o
+            no la implementación
+          language_code: spa
+          notes:
+            - >-
+              Esto incluye la planificación y ejecución de varias clases de
+              pruebas (por ejemplo funcionales, de volumen, de desempeño) que
+              demues¬tran que la implementación satisface los requisitos de
+              usuario.
+            - No es una parte de la prueba de conformidad.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19105:2000'
+            link: 'https://www.iso.org/standard/26010.html'
+          date_accepted: 2000-12-15T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: prueba de aceptación (usuario)
+              normative_status: preferred
+        parents: []
+        timeCreated: 2000-12-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+swe:
+  id: 7
+  definition: |-
+    testning i syfte att bestämma om en implementering
+    ska accepteras eller ej med hänsyn till användarnas behov och krav
+  country_code: swe
+  language_code: swe
+  notes:
+    - >-
+      This includes the planning and execution of several kinds of tests (e.g.
+      functional, volume, performance tests) that demonstrate that the
+      implementation satisfies the user requirements.
+    - This is not a part of conformance testing
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19105:2000'
+    link: 'https://www.iso.org/standard/26010.html'
+  lineage_source: (Type reference to national language document)
+  date_accepted: 2000-12-15T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: acceptanstestning
+      normative_status: preferred
+  _revisions:
+    current: 127e0f
+    tree:
+      127e0f:
+        object:
+          id: 7
+          definition: |-
+            testning i syfte att bestämma om en implementering
+            ska accepteras eller ej med hänsyn till användarnas behov och krav
+          country_code: swe
+          language_code: swe
+          notes:
+            - >-
+              This includes the planning and execution of several kinds of tests
+              (e.g. functional, volume, performance tests) that demonstrate that
+              the implementation satisfies the user requirements.
+            - This is not a part of conformance testing
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19105:2000'
+            link: 'https://www.iso.org/standard/26010.html'
+          lineage_source: (Type reference to national language document)
+          date_accepted: 2000-12-15T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: acceptanstestning
+              normative_status: preferred
+        parents: []
+        timeCreated: 2000-12-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

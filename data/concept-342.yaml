@@ -1,0 +1,794 @@
+term: portrayal
+termid: 342
+eng:
+  id: 342
+  definition: presentation of information to humans
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19117:2012'
+    clause: '4.20'
+    link: 'https://www.iso.org/standard/46226.html'
+  lineage_source: 'ISO 19117:2005'
+  lineage_source_similarity: 1
+  date_accepted: 2005-06-01T00:00:00.000Z
+  review_date: 2009-11-25T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2012-12-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19117:2012'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19117:2005 to ISO 19117:2012.
+    Lineage source added as ISO 19117:2005.
+  release: '1'
+  terms:
+    - type: expression
+      designation: portrayal
+      normative_status: preferred
+  _revisions:
+    current: 78e18a
+    tree:
+      78e18a:
+        object:
+          id: 342
+          definition: presentation of information to humans
+          language_code: eng
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19117:2012'
+            clause: '4.20'
+            link: 'https://www.iso.org/standard/46226.html'
+          lineage_source: 'ISO 19117:2005'
+          lineage_source_similarity: 1
+          date_accepted: 2005-06-01T00:00:00.000Z
+          review_date: 2009-11-25T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2012-12-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19117:2012'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19117:2005 to ISO
+            19117:2012. Lineage source added as ISO 19117:2005.
+          release: '1'
+          terms:
+            - type: expression
+              designation: portrayal
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-06-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+ara:
+  id: 342
+  definition: تقديم  المعلومات لجمهور من البشر
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19117:2012'
+    clause: '4.20'
+    link: 'https://www.iso.org/standard/46226.html'
+  lineage_source: 'ISO 19117:2005'
+  lineage_source_similarity: 1
+  date_accepted: 2005-06-01T00:00:00.000Z
+  review_date: 2009-11-25T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2012-12-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19117:2012'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19117:2005 to ISO 19117:2012.
+    Lineage source added as ISO 19117:2005.
+  release: '1'
+  terms:
+    - type: expression
+      designation: عرض
+      normative_status: preferred
+  _revisions:
+    current: ed1499
+    tree:
+      ed1499:
+        object:
+          id: 342
+          definition: تقديم  المعلومات لجمهور من البشر
+          language_code: ara
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19117:2012'
+            clause: '4.20'
+            link: 'https://www.iso.org/standard/46226.html'
+          lineage_source: 'ISO 19117:2005'
+          lineage_source_similarity: 1
+          date_accepted: 2005-06-01T00:00:00.000Z
+          review_date: 2009-11-25T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2012-12-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19117:2012'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19117:2005 to ISO
+            19117:2012. Lineage source added as ISO 19117:2005.
+          release: '1'
+          terms:
+            - type: expression
+              designation: عرض
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-06-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+zho:
+  id: 342
+  definition: 人类对信息的表示。
+  language_code: zho
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19117:2012'
+    clause: '4.20'
+    link: 'https://www.iso.org/standard/46226.html'
+  lineage_source: 'ISO 19117:2005'
+  lineage_source_similarity: 1
+  date_accepted: 2005-06-01T00:00:00.000Z
+  review_date: 2009-11-25T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2012-12-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19117:2012'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19117:2005 to ISO 19117:2012.
+    Lineage source added as ISO 19117:2005.
+  release: '1'
+  terms:
+    - type: expression
+      designation: 图示表达
+      normative_status: preferred
+  _revisions:
+    current: fb303c
+    tree:
+      fb303c:
+        object:
+          id: 342
+          definition: 人类对信息的表示。
+          language_code: zho
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19117:2012'
+            clause: '4.20'
+            link: 'https://www.iso.org/standard/46226.html'
+          lineage_source: 'ISO 19117:2005'
+          lineage_source_similarity: 1
+          date_accepted: 2005-06-01T00:00:00.000Z
+          review_date: 2009-11-25T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2012-12-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19117:2012'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19117:2005 to ISO
+            19117:2012. Lineage source added as ISO 19117:2005.
+          release: '1'
+          terms:
+            - type: expression
+              designation: 图示表达
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-06-01T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+nld:
+  id: 342
+  definition: presentatie van informatie aan mensen
+  language_code: nld
+  notes:
+    - >-
+      Presentatie van informatie door visualisatie, hoorbaar maken, tastbaar
+      maken (tactiel) of combinaties hiervan.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19117:2012'
+    clause: '4.20'
+    link: 'https://www.iso.org/standard/46226.html'
+  lineage_source: 'ISO 19117:2005'
+  lineage_source_similarity: 1
+  date_accepted: 2005-06-01T00:00:00.000Z
+  review_date: 2009-11-25T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2012-12-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19117:2012'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19117:2005 to ISO 19117:2012.
+    Lineage source added as ISO 19117:2005.
+  release: '1'
+  terms:
+    - type: expression
+      designation: presentatie
+      normative_status: preferred
+  _revisions:
+    current: c8b706
+    tree:
+      c8b706:
+        object:
+          id: 342
+          definition: presentatie van informatie aan mensen
+          language_code: nld
+          notes:
+            - >-
+              Presentatie van informatie door visualisatie, hoorbaar maken,
+              tastbaar maken (tactiel) of combinaties hiervan.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19117:2012'
+            clause: '4.20'
+            link: 'https://www.iso.org/standard/46226.html'
+          lineage_source: 'ISO 19117:2005'
+          lineage_source_similarity: 1
+          date_accepted: 2005-06-01T00:00:00.000Z
+          review_date: 2009-11-25T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2012-12-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19117:2012'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19117:2005 to ISO
+            19117:2012. Lineage source added as ISO 19117:2005.
+          release: '1'
+          terms:
+            - type: expression
+              designation: presentatie
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-06-01T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+fin:
+  id: 342
+  definition: paikkatiedon kuvaaminen ihmisen ymmärtämässä muodossa
+  language_code: fin
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19117:2012'
+    clause: '4.20'
+    link: 'https://www.iso.org/standard/46226.html'
+  lineage_source: 'ISO 19117:2005'
+  lineage_source_similarity: 1
+  date_accepted: 2005-06-01T00:00:00.000Z
+  review_date: 2009-11-25T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2012-12-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19117:2012'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19117:2005 to ISO 19117:2012.
+    Lineage source added as ISO 19117:2005.
+  release: '1'
+  terms:
+    - type: expression
+      designation: esittäminen <paikkatieto>
+      normative_status: preferred
+  _revisions:
+    current: f80abb
+    tree:
+      f80abb:
+        object:
+          id: 342
+          definition: paikkatiedon kuvaaminen ihmisen ymmärtämässä muodossa
+          language_code: fin
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19117:2012'
+            clause: '4.20'
+            link: 'https://www.iso.org/standard/46226.html'
+          lineage_source: 'ISO 19117:2005'
+          lineage_source_similarity: 1
+          date_accepted: 2005-06-01T00:00:00.000Z
+          review_date: 2009-11-25T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2012-12-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19117:2012'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19117:2005 to ISO
+            19117:2012. Lineage source added as ISO 19117:2005.
+          release: '1'
+          terms:
+            - type: expression
+              designation: esittäminen <paikkatieto>
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-06-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+fra:
+  id: 342
+  definition: présentation de l'information à des acteurs humains
+  language_code: fra
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19117:2012'
+    clause: '4.20'
+    link: 'https://www.iso.org/standard/46226.html'
+  lineage_source: 'ISO 19117:2005'
+  lineage_source_similarity: 1
+  date_accepted: 2005-06-01T00:00:00.000Z
+  review_date: 2009-11-25T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2012-12-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19117:2012'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19117:2005 to ISO 19117:2012.
+    Lineage source added as ISO 19117:2005.
+  release: '1'
+  terms:
+    - type: expression
+      designation: présentation
+      normative_status: preferred
+  _revisions:
+    current: '94e615'
+    tree:
+      '94e615':
+        object:
+          id: 342
+          definition: présentation de l'information à des acteurs humains
+          language_code: fra
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19117:2012'
+            clause: '4.20'
+            link: 'https://www.iso.org/standard/46226.html'
+          lineage_source: 'ISO 19117:2005'
+          lineage_source_similarity: 1
+          date_accepted: 2005-06-01T00:00:00.000Z
+          review_date: 2009-11-25T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2012-12-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19117:2012'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19117:2005 to ISO
+            19117:2012. Lineage source added as ISO 19117:2005.
+          release: '1'
+          terms:
+            - type: expression
+              designation: présentation
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-06-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+deu:
+  id: 342
+  definition: Darstellung von Geoinformationen in einer für Menschen verständlichen Form
+  language_code: deu
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19117:2012'
+    clause: '4.20'
+    link: 'https://www.iso.org/standard/46226.html'
+  lineage_source: 'ISO 19117:2005'
+  lineage_source_similarity: 1
+  date_accepted: 2005-06-01T00:00:00.000Z
+  review_date: 2009-11-25T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2012-12-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19117:2012'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19117:2005 to ISO 19117:2012.
+    Lineage source added as ISO 19117:2005.
+  release: '1'
+  terms:
+    - type: expression
+      designation: Darstellung
+      normative_status: preferred
+  _revisions:
+    current: 40fe22
+    tree:
+      40fe22:
+        object:
+          id: 342
+          definition: >-
+            Darstellung von Geoinformationen in einer für Menschen
+            verständlichen Form
+          language_code: deu
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19117:2012'
+            clause: '4.20'
+            link: 'https://www.iso.org/standard/46226.html'
+          lineage_source: 'ISO 19117:2005'
+          lineage_source_similarity: 1
+          date_accepted: 2005-06-01T00:00:00.000Z
+          review_date: 2009-11-25T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2012-12-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19117:2012'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19117:2005 to ISO
+            19117:2012. Lineage source added as ISO 19117:2005.
+          release: '1'
+          terms:
+            - type: expression
+              designation: Darstellung
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-06-01T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+kor:
+  id: 342
+  definition: 정보를 인간에게 보여주는 것
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19117:2012'
+    clause: '4.20'
+    link: 'https://www.iso.org/standard/46226.html'
+  lineage_source: 'ISO 19117:2005'
+  lineage_source_similarity: 1
+  date_accepted: 2006-05-01T00:00:00.000Z
+  review_date: 2009-11-25T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2012-12-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19117:2012'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19117:2005 to ISO 19117:2012.
+    Lineage source added as ISO 19117:2005.
+  release: '1'
+  terms:
+    - type: expression
+      designation: 묘화
+      normative_status: preferred
+  _revisions:
+    current: c2ea9d
+    tree:
+      c2ea9d:
+        object:
+          id: 342
+          definition: 정보를 인간에게 보여주는 것
+          language_code: kor
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19117:2012'
+            clause: '4.20'
+            link: 'https://www.iso.org/standard/46226.html'
+          lineage_source: 'ISO 19117:2005'
+          lineage_source_similarity: 1
+          date_accepted: 2006-05-01T00:00:00.000Z
+          review_date: 2009-11-25T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2012-12-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19117:2012'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19117:2005 to ISO
+            19117:2012. Lineage source added as ISO 19117:2005.
+          release: '1'
+          terms:
+            - type: expression
+              designation: 묘화
+              normative_status: preferred
+        parents: []
+        timeCreated: 2006-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+pol:
+  id: 342
+  definition: przedstawienie informacji ludziom
+  language_code: pol
+  notes: []
+  examples: []
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19117:2012'
+    clause: '4.20'
+    link: 'https://www.iso.org/standard/46226.html'
+  lineage_source: 'ISO 19117:2005'
+  lineage_source_similarity: 1
+  date_accepted: 2005-06-01T00:00:00.000Z
+  review_date: 2009-11-25T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2012-12-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19117:2012'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19117:2005 to ISO 19117:2012.
+    Lineage source added as ISO 19117:2005.
+  release: '1'
+  terms:
+    - type: expression
+      designation: prezentacja
+      normative_status: preferred
+  _revisions:
+    current: 8901dc
+    tree:
+      8901dc:
+        object:
+          id: 342
+          definition: przedstawienie informacji ludziom
+          language_code: pol
+          notes: []
+          examples: []
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19117:2012'
+            clause: '4.20'
+            link: 'https://www.iso.org/standard/46226.html'
+          lineage_source: 'ISO 19117:2005'
+          lineage_source_similarity: 1
+          date_accepted: 2005-06-01T00:00:00.000Z
+          review_date: 2009-11-25T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2012-12-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19117:2012'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19117:2005 to ISO
+            19117:2012. Lineage source added as ISO 19117:2005.
+          release: '1'
+          terms:
+            - type: expression
+              designation: prezentacja
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-06-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 342
+  definition: >-
+    представление информации в формах, доступных для визуального восприятия
+    человеком
+  language_code: rus
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19117:2012'
+    clause: '4.20'
+    link: 'https://www.iso.org/standard/46226.html'
+  lineage_source: 'перевод ИСО 19117:2012'
+  lineage_source_similarity: 1
+  date_accepted: 2005-06-01T00:00:00.000Z
+  review_date: 2009-11-25T00:00:00.000Z
+  review_status: ''
+  review_decision: ''
+  review_decision_date: 2012-12-15T00:00:00.000Z
+  review_decision_event: 'Публикация ИСО19117:2012'
+  review_decision_notes: >-
+    Авторитетная ссылка изменена с ISO 19117:2005 на ISO 19117: 2012. Источник
+    происхождения добавлен как ISO 19117: 2005.
+  release: '1'
+  terms:
+    - type: expression
+      designation: графическое отображение
+      normative_status: preferred
+  _revisions:
+    current: 026b1b
+    tree:
+      026b1b:
+        object:
+          id: 342
+          definition: >-
+            представление информации в формах, доступных для визуального
+            восприятия человеком
+          language_code: rus
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19117:2012'
+            clause: '4.20'
+            link: 'https://www.iso.org/standard/46226.html'
+          lineage_source: 'перевод ИСО 19117:2012'
+          lineage_source_similarity: 1
+          date_accepted: 2005-06-01T00:00:00.000Z
+          review_date: 2009-11-25T00:00:00.000Z
+          review_status: ''
+          review_decision: ''
+          review_decision_date: 2012-12-15T00:00:00.000Z
+          review_decision_event: 'Публикация ИСО19117:2012'
+          review_decision_notes: >-
+            Авторитетная ссылка изменена с ISO 19117:2005 на ISO 19117: 2012.
+            Источник происхождения добавлен как ISO 19117: 2005.
+          release: '1'
+          terms:
+            - type: expression
+              designation: графическое отображение
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-06-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 342
+  definition: presentación de la información a las personas
+  language_code: spa
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19117:2012'
+    clause: '4.20'
+    link: 'https://www.iso.org/standard/46226.html'
+  lineage_source: 'ISO 19117:2005'
+  lineage_source_similarity: 1
+  date_accepted: 2005-06-01T00:00:00.000Z
+  review_date: 2009-11-25T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2012-12-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19117:2012'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19117:2005 to ISO 19117:2012.
+    Lineage source added as ISO 19117:2005.
+  release: '1'
+  terms:
+    - type: expression
+      designation: representación
+      normative_status: preferred
+  _revisions:
+    current: b42b3f
+    tree:
+      b42b3f:
+        object:
+          id: 342
+          definition: presentación de la información a las personas
+          language_code: spa
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19117:2012'
+            clause: '4.20'
+            link: 'https://www.iso.org/standard/46226.html'
+          lineage_source: 'ISO 19117:2005'
+          lineage_source_similarity: 1
+          date_accepted: 2005-06-01T00:00:00.000Z
+          review_date: 2009-11-25T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2012-12-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19117:2012'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19117:2005 to ISO
+            19117:2012. Lineage source added as ISO 19117:2005.
+          release: '1'
+          terms:
+            - type: expression
+              designation: representación
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-06-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+swe:
+  id: 342
+  definition: åskådliggörande av data
+  country_code: swe
+  language_code: swe
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19117:2012'
+    clause: '4.20'
+    link: 'https://www.iso.org/standard/46226.html'
+  lineage_source: 'ISO 19117:2005'
+  lineage_source_similarity: 1
+  date_accepted: 2005-06-01T00:00:00.000Z
+  review_date: 2009-11-25T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2012-12-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19117:2012'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19117:2005 to ISO 19117:2012.
+    Lineage source added as ISO 19117:2005.
+  release: '1'
+  terms:
+    - type: expression
+      designation: visualiering
+      normative_status: preferred
+  _revisions:
+    current: 9a2b15
+    tree:
+      9a2b15:
+        object:
+          id: 342
+          definition: åskådliggörande av data
+          country_code: swe
+          language_code: swe
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19117:2012'
+            clause: '4.20'
+            link: 'https://www.iso.org/standard/46226.html'
+          lineage_source: 'ISO 19117:2005'
+          lineage_source_similarity: 1
+          date_accepted: 2005-06-01T00:00:00.000Z
+          review_date: 2009-11-25T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2012-12-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19117:2012'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19117:2005 to ISO
+            19117:2012. Lineage source added as ISO 19117:2005.
+          release: '1'
+          terms:
+            - type: expression
+              designation: visualiering
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-06-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

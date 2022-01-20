@@ -1,0 +1,271 @@
+term: linear referencing
+termid: 1172
+eng:
+  id: 1172
+  definition: >-
+    specification of a location relative to a  linear element as a measurement
+    along (and optionally offset from) that element
+  language_code: eng
+  notes:
+    - >-
+      An alternative to specifying a location as a two- or three- dimensional
+      spatial position.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19148:2012'
+    clause: '4.10'
+    link: 'https://www.iso.org/standard/32566.html'
+  date_accepted: 2012-02-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: linear referencing
+      normative_status: preferred
+  _revisions:
+    current: d8b91b
+    tree:
+      d8b91b:
+        object:
+          id: 1172
+          definition: >-
+            specification of a location relative to a  linear element as a
+            measurement along (and optionally offset from) that element
+          language_code: eng
+          notes:
+            - >-
+              An alternative to specifying a location as a two- or three-
+              dimensional spatial position.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19148:2012'
+            clause: '4.10'
+            link: 'https://www.iso.org/standard/32566.html'
+          date_accepted: 2012-02-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: linear referencing
+              normative_status: preferred
+        parents: []
+        timeCreated: 2012-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+kor:
+  id: 1172
+  definition: 관련 자료의 본래적 표현(원형)만을 지정하는 메시지 본문 자료의 미디어 유형과 그 하위유형
+  language_code: kor
+  notes:
+    - >-
+      An alternative to specifying a location as a two- or three- dimensional
+      spatial position.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19148:2012'
+    clause: '4.10'
+    link: 'https://www.iso.org/standard/32566.html'
+  date_accepted: 2012-02-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: 선형 참조
+      normative_status: preferred
+  _revisions:
+    current: 10853c
+    tree:
+      10853c:
+        object:
+          id: 1172
+          definition: 관련 자료의 본래적 표현(원형)만을 지정하는 메시지 본문 자료의 미디어 유형과 그 하위유형
+          language_code: kor
+          notes:
+            - >-
+              An alternative to specifying a location as a two- or three-
+              dimensional spatial position.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19148:2012'
+            clause: '4.10'
+            link: 'https://www.iso.org/standard/32566.html'
+          date_accepted: 2012-02-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: 선형 참조
+              normative_status: preferred
+        parents: []
+        timeCreated: 2012-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 1172
+  definition: >-
+    спецификация местоположения относительно линейного элемента как измерение
+    вдоль (и, возможно, со смещением от) этого элемента
+  language_code: rus
+  notes:
+    - >-
+      Альтернатива определению местоположения в виде двух или трехмерного
+      пространственного положения
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19148:2012'
+    clause: '4.10'
+    link: 'https://www.iso.org/standard/32566.html'
+  lineage_source: 'перевод ИСО 19148:2012'
+  date_accepted: 2012-02-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: линейная привязка
+      normative_status: preferred
+  _revisions:
+    current: ef7ac5
+    tree:
+      ef7ac5:
+        object:
+          id: 1172
+          definition: >-
+            спецификация местоположения относительно линейного элемента как
+            измерение вдоль (и, возможно, со смещением от) этого элемента
+          language_code: rus
+          notes:
+            - >-
+              Альтернатива определению местоположения в виде двух или
+              трехмерного пространственного положения
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19148:2012'
+            clause: '4.10'
+            link: 'https://www.iso.org/standard/32566.html'
+          lineage_source: 'перевод ИСО 19148:2012'
+          date_accepted: 2012-02-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: линейная привязка
+              normative_status: preferred
+        parents: []
+        timeCreated: 2012-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 1172
+  definition: >-
+    especificación de una localización relativa a un elemento lineal, como una
+    medición a lo largo de (y opcionalmente un desplazamiento desde) ese
+    elemento
+  language_code: spa
+  notes:
+    - >-
+      Una alternativa a especificar una localización como una posición espacial
+      de dos o tres dimensiones
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19148:2012'
+    clause: '4.10'
+    link: 'https://www.iso.org/standard/32566.html'
+  date_accepted: 2012-02-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: referencia lineal
+      normative_status: preferred
+  _revisions:
+    current: 1a1138
+    tree:
+      1a1138:
+        object:
+          id: 1172
+          definition: >-
+            especificación de una localización relativa a un elemento lineal,
+            como una medición a lo largo de (y opcionalmente un desplazamiento
+            desde) ese elemento
+          language_code: spa
+          notes:
+            - >-
+              Una alternativa a especificar una localización como una posición
+              espacial de dos o tres dimensiones
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19148:2012'
+            clause: '4.10'
+            link: 'https://www.iso.org/standard/32566.html'
+          date_accepted: 2012-02-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: referencia lineal
+              normative_status: preferred
+        parents: []
+        timeCreated: 2012-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+swe:
+  id: 1172
+  definition: >-
+    specifikation av ett läge som ett avstånd längs, och eventuellt ett avstånd
+    ifrån, en referenslinje
+  country_code: swe
+  language_code: swe
+  notes:
+    - >-
+      An alternative to specifying a location as a two- or three- dimensional
+      spatial position.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19148:2012'
+    clause: '4.10'
+    link: 'https://www.iso.org/standard/32566.html'
+  lineage_source: (Type reference to national language document)
+  date_accepted: 2012-02-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: linjerelativ lägesbestämning
+      normative_status: preferred
+  _revisions:
+    current: 429b7f
+    tree:
+      429b7f:
+        object:
+          id: 1172
+          definition: >-
+            specifikation av ett läge som ett avstånd längs, och eventuellt ett
+            avstånd ifrån, en referenslinje
+          country_code: swe
+          language_code: swe
+          notes:
+            - >-
+              An alternative to specifying a location as a two- or three-
+              dimensional spatial position.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19148:2012'
+            clause: '4.10'
+            link: 'https://www.iso.org/standard/32566.html'
+          lineage_source: (Type reference to national language document)
+          date_accepted: 2012-02-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: linjerelativ lägesbestämning
+              normative_status: preferred
+        parents: []
+        timeCreated: 2012-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

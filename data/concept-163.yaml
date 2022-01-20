@@ -1,0 +1,976 @@
+term: exterior
+termid: 163
+eng:
+  id: 163
+  definition: difference between the universe and the closure
+  language_code: eng
+  notes:
+    - >-
+      The concept of exterior is applicable to both topological and geometric
+      complexes.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19107:2019'
+    clause: '(E), 3.37'
+    link: 'https://www.iso.org/standard/66175.html'
+  lineage_source: 'ISO 19107:2003(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19107:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19107:2003 to ISO 19107:2019(E),
+    3.37. Lineage source added as ISO 19107:2003(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: exterior
+      normative_status: preferred
+  _revisions:
+    current: 2bd157
+    tree:
+      2bd157:
+        object:
+          id: 163
+          definition: difference between the universe and the closure
+          language_code: eng
+          notes:
+            - >-
+              The concept of exterior is applicable to both topological and
+              geometric complexes.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19107:2019'
+            clause: '(E), 3.37'
+            link: 'https://www.iso.org/standard/66175.html'
+          lineage_source: 'ISO 19107:2003(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19107:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19107:2003 to ISO
+            19107:2019(E), 3.37. Lineage source added as ISO 19107:2003(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: exterior
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+ara:
+  id: 163
+  definition: الفرق بين المجموعة الشاملة والمنغلقه
+  language_code: ara
+  notes:
+    - >-
+      فكرة المظهر الخارجي يمكن تطبيقها على كل من المركَّبات الطوبولوجية
+      والمركَّبات الهندسية.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19107:2019'
+    clause: '(E), 3.37'
+    link: 'https://www.iso.org/standard/66175.html'
+  lineage_source: 'ISO 19107:2003(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19107:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19107:2003 to ISO 19107:2019(E),
+    3.37. Lineage source added as ISO 19107:2003(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: الخارج
+      normative_status: preferred
+  _revisions:
+    current: 02068b
+    tree:
+      02068b:
+        object:
+          id: 163
+          definition: الفرق بين المجموعة الشاملة والمنغلقه
+          language_code: ara
+          notes:
+            - >-
+              فكرة المظهر الخارجي يمكن تطبيقها على كل من المركَّبات الطوبولوجية
+              والمركَّبات الهندسية.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19107:2019'
+            clause: '(E), 3.37'
+            link: 'https://www.iso.org/standard/66175.html'
+          lineage_source: 'ISO 19107:2003(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19107:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19107:2003 to ISO
+            19107:2019(E), 3.37. Lineage source added as ISO 19107:2003(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: الخارج
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+zho:
+  id: 163
+  definition: 在宇宙与闭包之间的差。
+  language_code: zho
+  notes:
+    - “外部”这个概念对拓扑复形和几何复形都适用。
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19107:2019'
+    clause: '(E), 3.37'
+    link: 'https://www.iso.org/standard/66175.html'
+  lineage_source: 'ISO 19107:2003(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19107:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19107:2003 to ISO 19107:2019(E),
+    3.37. Lineage source added as ISO 19107:2003(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: 外部
+      normative_status: preferred
+  _revisions:
+    current: 9df717
+    tree:
+      9df717:
+        object:
+          id: 163
+          definition: 在宇宙与闭包之间的差。
+          language_code: zho
+          notes:
+            - “外部”这个概念对拓扑复形和几何复形都适用。
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19107:2019'
+            clause: '(E), 3.37'
+            link: 'https://www.iso.org/standard/66175.html'
+          lineage_source: 'ISO 19107:2003(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19107:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19107:2003 to ISO
+            19107:2019(E), 3.37. Lineage source added as ISO 19107:2003(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: 外部
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+dan:
+  id: 163
+  definition: 'forskel mellem universet og den enhed, der betragtes'
+  language_code: dan
+  notes:
+    - Begrebet ydre kan anvendes både på topologiske og geometriske komplekser.
+  examples: []
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19107:2019'
+    clause: '(E), 3.37'
+    link: 'https://www.iso.org/standard/66175.html'
+  lineage_source: 'ISO 19107:2003(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19107:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19107:2003 to ISO 19107:2019(E),
+    3.37. Lineage source added as ISO 19107:2003(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: ydre
+      normative_status: null
+  _revisions:
+    current: '387289'
+    tree:
+      '387289':
+        object:
+          id: 163
+          definition: 'forskel mellem universet og den enhed, der betragtes'
+          language_code: dan
+          notes:
+            - >-
+              Begrebet ydre kan anvendes både på topologiske og geometriske
+              komplekser.
+          examples: []
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19107:2019'
+            clause: '(E), 3.37'
+            link: 'https://www.iso.org/standard/66175.html'
+          lineage_source: 'ISO 19107:2003(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19107:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19107:2003 to ISO
+            19107:2019(E), 3.37. Lineage source added as ISO 19107:2003(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: ydre
+              normative_status: null
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+fin:
+  id: 163
+  definition: kohdemaailma sulkeuma poisluettuna
+  language_code: fin
+  notes:
+    - >-
+      Ulkopuolen käsitettä voi soveltaa sekä topologisiin että geometrisiin
+      komplekseihin.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19107:2019'
+    clause: '(E), 3.37'
+    link: 'https://www.iso.org/standard/66175.html'
+  lineage_source: 'ISO 19107:2003(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19107:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19107:2003 to ISO 19107:2019(E),
+    3.37. Lineage source added as ISO 19107:2003(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: ulkopuoli
+      normative_status: preferred
+  _revisions:
+    current: 52ad6a
+    tree:
+      52ad6a:
+        object:
+          id: 163
+          definition: kohdemaailma sulkeuma poisluettuna
+          language_code: fin
+          notes:
+            - >-
+              Ulkopuolen käsitettä voi soveltaa sekä topologisiin että
+              geometrisiin komplekseihin.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19107:2019'
+            clause: '(E), 3.37'
+            link: 'https://www.iso.org/standard/66175.html'
+          lineage_source: 'ISO 19107:2003(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19107:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19107:2003 to ISO
+            19107:2019(E), 3.37. Lineage source added as ISO 19107:2003(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: ulkopuoli
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+fra:
+  id: 163
+  definition: différence entre l'univers et la fermeture
+  language_code: fra
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19107:2019'
+    clause: '(E), 3.37'
+    link: 'https://www.iso.org/standard/66175.html'
+  lineage_source: 'ISO 19107:2003(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19107:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19107:2003 to ISO 19107:2019(E),
+    3.37. Lineage source added as ISO 19107:2003(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: extérieur
+      normative_status: preferred
+  _revisions:
+    current: b740e8
+    tree:
+      b740e8:
+        object:
+          id: 163
+          definition: différence entre l'univers et la fermeture
+          language_code: fra
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19107:2019'
+            clause: '(E), 3.37'
+            link: 'https://www.iso.org/standard/66175.html'
+          lineage_source: 'ISO 19107:2003(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19107:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19107:2003 to ISO
+            19107:2019(E), 3.37. Lineage source added as ISO 19107:2003(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: extérieur
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+deu:
+  id: 163
+  definition: Differenz zwischen dem Universum und dem Abschluss des Modellierungsbereichs
+  language_code: deu
+  notes:
+    - >-
+      The concept of exterior is applicable to both topological and geometric
+      complexes.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19107:2019'
+    clause: '(E), 3.37'
+    link: 'https://www.iso.org/standard/66175.html'
+  lineage_source: 'ISO 19107:2003(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19107:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19107:2003 to ISO 19107:2019(E),
+    3.37. Lineage source added as ISO 19107:2003(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: außenliegend
+      normative_status: preferred
+  _revisions:
+    current: 2999cc
+    tree:
+      2999cc:
+        object:
+          id: 163
+          definition: >-
+            Differenz zwischen dem Universum und dem Abschluss des
+            Modellierungsbereichs
+          language_code: deu
+          notes:
+            - >-
+              The concept of exterior is applicable to both topological and
+              geometric complexes.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19107:2019'
+            clause: '(E), 3.37'
+            link: 'https://www.iso.org/standard/66175.html'
+          lineage_source: 'ISO 19107:2003(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19107:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19107:2003 to ISO
+            19107:2019(E), 3.37. Lineage source added as ISO 19107:2003(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: außenliegend
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+jpn:
+  id: 163
+  definition: 全体集合とある集合の閉包との差集合。
+  language_code: jpn
+  notes:
+    - 外部の概念は，位相複体及び幾何複体の両方に適用できる。
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19107:2019'
+    clause: '(E), 3.37'
+    link: 'https://www.iso.org/standard/66175.html'
+  lineage_source: 'ISO 19107:2003(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19107:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19107:2003 to ISO 19107:2019(E),
+    3.37. Lineage source added as ISO 19107:2003(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: 外部
+      normative_status: preferred
+  _revisions:
+    current: 7f9b0d
+    tree:
+      7f9b0d:
+        object:
+          id: 163
+          definition: 全体集合とある集合の閉包との差集合。
+          language_code: jpn
+          notes:
+            - 外部の概念は，位相複体及び幾何複体の両方に適用できる。
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19107:2019'
+            clause: '(E), 3.37'
+            link: 'https://www.iso.org/standard/66175.html'
+          lineage_source: 'ISO 19107:2003(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19107:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19107:2003 to ISO
+            19107:2019(E), 3.37. Lineage source added as ISO 19107:2003(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: 外部
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+kor:
+  id: 163
+  definition: 전체 집합으로부터 경계 및 내부를 제거한 차집합
+  language_code: kor
+  notes:
+    - 외부의 개념은 위상 복합체와 기하 복합체 모두에 적용 가능하다.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19107:2019'
+    clause: '(E), 3.37'
+    link: 'https://www.iso.org/standard/66175.html'
+  lineage_source: 'ISO 19107:2003(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19107:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19107:2003 to ISO 19107:2019(E),
+    3.37. Lineage source added as ISO 19107:2003(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: 외부
+      normative_status: preferred
+  _revisions:
+    current: aa1863
+    tree:
+      aa1863:
+        object:
+          id: 163
+          definition: 전체 집합으로부터 경계 및 내부를 제거한 차집합
+          language_code: kor
+          notes:
+            - 외부의 개념은 위상 복합체와 기하 복합체 모두에 적용 가능하다.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19107:2019'
+            clause: '(E), 3.37'
+            link: 'https://www.iso.org/standard/66175.html'
+          lineage_source: 'ISO 19107:2003(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19107:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19107:2003 to ISO
+            19107:2019(E), 3.37. Lineage source added as ISO 19107:2003(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: 외부
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+msa:
+  id: 163
+  definition: beza antara alam semesta dengan suatu
+  language_code: msa
+  notes:
+    - >-
+      The concept of exterior is applicable to both topological and geometric
+      complexes.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19107:2019'
+    clause: '(E), 3.37'
+    link: 'https://www.iso.org/standard/66175.html'
+  lineage_source: 'ISO 19107:2003(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19107:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19107:2003 to ISO 19107:2019(E),
+    3.37. Lineage source added as ISO 19107:2003(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: luaran
+      normative_status: preferred
+  _revisions:
+    current: 74090c
+    tree:
+      74090c:
+        object:
+          id: 163
+          definition: beza antara alam semesta dengan suatu
+          language_code: msa
+          notes:
+            - >-
+              The concept of exterior is applicable to both topological and
+              geometric complexes.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19107:2019'
+            clause: '(E), 3.37'
+            link: 'https://www.iso.org/standard/66175.html'
+          lineage_source: 'ISO 19107:2003(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19107:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19107:2003 to ISO
+            19107:2019(E), 3.37. Lineage source added as ISO 19107:2003(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: luaran
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+pol:
+  id: 163
+  definition: różnica między uniwersum a domknięciem
+  language_code: pol
+  notes:
+    - >-
+      Pojęcie zewnętrza ma zastosowanie zarówno do złożonych elementów
+      geometrycznych, jak i topologicznych.
+  examples: []
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19107:2019'
+    clause: '(E), 3.37'
+    link: 'https://www.iso.org/standard/66175.html'
+  lineage_source: 'ISO 19107:2003(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19107:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19107:2003 to ISO 19107:2019(E),
+    3.37. Lineage source added as ISO 19107:2003(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: zewnętrze
+      normative_status: preferred
+  _revisions:
+    current: 155b22
+    tree:
+      155b22:
+        object:
+          id: 163
+          definition: różnica między uniwersum a domknięciem
+          language_code: pol
+          notes:
+            - >-
+              Pojęcie zewnętrza ma zastosowanie zarówno do złożonych elementów
+              geometrycznych, jak i topologicznych.
+          examples: []
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19107:2019'
+            clause: '(E), 3.37'
+            link: 'https://www.iso.org/standard/66175.html'
+          lineage_source: 'ISO 19107:2003(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19107:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19107:2003 to ISO
+            19107:2019(E), 3.37. Lineage source added as ISO 19107:2003(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: zewnętrze
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 163
+  definition: разность между пространством и замыканием
+  language_code: rus
+  notes:
+    - >-
+      Понятие внешней области применимо как к топологическим, так  и
+      геометрическим комплексам
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19107:2019'
+    clause: '(E), 3.37'
+    link: 'https://www.iso.org/standard/66175.html'
+  lineage_source: 'ISO 19107:2003(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19107:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19107:2003 to ISO 19107:2019(E),
+    3.37. Lineage source added as ISO 19107:2003(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: внешняя область
+      normative_status: preferred
+  _revisions:
+    current: c0c222
+    tree:
+      c0c222:
+        object:
+          id: 163
+          definition: разность между пространством и замыканием
+          language_code: rus
+          notes:
+            - >-
+              Понятие внешней области применимо как к топологическим, так  и
+              геометрическим комплексам
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19107:2019'
+            clause: '(E), 3.37'
+            link: 'https://www.iso.org/standard/66175.html'
+          lineage_source: 'ISO 19107:2003(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19107:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19107:2003 to ISO
+            19107:2019(E), 3.37. Lineage source added as ISO 19107:2003(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: внешняя область
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 163
+  definition: diferencia entre el universo y un cerramiento
+  language_code: spa
+  notes:
+    - >-
+      El concepto exterior se aplica tanto a complejos topológicos como a los
+      geométricos.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19107:2019'
+    clause: '(E), 3.37'
+    link: 'https://www.iso.org/standard/66175.html'
+  lineage_source: 'ISO 19107:2003(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19107:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19107:2003 to ISO 19107:2019(E),
+    3.37. Lineage source added as ISO 19107:2003(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: exterior
+      normative_status: preferred
+  _revisions:
+    current: '762311'
+    tree:
+      '762311':
+        object:
+          id: 163
+          definition: diferencia entre el universo y un cerramiento
+          language_code: spa
+          notes:
+            - >-
+              El concepto exterior se aplica tanto a complejos topológicos como
+              a los geométricos.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19107:2019'
+            clause: '(E), 3.37'
+            link: 'https://www.iso.org/standard/66175.html'
+          lineage_source: 'ISO 19107:2003(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19107:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19107:2003 to ISO
+            19107:2019(E), 3.37. Lineage source added as ISO 19107:2003(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: exterior
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+swe:
+  id: 163
+  definition: skillnaden mellan en inneslutning och resten av universum
+  country_code: swe
+  language_code: swe
+  notes:
+    - >-
+      The concept of exterior is applicable to both topological and geometric
+      complexes.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19107:2019'
+    clause: '(E), 3.37'
+    link: 'https://www.iso.org/standard/66175.html'
+  lineage_source: 'ISO 19107:2003(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19107:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19107:2003 to ISO 19107:2019(E),
+    3.37. Lineage source added as ISO 19107:2003(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: komplementmängd
+      normative_status: preferred
+  _revisions:
+    current: 2ee14d
+    tree:
+      2ee14d:
+        object:
+          id: 163
+          definition: skillnaden mellan en inneslutning och resten av universum
+          country_code: swe
+          language_code: swe
+          notes:
+            - >-
+              The concept of exterior is applicable to both topological and
+              geometric complexes.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19107:2019'
+            clause: '(E), 3.37'
+            link: 'https://www.iso.org/standard/66175.html'
+          lineage_source: 'ISO 19107:2003(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19107:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19107:2003 to ISO
+            19107:2019(E), 3.37. Lineage source added as ISO 19107:2003(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: komplementmängd
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

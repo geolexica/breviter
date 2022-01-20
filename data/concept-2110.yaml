@@ -1,0 +1,123 @@
+term: binding
+termid: 2110
+eng:
+  id: 2110
+  definition: >-
+    specification of a mapping relating the information defined in a content
+    model (data and metadata) to the data format that carries that information
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO/TS 19163-1:2016'
+    clause: '4.2'
+    link: 'https://www.iso.org/standard/32581.html'
+  date_accepted: 2016-01-15T00:00:00.000Z
+  review_date: 2014-08-15T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2016-01-15T00:00:00.000Z
+  review_decision_event: Normal ISO processing
+  review_decision_notes: 'Publication of document ISO/TS 19163-1:2016'
+  release: '4'
+  terms:
+    - type: expression
+      designation: binding
+      normative_status: preferred
+  _revisions:
+    current: 88b66e
+    tree:
+      88b66e:
+        object:
+          id: 2110
+          definition: >-
+            specification of a mapping relating the information defined in a
+            content model (data and metadata) to the data format that carries
+            that information
+          language_code: eng
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO/TS 19163-1:2016'
+            clause: '4.2'
+            link: 'https://www.iso.org/standard/32581.html'
+          date_accepted: 2016-01-15T00:00:00.000Z
+          review_date: 2014-08-15T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2016-01-15T00:00:00.000Z
+          review_decision_event: Normal ISO processing
+          review_decision_notes: 'Publication of document ISO/TS 19163-1:2016'
+          release: '4'
+          terms:
+            - type: expression
+              designation: binding
+              normative_status: preferred
+        parents: []
+        timeCreated: 2016-01-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 2110
+  definition: >-
+    especificación de una correspondencia que relaciona la información definida
+    en un modelo de contenido contenidos (datos y metadatos) con el formato de
+    datos que lleva esa información
+  language_code: spa
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO/TS 19163-1:2016'
+    clause: '4.2'
+    link: 'https://www.iso.org/standard/32581.html'
+  date_accepted: 2016-01-15T00:00:00.000Z
+  review_date: 2014-08-15T00:00:00.000Z
+  review_status: final
+  review_decision: ''
+  review_decision_date: 2016-01-15T00:00:00.000Z
+  review_decision_event: Normal ISO processing
+  review_decision_notes: 'Publication of document ISO/TS 19163-1:2016'
+  release: '4'
+  terms:
+    - type: expression
+      designation: vínculo
+      normative_status: preferred
+  _revisions:
+    current: 2bb401
+    tree:
+      2bb401:
+        object:
+          id: 2110
+          definition: >-
+            especificación de una correspondencia que relaciona la información
+            definida en un modelo de contenido contenidos (datos y metadatos)
+            con el formato de datos que lleva esa información
+          language_code: spa
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO/TS 19163-1:2016'
+            clause: '4.2'
+            link: 'https://www.iso.org/standard/32581.html'
+          date_accepted: 2016-01-15T00:00:00.000Z
+          review_date: 2014-08-15T00:00:00.000Z
+          review_status: final
+          review_decision: ''
+          review_decision_date: 2016-01-15T00:00:00.000Z
+          review_decision_event: Normal ISO processing
+          review_decision_notes: 'Publication of document ISO/TS 19163-1:2016'
+          release: '4'
+          terms:
+            - type: expression
+              designation: vínculo
+              normative_status: preferred
+        parents: []
+        timeCreated: 2016-01-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

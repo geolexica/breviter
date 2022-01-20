@@ -1,0 +1,196 @@
+term: GeoDRM enabled
+termid: 1222
+eng:
+  id: 1222
+  definition: >-
+    capable of maintaining GeoDRM extended resources and enforcing GeoDRM
+    defined rights and protections
+  language_code: eng
+  notes:
+    - Applied to processing resources.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19153:2014'
+    clause: '4.16'
+    link: 'https://www.iso.org/standard/32571.html'
+  date_accepted: 2014-02-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: GeoDRM enabled
+      normative_status: preferred
+  _revisions:
+    current: e7c025
+    tree:
+      e7c025:
+        object:
+          id: 1222
+          definition: >-
+            capable of maintaining GeoDRM extended resources and enforcing
+            GeoDRM defined rights and protections
+          language_code: eng
+          notes:
+            - Applied to processing resources.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19153:2014'
+            clause: '4.16'
+            link: 'https://www.iso.org/standard/32571.html'
+          date_accepted: 2014-02-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: GeoDRM enabled
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+kor:
+  id: 1222
+  definition: GeoDRM 연장 자원 유지 및 GeoDRM 저작권 및 보호권을 규제할 수 있는 상태
+  language_code: kor
+  notes:
+    - Applied to processing resources.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19153:2014'
+    clause: '4.16'
+    link: 'https://www.iso.org/standard/32571.html'
+  date_accepted: 2014-02-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: GeoDRM 활성화
+      normative_status: preferred
+  _revisions:
+    current: '261839'
+    tree:
+      '261839':
+        object:
+          id: 1222
+          definition: GeoDRM 연장 자원 유지 및 GeoDRM 저작권 및 보호권을 규제할 수 있는 상태
+          language_code: kor
+          notes:
+            - Applied to processing resources.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19153:2014'
+            clause: '4.16'
+            link: 'https://www.iso.org/standard/32571.html'
+          date_accepted: 2014-02-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: GeoDRM 활성화
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 1222
+  definition: >-
+    способность поддерживать расширенные ресурсы GeoDRM и усиливать GeoDRM
+    определенными правами и защитой
+  language_code: rus
+  notes:
+    - Распространяется на ресурсы для обработки информации.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19153:2014'
+    clause: '4.16'
+    link: 'https://www.iso.org/standard/32571.html'
+  lineage_source: 'перевод ИСО 19153:2014'
+  date_accepted: 2014-02-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: поддержка GeoDRM
+      normative_status: preferred
+  _revisions:
+    current: 83424a
+    tree:
+      83424a:
+        object:
+          id: 1222
+          definition: >-
+            способность поддерживать расширенные ресурсы GeoDRM и усиливать
+            GeoDRM определенными правами и защитой
+          language_code: rus
+          notes:
+            - Распространяется на ресурсы для обработки информации.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19153:2014'
+            clause: '4.16'
+            link: 'https://www.iso.org/standard/32571.html'
+          lineage_source: 'перевод ИСО 19153:2014'
+          date_accepted: 2014-02-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: поддержка GeoDRM
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 1222
+  definition: >-
+    capacidad de mantener recursos con GeoDRM extendidos y de reforzar los
+    derechos y protecciones definidos en el GeoDRM
+  language_code: spa
+  notes:
+    - Aplicado al procesamiento de recursos.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19153:2014'
+    clause: '4.16'
+    link: 'https://www.iso.org/standard/32571.html'
+  date_accepted: 2014-02-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: GeoDRM activado
+      normative_status: preferred
+  _revisions:
+    current: 98e85b
+    tree:
+      98e85b:
+        object:
+          id: 1222
+          definition: >-
+            capacidad de mantener recursos con GeoDRM extendidos y de reforzar
+            los derechos y protecciones definidos en el GeoDRM
+          language_code: spa
+          notes:
+            - Aplicado al procesamiento de recursos.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19153:2014'
+            clause: '4.16'
+            link: 'https://www.iso.org/standard/32571.html'
+          date_accepted: 2014-02-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: GeoDRM activado
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

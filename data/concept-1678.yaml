@@ -1,0 +1,255 @@
+term: module
+termid: 1678
+eng:
+  id: 1678
+  definition: >-
+    predefined set of elements in a base standard that can be used to construct
+    a profile
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO/TR 19120:2001'
+    clause: '3.3'
+    link: 'https://www.iso.org/standard/28928.html'
+  lineage_source: 'ISO 19101-1:2014, 4.1.25'
+  lineage_source_similarity: 1
+  date_accepted: 2014-11-01T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: module
+      normative_status: preferred
+  _revisions:
+    current: 625dd6
+    tree:
+      625dd6:
+        object:
+          id: 1678
+          definition: >-
+            predefined set of elements in a base standard that can be used to
+            construct a profile
+          language_code: eng
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO/TR 19120:2001'
+            clause: '3.3'
+            link: 'https://www.iso.org/standard/28928.html'
+          lineage_source: 'ISO 19101-1:2014, 4.1.25'
+          lineage_source_similarity: 1
+          date_accepted: 2014-11-01T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: module
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-11-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+kor:
+  id: 1678
+  definition: 프로파일 구성에 사용 가능한 기저 표준의 사전정의된 요소 집합
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO/TR 19120:2001'
+    clause: '3.3'
+    link: 'https://www.iso.org/standard/28928.html'
+  lineage_source: 'ISO 19101-1:2014, 4.1.25'
+  lineage_source_similarity: 1
+  date_accepted: 2014-11-01T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: 모듈
+      normative_status: preferred
+  _revisions:
+    current: c9842b
+    tree:
+      c9842b:
+        object:
+          id: 1678
+          definition: 프로파일 구성에 사용 가능한 기저 표준의 사전정의된 요소 집합
+          language_code: kor
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO/TR 19120:2001'
+            clause: '3.3'
+            link: 'https://www.iso.org/standard/28928.html'
+          lineage_source: 'ISO 19101-1:2014, 4.1.25'
+          lineage_source_similarity: 1
+          date_accepted: 2014-11-01T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: 모듈
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-11-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+msa:
+  id: 1678
+  definition: >-
+    unit atau bahagian tersendiri yg leng­kap dgn komponennya yg melaksanakan
+    fungsi tertentu dan dapat dirangkaikan dgn unit-unit lain dlm sesuatu yg
+    lebih besar
+  language_code: msa
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO/TR 19120:2001'
+    clause: '3.3'
+    link: 'https://www.iso.org/standard/28928.html'
+  lineage_source: 'ISO 19101-1:2014, 4.1.25'
+  lineage_source_similarity: 1
+  date_accepted: 2014-11-01T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: modul
+      normative_status: preferred
+  _revisions:
+    current: 60bf95
+    tree:
+      60bf95:
+        object:
+          id: 1678
+          definition: >-
+            unit atau bahagian tersendiri yg leng­kap dgn komponennya yg
+            melaksanakan fungsi tertentu dan dapat dirangkaikan dgn unit-unit
+            lain dlm sesuatu yg lebih besar
+          language_code: msa
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO/TR 19120:2001'
+            clause: '3.3'
+            link: 'https://www.iso.org/standard/28928.html'
+          lineage_source: 'ISO 19101-1:2014, 4.1.25'
+          lineage_source_similarity: 1
+          date_accepted: 2014-11-01T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: modul
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-11-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 1678
+  definition: >-
+    предопределенный набор элементов в базовом стандарте, который можно
+    использовать для построения профиля
+  language_code: rus
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO/TR 19120:2001'
+    clause: '3.3'
+    link: 'https://www.iso.org/standard/28928.html'
+  lineage_source: 'перевод ИСО 19101-1:2014'
+  lineage_source_similarity: 1
+  date_accepted: 2014-11-01T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: модуль
+      normative_status: preferred
+  _revisions:
+    current: 4f66ab
+    tree:
+      4f66ab:
+        object:
+          id: 1678
+          definition: >-
+            предопределенный набор элементов в базовом стандарте, который можно
+            использовать для построения профиля
+          language_code: rus
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO/TR 19120:2001'
+            clause: '3.3'
+            link: 'https://www.iso.org/standard/28928.html'
+          lineage_source: 'перевод ИСО 19101-1:2014'
+          lineage_source_similarity: 1
+          date_accepted: 2014-11-01T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: модуль
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-11-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 1678
+  definition: >-
+    conjunto predefinido de elementos en una norma base que se pueden usar para
+    construir un perfil
+  language_code: spa
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO/TR 19120:2001'
+    clause: '3.3'
+    link: 'https://www.iso.org/standard/28928.html'
+  lineage_source: 'ISO 19101-1:2014, 4.1.25'
+  lineage_source_similarity: 1
+  date_accepted: 2014-11-01T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: módulo
+      normative_status: preferred
+  _revisions:
+    current: 4d8450
+    tree:
+      4d8450:
+        object:
+          id: 1678
+          definition: >-
+            conjunto predefinido de elementos en una norma base que se pueden
+            usar para construir un perfil
+          language_code: spa
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO/TR 19120:2001'
+            clause: '3.3'
+            link: 'https://www.iso.org/standard/28928.html'
+          lineage_source: 'ISO 19101-1:2014, 4.1.25'
+          lineage_source_similarity: 1
+          date_accepted: 2014-11-01T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: módulo
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-11-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

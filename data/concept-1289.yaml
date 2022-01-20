@@ -1,0 +1,318 @@
+term: boundary face string
+termid: 1289
+eng:
+  id: 1289
+  definition: boundary forming part of the outside of a spatial unit
+  language_code: eng
+  notes:
+    - >-
+      Boundary face strings are used to represent the boundaries of spatial
+      units by means of line strings in 2D. This 2D representation is a 2D
+      boundary in a 2D land administration system. In a 3D land administration
+      system it represents a series of vertical boundary faces  where an
+      unbounded volume is assumed, surrounded by boundary faces which intersect
+      the Earth’s surface (such as traditionally depicted in the cadastral map).
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19152:2012'
+    clause: 4.1.5
+    link: 'https://www.iso.org/standard/51206.html'
+  date_accepted: 2012-12-01T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: boundary face string
+      normative_status: preferred
+  _revisions:
+    current: 24f935
+    tree:
+      24f935:
+        object:
+          id: 1289
+          definition: boundary forming part of the outside of a spatial unit
+          language_code: eng
+          notes:
+            - >-
+              Boundary face strings are used to represent the boundaries of
+              spatial units by means of line strings in 2D. This 2D
+              representation is a 2D boundary in a 2D land administration
+              system. In a 3D land administration system it represents a series
+              of vertical boundary faces  where an unbounded volume is assumed,
+              surrounded by boundary faces which intersect the Earth’s surface
+              (such as traditionally depicted in the cadastral map).
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19152:2012'
+            clause: 4.1.5
+            link: 'https://www.iso.org/standard/51206.html'
+          date_accepted: 2012-12-01T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: boundary face string
+              normative_status: preferred
+        parents: []
+        timeCreated: 2012-12-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+kor:
+  id: 1289
+  definition: 공간 단위의 외부 일부를 구성하는 경계
+  language_code: kor
+  notes:
+    - >-
+      Boundary face strings are used to represent the boundaries of spatial
+      units by means of line strings in 2D. This 2D representation is a 2D
+      boundary in a 2D land administration system. In a 3D land administration
+      system it represents a series of vertical boundary faces  where an
+      unbounded volume is assumed, surrounded by boundary faces which intersect
+      the Earth’s surface (such as traditionally depicted in the cadastral map).
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19152:2012'
+    clause: 4.1.5
+    link: 'https://www.iso.org/standard/51206.html'
+  date_accepted: 2012-12-01T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: 경계면 스트링
+      normative_status: preferred
+  _revisions:
+    current: d3b2ba
+    tree:
+      d3b2ba:
+        object:
+          id: 1289
+          definition: 공간 단위의 외부 일부를 구성하는 경계
+          language_code: kor
+          notes:
+            - >-
+              Boundary face strings are used to represent the boundaries of
+              spatial units by means of line strings in 2D. This 2D
+              representation is a 2D boundary in a 2D land administration
+              system. In a 3D land administration system it represents a series
+              of vertical boundary faces  where an unbounded volume is assumed,
+              surrounded by boundary faces which intersect the Earth’s surface
+              (such as traditionally depicted in the cadastral map).
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19152:2012'
+            clause: 4.1.5
+            link: 'https://www.iso.org/standard/51206.html'
+          date_accepted: 2012-12-01T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: 경계면 스트링
+              normative_status: preferred
+        parents: []
+        timeCreated: 2012-12-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 1289
+  definition: 'граница, формирующая часть внешнего контура пространственной единицы'
+  language_code: rus
+  notes:
+    - >-
+      Полосы окаймляющих граней используются для представления границ
+      пространственных единиц с помощью линейных полос в 2D. Это
+      2D-представление является 2D-границей в 2D-системе управления земельными
+      ресурсами. В трехмерной системе управления земельными ресурсами он
+      представляет собой ряд вертикальных окаймляющих граней, где предполагается
+      неограниченный объем, окруженный окаймляющими гранями, которые пересекают
+      поверхность Земли (например, традиционно изображенные на кадастровой
+      карте).
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19152:2012'
+    clause: 4.1.5
+    link: 'https://www.iso.org/standard/51206.html'
+  lineage_source: 'ISO 19152:2012'
+  date_accepted: 2012-12-01T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: Полоса окаймляюшей грани
+      normative_status: preferred
+  _revisions:
+    current: bb069d
+    tree:
+      bb069d:
+        object:
+          id: 1289
+          definition: 'граница, формирующая часть внешнего контура пространственной единицы'
+          language_code: rus
+          notes:
+            - >-
+              Полосы окаймляющих граней используются для представления границ
+              пространственных единиц с помощью линейных полос в 2D. Это
+              2D-представление является 2D-границей в 2D-системе управления
+              земельными ресурсами. В трехмерной системе управления земельными
+              ресурсами он представляет собой ряд вертикальных окаймляющих
+              граней, где предполагается неограниченный объем, окруженный
+              окаймляющими гранями, которые пересекают поверхность Земли
+              (например, традиционно изображенные на кадастровой карте).
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19152:2012'
+            clause: 4.1.5
+            link: 'https://www.iso.org/standard/51206.html'
+          lineage_source: 'ISO 19152:2012'
+          date_accepted: 2012-12-01T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: Полоса окаймляюшей грани
+              normative_status: preferred
+        parents: []
+        timeCreated: 2012-12-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 1289
+  definition: frontera que forma parte del exterior de una unidad espacial
+  language_code: spa
+  notes:
+    - >-
+      Las cadenas de caras lindero se utilizan para representar los linderos de
+      las unidades espaciales por medio de cadenas de líneas en 2D. Esta
+      representación 2D es un lindero 2D en un sistema 2D de administración del
+      territorio. En un sistema de administración del territorio 3D, representa
+      una serie de caras lindero verticales donde se supone un volumen no
+      limitado, rodeado por caras lindero, que se interseca con la superficie de
+      la Tierra (tal y como se representa tradicionalmente en los mapas
+      catastrales)
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19152:2012'
+    clause: 4.1.5
+    link: 'https://www.iso.org/standard/51206.html'
+  date_accepted: 2012-12-01T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: cadena de caras frontera
+      normative_status: preferred
+  _revisions:
+    current: 9203a2
+    tree:
+      9203a2:
+        object:
+          id: 1289
+          definition: frontera que forma parte del exterior de una unidad espacial
+          language_code: spa
+          notes:
+            - >-
+              Las cadenas de caras lindero se utilizan para representar los
+              linderos de las unidades espaciales por medio de cadenas de líneas
+              en 2D. Esta representación 2D es un lindero 2D en un sistema 2D de
+              administración del territorio. En un sistema de administración del
+              territorio 3D, representa una serie de caras lindero verticales
+              donde se supone un volumen no limitado, rodeado por caras lindero,
+              que se interseca con la superficie de la Tierra (tal y como se
+              representa tradicionalmente en los mapas catastrales)
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19152:2012'
+            clause: 4.1.5
+            link: 'https://www.iso.org/standard/51206.html'
+          date_accepted: 2012-12-01T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: cadena de caras frontera
+              normative_status: preferred
+        parents: []
+        timeCreated: 2012-12-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+swe:
+  id: 1289
+  definition: >-
+    yta som utgår från en tvådimensionell linje på jordellipsoiden och som har
+    oändlig utsträckning vinkelrätt mot densamma
+  country_code: swe
+  language_code: swe
+  notes:
+    - >-
+      Boundary face strings are used to represent the boundaries of spatial
+      units by means of line strings in 2D. This 2D representation is a 2D
+      boundary in a 2D land administration system. In a 3D land administration
+      system it represents a series of vertical boundary faces  where an
+      unbounded volume is assumed, surrounded by boundary faces which intersect
+      the Earth’s surface (such as traditionally depicted in the cadastral map).
+    - >-
+      Uppspända gränsytor avgränsar inte uppåt eller nedåt, vilket är det
+      normala för reglering i 2D. För reglering i 3D ska gränssatta områden
+      uppfattas som att rättigheter, skyldigheter och ansvar gäller utan
+      begränsning i höjdled..
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19152:2012'
+    clause: 4.1.5
+    link: 'https://www.iso.org/standard/51206.html'
+  lineage_source: (Type reference to national language document)
+  date_accepted: 2012-12-01T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: uppspänd gränsyta
+      normative_status: preferred
+  _revisions:
+    current: dda94b
+    tree:
+      dda94b:
+        object:
+          id: 1289
+          definition: >-
+            yta som utgår från en tvådimensionell linje på jordellipsoiden och
+            som har oändlig utsträckning vinkelrätt mot densamma
+          country_code: swe
+          language_code: swe
+          notes:
+            - >-
+              Boundary face strings are used to represent the boundaries of
+              spatial units by means of line strings in 2D. This 2D
+              representation is a 2D boundary in a 2D land administration
+              system. In a 3D land administration system it represents a series
+              of vertical boundary faces  where an unbounded volume is assumed,
+              surrounded by boundary faces which intersect the Earth’s surface
+              (such as traditionally depicted in the cadastral map).
+            - >-
+              Uppspända gränsytor avgränsar inte uppåt eller nedåt, vilket är
+              det normala för reglering i 2D. För reglering i 3D ska gränssatta
+              områden uppfattas som att rättigheter, skyldigheter och ansvar
+              gäller utan begränsning i höjdled..
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19152:2012'
+            clause: 4.1.5
+            link: 'https://www.iso.org/standard/51206.html'
+          lineage_source: (Type reference to national language document)
+          date_accepted: 2012-12-01T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: uppspänd gränsyta
+              normative_status: preferred
+        parents: []
+        timeCreated: 2012-12-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

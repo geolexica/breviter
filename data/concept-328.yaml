@@ -1,0 +1,888 @@
+term: performance indicator
+termid: 328
+eng:
+  id: 328
+  definition: >-
+    internal parameters of positioning systems indicative of the level of
+    performance achieved
+  language_code: eng
+  notes:
+    - >-
+      Performance indicators can be used as quality-control evidence of the
+      positioning system and/or positioning solution. Internal quality control
+      may include such factors as signal strength of received radio signals
+      [signal-to-noise ratio (SNR)], figures indicating the dilution of
+      precision (DOP) due to geometric constraints in radiolocation systems, and
+      system-specific figure of merit (FOM).
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19116:2019'
+    clause: '(E), 3.21'
+    link: 'https://www.iso.org/standard/70882.html'
+  lineage_source: 'ISO 19116:2004(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2004-07-01T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19116:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19116:2004 to ISO 19116:2019(E),
+    3.21. Lineage source added as ISO 19116:2004(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: performance indicator
+      normative_status: preferred
+  _revisions:
+    current: 0e4dc7
+    tree:
+      0e4dc7:
+        object:
+          id: 328
+          definition: >-
+            internal parameters of positioning systems indicative of the level
+            of performance achieved
+          language_code: eng
+          notes:
+            - >-
+              Performance indicators can be used as quality-control evidence of
+              the positioning system and/or positioning solution. Internal
+              quality control may include such factors as signal strength of
+              received radio signals [signal-to-noise ratio (SNR)], figures
+              indicating the dilution of precision (DOP) due to geometric
+              constraints in radiolocation systems, and system-specific figure
+              of merit (FOM).
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19116:2019'
+            clause: '(E), 3.21'
+            link: 'https://www.iso.org/standard/70882.html'
+          lineage_source: 'ISO 19116:2004(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2004-07-01T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19116:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19116:2004 to ISO
+            19116:2019(E), 3.21. Lineage source added as ISO 19116:2004(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: performance indicator
+              normative_status: preferred
+        parents: []
+        timeCreated: 2004-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+ara:
+  id: 328
+  definition: >-
+    متغيرات أو مؤشرات داخلية لأنظمة تحديد الأماكن تدل على مستوى الأداء الذي تم
+    تحقيقه
+  language_code: ara
+  notes:
+    - >-
+      يمكن استخدام مؤشرات الأداء كدليل على فحص جودة نظام تحديد الأماكن و/أو كحل
+      لتحديد الأماكن. وظائف فحص الجودة الداخلية قد تشمل عوامل مثل قوة الإشارة
+      عند استقبال الإشارات اللاسلكية [نسبة الإشارة إلى الضوضاءSNR]  , والأرقام
+      الدالة على تخفيف درجة الدقة نتيجة لقيود هندسية في نظم التحديد اللاسلكية ,
+      ورقم الاستحقاق الخاص بالنظام.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19116:2019'
+    clause: '(E), 3.21'
+    link: 'https://www.iso.org/standard/70882.html'
+  lineage_source: 'ISO 19116:2004(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2004-07-01T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19116:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19116:2004 to ISO 19116:2019(E),
+    3.21. Lineage source added as ISO 19116:2004(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: مؤشر الأداء
+      normative_status: preferred
+  _revisions:
+    current: 7c0e0f
+    tree:
+      7c0e0f:
+        object:
+          id: 328
+          definition: >-
+            متغيرات أو مؤشرات داخلية لأنظمة تحديد الأماكن تدل على مستوى الأداء
+            الذي تم تحقيقه
+          language_code: ara
+          notes:
+            - >-
+              يمكن استخدام مؤشرات الأداء كدليل على فحص جودة نظام تحديد الأماكن
+              و/أو كحل لتحديد الأماكن. وظائف فحص الجودة الداخلية قد تشمل عوامل
+              مثل قوة الإشارة عند استقبال الإشارات اللاسلكية [نسبة الإشارة إلى
+              الضوضاءSNR]  , والأرقام الدالة على تخفيف درجة الدقة نتيجة لقيود
+              هندسية في نظم التحديد اللاسلكية , ورقم الاستحقاق الخاص بالنظام.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19116:2019'
+            clause: '(E), 3.21'
+            link: 'https://www.iso.org/standard/70882.html'
+          lineage_source: 'ISO 19116:2004(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2004-07-01T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19116:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19116:2004 to ISO
+            19116:2019(E), 3.21. Lineage source added as ISO 19116:2004(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: مؤشر الأداء
+              normative_status: preferred
+        parents: []
+        timeCreated: 2004-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+zho:
+  id: 328
+  definition: 表示达到的性能水平的定位系统内部参数。
+  language_code: zho
+  notes:
+    - >-
+      性能指标能被用作定位系统和/或定位方案的质量控制的证据。内部质量控制可包括这些因素，如接受的无线电信号的强度（信噪比（SNR))、由于电波探测器探测系统中的几何限制引起的精度衰减因子（DOP)等数据，以及系统的最优值（FOM)。
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19116:2019'
+    clause: '(E), 3.21'
+    link: 'https://www.iso.org/standard/70882.html'
+  lineage_source: 'ISO 19116:2004(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2004-07-01T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19116:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19116:2004 to ISO 19116:2019(E),
+    3.21. Lineage source added as ISO 19116:2004(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: 性能指标
+      normative_status: preferred
+  _revisions:
+    current: c3a5ed
+    tree:
+      c3a5ed:
+        object:
+          id: 328
+          definition: 表示达到的性能水平的定位系统内部参数。
+          language_code: zho
+          notes:
+            - >-
+              性能指标能被用作定位系统和/或定位方案的质量控制的证据。内部质量控制可包括这些因素，如接受的无线电信号的强度（信噪比（SNR))、由于电波探测器探测系统中的几何限制引起的精度衰减因子（DOP)等数据，以及系统的最优值（FOM)。
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19116:2019'
+            clause: '(E), 3.21'
+            link: 'https://www.iso.org/standard/70882.html'
+          lineage_source: 'ISO 19116:2004(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2004-07-01T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19116:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19116:2004 to ISO
+            19116:2019(E), 3.21. Lineage source added as ISO 19116:2004(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: 性能指标
+              normative_status: preferred
+        parents: []
+        timeCreated: 2004-07-01T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+fin:
+  id: 328
+  definition: >-
+    paikannusjärjestelmien sisäiset muuttujat, jotka ilmaisevat saavutetun
+    suoritustason
+  language_code: fin
+  notes:
+    - >-
+      Suoritusindikaattoreita voidaan käyttää ilmaisuna paikannusjärjestelmän
+      tai paikannusratkaisun laadunvalvonnasta. Sisäinen laadunvalvonta voi
+      liittyä mm. vastaanotettujen radiosignaalien vahvuuteen
+      (signaali/kohina-suhde, SNR); nämä luvut ilmaisevat
+      radiopaikannusjärjestelmien geometrisistä rajoituksista johtuvaa
+      tarkkuuden epävarmuutta (dilution of precision, DOP) sekä
+      järjestelmäkohtaisen  hyvyyden (figure of merit, FOM).
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19116:2019'
+    clause: '(E), 3.21'
+    link: 'https://www.iso.org/standard/70882.html'
+  lineage_source: 'ISO 19116:2004(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2004-07-01T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19116:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19116:2004 to ISO 19116:2019(E),
+    3.21. Lineage source added as ISO 19116:2004(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: suoritusindikaattori
+      normative_status: preferred
+    - designation: suoritusmittari
+      type: expression
+  _revisions:
+    current: 4ef752
+    tree:
+      4ef752:
+        object:
+          id: 328
+          definition: >-
+            paikannusjärjestelmien sisäiset muuttujat, jotka ilmaisevat
+            saavutetun suoritustason
+          language_code: fin
+          notes:
+            - >-
+              Suoritusindikaattoreita voidaan käyttää ilmaisuna
+              paikannusjärjestelmän tai paikannusratkaisun laadunvalvonnasta.
+              Sisäinen laadunvalvonta voi liittyä mm. vastaanotettujen
+              radiosignaalien vahvuuteen (signaali/kohina-suhde, SNR); nämä
+              luvut ilmaisevat radiopaikannusjärjestelmien geometrisistä
+              rajoituksista johtuvaa tarkkuuden epävarmuutta (dilution of
+              precision, DOP) sekä järjestelmäkohtaisen  hyvyyden (figure of
+              merit, FOM).
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19116:2019'
+            clause: '(E), 3.21'
+            link: 'https://www.iso.org/standard/70882.html'
+          lineage_source: 'ISO 19116:2004(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2004-07-01T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19116:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19116:2004 to ISO
+            19116:2019(E), 3.21. Lineage source added as ISO 19116:2004(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: suoritusindikaattori
+              normative_status: preferred
+            - designation: suoritusmittari
+              type: expression
+        parents: []
+        timeCreated: 2004-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+fra:
+  id: 328
+  definition: >-
+    paramètres internes des systèmes de positionnement indiquant le niveau de
+    performance atteint
+  language_code: fra
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19116:2019'
+    clause: '(E), 3.21'
+    link: 'https://www.iso.org/standard/70882.html'
+  lineage_source: 'ISO 19116:2004(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2004-07-01T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19116:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19116:2004 to ISO 19116:2019(E),
+    3.21. Lineage source added as ISO 19116:2004(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: indicateur de performance
+      normative_status: preferred
+  _revisions:
+    current: fe4f87
+    tree:
+      fe4f87:
+        object:
+          id: 328
+          definition: >-
+            paramètres internes des systèmes de positionnement indiquant le
+            niveau de performance atteint
+          language_code: fra
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19116:2019'
+            clause: '(E), 3.21'
+            link: 'https://www.iso.org/standard/70882.html'
+          lineage_source: 'ISO 19116:2004(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2004-07-01T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19116:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19116:2004 to ISO
+            19116:2019(E), 3.21. Lineage source added as ISO 19116:2004(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: indicateur de performance
+              normative_status: preferred
+        parents: []
+        timeCreated: 2004-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+deu:
+  id: 328
+  language_code: deu
+  notes:
+    - >-
+      Performance indicators can be used as quality-control evidence of the
+      positioning system and/or positioning solution. Internal quality control
+      may include such factors as signal strength of received radio signals
+      [signal-to-noise ratio (SNR)], figures indicating the dilution of
+      precision (DOP) due to geometric constraints in radiolocation systems, and
+      system-specific figure of merit (FOM).
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19116:2019'
+    clause: '(E), 3.21'
+    link: 'https://www.iso.org/standard/70882.html'
+  lineage_source: 'ISO 19116:2004(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2004-07-01T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19116:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19116:2004 to ISO 19116:2019(E),
+    3.21. Lineage source added as ISO 19116:2004(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: Leistungsindikator
+      normative_status: preferred
+  _revisions:
+    current: fb4094
+    tree:
+      fb4094:
+        object:
+          id: 328
+          language_code: deu
+          notes:
+            - >-
+              Performance indicators can be used as quality-control evidence of
+              the positioning system and/or positioning solution. Internal
+              quality control may include such factors as signal strength of
+              received radio signals [signal-to-noise ratio (SNR)], figures
+              indicating the dilution of precision (DOP) due to geometric
+              constraints in radiolocation systems, and system-specific figure
+              of merit (FOM).
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19116:2019'
+            clause: '(E), 3.21'
+            link: 'https://www.iso.org/standard/70882.html'
+          lineage_source: 'ISO 19116:2004(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2004-07-01T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19116:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19116:2004 to ISO
+            19116:2019(E), 3.21. Lineage source added as ISO 19116:2004(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: Leistungsindikator
+              normative_status: preferred
+        parents: []
+        timeCreated: 2004-07-01T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+kor:
+  id: 328
+  definition: 성능수준을 나타내는 측위 시스템의 내부 매개 변수
+  language_code: kor
+  notes:
+    - >-
+      성능 표시는 측위 시스템과/또는 측위 솔루션의 품질관리의 증거로서 사용될 수 있다. 내부 품질 관리는 수신 전파 강도(신호대
+      잡음비(SNR)), 전파 측위 시스템에서의 기하학적 제약 조건에 의한 정밀도 저하율(DOP)을 나타내는 수치 및 시스템 고유의 성능
+      계수((FOM)과 같은 요소를 포함할 수 있다.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19116:2019'
+    clause: '(E), 3.21'
+    link: 'https://www.iso.org/standard/70882.html'
+  lineage_source: 'ISO 19116:2004(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2004-07-01T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19116:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19116:2004 to ISO 19116:2019(E),
+    3.21. Lineage source added as ISO 19116:2004(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: 성능 표시
+      normative_status: preferred
+  _revisions:
+    current: 2055c5
+    tree:
+      2055c5:
+        object:
+          id: 328
+          definition: 성능수준을 나타내는 측위 시스템의 내부 매개 변수
+          language_code: kor
+          notes:
+            - >-
+              성능 표시는 측위 시스템과/또는 측위 솔루션의 품질관리의 증거로서 사용될 수 있다. 내부 품질 관리는 수신 전파
+              강도(신호대 잡음비(SNR)), 전파 측위 시스템에서의 기하학적 제약 조건에 의한 정밀도 저하율(DOP)을 나타내는
+              수치 및 시스템 고유의 성능 계수((FOM)과 같은 요소를 포함할 수 있다.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19116:2019'
+            clause: '(E), 3.21'
+            link: 'https://www.iso.org/standard/70882.html'
+          lineage_source: 'ISO 19116:2004(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2004-07-01T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19116:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19116:2004 to ISO
+            19116:2019(E), 3.21. Lineage source added as ISO 19116:2004(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: 성능 표시
+              normative_status: preferred
+        parents: []
+        timeCreated: 2004-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+msa:
+  id: 328
+  definition: >-
+    parameter dalaman bagi sistem kedudukan dalam menunjukkan tahap prestasi
+    yang dicapai
+  language_code: msa
+  notes:
+    - >-
+      Performance indicators can be used as quality-control evidence of the
+      positioning system and/or positioning solution. Internal quality control
+      may include such factors as signal strength of received radio signals
+      [signal-to-noise ratio (SNR)], figures indicating the dilution of
+      precision (DOP) due to geometric constraints in radiolocation systems, and
+      system-specific figure of merit (FOM).
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19116:2019'
+    clause: '(E), 3.21'
+    link: 'https://www.iso.org/standard/70882.html'
+  lineage_source: 'ISO 19116:2004(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2004-07-01T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19116:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19116:2004 to ISO 19116:2019(E),
+    3.21. Lineage source added as ISO 19116:2004(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: petunjuk prestasi
+      normative_status: preferred
+  _revisions:
+    current: a253d4
+    tree:
+      a253d4:
+        object:
+          id: 328
+          definition: >-
+            parameter dalaman bagi sistem kedudukan dalam menunjukkan tahap
+            prestasi yang dicapai
+          language_code: msa
+          notes:
+            - >-
+              Performance indicators can be used as quality-control evidence of
+              the positioning system and/or positioning solution. Internal
+              quality control may include such factors as signal strength of
+              received radio signals [signal-to-noise ratio (SNR)], figures
+              indicating the dilution of precision (DOP) due to geometric
+              constraints in radiolocation systems, and system-specific figure
+              of merit (FOM).
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19116:2019'
+            clause: '(E), 3.21'
+            link: 'https://www.iso.org/standard/70882.html'
+          lineage_source: 'ISO 19116:2004(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2004-07-01T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19116:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19116:2004 to ISO
+            19116:2019(E), 3.21. Lineage source added as ISO 19116:2004(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: petunjuk prestasi
+              normative_status: preferred
+        parents: []
+        timeCreated: 2004-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 328
+  definition: >-
+    внутренние параметры систем позиционирования, позволяющие оценить
+    достигнутый уровень их  эффективности
+  language_code: rus
+  notes:
+    - >-
+      Показатели эффективности могут использоваться в управлении качеством для 
+      установления уровня качества системы позиционирования и/или результата
+      позиционирования. Внутреннее управление  качеством может включать такие
+      факторы, как «отношение сигнал-шум» (SNR),  коэффициент потери точности
+      (DOP), как результат геометрических ограничений в радиолокационных
+      системах и особые критерии качества системы (FOM).
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19116:2019'
+    clause: '(E), 3.21'
+    link: 'https://www.iso.org/standard/70882.html'
+  lineage_source: 'ISO 19116:2004(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2004-07-01T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19116:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19116:2004 to ISO 19116:2019(E),
+    3.21. Lineage source added as ISO 19116:2004(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: показатель эффективности в работе
+      normative_status: preferred
+  _revisions:
+    current: 44bd43
+    tree:
+      44bd43:
+        object:
+          id: 328
+          definition: >-
+            внутренние параметры систем позиционирования, позволяющие оценить
+            достигнутый уровень их  эффективности
+          language_code: rus
+          notes:
+            - >-
+              Показатели эффективности могут использоваться в управлении
+              качеством для  установления уровня качества системы
+              позиционирования и/или результата позиционирования. Внутреннее
+              управление  качеством может включать такие факторы, как «отношение
+              сигнал-шум» (SNR),  коэффициент потери точности (DOP), как
+              результат геометрических ограничений в радиолокационных системах и
+              особые критерии качества системы (FOM).
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19116:2019'
+            clause: '(E), 3.21'
+            link: 'https://www.iso.org/standard/70882.html'
+          lineage_source: 'ISO 19116:2004(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2004-07-01T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19116:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19116:2004 to ISO
+            19116:2019(E), 3.21. Lineage source added as ISO 19116:2004(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: показатель эффективности в работе
+              normative_status: preferred
+        parents: []
+        timeCreated: 2004-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 328
+  definition: >-
+    parámetros internos de los sistemas de posicionamiento indicadores del nivel
+    de prestaciones conseguido
+  language_code: spa
+  notes:
+    - >-
+      Los indicadores de prestaciones pueden ser utilizados como una prueba de
+      control de calidad de los sistemas de posicionamiento y/o solución de
+      posición. El control interno de calidad puede incluir factores como la
+      potencia de la señal de radio recibida [en relación señal/ruido (SNR)],
+      cifras que indiquen la dilución de precisión (DOP) debida a restricciones
+      geométricas en los sistemas de radiolocalización, y cualquier otro valor
+      significativo digno de mención específico de un determinado sistema
+      (Factor de calidad, FOM).
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19116:2019'
+    clause: '(E), 3.21'
+    link: 'https://www.iso.org/standard/70882.html'
+  lineage_source: 'ISO 19116:2004(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2004-07-01T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19116:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19116:2004 to ISO 19116:2019(E),
+    3.21. Lineage source added as ISO 19116:2004(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: indicador de rendimiento
+      normative_status: preferred
+  _revisions:
+    current: badc89
+    tree:
+      badc89:
+        object:
+          id: 328
+          definition: >-
+            parámetros internos de los sistemas de posicionamiento indicadores
+            del nivel de prestaciones conseguido
+          language_code: spa
+          notes:
+            - >-
+              Los indicadores de prestaciones pueden ser utilizados como una
+              prueba de control de calidad de los sistemas de posicionamiento
+              y/o solución de posición. El control interno de calidad puede
+              incluir factores como la potencia de la señal de radio recibida
+              [en relación señal/ruido (SNR)], cifras que indiquen la dilución
+              de precisión (DOP) debida a restricciones geométricas en los
+              sistemas de radiolocalización, y cualquier otro valor
+              significativo digno de mención específico de un determinado
+              sistema (Factor de calidad, FOM).
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19116:2019'
+            clause: '(E), 3.21'
+            link: 'https://www.iso.org/standard/70882.html'
+          lineage_source: 'ISO 19116:2004(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2004-07-01T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19116:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19116:2004 to ISO
+            19116:2019(E), 3.21. Lineage source added as ISO 19116:2004(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: indicador de rendimiento
+              normative_status: preferred
+        parents: []
+        timeCreated: 2004-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+swe:
+  id: 328
+  definition: >-
+    parameter som tillsammans med andra parametrar indikerar hur väl något
+    fungerar
+  country_code: swe
+  language_code: swe
+  notes:
+    - >-
+      Performance indicators can be used as quality-control evidence of the
+      positioning system and/or positioning solution. Internal quality control
+      may include such factors as signal strength of received radio signals
+      [signal-to-noise ratio (SNR)], figures indicating the dilution of
+      precision (DOP) due to geometric constraints in radiolocation systems, and
+      system-specific figure of merit (FOM).
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19116:2019'
+    clause: '(E), 3.21'
+    link: 'https://www.iso.org/standard/70882.html'
+  lineage_source: 'ISO 19116:2004(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2004-07-01T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19116:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19116:2004 to ISO 19116:2019(E),
+    3.21. Lineage source added as ISO 19116:2004(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: prestandaindikator
+      normative_status: preferred
+  _revisions:
+    current: 8684f0
+    tree:
+      8684f0:
+        object:
+          id: 328
+          definition: >-
+            parameter som tillsammans med andra parametrar indikerar hur väl
+            något fungerar
+          country_code: swe
+          language_code: swe
+          notes:
+            - >-
+              Performance indicators can be used as quality-control evidence of
+              the positioning system and/or positioning solution. Internal
+              quality control may include such factors as signal strength of
+              received radio signals [signal-to-noise ratio (SNR)], figures
+              indicating the dilution of precision (DOP) due to geometric
+              constraints in radiolocation systems, and system-specific figure
+              of merit (FOM).
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19116:2019'
+            clause: '(E), 3.21'
+            link: 'https://www.iso.org/standard/70882.html'
+          lineage_source: 'ISO 19116:2004(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2004-07-01T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19116:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19116:2004 to ISO
+            19116:2019(E), 3.21. Lineage source added as ISO 19116:2004(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: prestandaindikator
+              normative_status: preferred
+        parents: []
+        timeCreated: 2004-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

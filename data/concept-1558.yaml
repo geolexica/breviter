@@ -1,0 +1,144 @@
+term: parent addressable object
+termid: 1558
+eng:
+  id: 1558
+  definition: addressable object that fully encloses one or more other addressable objects
+  language_code: eng
+  notes: []
+  examples:
+    - An apartment building with many apartments within.
+    - 'In Japan, a gaiku (block) with many jukyo bango (residence number).'
+    - >-
+      A complex of many buildings. In Korea, a group of buildings with many dong
+      (wings or sections of a building).
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19160-1:2015'
+    clause: '4.14'
+    link: 'https://www.iso.org/standard/61710.html'
+  date_accepted: 2015-12-15T00:00:00.000Z
+  review_date: 2012-02-27T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2015-12-15T00:00:00.000Z
+  review_decision_event: Normal ISO processing
+  review_decision_notes: 'Publication of document ISO 19160-1:2015(E)'
+  release: '4'
+  terms:
+    - type: expression
+      designation: parent addressable object
+      normative_status: preferred
+  _revisions:
+    current: 64c3cf
+    tree:
+      64c3cf:
+        object:
+          id: 1558
+          definition: >-
+            addressable object that fully encloses one or more other addressable
+            objects
+          language_code: eng
+          notes: []
+          examples:
+            - An apartment building with many apartments within.
+            - >-
+              In Japan, a gaiku (block) with many jukyo bango (residence
+              number).
+            - >-
+              A complex of many buildings. In Korea, a group of buildings with
+              many dong (wings or sections of a building).
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19160-1:2015'
+            clause: '4.14'
+            link: 'https://www.iso.org/standard/61710.html'
+          date_accepted: 2015-12-15T00:00:00.000Z
+          review_date: 2012-02-27T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2015-12-15T00:00:00.000Z
+          review_decision_event: Normal ISO processing
+          review_decision_notes: 'Publication of document ISO 19160-1:2015(E)'
+          release: '4'
+          terms:
+            - type: expression
+              designation: parent addressable object
+              normative_status: preferred
+        parents: []
+        timeCreated: 2015-12-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 1558
+  definition: >-
+    objeto direccionable que contiene completamente a uno o más objetos
+    direccionables
+  language_code: spa
+  notes: []
+  examples:
+    - Un edificio de apartamentos con muchos apartamentos dentro.
+    - >-
+      En Japón, un gaiku (manzana) con muchos jukyo bango (números de
+      residencia).
+    - >-
+      Un complejo de muchos edificios. En Corea, un grupo de edificios con
+      muchas dong (alas o secciones de un edificio).
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19160-1:2015'
+    clause: '4.14'
+    link: 'https://www.iso.org/standard/61710.html'
+  date_accepted: 2015-12-15T00:00:00.000Z
+  review_date: 2012-02-27T00:00:00.000Z
+  review_status: final
+  review_decision: ''
+  review_decision_date: 2015-12-15T00:00:00.000Z
+  review_decision_event: Normal ISO processing
+  review_decision_notes: 'Publication of document ISO 19160-1:2015(E)'
+  release: '4'
+  terms:
+    - type: expression
+      designation: objeto padre direccionable
+      normative_status: preferred
+  _revisions:
+    current: 569e6a
+    tree:
+      569e6a:
+        object:
+          id: 1558
+          definition: >-
+            objeto direccionable que contiene completamente a uno o más objetos
+            direccionables
+          language_code: spa
+          notes: []
+          examples:
+            - Un edificio de apartamentos con muchos apartamentos dentro.
+            - >-
+              En Japón, un gaiku (manzana) con muchos jukyo bango (números de
+              residencia).
+            - >-
+              Un complejo de muchos edificios. En Corea, un grupo de edificios
+              con muchas dong (alas o secciones de un edificio).
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19160-1:2015'
+            clause: '4.14'
+            link: 'https://www.iso.org/standard/61710.html'
+          date_accepted: 2015-12-15T00:00:00.000Z
+          review_date: 2012-02-27T00:00:00.000Z
+          review_status: final
+          review_decision: ''
+          review_decision_date: 2015-12-15T00:00:00.000Z
+          review_decision_event: Normal ISO processing
+          review_decision_notes: 'Publication of document ISO 19160-1:2015(E)'
+          release: '4'
+          terms:
+            - type: expression
+              designation: objeto padre direccionable
+              normative_status: preferred
+        parents: []
+        timeCreated: 2015-12-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

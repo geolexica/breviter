@@ -1,0 +1,1051 @@
+term: dataset
+termid: 124
+eng:
+  id: 124
+  definition: identifiable collection of data
+  language_code: eng
+  notes:
+    - >-
+      A dataset may be a smaller grouping of data which, though limited by some
+      constraint such as spatial extent or feature type, is located physically
+      within a larger dataset. Theoretically, a dataset may be as small as a
+      single feature or feature attribute contained within a larger dataset. A
+      hardcopy map or chart may be considered a dataset.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19115-1:2014'
+    clause: '4.3'
+    link: 'https://www.iso.org/standard/53798.html'
+  lineage_source: 'ISO 19101:2002'
+  lineage_source_similarity: '1'
+  date_accepted: 2002-07-01T00:00:00.000Z
+  review_date: 2011-01-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2014-04-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19115-1:2014'
+  review_decision_notes: 'Authoritative reference changed from ISO 19115:2003 to ISO 19115-1:2014.'
+  release: '1'
+  terms:
+    - type: expression
+      designation: dataset
+      normative_status: preferred
+  _revisions:
+    current: f3c22f
+    tree:
+      f3c22f:
+        object:
+          id: 124
+          definition: identifiable collection of data
+          language_code: eng
+          notes:
+            - >-
+              A dataset may be a smaller grouping of data which, though limited
+              by some constraint such as spatial extent or feature type, is
+              located physically within a larger dataset. Theoretically, a
+              dataset may be as small as a single feature or feature attribute
+              contained within a larger dataset. A hardcopy map or chart may be
+              considered a dataset.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19115-1:2014'
+            clause: '4.3'
+            link: 'https://www.iso.org/standard/53798.html'
+          lineage_source: 'ISO 19101:2002'
+          lineage_source_similarity: '1'
+          date_accepted: 2002-07-01T00:00:00.000Z
+          review_date: 2011-01-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2014-04-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19115-1:2014'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19115:2003 to ISO
+            19115-1:2014.
+          release: '1'
+          terms:
+            - type: expression
+              designation: dataset
+              normative_status: preferred
+        parents: []
+        timeCreated: 2002-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+ara:
+  id: 124
+  definition: مجموعة من البيانات المميزة
+  language_code: ara
+  notes:
+    - >-
+      قد تكون مجموعة البيانات تجميعاً صغيراً لبيانات هي, رغم كونها محددة بقيد ما
+      مثل الامتداد المكاني أو نوع المعلم , واقعة بالفعل داخل مجموعة بيانات أكبر
+      منها. نظرياً ، يمكن لمجموعة البيانات أن تكون صغيرة إلى حد بعيد بحيث لا
+      تزيد عن مجرد معلم واحد أو بيانات وصفية لمعلم تشكل جزءاً من مجموعة بيانات
+      أكبر منها ، ويمكن لأي خارطة ورقية أو خارطة بحرية ورقية أن تمثل مجموعة
+      بيانات .
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19115-1:2014'
+    clause: '4.3'
+    link: 'https://www.iso.org/standard/53798.html'
+  lineage_source: 'ISO 19101:2002'
+  lineage_source_similarity: '1'
+  date_accepted: 2002-07-01T00:00:00.000Z
+  review_date: 2011-01-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2014-04-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19115-1:2014'
+  review_decision_notes: 'Authoritative reference changed from ISO 19115:2003 to ISO 19115-1:2014.'
+  release: '1'
+  terms:
+    - type: expression
+      designation: مجموعة بيانات
+      normative_status: preferred
+  _revisions:
+    current: 243d9a
+    tree:
+      243d9a:
+        object:
+          id: 124
+          definition: مجموعة من البيانات المميزة
+          language_code: ara
+          notes:
+            - >-
+              قد تكون مجموعة البيانات تجميعاً صغيراً لبيانات هي, رغم كونها محددة
+              بقيد ما مثل الامتداد المكاني أو نوع المعلم , واقعة بالفعل داخل
+              مجموعة بيانات أكبر منها. نظرياً ، يمكن لمجموعة البيانات أن تكون
+              صغيرة إلى حد بعيد بحيث لا تزيد عن مجرد معلم واحد أو بيانات وصفية
+              لمعلم تشكل جزءاً من مجموعة بيانات أكبر منها ، ويمكن لأي خارطة
+              ورقية أو خارطة بحرية ورقية أن تمثل مجموعة بيانات .
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19115-1:2014'
+            clause: '4.3'
+            link: 'https://www.iso.org/standard/53798.html'
+          lineage_source: 'ISO 19101:2002'
+          lineage_source_similarity: '1'
+          date_accepted: 2002-07-01T00:00:00.000Z
+          review_date: 2011-01-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2014-04-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19115-1:2014'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19115:2003 to ISO
+            19115-1:2014.
+          release: '1'
+          terms:
+            - type: expression
+              designation: مجموعة بيانات
+              normative_status: preferred
+        parents: []
+        timeCreated: 2002-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+zho:
+  id: 124
+  definition: 可识别的数据集合。
+  language_code: zho
+  notes:
+    - >-
+      通过诸如空间范围或要素类型的限制，数据集在物理上可以是更大数据集较小的部分。从理论上讲，数据集可以小到更大数据集内的单个要素或要素属性。一张硬拷贝地图或图表均可以被认为是一个数据集。
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19115-1:2014'
+    clause: '4.3'
+    link: 'https://www.iso.org/standard/53798.html'
+  lineage_source: 'ISO 19101:2002'
+  lineage_source_similarity: '1'
+  date_accepted: 2002-07-01T00:00:00.000Z
+  review_date: 2011-01-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2014-04-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19115-1:2014'
+  review_decision_notes: 'Authoritative reference changed from ISO 19115:2003 to ISO 19115-1:2014.'
+  release: '1'
+  terms:
+    - type: expression
+      designation: 数据集
+      normative_status: preferred
+  _revisions:
+    current: 6be120
+    tree:
+      6be120:
+        object:
+          id: 124
+          definition: 可识别的数据集合。
+          language_code: zho
+          notes:
+            - >-
+              通过诸如空间范围或要素类型的限制，数据集在物理上可以是更大数据集较小的部分。从理论上讲，数据集可以小到更大数据集内的单个要素或要素属性。一张硬拷贝地图或图表均可以被认为是一个数据集。
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19115-1:2014'
+            clause: '4.3'
+            link: 'https://www.iso.org/standard/53798.html'
+          lineage_source: 'ISO 19101:2002'
+          lineage_source_similarity: '1'
+          date_accepted: 2002-07-01T00:00:00.000Z
+          review_date: 2011-01-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2014-04-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19115-1:2014'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19115:2003 to ISO
+            19115-1:2014.
+          release: '1'
+          terms:
+            - type: expression
+              designation: 数据集
+              normative_status: preferred
+        parents: []
+        timeCreated: 2002-07-01T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+dan:
+  id: 124
+  definition: identificerbar samling af data
+  language_code: dan
+  notes:
+    - >-
+      Et datasæt kan være en mindre gruppe af data, der skønt afgrænset ved en
+      restriktion (som fx rumlig udbredelse eller featuretype) er placeret
+      fysisk i et større datasæt. Teoretisk kan et datasæt være så småt som en
+      enkelt feature eller featureattribut indeholdt i et større datasæt. Et
+      trykt kort eller diagram kan anses for at være et datasæt.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19115-1:2014'
+    clause: '4.3'
+    link: 'https://www.iso.org/standard/53798.html'
+  lineage_source: 'ISO 19101:2002'
+  lineage_source_similarity: '1'
+  date_accepted: 2002-07-01T00:00:00.000Z
+  review_date: 2011-01-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2014-04-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19115-1:2014'
+  review_decision_notes: 'Authoritative reference changed from ISO 19115:2003 to ISO 19115-1:2014.'
+  release: '1'
+  terms:
+    - type: expression
+      designation: datasæt
+      normative_status: preferred
+  _revisions:
+    current: e0bac6
+    tree:
+      e0bac6:
+        object:
+          id: 124
+          definition: identificerbar samling af data
+          language_code: dan
+          notes:
+            - >-
+              Et datasæt kan være en mindre gruppe af data, der skønt afgrænset
+              ved en restriktion (som fx rumlig udbredelse eller featuretype) er
+              placeret fysisk i et større datasæt. Teoretisk kan et datasæt være
+              så småt som en enkelt feature eller featureattribut indeholdt i et
+              større datasæt. Et trykt kort eller diagram kan anses for at være
+              et datasæt.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19115-1:2014'
+            clause: '4.3'
+            link: 'https://www.iso.org/standard/53798.html'
+          lineage_source: 'ISO 19101:2002'
+          lineage_source_similarity: '1'
+          date_accepted: 2002-07-01T00:00:00.000Z
+          review_date: 2011-01-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2014-04-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19115-1:2014'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19115:2003 to ISO
+            19115-1:2014.
+          release: '1'
+          terms:
+            - type: expression
+              designation: datasæt
+              normative_status: preferred
+        parents: []
+        timeCreated: 2002-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+fin:
+  id: 124
+  definition: yksilöitävissä oleva kokoelma tietoja
+  language_code: fin
+  notes:
+    - >-
+      Tietoaineisto voi olla pienehkö tietoryhmä, jonka jäseniä yhdistävät
+      tietyt piirteet (esimerkiksi sijainnin kattavuus tai kohdetyyppi), mutta
+      joka fyysisesti sijaitsee laajemman tietoaineiston sisällä. Teoriassa
+      tietoaineisto voi olla niinkin suppea kuin laajempaan tietoaineistoon
+      sisältyvä yksittäinen kohde tai kohteen ominaisuus. Tietoaineistona
+      voidaan pitää myös esimerkiksi karttakopiota.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19115-1:2014'
+    clause: '4.3'
+    link: 'https://www.iso.org/standard/53798.html'
+  lineage_source: 'ISO 19101:2002'
+  lineage_source_similarity: '1'
+  date_accepted: 2002-07-01T00:00:00.000Z
+  review_date: 2011-01-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2014-04-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19115-1:2014'
+  review_decision_notes: 'Authoritative reference changed from ISO 19115:2003 to ISO 19115-1:2014.'
+  release: '1'
+  terms:
+    - type: expression
+      designation: tietoaineisto
+      normative_status: preferred
+  _revisions:
+    current: 897cbb
+    tree:
+      897cbb:
+        object:
+          id: 124
+          definition: yksilöitävissä oleva kokoelma tietoja
+          language_code: fin
+          notes:
+            - >-
+              Tietoaineisto voi olla pienehkö tietoryhmä, jonka jäseniä
+              yhdistävät tietyt piirteet (esimerkiksi sijainnin kattavuus tai
+              kohdetyyppi), mutta joka fyysisesti sijaitsee laajemman
+              tietoaineiston sisällä. Teoriassa tietoaineisto voi olla niinkin
+              suppea kuin laajempaan tietoaineistoon sisältyvä yksittäinen kohde
+              tai kohteen ominaisuus. Tietoaineistona voidaan pitää myös
+              esimerkiksi karttakopiota.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19115-1:2014'
+            clause: '4.3'
+            link: 'https://www.iso.org/standard/53798.html'
+          lineage_source: 'ISO 19101:2002'
+          lineage_source_similarity: '1'
+          date_accepted: 2002-07-01T00:00:00.000Z
+          review_date: 2011-01-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2014-04-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19115-1:2014'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19115:2003 to ISO
+            19115-1:2014.
+          release: '1'
+          terms:
+            - type: expression
+              designation: tietoaineisto
+              normative_status: preferred
+        parents: []
+        timeCreated: 2002-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+fra:
+  id: 124
+  definition: collection identifiable de données
+  language_code: fra
+  notes:
+    - >-
+      il y a une ambiguïté avec le vocabulaire INSPIRE, qui a traduit dataset
+      par série de données.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19115-1:2014'
+    clause: '4.3'
+    link: 'https://www.iso.org/standard/53798.html'
+  lineage_source: 'ISO 19101:2002'
+  lineage_source_similarity: '1'
+  date_accepted: 2002-07-01T00:00:00.000Z
+  review_date: 2011-01-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2014-04-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19115-1:2014'
+  review_decision_notes: 'Authoritative reference changed from ISO 19115:2003 to ISO 19115-1:2014.'
+  release: '1'
+  terms:
+    - type: expression
+      designation: jeu de données
+      normative_status: preferred
+  _revisions:
+    current: 77600f
+    tree:
+      77600f:
+        object:
+          id: 124
+          definition: collection identifiable de données
+          language_code: fra
+          notes:
+            - >-
+              il y a une ambiguïté avec le vocabulaire INSPIRE, qui a traduit
+              dataset par série de données.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19115-1:2014'
+            clause: '4.3'
+            link: 'https://www.iso.org/standard/53798.html'
+          lineage_source: 'ISO 19101:2002'
+          lineage_source_similarity: '1'
+          date_accepted: 2002-07-01T00:00:00.000Z
+          review_date: 2011-01-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2014-04-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19115-1:2014'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19115:2003 to ISO
+            19115-1:2014.
+          release: '1'
+          terms:
+            - type: expression
+              designation: jeu de données
+              normative_status: preferred
+        parents: []
+        timeCreated: 2002-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+deu:
+  id: 124
+  definition: identifizierbare Sammlung von Daten
+  language_code: deu
+  notes:
+    - >-
+      A dataset may be a smaller grouping of data which, though limited by some
+      constraint such as spatial extent or feature type, is located physically
+      within a larger dataset. Theoretically, a dataset may be as small as a
+      single feature or feature attribute contained within a larger dataset. A
+      hardcopy map or chart may be considered a dataset.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19115-1:2014'
+    clause: '4.3'
+    link: 'https://www.iso.org/standard/53798.html'
+  lineage_source: 'ISO 19101:2002'
+  lineage_source_similarity: '1'
+  date_accepted: 2002-07-01T00:00:00.000Z
+  review_date: 2011-01-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2014-04-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19115-1:2014'
+  review_decision_notes: 'Authoritative reference changed from ISO 19115:2003 to ISO 19115-1:2014.'
+  release: '1'
+  terms:
+    - type: expression
+      designation: Datensatz
+      normative_status: preferred
+  _revisions:
+    current: 37919b
+    tree:
+      37919b:
+        object:
+          id: 124
+          definition: identifizierbare Sammlung von Daten
+          language_code: deu
+          notes:
+            - >-
+              A dataset may be a smaller grouping of data which, though limited
+              by some constraint such as spatial extent or feature type, is
+              located physically within a larger dataset. Theoretically, a
+              dataset may be as small as a single feature or feature attribute
+              contained within a larger dataset. A hardcopy map or chart may be
+              considered a dataset.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19115-1:2014'
+            clause: '4.3'
+            link: 'https://www.iso.org/standard/53798.html'
+          lineage_source: 'ISO 19101:2002'
+          lineage_source_similarity: '1'
+          date_accepted: 2002-07-01T00:00:00.000Z
+          review_date: 2011-01-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2014-04-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19115-1:2014'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19115:2003 to ISO
+            19115-1:2014.
+          release: '1'
+          terms:
+            - type: expression
+              designation: Datensatz
+              normative_status: preferred
+        parents: []
+        timeCreated: 2002-07-01T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+jpn:
+  id: 124
+  definition: 他と識別可能なデータの集まり。
+  language_code: jpn
+  notes:
+    - >-
+      空間範囲又は地物型のような制約によって区切るとしても，データ集合は，より大きいデータ集合の中に位置する，より小さいデータのグループであってもよい。理論的には，データ集合は，より大きなデータ集合に含まれる一つの地物又は地物属性のように小さくてもよい。ハードコピーの地図又は図表は，データ集合と考えてよい。
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19115-1:2014'
+    clause: '4.3'
+    link: 'https://www.iso.org/standard/53798.html'
+  lineage_source: 'ISO 19101:2002'
+  lineage_source_similarity: '1'
+  date_accepted: 2002-07-01T00:00:00.000Z
+  review_date: 2011-01-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2014-04-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19115-1:2014'
+  review_decision_notes: 'Authoritative reference changed from ISO 19115:2003 to ISO 19115-1:2014.'
+  release: '1'
+  terms:
+    - type: expression
+      designation: データ集合
+      normative_status: preferred
+  _revisions:
+    current: c20bdf
+    tree:
+      c20bdf:
+        object:
+          id: 124
+          definition: 他と識別可能なデータの集まり。
+          language_code: jpn
+          notes:
+            - >-
+              空間範囲又は地物型のような制約によって区切るとしても，データ集合は，より大きいデータ集合の中に位置する，より小さいデータのグループであってもよい。理論的には，データ集合は，より大きなデータ集合に含まれる一つの地物又は地物属性のように小さくてもよい。ハードコピーの地図又は図表は，データ集合と考えてよい。
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19115-1:2014'
+            clause: '4.3'
+            link: 'https://www.iso.org/standard/53798.html'
+          lineage_source: 'ISO 19101:2002'
+          lineage_source_similarity: '1'
+          date_accepted: 2002-07-01T00:00:00.000Z
+          review_date: 2011-01-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2014-04-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19115-1:2014'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19115:2003 to ISO
+            19115-1:2014.
+          release: '1'
+          terms:
+            - type: expression
+              designation: データ集合
+              normative_status: preferred
+        parents: []
+        timeCreated: 2002-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+kor:
+  id: 124
+  definition: 식별 가능한 데이터의 모음
+  language_code: kor
+  notes:
+    - >-
+      데이터셋은 비록 공간 범위나 피처 유형과 같은 제약 조건으로 한정되어도 보다 큰 데이터셋 내에 물리적으로 존재하는 보다 작은 데이터의
+      그룹이 될 수 있다. 이론적으로, 데이터셋은 하나의 피처 또는 보다 큰 데이터셋에 포함된 피처 속성 만큼이나 작다. 종이 지도 및
+      도표는 데이터셋으로 간주된다.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19115-1:2014'
+    clause: '4.3'
+    link: 'https://www.iso.org/standard/53798.html'
+  lineage_source: 'ISO 19101:2002'
+  lineage_source_similarity: '1'
+  date_accepted: 2008-12-30T00:00:00.000Z
+  review_date: 2011-01-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2014-04-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19115-1:2014'
+  review_decision_notes: 'Authoritative reference changed from ISO 19115:2003 to ISO 19115-1:2014.'
+  release: '1'
+  terms:
+    - type: expression
+      designation: 데이터셋
+      normative_status: preferred
+  _revisions:
+    current: 32d28c
+    tree:
+      32d28c:
+        object:
+          id: 124
+          definition: 식별 가능한 데이터의 모음
+          language_code: kor
+          notes:
+            - >-
+              데이터셋은 비록 공간 범위나 피처 유형과 같은 제약 조건으로 한정되어도 보다 큰 데이터셋 내에 물리적으로 존재하는 보다
+              작은 데이터의 그룹이 될 수 있다. 이론적으로, 데이터셋은 하나의 피처 또는 보다 큰 데이터셋에 포함된 피처 속성
+              만큼이나 작다. 종이 지도 및 도표는 데이터셋으로 간주된다.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19115-1:2014'
+            clause: '4.3'
+            link: 'https://www.iso.org/standard/53798.html'
+          lineage_source: 'ISO 19101:2002'
+          lineage_source_similarity: '1'
+          date_accepted: 2008-12-30T00:00:00.000Z
+          review_date: 2011-01-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2014-04-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19115-1:2014'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19115:2003 to ISO
+            19115-1:2014.
+          release: '1'
+          terms:
+            - type: expression
+              designation: 데이터셋
+              normative_status: preferred
+        parents: []
+        timeCreated: 2008-12-30T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+msa:
+  id: 124
+  definition: >-
+    kumpulan data yang boleh dikenal pasti sama ada dataset statik atau dataset
+    dinamik
+  language_code: msa
+  notes:
+    - >-
+      A dataset may be a smaller grouping of data which, though limited by some
+      constraint such as spatial extent or feature type, is located physically
+      within a larger dataset. Theoretically, a dataset may be as small as a
+      single feature or feature attribute contained within a larger dataset. A
+      hardcopy map or chart may be considered a dataset.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19115-1:2014'
+    clause: '4.3'
+    link: 'https://www.iso.org/standard/53798.html'
+  lineage_source: garis panduan dan penyediaan spesifikasi produk data geospatial
+  date_accepted: 2002-07-01T00:00:00.000Z
+  review_date: 2011-01-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2014-04-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19115-1:2014'
+  review_decision_notes: 'Authoritative reference changed from ISO 19115:2003 to ISO 19115-1:2014.'
+  release: '1'
+  terms:
+    - type: expression
+      designation: dataset
+      normative_status: preferred
+  _revisions:
+    current: 14e7e0
+    tree:
+      14e7e0:
+        object:
+          id: 124
+          definition: >-
+            kumpulan data yang boleh dikenal pasti sama ada dataset statik atau
+            dataset dinamik
+          language_code: msa
+          notes:
+            - >-
+              A dataset may be a smaller grouping of data which, though limited
+              by some constraint such as spatial extent or feature type, is
+              located physically within a larger dataset. Theoretically, a
+              dataset may be as small as a single feature or feature attribute
+              contained within a larger dataset. A hardcopy map or chart may be
+              considered a dataset.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19115-1:2014'
+            clause: '4.3'
+            link: 'https://www.iso.org/standard/53798.html'
+          lineage_source: garis panduan dan penyediaan spesifikasi produk data geospatial
+          date_accepted: 2002-07-01T00:00:00.000Z
+          review_date: 2011-01-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2014-04-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19115-1:2014'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19115:2003 to ISO
+            19115-1:2014.
+          release: '1'
+          terms:
+            - type: expression
+              designation: dataset
+              normative_status: preferred
+        parents: []
+        timeCreated: 2002-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+pol:
+  id: 124
+  definition: identyfikowalna kolekcja danych
+  language_code: pol
+  notes:
+    - >-
+      Zbiór danych może być mniejszą grupą danych, która chociaż w pewien sposób
+      ograniczona, na przykład co do zasięgu przestrzennego lub typu obiektów,
+      jest fizycznie zlokalizowana w większym zbiorze danych. Teoretycznie zbiór
+      danych może się składać tylko z jednego obiektu lub atrybutu obiektu
+      zawartego w większym zbiorze danych. Wydrukowaną mapę lub wykres także
+      można uznać za zbiór danych.
+  examples: []
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19115-1:2014'
+    clause: '4.3'
+    link: 'https://www.iso.org/standard/53798.html'
+  lineage_source: 'ISO 19101:2002'
+  lineage_source_similarity: '1'
+  date_accepted: 2002-07-01T00:00:00.000Z
+  review_date: 2011-01-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2014-04-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19115-1:2014'
+  review_decision_notes: 'Authoritative reference changed from ISO 19115:2003 to ISO 19115-1:2014.'
+  release: '1'
+  terms:
+    - type: expression
+      designation: zbiór danych
+      normative_status: preferred
+  _revisions:
+    current: 7f137b
+    tree:
+      7f137b:
+        object:
+          id: 124
+          definition: identyfikowalna kolekcja danych
+          language_code: pol
+          notes:
+            - >-
+              Zbiór danych może być mniejszą grupą danych, która chociaż w
+              pewien sposób ograniczona, na przykład co do zasięgu
+              przestrzennego lub typu obiektów, jest fizycznie zlokalizowana w
+              większym zbiorze danych. Teoretycznie zbiór danych może się
+              składać tylko z jednego obiektu lub atrybutu obiektu zawartego w
+              większym zbiorze danych. Wydrukowaną mapę lub wykres także można
+              uznać za zbiór danych.
+          examples: []
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19115-1:2014'
+            clause: '4.3'
+            link: 'https://www.iso.org/standard/53798.html'
+          lineage_source: 'ISO 19101:2002'
+          lineage_source_similarity: '1'
+          date_accepted: 2002-07-01T00:00:00.000Z
+          review_date: 2011-01-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2014-04-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19115-1:2014'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19115:2003 to ISO
+            19115-1:2014.
+          release: '1'
+          terms:
+            - type: expression
+              designation: zbiór danych
+              normative_status: preferred
+        parents: []
+        timeCreated: 2002-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 124
+  definition: идентифицированная совокупность данных
+  language_code: rus
+  notes:
+    - >-
+      Набором данных может быть  также относительно малая  группа данных,
+      которая, хотя и имеет ограничения в виде пространственной протяженности
+      или типа объекта, физически расположена  в пределах более крупного набора
+      данных. Теоретически набором данных могут быть отдельный объект или
+      атрибут объекта, расположенные в пределах более крупного набора данных.
+
+      «Бумажная»  карта или план могут считаться набором данных
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19115-1:2014'
+    clause: '4.3'
+    link: 'https://www.iso.org/standard/53798.html'
+  lineage_source: ГОСТ Р 57668-2017 (ИСО 19115-1-2014)
+  lineage_source_similarity: '1'
+  date_accepted: 2002-07-01T00:00:00.000Z
+  review_date: 2011-01-01T00:00:00.000Z
+  review_status: ''
+  review_decision: ''
+  review_decision_date: 2014-04-01T00:00:00.000Z
+  review_decision_event: 'Публикация ИСО19115-1:2014'
+  review_decision_notes: 'Авторитетная ссылка изменена с ISO 19115: 2003 на ISO 19115-1: 2014.'
+  release: '1'
+  terms:
+    - type: expression
+      designation: набор данных
+      normative_status: preferred
+  _revisions:
+    current: 0c2597
+    tree:
+      0c2597:
+        object:
+          id: 124
+          definition: идентифицированная совокупность данных
+          language_code: rus
+          notes:
+            - >-
+              Набором данных может быть  также относительно малая  группа
+              данных, которая, хотя и имеет ограничения в виде пространственной
+              протяженности или типа объекта, физически расположена  в пределах
+              более крупного набора данных. Теоретически набором данных могут
+              быть отдельный объект или атрибут объекта, расположенные в
+              пределах более крупного набора данных.
+
+              «Бумажная»  карта или план могут считаться набором данных
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19115-1:2014'
+            clause: '4.3'
+            link: 'https://www.iso.org/standard/53798.html'
+          lineage_source: ГОСТ Р 57668-2017 (ИСО 19115-1-2014)
+          lineage_source_similarity: '1'
+          date_accepted: 2002-07-01T00:00:00.000Z
+          review_date: 2011-01-01T00:00:00.000Z
+          review_status: ''
+          review_decision: ''
+          review_decision_date: 2014-04-01T00:00:00.000Z
+          review_decision_event: 'Публикация ИСО19115-1:2014'
+          review_decision_notes: 'Авторитетная ссылка изменена с ISO 19115: 2003 на ISO 19115-1: 2014.'
+          release: '1'
+          terms:
+            - type: expression
+              designation: набор данных
+              normative_status: preferred
+        parents: []
+        timeCreated: 2002-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 124
+  definition: colección identificable de datos
+  language_code: spa
+  notes:
+    - >-
+      Un conjunto de datos puede ser un agrupamiento más pequeño de datos el
+      cual, aunque limitado por alguna restricción tal como la extensión
+      espacial o el tipo de objeto geográfico, está localizado físicamente
+      dentro de un conjunto de datos más grande. Teóricamente, un conjunto de
+      datos puede ser tan pequeño como un único objeto geográfico o un atributo
+      de un objeto geográfico contenidos dentro de un conjunto de datos más
+      grande. Un mapa impreso o una carta pueden ser considerados como conjuntos
+      de datos
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19115-1:2014'
+    clause: '4.3'
+    link: 'https://www.iso.org/standard/53798.html'
+  lineage_source: 'ISO 19101:2002'
+  lineage_source_similarity: '1'
+  date_accepted: 2002-07-01T00:00:00.000Z
+  review_date: 2011-01-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2014-04-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19115-1:2014'
+  review_decision_notes: 'Authoritative reference changed from ISO 19115:2003 to ISO 19115-1:2014.'
+  release: '1'
+  terms:
+    - type: expression
+      designation: conjunto de datos
+      normative_status: preferred
+  _revisions:
+    current: '811956'
+    tree:
+      '811956':
+        object:
+          id: 124
+          definition: colección identificable de datos
+          language_code: spa
+          notes:
+            - >-
+              Un conjunto de datos puede ser un agrupamiento más pequeño de
+              datos el cual, aunque limitado por alguna restricción tal como la
+              extensión espacial o el tipo de objeto geográfico, está localizado
+              físicamente dentro de un conjunto de datos más grande.
+              Teóricamente, un conjunto de datos puede ser tan pequeño como un
+              único objeto geográfico o un atributo de un objeto geográfico
+              contenidos dentro de un conjunto de datos más grande. Un mapa
+              impreso o una carta pueden ser considerados como conjuntos de
+              datos
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19115-1:2014'
+            clause: '4.3'
+            link: 'https://www.iso.org/standard/53798.html'
+          lineage_source: 'ISO 19101:2002'
+          lineage_source_similarity: '1'
+          date_accepted: 2002-07-01T00:00:00.000Z
+          review_date: 2011-01-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2014-04-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19115-1:2014'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19115:2003 to ISO
+            19115-1:2014.
+          release: '1'
+          terms:
+            - type: expression
+              designation: conjunto de datos
+              normative_status: preferred
+        parents: []
+        timeCreated: 2002-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+swe:
+  id: 124
+  definition: identifierbar samling data
+  country_code: swe
+  language_code: swe
+  notes:
+    - >-
+      A dataset may be a smaller grouping of data which, though limited by some
+      constraint such as spatial extent or feature type, is located physically
+      within a larger dataset. Theoretically, a dataset may be as small as a
+      single feature or feature attribute contained within a larger dataset. A
+      hardcopy map or chart may be considered a dataset.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19115-1:2014'
+    clause: '4.3'
+    link: 'https://www.iso.org/standard/53798.html'
+  lineage_source: 'ISO 19101:2002'
+  lineage_source_similarity: '1'
+  date_accepted: 2002-07-01T00:00:00.000Z
+  review_date: 2011-01-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2014-04-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19115-1:2014'
+  review_decision_notes: 'Authoritative reference changed from ISO 19115:2003 to ISO 19115-1:2014.'
+  release: '1'
+  terms:
+    - type: expression
+      designation: datamängd
+      normative_status: preferred
+  _revisions:
+    current: de79b9
+    tree:
+      de79b9:
+        object:
+          id: 124
+          definition: identifierbar samling data
+          country_code: swe
+          language_code: swe
+          notes:
+            - >-
+              A dataset may be a smaller grouping of data which, though limited
+              by some constraint such as spatial extent or feature type, is
+              located physically within a larger dataset. Theoretically, a
+              dataset may be as small as a single feature or feature attribute
+              contained within a larger dataset. A hardcopy map or chart may be
+              considered a dataset.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19115-1:2014'
+            clause: '4.3'
+            link: 'https://www.iso.org/standard/53798.html'
+          lineage_source: 'ISO 19101:2002'
+          lineage_source_similarity: '1'
+          date_accepted: 2002-07-01T00:00:00.000Z
+          review_date: 2011-01-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2014-04-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19115-1:2014'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19115:2003 to ISO
+            19115-1:2014.
+          release: '1'
+          terms:
+            - type: expression
+              designation: datamängd
+              normative_status: preferred
+        parents: []
+        timeCreated: 2002-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

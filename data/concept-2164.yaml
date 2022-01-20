@@ -1,0 +1,90 @@
+term: geometric primitive <geometry>
+termid: 2164
+eng:
+  id: 2164
+  definition: >-
+    geometric object representing a single, connected, homogeneous (isotropic)
+    element of space
+  language_code: eng
+  notes:
+    - >-
+      Geometric primitives are non-decomposed objects that present information
+      about geometric configuration. They include points, curves, surfaces, and
+      solids. Many geometric objects behave like primitives (supporting the same
+      interfaces defined for geometric primitives) but are actually composites
+      composed of some number of other primitives. General collections may be
+      aggregates and incapable of acting like a primitive (such as the lines of
+      a complex network, which is not connected and thus incapable of being
+      traceable as a single line). By this definition, a geometric primitive is
+      topological open, since the boundary points are not isotropic to the
+      interior points. Geometry is assumed to be closed. For points, the
+      boundary is empty.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19107:2019'
+    clause: '(E), 3.50'
+    link: 'https://www.iso.org/standard/66175.html'
+  date_accepted: 2019-12-02T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: 'Publication of document ISO 19107:2019(E)'
+  review_decision_notes: 'This entry supersedes the entry for geometric primitive in ISO 19107:2003(E)'
+  release: '5'
+  terms:
+    - type: expression
+      designation: geometric primitive <geometry>
+      normative_status: preferred
+  _revisions:
+    current: 510b8f
+    tree:
+      510b8f:
+        object:
+          id: 2164
+          definition: >-
+            geometric object representing a single, connected, homogeneous
+            (isotropic) element of space
+          language_code: eng
+          notes:
+            - >-
+              Geometric primitives are non-decomposed objects that present
+              information about geometric configuration. They include points,
+              curves, surfaces, and solids. Many geometric objects behave like
+              primitives (supporting the same interfaces defined for geometric
+              primitives) but are actually composites composed of some number of
+              other primitives. General collections may be aggregates and
+              incapable of acting like a primitive (such as the lines of a
+              complex network, which is not connected and thus incapable of
+              being traceable as a single line). By this definition, a geometric
+              primitive is topological open, since the boundary points are not
+              isotropic to the interior points. Geometry is assumed to be
+              closed. For points, the boundary is empty.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19107:2019'
+            clause: '(E), 3.50'
+            link: 'https://www.iso.org/standard/66175.html'
+          date_accepted: 2019-12-02T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: 'Publication of document ISO 19107:2019(E)'
+          review_decision_notes: >-
+            This entry supersedes the entry for geometric primitive in ISO
+            19107:2003(E)
+          release: '5'
+          terms:
+            - type: expression
+              designation: geometric primitive <geometry>
+              normative_status: preferred
+        parents: []
+        timeCreated: 2019-12-02T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

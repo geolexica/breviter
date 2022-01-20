@@ -1,0 +1,200 @@
+term: return <LIDAR>
+termid: 1413
+eng:
+  id: 1413
+  definition: >-
+    sensed signal from an emitted laser pulse which has reflected off of an
+    illuminated scene of interest
+  language_code: eng
+  notes:
+    - There may be multiple returns for a given emitted laser pulse.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO/TS 19130-2:2014'
+    clause: '4.62'
+    link: 'https://www.iso.org/standard/56113.html'
+  date_accepted: 2014-01-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: return <LIDAR>
+      normative_status: preferred
+  _revisions:
+    current: '923192'
+    tree:
+      '923192':
+        object:
+          id: 1413
+          definition: >-
+            sensed signal from an emitted laser pulse which has reflected off of
+            an illuminated scene of interest
+          language_code: eng
+          notes:
+            - There may be multiple returns for a given emitted laser pulse.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO/TS 19130-2:2014'
+            clause: '4.62'
+            link: 'https://www.iso.org/standard/56113.html'
+          date_accepted: 2014-01-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: return <LIDAR>
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-01-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+kor:
+  id: 1413
+  definition: 조명된 관심 현장에서 반사된 방출 레이저 펄스의 감지된 신호
+  language_code: kor
+  notes:
+    - There may be multiple returns for a given emitted laser pulse.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO/TS 19130-2:2014'
+    clause: '4.62'
+    link: 'https://www.iso.org/standard/56113.html'
+  date_accepted: 2014-01-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: 회신
+      normative_status: preferred
+  _revisions:
+    current: 5fb9a9
+    tree:
+      5fb9a9:
+        object:
+          id: 1413
+          definition: 조명된 관심 현장에서 반사된 방출 레이저 펄스의 감지된 신호
+          language_code: kor
+          notes:
+            - There may be multiple returns for a given emitted laser pulse.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO/TS 19130-2:2014'
+            clause: '4.62'
+            link: 'https://www.iso.org/standard/56113.html'
+          date_accepted: 2014-01-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: 회신
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-01-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 1413
+  definition: >-
+    принятый сигнал от испускаемого лазерного импульса, который отражается от
+    освещенной сцены, представляющей интерес
+  language_code: rus
+  notes:
+    - >-
+      может быть несколько возвратов для данного испускаемого лазерного
+      импульса.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO/TS 19130-2:2014'
+    clause: '4.62'
+    link: 'https://www.iso.org/standard/56113.html'
+  lineage_source: 'ISO/TS 19130-2:2014'
+  date_accepted: 2014-01-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: возврат <LIDAR>
+      normative_status: preferred
+  _revisions:
+    current: f16fd0
+    tree:
+      f16fd0:
+        object:
+          id: 1413
+          definition: >-
+            принятый сигнал от испускаемого лазерного импульса, который
+            отражается от освещенной сцены, представляющей интерес
+          language_code: rus
+          notes:
+            - >-
+              может быть несколько возвратов для данного испускаемого лазерного
+              импульса.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO/TS 19130-2:2014'
+            clause: '4.62'
+            link: 'https://www.iso.org/standard/56113.html'
+          lineage_source: 'ISO/TS 19130-2:2014'
+          date_accepted: 2014-01-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: возврат <LIDAR>
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-01-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 1413
+  definition: >-
+    señal captada de la emisión de un pulso láser que se ha reflejado sobre una
+    escena de interés iluminada
+  language_code: spa
+  notes:
+    - Puede haber múltiples retronos para un pulso láser emitido dado
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO/TS 19130-2:2014'
+    clause: '4.62'
+    link: 'https://www.iso.org/standard/56113.html'
+  date_accepted: 2014-01-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: retorno <LIDAR>
+      normative_status: preferred
+  _revisions:
+    current: '897242'
+    tree:
+      '897242':
+        object:
+          id: 1413
+          definition: >-
+            señal captada de la emisión de un pulso láser que se ha reflejado
+            sobre una escena de interés iluminada
+          language_code: spa
+          notes:
+            - Puede haber múltiples retronos para un pulso láser emitido dado
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO/TS 19130-2:2014'
+            clause: '4.62'
+            link: 'https://www.iso.org/standard/56113.html'
+          date_accepted: 2014-01-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: retorno <LIDAR>
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-01-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

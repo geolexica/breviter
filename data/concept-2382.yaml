@@ -1,0 +1,91 @@
+term: ellipsoid <geodesy>
+termid: 2382
+eng:
+  id: 2382
+  definition: >-
+    geometric reference surface embedded in 3D Euclidean space represented by an
+    ellipsoid of revolution where the rotation is about the polar axis
+  language_code: eng
+  notes:
+    - >-
+      For the Earth the rotation is about the polar axis. This results in an
+      oblate ellipsoid with midpoint of the foci located at the nominal centre
+      of the Earth.
+    - >-
+      The two usual algorithms for latitude on an ellipsoid and on a sphere
+      (such as used in spherical coordinates) are only equivalent if the
+      ellipsoid is a sphere, having all radii equal in all directions. The
+      problem is that a radial line from the centre of a general ellipsoid does
+      not always cross the surface of the ellipsoid orthogonally. In general,
+      planar slices through the centre do not intersect the surface
+      orthogonally, and therefore the curves that correspond to the great
+      circles of a sphere are not geodesics on the ellipsoid.
+    - "The topology of the ellipsoid is inherited from the \U0001D53C3 space in which it is embedded. The difference is that metrics such as distance and direction on the ellipsoid are restricted to curves wholly on the surface and vectors tangent to the surface.at"
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19107:2019'
+    clause: '(E), 3.31'
+    link: 'https://www.iso.org/standard/66175.html'
+  date_accepted: 2019-12-02T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: Normal ISO processing
+  review_decision_notes: 'Publication of document ISO 19107:2019(E)'
+  release: '5'
+  terms:
+    - type: expression
+      designation: ellipsoid <geodesy>
+      normative_status: preferred
+  _revisions:
+    current: 48efe3
+    tree:
+      48efe3:
+        object:
+          id: 2382
+          definition: >-
+            geometric reference surface embedded in 3D Euclidean space
+            represented by an ellipsoid of revolution where the rotation is
+            about the polar axis
+          language_code: eng
+          notes:
+            - >-
+              For the Earth the rotation is about the polar axis. This results
+              in an oblate ellipsoid with midpoint of the foci located at the
+              nominal centre of the Earth.
+            - >-
+              The two usual algorithms for latitude on an ellipsoid and on a
+              sphere (such as used in spherical coordinates) are only equivalent
+              if the ellipsoid is a sphere, having all radii equal in all
+              directions. The problem is that a radial line from the centre of a
+              general ellipsoid does not always cross the surface of the
+              ellipsoid orthogonally. In general, planar slices through the
+              centre do not intersect the surface orthogonally, and therefore
+              the curves that correspond to the great circles of a sphere are
+              not geodesics on the ellipsoid.
+            - "The topology of the ellipsoid is inherited from the \U0001D53C3 space in which it is embedded. The difference is that metrics such as distance and direction on the ellipsoid are restricted to curves wholly on the surface and vectors tangent to the surface.at"
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19107:2019'
+            clause: '(E), 3.31'
+            link: 'https://www.iso.org/standard/66175.html'
+          date_accepted: 2019-12-02T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: Normal ISO processing
+          review_decision_notes: 'Publication of document ISO 19107:2019(E)'
+          release: '5'
+          terms:
+            - type: expression
+              designation: ellipsoid <geodesy>
+              normative_status: preferred
+        parents: []
+        timeCreated: 2019-12-02T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

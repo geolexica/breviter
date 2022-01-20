@@ -1,0 +1,449 @@
+term: cross-track
+termid: 933
+eng:
+  id: 933
+  definition: perpendicular to the direction in which the collection platform moves
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19130-1:2018'
+    clause: '(E), 3.15'
+    link: 'https://www.iso.org/standard/66847.html'
+  lineage_source: 'ISO/TS 19130:2010(E)'
+  lineage_source_similarity: '1'
+  date_accepted: 2010-06-15T00:00:00.000Z
+  review_date: 2018-09-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2018-09-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19130-1:2018(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO/TS 19130:2010 to ISO
+    19130-1:2018(E), 3.15. Lineage source added as ISO/TS 19130:2010(E)
+  release: '2'
+  terms:
+    - type: expression
+      designation: cross-track
+      normative_status: preferred
+  _revisions:
+    current: 3d2781
+    tree:
+      3d2781:
+        object:
+          id: 933
+          definition: >-
+            perpendicular to the direction in which the collection platform
+            moves
+          language_code: eng
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19130-1:2018'
+            clause: '(E), 3.15'
+            link: 'https://www.iso.org/standard/66847.html'
+          lineage_source: 'ISO/TS 19130:2010(E)'
+          lineage_source_similarity: '1'
+          date_accepted: 2010-06-15T00:00:00.000Z
+          review_date: 2018-09-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2018-09-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19130-1:2018(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO/TS 19130:2010 to ISO
+            19130-1:2018(E), 3.15. Lineage source added as ISO/TS 19130:2010(E)
+          release: '2'
+          terms:
+            - type: expression
+              designation: cross-track
+              normative_status: preferred
+        parents: []
+        timeCreated: 2010-06-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+ara:
+  id: 933
+  definition: متعامد مع الاتجاه الذي يتحرك فيه نظام الجمع
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19130-1:2018'
+    clause: '(E), 3.15'
+    link: 'https://www.iso.org/standard/66847.html'
+  lineage_source: 'ISO/TS 19130:2010(E)'
+  lineage_source_similarity: '1'
+  date_accepted: 2010-06-15T00:00:00.000Z
+  review_date: 2018-09-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2018-09-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19130-1:2018(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO/TS 19130:2010 to ISO
+    19130-1:2018(E), 3.15. Lineage source added as ISO/TS 19130:2010(E)
+  release: '2'
+  terms:
+    - type: expression
+      designation: مسار التقاطع
+      normative_status: preferred
+  _revisions:
+    current: 7d19aa
+    tree:
+      7d19aa:
+        object:
+          id: 933
+          definition: متعامد مع الاتجاه الذي يتحرك فيه نظام الجمع
+          language_code: ara
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19130-1:2018'
+            clause: '(E), 3.15'
+            link: 'https://www.iso.org/standard/66847.html'
+          lineage_source: 'ISO/TS 19130:2010(E)'
+          lineage_source_similarity: '1'
+          date_accepted: 2010-06-15T00:00:00.000Z
+          review_date: 2018-09-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2018-09-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19130-1:2018(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO/TS 19130:2010 to ISO
+            19130-1:2018(E), 3.15. Lineage source added as ISO/TS 19130:2010(E)
+          release: '2'
+          terms:
+            - type: expression
+              designation: مسار التقاطع
+              normative_status: preferred
+        parents: []
+        timeCreated: 2010-06-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+deu:
+  id: 933
+  definition: quer zur Bewegungsrichtung der Sensorplattform
+  language_code: deu
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19130-1:2018'
+    clause: '(E), 3.15'
+    link: 'https://www.iso.org/standard/66847.html'
+  lineage_source: 'ISO/TS 19130:2010(E)'
+  lineage_source_similarity: '1'
+  date_accepted: 2010-06-15T00:00:00.000Z
+  review_date: 2018-09-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2018-09-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19130-1:2018(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO/TS 19130:2010 to ISO
+    19130-1:2018(E), 3.15. Lineage source added as ISO/TS 19130:2010(E)
+  release: '2'
+  terms:
+    - type: expression
+      designation: quer zur Bewegungsrichtung
+      normative_status: preferred
+  _revisions:
+    current: 95215c
+    tree:
+      95215c:
+        object:
+          id: 933
+          definition: quer zur Bewegungsrichtung der Sensorplattform
+          language_code: deu
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19130-1:2018'
+            clause: '(E), 3.15'
+            link: 'https://www.iso.org/standard/66847.html'
+          lineage_source: 'ISO/TS 19130:2010(E)'
+          lineage_source_similarity: '1'
+          date_accepted: 2010-06-15T00:00:00.000Z
+          review_date: 2018-09-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2018-09-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19130-1:2018(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO/TS 19130:2010 to ISO
+            19130-1:2018(E), 3.15. Lineage source added as ISO/TS 19130:2010(E)
+          release: '2'
+          terms:
+            - type: expression
+              designation: quer zur Bewegungsrichtung
+              normative_status: preferred
+        parents: []
+        timeCreated: 2010-06-15T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+kor:
+  id: 933
+  definition: 수집 플랫폼이 이동하는 방향의 수직 방향
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19130-1:2018'
+    clause: '(E), 3.15'
+    link: 'https://www.iso.org/standard/66847.html'
+  lineage_source: 'ISO/TS 19130:2010(E)'
+  lineage_source_similarity: '1'
+  date_accepted: 2010-06-15T00:00:00.000Z
+  review_date: 2018-09-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2018-09-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19130-1:2018(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO/TS 19130:2010 to ISO
+    19130-1:2018(E), 3.15. Lineage source added as ISO/TS 19130:2010(E)
+  release: '2'
+  terms:
+    - type: expression
+      designation: 경로 횡단
+      normative_status: preferred
+  _revisions:
+    current: 3262f1
+    tree:
+      3262f1:
+        object:
+          id: 933
+          definition: 수집 플랫폼이 이동하는 방향의 수직 방향
+          language_code: kor
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19130-1:2018'
+            clause: '(E), 3.15'
+            link: 'https://www.iso.org/standard/66847.html'
+          lineage_source: 'ISO/TS 19130:2010(E)'
+          lineage_source_similarity: '1'
+          date_accepted: 2010-06-15T00:00:00.000Z
+          review_date: 2018-09-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2018-09-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19130-1:2018(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO/TS 19130:2010 to ISO
+            19130-1:2018(E), 3.15. Lineage source added as ISO/TS 19130:2010(E)
+          release: '2'
+          terms:
+            - type: expression
+              designation: 경로 횡단
+              normative_status: preferred
+        parents: []
+        timeCreated: 2010-06-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 933
+  definition: 'перпендикуляр к направлению, в котором движется  собирающая платформа'
+  language_code: rus
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19130-1:2018'
+    clause: '(E), 3.15'
+    link: 'https://www.iso.org/standard/66847.html'
+  lineage_source: 'ISO/TS 19130:2010(E)'
+  lineage_source_similarity: '1'
+  date_accepted: 2010-06-15T00:00:00.000Z
+  review_date: 2018-09-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2018-09-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19130-1:2018(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO/TS 19130:2010 to ISO
+    19130-1:2018(E), 3.15. Lineage source added as ISO/TS 19130:2010(E)
+  release: '2'
+  terms:
+    - type: expression
+      designation: кросс-трек
+      normative_status: preferred
+  _revisions:
+    current: da2d00
+    tree:
+      da2d00:
+        object:
+          id: 933
+          definition: >-
+            перпендикуляр к направлению, в котором движется  собирающая
+            платформа
+          language_code: rus
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19130-1:2018'
+            clause: '(E), 3.15'
+            link: 'https://www.iso.org/standard/66847.html'
+          lineage_source: 'ISO/TS 19130:2010(E)'
+          lineage_source_similarity: '1'
+          date_accepted: 2010-06-15T00:00:00.000Z
+          review_date: 2018-09-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2018-09-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19130-1:2018(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO/TS 19130:2010 to ISO
+            19130-1:2018(E), 3.15. Lineage source added as ISO/TS 19130:2010(E)
+          release: '2'
+          terms:
+            - type: expression
+              designation: кросс-трек
+              normative_status: preferred
+        parents: []
+        timeCreated: 2010-06-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 933
+  definition: perpendicular a la dirección en que avanza la plataforma de captura
+  language_code: spa
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19130-1:2018'
+    clause: '(E), 3.15'
+    link: 'https://www.iso.org/standard/66847.html'
+  lineage_source: 'ISO/TS 19130:2010(E)'
+  lineage_source_similarity: '1'
+  date_accepted: 2010-06-15T00:00:00.000Z
+  review_date: 2018-09-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2018-09-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19130-1:2018(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO/TS 19130:2010 to ISO
+    19130-1:2018(E), 3.15. Lineage source added as ISO/TS 19130:2010(E)
+  release: '2'
+  terms:
+    - type: expression
+      designation: perpendicular a la trayectoria
+      normative_status: preferred
+  _revisions:
+    current: c2e288
+    tree:
+      c2e288:
+        object:
+          id: 933
+          definition: perpendicular a la dirección en que avanza la plataforma de captura
+          language_code: spa
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19130-1:2018'
+            clause: '(E), 3.15'
+            link: 'https://www.iso.org/standard/66847.html'
+          lineage_source: 'ISO/TS 19130:2010(E)'
+          lineage_source_similarity: '1'
+          date_accepted: 2010-06-15T00:00:00.000Z
+          review_date: 2018-09-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2018-09-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19130-1:2018(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO/TS 19130:2010 to ISO
+            19130-1:2018(E), 3.15. Lineage source added as ISO/TS 19130:2010(E)
+          release: '2'
+          terms:
+            - type: expression
+              designation: perpendicular a la trayectoria
+              normative_status: preferred
+        parents: []
+        timeCreated: 2010-06-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+swe:
+  id: 933
+  definition: riktning vinkelrätt mot stråkriktningen
+  country_code: swe
+  language_code: swe
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19130-1:2018'
+    clause: '(E), 3.15'
+    link: 'https://www.iso.org/standard/66847.html'
+  lineage_source: 'ISO/TS 19130:2010(E)'
+  lineage_source_similarity: '1'
+  date_accepted: 2010-06-15T00:00:00.000Z
+  review_date: 2018-09-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2018-09-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19130-1:2018(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO/TS 19130:2010 to ISO
+    19130-1:2018(E), 3.15. Lineage source added as ISO/TS 19130:2010(E)
+  release: '2'
+  terms:
+    - type: expression
+      designation: tvärs stråkriktiningen
+      normative_status: preferred
+  _revisions:
+    current: f344a8
+    tree:
+      f344a8:
+        object:
+          id: 933
+          definition: riktning vinkelrätt mot stråkriktningen
+          country_code: swe
+          language_code: swe
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19130-1:2018'
+            clause: '(E), 3.15'
+            link: 'https://www.iso.org/standard/66847.html'
+          lineage_source: 'ISO/TS 19130:2010(E)'
+          lineage_source_similarity: '1'
+          date_accepted: 2010-06-15T00:00:00.000Z
+          review_date: 2018-09-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2018-09-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19130-1:2018(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO/TS 19130:2010 to ISO
+            19130-1:2018(E), 3.15. Lineage source added as ISO/TS 19130:2010(E)
+          release: '2'
+          terms:
+            - type: expression
+              designation: tvärs stråkriktiningen
+              normative_status: preferred
+        parents: []
+        timeCreated: 2010-06-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

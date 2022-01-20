@@ -1,0 +1,456 @@
+term: scan mode
+termid: 968
+eng:
+  id: 968
+  definition: >-
+    SAR mode in which the antenna beam is steered to illuminate a swath of
+    ground at various angles relative to flight path throughout the collection
+  language_code: eng
+  notes:
+    - >-
+      Steering the antenna also allows dwell time to be increased and provides
+      the ability to collect strips at angles non-parallel to the flight
+      direction and with better resolution than Stripmap mode.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19130-1:2018'
+    clause: '(E), 3.77'
+    link: 'https://www.iso.org/standard/66847.html'
+  lineage_source: 'ISO/TS 19130:2010(E)'
+  lineage_source_similarity: '1'
+  date_accepted: 2010-06-15T00:00:00.000Z
+  review_date: 2018-09-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2018-09-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19130-1:2018(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO/TS 19130:2010 to ISO
+    19130-1:2018(E), 3.77. Lineage source added as ISO/TS 19130:2010(E)
+  release: '2'
+  terms:
+    - type: expression
+      designation: scan mode
+      normative_status: preferred
+  _revisions:
+    current: '858e12'
+    tree:
+      '858e12':
+        object:
+          id: 968
+          definition: >-
+            SAR mode in which the antenna beam is steered to illuminate a swath
+            of ground at various angles relative to flight path throughout the
+            collection
+          language_code: eng
+          notes:
+            - >-
+              Steering the antenna also allows dwell time to be increased and
+              provides the ability to collect strips at angles non-parallel to
+              the flight direction and with better resolution than Stripmap
+              mode.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19130-1:2018'
+            clause: '(E), 3.77'
+            link: 'https://www.iso.org/standard/66847.html'
+          lineage_source: 'ISO/TS 19130:2010(E)'
+          lineage_source_similarity: '1'
+          date_accepted: 2010-06-15T00:00:00.000Z
+          review_date: 2018-09-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2018-09-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19130-1:2018(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO/TS 19130:2010 to ISO
+            19130-1:2018(E), 3.77. Lineage source added as ISO/TS 19130:2010(E)
+          release: '2'
+          terms:
+            - type: expression
+              designation: scan mode
+              normative_status: preferred
+        parents: []
+        timeCreated: 2010-06-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+ara:
+  id: 968
+  definition: >-
+    وضع رادار الرصد المركب"سار" بحيث يوجه شعاع الهوائي لإضاءة التغطية  الأرضية
+    من  زوايا مختلفة بالنسبة لمسار الرحلة طوال عملية الجمع
+  language_code: ara
+  notes:
+    - >-
+      توجيه الهوائي يسمح أيضا بزيادة زمن التوقف ويتيح إمكانية جمع الممرات بزوايا
+      غير موازية لاتجاه الطيران وبدقة أرضية أفضل من النمط الشريطي لإنتاج
+      الخرائط.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19130-1:2018'
+    clause: '(E), 3.77'
+    link: 'https://www.iso.org/standard/66847.html'
+  lineage_source: 'ISO/TS 19130:2010(E)'
+  lineage_source_similarity: '1'
+  date_accepted: 2010-06-15T00:00:00.000Z
+  review_date: 2018-09-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2018-09-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19130-1:2018(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO/TS 19130:2010 to ISO
+    19130-1:2018(E), 3.77. Lineage source added as ISO/TS 19130:2010(E)
+  release: '2'
+  terms:
+    - type: expression
+      designation: نسق المسح الضوئي
+      normative_status: preferred
+  _revisions:
+    current: ede64b
+    tree:
+      ede64b:
+        object:
+          id: 968
+          definition: >-
+            وضع رادار الرصد المركب"سار" بحيث يوجه شعاع الهوائي لإضاءة التغطية 
+            الأرضية من  زوايا مختلفة بالنسبة لمسار الرحلة طوال عملية الجمع
+          language_code: ara
+          notes:
+            - >-
+              توجيه الهوائي يسمح أيضا بزيادة زمن التوقف ويتيح إمكانية جمع
+              الممرات بزوايا غير موازية لاتجاه الطيران وبدقة أرضية أفضل من النمط
+              الشريطي لإنتاج الخرائط.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19130-1:2018'
+            clause: '(E), 3.77'
+            link: 'https://www.iso.org/standard/66847.html'
+          lineage_source: 'ISO/TS 19130:2010(E)'
+          lineage_source_similarity: '1'
+          date_accepted: 2010-06-15T00:00:00.000Z
+          review_date: 2018-09-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2018-09-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19130-1:2018(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO/TS 19130:2010 to ISO
+            19130-1:2018(E), 3.77. Lineage source added as ISO/TS 19130:2010(E)
+          release: '2'
+          terms:
+            - type: expression
+              designation: نسق المسح الضوئي
+              normative_status: preferred
+        parents: []
+        timeCreated: 2010-06-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+deu:
+  id: 968
+  definition: >-
+    Art der Steuerung des Radarmessstrahls zur Erde hin um unterschiedliche
+    Abtastmuster zu realisieren
+  language_code: deu
+  notes:
+    - >-
+      Steering the antenna also allows dwell time to be increased and provides
+      the ability to collect strips at angles non-parallel to the flight
+      direction and with better resolution than Stripmap mode.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19130-1:2018'
+    clause: '(E), 3.77'
+    link: 'https://www.iso.org/standard/66847.html'
+  lineage_source: 'ISO/TS 19130:2010(E)'
+  lineage_source_similarity: '1'
+  date_accepted: 2010-06-15T00:00:00.000Z
+  review_date: 2018-09-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2018-09-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19130-1:2018(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO/TS 19130:2010 to ISO
+    19130-1:2018(E), 3.77. Lineage source added as ISO/TS 19130:2010(E)
+  release: '2'
+  terms:
+    - type: expression
+      designation: 'Abtastmodus  (Syn.: Scanmodus)'
+      normative_status: preferred
+  _revisions:
+    current: 693c71
+    tree:
+      693c71:
+        object:
+          id: 968
+          definition: >-
+            Art der Steuerung des Radarmessstrahls zur Erde hin um
+            unterschiedliche Abtastmuster zu realisieren
+          language_code: deu
+          notes:
+            - >-
+              Steering the antenna also allows dwell time to be increased and
+              provides the ability to collect strips at angles non-parallel to
+              the flight direction and with better resolution than Stripmap
+              mode.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19130-1:2018'
+            clause: '(E), 3.77'
+            link: 'https://www.iso.org/standard/66847.html'
+          lineage_source: 'ISO/TS 19130:2010(E)'
+          lineage_source_similarity: '1'
+          date_accepted: 2010-06-15T00:00:00.000Z
+          review_date: 2018-09-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2018-09-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19130-1:2018(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO/TS 19130:2010 to ISO
+            19130-1:2018(E), 3.77. Lineage source added as ISO/TS 19130:2010(E)
+          release: '2'
+          terms:
+            - type: expression
+              designation: 'Abtastmodus  (Syn.: Scanmodus)'
+              normative_status: preferred
+        parents: []
+        timeCreated: 2010-06-15T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+kor:
+  id: 968
+  definition: 사진 수집 중 비행 경로에 따라 다양한 각도로 지상 관측을 위한 빛을 비추기 위해 안테나 빔을 조종하는 SAR 모드
+  language_code: kor
+  notes:
+    - >-
+      Steering the antenna also allows dwell time to be increased and provides
+      the ability to collect strips at angles non-parallel to the flight
+      direction and with better resolution than Stripmap mode.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19130-1:2018'
+    clause: '(E), 3.77'
+    link: 'https://www.iso.org/standard/66847.html'
+  lineage_source: 'ISO/TS 19130:2010(E)'
+  lineage_source_similarity: '1'
+  date_accepted: 2010-06-15T00:00:00.000Z
+  review_date: 2018-09-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2018-09-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19130-1:2018(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO/TS 19130:2010 to ISO
+    19130-1:2018(E), 3.77. Lineage source added as ISO/TS 19130:2010(E)
+  release: '2'
+  terms:
+    - type: expression
+      designation: 스캔 모드
+      normative_status: preferred
+  _revisions:
+    current: 3a514e
+    tree:
+      3a514e:
+        object:
+          id: 968
+          definition: 사진 수집 중 비행 경로에 따라 다양한 각도로 지상 관측을 위한 빛을 비추기 위해 안테나 빔을 조종하는 SAR 모드
+          language_code: kor
+          notes:
+            - >-
+              Steering the antenna also allows dwell time to be increased and
+              provides the ability to collect strips at angles non-parallel to
+              the flight direction and with better resolution than Stripmap
+              mode.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19130-1:2018'
+            clause: '(E), 3.77'
+            link: 'https://www.iso.org/standard/66847.html'
+          lineage_source: 'ISO/TS 19130:2010(E)'
+          lineage_source_similarity: '1'
+          date_accepted: 2010-06-15T00:00:00.000Z
+          review_date: 2018-09-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2018-09-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19130-1:2018(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO/TS 19130:2010 to ISO
+            19130-1:2018(E), 3.77. Lineage source added as ISO/TS 19130:2010(E)
+          release: '2'
+          terms:
+            - type: expression
+              designation: 스캔 모드
+              normative_status: preferred
+        parents: []
+        timeCreated: 2010-06-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 968
+  definition: >-
+    Режим SAR, в котором луч антенны управляется, так чтобы осветить полосу
+    земли под различными углами относительно траектории полета по всей
+    территории сбора
+  language_code: rus
+  notes:
+    - >-
+      управление антенной также позволяет увеличить время пребывания и
+      обеспечивает возможность сбора полос под углами, не параллельными
+      направлению полета и с лучшим разрешением, чем режим Stripmap.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19130-1:2018'
+    clause: '(E), 3.77'
+    link: 'https://www.iso.org/standard/66847.html'
+  lineage_source: 'ISO/TS 19130:2010(E)'
+  lineage_source_similarity: '1'
+  date_accepted: 2010-06-15T00:00:00.000Z
+  review_date: 2018-09-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2018-09-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19130-1:2018(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO/TS 19130:2010 to ISO
+    19130-1:2018(E), 3.77. Lineage source added as ISO/TS 19130:2010(E)
+  release: '2'
+  terms:
+    - type: expression
+      designation: режим сканирования
+      normative_status: preferred
+  _revisions:
+    current: 41115c
+    tree:
+      41115c:
+        object:
+          id: 968
+          definition: >-
+            Режим SAR, в котором луч антенны управляется, так чтобы осветить
+            полосу земли под различными углами относительно траектории полета по
+            всей территории сбора
+          language_code: rus
+          notes:
+            - >-
+              управление антенной также позволяет увеличить время пребывания и
+              обеспечивает возможность сбора полос под углами, не параллельными
+              направлению полета и с лучшим разрешением, чем режим Stripmap.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19130-1:2018'
+            clause: '(E), 3.77'
+            link: 'https://www.iso.org/standard/66847.html'
+          lineage_source: 'ISO/TS 19130:2010(E)'
+          lineage_source_similarity: '1'
+          date_accepted: 2010-06-15T00:00:00.000Z
+          review_date: 2018-09-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2018-09-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19130-1:2018(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO/TS 19130:2010 to ISO
+            19130-1:2018(E), 3.77. Lineage source added as ISO/TS 19130:2010(E)
+          release: '2'
+          terms:
+            - type: expression
+              designation: режим сканирования
+              normative_status: preferred
+        parents: []
+        timeCreated: 2010-06-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 968
+  definition: >-
+    modo SAR en el que se dirige el pulso de la antena emisora para irradiar una
+    franja de terreno con varios ángulos respecto a la trayectoria de vuelo
+    durante toda la captura
+  language_code: spa
+  notes:
+    - >-
+      Dirigir la antena tambien permite que el tiempo de exposición se
+      incremente y capturar pasadas con ángulos que no son paralelos a la
+      dirección de vuelo y con mejor resolución que en modo stripmap
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19130-1:2018'
+    clause: '(E), 3.77'
+    link: 'https://www.iso.org/standard/66847.html'
+  lineage_source: 'ISO/TS 19130:2010(E)'
+  lineage_source_similarity: '1'
+  date_accepted: 2010-06-15T00:00:00.000Z
+  review_date: 2018-09-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2018-09-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19130-1:2018(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO/TS 19130:2010 to ISO
+    19130-1:2018(E), 3.77. Lineage source added as ISO/TS 19130:2010(E)
+  release: '2'
+  terms:
+    - type: expression
+      designation: modo escaneo (scan mode)
+      normative_status: preferred
+  _revisions:
+    current: 9f14c1
+    tree:
+      9f14c1:
+        object:
+          id: 968
+          definition: >-
+            modo SAR en el que se dirige el pulso de la antena emisora para
+            irradiar una franja de terreno con varios ángulos respecto a la
+            trayectoria de vuelo durante toda la captura
+          language_code: spa
+          notes:
+            - >-
+              Dirigir la antena tambien permite que el tiempo de exposición se
+              incremente y capturar pasadas con ángulos que no son paralelos a
+              la dirección de vuelo y con mejor resolución que en modo stripmap
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19130-1:2018'
+            clause: '(E), 3.77'
+            link: 'https://www.iso.org/standard/66847.html'
+          lineage_source: 'ISO/TS 19130:2010(E)'
+          lineage_source_similarity: '1'
+          date_accepted: 2010-06-15T00:00:00.000Z
+          review_date: 2018-09-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2018-09-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19130-1:2018(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO/TS 19130:2010 to ISO
+            19130-1:2018(E), 3.77. Lineage source added as ISO/TS 19130:2010(E)
+          release: '2'
+          terms:
+            - type: expression
+              designation: modo escaneo (scan mode)
+              normative_status: preferred
+        parents: []
+        timeCreated: 2010-06-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

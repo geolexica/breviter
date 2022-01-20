@@ -1,0 +1,977 @@
+term: Cartesian coordinate system
+termid: 37
+eng:
+  id: 37
+  definition: >-
+    coordinate system which gives the position of points relative to n mutually
+    perpendicular axes
+  language_code: eng
+  notes:
+    - n is 2 or 3 for the purposes of this International Standard.
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19111:2007'
+    clause: '4.2'
+    link: 'https://www.iso.org/standard/41126.html'
+  lineage_source: 'ISO 19111:2003'
+  lineage_source_similarity: 1
+  date_accepted: 2003-02-15T00:00:00.000Z
+  date_amended: 2015-08-15T00:00:00.000Z
+  review_date: 2012-08-06T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2015-08-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19162:2015'
+  review_decision_notes: >-
+    The entry has been superseded. An entry with a revised definition has been
+    published in ISO 19162:2015. Revision in this strandard is required.
+  release: '-1'
+  terms:
+    - type: expression
+      designation: Cartesian coordinate system
+      normative_status: null
+  _revisions:
+    current: cd83f5
+    tree:
+      cd83f5:
+        object:
+          id: 37
+          definition: >-
+            coordinate system which gives the position of points relative to n
+            mutually perpendicular axes
+          language_code: eng
+          notes:
+            - n is 2 or 3 for the purposes of this International Standard.
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19111:2007'
+            clause: '4.2'
+            link: 'https://www.iso.org/standard/41126.html'
+          lineage_source: 'ISO 19111:2003'
+          lineage_source_similarity: 1
+          date_accepted: 2003-02-15T00:00:00.000Z
+          date_amended: 2015-08-15T00:00:00.000Z
+          review_date: 2012-08-06T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2015-08-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19162:2015'
+          review_decision_notes: >-
+            The entry has been superseded. An entry with a revised definition
+            has been published in ISO 19162:2015. Revision in this strandard is
+            required.
+          release: '-1'
+          terms:
+            - type: expression
+              designation: Cartesian coordinate system
+              normative_status: null
+        parents: []
+        timeCreated: 2003-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+ara:
+  id: 37
+  definition: >-
+    نظام إحداثيات يحدد موقع النقاط بالنسبة إلى عدد (ع) من المحاور المتعامدة على
+    بعضها البعض
+  language_code: ara
+  notes:
+    - ع) هي 2 أو 3 بالنسبة لأغراض هذا المقياس الدولي
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19111:2007'
+    clause: '4.2'
+    link: 'https://www.iso.org/standard/41126.html'
+  lineage_source: 'ISO 19111:2003'
+  lineage_source_similarity: 1
+  date_accepted: 2003-02-15T00:00:00.000Z
+  date_amended: 2015-08-15T00:00:00.000Z
+  review_date: 2012-08-06T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2015-08-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19162:2015'
+  review_decision_notes: >-
+    The entry has been superseded. An entry with a revised definition has been
+    published in ISO 19162:2015. Revision in this strandard is required.
+  release: '-1'
+  terms:
+    - type: expression
+      designation: نظام الإحداثيات الديكارتي
+      normative_status: null
+  _revisions:
+    current: cc81ce
+    tree:
+      cc81ce:
+        object:
+          id: 37
+          definition: >-
+            نظام إحداثيات يحدد موقع النقاط بالنسبة إلى عدد (ع) من المحاور
+            المتعامدة على بعضها البعض
+          language_code: ara
+          notes:
+            - ع) هي 2 أو 3 بالنسبة لأغراض هذا المقياس الدولي
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19111:2007'
+            clause: '4.2'
+            link: 'https://www.iso.org/standard/41126.html'
+          lineage_source: 'ISO 19111:2003'
+          lineage_source_similarity: 1
+          date_accepted: 2003-02-15T00:00:00.000Z
+          date_amended: 2015-08-15T00:00:00.000Z
+          review_date: 2012-08-06T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2015-08-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19162:2015'
+          review_decision_notes: >-
+            The entry has been superseded. An entry with a revised definition
+            has been published in ISO 19162:2015. Revision in this strandard is
+            required.
+          release: '-1'
+          terms:
+            - type: expression
+              designation: نظام الإحداثيات الديكارتي
+              normative_status: null
+        parents: []
+        timeCreated: 2003-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+zho:
+  id: 37
+  definition: 给出相对与n个相互垂直坐标轴的点位置的坐标系。
+  language_code: zho
+  notes:
+    - 国际标准ISO 19111中，n为1、2或3。
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19111:2007'
+    clause: '4.2'
+    link: 'https://www.iso.org/standard/41126.html'
+  lineage_source: 'ISO 19111:2003'
+  lineage_source_similarity: 1
+  date_accepted: 2003-02-15T00:00:00.000Z
+  date_amended: 2015-08-15T00:00:00.000Z
+  review_date: 2012-08-06T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2015-08-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19162:2015'
+  review_decision_notes: >-
+    The entry has been superseded. An entry with a revised definition has been
+    published in ISO 19162:2015. Revision in this strandard is required.
+  release: '-1'
+  terms:
+    - type: expression
+      designation: 笛卡尔坐标系
+      normative_status: null
+  _revisions:
+    current: 3e3b51
+    tree:
+      3e3b51:
+        object:
+          id: 37
+          definition: 给出相对与n个相互垂直坐标轴的点位置的坐标系。
+          language_code: zho
+          notes:
+            - 国际标准ISO 19111中，n为1、2或3。
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19111:2007'
+            clause: '4.2'
+            link: 'https://www.iso.org/standard/41126.html'
+          lineage_source: 'ISO 19111:2003'
+          lineage_source_similarity: 1
+          date_accepted: 2003-02-15T00:00:00.000Z
+          date_amended: 2015-08-15T00:00:00.000Z
+          review_date: 2012-08-06T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2015-08-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19162:2015'
+          review_decision_notes: >-
+            The entry has been superseded. An entry with a revised definition
+            has been published in ISO 19162:2015. Revision in this strandard is
+            required.
+          release: '-1'
+          terms:
+            - type: expression
+              designation: 笛卡尔坐标系
+              normative_status: null
+        parents: []
+        timeCreated: 2003-02-15T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+dan:
+  id: 37
+  definition: >-
+    koordinatsystem, der angiver punkters position i forhold til n akser, som er
+    vinkelret på hinanden
+  language_code: dan
+  notes:
+    - 'n er 1, 2 eller 3 i denne internationale standard.'
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19111:2007'
+    clause: '4.2'
+    link: 'https://www.iso.org/standard/41126.html'
+  lineage_source: 'ISO 19111:2003'
+  lineage_source_similarity: 1
+  date_accepted: 2003-02-15T00:00:00.000Z
+  date_amended: 2015-08-15T00:00:00.000Z
+  review_date: 2012-08-06T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2015-08-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19162:2015'
+  review_decision_notes: >-
+    The entry has been superseded. An entry with a revised definition has been
+    published in ISO 19162:2015. Revision in this strandard is required.
+  release: '-1'
+  terms:
+    - type: expression
+      designation: kartesisk koordinatsystem
+      normative_status: null
+  _revisions:
+    current: 9aca70
+    tree:
+      9aca70:
+        object:
+          id: 37
+          definition: >-
+            koordinatsystem, der angiver punkters position i forhold til n
+            akser, som er vinkelret på hinanden
+          language_code: dan
+          notes:
+            - 'n er 1, 2 eller 3 i denne internationale standard.'
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19111:2007'
+            clause: '4.2'
+            link: 'https://www.iso.org/standard/41126.html'
+          lineage_source: 'ISO 19111:2003'
+          lineage_source_similarity: 1
+          date_accepted: 2003-02-15T00:00:00.000Z
+          date_amended: 2015-08-15T00:00:00.000Z
+          review_date: 2012-08-06T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2015-08-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19162:2015'
+          review_decision_notes: >-
+            The entry has been superseded. An entry with a revised definition
+            has been published in ISO 19162:2015. Revision in this strandard is
+            required.
+          release: '-1'
+          terms:
+            - type: expression
+              designation: kartesisk koordinatsystem
+              normative_status: null
+        parents: []
+        timeCreated: 2003-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+nld:
+  id: 37
+  definition: >-
+    Coördinaat systeem wat de positie geeft van punten ten opzichte van
+    loodrecht op elkaar staande assen.
+  language_code: nld
+  notes:
+    - >-
+      n is 2 of 3 voor zover het de toepassing binnen deze Internationale Norm
+      betreft.
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19111:2007'
+    clause: '4.2'
+    link: 'https://www.iso.org/standard/41126.html'
+  lineage_source: 'ISO 19111:2003'
+  lineage_source_similarity: 1
+  date_accepted: 2003-02-15T00:00:00.000Z
+  date_amended: 2015-08-15T00:00:00.000Z
+  review_date: 2012-08-06T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2015-08-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19162:2015'
+  review_decision_notes: >-
+    The entry has been superseded. An entry with a revised definition has been
+    published in ISO 19162:2015. Revision in this strandard is required.
+  release: '-1'
+  terms:
+    - type: expression
+      designation: Cartesiaans Coördinaat Systeem
+      normative_status: null
+  _revisions:
+    current: f5c9a1
+    tree:
+      f5c9a1:
+        object:
+          id: 37
+          definition: >-
+            Coördinaat systeem wat de positie geeft van punten ten opzichte van
+            loodrecht op elkaar staande assen.
+          language_code: nld
+          notes:
+            - >-
+              n is 2 of 3 voor zover het de toepassing binnen deze
+              Internationale Norm betreft.
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19111:2007'
+            clause: '4.2'
+            link: 'https://www.iso.org/standard/41126.html'
+          lineage_source: 'ISO 19111:2003'
+          lineage_source_similarity: 1
+          date_accepted: 2003-02-15T00:00:00.000Z
+          date_amended: 2015-08-15T00:00:00.000Z
+          review_date: 2012-08-06T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2015-08-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19162:2015'
+          review_decision_notes: >-
+            The entry has been superseded. An entry with a revised definition
+            has been published in ISO 19162:2015. Revision in this strandard is
+            required.
+          release: '-1'
+          terms:
+            - type: expression
+              designation: Cartesiaans Coördinaat Systeem
+              normative_status: null
+        parents: []
+        timeCreated: 2003-02-15T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+fin:
+  id: 37
+  definition: >-
+    koordinaatisto, jossa pisteen sijainti ilmoitetaan suhteessa n:ään toisiaan
+    vastaan kohtisuorassa olevaan akseliin
+  language_code: fin
+  notes:
+    - >-
+      Tässä kansainvälisessä standardissa tarkoitetuissa tapauksissa n on 2 tai
+      3.
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19111:2007'
+    clause: '4.2'
+    link: 'https://www.iso.org/standard/41126.html'
+  lineage_source: 'ISO 19111:2003'
+  lineage_source_similarity: 1
+  date_accepted: 2003-02-15T00:00:00.000Z
+  date_amended: 2015-08-15T00:00:00.000Z
+  review_date: 2012-08-06T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2015-08-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19162:2015'
+  review_decision_notes: >-
+    The entry has been superseded. An entry with a revised definition has been
+    published in ISO 19162:2015. Revision in this strandard is required.
+  release: '-1'
+  terms:
+    - type: expression
+      designation: suorakulmainen koordinaatisto
+      normative_status: null
+    - designation: karteesinen koordinaatisto
+      type: expression
+  _revisions:
+    current: bc9af1
+    tree:
+      bc9af1:
+        object:
+          id: 37
+          definition: >-
+            koordinaatisto, jossa pisteen sijainti ilmoitetaan suhteessa n:ään
+            toisiaan vastaan kohtisuorassa olevaan akseliin
+          language_code: fin
+          notes:
+            - >-
+              Tässä kansainvälisessä standardissa tarkoitetuissa tapauksissa n
+              on 2 tai 3.
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19111:2007'
+            clause: '4.2'
+            link: 'https://www.iso.org/standard/41126.html'
+          lineage_source: 'ISO 19111:2003'
+          lineage_source_similarity: 1
+          date_accepted: 2003-02-15T00:00:00.000Z
+          date_amended: 2015-08-15T00:00:00.000Z
+          review_date: 2012-08-06T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2015-08-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19162:2015'
+          review_decision_notes: >-
+            The entry has been superseded. An entry with a revised definition
+            has been published in ISO 19162:2015. Revision in this strandard is
+            required.
+          release: '-1'
+          terms:
+            - type: expression
+              designation: suorakulmainen koordinaatisto
+              normative_status: null
+            - designation: karteesinen koordinaatisto
+              type: expression
+        parents: []
+        timeCreated: 2003-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+fra:
+  id: 37
+  definition: >-
+    système de coordonnées donnant la position des points relativement à n axes
+    perpendiculaires deux à deux
+  language_code: fra
+  notes: []
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19111:2007'
+    clause: '4.2'
+    link: 'https://www.iso.org/standard/41126.html'
+  lineage_source: 'ISO 19111:2003'
+  lineage_source_similarity: 1
+  date_accepted: 2003-02-15T00:00:00.000Z
+  date_amended: 2015-08-15T00:00:00.000Z
+  review_date: 2012-08-06T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2015-08-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19162:2015'
+  review_decision_notes: >-
+    The entry has been superseded. An entry with a revised definition has been
+    published in ISO 19162:2015. Revision in this strandard is required.
+  release: '-1'
+  terms:
+    - type: expression
+      designation: système cartésien de coordonnées
+      normative_status: null
+  _revisions:
+    current: d21ad6
+    tree:
+      d21ad6:
+        object:
+          id: 37
+          definition: >-
+            système de coordonnées donnant la position des points relativement à
+            n axes perpendiculaires deux à deux
+          language_code: fra
+          notes: []
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19111:2007'
+            clause: '4.2'
+            link: 'https://www.iso.org/standard/41126.html'
+          lineage_source: 'ISO 19111:2003'
+          lineage_source_similarity: 1
+          date_accepted: 2003-02-15T00:00:00.000Z
+          date_amended: 2015-08-15T00:00:00.000Z
+          review_date: 2012-08-06T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2015-08-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19162:2015'
+          review_decision_notes: >-
+            The entry has been superseded. An entry with a revised definition
+            has been published in ISO 19162:2015. Revision in this strandard is
+            required.
+          release: '-1'
+          terms:
+            - type: expression
+              designation: système cartésien de coordonnées
+              normative_status: null
+        parents: []
+        timeCreated: 2003-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+deu:
+  id: 37
+  definition: >-
+    Koordinatensystem, das die Punktposition in Bezug auf n zueinander
+    orthogonale Achsen angibt
+  language_code: deu
+  notes:
+    - n is 2 or 3 for the purposes of this International Standard.
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19111:2007'
+    clause: '4.2'
+    link: 'https://www.iso.org/standard/41126.html'
+  lineage_source: 'ISO 19111:2003'
+  lineage_source_similarity: 1
+  date_accepted: 2003-02-15T00:00:00.000Z
+  date_amended: 2015-08-15T00:00:00.000Z
+  review_date: 2012-08-06T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2015-08-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19162:2015'
+  review_decision_notes: >-
+    The entry has been superseded. An entry with a revised definition has been
+    published in ISO 19162:2015. Revision in this strandard is required.
+  release: '-1'
+  terms:
+    - type: expression
+      designation: kartesisches Koordinatensystem
+      normative_status: null
+  _revisions:
+    current: '574475'
+    tree:
+      '574475':
+        object:
+          id: 37
+          definition: >-
+            Koordinatensystem, das die Punktposition in Bezug auf n zueinander
+            orthogonale Achsen angibt
+          language_code: deu
+          notes:
+            - n is 2 or 3 for the purposes of this International Standard.
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19111:2007'
+            clause: '4.2'
+            link: 'https://www.iso.org/standard/41126.html'
+          lineage_source: 'ISO 19111:2003'
+          lineage_source_similarity: 1
+          date_accepted: 2003-02-15T00:00:00.000Z
+          date_amended: 2015-08-15T00:00:00.000Z
+          review_date: 2012-08-06T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2015-08-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19162:2015'
+          review_decision_notes: >-
+            The entry has been superseded. An entry with a revised definition
+            has been published in ISO 19162:2015. Revision in this strandard is
+            required.
+          release: '-1'
+          terms:
+            - type: expression
+              designation: kartesisches Koordinatensystem
+              normative_status: null
+        parents: []
+        timeCreated: 2003-02-15T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+kor:
+  id: 37
+  definition: 상호 직교하는 n개의 축을 기준으로 점의 위치를 나타내는 좌표 체계
+  language_code: kor
+  notes:
+    - '본 표준에서 n은 1, 2, 3을 나타낸다.'
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19111:2007'
+    clause: '4.2'
+    link: 'https://www.iso.org/standard/41126.html'
+  lineage_source: 'ISO 19111:2003'
+  lineage_source_similarity: 1
+  date_accepted: 2003-02-15T00:00:00.000Z
+  date_amended: 2015-08-15T00:00:00.000Z
+  review_date: 2012-08-06T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2015-08-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19162:2015'
+  review_decision_notes: >-
+    The entry has been superseded. An entry with a revised definition has been
+    published in ISO 19162:2015. Revision in this strandard is required.
+  release: '-1'
+  terms:
+    - type: expression
+      designation: 직각 좌표계
+      normative_status: null
+  _revisions:
+    current: 34cbb8
+    tree:
+      34cbb8:
+        object:
+          id: 37
+          definition: 상호 직교하는 n개의 축을 기준으로 점의 위치를 나타내는 좌표 체계
+          language_code: kor
+          notes:
+            - '본 표준에서 n은 1, 2, 3을 나타낸다.'
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19111:2007'
+            clause: '4.2'
+            link: 'https://www.iso.org/standard/41126.html'
+          lineage_source: 'ISO 19111:2003'
+          lineage_source_similarity: 1
+          date_accepted: 2003-02-15T00:00:00.000Z
+          date_amended: 2015-08-15T00:00:00.000Z
+          review_date: 2012-08-06T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2015-08-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19162:2015'
+          review_decision_notes: >-
+            The entry has been superseded. An entry with a revised definition
+            has been published in ISO 19162:2015. Revision in this strandard is
+            required.
+          release: '-1'
+          terms:
+            - type: expression
+              designation: 직각 좌표계
+              normative_status: null
+        parents: []
+        timeCreated: 2003-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+pol:
+  id: 37
+  definition: >-
+    układ współrzędnych, który podaje pozycję punktów względem n wzajemnie
+    prostopadłych osi
+  language_code: pol
+  notes:
+    - Na potrzeby tej Normy Międzynarodowej n wynosi 2 lub 3.
+  examples: []
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19111:2007'
+    clause: '4.2'
+    link: 'https://www.iso.org/standard/41126.html'
+  lineage_source: 'ISO 19111:2003'
+  lineage_source_similarity: 1
+  date_accepted: 2003-02-15T00:00:00.000Z
+  date_amended: 2015-08-15T00:00:00.000Z
+  review_date: 2012-08-06T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2015-08-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19162:2015'
+  review_decision_notes: >-
+    The entry has been superseded. An entry with a revised definition has been
+    published in ISO 19162:2015. Revision in this strandard is required.
+  release: '-1'
+  terms:
+    - type: expression
+      designation: kartezjański układ współrzędnych
+      normative_status: null
+  _revisions:
+    current: ee6ba0
+    tree:
+      ee6ba0:
+        object:
+          id: 37
+          definition: >-
+            układ współrzędnych, który podaje pozycję punktów względem n
+            wzajemnie prostopadłych osi
+          language_code: pol
+          notes:
+            - Na potrzeby tej Normy Międzynarodowej n wynosi 2 lub 3.
+          examples: []
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19111:2007'
+            clause: '4.2'
+            link: 'https://www.iso.org/standard/41126.html'
+          lineage_source: 'ISO 19111:2003'
+          lineage_source_similarity: 1
+          date_accepted: 2003-02-15T00:00:00.000Z
+          date_amended: 2015-08-15T00:00:00.000Z
+          review_date: 2012-08-06T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2015-08-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19162:2015'
+          review_decision_notes: >-
+            The entry has been superseded. An entry with a revised definition
+            has been published in ISO 19162:2015. Revision in this strandard is
+            required.
+          release: '-1'
+          terms:
+            - type: expression
+              designation: kartezjański układ współrzędnych
+              normative_status: null
+        parents: []
+        timeCreated: 2003-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 37
+  definition: >-
+    система координат, определяющая положение точек по отношению к N взаимно
+    перпендикулярным осям, исходящим из одной точки
+  language_code: rus
+  notes:
+    - 'N - 1, 2 или 3'
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19111:2007'
+    clause: '4.2'
+    link: 'https://www.iso.org/standard/41126.html'
+  lineage_source: 'ISO 19111:2003'
+  lineage_source_similarity: 1
+  date_accepted: 2003-02-15T00:00:00.000Z
+  review_date: 2013-07-25T00:00:00.000Z
+  review_status: ''
+  review_type: ''
+  release: '1'
+  terms:
+    - type: expression
+      designation: прямоугольная система координат
+      normative_status: preferred
+  _revisions:
+    current: '4016e4'
+    tree:
+      '4016e4':
+        object:
+          id: 37
+          definition: >-
+            система координат, определяющая положение точек по отношению к N
+            взаимно перпендикулярным осям, исходящим из одной точки
+          language_code: rus
+          notes:
+            - 'N - 1, 2 или 3'
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19111:2007'
+            clause: '4.2'
+            link: 'https://www.iso.org/standard/41126.html'
+          lineage_source: 'ISO 19111:2003'
+          lineage_source_similarity: 1
+          date_accepted: 2003-02-15T00:00:00.000Z
+          review_date: 2013-07-25T00:00:00.000Z
+          review_status: ''
+          review_type: ''
+          release: '1'
+          terms:
+            - type: expression
+              designation: прямоугольная система координат
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 37
+  definition: >-
+    sistema de coordenadas que da la posición de los puntos en relación a n ejes
+    mutuamente perpendiculares
+  language_code: spa
+  notes:
+    - En esta norma internacional n es 2 ó 3.
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19111:2007'
+    clause: '4.2'
+    link: 'https://www.iso.org/standard/41126.html'
+  lineage_source: 'ISO 19111:2003'
+  lineage_source_similarity: 1
+  date_accepted: 2003-02-15T00:00:00.000Z
+  date_amended: 2015-08-15T00:00:00.000Z
+  review_date: 2012-08-06T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2015-08-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19162:2015'
+  review_decision_notes: >-
+    The entry has been superseded. An entry with a revised definition has been
+    published in ISO 19162:2015. Revision in this strandard is required.
+  release: '-1'
+  terms:
+    - type: expression
+      designation: sistema de coordenadas cartesianas
+      normative_status: null
+  _revisions:
+    current: 2fe8d1
+    tree:
+      2fe8d1:
+        object:
+          id: 37
+          definition: >-
+            sistema de coordenadas que da la posición de los puntos en relación
+            a n ejes mutuamente perpendiculares
+          language_code: spa
+          notes:
+            - En esta norma internacional n es 2 ó 3.
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19111:2007'
+            clause: '4.2'
+            link: 'https://www.iso.org/standard/41126.html'
+          lineage_source: 'ISO 19111:2003'
+          lineage_source_similarity: 1
+          date_accepted: 2003-02-15T00:00:00.000Z
+          date_amended: 2015-08-15T00:00:00.000Z
+          review_date: 2012-08-06T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2015-08-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19162:2015'
+          review_decision_notes: >-
+            The entry has been superseded. An entry with a revised definition
+            has been published in ISO 19162:2015. Revision in this strandard is
+            required.
+          release: '-1'
+          terms:
+            - type: expression
+              designation: sistema de coordenadas cartesianas
+              normative_status: null
+        parents: []
+        timeCreated: 2003-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+swe:
+  id: 37
+  definition: >-
+    koordinatsystem som består av minst två axlar, vilka skär varandra under rät
+    vinkel i ett origo, och där en punkts position anges som avstånd till
+    axlarna
+  country_code: swe
+  language_code: swe
+  notes: []
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19111:2007'
+    clause: '4.2'
+    link: 'https://www.iso.org/standard/41126.html'
+  lineage_source: 'ISO 19111:2003'
+  lineage_source_similarity: 1
+  date_accepted: 2003-02-15T00:00:00.000Z
+  date_amended: 2015-08-15T00:00:00.000Z
+  review_date: 2012-08-06T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2015-08-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19162:2015'
+  review_decision_notes: >-
+    The entry has been superseded. An entry with a revised definition has been
+    published in ISO 19162:2015. Revision in this strandard is required.
+  release: '-1'
+  terms:
+    - type: expression
+      designation: kartesiskt koordinatsystem
+      normative_status: null
+  _revisions:
+    current: '683e50'
+    tree:
+      '683e50':
+        object:
+          id: 37
+          definition: >-
+            koordinatsystem som består av minst två axlar, vilka skär varandra
+            under rät vinkel i ett origo, och där en punkts position anges som
+            avstånd till axlarna
+          country_code: swe
+          language_code: swe
+          notes: []
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19111:2007'
+            clause: '4.2'
+            link: 'https://www.iso.org/standard/41126.html'
+          lineage_source: 'ISO 19111:2003'
+          lineage_source_similarity: 1
+          date_accepted: 2003-02-15T00:00:00.000Z
+          date_amended: 2015-08-15T00:00:00.000Z
+          review_date: 2012-08-06T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2015-08-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19162:2015'
+          review_decision_notes: >-
+            The entry has been superseded. An entry with a revised definition
+            has been published in ISO 19162:2015. Revision in this strandard is
+            required.
+          release: '-1'
+          terms:
+            - type: expression
+              designation: kartesiskt koordinatsystem
+              normative_status: null
+        parents: []
+        timeCreated: 2003-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

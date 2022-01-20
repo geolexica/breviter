@@ -1,0 +1,555 @@
+term: Delaunay triangulation
+termid: 129
+eng:
+  id: 129
+  definition: >-
+    network of triangles such that  the circle passing through the vertices of
+    any triangle does not contain, in its interior, the vertex of any other
+    triangle
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19123:2005'
+    link: 'https://www.iso.org/standard/40121.html'
+  date_accepted: 2005-08-15T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: Delaunay triangulation
+      normative_status: preferred
+  _revisions:
+    current: c255df
+    tree:
+      c255df:
+        object:
+          id: 129
+          definition: >-
+            network of triangles such that  the circle passing through the
+            vertices of any triangle does not contain, in its interior, the
+            vertex of any other triangle
+          language_code: eng
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19123:2005'
+            link: 'https://www.iso.org/standard/40121.html'
+          date_accepted: 2005-08-15T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: Delaunay triangulation
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-08-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+ara:
+  id: 129
+  definition: >-
+    شبكة مثلثات مرتبة بحيث أن الدائرة التي تمر عبر رؤوس أي مثلث لا تحتوي في
+    داخلها على رأس أي من المثلثات الأخرى
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19123:2005'
+    link: 'https://www.iso.org/standard/40121.html'
+  date_accepted: 2005-08-15T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: تثليث ديلوناي
+      normative_status: preferred
+  _revisions:
+    current: d1dda1
+    tree:
+      d1dda1:
+        object:
+          id: 129
+          definition: >-
+            شبكة مثلثات مرتبة بحيث أن الدائرة التي تمر عبر رؤوس أي مثلث لا تحتوي
+            في داخلها على رأس أي من المثلثات الأخرى
+          language_code: ara
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19123:2005'
+            link: 'https://www.iso.org/standard/40121.html'
+          date_accepted: 2005-08-15T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: تثليث ديلوناي
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-08-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+zho:
+  id: 129
+  definition: 任意三角形的外接圆内不含其他三角形顶点的三角网。
+  language_code: zho
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19123:2005'
+    link: 'https://www.iso.org/standard/40121.html'
+  date_accepted: 2005-08-15T00:00:00.000Z
+  terms:
+    - type: expression
+      designation: Delaunay三角网
+      normative_status: preferred
+  _revisions:
+    current: 25fb0d
+    tree:
+      25fb0d:
+        object:
+          id: 129
+          definition: 任意三角形的外接圆内不含其他三角形顶点的三角网。
+          language_code: zho
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19123:2005'
+            link: 'https://www.iso.org/standard/40121.html'
+          date_accepted: 2005-08-15T00:00:00.000Z
+          terms:
+            - type: expression
+              designation: Delaunay三角网
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-08-15T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+dan:
+  id: 129
+  definition: >-
+    netværk af trekanter dannet således, at der inden for ingen af de cirkler,
+    som går igennem trekanternes toppunkter, ligger en anden trekants toppunkt
+  language_code: dan
+  notes: []
+  examples: []
+  authoritative_source:
+    ref: 'ISO 19123:2005'
+    link: 'https://www.iso.org/standard/40121.html'
+  date_accepted: 2005-08-15T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: Delaunay-triangulation
+      normative_status: null
+  _revisions:
+    current: 95b817
+    tree:
+      95b817:
+        object:
+          id: 129
+          definition: >-
+            netværk af trekanter dannet således, at der inden for ingen af de
+            cirkler, som går igennem trekanternes toppunkter, ligger en anden
+            trekants toppunkt
+          language_code: dan
+          notes: []
+          examples: []
+          authoritative_source:
+            ref: 'ISO 19123:2005'
+            link: 'https://www.iso.org/standard/40121.html'
+          date_accepted: 2005-08-15T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: Delaunay-triangulation
+              normative_status: null
+        parents: []
+        timeCreated: 2005-08-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+fin:
+  id: 129
+  definition: >-
+    sellainen kolmioiden verkosto, jossa minkä hyvänsä kolmion kärkien kautta
+    kulkeva ympyrä ei pidä sisällään minkään muun kolmion kärkeä
+  language_code: fin
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19123:2005'
+    link: 'https://www.iso.org/standard/40121.html'
+  lineage_source: Internet
+  date_accepted: 2005-08-15T00:00:00.000Z
+  terms:
+    - type: expression
+      designation: Delaunayn kolmiointi
+      normative_status: preferred
+  _revisions:
+    current: 7060d7
+    tree:
+      7060d7:
+        object:
+          id: 129
+          definition: >-
+            sellainen kolmioiden verkosto, jossa minkä hyvänsä kolmion kärkien
+            kautta kulkeva ympyrä ei pidä sisällään minkään muun kolmion kärkeä
+          language_code: fin
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19123:2005'
+            link: 'https://www.iso.org/standard/40121.html'
+          lineage_source: Internet
+          date_accepted: 2005-08-15T00:00:00.000Z
+          terms:
+            - type: expression
+              designation: Delaunayn kolmiointi
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-08-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+fra:
+  id: 129
+  definition: >-
+    réseau de triangles tel que le cercle passant par les sommets de n'importe
+    quel triangle ne contient pas, dans son intérieur, le sommet d'un autre
+    triangle
+  language_code: fra
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: ISO 19123
+    link: 'https://www.iso.org/standard/40121.html'
+  lineage_source: ''
+  date_accepted: 2005-08-15T00:00:00.000Z
+  terms:
+    - type: expression
+      designation: triangulation de Delaunay
+      normative_status: preferred
+  _revisions:
+    current: fd7e3d
+    tree:
+      fd7e3d:
+        object:
+          id: 129
+          definition: >-
+            réseau de triangles tel que le cercle passant par les sommets de
+            n'importe quel triangle ne contient pas, dans son intérieur, le
+            sommet d'un autre triangle
+          language_code: fra
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: ISO 19123
+            link: 'https://www.iso.org/standard/40121.html'
+          lineage_source: ''
+          date_accepted: 2005-08-15T00:00:00.000Z
+          terms:
+            - type: expression
+              designation: triangulation de Delaunay
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-08-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+deu:
+  id: 129
+  language_code: deu
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19123:2005'
+    link: 'https://www.iso.org/standard/40121.html'
+  date_accepted: 2005-08-15T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: Delaunay Triangulation
+      normative_status: preferred
+  _revisions:
+    current: 0b6b85
+    tree:
+      0b6b85:
+        object:
+          id: 129
+          language_code: deu
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19123:2005'
+            link: 'https://www.iso.org/standard/40121.html'
+          date_accepted: 2005-08-15T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: Delaunay Triangulation
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-08-15T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+kor:
+  id: 129
+  definition: 삼각형을 구성하는 세 개의 정점을 지나는 원의 내부에 다른 삼각형의 어느 정점도 포함하지 않는 삼각망
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19123:2005'
+    link: 'https://www.iso.org/standard/40121.html'
+  lineage_source: KS X ISO 19123
+  date_accepted: 2007-11-01T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: 델로니 삼각 분할
+      normative_status: preferred
+  _revisions:
+    current: 48fecb
+    tree:
+      48fecb:
+        object:
+          id: 129
+          definition: 삼각형을 구성하는 세 개의 정점을 지나는 원의 내부에 다른 삼각형의 어느 정점도 포함하지 않는 삼각망
+          language_code: kor
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19123:2005'
+            link: 'https://www.iso.org/standard/40121.html'
+          lineage_source: KS X ISO 19123
+          date_accepted: 2007-11-01T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: 델로니 삼각 분할
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-11-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+pol:
+  id: 129
+  definition: >-
+    taka siatka trójkątów, dla której okrąg przechodzący przez wierzchołki
+    dowolnego trójkąta nie zawiera w swoim wnętrzu wierzchołka żadnego innego
+    trójkąta
+  language_code: pol
+  notes: []
+  examples: []
+  authoritative_source:
+    ref: 'ISO 19123:2005'
+    link: 'https://www.iso.org/standard/40121.html'
+  lineage_source: PN-EN ISO 19123
+  date_accepted: 2005-08-15T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: triangulacja Delaunaya
+      normative_status: preferred
+  _revisions:
+    current: ecc898
+    tree:
+      ecc898:
+        object:
+          id: 129
+          definition: >-
+            taka siatka trójkątów, dla której okrąg przechodzący przez
+            wierzchołki dowolnego trójkąta nie zawiera w swoim wnętrzu
+            wierzchołka żadnego innego trójkąta
+          language_code: pol
+          notes: []
+          examples: []
+          authoritative_source:
+            ref: 'ISO 19123:2005'
+            link: 'https://www.iso.org/standard/40121.html'
+          lineage_source: PN-EN ISO 19123
+          date_accepted: 2005-08-15T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: triangulacja Delaunaya
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-08-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 129
+  definition: >-
+    сеть треугольников, в пределах которой внутри окружности, описанной вокруг
+    любого треугольника, нет вершин другого треугольника
+  language_code: rus
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19123:2005'
+    link: 'https://www.iso.org/standard/40121.html'
+  lineage_source: Internet
+  date_accepted: 2005-08-15T00:00:00.000Z
+  terms:
+    - type: expression
+      designation: триангуляция Делоне
+      normative_status: preferred
+  _revisions:
+    current: '932122'
+    tree:
+      '932122':
+        object:
+          id: 129
+          definition: >-
+            сеть треугольников, в пределах которой внутри окружности, описанной
+            вокруг любого треугольника, нет вершин другого треугольника
+          language_code: rus
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19123:2005'
+            link: 'https://www.iso.org/standard/40121.html'
+          lineage_source: Internet
+          date_accepted: 2005-08-15T00:00:00.000Z
+          terms:
+            - type: expression
+              designation: триангуляция Делоне
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-08-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 129
+  definition: >-
+    red de triángulos tal que el círculo que pasa a través de los vértices de
+    cualquier triángulo no contiene, en su interior, el vértice de ningún otro
+    triángulo
+  language_code: spa
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19123:2005'
+    link: 'https://www.iso.org/standard/40121.html'
+  date_accepted: 2005-08-15T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: triangulación de Delaunay
+      normative_status: preferred
+  _revisions:
+    current: a13049
+    tree:
+      a13049:
+        object:
+          id: 129
+          definition: >-
+            red de triángulos tal que el círculo que pasa a través de los
+            vértices de cualquier triángulo no contiene, en su interior, el
+            vértice de ningún otro triángulo
+          language_code: spa
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19123:2005'
+            link: 'https://www.iso.org/standard/40121.html'
+          date_accepted: 2005-08-15T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: triangulación de Delaunay
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-08-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+swe:
+  id: 129
+  definition: >-
+    nät av trianglar där varje triangel är ur utformad så att en cirkel som
+    omskriver triangeln endast innehåller den egna triangelns hörn
+  country_code: swe
+  language_code: swe
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19123:2005'
+    link: 'https://www.iso.org/standard/40121.html'
+  lineage_source: (Type reference to national language document)
+  date_accepted: 2005-08-15T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: Delaunay-triangelnät
+      normative_status: preferred
+  _revisions:
+    current: 4f7433
+    tree:
+      4f7433:
+        object:
+          id: 129
+          definition: >-
+            nät av trianglar där varje triangel är ur utformad så att en cirkel
+            som omskriver triangeln endast innehåller den egna triangelns hörn
+          country_code: swe
+          language_code: swe
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19123:2005'
+            link: 'https://www.iso.org/standard/40121.html'
+          lineage_source: (Type reference to national language document)
+          date_accepted: 2005-08-15T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: Delaunay-triangelnät
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-08-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

@@ -1,0 +1,524 @@
+term: temporal reference system
+termid: 450
+eng:
+  id: 450
+  definition: reference system against which time is measured
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19108:2002'
+    link: 'https://www.iso.org/standard/26013.html'
+  date_accepted: 2002-09-01T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: temporal reference system
+      normative_status: preferred
+  _revisions:
+    current: 76fc10
+    tree:
+      76fc10:
+        object:
+          id: 450
+          definition: reference system against which time is measured
+          language_code: eng
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19108:2002'
+            link: 'https://www.iso.org/standard/26013.html'
+          date_accepted: 2002-09-01T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: temporal reference system
+              normative_status: preferred
+        parents: []
+        timeCreated: 2002-09-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+ara:
+  id: 450
+  definition: نظام مرجعي يقاس الزمن على أساسه
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19108:2002'
+    link: 'https://www.iso.org/standard/26013.html'
+  date_accepted: 2002-09-01T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: نظام مرجعي زمني
+      normative_status: preferred
+  _revisions:
+    current: 24d692
+    tree:
+      24d692:
+        object:
+          id: 450
+          definition: نظام مرجعي يقاس الزمن على أساسه
+          language_code: ara
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19108:2002'
+            link: 'https://www.iso.org/standard/26013.html'
+          date_accepted: 2002-09-01T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: نظام مرجعي زمني
+              normative_status: preferred
+        parents: []
+        timeCreated: 2002-09-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+zho:
+  id: 450
+  definition: 度量时间的参照系。
+  language_code: zho
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19108:2002'
+    link: 'https://www.iso.org/standard/26013.html'
+  date_accepted: 2002-09-01T00:00:00.000Z
+  terms:
+    - type: expression
+      designation: 时间参照系
+      normative_status: preferred
+  _revisions:
+    current: '337861'
+    tree:
+      '337861':
+        object:
+          id: 450
+          definition: 度量时间的参照系。
+          language_code: zho
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19108:2002'
+            link: 'https://www.iso.org/standard/26013.html'
+          date_accepted: 2002-09-01T00:00:00.000Z
+          terms:
+            - type: expression
+              designation: 时间参照系
+              normative_status: preferred
+        parents: []
+        timeCreated: 2002-09-01T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+fin:
+  id: 450
+  definition: 'vertausjärjestelmä, jonka suhteen aikaa mitataan'
+  language_code: fin
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19108:2002'
+    link: 'https://www.iso.org/standard/26013.html'
+  lineage_source: Maanmittauslaitos
+  date_accepted: 2002-09-01T00:00:00.000Z
+  terms:
+    - type: expression
+      designation: ajan vertausjärjestelmä
+      normative_status: preferred
+  _revisions:
+    current: b68406
+    tree:
+      b68406:
+        object:
+          id: 450
+          definition: 'vertausjärjestelmä, jonka suhteen aikaa mitataan'
+          language_code: fin
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19108:2002'
+            link: 'https://www.iso.org/standard/26013.html'
+          lineage_source: Maanmittauslaitos
+          date_accepted: 2002-09-01T00:00:00.000Z
+          terms:
+            - type: expression
+              designation: ajan vertausjärjestelmä
+              normative_status: preferred
+        parents: []
+        timeCreated: 2002-09-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+fra:
+  id: 450
+  definition: référentiel vis-à-vis duquel le temps est mesuré
+  language_code: fra
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: ISO 19108
+    link: 'https://www.iso.org/standard/26013.html'
+  lineage_source: ''
+  date_accepted: 2002-09-01T00:00:00.000Z
+  terms:
+    - type: expression
+      designation: système de référence temporel
+      normative_status: preferred
+  _revisions:
+    current: 6df404
+    tree:
+      6df404:
+        object:
+          id: 450
+          definition: référentiel vis-à-vis duquel le temps est mesuré
+          language_code: fra
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: ISO 19108
+            link: 'https://www.iso.org/standard/26013.html'
+          lineage_source: ''
+          date_accepted: 2002-09-01T00:00:00.000Z
+          terms:
+            - type: expression
+              designation: système de référence temporel
+              normative_status: preferred
+        parents: []
+        timeCreated: 2002-09-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+deu:
+  id: 450
+  definition: 'Bezugssystem, dem die Zeit zugrunde liegt'
+  language_code: deu
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19108:2002'
+    link: 'https://www.iso.org/standard/26013.html'
+  date_accepted: 2002-09-01T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: zeitbezogenes Bezugssystem
+      normative_status: preferred
+  _revisions:
+    current: e3d290
+    tree:
+      e3d290:
+        object:
+          id: 450
+          definition: 'Bezugssystem, dem die Zeit zugrunde liegt'
+          language_code: deu
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19108:2002'
+            link: 'https://www.iso.org/standard/26013.html'
+          date_accepted: 2002-09-01T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: zeitbezogenes Bezugssystem
+              normative_status: preferred
+        parents: []
+        timeCreated: 2002-09-01T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+jpn:
+  id: 450
+  definition: 時間の測定に対応する参照系。
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19108:2002'
+    link: 'https://www.iso.org/standard/26013.html'
+  lineage_source: JIS X 7108
+  date_accepted: 2002-09-01T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: 時間参照系
+      normative_status: preferred
+  _revisions:
+    current: 5ca8ac
+    tree:
+      5ca8ac:
+        object:
+          id: 450
+          definition: 時間の測定に対応する参照系。
+          language_code: jpn
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19108:2002'
+            link: 'https://www.iso.org/standard/26013.html'
+          lineage_source: JIS X 7108
+          date_accepted: 2002-09-01T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: 時間参照系
+              normative_status: preferred
+        parents: []
+        timeCreated: 2002-09-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+kor:
+  id: 450
+  definition: 시간의 측정을 위한 참조 체계
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19108:2002'
+    link: 'https://www.iso.org/standard/26013.html'
+  lineage_source: KS X ISO 19108
+  date_accepted: 2007-11-01T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: 시간 참조 체계
+      normative_status: preferred
+  _revisions:
+    current: 0bd58d
+    tree:
+      0bd58d:
+        object:
+          id: 450
+          definition: 시간의 측정을 위한 참조 체계
+          language_code: kor
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19108:2002'
+            link: 'https://www.iso.org/standard/26013.html'
+          lineage_source: KS X ISO 19108
+          date_accepted: 2007-11-01T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: 시간 참조 체계
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-11-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+pol:
+  id: 450
+  definition: 'system odniesienia, w którym mierzony jest czas [ISO 19108]'
+  language_code: pol
+  notes: []
+  examples: []
+  authoritative_source:
+    ref: 'ISO 19108:2002'
+    link: 'https://www.iso.org/standard/26013.html'
+  lineage_source: PN-EN-ISO 19108
+  date_accepted: 2002-09-01T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: czasowy system odniesienia
+      normative_status: preferred
+  _revisions:
+    current: 88c8e4
+    tree:
+      88c8e4:
+        object:
+          id: 450
+          definition: 'system odniesienia, w którym mierzony jest czas [ISO 19108]'
+          language_code: pol
+          notes: []
+          examples: []
+          authoritative_source:
+            ref: 'ISO 19108:2002'
+            link: 'https://www.iso.org/standard/26013.html'
+          lineage_source: PN-EN-ISO 19108
+          date_accepted: 2002-09-01T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: czasowy system odniesienia
+              normative_status: preferred
+        parents: []
+        timeCreated: 2002-09-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 450
+  definition: 'система, в которой измеряется время'
+  language_code: rus
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19108:2002'
+    link: 'https://www.iso.org/standard/26013.html'
+  lineage_source: Internet
+  date_accepted: 2002-09-01T00:00:00.000Z
+  terms:
+    - type: expression
+      designation: система отсчета времени
+      normative_status: preferred
+  _revisions:
+    current: c4c3ed
+    tree:
+      c4c3ed:
+        object:
+          id: 450
+          definition: 'система, в которой измеряется время'
+          language_code: rus
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19108:2002'
+            link: 'https://www.iso.org/standard/26013.html'
+          lineage_source: Internet
+          date_accepted: 2002-09-01T00:00:00.000Z
+          terms:
+            - type: expression
+              designation: система отсчета времени
+              normative_status: preferred
+        parents: []
+        timeCreated: 2002-09-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 450
+  definition: sistema de referencia con el que se mide el tiempo
+  language_code: spa
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19108:2002'
+    link: 'https://www.iso.org/standard/26013.html'
+  date_accepted: 2002-09-01T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: sistema de referencia temporal
+      normative_status: preferred
+  _revisions:
+    current: 1ac156
+    tree:
+      1ac156:
+        object:
+          id: 450
+          definition: sistema de referencia con el que se mide el tiempo
+          language_code: spa
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19108:2002'
+            link: 'https://www.iso.org/standard/26013.html'
+          date_accepted: 2002-09-01T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: sistema de referencia temporal
+              normative_status: preferred
+        parents: []
+        timeCreated: 2002-09-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+swe:
+  id: 450
+  definition: referenssystem mot vilket tid kan mätas
+  country_code: swe
+  language_code: swe
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19108:2002'
+    link: 'https://www.iso.org/standard/26013.html'
+  lineage_source: (Type reference to national language document)
+  date_accepted: 2002-09-01T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: |-
+        tidsreferenssystem
+
+        temporalt referenssystem
+      normative_status: preferred
+  _revisions:
+    current: eaf182
+    tree:
+      eaf182:
+        object:
+          id: 450
+          definition: referenssystem mot vilket tid kan mätas
+          country_code: swe
+          language_code: swe
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19108:2002'
+            link: 'https://www.iso.org/standard/26013.html'
+          lineage_source: (Type reference to national language document)
+          date_accepted: 2002-09-01T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: |-
+                tidsreferenssystem
+
+                temporalt referenssystem
+              normative_status: preferred
+        parents: []
+        timeCreated: 2002-09-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

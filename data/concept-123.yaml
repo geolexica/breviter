@@ -1,0 +1,852 @@
+term: data type
+termid: 123
+eng:
+  id: 123
+  definition: >-
+    specification of a value domain with operations allowed on values in this
+    domain
+  language_code: eng
+  notes:
+    - Data types include primitive predefined types and user-definable types.
+  examples:
+    - >-
+      Integer, Real, Boolean, String, Date and SG Point (conversion of data into
+      a series of codes).
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19103:2015'
+    clause: '4.14'
+    link: 'https://www.iso.org/standard/56734.html'
+  lineage_source: 'ISO/TS 19103:2005, 4.1.5'
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2009-01-14T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2015-12-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19103:2015'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO/TS 19103:2005 to ISO 19103:2015,
+    4.14. Lineage source added as ISO/TS 19103:2005, 4.1.5
+  release: '1'
+  terms:
+    - type: expression
+      designation: data type
+      normative_status: preferred
+  _revisions:
+    current: e55cc9
+    tree:
+      e55cc9:
+        object:
+          id: 123
+          definition: >-
+            specification of a value domain with operations allowed on values in
+            this domain
+          language_code: eng
+          notes:
+            - >-
+              Data types include primitive predefined types and user-definable
+              types.
+          examples:
+            - >-
+              Integer, Real, Boolean, String, Date and SG Point (conversion of
+              data into a series of codes).
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19103:2015'
+            clause: '4.14'
+            link: 'https://www.iso.org/standard/56734.html'
+          lineage_source: 'ISO/TS 19103:2005, 4.1.5'
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2009-01-14T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2015-12-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19103:2015'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO/TS 19103:2005 to ISO
+            19103:2015, 4.14. Lineage source added as ISO/TS 19103:2005, 4.1.5
+          release: '1'
+          terms:
+            - type: expression
+              designation: data type
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+ara:
+  id: 123
+  definition: >-
+    مواصفات نطاق قيمة محدد مع العمليات المسموح بإجرائها على القيم في حدود هذا
+    النطاق
+  language_code: ara
+  notes:
+    - >-
+      أنواع البيانات تشمل الأنواع الأولية المحددة مسبقاً والأنواع التي يحددها
+      المستخدمون.
+  examples:
+    - >-
+      عدد صحيح , عدد حقيقي , عدد جبري , سلسلة , تاريخ , ونقطة SG (تحويل البيانات
+      إلى سلسلة من الرموز).
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19103:2015'
+    clause: '4.14'
+    link: 'https://www.iso.org/standard/56734.html'
+  lineage_source: 'ISO/TS 19103:2005, 4.1.5'
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2009-01-14T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2015-12-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19103:2015'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO/TS 19103:2005 to ISO 19103:2015,
+    4.14. Lineage source added as ISO/TS 19103:2005, 4.1.5
+  release: '1'
+  terms:
+    - type: expression
+      designation: نوع البيانات
+      normative_status: preferred
+  _revisions:
+    current: 5c52a1
+    tree:
+      5c52a1:
+        object:
+          id: 123
+          definition: >-
+            مواصفات نطاق قيمة محدد مع العمليات المسموح بإجرائها على القيم في
+            حدود هذا النطاق
+          language_code: ara
+          notes:
+            - >-
+              أنواع البيانات تشمل الأنواع الأولية المحددة مسبقاً والأنواع التي
+              يحددها المستخدمون.
+          examples:
+            - >-
+              عدد صحيح , عدد حقيقي , عدد جبري , سلسلة , تاريخ , ونقطة SG (تحويل
+              البيانات إلى سلسلة من الرموز).
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19103:2015'
+            clause: '4.14'
+            link: 'https://www.iso.org/standard/56734.html'
+          lineage_source: 'ISO/TS 19103:2005, 4.1.5'
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2009-01-14T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2015-12-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19103:2015'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO/TS 19103:2005 to ISO
+            19103:2015, 4.14. Lineage source added as ISO/TS 19103:2005, 4.1.5
+          release: '1'
+          terms:
+            - type: expression
+              designation: نوع البيانات
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+zho:
+  id: 123
+  definition: 允许在值域内对值进行操作的值域的说明。
+  language_code: zho
+  notes:
+    - 数据类型包括基本预定义类型和用户定义类型。
+  examples:
+    - 整型、实型、布尔型、字符串、日期型和SG点（将数据转换成系列编码）。
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19103:2015'
+    clause: '4.14'
+    link: 'https://www.iso.org/standard/56734.html'
+  lineage_source: 'ISO/TS 19103:2005, 4.1.5'
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2009-01-14T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2015-12-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19103:2015'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO/TS 19103:2005 to ISO 19103:2015,
+    4.14. Lineage source added as ISO/TS 19103:2005, 4.1.5
+  release: '1'
+  terms:
+    - type: expression
+      designation: 数据类型
+      normative_status: preferred
+  _revisions:
+    current: 5b4b91
+    tree:
+      5b4b91:
+        object:
+          id: 123
+          definition: 允许在值域内对值进行操作的值域的说明。
+          language_code: zho
+          notes:
+            - 数据类型包括基本预定义类型和用户定义类型。
+          examples:
+            - 整型、实型、布尔型、字符串、日期型和SG点（将数据转换成系列编码）。
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19103:2015'
+            clause: '4.14'
+            link: 'https://www.iso.org/standard/56734.html'
+          lineage_source: 'ISO/TS 19103:2005, 4.1.5'
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2009-01-14T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2015-12-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19103:2015'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO/TS 19103:2005 to ISO
+            19103:2015, 4.14. Lineage source added as ISO/TS 19103:2005, 4.1.5
+          release: '1'
+          terms:
+            - type: expression
+              designation: 数据类型
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+dan:
+  id: 123
+  definition: >-
+    specifikation af et værdidomæne inkl. de tilladte operationer på værdier
+    deri
+  language_code: dan
+  notes:
+    - >-
+      Datatyper omfatter prædefinerede typer (såkaldte primitive grundtyper) og
+      brugerdefinerede typer.
+  examples:
+    - >-
+      Integer, Real, Boolean, String, Date og SG-punkt (konvertering af data til
+      en række koder).
+  authoritative_source:
+    ref: 'ISO 19103:2015'
+    clause: '4.14'
+    link: 'https://www.iso.org/standard/56734.html'
+  lineage_source: 'ISO/TS 19103:2005, 4.1.5'
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2009-01-14T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2015-12-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19103:2015'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO/TS 19103:2005 to ISO 19103:2015,
+    4.14. Lineage source added as ISO/TS 19103:2005, 4.1.5
+  release: '1'
+  terms:
+    - type: expression
+      designation: datatype
+      normative_status: null
+  _revisions:
+    current: ed1a32
+    tree:
+      ed1a32:
+        object:
+          id: 123
+          definition: >-
+            specifikation af et værdidomæne inkl. de tilladte operationer på
+            værdier deri
+          language_code: dan
+          notes:
+            - >-
+              Datatyper omfatter prædefinerede typer (såkaldte primitive
+              grundtyper) og brugerdefinerede typer.
+          examples:
+            - >-
+              Integer, Real, Boolean, String, Date og SG-punkt (konvertering af
+              data til en række koder).
+          authoritative_source:
+            ref: 'ISO 19103:2015'
+            clause: '4.14'
+            link: 'https://www.iso.org/standard/56734.html'
+          lineage_source: 'ISO/TS 19103:2005, 4.1.5'
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2009-01-14T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2015-12-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19103:2015'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO/TS 19103:2005 to ISO
+            19103:2015, 4.14. Lineage source added as ISO/TS 19103:2005, 4.1.5
+          release: '1'
+          terms:
+            - type: expression
+              designation: datatype
+              normative_status: null
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+fin:
+  id: 123
+  definition: tietoyksiköiden tai -rakenteiden ja niihin liittyvien toimintojen määrittely
+  language_code: fin
+  notes:
+    - >-
+      On olemassa etukäteen määritettyjä perustietotyyppejä sekä käyttäjän
+      määritettävissä olevia tietotyyppejä.
+  examples:
+    - >-
+      Kokonaisluku, reaaliluku, totuusarvo, merkkijono, päivämäärä ja GM_Point
+      (tieto useina osina).
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19103:2015'
+    clause: '4.14'
+    link: 'https://www.iso.org/standard/56734.html'
+  lineage_source: 'ISO/TS 19103:2005, 4.1.5'
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2009-01-14T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2015-12-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19103:2015'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO/TS 19103:2005 to ISO 19103:2015,
+    4.14. Lineage source added as ISO/TS 19103:2005, 4.1.5
+  release: '1'
+  terms:
+    - type: expression
+      designation: tietotyyppi
+      normative_status: preferred
+  _revisions:
+    current: 04cab2
+    tree:
+      04cab2:
+        object:
+          id: 123
+          definition: >-
+            tietoyksiköiden tai -rakenteiden ja niihin liittyvien toimintojen
+            määrittely
+          language_code: fin
+          notes:
+            - >-
+              On olemassa etukäteen määritettyjä perustietotyyppejä sekä
+              käyttäjän määritettävissä olevia tietotyyppejä.
+          examples:
+            - >-
+              Kokonaisluku, reaaliluku, totuusarvo, merkkijono, päivämäärä ja
+              GM_Point (tieto useina osina).
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19103:2015'
+            clause: '4.14'
+            link: 'https://www.iso.org/standard/56734.html'
+          lineage_source: 'ISO/TS 19103:2005, 4.1.5'
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2009-01-14T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2015-12-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19103:2015'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO/TS 19103:2005 to ISO
+            19103:2015, 4.14. Lineage source added as ISO/TS 19103:2005, 4.1.5
+          release: '1'
+          terms:
+            - type: expression
+              designation: tietotyyppi
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+fra:
+  id: 123
+  definition: >-
+    spécification d’un domaine de valeurs et d’opérations autorisées sur les
+    valeurs de ce domaine
+  language_code: fra
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19103:2015'
+    clause: '4.14'
+    link: 'https://www.iso.org/standard/56734.html'
+  lineage_source: 'ISO/TS 19103:2005, 4.1.5'
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2009-01-14T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2015-12-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19103:2015'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO/TS 19103:2005 to ISO 19103:2015,
+    4.14. Lineage source added as ISO/TS 19103:2005, 4.1.5
+  release: '1'
+  terms:
+    - type: expression
+      designation: type de donnée
+      normative_status: preferred
+  _revisions:
+    current: c3ac2e
+    tree:
+      c3ac2e:
+        object:
+          id: 123
+          definition: >-
+            spécification d’un domaine de valeurs et d’opérations autorisées sur
+            les valeurs de ce domaine
+          language_code: fra
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19103:2015'
+            clause: '4.14'
+            link: 'https://www.iso.org/standard/56734.html'
+          lineage_source: 'ISO/TS 19103:2005, 4.1.5'
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2009-01-14T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2015-12-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19103:2015'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO/TS 19103:2005 to ISO
+            19103:2015, 4.14. Lineage source added as ISO/TS 19103:2005, 4.1.5
+          release: '1'
+          terms:
+            - type: expression
+              designation: type de donnée
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+deu:
+  id: 123
+  definition: >-
+    Festlegung eines Wertebereichs mit Operationen, die für Werte in diesem
+    Bereich zulässig sind
+  language_code: deu
+  notes:
+    - Data types include primitive predefined types and user-definable types.
+  examples:
+    - >-
+      Integer, Real, Boolean, String, Date and SG Point (conversion of data into
+      a series of codes).
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19103:2015'
+    clause: '4.14'
+    link: 'https://www.iso.org/standard/56734.html'
+  lineage_source: 'ISO/TS 19103:2005, 4.1.5'
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2009-01-14T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2015-12-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19103:2015'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO/TS 19103:2005 to ISO 19103:2015,
+    4.14. Lineage source added as ISO/TS 19103:2005, 4.1.5
+  release: '1'
+  terms:
+    - type: expression
+      designation: Datentyp
+      normative_status: preferred
+  _revisions:
+    current: '862e15'
+    tree:
+      '862e15':
+        object:
+          id: 123
+          definition: >-
+            Festlegung eines Wertebereichs mit Operationen, die für Werte in
+            diesem Bereich zulässig sind
+          language_code: deu
+          notes:
+            - >-
+              Data types include primitive predefined types and user-definable
+              types.
+          examples:
+            - >-
+              Integer, Real, Boolean, String, Date and SG Point (conversion of
+              data into a series of codes).
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19103:2015'
+            clause: '4.14'
+            link: 'https://www.iso.org/standard/56734.html'
+          lineage_source: 'ISO/TS 19103:2005, 4.1.5'
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2009-01-14T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2015-12-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19103:2015'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO/TS 19103:2005 to ISO
+            19103:2015, 4.14. Lineage source added as ISO/TS 19103:2005, 4.1.5
+          release: '1'
+          terms:
+            - type: expression
+              designation: Datentyp
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+kor:
+  id: 123
+  definition: 영역 내의 값을 바탕으로 연산을 통해 나올 수 있는 허용된 값 영역의 사양
+  language_code: kor
+  notes:
+    - 데이터 유형은 미리 정의된 유형과 사용자 정의 유형을 포함한다.
+  examples:
+    - '정수, 실수, 부린, 문자열, 날짜, SG point(데이터를 코드로 전환하는 것)'
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19103:2015'
+    clause: '4.14'
+    link: 'https://www.iso.org/standard/56734.html'
+  lineage_source: 'ISO/TS 19103:2005, 4.1.5'
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2009-01-14T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2015-12-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19103:2015'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO/TS 19103:2005 to ISO 19103:2015,
+    4.14. Lineage source added as ISO/TS 19103:2005, 4.1.5
+  release: '1'
+  terms:
+    - type: expression
+      designation: 데이터 유형
+      normative_status: preferred
+  _revisions:
+    current: b799af
+    tree:
+      b799af:
+        object:
+          id: 123
+          definition: 영역 내의 값을 바탕으로 연산을 통해 나올 수 있는 허용된 값 영역의 사양
+          language_code: kor
+          notes:
+            - 데이터 유형은 미리 정의된 유형과 사용자 정의 유형을 포함한다.
+          examples:
+            - '정수, 실수, 부린, 문자열, 날짜, SG point(데이터를 코드로 전환하는 것)'
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19103:2015'
+            clause: '4.14'
+            link: 'https://www.iso.org/standard/56734.html'
+          lineage_source: 'ISO/TS 19103:2005, 4.1.5'
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2009-01-14T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2015-12-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19103:2015'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO/TS 19103:2005 to ISO
+            19103:2015, 4.14. Lineage source added as ISO/TS 19103:2005, 4.1.5
+          release: '1'
+          terms:
+            - type: expression
+              designation: 데이터 유형
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+pol:
+  id: 123
+  definition: >-
+    określenie dziedziny wartości dopuszczalnych i operacji dozwolonych na
+    wartościach z tej dziedziny [ISO 19103]
+  language_code: pol
+  notes:
+    - Typ danych jest identyfikowany poprzez wyrażenie np. Integer
+  examples:
+    - 'Integer, Real, Boolean, String, Date, SG_Point'
+  authoritative_source:
+    ref: 'ISO 19103:2015'
+    clause: '4.14'
+    link: 'https://www.iso.org/standard/56734.html'
+  lineage_source: 'ISO/TS 19103:2005, 4.1.5'
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2009-01-14T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2015-12-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19103:2015'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO/TS 19103:2005 to ISO 19103:2015,
+    4.14. Lineage source added as ISO/TS 19103:2005, 4.1.5
+  release: '1'
+  terms:
+    - type: expression
+      designation: typ danych
+      normative_status: preferred
+  _revisions:
+    current: 99aa33
+    tree:
+      99aa33:
+        object:
+          id: 123
+          definition: >-
+            określenie dziedziny wartości dopuszczalnych i operacji dozwolonych
+            na wartościach z tej dziedziny [ISO 19103]
+          language_code: pol
+          notes:
+            - Typ danych jest identyfikowany poprzez wyrażenie np. Integer
+          examples:
+            - 'Integer, Real, Boolean, String, Date, SG_Point'
+          authoritative_source:
+            ref: 'ISO 19103:2015'
+            clause: '4.14'
+            link: 'https://www.iso.org/standard/56734.html'
+          lineage_source: 'ISO/TS 19103:2005, 4.1.5'
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2009-01-14T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2015-12-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19103:2015'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO/TS 19103:2005 to ISO
+            19103:2015, 4.14. Lineage source added as ISO/TS 19103:2005, 4.1.5
+          release: '1'
+          terms:
+            - type: expression
+              designation: typ danych
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 123
+  definition: >-
+    комплекс характеристик, наличие которых у группы данных позволяет выделить
+    ее из множества других данных
+  language_code: rus
+  notes:
+    - >-
+      Типы данных включают первичные предопределенные типы и типы, определяемые
+      пользователем
+  examples:
+    - >-
+      Integer, Real, Boolean, String, Date и SG Point (перевычисление данных в
+      наборы кодов)
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO/TS 19103:2005'
+    link: 'https://www.iso.org/standard/37800.html'
+  lineage_source: ГОСТ Р 52573-2006
+  date_accepted: 2003-05-01T00:00:00.000Z
+  terms:
+    - type: expression
+      designation: тип данных
+      normative_status: preferred
+  _revisions:
+    current: bb9649
+    tree:
+      bb9649:
+        object:
+          id: 123
+          definition: >-
+            комплекс характеристик, наличие которых у группы данных позволяет
+            выделить ее из множества других данных
+          language_code: rus
+          notes:
+            - >-
+              Типы данных включают первичные предопределенные типы и типы,
+              определяемые пользователем
+          examples:
+            - >-
+              Integer, Real, Boolean, String, Date и SG Point (перевычисление
+              данных в наборы кодов)
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO/TS 19103:2005'
+            link: 'https://www.iso.org/standard/37800.html'
+          lineage_source: ГОСТ Р 52573-2006
+          date_accepted: 2003-05-01T00:00:00.000Z
+          terms:
+            - type: expression
+              designation: тип данных
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 123
+  definition: >-
+    especificación de un dominio de valores con unas operaciones permitidas
+    sobre los valores de ese dominio
+  language_code: spa
+  notes:
+    - >-
+      Los tipos de datos incluyen tipos predefinidos de primitivas y tipos
+      definidos por el usuario.
+  examples:
+    - >-
+      Entero, real, booleano, cadena, fecha y GM_punto (conversión de datos en
+      una serie de códigos)
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19103:2015'
+    clause: '4.14'
+    link: 'https://www.iso.org/standard/56734.html'
+  lineage_source: 'ISO/TS 19103:2005, 4.1.5'
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2009-01-14T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2015-12-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19103:2015'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO/TS 19103:2005 to ISO 19103:2015,
+    4.14. Lineage source added as ISO/TS 19103:2005, 4.1.5
+  release: '1'
+  terms:
+    - type: expression
+      designation: tipo de datos
+      normative_status: preferred
+  _revisions:
+    current: 5d5d1a
+    tree:
+      5d5d1a:
+        object:
+          id: 123
+          definition: >-
+            especificación de un dominio de valores con unas operaciones
+            permitidas sobre los valores de ese dominio
+          language_code: spa
+          notes:
+            - >-
+              Los tipos de datos incluyen tipos predefinidos de primitivas y
+              tipos definidos por el usuario.
+          examples:
+            - >-
+              Entero, real, booleano, cadena, fecha y GM_punto (conversión de
+              datos en una serie de códigos)
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19103:2015'
+            clause: '4.14'
+            link: 'https://www.iso.org/standard/56734.html'
+          lineage_source: 'ISO/TS 19103:2005, 4.1.5'
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2009-01-14T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2015-12-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19103:2015'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO/TS 19103:2005 to ISO
+            19103:2015, 4.14. Lineage source added as ISO/TS 19103:2005, 4.1.5
+          release: '1'
+          terms:
+            - type: expression
+              designation: tipo de datos
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+swe:
+  id: 123
+  definition: |-
+    specifikation av en värdedomän och de operationer
+    som är tillåtna på domänens värden
+  country_code: swe
+  language_code: swe
+  notes:
+    - Data types include primitive predefined types and user-definable types.
+  examples:
+    - >-
+      Integer, Real, Boolean, String, Date and SG Point (conversion of data into
+      a series of codes).
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19103:2015'
+    clause: '4.14'
+    link: 'https://www.iso.org/standard/56734.html'
+  lineage_source: 'ISO/TS 19103:2005, 4.1.5'
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2009-01-14T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2015-12-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19103:2015'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO/TS 19103:2005 to ISO 19103:2015,
+    4.14. Lineage source added as ISO/TS 19103:2005, 4.1.5
+  release: '1'
+  terms:
+    - type: expression
+      designation: datatyp
+      normative_status: preferred
+  _revisions:
+    current: d3785d
+    tree:
+      d3785d:
+        object:
+          id: 123
+          definition: |-
+            specifikation av en värdedomän och de operationer
+            som är tillåtna på domänens värden
+          country_code: swe
+          language_code: swe
+          notes:
+            - >-
+              Data types include primitive predefined types and user-definable
+              types.
+          examples:
+            - >-
+              Integer, Real, Boolean, String, Date and SG Point (conversion of
+              data into a series of codes).
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19103:2015'
+            clause: '4.14'
+            link: 'https://www.iso.org/standard/56734.html'
+          lineage_source: 'ISO/TS 19103:2005, 4.1.5'
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2009-01-14T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2015-12-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19103:2015'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO/TS 19103:2005 to ISO
+            19103:2015, 4.14. Lineage source added as ISO/TS 19103:2005, 4.1.5
+          release: '1'
+          terms:
+            - type: expression
+              designation: datatyp
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

@@ -1,0 +1,228 @@
+term: agent
+termid: 1208
+eng:
+  id: 1208
+  definition: one who acts on behalf of another
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19153:2014'
+    clause: '4.3'
+    link: 'https://www.iso.org/standard/32571.html'
+  date_accepted: 2014-02-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: agent
+      normative_status: preferred
+  _revisions:
+    current: 3782a3
+    tree:
+      3782a3:
+        object:
+          id: 1208
+          definition: one who acts on behalf of another
+          language_code: eng
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19153:2014'
+            clause: '4.3'
+            link: 'https://www.iso.org/standard/32571.html'
+          date_accepted: 2014-02-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: agent
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+kor:
+  id: 1208
+  definition: 타인의 대리로 업무를 수행하는 자
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19153:2014'
+    clause: '4.3'
+    link: 'https://www.iso.org/standard/32571.html'
+  date_accepted: 2014-02-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: 대리인
+      normative_status: preferred
+  _revisions:
+    current: 69f90b
+    tree:
+      69f90b:
+        object:
+          id: 1208
+          definition: 타인의 대리로 업무를 수행하는 자
+          language_code: kor
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19153:2014'
+            clause: '4.3'
+            link: 'https://www.iso.org/standard/32571.html'
+          date_accepted: 2014-02-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: 대리인
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+msa:
+  id: 1208
+  definition: >-
+    bahan atau organisma yg dpt mempengaruhi atau dpt memberi kesan kpd sesuatu
+    tindak balas: ~ kimia. 2 apa-apa (cara dsb) yg menyebabkan sesuatu berlaku
+    atau terjadi: Angin, serangga, air dsb ialah ~ pendebungaan.
+  language_code: msa
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19153:2014'
+    clause: '4.3'
+    link: 'https://www.iso.org/standard/32571.html'
+  lineage_source: Pusat Rujukan Persuratan Melayu (DBP)
+  date_accepted: 2014-02-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: Agen
+      normative_status: preferred
+  _revisions:
+    current: a77547
+    tree:
+      a77547:
+        object:
+          id: 1208
+          definition: >-
+            bahan atau organisma yg dpt mempengaruhi atau dpt memberi kesan kpd
+            sesuatu tindak balas: ~ kimia. 2 apa-apa (cara dsb) yg menyebabkan
+            sesuatu berlaku atau terjadi: Angin, serangga, air dsb ialah ~
+            pendebungaan.
+          language_code: msa
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19153:2014'
+            clause: '4.3'
+            link: 'https://www.iso.org/standard/32571.html'
+          lineage_source: Pusat Rujukan Persuratan Melayu (DBP)
+          date_accepted: 2014-02-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: Agen
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 1208
+  definition: 'тот, кто действует от имени другого'
+  language_code: rus
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19153:2014'
+    clause: '4.3'
+    link: 'https://www.iso.org/standard/32571.html'
+  lineage_source: 'перевод ИСО 19153:2014'
+  date_accepted: 2014-02-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: агент
+      normative_status: preferred
+  _revisions:
+    current: b88439
+    tree:
+      b88439:
+        object:
+          id: 1208
+          definition: 'тот, кто действует от имени другого'
+          language_code: rus
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19153:2014'
+            clause: '4.3'
+            link: 'https://www.iso.org/standard/32571.html'
+          lineage_source: 'перевод ИСО 19153:2014'
+          date_accepted: 2014-02-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: агент
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 1208
+  definition: alguien que actua en nombre de otro
+  language_code: spa
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19153:2014'
+    clause: '4.3'
+    link: 'https://www.iso.org/standard/32571.html'
+  date_accepted: 2014-02-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: representante
+      normative_status: preferred
+  _revisions:
+    current: 001f5a
+    tree:
+      001f5a:
+        object:
+          id: 1208
+          definition: alguien que actua en nombre de otro
+          language_code: spa
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19153:2014'
+            clause: '4.3'
+            link: 'https://www.iso.org/standard/32571.html'
+          date_accepted: 2014-02-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: representante
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

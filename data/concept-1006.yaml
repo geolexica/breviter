@@ -1,0 +1,468 @@
+term: platform coordinate reference system
+termid: 1006
+eng:
+  id: 1006
+  definition: >-
+    engineering coordinate reference system fixed to the collection platform
+    within which positions on the collection platform are defined
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19130-1:2018'
+    clause: '(E), 3.65'
+    link: 'https://www.iso.org/standard/66847.html'
+  lineage_source: 'ISO/TS 19130:2010(E)'
+  lineage_source_similarity: '1'
+  date_accepted: 2010-06-15T00:00:00.000Z
+  review_date: 2018-09-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2018-09-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19130-1:2018(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO/TS 19130:2010 to ISO
+    19130-1:2018(E), 3.65. Lineage source added as ISO/TS 19130:2010(E)
+  release: '2'
+  terms:
+    - type: expression
+      designation: platform coordinate reference system
+      normative_status: preferred
+  _revisions:
+    current: c0d87b
+    tree:
+      c0d87b:
+        object:
+          id: 1006
+          definition: >-
+            engineering coordinate reference system fixed to the collection
+            platform within which positions on the collection platform are
+            defined
+          language_code: eng
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19130-1:2018'
+            clause: '(E), 3.65'
+            link: 'https://www.iso.org/standard/66847.html'
+          lineage_source: 'ISO/TS 19130:2010(E)'
+          lineage_source_similarity: '1'
+          date_accepted: 2010-06-15T00:00:00.000Z
+          review_date: 2018-09-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2018-09-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19130-1:2018(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO/TS 19130:2010 to ISO
+            19130-1:2018(E), 3.65. Lineage source added as ISO/TS 19130:2010(E)
+          release: '2'
+          terms:
+            - type: expression
+              designation: platform coordinate reference system
+              normative_status: preferred
+        parents: []
+        timeCreated: 2010-06-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+ara:
+  id: 1006
+  definition: >-
+    نظام إحداثيات  مرجعي هندسي مثبت على منصة التجميع التي تكون المواقع ضمنها
+    محددة
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19130-1:2018'
+    clause: '(E), 3.65'
+    link: 'https://www.iso.org/standard/66847.html'
+  lineage_source: 'ISO/TS 19130:2010(E)'
+  lineage_source_similarity: '1'
+  date_accepted: 2010-06-15T00:00:00.000Z
+  review_date: 2018-09-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2018-09-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19130-1:2018(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO/TS 19130:2010 to ISO
+    19130-1:2018(E), 3.65. Lineage source added as ISO/TS 19130:2010(E)
+  release: '2'
+  terms:
+    - type: expression
+      designation: نظام إحداثيات مرجعي ذو منصة
+      normative_status: preferred
+  _revisions:
+    current: d414a5
+    tree:
+      d414a5:
+        object:
+          id: 1006
+          definition: >-
+            نظام إحداثيات  مرجعي هندسي مثبت على منصة التجميع التي تكون المواقع
+            ضمنها محددة
+          language_code: ara
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19130-1:2018'
+            clause: '(E), 3.65'
+            link: 'https://www.iso.org/standard/66847.html'
+          lineage_source: 'ISO/TS 19130:2010(E)'
+          lineage_source_similarity: '1'
+          date_accepted: 2010-06-15T00:00:00.000Z
+          review_date: 2018-09-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2018-09-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19130-1:2018(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO/TS 19130:2010 to ISO
+            19130-1:2018(E), 3.65. Lineage source added as ISO/TS 19130:2010(E)
+          release: '2'
+          terms:
+            - type: expression
+              designation: نظام إحداثيات مرجعي ذو منصة
+              normative_status: preferred
+        parents: []
+        timeCreated: 2010-06-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+deu:
+  id: 1006
+  definition: >-
+    mit einer Plattform fest verbundenes Koordinatenreferenzsystem zur
+    Beschreibung der Position von aufgesetzten Geräten
+  language_code: deu
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19130-1:2018'
+    clause: '(E), 3.65'
+    link: 'https://www.iso.org/standard/66847.html'
+  lineage_source: 'ISO/TS 19130:2010(E)'
+  lineage_source_similarity: '1'
+  date_accepted: 2010-06-15T00:00:00.000Z
+  review_date: 2018-09-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2018-09-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19130-1:2018(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO/TS 19130:2010 to ISO
+    19130-1:2018(E), 3.65. Lineage source added as ISO/TS 19130:2010(E)
+  release: '2'
+  terms:
+    - type: expression
+      designation: Plattformkoordinatenreferenzsystem
+      normative_status: preferred
+  _revisions:
+    current: a14581
+    tree:
+      a14581:
+        object:
+          id: 1006
+          definition: >-
+            mit einer Plattform fest verbundenes Koordinatenreferenzsystem zur
+            Beschreibung der Position von aufgesetzten Geräten
+          language_code: deu
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19130-1:2018'
+            clause: '(E), 3.65'
+            link: 'https://www.iso.org/standard/66847.html'
+          lineage_source: 'ISO/TS 19130:2010(E)'
+          lineage_source_similarity: '1'
+          date_accepted: 2010-06-15T00:00:00.000Z
+          review_date: 2018-09-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2018-09-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19130-1:2018(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO/TS 19130:2010 to ISO
+            19130-1:2018(E), 3.65. Lineage source added as ISO/TS 19130:2010(E)
+          release: '2'
+          terms:
+            - type: expression
+              designation: Plattformkoordinatenreferenzsystem
+              normative_status: preferred
+        parents: []
+        timeCreated: 2010-06-15T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+kor:
+  id: 1006
+  definition: 수집플랫폼상의 위치들이 정의된 수집플랫폼내에 고정된 공학적 좌표 참조 체계
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19130-1:2018'
+    clause: '(E), 3.65'
+    link: 'https://www.iso.org/standard/66847.html'
+  lineage_source: 'ISO/TS 19130:2010(E)'
+  lineage_source_similarity: '1'
+  date_accepted: 2010-06-15T00:00:00.000Z
+  review_date: 2018-09-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2018-09-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19130-1:2018(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO/TS 19130:2010 to ISO
+    19130-1:2018(E), 3.65. Lineage source added as ISO/TS 19130:2010(E)
+  release: '2'
+  terms:
+    - type: expression
+      designation: 플랫폼 좌표 기준 체계
+      normative_status: preferred
+  _revisions:
+    current: a66709
+    tree:
+      a66709:
+        object:
+          id: 1006
+          definition: 수집플랫폼상의 위치들이 정의된 수집플랫폼내에 고정된 공학적 좌표 참조 체계
+          language_code: kor
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19130-1:2018'
+            clause: '(E), 3.65'
+            link: 'https://www.iso.org/standard/66847.html'
+          lineage_source: 'ISO/TS 19130:2010(E)'
+          lineage_source_similarity: '1'
+          date_accepted: 2010-06-15T00:00:00.000Z
+          review_date: 2018-09-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2018-09-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19130-1:2018(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO/TS 19130:2010 to ISO
+            19130-1:2018(E), 3.65. Lineage source added as ISO/TS 19130:2010(E)
+          release: '2'
+          terms:
+            - type: expression
+              designation: 플랫폼 좌표 기준 체계
+              normative_status: preferred
+        parents: []
+        timeCreated: 2010-06-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 1006
+  definition: >-
+    Инженерная система координат, привязанная к платформе сбора, в рамках
+    которой определяются позиции на платформе сбора
+  language_code: rus
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19130-1:2018'
+    clause: '(E), 3.65'
+    link: 'https://www.iso.org/standard/66847.html'
+  lineage_source: 'ISO/TS 19130:2010(E)'
+  lineage_source_similarity: '1'
+  date_accepted: 2010-06-15T00:00:00.000Z
+  review_date: 2018-09-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2018-09-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19130-1:2018(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO/TS 19130:2010 to ISO
+    19130-1:2018(E), 3.65. Lineage source added as ISO/TS 19130:2010(E)
+  release: '2'
+  terms:
+    - type: expression
+      designation: система координат платформы
+      normative_status: preferred
+  _revisions:
+    current: '329220'
+    tree:
+      '329220':
+        object:
+          id: 1006
+          definition: >-
+            Инженерная система координат, привязанная к платформе сбора, в
+            рамках которой определяются позиции на платформе сбора
+          language_code: rus
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19130-1:2018'
+            clause: '(E), 3.65'
+            link: 'https://www.iso.org/standard/66847.html'
+          lineage_source: 'ISO/TS 19130:2010(E)'
+          lineage_source_similarity: '1'
+          date_accepted: 2010-06-15T00:00:00.000Z
+          review_date: 2018-09-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2018-09-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19130-1:2018(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO/TS 19130:2010 to ISO
+            19130-1:2018(E), 3.65. Lineage source added as ISO/TS 19130:2010(E)
+          release: '2'
+          terms:
+            - type: expression
+              designation: система координат платформы
+              normative_status: preferred
+        parents: []
+        timeCreated: 2010-06-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 1006
+  definition: >-
+    sistema de referencia de coordenadas para ingeniería fijo a la plataforma de
+    captura dentro del cuál se definen las posiciones en la plataforma de
+    captura
+  language_code: spa
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19130-1:2018'
+    clause: '(E), 3.65'
+    link: 'https://www.iso.org/standard/66847.html'
+  lineage_source: 'ISO/TS 19130:2010(E)'
+  lineage_source_similarity: '1'
+  date_accepted: 2010-06-15T00:00:00.000Z
+  review_date: 2018-09-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2018-09-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19130-1:2018(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO/TS 19130:2010 to ISO
+    19130-1:2018(E), 3.65. Lineage source added as ISO/TS 19130:2010(E)
+  release: '2'
+  terms:
+    - type: expression
+      designation: sistema de referencia de coordenadas de la plataforma
+      normative_status: preferred
+  _revisions:
+    current: 223cb3
+    tree:
+      223cb3:
+        object:
+          id: 1006
+          definition: >-
+            sistema de referencia de coordenadas para ingeniería fijo a la
+            plataforma de captura dentro del cuál se definen las posiciones en
+            la plataforma de captura
+          language_code: spa
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19130-1:2018'
+            clause: '(E), 3.65'
+            link: 'https://www.iso.org/standard/66847.html'
+          lineage_source: 'ISO/TS 19130:2010(E)'
+          lineage_source_similarity: '1'
+          date_accepted: 2010-06-15T00:00:00.000Z
+          review_date: 2018-09-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2018-09-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19130-1:2018(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO/TS 19130:2010 to ISO
+            19130-1:2018(E), 3.65. Lineage source added as ISO/TS 19130:2010(E)
+          release: '2'
+          terms:
+            - type: expression
+              designation: sistema de referencia de coordenadas de la plataforma
+              normative_status: preferred
+        parents: []
+        timeCreated: 2010-06-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+swe:
+  id: 1006
+  definition: koordinatreferenssystem som är angivet på en sensors plattform
+  country_code: swe
+  language_code: swe
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19130-1:2018'
+    clause: '(E), 3.65'
+    link: 'https://www.iso.org/standard/66847.html'
+  lineage_source: 'ISO/TS 19130:2010(E)'
+  lineage_source_similarity: '1'
+  date_accepted: 2010-06-15T00:00:00.000Z
+  review_date: 2018-09-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2018-09-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19130-1:2018(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO/TS 19130:2010 to ISO
+    19130-1:2018(E), 3.65. Lineage source added as ISO/TS 19130:2010(E)
+  release: '2'
+  terms:
+    - type: expression
+      designation: sensorbundet koordinatreferenssystem
+      normative_status: preferred
+  _revisions:
+    current: 3c49ca
+    tree:
+      3c49ca:
+        object:
+          id: 1006
+          definition: koordinatreferenssystem som är angivet på en sensors plattform
+          country_code: swe
+          language_code: swe
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19130-1:2018'
+            clause: '(E), 3.65'
+            link: 'https://www.iso.org/standard/66847.html'
+          lineage_source: 'ISO/TS 19130:2010(E)'
+          lineage_source_similarity: '1'
+          date_accepted: 2010-06-15T00:00:00.000Z
+          review_date: 2018-09-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2018-09-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19130-1:2018(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO/TS 19130:2010 to ISO
+            19130-1:2018(E), 3.65. Lineage source added as ISO/TS 19130:2010(E)
+          release: '2'
+          terms:
+            - type: expression
+              designation: sensorbundet koordinatreferenssystem
+              normative_status: preferred
+        parents: []
+        timeCreated: 2010-06-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

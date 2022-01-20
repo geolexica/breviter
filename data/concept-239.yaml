@@ -1,0 +1,800 @@
+term: indirect evaluation method
+termid: 239
+eng:
+  id: 239
+  definition: method of evaluating the quality of a dataset based on external knowledge
+  language_code: eng
+  notes:
+    - >-
+      Examples of external knowledge are dataset lineage, such as production
+      method or source data.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19157:2013'
+    clause: '4.17'
+    link: 'https://www.iso.org/standard/32575.html'
+  lineage_source: ISO 19114
+  lineage_source_similarity: '1'
+  date_accepted: 2003-08-15T00:00:00.000Z
+  review_date: 2010-07-09T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2013-12-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19157:2013'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19114:2003 to ISO 19157:2013.
+    Lineage source added as ISO 19114:2003.
+  release: '1'
+  terms:
+    - type: expression
+      designation: indirect evaluation method
+      normative_status: preferred
+  _revisions:
+    current: c460a7
+    tree:
+      c460a7:
+        object:
+          id: 239
+          definition: >-
+            method of evaluating the quality of a dataset based on external
+            knowledge
+          language_code: eng
+          notes:
+            - >-
+              Examples of external knowledge are dataset lineage, such as
+              production method or source data.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19157:2013'
+            clause: '4.17'
+            link: 'https://www.iso.org/standard/32575.html'
+          lineage_source: ISO 19114
+          lineage_source_similarity: '1'
+          date_accepted: 2003-08-15T00:00:00.000Z
+          review_date: 2010-07-09T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2013-12-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19157:2013'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19114:2003 to ISO
+            19157:2013. Lineage source added as ISO 19114:2003.
+          release: '1'
+          terms:
+            - type: expression
+              designation: indirect evaluation method
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-08-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+ara:
+  id: 239
+  definition: طريقة لتقييم جودة مجموعة بيانات مبنية على معرفة خارجية
+  language_code: ara
+  notes:
+    - >-
+      من أمثله المعرفة الخارجية سلالة مجموعة البيانات مثل طريقة الإنتاج أو
+      البيانات المصدرية.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19157:2013'
+    clause: '4.17'
+    link: 'https://www.iso.org/standard/32575.html'
+  lineage_source: ISO 19114
+  lineage_source_similarity: '1'
+  date_accepted: 2003-08-15T00:00:00.000Z
+  review_date: 2010-07-09T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2013-12-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19157:2013'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19114:2003 to ISO 19157:2013.
+    Lineage source added as ISO 19114:2003.
+  release: '1'
+  terms:
+    - type: expression
+      designation: طريقة التقييم غير المباشر
+      normative_status: preferred
+  _revisions:
+    current: b48684
+    tree:
+      b48684:
+        object:
+          id: 239
+          definition: طريقة لتقييم جودة مجموعة بيانات مبنية على معرفة خارجية
+          language_code: ara
+          notes:
+            - >-
+              من أمثله المعرفة الخارجية سلالة مجموعة البيانات مثل طريقة الإنتاج
+              أو البيانات المصدرية.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19157:2013'
+            clause: '4.17'
+            link: 'https://www.iso.org/standard/32575.html'
+          lineage_source: ISO 19114
+          lineage_source_similarity: '1'
+          date_accepted: 2003-08-15T00:00:00.000Z
+          review_date: 2010-07-09T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2013-12-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19157:2013'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19114:2003 to ISO
+            19157:2013. Lineage source added as ISO 19114:2003.
+          release: '1'
+          terms:
+            - type: expression
+              designation: طريقة التقييم غير المباشر
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-08-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+zho:
+  id: 239
+  definition: 基于外部知识的数据集质量评价方法。
+  language_code: zho
+  notes:
+    - 外部知识的例子是数据集志，诸如数据生产方法或数据源等。
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19157:2013'
+    clause: '4.17'
+    link: 'https://www.iso.org/standard/32575.html'
+  lineage_source: ISO 19114
+  lineage_source_similarity: '1'
+  date_accepted: 2003-08-15T00:00:00.000Z
+  review_date: 2010-07-09T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2013-12-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19157:2013'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19114:2003 to ISO 19157:2013.
+    Lineage source added as ISO 19114:2003.
+  release: '1'
+  terms:
+    - type: expression
+      designation: 间接评价法
+      normative_status: preferred
+  _revisions:
+    current: d76bfa
+    tree:
+      d76bfa:
+        object:
+          id: 239
+          definition: 基于外部知识的数据集质量评价方法。
+          language_code: zho
+          notes:
+            - 外部知识的例子是数据集志，诸如数据生产方法或数据源等。
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19157:2013'
+            clause: '4.17'
+            link: 'https://www.iso.org/standard/32575.html'
+          lineage_source: ISO 19114
+          lineage_source_similarity: '1'
+          date_accepted: 2003-08-15T00:00:00.000Z
+          review_date: 2010-07-09T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2013-12-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19157:2013'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19114:2003 to ISO
+            19157:2013. Lineage source added as ISO 19114:2003.
+          release: '1'
+          terms:
+            - type: expression
+              designation: 间接评价法
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-08-15T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+dan:
+  id: 239
+  definition: metode til vurdering af kvaliteten af et datasæt baseret på ekstern viden
+  language_code: dan
+  notes:
+    - >-
+      Eksempler på ekstern viden er datasæt-historik såsom produktionsmetode
+      eller kildedata.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19157:2013'
+    clause: '4.17'
+    link: 'https://www.iso.org/standard/32575.html'
+  lineage_source: ISO 19114
+  lineage_source_similarity: '1'
+  date_accepted: 2003-08-15T00:00:00.000Z
+  review_date: 2010-07-09T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2013-12-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19157:2013'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19114:2003 to ISO 19157:2013.
+    Lineage source added as ISO 19114:2003.
+  release: '1'
+  terms:
+    - type: expression
+      designation: indirekte vurderingsmetode
+      normative_status: preferred
+  _revisions:
+    current: f30539
+    tree:
+      f30539:
+        object:
+          id: 239
+          definition: >-
+            metode til vurdering af kvaliteten af et datasæt baseret på ekstern
+            viden
+          language_code: dan
+          notes:
+            - >-
+              Eksempler på ekstern viden er datasæt-historik såsom
+              produktionsmetode eller kildedata.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19157:2013'
+            clause: '4.17'
+            link: 'https://www.iso.org/standard/32575.html'
+          lineage_source: ISO 19114
+          lineage_source_similarity: '1'
+          date_accepted: 2003-08-15T00:00:00.000Z
+          review_date: 2010-07-09T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2013-12-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19157:2013'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19114:2003 to ISO
+            19157:2013. Lineage source added as ISO 19114:2003.
+          release: '1'
+          terms:
+            - type: expression
+              designation: indirekte vurderingsmetode
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-08-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+fin:
+  id: 239
+  definition: >-
+    laadun arviointimenetelmä, jossa tietoaineiston laatu määritellään
+    tietoaineiston ulkopuolisen tiedon tarkastelun perusteella
+  language_code: fin
+  notes:
+    - >-
+      Tietoaineiston ulkopuolista tietoa on esimerkiksi historiatieto, kuten
+      aineiston tuottamismenetelmään ja lähteeseen liittyvä tieto.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19157:2013'
+    clause: '4.17'
+    link: 'https://www.iso.org/standard/32575.html'
+  lineage_source: ISO 19114
+  lineage_source_similarity: '1'
+  date_accepted: 2013-07-03T00:00:00.000Z
+  review_date: 2010-07-09T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2013-12-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19157:2013'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19114:2003 to ISO 19157:2013.
+    Lineage source added as ISO 19114:2003.
+  release: '1'
+  terms:
+    - type: expression
+      designation: epäsuora laadun arviointimenetelmä
+      normative_status: preferred
+  _revisions:
+    current: 3803a3
+    tree:
+      3803a3:
+        object:
+          id: 239
+          definition: >-
+            laadun arviointimenetelmä, jossa tietoaineiston laatu määritellään
+            tietoaineiston ulkopuolisen tiedon tarkastelun perusteella
+          language_code: fin
+          notes:
+            - >-
+              Tietoaineiston ulkopuolista tietoa on esimerkiksi historiatieto,
+              kuten aineiston tuottamismenetelmään ja lähteeseen liittyvä tieto.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19157:2013'
+            clause: '4.17'
+            link: 'https://www.iso.org/standard/32575.html'
+          lineage_source: ISO 19114
+          lineage_source_similarity: '1'
+          date_accepted: 2013-07-03T00:00:00.000Z
+          review_date: 2010-07-09T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2013-12-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19157:2013'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19114:2003 to ISO
+            19157:2013. Lineage source added as ISO 19114:2003.
+          release: '1'
+          terms:
+            - type: expression
+              designation: epäsuora laadun arviointimenetelmä
+              normative_status: preferred
+        parents: []
+        timeCreated: 2013-07-03T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+fra:
+  id: 239
+  definition: >-
+    méthode d'évaluation de la qualité d'un jeu de données basée sur une
+    connaissance externe (à ce jeu de données)
+  language_code: fra
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19157:2013'
+    clause: '4.17'
+    link: 'https://www.iso.org/standard/32575.html'
+  lineage_source: ISO 19114
+  lineage_source_similarity: '1'
+  date_accepted: 2003-08-15T00:00:00.000Z
+  review_date: 2010-07-09T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2013-12-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19157:2013'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19114:2003 to ISO 19157:2013.
+    Lineage source added as ISO 19114:2003.
+  release: '1'
+  terms:
+    - type: expression
+      designation: méthode d'évaluation indirecte
+      normative_status: preferred
+  _revisions:
+    current: ebfa67
+    tree:
+      ebfa67:
+        object:
+          id: 239
+          definition: >-
+            méthode d'évaluation de la qualité d'un jeu de données basée sur une
+            connaissance externe (à ce jeu de données)
+          language_code: fra
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19157:2013'
+            clause: '4.17'
+            link: 'https://www.iso.org/standard/32575.html'
+          lineage_source: ISO 19114
+          lineage_source_similarity: '1'
+          date_accepted: 2003-08-15T00:00:00.000Z
+          review_date: 2010-07-09T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2013-12-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19157:2013'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19114:2003 to ISO
+            19157:2013. Lineage source added as ISO 19114:2003.
+          release: '1'
+          terms:
+            - type: expression
+              designation: méthode d'évaluation indirecte
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-08-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+deu:
+  id: 239
+  definition: >-
+    Verfahren zur Bewertung der Qualität eines Datensatzes, das auf externem
+    Wissen beruht
+  language_code: deu
+  notes:
+    - >-
+      Examples of external knowledge are dataset lineage, such as production
+      method or source data.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19157:2013'
+    clause: '4.17'
+    link: 'https://www.iso.org/standard/32575.html'
+  lineage_source: ISO 19114
+  lineage_source_similarity: '1'
+  date_accepted: 2003-08-15T00:00:00.000Z
+  review_date: 2010-07-09T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2013-12-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19157:2013'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19114:2003 to ISO 19157:2013.
+    Lineage source added as ISO 19114:2003.
+  release: '1'
+  terms:
+    - type: expression
+      designation: indirektes Bewertungsverfahren
+      normative_status: preferred
+  _revisions:
+    current: eb8040
+    tree:
+      eb8040:
+        object:
+          id: 239
+          definition: >-
+            Verfahren zur Bewertung der Qualität eines Datensatzes, das auf
+            externem Wissen beruht
+          language_code: deu
+          notes:
+            - >-
+              Examples of external knowledge are dataset lineage, such as
+              production method or source data.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19157:2013'
+            clause: '4.17'
+            link: 'https://www.iso.org/standard/32575.html'
+          lineage_source: ISO 19114
+          lineage_source_similarity: '1'
+          date_accepted: 2003-08-15T00:00:00.000Z
+          review_date: 2010-07-09T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2013-12-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19157:2013'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19114:2003 to ISO
+            19157:2013. Lineage source added as ISO 19114:2003.
+          release: '1'
+          terms:
+            - type: expression
+              designation: indirektes Bewertungsverfahren
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-08-15T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+kor:
+  id: 239
+  definition: 외부 지식을 바탕으로 데이터셋의 품질을 평가하는 방법
+  language_code: kor
+  notes:
+    - '외부 지식의 예로서, 생산 방법 또는 원시 데이터와 같은 데이터셋의 연혁을 들 수 있다.'
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19157:2013'
+    clause: '4.17'
+    link: 'https://www.iso.org/standard/32575.html'
+  lineage_source: ISO 19114
+  lineage_source_similarity: '1'
+  date_accepted: 2009-12-29T00:00:00.000Z
+  review_date: 2010-07-09T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2013-12-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19157:2013'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19114:2003 to ISO 19157:2013.
+    Lineage source added as ISO 19114:2003.
+  release: '1'
+  terms:
+    - type: expression
+      designation: 간접 평가 방법
+      normative_status: preferred
+  _revisions:
+    current: 628a16
+    tree:
+      628a16:
+        object:
+          id: 239
+          definition: 외부 지식을 바탕으로 데이터셋의 품질을 평가하는 방법
+          language_code: kor
+          notes:
+            - '외부 지식의 예로서, 생산 방법 또는 원시 데이터와 같은 데이터셋의 연혁을 들 수 있다.'
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19157:2013'
+            clause: '4.17'
+            link: 'https://www.iso.org/standard/32575.html'
+          lineage_source: ISO 19114
+          lineage_source_similarity: '1'
+          date_accepted: 2009-12-29T00:00:00.000Z
+          review_date: 2010-07-09T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2013-12-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19157:2013'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19114:2003 to ISO
+            19157:2013. Lineage source added as ISO 19114:2003.
+          release: '1'
+          terms:
+            - type: expression
+              designation: 간접 평가 방법
+              normative_status: preferred
+        parents: []
+        timeCreated: 2009-12-29T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 239
+  definition: 'метод оценки качества набора данных, основанный на дополнительных знаниях'
+  language_code: rus
+  notes:
+    - >-
+      Примерами дополнительных знаний являются происхождение набора данных,
+      включая методы создания или источники данных
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19157:2013'
+    clause: '4.17'
+    link: 'https://www.iso.org/standard/32575.html'
+  lineage_source: ISO 19114
+  lineage_source_similarity: '1'
+  date_accepted: 2003-08-15T00:00:00.000Z
+  review_date: 2010-07-09T00:00:00.000Z
+  review_status: ''
+  review_decision: ''
+  review_decision_date: 2013-12-15T00:00:00.000Z
+  review_decision_event: 'Публикация ИСО19157:2013'
+  review_decision_notes: >-
+    Авторитетная ссылка изменена с ISO 19114: 2003 на ISO 19157: 2013. Источник
+    происхождения добавлен как ISO 19114: 2003.
+  release: '1'
+  terms:
+    - type: expression
+      designation: метод косвенной оценки
+      normative_status: preferred
+  _revisions:
+    current: 7fc272
+    tree:
+      7fc272:
+        object:
+          id: 239
+          definition: >-
+            метод оценки качества набора данных, основанный на дополнительных
+            знаниях
+          language_code: rus
+          notes:
+            - >-
+              Примерами дополнительных знаний являются происхождение набора
+              данных, включая методы создания или источники данных
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19157:2013'
+            clause: '4.17'
+            link: 'https://www.iso.org/standard/32575.html'
+          lineage_source: ISO 19114
+          lineage_source_similarity: '1'
+          date_accepted: 2003-08-15T00:00:00.000Z
+          review_date: 2010-07-09T00:00:00.000Z
+          review_status: ''
+          review_decision: ''
+          review_decision_date: 2013-12-15T00:00:00.000Z
+          review_decision_event: 'Публикация ИСО19157:2013'
+          review_decision_notes: >-
+            Авторитетная ссылка изменена с ISO 19114: 2003 на ISO 19157: 2013.
+            Источник происхождения добавлен как ISO 19114: 2003.
+          release: '1'
+          terms:
+            - type: expression
+              designation: метод косвенной оценки
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-08-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 239
+  definition: >-
+    método de evaluación de la calidad de un conjunto de datos basado en
+    conocimiento externo
+  language_code: spa
+  notes:
+    - >-
+      Ejemplo de conocimiento externo es el linaje del conjunto de datos, como
+      pueden ser el método de producción o la fuente de datos.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19157:2013'
+    clause: '4.17'
+    link: 'https://www.iso.org/standard/32575.html'
+  lineage_source: ISO 19114
+  lineage_source_similarity: '1'
+  date_accepted: 2003-08-15T00:00:00.000Z
+  review_date: 2010-07-09T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2013-12-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19157:2013'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19114:2003 to ISO 19157:2013.
+    Lineage source added as ISO 19114:2003.
+  release: '1'
+  terms:
+    - type: expression
+      designation: método indirecto de evaluación
+      normative_status: preferred
+  _revisions:
+    current: 95b00e
+    tree:
+      95b00e:
+        object:
+          id: 239
+          definition: >-
+            método de evaluación de la calidad de un conjunto de datos basado en
+            conocimiento externo
+          language_code: spa
+          notes:
+            - >-
+              Ejemplo de conocimiento externo es el linaje del conjunto de
+              datos, como pueden ser el método de producción o la fuente de
+              datos.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19157:2013'
+            clause: '4.17'
+            link: 'https://www.iso.org/standard/32575.html'
+          lineage_source: ISO 19114
+          lineage_source_similarity: '1'
+          date_accepted: 2003-08-15T00:00:00.000Z
+          review_date: 2010-07-09T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2013-12-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19157:2013'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19114:2003 to ISO
+            19157:2013. Lineage source added as ISO 19114:2003.
+          release: '1'
+          terms:
+            - type: expression
+              designation: método indirecto de evaluación
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-08-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+swe:
+  id: 239
+  definition: >-
+    (av data) utvärdering som inte grundar sig på en direkt jämförelse mellan
+    data och dess motsvarigheter i verkligheten utan i stället på erfarenhet som
+    gäller hela datamängden
+  country_code: swe
+  language_code: swe
+  notes:
+    - >-
+      Examples of external knowledge are dataset lineage, such as production
+      method or source data.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19157:2013'
+    clause: '4.17'
+    link: 'https://www.iso.org/standard/32575.html'
+  lineage_source: ISO 19114
+  lineage_source_similarity: '1'
+  date_accepted: 2003-08-15T00:00:00.000Z
+  review_date: 2010-07-09T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2013-12-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19157:2013'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19114:2003 to ISO 19157:2013.
+    Lineage source added as ISO 19114:2003.
+  release: '1'
+  terms:
+    - type: expression
+      designation: indirekt utvärdering
+      normative_status: preferred
+  _revisions:
+    current: 706c48
+    tree:
+      706c48:
+        object:
+          id: 239
+          definition: >-
+            (av data) utvärdering som inte grundar sig på en direkt jämförelse
+            mellan data och dess motsvarigheter i verkligheten utan i stället på
+            erfarenhet som gäller hela datamängden
+          country_code: swe
+          language_code: swe
+          notes:
+            - >-
+              Examples of external knowledge are dataset lineage, such as
+              production method or source data.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19157:2013'
+            clause: '4.17'
+            link: 'https://www.iso.org/standard/32575.html'
+          lineage_source: ISO 19114
+          lineage_source_similarity: '1'
+          date_accepted: 2003-08-15T00:00:00.000Z
+          review_date: 2010-07-09T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2013-12-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19157:2013'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19114:2003 to ISO
+            19157:2013. Lineage source added as ISO 19114:2003.
+          release: '1'
+          terms:
+            - type: expression
+              designation: indirekt utvärdering
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-08-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

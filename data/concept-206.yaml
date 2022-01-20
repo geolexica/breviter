@@ -1,0 +1,810 @@
+term: geographic information service
+termid: 206
+eng:
+  id: 206
+  definition: >-
+    service that transforms, manages, or presents geographic information to
+    users
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19101-1:2014'
+    clause: 4.1.19
+    link: 'https://www.iso.org/standard/59164.html'
+  lineage_source: 'ISO 19101:2002'
+  lineage_source_similarity: 1
+  date_accepted: 2002-07-01T00:00:00.000Z
+  review_date: 2010-10-12T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2014-11-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19101-1:2014'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19101:2002 to ISO 19101-1:2014.
+    Lineage source added as ISO 19101:2002.
+  release: '1'
+  terms:
+    - type: expression
+      designation: geographic information service
+      normative_status: preferred
+  _revisions:
+    current: bf6dee
+    tree:
+      bf6dee:
+        object:
+          id: 206
+          definition: >-
+            service that transforms, manages, or presents geographic information
+            to users
+          language_code: eng
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19101-1:2014'
+            clause: 4.1.19
+            link: 'https://www.iso.org/standard/59164.html'
+          lineage_source: 'ISO 19101:2002'
+          lineage_source_similarity: 1
+          date_accepted: 2002-07-01T00:00:00.000Z
+          review_date: 2010-10-12T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2014-11-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19101-1:2014'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19101:2002 to ISO
+            19101-1:2014. Lineage source added as ISO 19101:2002.
+          release: '1'
+          terms:
+            - type: expression
+              designation: geographic information service
+              normative_status: preferred
+        parents: []
+        timeCreated: 2002-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+ara:
+  id: 206
+  definition: خدمة لتحويل ، أو إدارة أو عرض المعلومات الجغرافية للمستخدمين
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19101-1:2014'
+    clause: 4.1.19
+    link: 'https://www.iso.org/standard/59164.html'
+  lineage_source: 'ISO 19101:2002'
+  lineage_source_similarity: 1
+  date_accepted: 2002-07-01T00:00:00.000Z
+  review_date: 2010-10-12T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2014-11-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19101-1:2014'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19101:2002 to ISO 19101-1:2014.
+    Lineage source added as ISO 19101:2002.
+  release: '1'
+  terms:
+    - type: expression
+      designation: خدمة المعلومات الجغرافية
+      normative_status: preferred
+  _revisions:
+    current: '627358'
+    tree:
+      '627358':
+        object:
+          id: 206
+          definition: خدمة لتحويل ، أو إدارة أو عرض المعلومات الجغرافية للمستخدمين
+          language_code: ara
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19101-1:2014'
+            clause: 4.1.19
+            link: 'https://www.iso.org/standard/59164.html'
+          lineage_source: 'ISO 19101:2002'
+          lineage_source_similarity: 1
+          date_accepted: 2002-07-01T00:00:00.000Z
+          review_date: 2010-10-12T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2014-11-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19101-1:2014'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19101:2002 to ISO
+            19101-1:2014. Lineage source added as ISO 19101:2002.
+          release: '1'
+          terms:
+            - type: expression
+              designation: خدمة المعلومات الجغرافية
+              normative_status: preferred
+        parents: []
+        timeCreated: 2002-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+zho:
+  id: 206
+  definition: 向用户提供转换、管理或表示地理信息的服务。
+  language_code: zho
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19101-1:2014'
+    clause: 4.1.19
+    link: 'https://www.iso.org/standard/59164.html'
+  lineage_source: 'ISO 19101:2002'
+  lineage_source_similarity: 1
+  date_accepted: 2002-07-01T00:00:00.000Z
+  review_date: 2010-10-12T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2014-11-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19101-1:2014'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19101:2002 to ISO 19101-1:2014.
+    Lineage source added as ISO 19101:2002.
+  release: '1'
+  terms:
+    - type: expression
+      designation: 地理信息服务
+      normative_status: preferred
+  _revisions:
+    current: af225b
+    tree:
+      af225b:
+        object:
+          id: 206
+          definition: 向用户提供转换、管理或表示地理信息的服务。
+          language_code: zho
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19101-1:2014'
+            clause: 4.1.19
+            link: 'https://www.iso.org/standard/59164.html'
+          lineage_source: 'ISO 19101:2002'
+          lineage_source_similarity: 1
+          date_accepted: 2002-07-01T00:00:00.000Z
+          review_date: 2010-10-12T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2014-11-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19101-1:2014'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19101:2002 to ISO
+            19101-1:2014. Lineage source added as ISO 19101:2002.
+          release: '1'
+          terms:
+            - type: expression
+              designation: 地理信息服务
+              normative_status: preferred
+        parents: []
+        timeCreated: 2002-07-01T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+dan:
+  id: 206
+  definition: >-
+    tjeneste, der transformerer, administrerer eller præsenterer geografisk
+    information for brugere
+  language_code: dan
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19101-1:2014'
+    clause: 4.1.19
+    link: 'https://www.iso.org/standard/59164.html'
+  lineage_source: 'ISO 19101:2002'
+  lineage_source_similarity: 1
+  date_accepted: 2002-07-01T00:00:00.000Z
+  review_date: 2010-10-12T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2014-11-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19101-1:2014'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19101:2002 to ISO 19101-1:2014.
+    Lineage source added as ISO 19101:2002.
+  release: '1'
+  terms:
+    - type: expression
+      designation: geografisk informationstjeneste
+      normative_status: preferred
+  _revisions:
+    current: d530b3
+    tree:
+      d530b3:
+        object:
+          id: 206
+          definition: >-
+            tjeneste, der transformerer, administrerer eller præsenterer
+            geografisk information for brugere
+          language_code: dan
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19101-1:2014'
+            clause: 4.1.19
+            link: 'https://www.iso.org/standard/59164.html'
+          lineage_source: 'ISO 19101:2002'
+          lineage_source_similarity: 1
+          date_accepted: 2002-07-01T00:00:00.000Z
+          review_date: 2010-10-12T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2014-11-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19101-1:2014'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19101:2002 to ISO
+            19101-1:2014. Lineage source added as ISO 19101:2002.
+          release: '1'
+          terms:
+            - type: expression
+              designation: geografisk informationstjeneste
+              normative_status: preferred
+        parents: []
+        timeCreated: 2002-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+fin:
+  id: 206
+  definition: >-
+    palvelu, joka on tarkoitettu paikkatietojen esittämiseen, luovutukseen,
+    käsittelyyn tai muuntamiseen
+  language_code: fin
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19101-1:2014'
+    clause: 4.1.19
+    link: 'https://www.iso.org/standard/59164.html'
+  lineage_source: 'ISO 19101:2002'
+  lineage_source_similarity: 1
+  date_accepted: 2002-07-01T00:00:00.000Z
+  review_date: 2010-10-12T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2014-11-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19101-1:2014'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19101:2002 to ISO 19101-1:2014.
+    Lineage source added as ISO 19101:2002.
+  release: '1'
+  terms:
+    - type: expression
+      designation: paikkatietopalvelu
+      normative_status: preferred
+  _revisions:
+    current: 39ebf4
+    tree:
+      39ebf4:
+        object:
+          id: 206
+          definition: >-
+            palvelu, joka on tarkoitettu paikkatietojen esittämiseen,
+            luovutukseen, käsittelyyn tai muuntamiseen
+          language_code: fin
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19101-1:2014'
+            clause: 4.1.19
+            link: 'https://www.iso.org/standard/59164.html'
+          lineage_source: 'ISO 19101:2002'
+          lineage_source_similarity: 1
+          date_accepted: 2002-07-01T00:00:00.000Z
+          review_date: 2010-10-12T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2014-11-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19101-1:2014'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19101:2002 to ISO
+            19101-1:2014. Lineage source added as ISO 19101:2002.
+          release: '1'
+          terms:
+            - type: expression
+              designation: paikkatietopalvelu
+              normative_status: preferred
+        parents: []
+        timeCreated: 2002-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+fra:
+  id: 206
+  definition: >-
+    service transformant, gérant, ou présentant des informations géographiques
+    aux utilisateurs
+  language_code: fra
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19101-1:2014'
+    clause: 4.1.19
+    link: 'https://www.iso.org/standard/59164.html'
+  lineage_source: 'ISO 19101:2002'
+  lineage_source_similarity: 1
+  date_accepted: 2002-07-01T00:00:00.000Z
+  review_date: 2010-10-12T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2014-11-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19101-1:2014'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19101:2002 to ISO 19101-1:2014.
+    Lineage source added as ISO 19101:2002.
+  release: '1'
+  terms:
+    - type: expression
+      designation: service d'information géographique
+      normative_status: preferred
+  _revisions:
+    current: 7220fc
+    tree:
+      7220fc:
+        object:
+          id: 206
+          definition: >-
+            service transformant, gérant, ou présentant des informations
+            géographiques aux utilisateurs
+          language_code: fra
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19101-1:2014'
+            clause: 4.1.19
+            link: 'https://www.iso.org/standard/59164.html'
+          lineage_source: 'ISO 19101:2002'
+          lineage_source_similarity: 1
+          date_accepted: 2002-07-01T00:00:00.000Z
+          review_date: 2010-10-12T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2014-11-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19101-1:2014'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19101:2002 to ISO
+            19101-1:2014. Lineage source added as ISO 19101:2002.
+          release: '1'
+          terms:
+            - type: expression
+              designation: service d'information géographique
+              normative_status: preferred
+        parents: []
+        timeCreated: 2002-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+deu:
+  id: 206
+  language_code: deu
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19101-1:2014'
+    clause: 4.1.19
+    link: 'https://www.iso.org/standard/59164.html'
+  lineage_source: 'ISO 19101:2002'
+  lineage_source_similarity: 1
+  date_accepted: 2002-07-01T00:00:00.000Z
+  review_date: 2010-10-12T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2014-11-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19101-1:2014'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19101:2002 to ISO 19101-1:2014.
+    Lineage source added as ISO 19101:2002.
+  release: '1'
+  terms:
+    - type: expression
+      designation: geographischer Informationsdienst
+      normative_status: preferred
+  _revisions:
+    current: be153e
+    tree:
+      be153e:
+        object:
+          id: 206
+          language_code: deu
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19101-1:2014'
+            clause: 4.1.19
+            link: 'https://www.iso.org/standard/59164.html'
+          lineage_source: 'ISO 19101:2002'
+          lineage_source_similarity: 1
+          date_accepted: 2002-07-01T00:00:00.000Z
+          review_date: 2010-10-12T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2014-11-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19101-1:2014'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19101:2002 to ISO
+            19101-1:2014. Lineage source added as ISO 19101:2002.
+          release: '1'
+          terms:
+            - type: expression
+              designation: geographischer Informationsdienst
+              normative_status: preferred
+        parents: []
+        timeCreated: 2002-07-01T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+kor:
+  id: 206
+  definition: '사용자에게 지리 정보를 변형, 관리, 제공해 주는 서비스'
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19101-1:2014'
+    clause: 4.1.19
+    link: 'https://www.iso.org/standard/59164.html'
+  lineage_source: 'ISO 19101:2002'
+  lineage_source_similarity: 1
+  date_accepted: 2008-12-30T00:00:00.000Z
+  review_date: 2010-10-12T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2014-11-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19101-1:2014'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19101:2002 to ISO 19101-1:2014.
+    Lineage source added as ISO 19101:2002.
+  release: '1'
+  terms:
+    - type: expression
+      designation: 지리 정보 서비스
+      normative_status: preferred
+  _revisions:
+    current: 52a25b
+    tree:
+      52a25b:
+        object:
+          id: 206
+          definition: '사용자에게 지리 정보를 변형, 관리, 제공해 주는 서비스'
+          language_code: kor
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19101-1:2014'
+            clause: 4.1.19
+            link: 'https://www.iso.org/standard/59164.html'
+          lineage_source: 'ISO 19101:2002'
+          lineage_source_similarity: 1
+          date_accepted: 2008-12-30T00:00:00.000Z
+          review_date: 2010-10-12T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2014-11-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19101-1:2014'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19101:2002 to ISO
+            19101-1:2014. Lineage source added as ISO 19101:2002.
+          release: '1'
+          terms:
+            - type: expression
+              designation: 지리 정보 서비스
+              normative_status: preferred
+        parents: []
+        timeCreated: 2008-12-30T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+msa:
+  id: 206
+  definition: >-
+    sistem maklumat yang  mengendali maklumat mengenai fenomena yang berkaitan
+    dengan lokasi relatif kepada bumi
+  language_code: msa
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19101-1:2014'
+    clause: 4.1.19
+    link: 'https://www.iso.org/standard/59164.html'
+  lineage_source: 'ISO 19101:2002'
+  lineage_source_similarity: 1
+  date_accepted: 2002-07-01T00:00:00.000Z
+  review_date: 2010-10-12T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2014-11-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19101-1:2014'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19101:2002 to ISO 19101-1:2014.
+    Lineage source added as ISO 19101:2002.
+  release: '1'
+  terms:
+    - type: expression
+      designation: sistem maklumat geografi
+      normative_status: preferred
+  _revisions:
+    current: 9937b8
+    tree:
+      9937b8:
+        object:
+          id: 206
+          definition: >-
+            sistem maklumat yang  mengendali maklumat mengenai fenomena yang
+            berkaitan dengan lokasi relatif kepada bumi
+          language_code: msa
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19101-1:2014'
+            clause: 4.1.19
+            link: 'https://www.iso.org/standard/59164.html'
+          lineage_source: 'ISO 19101:2002'
+          lineage_source_similarity: 1
+          date_accepted: 2002-07-01T00:00:00.000Z
+          review_date: 2010-10-12T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2014-11-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19101-1:2014'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19101:2002 to ISO
+            19101-1:2014. Lineage source added as ISO 19101:2002.
+          release: '1'
+          terms:
+            - type: expression
+              designation: sistem maklumat geografi
+              normative_status: preferred
+        parents: []
+        timeCreated: 2002-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 206
+  definition: >-
+    сервис преобразования географической информации, управления ею или
+    предоставления пользователю
+  language_code: rus
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19101-1:2014'
+    clause: 4.1.19
+    link: 'https://www.iso.org/standard/59164.html'
+  lineage_source: 'перевод ИСО 19101-1:2014,'
+  lineage_source_similarity: 1
+  date_accepted: 2002-07-01T00:00:00.000Z
+  review_date: 2010-10-12T00:00:00.000Z
+  review_status: ''
+  review_decision: ''
+  review_decision_date: 2014-11-01T00:00:00.000Z
+  review_decision_event: 'Публикация ИСО19101-1:2014'
+  review_decision_notes: >-
+    Авторитетная ссылка изменена с ISO 19101: 2002 на ISO 19101-1: 2014.
+    Источник происхождения добавлен как ISO 19101: 2002.
+  release: '1'
+  terms:
+    - type: expression
+      designation: геоинформационный сервис
+      normative_status: preferred
+  _revisions:
+    current: 559fce
+    tree:
+      559fce:
+        object:
+          id: 206
+          definition: >-
+            сервис преобразования географической информации, управления ею или
+            предоставления пользователю
+          language_code: rus
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19101-1:2014'
+            clause: 4.1.19
+            link: 'https://www.iso.org/standard/59164.html'
+          lineage_source: 'перевод ИСО 19101-1:2014,'
+          lineage_source_similarity: 1
+          date_accepted: 2002-07-01T00:00:00.000Z
+          review_date: 2010-10-12T00:00:00.000Z
+          review_status: ''
+          review_decision: ''
+          review_decision_date: 2014-11-01T00:00:00.000Z
+          review_decision_event: 'Публикация ИСО19101-1:2014'
+          review_decision_notes: >-
+            Авторитетная ссылка изменена с ISO 19101: 2002 на ISO 19101-1: 2014.
+            Источник происхождения добавлен как ISO 19101: 2002.
+          release: '1'
+          terms:
+            - type: expression
+              designation: геоинформационный сервис
+              normative_status: preferred
+        parents: []
+        timeCreated: 2002-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 206
+  definition: >-
+    servicio que transforma, gestiona o presenta información geográfica a los
+    usuarios
+  language_code: spa
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19101-1:2014'
+    clause: 4.1.19
+    link: 'https://www.iso.org/standard/59164.html'
+  lineage_source: 'ISO 19101:2002'
+  lineage_source_similarity: 1
+  date_accepted: 2002-07-01T00:00:00.000Z
+  review_date: 2010-10-12T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2014-11-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19101-1:2014'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19101:2002 to ISO 19101-1:2014.
+    Lineage source added as ISO 19101:2002.
+  release: '1'
+  terms:
+    - type: expression
+      designation: servicio de información geográfica
+      normative_status: preferred
+  _revisions:
+    current: 9efdf5
+    tree:
+      9efdf5:
+        object:
+          id: 206
+          definition: >-
+            servicio que transforma, gestiona o presenta información geográfica
+            a los usuarios
+          language_code: spa
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19101-1:2014'
+            clause: 4.1.19
+            link: 'https://www.iso.org/standard/59164.html'
+          lineage_source: 'ISO 19101:2002'
+          lineage_source_similarity: 1
+          date_accepted: 2002-07-01T00:00:00.000Z
+          review_date: 2010-10-12T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2014-11-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19101-1:2014'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19101:2002 to ISO
+            19101-1:2014. Lineage source added as ISO 19101:2002.
+          release: '1'
+          terms:
+            - type: expression
+              designation: servicio de información geográfica
+              normative_status: preferred
+        parents: []
+        timeCreated: 2002-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+swe:
+  id: 206
+  definition: IT-baserad tjänst som tillgängliggör och hanterar geodata
+  country_code: swe
+  language_code: swe
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19101-1:2014'
+    clause: 4.1.19
+    link: 'https://www.iso.org/standard/59164.html'
+  lineage_source: 'ISO 19101:2002'
+  lineage_source_similarity: 1
+  date_accepted: 2002-07-01T00:00:00.000Z
+  review_date: 2010-10-12T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2014-11-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19101-1:2014'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19101:2002 to ISO 19101-1:2014.
+    Lineage source added as ISO 19101:2002.
+  release: '1'
+  terms:
+    - type: expression
+      designation: geodatatjänst
+      normative_status: preferred
+  _revisions:
+    current: fae135
+    tree:
+      fae135:
+        object:
+          id: 206
+          definition: IT-baserad tjänst som tillgängliggör och hanterar geodata
+          country_code: swe
+          language_code: swe
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19101-1:2014'
+            clause: 4.1.19
+            link: 'https://www.iso.org/standard/59164.html'
+          lineage_source: 'ISO 19101:2002'
+          lineage_source_similarity: 1
+          date_accepted: 2002-07-01T00:00:00.000Z
+          review_date: 2010-10-12T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2014-11-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19101-1:2014'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19101:2002 to ISO
+            19101-1:2014. Lineage source added as ISO 19101:2002.
+          release: '1'
+          terms:
+            - type: expression
+              designation: geodatatjänst
+              normative_status: preferred
+        parents: []
+        timeCreated: 2002-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

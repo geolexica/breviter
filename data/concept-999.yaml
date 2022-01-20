@@ -1,0 +1,528 @@
+term: ground reference point
+termid: 999
+eng:
+  id: 999
+  abbrev: GRP
+  definition: >-
+    3D position of a reference point on the ground for a given synthetic
+    aperture
+  language_code: eng
+  notes:
+    - >-
+      It is usually the centre point of an image (Spotlight) or an image line
+      (Stripmap). It is usually expressed in ECEF coordinates in metres.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19130-1:2018'
+    clause: '(E), 3.44'
+    link: 'https://www.iso.org/standard/66847.html'
+  lineage_source: 'ISO/TS 19130:2010(E)'
+  lineage_source_similarity: '1'
+  date_accepted: 2010-06-15T00:00:00.000Z
+  review_date: 2018-09-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2018-09-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19130-1:2018(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO/TS 19130:2010 to ISO
+    19130-1:2018(E), 3.44. Lineage source added as ISO/TS 19130:2010(E)
+  release: '2'
+  terms:
+    - type: expression
+      designation: ground reference point
+      normative_status: preferred
+  _revisions:
+    current: 9967ba
+    tree:
+      9967ba:
+        object:
+          id: 999
+          abbrev: GRP
+          definition: >-
+            3D position of a reference point on the ground for a given synthetic
+            aperture
+          language_code: eng
+          notes:
+            - >-
+              It is usually the centre point of an image (Spotlight) or an image
+              line (Stripmap). It is usually expressed in ECEF coordinates in
+              metres.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19130-1:2018'
+            clause: '(E), 3.44'
+            link: 'https://www.iso.org/standard/66847.html'
+          lineage_source: 'ISO/TS 19130:2010(E)'
+          lineage_source_similarity: '1'
+          date_accepted: 2010-06-15T00:00:00.000Z
+          review_date: 2018-09-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2018-09-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19130-1:2018(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO/TS 19130:2010 to ISO
+            19130-1:2018(E), 3.44. Lineage source added as ISO/TS 19130:2010(E)
+          release: '2'
+          terms:
+            - type: expression
+              designation: ground reference point
+              normative_status: preferred
+        parents: []
+        timeCreated: 2010-06-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+ara:
+  id: 999
+  abbrev: ن إ أ
+  definition: >-
+    موقع ثلاثي الأبعاد لنقطة إسناد مرجعي على الأرض خاصة بفتحة عددسة رادار
+    مركَّبة
+  language_code: ara
+  notes:
+    - >-
+      هي عادة النقطة الوسط للصورة (نقطة التركيز) أو لسلسلة صور (خريطة شرائحية).
+      ويتم التعبير عنها بالأمتار عادة في نظام الإحداثيات الديكارتي ECEF .
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19130-1:2018'
+    clause: '(E), 3.44'
+    link: 'https://www.iso.org/standard/66847.html'
+  lineage_source: 'ISO/TS 19130:2010(E)'
+  lineage_source_similarity: '1'
+  date_accepted: 2010-06-15T00:00:00.000Z
+  review_date: 2018-09-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2018-09-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19130-1:2018(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO/TS 19130:2010 to ISO
+    19130-1:2018(E), 3.44. Lineage source added as ISO/TS 19130:2010(E)
+  release: '2'
+  terms:
+    - type: expression
+      designation: نقطة إسناد مرجعي أرضية
+      normative_status: preferred
+  _revisions:
+    current: 1b8a69
+    tree:
+      1b8a69:
+        object:
+          id: 999
+          abbrev: ن إ أ
+          definition: >-
+            موقع ثلاثي الأبعاد لنقطة إسناد مرجعي على الأرض خاصة بفتحة عددسة
+            رادار مركَّبة
+          language_code: ara
+          notes:
+            - >-
+              هي عادة النقطة الوسط للصورة (نقطة التركيز) أو لسلسلة صور (خريطة
+              شرائحية). ويتم التعبير عنها بالأمتار عادة في نظام الإحداثيات
+              الديكارتي ECEF .
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19130-1:2018'
+            clause: '(E), 3.44'
+            link: 'https://www.iso.org/standard/66847.html'
+          lineage_source: 'ISO/TS 19130:2010(E)'
+          lineage_source_similarity: '1'
+          date_accepted: 2010-06-15T00:00:00.000Z
+          review_date: 2018-09-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2018-09-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19130-1:2018(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO/TS 19130:2010 to ISO
+            19130-1:2018(E), 3.44. Lineage source added as ISO/TS 19130:2010(E)
+          release: '2'
+          terms:
+            - type: expression
+              designation: نقطة إسناد مرجعي أرضية
+              normative_status: preferred
+        parents: []
+        timeCreated: 2010-06-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+deu:
+  id: 999
+  abbrev: GRP
+  definition: >-
+    in drei Dimensionen bekannter Referenzpunkt für die Messung mit
+    synthetischer Apertur
+  language_code: deu
+  notes:
+    - >-
+      It is usually the centre point of an image (Spotlight) or an image line
+      (Stripmap). It is usually expressed in ECEF coordinates in metres.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19130-1:2018'
+    clause: '(E), 3.44'
+    link: 'https://www.iso.org/standard/66847.html'
+  lineage_source: 'ISO/TS 19130:2010(E)'
+  lineage_source_similarity: '1'
+  date_accepted: 2010-06-15T00:00:00.000Z
+  review_date: 2018-09-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2018-09-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19130-1:2018(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO/TS 19130:2010 to ISO
+    19130-1:2018(E), 3.44. Lineage source added as ISO/TS 19130:2010(E)
+  release: '2'
+  terms:
+    - type: expression
+      designation: SAR-Referenzpunkt
+      normative_status: preferred
+  _revisions:
+    current: 476a6d
+    tree:
+      476a6d:
+        object:
+          id: 999
+          abbrev: GRP
+          definition: >-
+            in drei Dimensionen bekannter Referenzpunkt für die Messung mit
+            synthetischer Apertur
+          language_code: deu
+          notes:
+            - >-
+              It is usually the centre point of an image (Spotlight) or an image
+              line (Stripmap). It is usually expressed in ECEF coordinates in
+              metres.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19130-1:2018'
+            clause: '(E), 3.44'
+            link: 'https://www.iso.org/standard/66847.html'
+          lineage_source: 'ISO/TS 19130:2010(E)'
+          lineage_source_similarity: '1'
+          date_accepted: 2010-06-15T00:00:00.000Z
+          review_date: 2018-09-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2018-09-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19130-1:2018(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO/TS 19130:2010 to ISO
+            19130-1:2018(E), 3.44. Lineage source added as ISO/TS 19130:2010(E)
+          release: '2'
+          terms:
+            - type: expression
+              designation: SAR-Referenzpunkt
+              normative_status: preferred
+        parents: []
+        timeCreated: 2010-06-15T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+kor:
+  id: 999
+  definition: 합성 개구에 대한 지상 기준점의 3차원 위치
+  language_code: kor
+  notes:
+    - >-
+      It is usually the centre point of an image (Spotlight) or an image line
+      (Stripmap). It is usually expressed in ECEF coordinates in metres.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19130-1:2018'
+    clause: '(E), 3.44'
+    link: 'https://www.iso.org/standard/66847.html'
+  lineage_source: 'ISO/TS 19130:2010(E)'
+  lineage_source_similarity: '1'
+  date_accepted: 2010-06-15T00:00:00.000Z
+  review_date: 2018-09-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2018-09-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19130-1:2018(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO/TS 19130:2010 to ISO
+    19130-1:2018(E), 3.44. Lineage source added as ISO/TS 19130:2010(E)
+  release: '2'
+  terms:
+    - type: expression
+      designation: GRP
+      normative_status: preferred
+  _revisions:
+    current: '640941'
+    tree:
+      '640941':
+        object:
+          id: 999
+          definition: 합성 개구에 대한 지상 기준점의 3차원 위치
+          language_code: kor
+          notes:
+            - >-
+              It is usually the centre point of an image (Spotlight) or an image
+              line (Stripmap). It is usually expressed in ECEF coordinates in
+              metres.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19130-1:2018'
+            clause: '(E), 3.44'
+            link: 'https://www.iso.org/standard/66847.html'
+          lineage_source: 'ISO/TS 19130:2010(E)'
+          lineage_source_similarity: '1'
+          date_accepted: 2010-06-15T00:00:00.000Z
+          review_date: 2018-09-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2018-09-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19130-1:2018(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO/TS 19130:2010 to ISO
+            19130-1:2018(E), 3.44. Lineage source added as ISO/TS 19130:2010(E)
+          release: '2'
+          terms:
+            - type: expression
+              designation: GRP
+              normative_status: preferred
+        parents: []
+        timeCreated: 2010-06-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 999
+  abbrev: GRP
+  definition: 3D - положение точки отсёта на земле для заданной синтетической апертуры
+  language_code: rus
+  notes:
+    - >-
+      обычно это центральная точка изображения (Spotlight) или линия изображения
+      (Stripmap). Обычно он выражается в координатах ECEF в метрах.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19130-1:2018'
+    clause: '(E), 3.44'
+    link: 'https://www.iso.org/standard/66847.html'
+  lineage_source: 'ISO/TS 19130:2010(E)'
+  lineage_source_similarity: '1'
+  date_accepted: 2010-06-15T00:00:00.000Z
+  review_date: 2018-09-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2018-09-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19130-1:2018(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO/TS 19130:2010 to ISO
+    19130-1:2018(E), 3.44. Lineage source added as ISO/TS 19130:2010(E)
+  release: '2'
+  terms:
+    - type: expression
+      designation: наземная точка отсчета
+      normative_status: preferred
+  _revisions:
+    current: f2c50d
+    tree:
+      f2c50d:
+        object:
+          id: 999
+          abbrev: GRP
+          definition: >-
+            3D - положение точки отсёта на земле для заданной синтетической
+            апертуры
+          language_code: rus
+          notes:
+            - >-
+              обычно это центральная точка изображения (Spotlight) или линия
+              изображения (Stripmap). Обычно он выражается в координатах ECEF в
+              метрах.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19130-1:2018'
+            clause: '(E), 3.44'
+            link: 'https://www.iso.org/standard/66847.html'
+          lineage_source: 'ISO/TS 19130:2010(E)'
+          lineage_source_similarity: '1'
+          date_accepted: 2010-06-15T00:00:00.000Z
+          review_date: 2018-09-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2018-09-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19130-1:2018(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO/TS 19130:2010 to ISO
+            19130-1:2018(E), 3.44. Lineage source added as ISO/TS 19130:2010(E)
+          release: '2'
+          terms:
+            - type: expression
+              designation: наземная точка отсчета
+              normative_status: preferred
+        parents: []
+        timeCreated: 2010-06-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 999
+  abbrev: GRP
+  definition: >-
+    posición tridimensional de un punto de referencia en el terreno para una
+    apertura sintética dada
+  language_code: spa
+  notes:
+    - >-
+      Normalmente es el punto central de una imagen (foco) o  una línea de la
+      imagen (pasada). Normalmente se expresa en coordenadas ECEF en metros.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19130-1:2018'
+    clause: '(E), 3.44'
+    link: 'https://www.iso.org/standard/66847.html'
+  lineage_source: 'ISO/TS 19130:2010(E)'
+  lineage_source_similarity: '1'
+  date_accepted: 2010-06-15T00:00:00.000Z
+  review_date: 2018-09-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2018-09-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19130-1:2018(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO/TS 19130:2010 to ISO
+    19130-1:2018(E), 3.44. Lineage source added as ISO/TS 19130:2010(E)
+  release: '2'
+  terms:
+    - type: expression
+      designation: punto terrestre de referencia
+      normative_status: preferred
+  _revisions:
+    current: dd5fd9
+    tree:
+      dd5fd9:
+        object:
+          id: 999
+          abbrev: GRP
+          definition: >-
+            posición tridimensional de un punto de referencia en el terreno para
+            una apertura sintética dada
+          language_code: spa
+          notes:
+            - >-
+              Normalmente es el punto central de una imagen (foco) o  una línea
+              de la imagen (pasada). Normalmente se expresa en coordenadas ECEF
+              en metros.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19130-1:2018'
+            clause: '(E), 3.44'
+            link: 'https://www.iso.org/standard/66847.html'
+          lineage_source: 'ISO/TS 19130:2010(E)'
+          lineage_source_similarity: '1'
+          date_accepted: 2010-06-15T00:00:00.000Z
+          review_date: 2018-09-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2018-09-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19130-1:2018(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO/TS 19130:2010 to ISO
+            19130-1:2018(E), 3.44. Lineage source added as ISO/TS 19130:2010(E)
+          release: '2'
+          terms:
+            - type: expression
+              designation: punto terrestre de referencia
+              normative_status: preferred
+        parents: []
+        timeCreated: 2010-06-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+swe:
+  id: 999
+  abbrev: GRP
+  definition: >-
+    tredimensionellt läge hos en referenspunkt på marken för en viss syntetisk
+    apertur
+  country_code: swe
+  language_code: swe
+  notes:
+    - >-
+      It is usually the centre point of an image (Spotlight) or an image line
+      (Stripmap). It is usually expressed in ECEF coordinates in metres.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19130-1:2018'
+    clause: '(E), 3.44'
+    link: 'https://www.iso.org/standard/66847.html'
+  lineage_source: 'ISO/TS 19130:2010(E)'
+  lineage_source_similarity: '1'
+  date_accepted: 2010-06-15T00:00:00.000Z
+  review_date: 2018-09-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2018-09-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19130-1:2018(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO/TS 19130:2010 to ISO
+    19130-1:2018(E), 3.44. Lineage source added as ISO/TS 19130:2010(E)
+  release: '2'
+  terms:
+    - type: expression
+      designation: markreferenspunkt
+      normative_status: preferred
+  _revisions:
+    current: 23ef81
+    tree:
+      23ef81:
+        object:
+          id: 999
+          abbrev: GRP
+          definition: >-
+            tredimensionellt läge hos en referenspunkt på marken för en viss
+            syntetisk apertur
+          country_code: swe
+          language_code: swe
+          notes:
+            - >-
+              It is usually the centre point of an image (Spotlight) or an image
+              line (Stripmap). It is usually expressed in ECEF coordinates in
+              metres.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19130-1:2018'
+            clause: '(E), 3.44'
+            link: 'https://www.iso.org/standard/66847.html'
+          lineage_source: 'ISO/TS 19130:2010(E)'
+          lineage_source_similarity: '1'
+          date_accepted: 2010-06-15T00:00:00.000Z
+          review_date: 2018-09-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2018-09-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19130-1:2018(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO/TS 19130:2010 to ISO
+            19130-1:2018(E), 3.44. Lineage source added as ISO/TS 19130:2010(E)
+          release: '2'
+          terms:
+            - type: expression
+              designation: markreferenspunkt
+              normative_status: preferred
+        parents: []
+        timeCreated: 2010-06-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

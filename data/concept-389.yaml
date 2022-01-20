@@ -1,0 +1,488 @@
+term: route instruction
+termid: 389
+eng:
+  id: 389
+  definition: >-
+    information needed at a point along a route in a network that allows that
+    route to be traversed
+  language_code: eng
+  notes:
+    - >-
+      To minimize the number of instructions needed to complete a route
+      traversal, a default instruction can be assumed at junctions without
+      specifically associated instructions. This default is called the main-road
+      rule.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19133:2005'
+    link: 'https://www.iso.org/standard/32551.html'
+  date_accepted: 2005-10-15T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: route instruction
+      normative_status: preferred
+  _revisions:
+    current: ff0819
+    tree:
+      ff0819:
+        object:
+          id: 389
+          definition: >-
+            information needed at a point along a route in a network that allows
+            that route to be traversed
+          language_code: eng
+          notes:
+            - >-
+              To minimize the number of instructions needed to complete a route
+              traversal, a default instruction can be assumed at junctions
+              without specifically associated instructions. This default is
+              called the main-road rule.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19133:2005'
+            link: 'https://www.iso.org/standard/32551.html'
+          date_accepted: 2005-10-15T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: route instruction
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-10-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+ara:
+  id: 389
+  definition: >-
+    المعلومات اللازمة عند نقطة معينة على طول مسار في الشبكة للسماح باجتياز ذلك
+    المسار
+  language_code: ara
+  notes:
+    - >-
+      لتقليل عدد الإرشادات أو التعليمات المطلوبة لإكمال عملية اجتياز مسلك معين,
+      يمكن تبني تعليمات افتراضية عند ملتقيات الطرق بدون الأخذ بتعليمات محددة
+      ترتبط بذلك. وهذه التعليمات الافتراضية تسمى "قاعدة الطريق الرئيسي".
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19133:2005'
+    link: 'https://www.iso.org/standard/32551.html'
+  date_accepted: 2005-10-15T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: تعليمات المسار
+      normative_status: preferred
+  _revisions:
+    current: 3a673a
+    tree:
+      3a673a:
+        object:
+          id: 389
+          definition: >-
+            المعلومات اللازمة عند نقطة معينة على طول مسار في الشبكة للسماح
+            باجتياز ذلك المسار
+          language_code: ara
+          notes:
+            - >-
+              لتقليل عدد الإرشادات أو التعليمات المطلوبة لإكمال عملية اجتياز
+              مسلك معين, يمكن تبني تعليمات افتراضية عند ملتقيات الطرق بدون الأخذ
+              بتعليمات محددة ترتبط بذلك. وهذه التعليمات الافتراضية تسمى "قاعدة
+              الطريق الرئيسي".
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19133:2005'
+            link: 'https://www.iso.org/standard/32551.html'
+          date_accepted: 2005-10-15T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: تعليمات المسار
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-10-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+zho:
+  id: 389
+  definition: 在允许路径遍历的网络中，沿路径的点继续行进所需要的信息。
+  language_code: zho
+  notes:
+    - 为了尽量减少完成路径遍历所需要的指令数量，把缺省的指令认定为是一组没有特殊关联指令的连接点。这个缺省指令被称为主路规则。
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19133:2005'
+    link: 'https://www.iso.org/standard/32551.html'
+  date_accepted: 2005-10-15T00:00:00.000Z
+  terms:
+    - type: expression
+      designation: 路径指令
+      normative_status: preferred
+  _revisions:
+    current: a1a07b
+    tree:
+      a1a07b:
+        object:
+          id: 389
+          definition: 在允许路径遍历的网络中，沿路径的点继续行进所需要的信息。
+          language_code: zho
+          notes:
+            - 为了尽量减少完成路径遍历所需要的指令数量，把缺省的指令认定为是一组没有特殊关联指令的连接点。这个缺省指令被称为主路规则。
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19133:2005'
+            link: 'https://www.iso.org/standard/32551.html'
+          date_accepted: 2005-10-15T00:00:00.000Z
+          terms:
+            - type: expression
+              designation: 路径指令
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-10-15T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+fin:
+  id: 389
+  definition: >-
+    verkostoon kuuluvan reitin pisteissä tarvittava tieto, jonka avulla kyseinen
+    reitti voidaan kulkea
+  language_code: fin
+  notes:
+    - >-
+      Jotta reitin kulkemiseen tarvittavien ohjeiden määrä voidaan pitää
+      mahdollisimman pienenä, voidaan risteyssolmuissa, joihin ei liity
+      erityistä ohjeistusta, soveltaa oletusohjeistusta. Oletusohjeistusta
+      kutsutaan kulkemisen pääsäännöksi.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19133:2005'
+    link: 'https://www.iso.org/standard/32551.html'
+  lineage_source: 'Ei lähdettä, käännetty'
+  date_accepted: 2005-10-15T00:00:00.000Z
+  terms:
+    - type: expression
+      designation: reittiohjeistus
+      normative_status: preferred
+  _revisions:
+    current: fc3c10
+    tree:
+      fc3c10:
+        object:
+          id: 389
+          definition: >-
+            verkostoon kuuluvan reitin pisteissä tarvittava tieto, jonka avulla
+            kyseinen reitti voidaan kulkea
+          language_code: fin
+          notes:
+            - >-
+              Jotta reitin kulkemiseen tarvittavien ohjeiden määrä voidaan pitää
+              mahdollisimman pienenä, voidaan risteyssolmuissa, joihin ei liity
+              erityistä ohjeistusta, soveltaa oletusohjeistusta.
+              Oletusohjeistusta kutsutaan kulkemisen pääsäännöksi.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19133:2005'
+            link: 'https://www.iso.org/standard/32551.html'
+          lineage_source: 'Ei lähdettä, käännetty'
+          date_accepted: 2005-10-15T00:00:00.000Z
+          terms:
+            - type: expression
+              designation: reittiohjeistus
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-10-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+fra:
+  id: 389
+  definition: >-
+    informations nécessaires en un point le long de l'itinéraire dans un réseau
+    permettant à l'itinéraire d'être parcouru
+  language_code: fra
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: ISO 19133
+    link: 'https://www.iso.org/standard/32551.html'
+  lineage_source: ''
+  date_accepted: 2005-10-15T00:00:00.000Z
+  terms:
+    - type: expression
+      designation: instruction d'itinéraire
+      normative_status: preferred
+  _revisions:
+    current: 012da3
+    tree:
+      012da3:
+        object:
+          id: 389
+          definition: >-
+            informations nécessaires en un point le long de l'itinéraire dans un
+            réseau permettant à l'itinéraire d'être parcouru
+          language_code: fra
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: ISO 19133
+            link: 'https://www.iso.org/standard/32551.html'
+          lineage_source: ''
+          date_accepted: 2005-10-15T00:00:00.000Z
+          terms:
+            - type: expression
+              designation: instruction d'itinéraire
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-10-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+kor:
+  id: 389
+  definition: 운행 가능한 경로 네트워크 상의 점에 필요한 정보
+  language_code: kor
+  notes:
+    - >-
+      경로 운행에 필요한 지시를 최소화하기 위해 기본지시는 특별한 지시가 없는 교차점을 가질 수 있다. 이 기본 지시를 주요 도로 규칙이라
+      한다.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19133:2005'
+    link: 'https://www.iso.org/standard/32551.html'
+  lineage_source: KS X ISO 19133
+  date_accepted: 2006-12-01T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: 경로 지시
+      normative_status: preferred
+  _revisions:
+    current: '558623'
+    tree:
+      '558623':
+        object:
+          id: 389
+          definition: 운행 가능한 경로 네트워크 상의 점에 필요한 정보
+          language_code: kor
+          notes:
+            - >-
+              경로 운행에 필요한 지시를 최소화하기 위해 기본지시는 특별한 지시가 없는 교차점을 가질 수 있다. 이 기본 지시를 주요
+              도로 규칙이라 한다.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19133:2005'
+            link: 'https://www.iso.org/standard/32551.html'
+          lineage_source: KS X ISO 19133
+          date_accepted: 2006-12-01T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: 경로 지시
+              normative_status: preferred
+        parents: []
+        timeCreated: 2006-12-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 389
+  definition: >-
+    информация, необходимая в определенной точке маршрута в пределах сети и
+    позволяющая следовать по этому маршруту
+  language_code: rus
+  notes:
+    - >-
+      С целью минимизации количества инструкций, необходимых для движения по
+      маршруту, к примыканиям может быть приписана инструкция по умолчанию, т.е.
+      примыкания не связаны с какими-либо специальными инструкциями. Эта
+      инструкция называется «правило главной дороги»
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19133:2005'
+    link: 'https://www.iso.org/standard/32551.html'
+  lineage_source: Internet
+  date_accepted: 2005-10-15T00:00:00.000Z
+  terms:
+    - type: expression
+      designation: путевая инструкция
+      normative_status: preferred
+  _revisions:
+    current: 630eb7
+    tree:
+      630eb7:
+        object:
+          id: 389
+          definition: >-
+            информация, необходимая в определенной точке маршрута в пределах
+            сети и позволяющая следовать по этому маршруту
+          language_code: rus
+          notes:
+            - >-
+              С целью минимизации количества инструкций, необходимых для
+              движения по маршруту, к примыканиям может быть приписана
+              инструкция по умолчанию, т.е. примыкания не связаны с какими-либо
+              специальными инструкциями. Эта инструкция называется «правило
+              главной дороги»
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19133:2005'
+            link: 'https://www.iso.org/standard/32551.html'
+          lineage_source: Internet
+          date_accepted: 2005-10-15T00:00:00.000Z
+          terms:
+            - type: expression
+              designation: путевая инструкция
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-10-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 389
+  definition: >-
+    información necesaria en un punto a lo largo de una ruta en una red que
+    permite recorrer la ruta
+  language_code: spa
+  notes:
+    - >-
+      Para minimizar el número de instrucciones necesarias para completar el
+      recorrido de una ruta, se supone una instrucción por defecto en cruces sin
+      instrucciones específicamente asociadas. Esta instrucción por defecto es
+      la llamada regla de la carretera principal.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19133:2005'
+    link: 'https://www.iso.org/standard/32551.html'
+  date_accepted: 2005-10-15T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: instrucciones de ruta
+      normative_status: preferred
+  _revisions:
+    current: 5aa3ce
+    tree:
+      5aa3ce:
+        object:
+          id: 389
+          definition: >-
+            información necesaria en un punto a lo largo de una ruta en una red
+            que permite recorrer la ruta
+          language_code: spa
+          notes:
+            - >-
+              Para minimizar el número de instrucciones necesarias para
+              completar el recorrido de una ruta, se supone una instrucción por
+              defecto en cruces sin instrucciones específicamente asociadas.
+              Esta instrucción por defecto es la llamada regla de la carretera
+              principal.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19133:2005'
+            link: 'https://www.iso.org/standard/32551.html'
+          date_accepted: 2005-10-15T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: instrucciones de ruta
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-10-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+swe:
+  id: 389
+  definition: >-
+    information som behövs vid en position längs en rutt i ett nätverk och som
+    medverkar till att rutten följs
+  country_code: swe
+  language_code: swe
+  notes:
+    - >-
+      To minimize the number of instructions needed to complete a route
+      traversal, a default instruction can be assumed at junctions without
+      specifically associated instructions. This default is called the main-road
+      rule.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19133:2005'
+    link: 'https://www.iso.org/standard/32551.html'
+  lineage_source: (Type reference to national language document)
+  date_accepted: 2005-10-15T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: ruttinstruktion
+      normative_status: preferred
+  _revisions:
+    current: b18bc1
+    tree:
+      b18bc1:
+        object:
+          id: 389
+          definition: >-
+            information som behövs vid en position längs en rutt i ett nätverk
+            och som medverkar till att rutten följs
+          country_code: swe
+          language_code: swe
+          notes:
+            - >-
+              To minimize the number of instructions needed to complete a route
+              traversal, a default instruction can be assumed at junctions
+              without specifically associated instructions. This default is
+              called the main-road rule.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19133:2005'
+            link: 'https://www.iso.org/standard/32551.html'
+          lineage_source: (Type reference to national language document)
+          date_accepted: 2005-10-15T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: ruttinstruktion
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-10-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

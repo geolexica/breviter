@@ -1,0 +1,63 @@
+term: spectral width
+termid: 2256
+eng:
+  id: 2256
+  definition: specific wavelength interval within the electromagnetic spectrum
+  language_code: eng
+  notes: []
+  examples:
+    - >-
+      Band 1 of Landsat TM lies between 0,45 μm  and 0,52 μm in the visible part
+      of the spectrum.
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19115-2:2019'
+    clause: '(E), 3.28'
+    link: 'https://www.iso.org/standard/67039.html'
+  date_accepted: 2019-01-01T00:00:00.000Z
+  review_date: 2019-01-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-01-01T00:00:00.000Z
+  review_decision_event: Normal ISO processing
+  review_decision_notes: 'Publication of document ISO 19115-2:2019(E)'
+  release: '5'
+  terms:
+    - type: expression
+      designation: spectral width
+      normative_status: preferred
+  _revisions:
+    current: 73b702
+    tree:
+      73b702:
+        object:
+          id: 2256
+          definition: specific wavelength interval within the electromagnetic spectrum
+          language_code: eng
+          notes: []
+          examples:
+            - >-
+              Band 1 of Landsat TM lies between 0,45 μm  and 0,52 μm in the
+              visible part of the spectrum.
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19115-2:2019'
+            clause: '(E), 3.28'
+            link: 'https://www.iso.org/standard/67039.html'
+          date_accepted: 2019-01-01T00:00:00.000Z
+          review_date: 2019-01-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-01-01T00:00:00.000Z
+          review_decision_event: Normal ISO processing
+          review_decision_notes: 'Publication of document ISO 19115-2:2019(E)'
+          release: '5'
+          terms:
+            - type: expression
+              designation: spectral width
+              normative_status: preferred
+        parents: []
+        timeCreated: 2019-01-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

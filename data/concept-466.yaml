@@ -1,0 +1,861 @@
+term: topological object
+termid: 466
+eng:
+  id: 466
+  definition: >-
+    spatial object representing spatial characteristics that are invariant under
+    continuous transformations
+  language_code: eng
+  notes:
+    - >-
+      A topological object is a topological primitive, a collection of
+      topological primitives, or a topological complex.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19107:2019'
+    clause: '(E), 3.99'
+    link: 'https://www.iso.org/standard/66175.html'
+  lineage_source: 'ISO 19107:2003€'
+  lineage_source_similarity: 1
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19107:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19107:2003 to ISO 19107:2019(E),
+    3.99. Lineage source added as ISO 19107:2003€
+  release: '1'
+  terms:
+    - type: expression
+      designation: topological object
+      normative_status: preferred
+  _revisions:
+    current: 1db70b
+    tree:
+      1db70b:
+        object:
+          id: 466
+          definition: >-
+            spatial object representing spatial characteristics that are
+            invariant under continuous transformations
+          language_code: eng
+          notes:
+            - >-
+              A topological object is a topological primitive, a collection of
+              topological primitives, or a topological complex.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19107:2019'
+            clause: '(E), 3.99'
+            link: 'https://www.iso.org/standard/66175.html'
+          lineage_source: 'ISO 19107:2003€'
+          lineage_source_similarity: 1
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19107:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19107:2003 to ISO
+            19107:2019(E), 3.99. Lineage source added as ISO 19107:2003€
+          release: '1'
+          terms:
+            - type: expression
+              designation: topological object
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+ara:
+  id: 466
+  definition: معلم مكاني يمثل خصائص مكانية تظل ثابتة مع التحولات المستمرة
+  language_code: ara
+  notes:
+    - >-
+      الكيان الطوبولوجي يمكن أن يكون عنصراً طوبولوجياً أولياً , أو مجموعة من
+      العناصر الطوبولوجية الأولية أو مركباً طوبولوجياً.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19107:2019'
+    clause: '(E), 3.99'
+    link: 'https://www.iso.org/standard/66175.html'
+  lineage_source: 'ISO 19107:2003€'
+  lineage_source_similarity: 1
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19107:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19107:2003 to ISO 19107:2019(E),
+    3.99. Lineage source added as ISO 19107:2003€
+  release: '1'
+  terms:
+    - type: expression
+      designation: كائي طوبولوجي
+      normative_status: preferred
+  _revisions:
+    current: 2e0f59
+    tree:
+      2e0f59:
+        object:
+          id: 466
+          definition: معلم مكاني يمثل خصائص مكانية تظل ثابتة مع التحولات المستمرة
+          language_code: ara
+          notes:
+            - >-
+              الكيان الطوبولوجي يمكن أن يكون عنصراً طوبولوجياً أولياً , أو
+              مجموعة من العناصر الطوبولوجية الأولية أو مركباً طوبولوجياً.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19107:2019'
+            clause: '(E), 3.99'
+            link: 'https://www.iso.org/standard/66175.html'
+          lineage_source: 'ISO 19107:2003€'
+          lineage_source_similarity: 1
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19107:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19107:2003 to ISO
+            19107:2019(E), 3.99. Lineage source added as ISO 19107:2003€
+          release: '1'
+          terms:
+            - type: expression
+              designation: كائي طوبولوجي
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+zho:
+  id: 466
+  definition: 表达在连续变换中空间特性保持不变的空间对象。
+  language_code: zho
+  notes:
+    - 一个拓扑对象是一个拓扑单形、若干拓扑单形的一个集合或一个拓扑复形。
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19107:2019'
+    clause: '(E), 3.99'
+    link: 'https://www.iso.org/standard/66175.html'
+  lineage_source: 'ISO 19107:2003€'
+  lineage_source_similarity: 1
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19107:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19107:2003 to ISO 19107:2019(E),
+    3.99. Lineage source added as ISO 19107:2003€
+  release: '1'
+  terms:
+    - type: expression
+      designation: 拓扑对象
+      normative_status: preferred
+  _revisions:
+    current: 0a889e
+    tree:
+      0a889e:
+        object:
+          id: 466
+          definition: 表达在连续变换中空间特性保持不变的空间对象。
+          language_code: zho
+          notes:
+            - 一个拓扑对象是一个拓扑单形、若干拓扑单形的一个集合或一个拓扑复形。
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19107:2019'
+            clause: '(E), 3.99'
+            link: 'https://www.iso.org/standard/66175.html'
+          lineage_source: 'ISO 19107:2003€'
+          lineage_source_similarity: 1
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19107:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19107:2003 to ISO
+            19107:2019(E), 3.99. Lineage source added as ISO 19107:2003€
+          release: '1'
+          terms:
+            - type: expression
+              designation: 拓扑对象
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+fin:
+  id: 466
+  definition: 'sijaintiobjekti, joka kuvaa kohteen topologiaa'
+  language_code: fin
+  notes:
+    - >-
+      Topologinen objekti voi olla topologinen primitiivi, topologisten
+      primitiivien kokoelma tai topologinen kompleksi.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19107:2019'
+    clause: '(E), 3.99'
+    link: 'https://www.iso.org/standard/66175.html'
+  lineage_source: 'ISO 19107:2003€'
+  lineage_source_similarity: 1
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19107:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19107:2003 to ISO 19107:2019(E),
+    3.99. Lineage source added as ISO 19107:2003€
+  release: '1'
+  terms:
+    - type: expression
+      designation: topologinen objekti
+      normative_status: preferred
+  _revisions:
+    current: 1287ae
+    tree:
+      1287ae:
+        object:
+          id: 466
+          definition: 'sijaintiobjekti, joka kuvaa kohteen topologiaa'
+          language_code: fin
+          notes:
+            - >-
+              Topologinen objekti voi olla topologinen primitiivi, topologisten
+              primitiivien kokoelma tai topologinen kompleksi.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19107:2019'
+            clause: '(E), 3.99'
+            link: 'https://www.iso.org/standard/66175.html'
+          lineage_source: 'ISO 19107:2003€'
+          lineage_source_similarity: 1
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19107:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19107:2003 to ISO
+            19107:2019(E), 3.99. Lineage source added as ISO 19107:2003€
+          release: '1'
+          terms:
+            - type: expression
+              designation: topologinen objekti
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+fra:
+  id: 466
+  definition: >-
+    objet spatial représentant des caractéristiques spatiales invariantes sous
+    des transformations continues
+  language_code: fra
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19107:2019'
+    clause: '(E), 3.99'
+    link: 'https://www.iso.org/standard/66175.html'
+  lineage_source: 'ISO 19107:2003€'
+  lineage_source_similarity: 1
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19107:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19107:2003 to ISO 19107:2019(E),
+    3.99. Lineage source added as ISO 19107:2003€
+  release: '1'
+  terms:
+    - type: expression
+      designation: objet topologique
+      normative_status: preferred
+  _revisions:
+    current: b9903f
+    tree:
+      b9903f:
+        object:
+          id: 466
+          definition: >-
+            objet spatial représentant des caractéristiques spatiales
+            invariantes sous des transformations continues
+          language_code: fra
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19107:2019'
+            clause: '(E), 3.99'
+            link: 'https://www.iso.org/standard/66175.html'
+          lineage_source: 'ISO 19107:2003€'
+          lineage_source_similarity: 1
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19107:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19107:2003 to ISO
+            19107:2019(E), 3.99. Lineage source added as ISO 19107:2003€
+          release: '1'
+          terms:
+            - type: expression
+              designation: objet topologique
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+deu:
+  id: 466
+  definition: >-
+    raumbezogenes Objekt mit räumlichen Eigenschaften, die unveränderbar
+    gegenüber stetigen Abbildungen sind
+  language_code: deu
+  notes:
+    - >-
+      A topological object is a topological primitive, a collection of
+      topological primitives, or a topological complex.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19107:2019'
+    clause: '(E), 3.99'
+    link: 'https://www.iso.org/standard/66175.html'
+  lineage_source: 'ISO 19107:2003€'
+  lineage_source_similarity: 1
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19107:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19107:2003 to ISO 19107:2019(E),
+    3.99. Lineage source added as ISO 19107:2003€
+  release: '1'
+  terms:
+    - type: expression
+      designation: topologisches Objekt
+      normative_status: preferred
+  _revisions:
+    current: 9b23ec
+    tree:
+      9b23ec:
+        object:
+          id: 466
+          definition: >-
+            raumbezogenes Objekt mit räumlichen Eigenschaften, die unveränderbar
+            gegenüber stetigen Abbildungen sind
+          language_code: deu
+          notes:
+            - >-
+              A topological object is a topological primitive, a collection of
+              topological primitives, or a topological complex.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19107:2019'
+            clause: '(E), 3.99'
+            link: 'https://www.iso.org/standard/66175.html'
+          lineage_source: 'ISO 19107:2003€'
+          lineage_source_similarity: 1
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19107:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19107:2003 to ISO
+            19107:2019(E), 3.99. Lineage source added as ISO 19107:2003€
+          release: '1'
+          terms:
+            - type: expression
+              designation: topologisches Objekt
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+jpn:
+  id: 466
+  definition: 連続した変換のもとでも変わらない空間特性を表す空間オブジェクト。
+  language_code: jpn
+  notes:
+    - 位相オブジェクトは，位相プリミティブ，位相プリミティブの集まり又は位相複体である。
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19107:2019'
+    clause: '(E), 3.99'
+    link: 'https://www.iso.org/standard/66175.html'
+  lineage_source: 'ISO 19107:2003€'
+  lineage_source_similarity: 1
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19107:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19107:2003 to ISO 19107:2019(E),
+    3.99. Lineage source added as ISO 19107:2003€
+  release: '1'
+  terms:
+    - type: expression
+      designation: 位相オブジェクト
+      normative_status: preferred
+  _revisions:
+    current: 92ca91
+    tree:
+      92ca91:
+        object:
+          id: 466
+          definition: 連続した変換のもとでも変わらない空間特性を表す空間オブジェクト。
+          language_code: jpn
+          notes:
+            - 位相オブジェクトは，位相プリミティブ，位相プリミティブの集まり又は位相複体である。
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19107:2019'
+            clause: '(E), 3.99'
+            link: 'https://www.iso.org/standard/66175.html'
+          lineage_source: 'ISO 19107:2003€'
+          lineage_source_similarity: 1
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19107:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19107:2003 to ISO
+            19107:2019(E), 3.99. Lineage source added as ISO 19107:2003€
+          release: '1'
+          terms:
+            - type: expression
+              designation: 位相オブジェクト
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+kor:
+  id: 466
+  definition: 변형이 계속되어도 변하지 않는 공간적 특성을 나타내는 공간 객체
+  language_code: kor
+  notes:
+    - '위상 객체는 위상 원시 객체, 위상 원시 객체 모음 또는 위상 복합체이다.'
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19107:2019'
+    clause: '(E), 3.99'
+    link: 'https://www.iso.org/standard/66175.html'
+  lineage_source: 'ISO 19107:2003€'
+  lineage_source_similarity: 1
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19107:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19107:2003 to ISO 19107:2019(E),
+    3.99. Lineage source added as ISO 19107:2003€
+  release: '1'
+  terms:
+    - type: expression
+      designation: 위상 객체
+      normative_status: preferred
+  _revisions:
+    current: ebf24d
+    tree:
+      ebf24d:
+        object:
+          id: 466
+          definition: 변형이 계속되어도 변하지 않는 공간적 특성을 나타내는 공간 객체
+          language_code: kor
+          notes:
+            - '위상 객체는 위상 원시 객체, 위상 원시 객체 모음 또는 위상 복합체이다.'
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19107:2019'
+            clause: '(E), 3.99'
+            link: 'https://www.iso.org/standard/66175.html'
+          lineage_source: 'ISO 19107:2003€'
+          lineage_source_similarity: 1
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19107:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19107:2003 to ISO
+            19107:2019(E), 3.99. Lineage source added as ISO 19107:2003€
+          release: '1'
+          terms:
+            - type: expression
+              designation: 위상 객체
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+pol:
+  id: 466
+  definition: >-
+    element przestrzenny mający właściwości przestrzenne niezmienne wobec
+    przekształceń ciągłych
+  language_code: pol
+  notes:
+    - >-
+      Obiektem topologicznym jest prosty element topologiczny, kolekcja prostych
+      elementów topologicznych lub złożony element topologiczny.
+  examples: []
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19107:2019'
+    clause: '(E), 3.99'
+    link: 'https://www.iso.org/standard/66175.html'
+  lineage_source: 'ISO 19107:2003€'
+  lineage_source_similarity: 1
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19107:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19107:2003 to ISO 19107:2019(E),
+    3.99. Lineage source added as ISO 19107:2003€
+  release: '1'
+  terms:
+    - type: expression
+      designation: obiekt topologiczny
+      normative_status: preferred
+  _revisions:
+    current: 91fa9f
+    tree:
+      91fa9f:
+        object:
+          id: 466
+          definition: >-
+            element przestrzenny mający właściwości przestrzenne niezmienne
+            wobec przekształceń ciągłych
+          language_code: pol
+          notes:
+            - >-
+              Obiektem topologicznym jest prosty element topologiczny, kolekcja
+              prostych elementów topologicznych lub złożony element
+              topologiczny.
+          examples: []
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19107:2019'
+            clause: '(E), 3.99'
+            link: 'https://www.iso.org/standard/66175.html'
+          lineage_source: 'ISO 19107:2003€'
+          lineage_source_similarity: 1
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19107:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19107:2003 to ISO
+            19107:2019(E), 3.99. Lineage source added as ISO 19107:2003€
+          release: '1'
+          terms:
+            - type: expression
+              designation: obiekt topologiczny
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 466
+  definition: >-
+    объект пространства, представляющий пространственные свойства, инвариантные
+    по отношению к непрерывным преобразованиям
+  language_code: rus
+  notes:
+    - >-
+      Топологическим объектом является топологический примитив, совокупность
+      топологических примитивов или топологический комплекс
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19107:2019'
+    clause: '(E), 3.99'
+    link: 'https://www.iso.org/standard/66175.html'
+  lineage_source: 'ISO 19107:2003€'
+  lineage_source_similarity: 1
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19107:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19107:2003 to ISO 19107:2019(E),
+    3.99. Lineage source added as ISO 19107:2003€
+  release: '1'
+  terms:
+    - type: expression
+      designation: топологический объект
+      normative_status: preferred
+  _revisions:
+    current: 6d19aa
+    tree:
+      6d19aa:
+        object:
+          id: 466
+          definition: >-
+            объект пространства, представляющий пространственные свойства,
+            инвариантные по отношению к непрерывным преобразованиям
+          language_code: rus
+          notes:
+            - >-
+              Топологическим объектом является топологический примитив,
+              совокупность топологических примитивов или топологический комплекс
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19107:2019'
+            clause: '(E), 3.99'
+            link: 'https://www.iso.org/standard/66175.html'
+          lineage_source: 'ISO 19107:2003€'
+          lineage_source_similarity: 1
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19107:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19107:2003 to ISO
+            19107:2019(E), 3.99. Lineage source added as ISO 19107:2003€
+          release: '1'
+          terms:
+            - type: expression
+              designation: топологический объект
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 466
+  definition: >-
+    objeto espacial que representa las características espaciales que son
+    invariantes ante transformaciones continuas
+  language_code: spa
+  notes:
+    - >-
+      Un objeto topológico es una primitiva topológica, una colección de
+      primitivas topológicas o un complejo topológico.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19107:2019'
+    clause: '(E), 3.99'
+    link: 'https://www.iso.org/standard/66175.html'
+  lineage_source: 'ISO 19107:2003€'
+  lineage_source_similarity: 1
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19107:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19107:2003 to ISO 19107:2019(E),
+    3.99. Lineage source added as ISO 19107:2003€
+  release: '1'
+  terms:
+    - type: expression
+      designation: objeto topológico
+      normative_status: preferred
+  _revisions:
+    current: 411cfe
+    tree:
+      411cfe:
+        object:
+          id: 466
+          definition: >-
+            objeto espacial que representa las características espaciales que
+            son invariantes ante transformaciones continuas
+          language_code: spa
+          notes:
+            - >-
+              Un objeto topológico es una primitiva topológica, una colección de
+              primitivas topológicas o un complejo topológico.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19107:2019'
+            clause: '(E), 3.99'
+            link: 'https://www.iso.org/standard/66175.html'
+          lineage_source: 'ISO 19107:2003€'
+          lineage_source_similarity: 1
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19107:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19107:2003 to ISO
+            19107:2019(E), 3.99. Lineage source added as ISO 19107:2003€
+          release: '1'
+          terms:
+            - type: expression
+              designation: objeto topológico
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+swe:
+  id: 466
+  definition: objekt (i UML) för representation av topologisk egenskap
+  country_code: swe
+  language_code: swe
+  notes:
+    - >-
+      A topological object is a topological primitive, a collection of
+      topological primitives, or a topological complex.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19107:2019'
+    clause: '(E), 3.99'
+    link: 'https://www.iso.org/standard/66175.html'
+  lineage_source: 'ISO 19107:2003€'
+  lineage_source_similarity: 1
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19107:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19107:2003 to ISO 19107:2019(E),
+    3.99. Lineage source added as ISO 19107:2003€
+  release: '1'
+  terms:
+    - type: expression
+      designation: topologiskt objekt
+      normative_status: preferred
+  _revisions:
+    current: 2a9448
+    tree:
+      2a9448:
+        object:
+          id: 466
+          definition: objekt (i UML) för representation av topologisk egenskap
+          country_code: swe
+          language_code: swe
+          notes:
+            - >-
+              A topological object is a topological primitive, a collection of
+              topological primitives, or a topological complex.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19107:2019'
+            clause: '(E), 3.99'
+            link: 'https://www.iso.org/standard/66175.html'
+          lineage_source: 'ISO 19107:2003€'
+          lineage_source_similarity: 1
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19107:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19107:2003 to ISO
+            19107:2019(E), 3.99. Lineage source added as ISO 19107:2003€
+          release: '1'
+          terms:
+            - type: expression
+              designation: topologiskt objekt
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

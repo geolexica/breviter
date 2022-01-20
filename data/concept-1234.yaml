@@ -1,0 +1,195 @@
+term: licence manager
+termid: 1234
+eng:
+  id: 1234
+  definition: >-
+    application that tracks licences available within an organization and
+    coordinates the issuing of these licences to requesting clients
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: New Concepts in BASIS Licensing
+    clause: modified
+  lineage_source: 'ISO 19153:2014, 4.28'
+  lineage_source_similarity: '1'
+  date_accepted: 2014-02-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: licence manager
+      normative_status: preferred
+  _revisions:
+    current: d2c8e4
+    tree:
+      d2c8e4:
+        object:
+          id: 1234
+          definition: >-
+            application that tracks licences available within an organization
+            and coordinates the issuing of these licences to requesting clients
+          language_code: eng
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: New Concepts in BASIS Licensing
+            clause: modified
+          lineage_source: 'ISO 19153:2014, 4.28'
+          lineage_source_similarity: '1'
+          date_accepted: 2014-02-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: licence manager
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+kor:
+  id: 1234
+  definition: 조직내 사용가능 허가증을 추적하고 허가증들을 요청 고객에게 발행하는 일을 조정하는 어플리케이션
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: New Concepts in BASIS Licensing
+    clause: modified
+  lineage_source: 'ISO 19153:2014, 4.28'
+  lineage_source_similarity: '1'
+  date_accepted: 2014-02-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: 허가증 매니저
+      normative_status: preferred
+  _revisions:
+    current: 0f01c8
+    tree:
+      0f01c8:
+        object:
+          id: 1234
+          definition: 조직내 사용가능 허가증을 추적하고 허가증들을 요청 고객에게 발행하는 일을 조정하는 어플리케이션
+          language_code: kor
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: New Concepts in BASIS Licensing
+            clause: modified
+          lineage_source: 'ISO 19153:2014, 4.28'
+          lineage_source_similarity: '1'
+          date_accepted: 2014-02-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: 허가증 매니저
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 1234
+  definition: >-
+    приложение, которое отслеживает лицензии, доступные организации, и
+    координирует выдачу этих лицензий запрашивающим клиентам
+  language_code: rus
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: New Concepts in BASIS Licensing
+    clause: modified
+  lineage_source: 'ISO 19153:2014, 4.28'
+  lineage_source_similarity: '1'
+  date_accepted: 2014-02-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: менеджер лицензий
+      normative_status: preferred
+  _revisions:
+    current: f5d8a6
+    tree:
+      f5d8a6:
+        object:
+          id: 1234
+          definition: >-
+            приложение, которое отслеживает лицензии, доступные организации, и
+            координирует выдачу этих лицензий запрашивающим клиентам
+          language_code: rus
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: New Concepts in BASIS Licensing
+            clause: modified
+          lineage_source: 'ISO 19153:2014, 4.28'
+          lineage_source_similarity: '1'
+          date_accepted: 2014-02-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: менеджер лицензий
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 1234
+  definition: >-
+    aplicación que monitoriza las licencias disponibles en una organización y
+    coordina la asignación de esas licencias a los usuarios que las solicitan
+  language_code: spa
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: New Concepts in BASIS Licensing
+    clause: modified
+  lineage_source: 'ISO 19153:2014, 4.28'
+  lineage_source_similarity: '1'
+  date_accepted: 2014-02-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: gestor de licencias
+      normative_status: preferred
+  _revisions:
+    current: 332bcc
+    tree:
+      332bcc:
+        object:
+          id: 1234
+          definition: >-
+            aplicación que monitoriza las licencias disponibles en una
+            organización y coordina la asignación de esas licencias a los
+            usuarios que las solicitan
+          language_code: spa
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: New Concepts in BASIS Licensing
+            clause: modified
+          lineage_source: 'ISO 19153:2014, 4.28'
+          lineage_source_similarity: '1'
+          date_accepted: 2014-02-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: gestor de licencias
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

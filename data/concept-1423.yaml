@@ -1,0 +1,266 @@
+term: sweep SONAR
+termid: 1423
+eng:
+  id: 1423
+  definition: >-
+    type of SONAR that has several single beam transducer/receivers mounted on a
+    boom, which is then operated parallel to the water’s surface and orthogonal
+    to the vessel’s direction of travel
+  language_code: eng
+  notes:
+    - Sweep sounding is commonly called multi-channel echosounding (MCES).
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO/TS 19130-2:2014'
+    clause: '4.76'
+    link: 'https://www.iso.org/standard/56113.html'
+  date_accepted: 2014-01-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: sweep SONAR
+      normative_status: preferred
+  _revisions:
+    current: 78c16c
+    tree:
+      78c16c:
+        object:
+          id: 1423
+          definition: >-
+            type of SONAR that has several single beam transducer/receivers
+            mounted on a boom, which is then operated parallel to the water’s
+            surface and orthogonal to the vessel’s direction of travel
+          language_code: eng
+          notes:
+            - >-
+              Sweep sounding is commonly called multi-channel echosounding
+              (MCES).
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO/TS 19130-2:2014'
+            clause: '4.76'
+            link: 'https://www.iso.org/standard/56113.html'
+          date_accepted: 2014-01-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: sweep SONAR
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-01-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+kor:
+  id: 1423
+  definition: '선박이 항해하는 방향의 직교방향 및 수면과 평행하는 여러 단일빔 변환기, 수신기를 활대에 장착한 소나의 한 유형'
+  language_code: kor
+  notes:
+    - Sweep sounding is commonly called multi-channel echosounding (MCES).
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO/TS 19130-2:2014'
+    clause: '4.76'
+    link: 'https://www.iso.org/standard/56113.html'
+  date_accepted: 2014-01-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: 스위프 소나
+      normative_status: preferred
+  _revisions:
+    current: 32a1b7
+    tree:
+      32a1b7:
+        object:
+          id: 1423
+          definition: '선박이 항해하는 방향의 직교방향 및 수면과 평행하는 여러 단일빔 변환기, 수신기를 활대에 장착한 소나의 한 유형'
+          language_code: kor
+          notes:
+            - >-
+              Sweep sounding is commonly called multi-channel echosounding
+              (MCES).
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO/TS 19130-2:2014'
+            clause: '4.76'
+            link: 'https://www.iso.org/standard/56113.html'
+          date_accepted: 2014-01-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: 스위프 소나
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-01-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+msa:
+  id: 1423
+  definition: >-
+    Teknik SONAR yang bertujuan bagi mendapatkan imej dasar laut menggunakan
+    pemerun gema berbilang alur/sisi/tunggal.
+  language_code: msa
+  notes:
+    - Sweep sounding is commonly called multi-channel echosounding (MCES).
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO/TS 19130-2:2014'
+    clause: '4.76'
+    link: 'https://www.iso.org/standard/56113.html'
+  date_accepted: 2014-01-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: sapuan SONAR
+      normative_status: preferred
+  _revisions:
+    current: 3fc615
+    tree:
+      3fc615:
+        object:
+          id: 1423
+          definition: >-
+            Teknik SONAR yang bertujuan bagi mendapatkan imej dasar laut
+            menggunakan pemerun gema berbilang alur/sisi/tunggal.
+          language_code: msa
+          notes:
+            - >-
+              Sweep sounding is commonly called multi-channel echosounding
+              (MCES).
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO/TS 19130-2:2014'
+            clause: '4.76'
+            link: 'https://www.iso.org/standard/56113.html'
+          date_accepted: 2014-01-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: sapuan SONAR
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-01-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 1423
+  definition: >-
+    Тип SONAR, который имеет несколько однолучевых преобразователей/приемников,
+    установленных на стреле, которая затем управляется параллельно поверхности
+    воды и ортогонально направлению движения судна
+  language_code: rus
+  notes:
+    - >-
+      сканирование развертки обычно называется многоканальным эхосаундированием
+      (MCES).
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO/TS 19130-2:2014'
+    clause: '4.76'
+    link: 'https://www.iso.org/standard/56113.html'
+  lineage_source: 'ISO/TS 19130-2:2014'
+  date_accepted: 2014-01-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: Стреловидный SONAR
+      normative_status: preferred
+  _revisions:
+    current: eeb175
+    tree:
+      eeb175:
+        object:
+          id: 1423
+          definition: >-
+            Тип SONAR, который имеет несколько однолучевых
+            преобразователей/приемников, установленных на стреле, которая затем
+            управляется параллельно поверхности воды и ортогонально направлению
+            движения судна
+          language_code: rus
+          notes:
+            - >-
+              сканирование развертки обычно называется многоканальным
+              эхосаундированием (MCES).
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO/TS 19130-2:2014'
+            clause: '4.76'
+            link: 'https://www.iso.org/standard/56113.html'
+          lineage_source: 'ISO/TS 19130-2:2014'
+          date_accepted: 2014-01-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: Стреловидный SONAR
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-01-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 1423
+  definition: >-
+    tipo de sonar que tiene varios transductores/receptores de haz único
+    montados en un brazo, que opera en paralelo a la superficie del agua y
+    ortogonal a la dirección de viaje del buque.
+  language_code: spa
+  notes:
+    - >-
+      el rastreo sonar se llama comunmente ecosonda multicanal (Multi-Channel
+      Echo Sounding - MCES).
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO/TS 19130-2:2014'
+    clause: '4.76'
+    link: 'https://www.iso.org/standard/56113.html'
+  date_accepted: 2014-01-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: rastreo sonar
+      normative_status: preferred
+  _revisions:
+    current: 35144d
+    tree:
+      35144d:
+        object:
+          id: 1423
+          definition: >-
+            tipo de sonar que tiene varios transductores/receptores de haz único
+            montados en un brazo, que opera en paralelo a la superficie del agua
+            y ortogonal a la dirección de viaje del buque.
+          language_code: spa
+          notes:
+            - >-
+              el rastreo sonar se llama comunmente ecosonda multicanal
+              (Multi-Channel Echo Sounding - MCES).
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO/TS 19130-2:2014'
+            clause: '4.76'
+            link: 'https://www.iso.org/standard/56113.html'
+          date_accepted: 2014-01-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: rastreo sonar
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-01-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

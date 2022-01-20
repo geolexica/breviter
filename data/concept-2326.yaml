@@ -1,0 +1,57 @@
+term: temporal coordinate reference system
+termid: 2326
+eng:
+  id: 2326
+  definition: coordinate reference system based on a temporal datum
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19111:2019'
+    clause: '(E), 3.1.63'
+    link: 'https://www.iso.org/standard/74039.html'
+  date_accepted: 2019-01-31T00:00:00.000Z
+  review_date: 2019-01-31T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-01-31T00:00:00.000Z
+  review_decision_event: Normal ISO processing
+  review_decision_notes: 'Publication of document ISO 19111:2019(E)'
+  release: '5'
+  terms:
+    - type: expression
+      designation: temporal coordinate reference system
+      normative_status: preferred
+  _revisions:
+    current: 355e7a
+    tree:
+      355e7a:
+        object:
+          id: 2326
+          definition: coordinate reference system based on a temporal datum
+          language_code: eng
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19111:2019'
+            clause: '(E), 3.1.63'
+            link: 'https://www.iso.org/standard/74039.html'
+          date_accepted: 2019-01-31T00:00:00.000Z
+          review_date: 2019-01-31T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-01-31T00:00:00.000Z
+          review_decision_event: Normal ISO processing
+          review_decision_notes: 'Publication of document ISO 19111:2019(E)'
+          release: '5'
+          terms:
+            - type: expression
+              designation: temporal coordinate reference system
+              normative_status: preferred
+        parents: []
+        timeCreated: 2019-01-31T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

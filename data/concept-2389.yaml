@@ -1,0 +1,65 @@
+term: cross-mapping
+termid: 2389
+eng:
+  id: 2389
+  definition: >-
+    comparison of terminological entries from different domains to determine
+    their semantic relationship
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19146:2018'
+    clause: '(E), 3.1.8'
+    link: 'https://www.iso.org/standard/72217.html'
+  date_accepted: 2018-06-01T00:00:00.000Z
+  review_date: 2018-06-01T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2018-06-01T00:00:00.000Z
+  review_decision_event: 'Publication of document ISO 19146:2018(E)'
+  review_decision_notes: 'This entry supersedes the entry for cross-mapping in ISO 19146:2010(E)'
+  release: '5'
+  terms:
+    - type: expression
+      designation: cross-mapping
+      normative_status: preferred
+  _revisions:
+    current: a314bc
+    tree:
+      a314bc:
+        object:
+          id: 2389
+          definition: >-
+            comparison of terminological entries from different domains to
+            determine their semantic relationship
+          language_code: eng
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19146:2018'
+            clause: '(E), 3.1.8'
+            link: 'https://www.iso.org/standard/72217.html'
+          date_accepted: 2018-06-01T00:00:00.000Z
+          review_date: 2018-06-01T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2018-06-01T00:00:00.000Z
+          review_decision_event: 'Publication of document ISO 19146:2018(E)'
+          review_decision_notes: >-
+            This entry supersedes the entry for cross-mapping in ISO
+            19146:2010(E)
+          release: '5'
+          terms:
+            - type: expression
+              designation: cross-mapping
+              normative_status: preferred
+        parents: []
+        timeCreated: 2018-06-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

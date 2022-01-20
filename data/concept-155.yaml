@@ -1,0 +1,845 @@
+term: end point
+termid: 155
+eng:
+  id: 155
+  definition: last point of a curve
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19107:2019'
+    clause: '(E), 3.34'
+    link: 'https://www.iso.org/standard/66175.html'
+  lineage_source: 'ISO 19107:2003(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19107:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19107:2003 to ISO 19107:2019(E),
+    3.34. Lineage source added as ISO 19107:2003(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: end point
+      normative_status: preferred
+  _revisions:
+    current: 10bd0c
+    tree:
+      10bd0c:
+        object:
+          id: 155
+          definition: last point of a curve
+          language_code: eng
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19107:2019'
+            clause: '(E), 3.34'
+            link: 'https://www.iso.org/standard/66175.html'
+          lineage_source: 'ISO 19107:2003(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19107:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19107:2003 to ISO
+            19107:2019(E), 3.34. Lineage source added as ISO 19107:2003(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: end point
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+ara:
+  id: 155
+  definition: آخر نقطة للمنحنى
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19107:2019'
+    clause: '(E), 3.34'
+    link: 'https://www.iso.org/standard/66175.html'
+  lineage_source: 'ISO 19107:2003(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19107:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19107:2003 to ISO 19107:2019(E),
+    3.34. Lineage source added as ISO 19107:2003(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: نقطة النهاية
+      normative_status: preferred
+  _revisions:
+    current: 50213a
+    tree:
+      50213a:
+        object:
+          id: 155
+          definition: آخر نقطة للمنحنى
+          language_code: ara
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19107:2019'
+            clause: '(E), 3.34'
+            link: 'https://www.iso.org/standard/66175.html'
+          lineage_source: 'ISO 19107:2003(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19107:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19107:2003 to ISO
+            19107:2019(E), 3.34. Lineage source added as ISO 19107:2003(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: نقطة النهاية
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+zho:
+  id: 155
+  definition: 曲线的最后一个点。
+  language_code: zho
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19107:2019'
+    clause: '(E), 3.34'
+    link: 'https://www.iso.org/standard/66175.html'
+  lineage_source: 'ISO 19107:2003(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19107:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19107:2003 to ISO 19107:2019(E),
+    3.34. Lineage source added as ISO 19107:2003(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: 终点
+      normative_status: preferred
+  _revisions:
+    current: '675112'
+    tree:
+      '675112':
+        object:
+          id: 155
+          definition: 曲线的最后一个点。
+          language_code: zho
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19107:2019'
+            clause: '(E), 3.34'
+            link: 'https://www.iso.org/standard/66175.html'
+          lineage_source: 'ISO 19107:2003(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19107:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19107:2003 to ISO
+            19107:2019(E), 3.34. Lineage source added as ISO 19107:2003(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: 终点
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+dan:
+  id: 155
+  definition: sidste punkt på en kurve
+  language_code: dan
+  notes: []
+  examples: []
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19107:2019'
+    clause: '(E), 3.34'
+    link: 'https://www.iso.org/standard/66175.html'
+  lineage_source: 'ISO 19107:2003(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19107:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19107:2003 to ISO 19107:2019(E),
+    3.34. Lineage source added as ISO 19107:2003(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: slutpunkt
+      normative_status: null
+  _revisions:
+    current: 94d43e
+    tree:
+      94d43e:
+        object:
+          id: 155
+          definition: sidste punkt på en kurve
+          language_code: dan
+          notes: []
+          examples: []
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19107:2019'
+            clause: '(E), 3.34'
+            link: 'https://www.iso.org/standard/66175.html'
+          lineage_source: 'ISO 19107:2003(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19107:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19107:2003 to ISO
+            19107:2019(E), 3.34. Lineage source added as ISO 19107:2003(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: slutpunkt
+              normative_status: null
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+fin:
+  id: 155
+  definition: käyrän viimeinen piste
+  language_code: fin
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19107:2019'
+    clause: '(E), 3.34'
+    link: 'https://www.iso.org/standard/66175.html'
+  lineage_source: 'ISO 19107:2003(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19107:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19107:2003 to ISO 19107:2019(E),
+    3.34. Lineage source added as ISO 19107:2003(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: loppupiste
+      normative_status: preferred
+  _revisions:
+    current: a0a573
+    tree:
+      a0a573:
+        object:
+          id: 155
+          definition: käyrän viimeinen piste
+          language_code: fin
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19107:2019'
+            clause: '(E), 3.34'
+            link: 'https://www.iso.org/standard/66175.html'
+          lineage_source: 'ISO 19107:2003(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19107:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19107:2003 to ISO
+            19107:2019(E), 3.34. Lineage source added as ISO 19107:2003(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: loppupiste
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+fra:
+  id: 155
+  definition: dernier point d'une courbe
+  language_code: fra
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19107:2019'
+    clause: '(E), 3.34'
+    link: 'https://www.iso.org/standard/66175.html'
+  lineage_source: 'ISO 19107:2003(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19107:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19107:2003 to ISO 19107:2019(E),
+    3.34. Lineage source added as ISO 19107:2003(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: point final
+      normative_status: preferred
+  _revisions:
+    current: aaa4aa
+    tree:
+      aaa4aa:
+        object:
+          id: 155
+          definition: dernier point d'une courbe
+          language_code: fra
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19107:2019'
+            clause: '(E), 3.34'
+            link: 'https://www.iso.org/standard/66175.html'
+          lineage_source: 'ISO 19107:2003(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19107:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19107:2003 to ISO
+            19107:2019(E), 3.34. Lineage source added as ISO 19107:2003(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: point final
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+jpn:
+  id: 155
+  definition: 曲線の最後の点。
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19107:2019'
+    clause: '(E), 3.34'
+    link: 'https://www.iso.org/standard/66175.html'
+  lineage_source: 'ISO 19107:2003(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19107:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19107:2003 to ISO 19107:2019(E),
+    3.34. Lineage source added as ISO 19107:2003(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: 終点ノード
+      normative_status: preferred
+  _revisions:
+    current: ce3364
+    tree:
+      ce3364:
+        object:
+          id: 155
+          definition: 曲線の最後の点。
+          language_code: jpn
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19107:2019'
+            clause: '(E), 3.34'
+            link: 'https://www.iso.org/standard/66175.html'
+          lineage_source: 'ISO 19107:2003(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19107:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19107:2003 to ISO
+            19107:2019(E), 3.34. Lineage source added as ISO 19107:2003(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: 終点ノード
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+kor:
+  id: 155
+  definition: 곡선의 마지막 점
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19107:2019'
+    clause: '(E), 3.34'
+    link: 'https://www.iso.org/standard/66175.html'
+  lineage_source: 'ISO 19107:2003(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19107:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19107:2003 to ISO 19107:2019(E),
+    3.34. Lineage source added as ISO 19107:2003(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: 끝점
+      normative_status: preferred
+  _revisions:
+    current: '315373'
+    tree:
+      '315373':
+        object:
+          id: 155
+          definition: 곡선의 마지막 점
+          language_code: kor
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19107:2019'
+            clause: '(E), 3.34'
+            link: 'https://www.iso.org/standard/66175.html'
+          lineage_source: 'ISO 19107:2003(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19107:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19107:2003 to ISO
+            19107:2019(E), 3.34. Lineage source added as ISO 19107:2003(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: 끝점
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+msa:
+  id: 155
+  definition: titk hujung bagi suatu lengkung
+  language_code: msa
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19107:2019'
+    clause: '(E), 3.34'
+    link: 'https://www.iso.org/standard/66175.html'
+  lineage_source: 'ISO 19107:2003(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19107:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19107:2003 to ISO 19107:2019(E),
+    3.34. Lineage source added as ISO 19107:2003(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: titik hujung
+      normative_status: preferred
+  _revisions:
+    current: f84c9b
+    tree:
+      f84c9b:
+        object:
+          id: 155
+          definition: titk hujung bagi suatu lengkung
+          language_code: msa
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19107:2019'
+            clause: '(E), 3.34'
+            link: 'https://www.iso.org/standard/66175.html'
+          lineage_source: 'ISO 19107:2003(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19107:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19107:2003 to ISO
+            19107:2019(E), 3.34. Lineage source added as ISO 19107:2003(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: titik hujung
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+pol:
+  id: 155
+  definition: ostatni punkt krzywej
+  language_code: pol
+  notes: []
+  examples: []
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19107:2019'
+    clause: '(E), 3.34'
+    link: 'https://www.iso.org/standard/66175.html'
+  lineage_source: 'ISO 19107:2003(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19107:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19107:2003 to ISO 19107:2019(E),
+    3.34. Lineage source added as ISO 19107:2003(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: punkt końcowy
+      normative_status: preferred
+  _revisions:
+    current: d66366
+    tree:
+      d66366:
+        object:
+          id: 155
+          definition: ostatni punkt krzywej
+          language_code: pol
+          notes: []
+          examples: []
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19107:2019'
+            clause: '(E), 3.34'
+            link: 'https://www.iso.org/standard/66175.html'
+          lineage_source: 'ISO 19107:2003(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19107:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19107:2003 to ISO
+            19107:2019(E), 3.34. Lineage source added as ISO 19107:2003(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: punkt końcowy
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 155
+  definition: последняя точка кривой
+  language_code: rus
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19107:2019'
+    clause: '(E), 3.34'
+    link: 'https://www.iso.org/standard/66175.html'
+  lineage_source: 'ISO 19107:2003(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19107:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19107:2003 to ISO 19107:2019(E),
+    3.34. Lineage source added as ISO 19107:2003(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: концевая точка
+      normative_status: preferred
+  _revisions:
+    current: f62be8
+    tree:
+      f62be8:
+        object:
+          id: 155
+          definition: последняя точка кривой
+          language_code: rus
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19107:2019'
+            clause: '(E), 3.34'
+            link: 'https://www.iso.org/standard/66175.html'
+          lineage_source: 'ISO 19107:2003(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19107:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19107:2003 to ISO
+            19107:2019(E), 3.34. Lineage source added as ISO 19107:2003(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: концевая точка
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 155
+  definition: último punto de una curva
+  language_code: spa
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19107:2019'
+    clause: '(E), 3.34'
+    link: 'https://www.iso.org/standard/66175.html'
+  lineage_source: 'ISO 19107:2003(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19107:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19107:2003 to ISO 19107:2019(E),
+    3.34. Lineage source added as ISO 19107:2003(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: punto final
+      normative_status: preferred
+  _revisions:
+    current: 0ebea8
+    tree:
+      0ebea8:
+        object:
+          id: 155
+          definition: último punto de una curva
+          language_code: spa
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19107:2019'
+            clause: '(E), 3.34'
+            link: 'https://www.iso.org/standard/66175.html'
+          lineage_source: 'ISO 19107:2003(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19107:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19107:2003 to ISO
+            19107:2019(E), 3.34. Lineage source added as ISO 19107:2003(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: punto final
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+swe:
+  id: 155
+  definition: den sista punkten hos en linje
+  country_code: swe
+  language_code: swe
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19107:2019'
+    clause: '(E), 3.34'
+    link: 'https://www.iso.org/standard/66175.html'
+  lineage_source: 'ISO 19107:2003(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19107:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19107:2003 to ISO 19107:2019(E),
+    3.34. Lineage source added as ISO 19107:2003(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: slutpunkt
+      normative_status: preferred
+  _revisions:
+    current: 2d88c4
+    tree:
+      2d88c4:
+        object:
+          id: 155
+          definition: den sista punkten hos en linje
+          country_code: swe
+          language_code: swe
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19107:2019'
+            clause: '(E), 3.34'
+            link: 'https://www.iso.org/standard/66175.html'
+          lineage_source: 'ISO 19107:2003(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19107:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19107:2003 to ISO
+            19107:2019(E), 3.34. Lineage source added as ISO 19107:2003(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: slutpunkt
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

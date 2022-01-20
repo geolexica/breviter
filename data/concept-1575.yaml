@@ -1,0 +1,307 @@
+term: utility network
+termid: 1575
+eng:
+  id: 1575
+  definition: network describing the legal space of the topology of a utility
+  language_code: eng
+  notes:
+    - >-
+      A utility network may be attributed with information about its legal,
+      recorded or informal space.
+    - A utility network can also be modelled as a basic administrative unit.
+  examples:
+    - >-
+      The legal space needed to access and to keep in repair a cable or pipeline
+      utility network.
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19152:2012'
+    clause: 4.1.25
+    link: 'https://www.iso.org/standard/51206.html'
+  date_accepted: 2012-12-01T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: utility network
+      normative_status: preferred
+  _revisions:
+    current: a1d8d4
+    tree:
+      a1d8d4:
+        object:
+          id: 1575
+          definition: network describing the legal space of the topology of a utility
+          language_code: eng
+          notes:
+            - >-
+              A utility network may be attributed with information about its
+              legal, recorded or informal space.
+            - >-
+              A utility network can also be modelled as a basic administrative
+              unit.
+          examples:
+            - >-
+              The legal space needed to access and to keep in repair a cable or
+              pipeline utility network.
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19152:2012'
+            clause: 4.1.25
+            link: 'https://www.iso.org/standard/51206.html'
+          date_accepted: 2012-12-01T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: utility network
+              normative_status: preferred
+        parents: []
+        timeCreated: 2012-12-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+kor:
+  id: 1575
+  definition: 유틸리티에 관한 지세학의 법적 공간을 묘사하는 네트워크
+  language_code: kor
+  notes:
+    - >-
+      A utility network may be attributed with information about its legal,
+      recorded or informal space.
+    - A utility network can also be modelled as a basic administrative unit.
+  examples:
+    - >-
+      The legal space needed to access and to keep in repair a cable or pipeline
+      utility network.
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19152:2012'
+    clause: 4.1.25
+    link: 'https://www.iso.org/standard/51206.html'
+  date_accepted: 2012-12-01T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: 유틸리티 네트워크
+      normative_status: preferred
+  _revisions:
+    current: c93a7d
+    tree:
+      c93a7d:
+        object:
+          id: 1575
+          definition: 유틸리티에 관한 지세학의 법적 공간을 묘사하는 네트워크
+          language_code: kor
+          notes:
+            - >-
+              A utility network may be attributed with information about its
+              legal, recorded or informal space.
+            - >-
+              A utility network can also be modelled as a basic administrative
+              unit.
+          examples:
+            - >-
+              The legal space needed to access and to keep in repair a cable or
+              pipeline utility network.
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19152:2012'
+            clause: 4.1.25
+            link: 'https://www.iso.org/standard/51206.html'
+          date_accepted: 2012-12-01T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: 유틸리티 네트워크
+              normative_status: preferred
+        parents: []
+        timeCreated: 2012-12-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 1575
+  definition: 'сеть, описывающая правовое пространство топологии коммунальных служб'
+  language_code: rus
+  notes:
+    - >-
+      Коммунальная сеть может быть снабжена информацией о ее легальном,
+      зарегистрированном или неформальном пространстве
+    - >-
+      коммунальную сеть можно также смоделировать в качестве базовой
+      административной единицы.
+  examples:
+    - >-
+      Юридическое пространство необходимое для доступа или поддержания в порядке
+      кабельных или трудопроводных коммунальных сетей
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19152:2012'
+    clause: 4.1.25
+    link: 'https://www.iso.org/standard/51206.html'
+  lineage_source: 'ISO 19152:2012'
+  date_accepted: 2012-12-01T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: коммунальная сеть
+      normative_status: preferred
+  _revisions:
+    current: 7d92ee
+    tree:
+      7d92ee:
+        object:
+          id: 1575
+          definition: 'сеть, описывающая правовое пространство топологии коммунальных служб'
+          language_code: rus
+          notes:
+            - >-
+              Коммунальная сеть может быть снабжена информацией о ее легальном,
+              зарегистрированном или неформальном пространстве
+            - >-
+              коммунальную сеть можно также смоделировать в качестве базовой
+              административной единицы.
+          examples:
+            - >-
+              Юридическое пространство необходимое для доступа или поддержания в
+              порядке кабельных или трудопроводных коммунальных сетей
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19152:2012'
+            clause: 4.1.25
+            link: 'https://www.iso.org/standard/51206.html'
+          lineage_source: 'ISO 19152:2012'
+          date_accepted: 2012-12-01T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: коммунальная сеть
+              normative_status: preferred
+        parents: []
+        timeCreated: 2012-12-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 1575
+  definition: red que describe el espacio jurídico de la topología de un servicio
+  language_code: spa
+  notes:
+    - >-
+      Una red de servicios puede contener atributos con información sobre su
+      espacio jurídico, registrado o no formalizado
+    - >-
+      Una red de servicios también se puede modelar como una unidad básica
+      administrativa
+  examples:
+    - >-
+      El espacio jurídico necesario para acceder y reparar un cable o una red de
+      tuberías
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19152:2012'
+    clause: 4.1.25
+    link: 'https://www.iso.org/standard/51206.html'
+  date_accepted: 2012-12-01T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: red de servicios
+      normative_status: preferred
+  _revisions:
+    current: 47e97e
+    tree:
+      47e97e:
+        object:
+          id: 1575
+          definition: red que describe el espacio jurídico de la topología de un servicio
+          language_code: spa
+          notes:
+            - >-
+              Una red de servicios puede contener atributos con información
+              sobre su espacio jurídico, registrado o no formalizado
+            - >-
+              Una red de servicios también se puede modelar como una unidad
+              básica administrativa
+          examples:
+            - >-
+              El espacio jurídico necesario para acceder y reparar un cable o
+              una red de tuberías
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19152:2012'
+            clause: 4.1.25
+            link: 'https://www.iso.org/standard/51206.html'
+          date_accepted: 2012-12-01T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: red de servicios
+              normative_status: preferred
+        parents: []
+        timeCreated: 2012-12-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+swe:
+  id: 1575
+  definition: gränssatt område som utgör det som hör till ett ledningsnät
+  country_code: swe
+  language_code: swe
+  notes:
+    - >-
+      A utility network may be attributed with information about its legal,
+      recorded or informal space.
+    - A utility network can also be modelled as a basic administrative unit.
+  examples:
+    - >-
+      The legal space needed to access and to keep in repair a cable or pipeline
+      utility network.
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19152:2012'
+    clause: 4.1.25
+    link: 'https://www.iso.org/standard/51206.html'
+  lineage_source: (Type reference to national language document)
+  date_accepted: 2012-12-01T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: ledningrättsområde
+      normative_status: preferred
+  _revisions:
+    current: '014050'
+    tree:
+      '014050':
+        object:
+          id: 1575
+          definition: gränssatt område som utgör det som hör till ett ledningsnät
+          country_code: swe
+          language_code: swe
+          notes:
+            - >-
+              A utility network may be attributed with information about its
+              legal, recorded or informal space.
+            - >-
+              A utility network can also be modelled as a basic administrative
+              unit.
+          examples:
+            - >-
+              The legal space needed to access and to keep in repair a cable or
+              pipeline utility network.
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19152:2012'
+            clause: 4.1.25
+            link: 'https://www.iso.org/standard/51206.html'
+          lineage_source: (Type reference to national language document)
+          date_accepted: 2012-12-01T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: ledningrättsområde
+              normative_status: preferred
+        parents: []
+        timeCreated: 2012-12-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

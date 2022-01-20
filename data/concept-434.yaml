@@ -1,0 +1,846 @@
+term: subcomplex
+termid: 434
+eng:
+  id: 434
+  definition: complex all of whose elements are also in a larger complex
+  language_code: eng
+  notes:
+    - >-
+      Since the definitions of geometric complex and topological complex require
+      only that they be closed under boundary operations, the set of any
+      primitives of a particular dimension and below is always a subcomplex of
+      the original, larger complex. Thus, any full planar topological complex
+      contains an edge-node graph as a subcomplex.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19107:2019'
+    clause: '(E), 3.91'
+    link: 'https://www.iso.org/standard/66175.html'
+  lineage_source: 'ISO 19107:2003(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19107:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19107:2003 to ISO 19107:2019(E),
+    3.91. Lineage source added as ISO 19107:2003(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: subcomplex
+      normative_status: preferred
+  _revisions:
+    current: 9097ba
+    tree:
+      9097ba:
+        object:
+          id: 434
+          definition: complex all of whose elements are also in a larger complex
+          language_code: eng
+          notes:
+            - >-
+              Since the definitions of geometric complex and topological complex
+              require only that they be closed under boundary operations, the
+              set of any primitives of a particular dimension and below is
+              always a subcomplex of the original, larger complex. Thus, any
+              full planar topological complex contains an edge-node graph as a
+              subcomplex.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19107:2019'
+            clause: '(E), 3.91'
+            link: 'https://www.iso.org/standard/66175.html'
+          lineage_source: 'ISO 19107:2003(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19107:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19107:2003 to ISO
+            19107:2019(E), 3.91. Lineage source added as ISO 19107:2003(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: subcomplex
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+ara:
+  id: 434
+  definition: مركَّب كل عناصره هي أيضاً في  مركب أكبر
+  language_code: ara
+  notes:
+    - >-
+      لما كان تعريفا المركَّب الهندسي والمركَّب الطوبولوجي يتطلبان فقط أن يتم
+      إغلاقهما بموجب عمليات حدودية, فإن أية مجموعة لعناصر أولية ذات بعد محدد فما
+      دونها تكون دائماً مركَّباً فرعياً للمركَّب الأصلي الأكبر حجماً. وهكذا, فإن
+      أي مركب طوبولوجي كامل التسطيح يحتوي على مركب فرعي لرسم بياني  "حافة –
+      عقدة" .
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19107:2019'
+    clause: '(E), 3.91'
+    link: 'https://www.iso.org/standard/66175.html'
+  lineage_source: 'ISO 19107:2003(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19107:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19107:2003 to ISO 19107:2019(E),
+    3.91. Lineage source added as ISO 19107:2003(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: مركَّب فرعي
+      normative_status: preferred
+  _revisions:
+    current: 9a7583
+    tree:
+      9a7583:
+        object:
+          id: 434
+          definition: مركَّب كل عناصره هي أيضاً في  مركب أكبر
+          language_code: ara
+          notes:
+            - >-
+              لما كان تعريفا المركَّب الهندسي والمركَّب الطوبولوجي يتطلبان فقط
+              أن يتم إغلاقهما بموجب عمليات حدودية, فإن أية مجموعة لعناصر أولية
+              ذات بعد محدد فما دونها تكون دائماً مركَّباً فرعياً للمركَّب الأصلي
+              الأكبر حجماً. وهكذا, فإن أي مركب طوبولوجي كامل التسطيح يحتوي على
+              مركب فرعي لرسم بياني  "حافة – عقدة" .
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19107:2019'
+            clause: '(E), 3.91'
+            link: 'https://www.iso.org/standard/66175.html'
+          lineage_source: 'ISO 19107:2003(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19107:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19107:2003 to ISO
+            19107:2019(E), 3.91. Lineage source added as ISO 19107:2003(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: مركَّب فرعي
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+zho:
+  id: 434
+  definition: 所有元素都在一个更大复形里的复形。
+  language_code: zho
+  notes:
+    - >-
+      因为几何复形与拓扑复形的定义只要求他们在边界操作中闭合，一个特定维数以及更低维数的任何单形的集合总是原来更大复形的亚复形。这样，任何完全的平面拓扑复形包含一个作为亚复形的边-结点图。
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19107:2019'
+    clause: '(E), 3.91'
+    link: 'https://www.iso.org/standard/66175.html'
+  lineage_source: 'ISO 19107:2003(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19107:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19107:2003 to ISO 19107:2019(E),
+    3.91. Lineage source added as ISO 19107:2003(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: 亚复形
+      normative_status: preferred
+  _revisions:
+    current: d7a4d0
+    tree:
+      d7a4d0:
+        object:
+          id: 434
+          definition: 所有元素都在一个更大复形里的复形。
+          language_code: zho
+          notes:
+            - >-
+              因为几何复形与拓扑复形的定义只要求他们在边界操作中闭合，一个特定维数以及更低维数的任何单形的集合总是原来更大复形的亚复形。这样，任何完全的平面拓扑复形包含一个作为亚复形的边-结点图。
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19107:2019'
+            clause: '(E), 3.91'
+            link: 'https://www.iso.org/standard/66175.html'
+          lineage_source: 'ISO 19107:2003(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19107:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19107:2003 to ISO
+            19107:2019(E), 3.91. Lineage source added as ISO 19107:2003(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: 亚复形
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+fin:
+  id: 434
+  definition: 'kompleksi, jonka kaikki alkiot kuuluvat myös laajempaan kompleksiin'
+  language_code: fin
+  notes:
+    - >-
+      Koska geometrisen kompleksin ja topologisen kompleksin määritelmät
+      edellyttävät ainoastaan, että ne ovat suljettuja rajausoperaatioissa,
+      tietyn ulottuvuuden ja sitä alempien ulottuvuuksien primitiivien joukko on
+      aina alkuperäisen, laajemman kompleksin alikompleksi. Näin ollen mikä
+      hyvänsä tasomainen topologinen aluekompleksi (full planar topological
+      complex) sisältää linkki-solmupiste-verkon alikompleksina.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19107:2019'
+    clause: '(E), 3.91'
+    link: 'https://www.iso.org/standard/66175.html'
+  lineage_source: 'ISO 19107:2003(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19107:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19107:2003 to ISO 19107:2019(E),
+    3.91. Lineage source added as ISO 19107:2003(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: alikompleksi
+      normative_status: preferred
+  _revisions:
+    current: 26129c
+    tree:
+      26129c:
+        object:
+          id: 434
+          definition: 'kompleksi, jonka kaikki alkiot kuuluvat myös laajempaan kompleksiin'
+          language_code: fin
+          notes:
+            - >-
+              Koska geometrisen kompleksin ja topologisen kompleksin määritelmät
+              edellyttävät ainoastaan, että ne ovat suljettuja
+              rajausoperaatioissa, tietyn ulottuvuuden ja sitä alempien
+              ulottuvuuksien primitiivien joukko on aina alkuperäisen, laajemman
+              kompleksin alikompleksi. Näin ollen mikä hyvänsä tasomainen
+              topologinen aluekompleksi (full planar topological complex)
+              sisältää linkki-solmupiste-verkon alikompleksina.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19107:2019'
+            clause: '(E), 3.91'
+            link: 'https://www.iso.org/standard/66175.html'
+          lineage_source: 'ISO 19107:2003(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19107:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19107:2003 to ISO
+            19107:2019(E), 3.91. Lineage source added as ISO 19107:2003(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: alikompleksi
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+fra:
+  id: 434
+  definition: complexe dont tous les éléments appartiennent aussi à un complexe plus grand
+  language_code: fra
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19107:2019'
+    clause: '(E), 3.91'
+    link: 'https://www.iso.org/standard/66175.html'
+  lineage_source: 'ISO 19107:2003(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19107:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19107:2003 to ISO 19107:2019(E),
+    3.91. Lineage source added as ISO 19107:2003(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: sous-complexe
+      normative_status: preferred
+  _revisions:
+    current: '223634'
+    tree:
+      '223634':
+        object:
+          id: 434
+          definition: >-
+            complexe dont tous les éléments appartiennent aussi à un complexe
+            plus grand
+          language_code: fra
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19107:2019'
+            clause: '(E), 3.91'
+            link: 'https://www.iso.org/standard/66175.html'
+          lineage_source: 'ISO 19107:2003(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19107:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19107:2003 to ISO
+            19107:2019(E), 3.91. Lineage source added as ISO 19107:2003(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: sous-complexe
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+jpn:
+  id: 434
+  definition: すべての要素が，より大きな複体の一部でもあるような複体。
+  language_code: jpn
+  notes:
+    - >-
+      幾何複体及び位相複体の定義が要求するのは，境界演算について閉じることだけであることから，特定の次元又はそれ以下の任意のプリミティブの集合は，常に元のより大きな複体の部分複体になる。したがって，任意の完全平面位相複体は，部分複体であるエッジノードグラフを含む。
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19107:2019'
+    clause: '(E), 3.91'
+    link: 'https://www.iso.org/standard/66175.html'
+  lineage_source: 'ISO 19107:2003(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19107:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19107:2003 to ISO 19107:2019(E),
+    3.91. Lineage source added as ISO 19107:2003(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: 部分複体
+      normative_status: preferred
+  _revisions:
+    current: c8ea14
+    tree:
+      c8ea14:
+        object:
+          id: 434
+          definition: すべての要素が，より大きな複体の一部でもあるような複体。
+          language_code: jpn
+          notes:
+            - >-
+              幾何複体及び位相複体の定義が要求するのは，境界演算について閉じることだけであることから，特定の次元又はそれ以下の任意のプリミティブの集合は，常に元のより大きな複体の部分複体になる。したがって，任意の完全平面位相複体は，部分複体であるエッジノードグラフを含む。
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19107:2019'
+            clause: '(E), 3.91'
+            link: 'https://www.iso.org/standard/66175.html'
+          lineage_source: 'ISO 19107:2003(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19107:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19107:2003 to ISO
+            19107:2019(E), 3.91. Lineage source added as ISO 19107:2003(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: 部分複体
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+kor:
+  id: 434
+  definition: 복합체의 요소 전체가 보다 큰 복합체에 포함되어 있는 복합체
+  language_code: kor
+  notes:
+    - >-
+      기하 복합체 및 위상 복합체의 정의에서는 이들이 경계 연산에서 폐합되어야 함을 요구하기 때문에, 특정차원 및 하위 차원의 모든
+      원시객체 집합은 항상 원시의, 더 큰 복합체의 하위 복합체이다. 따라서 모든 완전 평면 위상 복합체는 하위 복합체로 변-절점 그래프를
+      포함한다.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19107:2019'
+    clause: '(E), 3.91'
+    link: 'https://www.iso.org/standard/66175.html'
+  lineage_source: 'ISO 19107:2003(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19107:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19107:2003 to ISO 19107:2019(E),
+    3.91. Lineage source added as ISO 19107:2003(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: 하위 복합체
+      normative_status: preferred
+  _revisions:
+    current: 7beb29
+    tree:
+      7beb29:
+        object:
+          id: 434
+          definition: 복합체의 요소 전체가 보다 큰 복합체에 포함되어 있는 복합체
+          language_code: kor
+          notes:
+            - >-
+              기하 복합체 및 위상 복합체의 정의에서는 이들이 경계 연산에서 폐합되어야 함을 요구하기 때문에, 특정차원 및 하위
+              차원의 모든 원시객체 집합은 항상 원시의, 더 큰 복합체의 하위 복합체이다. 따라서 모든 완전 평면 위상 복합체는 하위
+              복합체로 변-절점 그래프를 포함한다.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19107:2019'
+            clause: '(E), 3.91'
+            link: 'https://www.iso.org/standard/66175.html'
+          lineage_source: 'ISO 19107:2003(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19107:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19107:2003 to ISO
+            19107:2019(E), 3.91. Lineage source added as ISO 19107:2003(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: 하위 복합체
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+pol:
+  id: 434
+  definition: >-
+    element złożony, którego wszystkie elementy znajdują się również w większym
+    elemencie złożonym
+  language_code: pol
+  notes:
+    - >-
+      Ponieważ definicje złożonego elementu geometrycznego i złożonego elementu
+      topologicznego wymagają jedynie, aby elementy te były domknięte w sensie
+      operacji na granicach, to zbiór dowolnych prostych elementów o danym lub
+      mniejszym wymiarze jest zawsze podelementem złożonym oryginalnego,
+      większego elementu złożonego. Wynika stąd, że każdy pełny płaski złożony
+      element topologiczny zawiera graf krawędź-węzeł jako swój podelement
+      złożony.
+  examples: []
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19107:2019'
+    clause: '(E), 3.91'
+    link: 'https://www.iso.org/standard/66175.html'
+  lineage_source: 'ISO 19107:2003(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19107:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19107:2003 to ISO 19107:2019(E),
+    3.91. Lineage source added as ISO 19107:2003(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: podelement złożony
+      normative_status: preferred
+  _revisions:
+    current: a7e70c
+    tree:
+      a7e70c:
+        object:
+          id: 434
+          definition: >-
+            element złożony, którego wszystkie elementy znajdują się również w
+            większym elemencie złożonym
+          language_code: pol
+          notes:
+            - >-
+              Ponieważ definicje złożonego elementu geometrycznego i złożonego
+              elementu topologicznego wymagają jedynie, aby elementy te były
+              domknięte w sensie operacji na granicach, to zbiór dowolnych
+              prostych elementów o danym lub mniejszym wymiarze jest zawsze
+              podelementem złożonym oryginalnego, większego elementu złożonego.
+              Wynika stąd, że każdy pełny płaski złożony element topologiczny
+              zawiera graf krawędź-węzeł jako swój podelement złożony.
+          examples: []
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19107:2019'
+            clause: '(E), 3.91'
+            link: 'https://www.iso.org/standard/66175.html'
+          lineage_source: 'ISO 19107:2003(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19107:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19107:2003 to ISO
+            19107:2019(E), 3.91. Lineage source added as ISO 19107:2003(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: podelement złożony
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 434
+  definition: >-
+    комплекс, все элементы которого присутствуют также в комплексе более
+    высокого порядка
+  language_code: rus
+  notes:
+    - >-
+      Поскольку определения геометрического и топологического комплексов требуют
+      только наличия  замкнутости граничными операциями, множество любых
+      примитивов определенной размерности или размерности ниже данной всегда
+      является подкомплексом основного, большего комплекса. Таким образом, любой
+      полный планарный топологический комплекс содержит в себе в качестве
+      подкомплекса линейно-узловой граф
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19107:2019'
+    clause: '(E), 3.91'
+    link: 'https://www.iso.org/standard/66175.html'
+  lineage_source: 'ISO 19107:2003(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19107:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19107:2003 to ISO 19107:2019(E),
+    3.91. Lineage source added as ISO 19107:2003(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: подкомплекс
+      normative_status: preferred
+  _revisions:
+    current: 578e0a
+    tree:
+      578e0a:
+        object:
+          id: 434
+          definition: >-
+            комплекс, все элементы которого присутствуют также в комплексе более
+            высокого порядка
+          language_code: rus
+          notes:
+            - >-
+              Поскольку определения геометрического и топологического комплексов
+              требуют только наличия  замкнутости граничными операциями,
+              множество любых примитивов определенной размерности или
+              размерности ниже данной всегда является подкомплексом основного,
+              большего комплекса. Таким образом, любой полный планарный
+              топологический комплекс содержит в себе в качестве подкомплекса
+              линейно-узловой граф
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19107:2019'
+            clause: '(E), 3.91'
+            link: 'https://www.iso.org/standard/66175.html'
+          lineage_source: 'ISO 19107:2003(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19107:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19107:2003 to ISO
+            19107:2019(E), 3.91. Lineage source added as ISO 19107:2003(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: подкомплекс
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 434
+  definition: complejo todos cuyos elementos están también en un complejo mayor
+  language_code: spa
+  notes:
+    - >-
+      En cuanto que las definiciones de los complejos geométricos y topológicos
+      requieren solo que sean cerrados bajo las operaciones de frontera, el
+      conjunto de cualquier primitiva de una dimensión particular y por debajo,
+      es siempre un subcomplejo del original, el complejo superior. Por lo
+      tanto, cualquier complejo topológico completamente planar contiene un
+      grafo arco-nodo como un subcomplejo.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19107:2019'
+    clause: '(E), 3.91'
+    link: 'https://www.iso.org/standard/66175.html'
+  lineage_source: 'ISO 19107:2003(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19107:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19107:2003 to ISO 19107:2019(E),
+    3.91. Lineage source added as ISO 19107:2003(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: subcomplejo
+      normative_status: preferred
+  _revisions:
+    current: '725e07'
+    tree:
+      '725e07':
+        object:
+          id: 434
+          definition: complejo todos cuyos elementos están también en un complejo mayor
+          language_code: spa
+          notes:
+            - >-
+              En cuanto que las definiciones de los complejos geométricos y
+              topológicos requieren solo que sean cerrados bajo las operaciones
+              de frontera, el conjunto de cualquier primitiva de una dimensión
+              particular y por debajo, es siempre un subcomplejo del original,
+              el complejo superior. Por lo tanto, cualquier complejo topológico
+              completamente planar contiene un grafo arco-nodo como un
+              subcomplejo.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19107:2019'
+            clause: '(E), 3.91'
+            link: 'https://www.iso.org/standard/66175.html'
+          lineage_source: 'ISO 19107:2003(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19107:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19107:2003 to ISO
+            19107:2019(E), 3.91. Lineage source added as ISO 19107:2003(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: subcomplejo
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+swe:
+  id: 434
+  definition: >-
+    geometriskt eller topologiskt komplex som utgör delmängd av geometriskt
+    respektive  topologiskt komplex
+  country_code: swe
+  language_code: swe
+  notes:
+    - >-
+      Since the definitions of geometric complex and topological complex require
+      only that they be closed under boundary operations, the set of any
+      primitives of a particular dimension and below is always a subcomplex of
+      the original, larger complex. Thus, any full planar topological complex
+      contains an edge-node graph as a subcomplex.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19107:2019'
+    clause: '(E), 3.91'
+    link: 'https://www.iso.org/standard/66175.html'
+  lineage_source: 'ISO 19107:2003(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19107:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19107:2003 to ISO 19107:2019(E),
+    3.91. Lineage source added as ISO 19107:2003(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: delkomplex
+      normative_status: preferred
+  _revisions:
+    current: '195929'
+    tree:
+      '195929':
+        object:
+          id: 434
+          definition: >-
+            geometriskt eller topologiskt komplex som utgör delmängd av
+            geometriskt respektive  topologiskt komplex
+          country_code: swe
+          language_code: swe
+          notes:
+            - >-
+              Since the definitions of geometric complex and topological complex
+              require only that they be closed under boundary operations, the
+              set of any primitives of a particular dimension and below is
+              always a subcomplex of the original, larger complex. Thus, any
+              full planar topological complex contains an edge-node graph as a
+              subcomplex.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19107:2019'
+            clause: '(E), 3.91'
+            link: 'https://www.iso.org/standard/66175.html'
+          lineage_source: 'ISO 19107:2003(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19107:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19107:2003 to ISO
+            19107:2019(E), 3.91. Lineage source added as ISO 19107:2003(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: delkomplex
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

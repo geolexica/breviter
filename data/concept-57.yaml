@@ -1,0 +1,1002 @@
+term: composite surface
+termid: 57
+eng:
+  id: 57
+  definition: connected set of surfaces adjoining one another along shared boundary curves
+  language_code: eng
+  notes:
+    - >-
+      A composite surface, as a set of direct positions, has all the properties
+      of a surface.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19136-1:2020'
+    clause: '(E), 3.1.11'
+    link: 'https://www.iso.org/standard/75676.html'
+  lineage_source: 'ISO 19107:2003'
+  lineage_source_similarity: 1
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2018-06-08T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2020-01-09T00:00:00.000Z
+  review_decision_event: 'Supersession of ISO 19107:2003 and publication of ISO 19136-1:2020'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19107:2003 to ISO 19136-1:2020(E),
+    3.1.11. Lineage source added as ISO 19107:2003
+  release: '1'
+  terms:
+    - type: expression
+      designation: composite surface
+      normative_status: preferred
+  _revisions:
+    current: c3b21b
+    tree:
+      c3b21b:
+        object:
+          id: 57
+          definition: >-
+            connected set of surfaces adjoining one another along shared
+            boundary curves
+          language_code: eng
+          notes:
+            - >-
+              A composite surface, as a set of direct positions, has all the
+              properties of a surface.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19136-1:2020'
+            clause: '(E), 3.1.11'
+            link: 'https://www.iso.org/standard/75676.html'
+          lineage_source: 'ISO 19107:2003'
+          lineage_source_similarity: 1
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2018-06-08T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2020-01-09T00:00:00.000Z
+          review_decision_event: 'Supersession of ISO 19107:2003 and publication of ISO 19136-1:2020'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19107:2003 to ISO
+            19136-1:2020(E), 3.1.11. Lineage source added as ISO 19107:2003
+          release: '1'
+          terms:
+            - type: expression
+              designation: composite surface
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+ara:
+  id: 57
+  definition: مجموعة أسطح متصلة ببعضها  ومجاورة بعضها لبعض على طول منحنيات الحدود المشتركه
+  language_code: ara
+  notes:
+    - 'السطح المركب , باعتباره مجموعة مواقع مباشرة ، تتوفر فيه جميع خصائص السطح.'
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19136-1:2020'
+    clause: '(E), 3.1.11'
+    link: 'https://www.iso.org/standard/75676.html'
+  lineage_source: 'ISO 19107:2003'
+  lineage_source_similarity: 1
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2018-06-08T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2020-01-09T00:00:00.000Z
+  review_decision_event: 'Supersession of ISO 19107:2003 and publication of ISO 19136-1:2020'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19107:2003 to ISO 19136-1:2020(E),
+    3.1.11. Lineage source added as ISO 19107:2003
+  release: '1'
+  terms:
+    - type: expression
+      designation: سطح مركَّب
+      normative_status: preferred
+  _revisions:
+    current: '7556e1'
+    tree:
+      '7556e1':
+        object:
+          id: 57
+          definition: >-
+            مجموعة أسطح متصلة ببعضها  ومجاورة بعضها لبعض على طول منحنيات الحدود
+            المشتركه
+          language_code: ara
+          notes:
+            - >-
+              السطح المركب , باعتباره مجموعة مواقع مباشرة ، تتوفر فيه جميع خصائص
+              السطح.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19136-1:2020'
+            clause: '(E), 3.1.11'
+            link: 'https://www.iso.org/standard/75676.html'
+          lineage_source: 'ISO 19107:2003'
+          lineage_source_similarity: 1
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2018-06-08T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2020-01-09T00:00:00.000Z
+          review_decision_event: 'Supersession of ISO 19107:2003 and publication of ISO 19136-1:2020'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19107:2003 to ISO
+            19136-1:2020(E), 3.1.11. Lineage source added as ISO 19107:2003
+          release: '1'
+          terms:
+            - type: expression
+              designation: سطح مركَّب
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+zho:
+  id: 57
+  definition: 沿着共享边界曲线相邻并相连的曲面的集合。
+  language_code: zho
+  notes:
+    - 组合曲面作为直接位置的集合，具有曲面所具有的所有特征。
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19136-1:2020'
+    clause: '(E), 3.1.11'
+    link: 'https://www.iso.org/standard/75676.html'
+  lineage_source: 'ISO 19107:2003'
+  lineage_source_similarity: 1
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2018-06-08T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2020-01-09T00:00:00.000Z
+  review_decision_event: 'Supersession of ISO 19107:2003 and publication of ISO 19136-1:2020'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19107:2003 to ISO 19136-1:2020(E),
+    3.1.11. Lineage source added as ISO 19107:2003
+  release: '1'
+  terms:
+    - type: expression
+      designation: 组合曲面
+      normative_status: preferred
+  _revisions:
+    current: ae60ef
+    tree:
+      ae60ef:
+        object:
+          id: 57
+          definition: 沿着共享边界曲线相邻并相连的曲面的集合。
+          language_code: zho
+          notes:
+            - 组合曲面作为直接位置的集合，具有曲面所具有的所有特征。
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19136-1:2020'
+            clause: '(E), 3.1.11'
+            link: 'https://www.iso.org/standard/75676.html'
+          lineage_source: 'ISO 19107:2003'
+          lineage_source_similarity: 1
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2018-06-08T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2020-01-09T00:00:00.000Z
+          review_decision_event: 'Supersession of ISO 19107:2003 and publication of ISO 19136-1:2020'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19107:2003 to ISO
+            19136-1:2020(E), 3.1.11. Lineage source added as ISO 19107:2003
+          release: '1'
+          terms:
+            - type: expression
+              designation: 组合曲面
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+dan:
+  id: 57
+  definition: 'samlet sæt af flader, der er forbundet med hinanden langs fælles grænsekurv'
+  language_code: dan
+  notes:
+    - >-
+      En sammensat flade er i realiteten et antal direkte positioner og har de
+      samme egenskaber som en flade.
+  examples: []
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19136-1:2020'
+    clause: '(E), 3.1.11'
+    link: 'https://www.iso.org/standard/75676.html'
+  lineage_source: 'ISO 19107:2003'
+  lineage_source_similarity: 1
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2018-06-08T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2020-01-09T00:00:00.000Z
+  review_decision_event: 'Supersession of ISO 19107:2003 and publication of ISO 19136-1:2020'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19107:2003 to ISO 19136-1:2020(E),
+    3.1.11. Lineage source added as ISO 19107:2003
+  release: '1'
+  terms:
+    - type: expression
+      designation: sammensat flade
+      normative_status: null
+  _revisions:
+    current: f5cdae
+    tree:
+      f5cdae:
+        object:
+          id: 57
+          definition: >-
+            samlet sæt af flader, der er forbundet med hinanden langs fælles
+            grænsekurv
+          language_code: dan
+          notes:
+            - >-
+              En sammensat flade er i realiteten et antal direkte positioner og
+              har de samme egenskaber som en flade.
+          examples: []
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19136-1:2020'
+            clause: '(E), 3.1.11'
+            link: 'https://www.iso.org/standard/75676.html'
+          lineage_source: 'ISO 19107:2003'
+          lineage_source_similarity: 1
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2018-06-08T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2020-01-09T00:00:00.000Z
+          review_decision_event: 'Supersession of ISO 19107:2003 and publication of ISO 19136-1:2020'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19107:2003 to ISO
+            19136-1:2020(E), 3.1.11. Lineage source added as ISO 19107:2003
+          release: '1'
+          terms:
+            - type: expression
+              designation: sammensat flade
+              normative_status: null
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+fin:
+  id: 57
+  definition: 'komposiitti, joka koostuu toisissaan kiinni olevista pinnoista'
+  language_code: fin
+  notes:
+    - Komposiittipinnalla on kaikki pinnan ominaisuudet.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19136-1:2020'
+    clause: '(E), 3.1.11'
+    link: 'https://www.iso.org/standard/75676.html'
+  lineage_source: 'ISO 19107:2003'
+  lineage_source_similarity: 1
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2018-06-08T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2020-01-09T00:00:00.000Z
+  review_decision_event: 'Supersession of ISO 19107:2003 and publication of ISO 19136-1:2020'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19107:2003 to ISO 19136-1:2020(E),
+    3.1.11. Lineage source added as ISO 19107:2003
+  release: '1'
+  terms:
+    - type: expression
+      designation: komposiittipinta
+      normative_status: preferred
+  _revisions:
+    current: 688a55
+    tree:
+      688a55:
+        object:
+          id: 57
+          definition: 'komposiitti, joka koostuu toisissaan kiinni olevista pinnoista'
+          language_code: fin
+          notes:
+            - Komposiittipinnalla on kaikki pinnan ominaisuudet.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19136-1:2020'
+            clause: '(E), 3.1.11'
+            link: 'https://www.iso.org/standard/75676.html'
+          lineage_source: 'ISO 19107:2003'
+          lineage_source_similarity: 1
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2018-06-08T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2020-01-09T00:00:00.000Z
+          review_decision_event: 'Supersession of ISO 19107:2003 and publication of ISO 19136-1:2020'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19107:2003 to ISO
+            19136-1:2020(E), 3.1.11. Lineage source added as ISO 19107:2003
+          release: '1'
+          terms:
+            - type: expression
+              designation: komposiittipinta
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+fra:
+  id: 57
+  definition: >-
+    ensemble connecté de surfaces jointes le long d'une frontière curviligne
+    partagée
+  language_code: fra
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19136-1:2020'
+    clause: '(E), 3.1.11'
+    link: 'https://www.iso.org/standard/75676.html'
+  lineage_source: 'ISO 19107:2003'
+  lineage_source_similarity: 1
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2018-06-08T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2020-01-09T00:00:00.000Z
+  review_decision_event: 'Supersession of ISO 19107:2003 and publication of ISO 19136-1:2020'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19107:2003 to ISO 19136-1:2020(E),
+    3.1.11. Lineage source added as ISO 19107:2003
+  release: '1'
+  terms:
+    - type: expression
+      designation: surface composite
+      normative_status: preferred
+  _revisions:
+    current: 846b8d
+    tree:
+      846b8d:
+        object:
+          id: 57
+          definition: >-
+            ensemble connecté de surfaces jointes le long d'une frontière
+            curviligne partagée
+          language_code: fra
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19136-1:2020'
+            clause: '(E), 3.1.11'
+            link: 'https://www.iso.org/standard/75676.html'
+          lineage_source: 'ISO 19107:2003'
+          lineage_source_similarity: 1
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2018-06-08T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2020-01-09T00:00:00.000Z
+          review_decision_event: 'Supersession of ISO 19107:2003 and publication of ISO 19136-1:2020'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19107:2003 to ISO
+            19136-1:2020(E), 3.1.11. Lineage source added as ISO 19107:2003
+          release: '1'
+          terms:
+            - type: expression
+              designation: surface composite
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+deu:
+  id: 57
+  definition: >-
+    verbundene Menge von Flächen, die gegenseitig entlang von gemeinsamen
+    Grenzkurven verbunden sind
+  language_code: deu
+  notes:
+    - >-
+      A composite surface, as a set of direct positions, has all the properties
+      of a surface.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19136-1:2020'
+    clause: '(E), 3.1.11'
+    link: 'https://www.iso.org/standard/75676.html'
+  lineage_source: 'ISO 19107:2003'
+  lineage_source_similarity: 1
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2018-06-08T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2020-01-09T00:00:00.000Z
+  review_decision_event: 'Supersession of ISO 19107:2003 and publication of ISO 19136-1:2020'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19107:2003 to ISO 19136-1:2020(E),
+    3.1.11. Lineage source added as ISO 19107:2003
+  release: '1'
+  terms:
+    - type: expression
+      designation: zusammenhängende Fläche
+      normative_status: preferred
+  _revisions:
+    current: '399194'
+    tree:
+      '399194':
+        object:
+          id: 57
+          definition: >-
+            verbundene Menge von Flächen, die gegenseitig entlang von
+            gemeinsamen Grenzkurven verbunden sind
+          language_code: deu
+          notes:
+            - >-
+              A composite surface, as a set of direct positions, has all the
+              properties of a surface.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19136-1:2020'
+            clause: '(E), 3.1.11'
+            link: 'https://www.iso.org/standard/75676.html'
+          lineage_source: 'ISO 19107:2003'
+          lineage_source_similarity: 1
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2018-06-08T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2020-01-09T00:00:00.000Z
+          review_decision_event: 'Supersession of ISO 19107:2003 and publication of ISO 19136-1:2020'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19107:2003 to ISO
+            19136-1:2020(E), 3.1.11. Lineage source added as ISO 19107:2003
+          release: '1'
+          terms:
+            - type: expression
+              designation: zusammenhängende Fläche
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+jpn:
+  id: 57
+  definition: 共有された境界曲線に沿って互いに隣接する曲面の連結な集合。
+  language_code: jpn
+  notes:
+    - 合成曲面は，直接位置の集合として，曲面のすべての性質をもつ。
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19136-1:2020'
+    clause: '(E), 3.1.11'
+    link: 'https://www.iso.org/standard/75676.html'
+  lineage_source: 'ISO 19107:2003'
+  lineage_source_similarity: 1
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2018-06-08T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2020-01-09T00:00:00.000Z
+  review_decision_event: 'Supersession of ISO 19107:2003 and publication of ISO 19136-1:2020'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19107:2003 to ISO 19136-1:2020(E),
+    3.1.11. Lineage source added as ISO 19107:2003
+  release: '1'
+  terms:
+    - type: expression
+      designation: 合成曲面
+      normative_status: preferred
+  _revisions:
+    current: e61cb7
+    tree:
+      e61cb7:
+        object:
+          id: 57
+          definition: 共有された境界曲線に沿って互いに隣接する曲面の連結な集合。
+          language_code: jpn
+          notes:
+            - 合成曲面は，直接位置の集合として，曲面のすべての性質をもつ。
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19136-1:2020'
+            clause: '(E), 3.1.11'
+            link: 'https://www.iso.org/standard/75676.html'
+          lineage_source: 'ISO 19107:2003'
+          lineage_source_similarity: 1
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2018-06-08T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2020-01-09T00:00:00.000Z
+          review_decision_event: 'Supersession of ISO 19107:2003 and publication of ISO 19136-1:2020'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19107:2003 to ISO
+            19136-1:2020(E), 3.1.11. Lineage source added as ISO 19107:2003
+          release: '1'
+          terms:
+            - type: expression
+              designation: 合成曲面
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+kor:
+  id: 57
+  definition: 공유 경계 곡선을 따라 서로 연결된 표면의 집합
+  language_code: kor
+  notes:
+    - 직접위치의 집합으로서의 합성 표면은 표면의 모든 특성을 갖는다.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19136-1:2020'
+    clause: '(E), 3.1.11'
+    link: 'https://www.iso.org/standard/75676.html'
+  lineage_source: 'ISO 19107:2003'
+  lineage_source_similarity: 1
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2018-06-08T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2020-01-09T00:00:00.000Z
+  review_decision_event: 'Supersession of ISO 19107:2003 and publication of ISO 19136-1:2020'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19107:2003 to ISO 19136-1:2020(E),
+    3.1.11. Lineage source added as ISO 19107:2003
+  release: '1'
+  terms:
+    - type: expression
+      designation: 합성 표면
+      normative_status: preferred
+  _revisions:
+    current: 6d97fe
+    tree:
+      6d97fe:
+        object:
+          id: 57
+          definition: 공유 경계 곡선을 따라 서로 연결된 표면의 집합
+          language_code: kor
+          notes:
+            - 직접위치의 집합으로서의 합성 표면은 표면의 모든 특성을 갖는다.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19136-1:2020'
+            clause: '(E), 3.1.11'
+            link: 'https://www.iso.org/standard/75676.html'
+          lineage_source: 'ISO 19107:2003'
+          lineage_source_similarity: 1
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2018-06-08T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2020-01-09T00:00:00.000Z
+          review_decision_event: 'Supersession of ISO 19107:2003 and publication of ISO 19136-1:2020'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19107:2003 to ISO
+            19136-1:2020(E), 3.1.11. Lineage source added as ISO 19107:2003
+          release: '1'
+          terms:
+            - type: expression
+              designation: 합성 표면
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+msa:
+  id: 57
+  definition: >-
+    set permukaan terhubung yang bersebelahan satu sama lain di sepanjang
+    lengkungan sempadan bersama
+  language_code: msa
+  notes:
+    - >-
+      A composite surface, as a set of direct positions, has all the properties
+      of a surface.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19136-1:2020'
+    clause: '(E), 3.1.11'
+    link: 'https://www.iso.org/standard/75676.html'
+  lineage_source: 'ISO 19107:2003'
+  lineage_source_similarity: 1
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2018-06-08T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2020-01-09T00:00:00.000Z
+  review_decision_event: 'Supersession of ISO 19107:2003 and publication of ISO 19136-1:2020'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19107:2003 to ISO 19136-1:2020(E),
+    3.1.11. Lineage source added as ISO 19107:2003
+  release: '1'
+  terms:
+    - type: expression
+      designation: permukaan komposit
+      normative_status: preferred
+  _revisions:
+    current: f042ce
+    tree:
+      f042ce:
+        object:
+          id: 57
+          definition: >-
+            set permukaan terhubung yang bersebelahan satu sama lain di
+            sepanjang lengkungan sempadan bersama
+          language_code: msa
+          notes:
+            - >-
+              A composite surface, as a set of direct positions, has all the
+              properties of a surface.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19136-1:2020'
+            clause: '(E), 3.1.11'
+            link: 'https://www.iso.org/standard/75676.html'
+          lineage_source: 'ISO 19107:2003'
+          lineage_source_similarity: 1
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2018-06-08T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2020-01-09T00:00:00.000Z
+          review_decision_event: 'Supersession of ISO 19107:2003 and publication of ISO 19136-1:2020'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19107:2003 to ISO
+            19136-1:2020(E), 3.1.11. Lineage source added as ISO 19107:2003
+          release: '1'
+          terms:
+            - type: expression
+              designation: permukaan komposit
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+pol:
+  id: 57
+  definition: >-
+    spójny zbiór powierzchni przylegających jedna do drugiej poprzez
+    współdzielone krzywe graniczne
+  language_code: pol
+  notes:
+    - >-
+      Powierzchnia kompozytowa, jako zbiór położeń bezpośrednich, ma wszystkie
+      właściwości powierzchni.
+  examples: []
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19136-1:2020'
+    clause: '(E), 3.1.11'
+    link: 'https://www.iso.org/standard/75676.html'
+  lineage_source: 'ISO 19107:2003'
+  lineage_source_similarity: 1
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2018-06-08T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2020-01-09T00:00:00.000Z
+  review_decision_event: 'Supersession of ISO 19107:2003 and publication of ISO 19136-1:2020'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19107:2003 to ISO 19136-1:2020(E),
+    3.1.11. Lineage source added as ISO 19107:2003
+  release: '1'
+  terms:
+    - type: expression
+      designation: powierzchnia kompozytowa
+      normative_status: preferred
+  _revisions:
+    current: 567c49
+    tree:
+      567c49:
+        object:
+          id: 57
+          definition: >-
+            spójny zbiór powierzchni przylegających jedna do drugiej poprzez
+            współdzielone krzywe graniczne
+          language_code: pol
+          notes:
+            - >-
+              Powierzchnia kompozytowa, jako zbiór położeń bezpośrednich, ma
+              wszystkie właściwości powierzchni.
+          examples: []
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19136-1:2020'
+            clause: '(E), 3.1.11'
+            link: 'https://www.iso.org/standard/75676.html'
+          lineage_source: 'ISO 19107:2003'
+          lineage_source_similarity: 1
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2018-06-08T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2020-01-09T00:00:00.000Z
+          review_decision_event: 'Supersession of ISO 19107:2003 and publication of ISO 19136-1:2020'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19107:2003 to ISO
+            19136-1:2020(E), 3.1.11. Lineage source added as ISO 19107:2003
+          release: '1'
+          terms:
+            - type: expression
+              designation: powierzchnia kompozytowa
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 57
+  definition: >-
+    связное множество поверхностей, примыкающих друг к другу по общим граничным
+    кривым
+  language_code: rus
+  notes:
+    - >-
+      Составная поверхность,  как множество точек,  имеет те же свойства,
+      которые присущи поверхности
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19136-1:2020'
+    clause: '(E), 3.1.11'
+    link: 'https://www.iso.org/standard/75676.html'
+  lineage_source: 'ISO 19107:2003'
+  lineage_source_similarity: 1
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2018-06-08T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2020-01-09T00:00:00.000Z
+  review_decision_event: 'Supersession of ISO 19107:2003 and publication of ISO 19136-1:2020'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19107:2003 to ISO 19136-1:2020(E),
+    3.1.11. Lineage source added as ISO 19107:2003
+  release: '1'
+  terms:
+    - type: expression
+      designation: составная поверхность
+      normative_status: preferred
+  _revisions:
+    current: 69acab
+    tree:
+      69acab:
+        object:
+          id: 57
+          definition: >-
+            связное множество поверхностей, примыкающих друг к другу по общим
+            граничным кривым
+          language_code: rus
+          notes:
+            - >-
+              Составная поверхность,  как множество точек,  имеет те же
+              свойства, которые присущи поверхности
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19136-1:2020'
+            clause: '(E), 3.1.11'
+            link: 'https://www.iso.org/standard/75676.html'
+          lineage_source: 'ISO 19107:2003'
+          lineage_source_similarity: 1
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2018-06-08T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2020-01-09T00:00:00.000Z
+          review_decision_event: 'Supersession of ISO 19107:2003 and publication of ISO 19136-1:2020'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19107:2003 to ISO
+            19136-1:2020(E), 3.1.11. Lineage source added as ISO 19107:2003
+          release: '1'
+          terms:
+            - type: expression
+              designation: составная поверхность
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 57
+  definition: >-
+    conjunto conectado de superficies que son colindantes unas con otras a
+    través de las curvas de frontera que comparten
+  language_code: spa
+  notes:
+    - >-
+      Un sólido compuesto, como conjunto de posiciones directas, tiene todas las
+      propiedades de un sólido.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19136-1:2020'
+    clause: '(E), 3.1.11'
+    link: 'https://www.iso.org/standard/75676.html'
+  lineage_source: 'ISO 19107:2003'
+  lineage_source_similarity: 1
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2018-06-08T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2020-01-09T00:00:00.000Z
+  review_decision_event: 'Supersession of ISO 19107:2003 and publication of ISO 19136-1:2020'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19107:2003 to ISO 19136-1:2020(E),
+    3.1.11. Lineage source added as ISO 19107:2003
+  release: '1'
+  terms:
+    - type: expression
+      designation: superficie compuesta
+      normative_status: preferred
+  _revisions:
+    current: c82796
+    tree:
+      c82796:
+        object:
+          id: 57
+          definition: >-
+            conjunto conectado de superficies que son colindantes unas con otras
+            a través de las curvas de frontera que comparten
+          language_code: spa
+          notes:
+            - >-
+              Un sólido compuesto, como conjunto de posiciones directas, tiene
+              todas las propiedades de un sólido.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19136-1:2020'
+            clause: '(E), 3.1.11'
+            link: 'https://www.iso.org/standard/75676.html'
+          lineage_source: 'ISO 19107:2003'
+          lineage_source_similarity: 1
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2018-06-08T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2020-01-09T00:00:00.000Z
+          review_decision_event: 'Supersession of ISO 19107:2003 and publication of ISO 19136-1:2020'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19107:2003 to ISO
+            19136-1:2020(E), 3.1.11. Lineage source added as ISO 19107:2003
+          release: '1'
+          terms:
+            - type: expression
+              designation: superficie compuesta
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+swe:
+  id: 57
+  definition: samling ytor där varje yta delar gränslinje med minst en av de övriga ytorna
+  country_code: swe
+  language_code: swe
+  notes:
+    - >-
+      A composite surface, as a set of direct positions, has all the properties
+      of a surface.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19136-1:2020'
+    clause: '(E), 3.1.11'
+    link: 'https://www.iso.org/standard/75676.html'
+  lineage_source: 'ISO 19107:2003'
+  lineage_source_similarity: 1
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2018-06-08T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2020-01-09T00:00:00.000Z
+  review_decision_event: 'Supersession of ISO 19107:2003 and publication of ISO 19136-1:2020'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19107:2003 to ISO 19136-1:2020(E),
+    3.1.11. Lineage source added as ISO 19107:2003
+  release: '1'
+  terms:
+    - type: expression
+      designation: sammansatt yta
+      normative_status: preferred
+  _revisions:
+    current: '555843'
+    tree:
+      '555843':
+        object:
+          id: 57
+          definition: >-
+            samling ytor där varje yta delar gränslinje med minst en av de
+            övriga ytorna
+          country_code: swe
+          language_code: swe
+          notes:
+            - >-
+              A composite surface, as a set of direct positions, has all the
+              properties of a surface.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19136-1:2020'
+            clause: '(E), 3.1.11'
+            link: 'https://www.iso.org/standard/75676.html'
+          lineage_source: 'ISO 19107:2003'
+          lineage_source_similarity: 1
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2018-06-08T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2020-01-09T00:00:00.000Z
+          review_decision_event: 'Supersession of ISO 19107:2003 and publication of ISO 19136-1:2020'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19107:2003 to ISO
+            19136-1:2020(E), 3.1.11. Lineage source added as ISO 19107:2003
+          release: '1'
+          terms:
+            - type: expression
+              designation: sammansatt yta
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

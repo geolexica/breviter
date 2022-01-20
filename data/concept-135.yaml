@@ -1,0 +1,916 @@
+term: direct position
+termid: 135
+eng:
+  id: 135
+  definition: >-
+    position described by a single set of coordinates within a coordinate
+    reference system
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19136-1:2020'
+    clause: '(E), 3.1.20'
+    link: 'https://www.iso.org/standard/75676.html'
+  lineage_source: 'ISO 19107:2003'
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2018-06-08T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2020-01-09T00:00:00.000Z
+  review_decision_event: 'Supersession of ISO 19107:2003 and publication of ISO 19136-1:2020'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19107:2003 to ISO 19136-1:2020(E),
+    3.1.20. Lineage source added as ISO 19107:2003
+  release: '1'
+  terms:
+    - type: expression
+      designation: direct position
+      normative_status: preferred
+  _revisions:
+    current: 05b056
+    tree:
+      05b056:
+        object:
+          id: 135
+          definition: >-
+            position described by a single set of coordinates within a
+            coordinate reference system
+          language_code: eng
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19136-1:2020'
+            clause: '(E), 3.1.20'
+            link: 'https://www.iso.org/standard/75676.html'
+          lineage_source: 'ISO 19107:2003'
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2018-06-08T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2020-01-09T00:00:00.000Z
+          review_decision_event: 'Supersession of ISO 19107:2003 and publication of ISO 19136-1:2020'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19107:2003 to ISO
+            19136-1:2020(E), 3.1.20. Lineage source added as ISO 19107:2003
+          release: '1'
+          terms:
+            - type: expression
+              designation: direct position
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+ara:
+  id: 135
+  definition: موقع تصفه مجموعة إحداثيات واحدة ضمن نظام إحداثيات مرجعي
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19136-1:2020'
+    clause: '(E), 3.1.20'
+    link: 'https://www.iso.org/standard/75676.html'
+  lineage_source: 'ISO 19107:2003'
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2018-06-08T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2020-01-09T00:00:00.000Z
+  review_decision_event: 'Supersession of ISO 19107:2003 and publication of ISO 19136-1:2020'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19107:2003 to ISO 19136-1:2020(E),
+    3.1.20. Lineage source added as ISO 19107:2003
+  release: '1'
+  terms:
+    - type: expression
+      designation: موقع مباشر
+      normative_status: preferred
+  _revisions:
+    current: d3706e
+    tree:
+      d3706e:
+        object:
+          id: 135
+          definition: موقع تصفه مجموعة إحداثيات واحدة ضمن نظام إحداثيات مرجعي
+          language_code: ara
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19136-1:2020'
+            clause: '(E), 3.1.20'
+            link: 'https://www.iso.org/standard/75676.html'
+          lineage_source: 'ISO 19107:2003'
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2018-06-08T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2020-01-09T00:00:00.000Z
+          review_decision_event: 'Supersession of ISO 19107:2003 and publication of ISO 19136-1:2020'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19107:2003 to ISO
+            19136-1:2020(E), 3.1.20. Lineage source added as ISO 19107:2003
+          release: '1'
+          terms:
+            - type: expression
+              designation: موقع مباشر
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+zho:
+  id: 135
+  definition: 用坐标参照系中的一组坐标描述的位置。
+  language_code: zho
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19136-1:2020'
+    clause: '(E), 3.1.20'
+    link: 'https://www.iso.org/standard/75676.html'
+  lineage_source: 'ISO 19107:2003'
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2018-06-08T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2020-01-09T00:00:00.000Z
+  review_decision_event: 'Supersession of ISO 19107:2003 and publication of ISO 19136-1:2020'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19107:2003 to ISO 19136-1:2020(E),
+    3.1.20. Lineage source added as ISO 19107:2003
+  release: '1'
+  terms:
+    - type: expression
+      designation: 直接位置
+      normative_status: preferred
+  _revisions:
+    current: 017c61
+    tree:
+      017c61:
+        object:
+          id: 135
+          definition: 用坐标参照系中的一组坐标描述的位置。
+          language_code: zho
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19136-1:2020'
+            clause: '(E), 3.1.20'
+            link: 'https://www.iso.org/standard/75676.html'
+          lineage_source: 'ISO 19107:2003'
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2018-06-08T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2020-01-09T00:00:00.000Z
+          review_decision_event: 'Supersession of ISO 19107:2003 and publication of ISO 19136-1:2020'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19107:2003 to ISO
+            19136-1:2020(E), 3.1.20. Lineage source added as ISO 19107:2003
+          release: '1'
+          terms:
+            - type: expression
+              designation: 直接位置
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+dan:
+  id: 135
+  definition: position beskrevet ved et enkelt sæt af koordinater i et koordinatsystem
+  language_code: dan
+  notes: []
+  examples: []
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19136-1:2020'
+    clause: '(E), 3.1.20'
+    link: 'https://www.iso.org/standard/75676.html'
+  lineage_source: 'ISO 19107:2003'
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2018-06-08T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2020-01-09T00:00:00.000Z
+  review_decision_event: 'Supersession of ISO 19107:2003 and publication of ISO 19136-1:2020'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19107:2003 to ISO 19136-1:2020(E),
+    3.1.20. Lineage source added as ISO 19107:2003
+  release: '1'
+  terms:
+    - type: expression
+      designation: direkte position
+      normative_status: null
+  _revisions:
+    current: ff4955
+    tree:
+      ff4955:
+        object:
+          id: 135
+          definition: >-
+            position beskrevet ved et enkelt sæt af koordinater i et
+            koordinatsystem
+          language_code: dan
+          notes: []
+          examples: []
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19136-1:2020'
+            clause: '(E), 3.1.20'
+            link: 'https://www.iso.org/standard/75676.html'
+          lineage_source: 'ISO 19107:2003'
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2018-06-08T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2020-01-09T00:00:00.000Z
+          review_decision_event: 'Supersession of ISO 19107:2003 and publication of ISO 19136-1:2020'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19107:2003 to ISO
+            19136-1:2020(E), 3.1.20. Lineage source added as ISO 19107:2003
+          release: '1'
+          terms:
+            - type: expression
+              designation: direkte position
+              normative_status: null
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+fin:
+  id: 135
+  definition: >-
+    koordinaattijärjestelmän ja sen mukaisten koordinaattien avulla ilmaistu
+    sijainti
+  language_code: fin
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19136-1:2020'
+    clause: '(E), 3.1.20'
+    link: 'https://www.iso.org/standard/75676.html'
+  lineage_source: 'ISO 19107:2003'
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2018-06-08T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2020-01-09T00:00:00.000Z
+  review_decision_event: 'Supersession of ISO 19107:2003 and publication of ISO 19136-1:2020'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19107:2003 to ISO 19136-1:2020(E),
+    3.1.20. Lineage source added as ISO 19107:2003
+  release: '1'
+  terms:
+    - type: expression
+      designation: suora sijainti
+      normative_status: preferred
+    - designation: koordinaattitieto
+      type: expression
+  _revisions:
+    current: 86ac2e
+    tree:
+      86ac2e:
+        object:
+          id: 135
+          definition: >-
+            koordinaattijärjestelmän ja sen mukaisten koordinaattien avulla
+            ilmaistu sijainti
+          language_code: fin
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19136-1:2020'
+            clause: '(E), 3.1.20'
+            link: 'https://www.iso.org/standard/75676.html'
+          lineage_source: 'ISO 19107:2003'
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2018-06-08T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2020-01-09T00:00:00.000Z
+          review_decision_event: 'Supersession of ISO 19107:2003 and publication of ISO 19136-1:2020'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19107:2003 to ISO
+            19136-1:2020(E), 3.1.20. Lineage source added as ISO 19107:2003
+          release: '1'
+          terms:
+            - type: expression
+              designation: suora sijainti
+              normative_status: preferred
+            - designation: koordinaattitieto
+              type: expression
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+fra:
+  id: 135
+  definition: >-
+    position décrite par un ensemble unique de coordonnées dans un système de
+    référence de coordonnées
+  language_code: fra
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19136-1:2020'
+    clause: '(E), 3.1.20'
+    link: 'https://www.iso.org/standard/75676.html'
+  lineage_source: 'ISO 19107:2003'
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2018-06-08T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2020-01-09T00:00:00.000Z
+  review_decision_event: 'Supersession of ISO 19107:2003 and publication of ISO 19136-1:2020'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19107:2003 to ISO 19136-1:2020(E),
+    3.1.20. Lineage source added as ISO 19107:2003
+  release: '1'
+  terms:
+    - type: expression
+      designation: position directe
+      normative_status: preferred
+  _revisions:
+    current: 403fa1
+    tree:
+      403fa1:
+        object:
+          id: 135
+          definition: >-
+            position décrite par un ensemble unique de coordonnées dans un
+            système de référence de coordonnées
+          language_code: fra
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19136-1:2020'
+            clause: '(E), 3.1.20'
+            link: 'https://www.iso.org/standard/75676.html'
+          lineage_source: 'ISO 19107:2003'
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2018-06-08T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2020-01-09T00:00:00.000Z
+          review_decision_event: 'Supersession of ISO 19107:2003 and publication of ISO 19136-1:2020'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19107:2003 to ISO
+            19136-1:2020(E), 3.1.20. Lineage source added as ISO 19107:2003
+          release: '1'
+          terms:
+            - type: expression
+              designation: position directe
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+deu:
+  id: 135
+  definition: >-
+    Position, die durch einen einzelnen Koordinatensatz in einem
+    Koordinatenreferenzsystem beschrieben wird
+  language_code: deu
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19136-1:2020'
+    clause: '(E), 3.1.20'
+    link: 'https://www.iso.org/standard/75676.html'
+  lineage_source: 'ISO 19107:2003'
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2018-06-08T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2020-01-09T00:00:00.000Z
+  review_decision_event: 'Supersession of ISO 19107:2003 and publication of ISO 19136-1:2020'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19107:2003 to ISO 19136-1:2020(E),
+    3.1.20. Lineage source added as ISO 19107:2003
+  release: '1'
+  terms:
+    - type: expression
+      designation: direkte Position
+      normative_status: preferred
+  _revisions:
+    current: b61931
+    tree:
+      b61931:
+        object:
+          id: 135
+          definition: >-
+            Position, die durch einen einzelnen Koordinatensatz in einem
+            Koordinatenreferenzsystem beschrieben wird
+          language_code: deu
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19136-1:2020'
+            clause: '(E), 3.1.20'
+            link: 'https://www.iso.org/standard/75676.html'
+          lineage_source: 'ISO 19107:2003'
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2018-06-08T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2020-01-09T00:00:00.000Z
+          review_decision_event: 'Supersession of ISO 19107:2003 and publication of ISO 19136-1:2020'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19107:2003 to ISO
+            19136-1:2020(E), 3.1.20. Lineage source added as ISO 19107:2003
+          release: '1'
+          terms:
+            - type: expression
+              designation: direkte Position
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+jpn:
+  id: 135
+  definition: 座標参照系の中で一つの座標によって記述された位置。
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19136-1:2020'
+    clause: '(E), 3.1.20'
+    link: 'https://www.iso.org/standard/75676.html'
+  lineage_source: 'ISO 19107:2003'
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2018-06-08T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2020-01-09T00:00:00.000Z
+  review_decision_event: 'Supersession of ISO 19107:2003 and publication of ISO 19136-1:2020'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19107:2003 to ISO 19136-1:2020(E),
+    3.1.20. Lineage source added as ISO 19107:2003
+  release: '1'
+  terms:
+    - type: expression
+      designation: 直接位置
+      normative_status: preferred
+  _revisions:
+    current: ccd2c1
+    tree:
+      ccd2c1:
+        object:
+          id: 135
+          definition: 座標参照系の中で一つの座標によって記述された位置。
+          language_code: jpn
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19136-1:2020'
+            clause: '(E), 3.1.20'
+            link: 'https://www.iso.org/standard/75676.html'
+          lineage_source: 'ISO 19107:2003'
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2018-06-08T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2020-01-09T00:00:00.000Z
+          review_decision_event: 'Supersession of ISO 19107:2003 and publication of ISO 19136-1:2020'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19107:2003 to ISO
+            19136-1:2020(E), 3.1.20. Lineage source added as ISO 19107:2003
+          release: '1'
+          terms:
+            - type: expression
+              designation: 直接位置
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+kor:
+  id: 135
+  definition: 좌표 참조 체계 내에서 단일 좌표 집합에 의해 기술되는 위치
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19136-1:2020'
+    clause: '(E), 3.1.20'
+    link: 'https://www.iso.org/standard/75676.html'
+  lineage_source: 'ISO 19107:2003'
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2018-06-08T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2020-01-09T00:00:00.000Z
+  review_decision_event: 'Supersession of ISO 19107:2003 and publication of ISO 19136-1:2020'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19107:2003 to ISO 19136-1:2020(E),
+    3.1.20. Lineage source added as ISO 19107:2003
+  release: '1'
+  terms:
+    - type: expression
+      designation: 직접 위치
+      normative_status: preferred
+  _revisions:
+    current: 905b14
+    tree:
+      905b14:
+        object:
+          id: 135
+          definition: 좌표 참조 체계 내에서 단일 좌표 집합에 의해 기술되는 위치
+          language_code: kor
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19136-1:2020'
+            clause: '(E), 3.1.20'
+            link: 'https://www.iso.org/standard/75676.html'
+          lineage_source: 'ISO 19107:2003'
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2018-06-08T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2020-01-09T00:00:00.000Z
+          review_decision_event: 'Supersession of ISO 19107:2003 and publication of ISO 19136-1:2020'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19107:2003 to ISO
+            19136-1:2020(E), 3.1.20. Lineage source added as ISO 19107:2003
+          release: '1'
+          terms:
+            - type: expression
+              designation: 직접 위치
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+msa:
+  id: 135
+  language_code: msa
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19136-1:2020'
+    clause: '(E), 3.1.20'
+    link: 'https://www.iso.org/standard/75676.html'
+  lineage_source: 'ISO 19107:2003'
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2018-06-08T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2020-01-09T00:00:00.000Z
+  review_decision_event: 'Supersession of ISO 19107:2003 and publication of ISO 19136-1:2020'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19107:2003 to ISO 19136-1:2020(E),
+    3.1.20. Lineage source added as ISO 19107:2003
+  release: '1'
+  terms:
+    - type: expression
+      designation: kedudukan langsung
+      normative_status: preferred
+  _revisions:
+    current: e1b297
+    tree:
+      e1b297:
+        object:
+          id: 135
+          language_code: msa
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19136-1:2020'
+            clause: '(E), 3.1.20'
+            link: 'https://www.iso.org/standard/75676.html'
+          lineage_source: 'ISO 19107:2003'
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2018-06-08T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2020-01-09T00:00:00.000Z
+          review_decision_event: 'Supersession of ISO 19107:2003 and publication of ISO 19136-1:2020'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19107:2003 to ISO
+            19136-1:2020(E), 3.1.20. Lineage source added as ISO 19107:2003
+          release: '1'
+          terms:
+            - type: expression
+              designation: kedudukan langsung
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+pol:
+  id: 135
+  definition: >-
+    położenie opisane przez pojedynczy zbiór współrzędnych w systemie
+    odniesienia opartym na współrzędnych
+  language_code: pol
+  notes: []
+  examples: []
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19136-1:2020'
+    clause: '(E), 3.1.20'
+    link: 'https://www.iso.org/standard/75676.html'
+  lineage_source: 'ISO 19107:2003'
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2018-06-08T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2020-01-09T00:00:00.000Z
+  review_decision_event: 'Supersession of ISO 19107:2003 and publication of ISO 19136-1:2020'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19107:2003 to ISO 19136-1:2020(E),
+    3.1.20. Lineage source added as ISO 19107:2003
+  release: '1'
+  terms:
+    - type: expression
+      designation: położenie bezpośrednie
+      normative_status: preferred
+  _revisions:
+    current: 3240c3
+    tree:
+      3240c3:
+        object:
+          id: 135
+          definition: >-
+            położenie opisane przez pojedynczy zbiór współrzędnych w systemie
+            odniesienia opartym na współrzędnych
+          language_code: pol
+          notes: []
+          examples: []
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19136-1:2020'
+            clause: '(E), 3.1.20'
+            link: 'https://www.iso.org/standard/75676.html'
+          lineage_source: 'ISO 19107:2003'
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2018-06-08T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2020-01-09T00:00:00.000Z
+          review_decision_event: 'Supersession of ISO 19107:2003 and publication of ISO 19136-1:2020'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19107:2003 to ISO
+            19136-1:2020(E), 3.1.20. Lineage source added as ISO 19107:2003
+          release: '1'
+          terms:
+            - type: expression
+              designation: położenie bezpośrednie
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 135
+  definition: >-
+    местоположение,  описываемое единичным  множеством координат в некоторой
+    координатной системе отсчета
+  language_code: rus
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19136-1:2020'
+    clause: '(E), 3.1.20'
+    link: 'https://www.iso.org/standard/75676.html'
+  lineage_source: 'ISO 19107:2003'
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2018-06-08T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2020-01-09T00:00:00.000Z
+  review_decision_event: 'Supersession of ISO 19107:2003 and publication of ISO 19136-1:2020'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19107:2003 to ISO 19136-1:2020(E),
+    3.1.20. Lineage source added as ISO 19107:2003
+  release: '1'
+  terms:
+    - type: expression
+      designation: (координатная) точка
+      normative_status: preferred
+  _revisions:
+    current: b9472f
+    tree:
+      b9472f:
+        object:
+          id: 135
+          definition: >-
+            местоположение,  описываемое единичным  множеством координат в
+            некоторой координатной системе отсчета
+          language_code: rus
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19136-1:2020'
+            clause: '(E), 3.1.20'
+            link: 'https://www.iso.org/standard/75676.html'
+          lineage_source: 'ISO 19107:2003'
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2018-06-08T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2020-01-09T00:00:00.000Z
+          review_decision_event: 'Supersession of ISO 19107:2003 and publication of ISO 19136-1:2020'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19107:2003 to ISO
+            19136-1:2020(E), 3.1.20. Lineage source added as ISO 19107:2003
+          release: '1'
+          terms:
+            - type: expression
+              designation: (координатная) точка
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 135
+  definition: >-
+    posición descrita por un único conjunto de coordenadas dentro de un sistema
+    de referencia de coordenadas
+  language_code: spa
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19136-1:2020'
+    clause: '(E), 3.1.20'
+    link: 'https://www.iso.org/standard/75676.html'
+  lineage_source: 'ISO 19107:2003'
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2018-06-08T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2020-01-09T00:00:00.000Z
+  review_decision_event: 'Supersession of ISO 19107:2003 and publication of ISO 19136-1:2020'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19107:2003 to ISO 19136-1:2020(E),
+    3.1.20. Lineage source added as ISO 19107:2003
+  release: '1'
+  terms:
+    - type: expression
+      designation: posición directa
+      normative_status: preferred
+  _revisions:
+    current: e7262d
+    tree:
+      e7262d:
+        object:
+          id: 135
+          definition: >-
+            posición descrita por un único conjunto de coordenadas dentro de un
+            sistema de referencia de coordenadas
+          language_code: spa
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19136-1:2020'
+            clause: '(E), 3.1.20'
+            link: 'https://www.iso.org/standard/75676.html'
+          lineage_source: 'ISO 19107:2003'
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2018-06-08T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2020-01-09T00:00:00.000Z
+          review_decision_event: 'Supersession of ISO 19107:2003 and publication of ISO 19136-1:2020'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19107:2003 to ISO
+            19136-1:2020(E), 3.1.20. Lineage source added as ISO 19107:2003
+          release: '1'
+          terms:
+            - type: expression
+              designation: posición directa
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+swe:
+  id: 135
+  definition: läge beskrivet av en viss uppsättning koordinater i ett koordinatsystem
+  country_code: swe
+  language_code: swe
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19136-1:2020'
+    clause: '(E), 3.1.20'
+    link: 'https://www.iso.org/standard/75676.html'
+  lineage_source: 'ISO 19107:2003'
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2018-06-08T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2020-01-09T00:00:00.000Z
+  review_decision_event: 'Supersession of ISO 19107:2003 and publication of ISO 19136-1:2020'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19107:2003 to ISO 19136-1:2020(E),
+    3.1.20. Lineage source added as ISO 19107:2003
+  release: '1'
+  terms:
+    - type: expression
+      designation: geografiskt läge
+      normative_status: preferred
+  _revisions:
+    current: 886c41
+    tree:
+      886c41:
+        object:
+          id: 135
+          definition: >-
+            läge beskrivet av en viss uppsättning koordinater i ett
+            koordinatsystem
+          country_code: swe
+          language_code: swe
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19136-1:2020'
+            clause: '(E), 3.1.20'
+            link: 'https://www.iso.org/standard/75676.html'
+          lineage_source: 'ISO 19107:2003'
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2018-06-08T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2020-01-09T00:00:00.000Z
+          review_decision_event: 'Supersession of ISO 19107:2003 and publication of ISO 19136-1:2020'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19107:2003 to ISO
+            19136-1:2020(E), 3.1.20. Lineage source added as ISO 19107:2003
+          release: '1'
+          terms:
+            - type: expression
+              designation: geografiskt läge
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

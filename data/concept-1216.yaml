@@ -1,0 +1,206 @@
+term: copyleft
+termid: 1216
+eng:
+  id: 1216
+  definition: >-
+    licence that accompanies some open source software that details how the
+    software and its accompanying source code can be freely copied, distributed
+    and modified
+  language_code: eng
+  notes:
+    - A copyleft is a form of general public licence.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19153:2014'
+    clause: '4.10'
+    link: 'https://www.iso.org/standard/32571.html'
+  date_accepted: 2014-02-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: copyleft
+      normative_status: preferred
+  _revisions:
+    current: 46114a
+    tree:
+      46114a:
+        object:
+          id: 1216
+          definition: >-
+            licence that accompanies some open source software that details how
+            the software and its accompanying source code can be freely copied,
+            distributed and modified
+          language_code: eng
+          notes:
+            - A copyleft is a form of general public licence.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19153:2014'
+            clause: '4.10'
+            link: 'https://www.iso.org/standard/32571.html'
+          date_accepted: 2014-02-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: copyleft
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+kor:
+  id: 1216
+  definition: '소프트웨어와 부속 요소 코드가 자유롭게 복사, 배포 및 수정될 수 있는지에 대해 상술한 몇몇 오픈소스 소프트웨어가 첨부된 허가증'
+  language_code: kor
+  notes:
+    - A copyleft is a form of general public licence.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19153:2014'
+    clause: '4.10'
+    link: 'https://www.iso.org/standard/32571.html'
+  date_accepted: 2014-02-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: 카피레프트
+      normative_status: preferred
+  _revisions:
+    current: 5c4a72
+    tree:
+      5c4a72:
+        object:
+          id: 1216
+          definition: >-
+            소프트웨어와 부속 요소 코드가 자유롭게 복사, 배포 및 수정될 수 있는지에 대해 상술한 몇몇 오픈소스 소프트웨어가 첨부된
+            허가증
+          language_code: kor
+          notes:
+            - A copyleft is a form of general public licence.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19153:2014'
+            clause: '4.10'
+            link: 'https://www.iso.org/standard/32571.html'
+          date_accepted: 2014-02-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: 카피레프트
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 1216
+  definition: >-
+    лицензия, сопровождающая некоторое программное обеспечение с открытым
+    исходным кодом, которая подробно описывает, каким образом программное
+    обеспечение и его исходный код могут свободно копироваться, распространяться
+    и модифицироваться
+  language_code: rus
+  notes:
+    - Копилефт – это форма универсальной общественной лицензии
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19153:2014'
+    clause: '4.10'
+    link: 'https://www.iso.org/standard/32571.html'
+  lineage_source: 'перевод ИСО 19153:2014'
+  date_accepted: 2014-02-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: copyleft
+      normative_status: preferred
+  _revisions:
+    current: 9bc5af
+    tree:
+      9bc5af:
+        object:
+          id: 1216
+          definition: >-
+            лицензия, сопровождающая некоторое программное обеспечение с
+            открытым исходным кодом, которая подробно описывает, каким образом
+            программное обеспечение и его исходный код могут свободно
+            копироваться, распространяться и модифицироваться
+          language_code: rus
+          notes:
+            - Копилефт – это форма универсальной общественной лицензии
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19153:2014'
+            clause: '4.10'
+            link: 'https://www.iso.org/standard/32571.html'
+          lineage_source: 'перевод ИСО 19153:2014'
+          date_accepted: 2014-02-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: copyleft
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 1216
+  definition: >-
+    licencia que acompaña a un software de código abierto que detalla cómo el
+    software y el código fuente que lo acompaña pueden ser libremente copiados,
+    distribuidos y modificados
+  language_code: spa
+  notes:
+    - Un copyleft es una forma de licencia pública general.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19153:2014'
+    clause: '4.10'
+    link: 'https://www.iso.org/standard/32571.html'
+  date_accepted: 2014-02-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: copyleft
+      normative_status: preferred
+  _revisions:
+    current: c22637
+    tree:
+      c22637:
+        object:
+          id: 1216
+          definition: >-
+            licencia que acompaña a un software de código abierto que detalla
+            cómo el software y el código fuente que lo acompaña pueden ser
+            libremente copiados, distribuidos y modificados
+          language_code: spa
+          notes:
+            - Un copyleft es una forma de licencia pública general.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19153:2014'
+            clause: '4.10'
+            link: 'https://www.iso.org/standard/32571.html'
+          date_accepted: 2014-02-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: copyleft
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

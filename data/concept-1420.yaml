@@ -1,0 +1,337 @@
+term: squat
+termid: 1420
+eng:
+  id: 1420
+  definition: >-
+    effect that causes a vessel moving through water to create an area of
+    lowered pressure under its bottom that increases the effective draught (i.e.
+    lowers the vessel in the water)
+  language_code: eng
+  notes:
+    - >-
+      The effect is a result of Bernoulli's principle of fluid dynamics. The
+      squat represents the increase in effective draught.
+    - >-
+      For a ship underway, the change of level of the bow and stern from the
+      still water condition in response to the elevation and depression of the
+      water level about the hull resulting from the bow and stern wave systems.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: >-
+      Implementation Specification — a Draught Information System for the St.
+      Lawrence Seaway
+    clause: '4.18, modified — Note 2 to entry has been added.'
+  lineage_source: 'ISO/TS 19130-2:2014, 4.73'
+  lineage_source_similarity: '1'
+  date_accepted: 2014-01-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: squat
+      normative_status: preferred
+  _revisions:
+    current: e15d8b
+    tree:
+      e15d8b:
+        object:
+          id: 1420
+          definition: >-
+            effect that causes a vessel moving through water to create an area
+            of lowered pressure under its bottom that increases the effective
+            draught (i.e. lowers the vessel in the water)
+          language_code: eng
+          notes:
+            - >-
+              The effect is a result of Bernoulli's principle of fluid dynamics.
+              The squat represents the increase in effective draught.
+            - >-
+              For a ship underway, the change of level of the bow and stern from
+              the still water condition in response to the elevation and
+              depression of the water level about the hull resulting from the
+              bow and stern wave systems.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: >-
+              Implementation Specification — a Draught Information System for
+              the St. Lawrence Seaway
+            clause: '4.18, modified — Note 2 to entry has been added.'
+          lineage_source: 'ISO/TS 19130-2:2014, 4.73'
+          lineage_source_similarity: '1'
+          date_accepted: 2014-01-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: squat
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-01-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+kor:
+  id: 1420
+  definition: 항행중 선박이 효과적 드로우트를 증가시키는 저기압 장소를 선박 하방에 생성하는 효과
+  language_code: kor
+  notes:
+    - >-
+      The effect is a result of Bernoulli's principle of fluid dynamics. The
+      squat represents the increase in effective draught.
+    - >-
+      For a ship underway, the change of level of the bow and stern from the
+      still water condition in response to the elevation and depression of the
+      water level about the hull resulting from the bow and stern wave systems.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: >-
+      Implementation Specification — a Draught Information System for the St.
+      Lawrence Seaway
+    clause: '4.18, modified — Note 2 to entry has been added.'
+  lineage_source: 'ISO/TS 19130-2:2014, 4.73'
+  lineage_source_similarity: '1'
+  date_accepted: 2014-01-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: 스콰트
+      normative_status: preferred
+  _revisions:
+    current: '181496'
+    tree:
+      '181496':
+        object:
+          id: 1420
+          definition: 항행중 선박이 효과적 드로우트를 증가시키는 저기압 장소를 선박 하방에 생성하는 효과
+          language_code: kor
+          notes:
+            - >-
+              The effect is a result of Bernoulli's principle of fluid dynamics.
+              The squat represents the increase in effective draught.
+            - >-
+              For a ship underway, the change of level of the bow and stern from
+              the still water condition in response to the elevation and
+              depression of the water level about the hull resulting from the
+              bow and stern wave systems.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: >-
+              Implementation Specification — a Draught Information System for
+              the St. Lawrence Seaway
+            clause: '4.18, modified — Note 2 to entry has been added.'
+          lineage_source: 'ISO/TS 19130-2:2014, 4.73'
+          lineage_source_similarity: '1'
+          date_accepted: 2014-01-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: 스콰트
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-01-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+msa:
+  id: 1420
+  language_code: msa
+  notes:
+    - >-
+      The effect is a result of Bernoulli's principle of fluid dynamics. The
+      squat represents the increase in effective draught.
+    - >-
+      For a ship underway, the change of level of the bow and stern from the
+      still water condition in response to the elevation and depression of the
+      water level about the hull resulting from the bow and stern wave systems.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: >-
+      Implementation Specification — a Draught Information System for the St.
+      Lawrence Seaway
+    clause: '4.18, modified — Note 2 to entry has been added.'
+  date_accepted: 2014-01-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: benaman
+      normative_status: preferred
+  _revisions:
+    current: ff2e7a
+    tree:
+      ff2e7a:
+        object:
+          id: 1420
+          language_code: msa
+          notes:
+            - >-
+              The effect is a result of Bernoulli's principle of fluid dynamics.
+              The squat represents the increase in effective draught.
+            - >-
+              For a ship underway, the change of level of the bow and stern from
+              the still water condition in response to the elevation and
+              depression of the water level about the hull resulting from the
+              bow and stern wave systems.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: >-
+              Implementation Specification — a Draught Information System for
+              the St. Lawrence Seaway
+            clause: '4.18, modified — Note 2 to entry has been added.'
+          date_accepted: 2014-01-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: benaman
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-01-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 1420
+  definition: >-
+    эффект, который заставляет судно, движущееся по воде, создавать зону
+    пониженного давления под его дном, что увеличивает эффективную тягу (т. е.
+    опускает судно в воде)
+  language_code: rus
+  notes:
+    - >-
+      эффект является результатом принципа Бернулли в гидродинамике. Проседание
+      представляет собой увеличение эффективной тяги.
+    - >-
+      для судна, находящегося в процессе эксплуатации, изменение уровня носа и
+      кормы в зависимости от состояния стоячей воды в ответ на повышение и
+      понижение уровня воды вокруг корпуса в результате действия носовой и
+      кормовой волновых систем.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: >-
+      Implementation Specification — a Draught Information System for the St.
+      Lawrence Seaway
+    clause: '4.18, modified — Note 2 to entry has been added.'
+  lineage_source: 'ISO/TS 19130-2:2014, 4.73'
+  lineage_source_similarity: '1'
+  date_accepted: 2014-01-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: проседание
+      normative_status: preferred
+  _revisions:
+    current: 1bdf60
+    tree:
+      1bdf60:
+        object:
+          id: 1420
+          definition: >-
+            эффект, который заставляет судно, движущееся по воде, создавать зону
+            пониженного давления под его дном, что увеличивает эффективную тягу
+            (т. е. опускает судно в воде)
+          language_code: rus
+          notes:
+            - >-
+              эффект является результатом принципа Бернулли в гидродинамике.
+              Проседание представляет собой увеличение эффективной тяги.
+            - >-
+              для судна, находящегося в процессе эксплуатации, изменение уровня
+              носа и кормы в зависимости от состояния стоячей воды в ответ на
+              повышение и понижение уровня воды вокруг корпуса в результате
+              действия носовой и кормовой волновых систем.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: >-
+              Implementation Specification — a Draught Information System for
+              the St. Lawrence Seaway
+            clause: '4.18, modified — Note 2 to entry has been added.'
+          lineage_source: 'ISO/TS 19130-2:2014, 4.73'
+          lineage_source_similarity: '1'
+          date_accepted: 2014-01-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: проседание
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-01-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 1420
+  definition: >-
+    efecto que causa un barco en movimiento a través del agua que crea un área
+    de menor presión su parte inferior que aumenta el calado efectivo (es decir,
+    baja el buque en el agua)
+  language_code: spa
+  notes:
+    - >-
+      Este efecto es el resultado del principio de Bernoulli de dináminca de
+      fluidos. El asentamiento representa una crecida efectiva del calado.
+    - >-
+      Para un buque navegando, el cambio de nivel de la proa y la popa en la
+      condición de aguas tranquilas en respuesta a la elevación y depresión del
+      nivel del agua alrededor del casco, resultante de los sistemas de proa y
+      popa.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: >-
+      Implementation Specification — a Draught Information System for the St.
+      Lawrence Seaway
+    clause: '4.18, modified — Note 2 to entry has been added.'
+  lineage_source: 'ISO/TS 19130-2:2014, 4.73'
+  lineage_source_similarity: '1'
+  date_accepted: 2014-01-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: asentamiento
+      normative_status: preferred
+  _revisions:
+    current: c8ba7d
+    tree:
+      c8ba7d:
+        object:
+          id: 1420
+          definition: >-
+            efecto que causa un barco en movimiento a través del agua que crea
+            un área de menor presión su parte inferior que aumenta el calado
+            efectivo (es decir, baja el buque en el agua)
+          language_code: spa
+          notes:
+            - >-
+              Este efecto es el resultado del principio de Bernoulli de
+              dináminca de fluidos. El asentamiento representa una crecida
+              efectiva del calado.
+            - >-
+              Para un buque navegando, el cambio de nivel de la proa y la popa
+              en la condición de aguas tranquilas en respuesta a la elevación y
+              depresión del nivel del agua alrededor del casco, resultante de
+              los sistemas de proa y popa.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: >-
+              Implementation Specification — a Draught Information System for
+              the St. Lawrence Seaway
+            clause: '4.18, modified — Note 2 to entry has been added.'
+          lineage_source: 'ISO/TS 19130-2:2014, 4.73'
+          lineage_source_similarity: '1'
+          date_accepted: 2014-01-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: asentamiento
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-01-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

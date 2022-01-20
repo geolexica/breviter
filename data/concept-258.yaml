@@ -1,0 +1,845 @@
+term: isolated node
+termid: 258
+eng:
+  id: 258
+  definition: node not related to any edge
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19107:2019'
+    clause: '(E), 3.55'
+    link: 'https://www.iso.org/standard/66175.html'
+  lineage_source: 'ISO 19107:2003(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19107:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19107:2003 to ISO 19107:2019(E),
+    3.55. Lineage source added as ISO 19107:2003(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: isolated node
+      normative_status: preferred
+  _revisions:
+    current: 0520a2
+    tree:
+      0520a2:
+        object:
+          id: 258
+          definition: node not related to any edge
+          language_code: eng
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19107:2019'
+            clause: '(E), 3.55'
+            link: 'https://www.iso.org/standard/66175.html'
+          lineage_source: 'ISO 19107:2003(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19107:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19107:2003 to ISO
+            19107:2019(E), 3.55. Lineage source added as ISO 19107:2003(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: isolated node
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+ara:
+  id: 258
+  definition: عقدة ليست مرتبطة بحافه
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19107:2019'
+    clause: '(E), 3.55'
+    link: 'https://www.iso.org/standard/66175.html'
+  lineage_source: 'ISO 19107:2003(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19107:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19107:2003 to ISO 19107:2019(E),
+    3.55. Lineage source added as ISO 19107:2003(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: عقدة معزولة
+      normative_status: preferred
+  _revisions:
+    current: 96b64b
+    tree:
+      96b64b:
+        object:
+          id: 258
+          definition: عقدة ليست مرتبطة بحافه
+          language_code: ara
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19107:2019'
+            clause: '(E), 3.55'
+            link: 'https://www.iso.org/standard/66175.html'
+          lineage_source: 'ISO 19107:2003(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19107:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19107:2003 to ISO
+            19107:2019(E), 3.55. Lineage source added as ISO 19107:2003(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: عقدة معزولة
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+zho:
+  id: 258
+  definition: 不与任何边相连的结点。
+  language_code: zho
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19107:2019'
+    clause: '(E), 3.55'
+    link: 'https://www.iso.org/standard/66175.html'
+  lineage_source: 'ISO 19107:2003(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19107:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19107:2003 to ISO 19107:2019(E),
+    3.55. Lineage source added as ISO 19107:2003(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: 孤立结点
+      normative_status: preferred
+  _revisions:
+    current: c2bb8e
+    tree:
+      c2bb8e:
+        object:
+          id: 258
+          definition: 不与任何边相连的结点。
+          language_code: zho
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19107:2019'
+            clause: '(E), 3.55'
+            link: 'https://www.iso.org/standard/66175.html'
+          lineage_source: 'ISO 19107:2003(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19107:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19107:2003 to ISO
+            19107:2019(E), 3.55. Lineage source added as ISO 19107:2003(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: 孤立结点
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+fin:
+  id: 258
+  definition: 'solmupiste, joka ei liity mihinkään linkkiin'
+  language_code: fin
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19107:2019'
+    clause: '(E), 3.55'
+    link: 'https://www.iso.org/standard/66175.html'
+  lineage_source: 'ISO 19107:2003(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19107:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19107:2003 to ISO 19107:2019(E),
+    3.55. Lineage source added as ISO 19107:2003(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: erillinen solmu
+      normative_status: preferred
+  _revisions:
+    current: 979d40
+    tree:
+      979d40:
+        object:
+          id: 258
+          definition: 'solmupiste, joka ei liity mihinkään linkkiin'
+          language_code: fin
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19107:2019'
+            clause: '(E), 3.55'
+            link: 'https://www.iso.org/standard/66175.html'
+          lineage_source: 'ISO 19107:2003(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19107:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19107:2003 to ISO
+            19107:2019(E), 3.55. Lineage source added as ISO 19107:2003(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: erillinen solmu
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+fra:
+  id: 258
+  definition: nœud n'étant relié à aucune arête
+  language_code: fra
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19107:2019'
+    clause: '(E), 3.55'
+    link: 'https://www.iso.org/standard/66175.html'
+  lineage_source: 'ISO 19107:2003(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19107:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19107:2003 to ISO 19107:2019(E),
+    3.55. Lineage source added as ISO 19107:2003(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: nœud isolé
+      normative_status: preferred
+  _revisions:
+    current: 8b7d44
+    tree:
+      8b7d44:
+        object:
+          id: 258
+          definition: nœud n'étant relié à aucune arête
+          language_code: fra
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19107:2019'
+            clause: '(E), 3.55'
+            link: 'https://www.iso.org/standard/66175.html'
+          lineage_source: 'ISO 19107:2003(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19107:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19107:2003 to ISO
+            19107:2019(E), 3.55. Lineage source added as ISO 19107:2003(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: nœud isolé
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+deu:
+  id: 258
+  language_code: deu
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19107:2019'
+    clause: '(E), 3.55'
+    link: 'https://www.iso.org/standard/66175.html'
+  lineage_source: 'ISO 19107:2003(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19107:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19107:2003 to ISO 19107:2019(E),
+    3.55. Lineage source added as ISO 19107:2003(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: Einzelknoten
+      normative_status: preferred
+  _revisions:
+    current: 78f7b6
+    tree:
+      78f7b6:
+        object:
+          id: 258
+          language_code: deu
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19107:2019'
+            clause: '(E), 3.55'
+            link: 'https://www.iso.org/standard/66175.html'
+          lineage_source: 'ISO 19107:2003(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19107:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19107:2003 to ISO
+            19107:2019(E), 3.55. Lineage source added as ISO 19107:2003(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: Einzelknoten
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+jpn:
+  id: 258
+  definition: どのエッジとも関係しないノード。
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19107:2019'
+    clause: '(E), 3.55'
+    link: 'https://www.iso.org/standard/66175.html'
+  lineage_source: 'ISO 19107:2003(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19107:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19107:2003 to ISO 19107:2019(E),
+    3.55. Lineage source added as ISO 19107:2003(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: 孤立ノード
+      normative_status: preferred
+  _revisions:
+    current: 0bc2ad
+    tree:
+      0bc2ad:
+        object:
+          id: 258
+          definition: どのエッジとも関係しないノード。
+          language_code: jpn
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19107:2019'
+            clause: '(E), 3.55'
+            link: 'https://www.iso.org/standard/66175.html'
+          lineage_source: 'ISO 19107:2003(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19107:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19107:2003 to ISO
+            19107:2019(E), 3.55. Lineage source added as ISO 19107:2003(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: 孤立ノード
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+kor:
+  id: 258
+  definition: 어느 변에도 결합되어 있지 않은 절점
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19107:2019'
+    clause: '(E), 3.55'
+    link: 'https://www.iso.org/standard/66175.html'
+  lineage_source: 'ISO 19107:2003(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19107:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19107:2003 to ISO 19107:2019(E),
+    3.55. Lineage source added as ISO 19107:2003(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: 고립 절점
+      normative_status: preferred
+  _revisions:
+    current: ddd518
+    tree:
+      ddd518:
+        object:
+          id: 258
+          definition: 어느 변에도 결합되어 있지 않은 절점
+          language_code: kor
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19107:2019'
+            clause: '(E), 3.55'
+            link: 'https://www.iso.org/standard/66175.html'
+          lineage_source: 'ISO 19107:2003(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19107:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19107:2003 to ISO
+            19107:2019(E), 3.55. Lineage source added as ISO 19107:2003(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: 고립 절점
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+msa:
+  id: 258
+  definition: nod yang tidak berkaitan dengan sebarang hujung
+  language_code: msa
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19107:2019'
+    clause: '(E), 3.55'
+    link: 'https://www.iso.org/standard/66175.html'
+  lineage_source: 'ISO 19107:2003(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19107:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19107:2003 to ISO 19107:2019(E),
+    3.55. Lineage source added as ISO 19107:2003(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: nod terasing
+      normative_status: preferred
+  _revisions:
+    current: fb26e6
+    tree:
+      fb26e6:
+        object:
+          id: 258
+          definition: nod yang tidak berkaitan dengan sebarang hujung
+          language_code: msa
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19107:2019'
+            clause: '(E), 3.55'
+            link: 'https://www.iso.org/standard/66175.html'
+          lineage_source: 'ISO 19107:2003(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19107:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19107:2003 to ISO
+            19107:2019(E), 3.55. Lineage source added as ISO 19107:2003(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: nod terasing
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+pol:
+  id: 258
+  definition: węzeł nie związany z żadną krawędzią
+  language_code: pol
+  notes: []
+  examples: []
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19107:2019'
+    clause: '(E), 3.55'
+    link: 'https://www.iso.org/standard/66175.html'
+  lineage_source: 'ISO 19107:2003(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19107:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19107:2003 to ISO 19107:2019(E),
+    3.55. Lineage source added as ISO 19107:2003(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: węzeł izolowany
+      normative_status: preferred
+  _revisions:
+    current: 91095e
+    tree:
+      91095e:
+        object:
+          id: 258
+          definition: węzeł nie związany z żadną krawędzią
+          language_code: pol
+          notes: []
+          examples: []
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19107:2019'
+            clause: '(E), 3.55'
+            link: 'https://www.iso.org/standard/66175.html'
+          lineage_source: 'ISO 19107:2003(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19107:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19107:2003 to ISO
+            19107:2019(E), 3.55. Lineage source added as ISO 19107:2003(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: węzeł izolowany
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 258
+  definition: 'узел, не связанный ни с одним из ребер'
+  language_code: rus
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19107:2019'
+    clause: '(E), 3.55'
+    link: 'https://www.iso.org/standard/66175.html'
+  lineage_source: 'ISO 19107:2003(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19107:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19107:2003 to ISO 19107:2019(E),
+    3.55. Lineage source added as ISO 19107:2003(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: изолированный узел
+      normative_status: preferred
+  _revisions:
+    current: f2f2f0
+    tree:
+      f2f2f0:
+        object:
+          id: 258
+          definition: 'узел, не связанный ни с одним из ребер'
+          language_code: rus
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19107:2019'
+            clause: '(E), 3.55'
+            link: 'https://www.iso.org/standard/66175.html'
+          lineage_source: 'ISO 19107:2003(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19107:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19107:2003 to ISO
+            19107:2019(E), 3.55. Lineage source added as ISO 19107:2003(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: изолированный узел
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 258
+  definition: nodo que no está relacionado con nigún arco
+  language_code: spa
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19107:2019'
+    clause: '(E), 3.55'
+    link: 'https://www.iso.org/standard/66175.html'
+  lineage_source: 'ISO 19107:2003(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19107:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19107:2003 to ISO 19107:2019(E),
+    3.55. Lineage source added as ISO 19107:2003(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: nodo aislado
+      normative_status: preferred
+  _revisions:
+    current: e5330e
+    tree:
+      e5330e:
+        object:
+          id: 258
+          definition: nodo que no está relacionado con nigún arco
+          language_code: spa
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19107:2019'
+            clause: '(E), 3.55'
+            link: 'https://www.iso.org/standard/66175.html'
+          lineage_source: 'ISO 19107:2003(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19107:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19107:2003 to ISO
+            19107:2019(E), 3.55. Lineage source added as ISO 19107:2003(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: nodo aislado
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+swe:
+  id: 258
+  definition: nod som inte är relaterad till någon länk
+  country_code: swe
+  language_code: swe
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19107:2019'
+    clause: '(E), 3.55'
+    link: 'https://www.iso.org/standard/66175.html'
+  lineage_source: 'ISO 19107:2003(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19107:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19107:2003 to ISO 19107:2019(E),
+    3.55. Lineage source added as ISO 19107:2003(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: isolerad nod
+      normative_status: preferred
+  _revisions:
+    current: 039af3
+    tree:
+      039af3:
+        object:
+          id: 258
+          definition: nod som inte är relaterad till någon länk
+          country_code: swe
+          language_code: swe
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19107:2019'
+            clause: '(E), 3.55'
+            link: 'https://www.iso.org/standard/66175.html'
+          lineage_source: 'ISO 19107:2003(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19107:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19107:2003 to ISO
+            19107:2019(E), 3.55. Lineage source added as ISO 19107:2003(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: isolerad nod
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

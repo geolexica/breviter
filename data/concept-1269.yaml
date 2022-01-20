@@ -1,0 +1,265 @@
+term: portrayal function
+termid: 1269
+eng:
+  id: 1269
+  definition: function that maps geographic features to symbols
+  language_code: eng
+  notes:
+    - >-
+      Portrayal functions can also include parameters and other computations
+      that are not dependent on geographic feature properties.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19117:2012'
+    clause: '4.23'
+    link: 'https://www.iso.org/standard/46226.html'
+  date_accepted: 2012-12-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: portrayal function
+      normative_status: preferred
+  _revisions:
+    current: e186a0
+    tree:
+      e186a0:
+        object:
+          id: 1269
+          definition: function that maps geographic features to symbols
+          language_code: eng
+          notes:
+            - >-
+              Portrayal functions can also include parameters and other
+              computations that are not dependent on geographic feature
+              properties.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19117:2012'
+            clause: '4.23'
+            link: 'https://www.iso.org/standard/46226.html'
+          date_accepted: 2012-12-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: portrayal function
+              normative_status: preferred
+        parents: []
+        timeCreated: 2012-12-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+kor:
+  id: 1269
+  definition: 기호에 대한 지형적 특성을 매핑하는 기능
+  language_code: kor
+  notes:
+    - >-
+      Portrayal functions can also include parameters and other computations
+      that are not dependent on geographic feature properties.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19117:2012'
+    clause: '4.23'
+    link: 'https://www.iso.org/standard/46226.html'
+  date_accepted: 2012-12-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: 묘사 기능
+      normative_status: preferred
+  _revisions:
+    current: '5e6204'
+    tree:
+      '5e6204':
+        object:
+          id: 1269
+          definition: 기호에 대한 지형적 특성을 매핑하는 기능
+          language_code: kor
+          notes:
+            - >-
+              Portrayal functions can also include parameters and other
+              computations that are not dependent on geographic feature
+              properties.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19117:2012'
+            clause: '4.23'
+            link: 'https://www.iso.org/standard/46226.html'
+          date_accepted: 2012-12-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: 묘사 기능
+              normative_status: preferred
+        parents: []
+        timeCreated: 2012-12-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 1269
+  definition: 'функция, которая отображает географические объекты символами'
+  language_code: rus
+  notes:
+    - >-
+      Функции графического отображения  могут также включать параметры и другие
+      вычисления, которые не зависят от свойств географических пространственных
+      объектов.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19117:2012'
+    clause: '4.23'
+    link: 'https://www.iso.org/standard/46226.html'
+  lineage_source: 'перевод ИСО 19117:2012'
+  date_accepted: 2012-12-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: функция графического отображения
+      normative_status: preferred
+  _revisions:
+    current: 92bf21
+    tree:
+      92bf21:
+        object:
+          id: 1269
+          definition: 'функция, которая отображает географические объекты символами'
+          language_code: rus
+          notes:
+            - >-
+              Функции графического отображения  могут также включать параметры и
+              другие вычисления, которые не зависят от свойств географических
+              пространственных объектов.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19117:2012'
+            clause: '4.23'
+            link: 'https://www.iso.org/standard/46226.html'
+          lineage_source: 'перевод ИСО 19117:2012'
+          date_accepted: 2012-12-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: функция графического отображения
+              normative_status: preferred
+        parents: []
+        timeCreated: 2012-12-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 1269
+  definition: >-
+    función que hace corresponder un catálogo de objetos geográficos con
+    símbolos
+  language_code: spa
+  notes:
+    - >-
+      la representación de funciones puede además incluir parámetros y otros
+      cálculos que no dependen de las propiedades de los objetos geográficos
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19117:2012'
+    clause: '4.23'
+    link: 'https://www.iso.org/standard/46226.html'
+  date_accepted: 2012-12-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: función de representación
+      normative_status: preferred
+  _revisions:
+    current: 6cf21a
+    tree:
+      6cf21a:
+        object:
+          id: 1269
+          definition: >-
+            función que hace corresponder un catálogo de objetos geográficos con
+            símbolos
+          language_code: spa
+          notes:
+            - >-
+              la representación de funciones puede además incluir parámetros y
+              otros cálculos que no dependen de las propiedades de los objetos
+              geográficos
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19117:2012'
+            clause: '4.23'
+            link: 'https://www.iso.org/standard/46226.html'
+          date_accepted: 2012-12-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: función de representación
+              normative_status: preferred
+        parents: []
+        timeCreated: 2012-12-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+swe:
+  id: 1269
+  definition: funktion som åstadkommer symbolisering av geodataobjekt av en viss objekttyp
+  country_code: swe
+  language_code: swe
+  notes:
+    - >-
+      Portrayal functions can also include parameters and other computations
+      that are not dependent on geographic feature properties.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19117:2012'
+    clause: '4.23'
+    link: 'https://www.iso.org/standard/46226.html'
+  lineage_source: (Type reference to national language document)
+  date_accepted: 2012-12-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: symboliseringsfunktion
+      normative_status: preferred
+  _revisions:
+    current: 3bc1c9
+    tree:
+      3bc1c9:
+        object:
+          id: 1269
+          definition: >-
+            funktion som åstadkommer symbolisering av geodataobjekt av en viss
+            objekttyp
+          country_code: swe
+          language_code: swe
+          notes:
+            - >-
+              Portrayal functions can also include parameters and other
+              computations that are not dependent on geographic feature
+              properties.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19117:2012'
+            clause: '4.23'
+            link: 'https://www.iso.org/standard/46226.html'
+          lineage_source: (Type reference to national language document)
+          date_accepted: 2012-12-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: symboliseringsfunktion
+              normative_status: preferred
+        parents: []
+        timeCreated: 2012-12-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

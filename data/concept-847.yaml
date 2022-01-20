@@ -1,0 +1,488 @@
+term: calibration
+termid: 847
+eng:
+  id: 847
+  definition: >-
+    process of quantitatively defining a system's responses to known, controlled
+    signal inputs
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: CEOS WGCV
+  lineage_source: 'ISO/TS 19101-2:2008(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2008-06-01T00:00:00.000Z
+  review_date: 2018-05-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2018-05-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19101-2:2018(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from CEOS WGCV to CEOS WGCV. Lineage source
+    added as ISO/TS 19101-2:2008(E)
+  release: '2'
+  terms:
+    - type: expression
+      designation: calibration
+      normative_status: preferred
+  _revisions:
+    current: 18fd27
+    tree:
+      18fd27:
+        object:
+          id: 847
+          definition: >-
+            process of quantitatively defining a system's responses to known,
+            controlled signal inputs
+          language_code: eng
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: CEOS WGCV
+          lineage_source: 'ISO/TS 19101-2:2008(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2008-06-01T00:00:00.000Z
+          review_date: 2018-05-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2018-05-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19101-2:2018(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from CEOS WGCV to CEOS WGCV. Lineage
+            source added as ISO/TS 19101-2:2008(E)
+          release: '2'
+          terms:
+            - type: expression
+              designation: calibration
+              normative_status: preferred
+        parents: []
+        timeCreated: 2008-06-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+ara:
+  id: 847
+  definition: عملية تحديد كمي لاستجابات نظام ما لإشارات مدخلة معلومة وخاضعة للتحكم
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: CEOS WGCV
+  lineage_source: 'ISO/TS 19101-2:2008(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2008-06-01T00:00:00.000Z
+  review_date: 2018-05-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2018-05-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19101-2:2018(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from CEOS WGCV to CEOS WGCV. Lineage source
+    added as ISO/TS 19101-2:2008(E)
+  release: '2'
+  terms:
+    - type: expression
+      designation: معايرة
+      normative_status: preferred
+  _revisions:
+    current: bf7d1f
+    tree:
+      bf7d1f:
+        object:
+          id: 847
+          definition: عملية تحديد كمي لاستجابات نظام ما لإشارات مدخلة معلومة وخاضعة للتحكم
+          language_code: ara
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: CEOS WGCV
+          lineage_source: 'ISO/TS 19101-2:2008(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2008-06-01T00:00:00.000Z
+          review_date: 2018-05-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2018-05-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19101-2:2018(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from CEOS WGCV to CEOS WGCV. Lineage
+            source added as ISO/TS 19101-2:2008(E)
+          release: '2'
+          terms:
+            - type: expression
+              designation: معايرة
+              normative_status: preferred
+        parents: []
+        timeCreated: 2008-06-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+deu:
+  id: 847
+  language_code: deu
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: CEOS WGCV
+  lineage_source: 'ISO/TS 19101-2:2008(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2008-06-01T00:00:00.000Z
+  review_date: 2018-05-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2018-05-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19101-2:2018(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from CEOS WGCV to CEOS WGCV. Lineage source
+    added as ISO/TS 19101-2:2008(E)
+  release: '2'
+  terms:
+    - type: expression
+      designation: Kalibrierung
+      normative_status: preferred
+  _revisions:
+    current: 86b2be
+    tree:
+      86b2be:
+        object:
+          id: 847
+          language_code: deu
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: CEOS WGCV
+          lineage_source: 'ISO/TS 19101-2:2008(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2008-06-01T00:00:00.000Z
+          review_date: 2018-05-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2018-05-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19101-2:2018(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from CEOS WGCV to CEOS WGCV. Lineage
+            source added as ISO/TS 19101-2:2008(E)
+          release: '2'
+          terms:
+            - type: expression
+              designation: Kalibrierung
+              normative_status: preferred
+        parents: []
+        timeCreated: 2008-06-01T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+kor:
+  id: 847
+  definition: 인지 및 통제하고 있는 신호 입력에 대한 시스템의 반응을 정량적으로 정의하는 과정
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: CEOS WGCV
+  lineage_source: 'ISO/TS 19101-2:2008(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2008-06-01T00:00:00.000Z
+  review_date: 2018-05-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2018-05-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19101-2:2018(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from CEOS WGCV to CEOS WGCV. Lineage source
+    added as ISO/TS 19101-2:2008(E)
+  release: '2'
+  terms:
+    - type: expression
+      designation: '측정,검정'
+      normative_status: preferred
+  _revisions:
+    current: d0bac9
+    tree:
+      d0bac9:
+        object:
+          id: 847
+          definition: 인지 및 통제하고 있는 신호 입력에 대한 시스템의 반응을 정량적으로 정의하는 과정
+          language_code: kor
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: CEOS WGCV
+          lineage_source: 'ISO/TS 19101-2:2008(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2008-06-01T00:00:00.000Z
+          review_date: 2018-05-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2018-05-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19101-2:2018(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from CEOS WGCV to CEOS WGCV. Lineage
+            source added as ISO/TS 19101-2:2008(E)
+          release: '2'
+          terms:
+            - type: expression
+              designation: '측정,검정'
+              normative_status: preferred
+        parents: []
+        timeCreated: 2008-06-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+msa:
+  id: 847
+  language_code: msa
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: CEOS WGCV
+  lineage_source: 'ISO/TS 19101-2:2008(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2008-06-01T00:00:00.000Z
+  review_date: 2018-05-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2018-05-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19101-2:2018(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from CEOS WGCV to CEOS WGCV. Lineage source
+    added as ISO/TS 19101-2:2008(E)
+  release: '2'
+  terms:
+    - type: expression
+      designation: kalibrasi
+      normative_status: preferred
+  _revisions:
+    current: d1ef31
+    tree:
+      d1ef31:
+        object:
+          id: 847
+          language_code: msa
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: CEOS WGCV
+          lineage_source: 'ISO/TS 19101-2:2008(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2008-06-01T00:00:00.000Z
+          review_date: 2018-05-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2018-05-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19101-2:2018(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from CEOS WGCV to CEOS WGCV. Lineage
+            source added as ISO/TS 19101-2:2008(E)
+          release: '2'
+          terms:
+            - type: expression
+              designation: kalibrasi
+              normative_status: preferred
+        parents: []
+        timeCreated: 2008-06-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 847
+  definition: >-
+    процесс количественного определения откликов системы на известные,
+    контролируемые входные сигналы
+  language_code: rus
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: CEOS WGCV
+  lineage_source: 'ISO/TS 19101-2:2008(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2008-06-01T00:00:00.000Z
+  review_date: 2018-05-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2018-05-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19101-2:2018(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from CEOS WGCV to CEOS WGCV. Lineage source
+    added as ISO/TS 19101-2:2008(E)
+  release: '2'
+  terms:
+    - type: expression
+      designation: калибровка
+      normative_status: preferred
+  _revisions:
+    current: a6226d
+    tree:
+      a6226d:
+        object:
+          id: 847
+          definition: >-
+            процесс количественного определения откликов системы на известные,
+            контролируемые входные сигналы
+          language_code: rus
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: CEOS WGCV
+          lineage_source: 'ISO/TS 19101-2:2008(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2008-06-01T00:00:00.000Z
+          review_date: 2018-05-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2018-05-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19101-2:2018(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from CEOS WGCV to CEOS WGCV. Lineage
+            source added as ISO/TS 19101-2:2008(E)
+          release: '2'
+          terms:
+            - type: expression
+              designation: калибровка
+              normative_status: preferred
+        parents: []
+        timeCreated: 2008-06-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 847
+  definition: >-
+    proceso por el que se definen cuantitativamente las respuestas de un sistema
+    a señales entrantes conocidas y controladas
+  language_code: spa
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: CEOS WGCV
+  lineage_source: 'ISO/TS 19101-2:2008(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2008-06-01T00:00:00.000Z
+  review_date: 2018-05-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2018-05-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19101-2:2018(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from CEOS WGCV to CEOS WGCV. Lineage source
+    added as ISO/TS 19101-2:2008(E)
+  release: '2'
+  terms:
+    - type: expression
+      designation: calibración
+      normative_status: preferred
+  _revisions:
+    current: 62bda9
+    tree:
+      62bda9:
+        object:
+          id: 847
+          definition: >-
+            proceso por el que se definen cuantitativamente las respuestas de un
+            sistema a señales entrantes conocidas y controladas
+          language_code: spa
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: CEOS WGCV
+          lineage_source: 'ISO/TS 19101-2:2008(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2008-06-01T00:00:00.000Z
+          review_date: 2018-05-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2018-05-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19101-2:2018(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from CEOS WGCV to CEOS WGCV. Lineage
+            source added as ISO/TS 19101-2:2008(E)
+          release: '2'
+          terms:
+            - type: expression
+              designation: calibración
+              normative_status: preferred
+        parents: []
+        timeCreated: 2008-06-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+swe:
+  id: 847
+  definition: >-
+    förfarande för att kvantitativt definiera ett systems svar på kända,
+    styrbara insignaler
+  country_code: swe
+  language_code: swe
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: CEOS WGCV
+  lineage_source: 'ISO/TS 19101-2:2008(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2008-06-01T00:00:00.000Z
+  review_date: 2018-05-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2018-05-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19101-2:2018(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from CEOS WGCV to CEOS WGCV. Lineage source
+    added as ISO/TS 19101-2:2008(E)
+  release: '2'
+  terms:
+    - type: expression
+      designation: kalibrering
+      normative_status: preferred
+  _revisions:
+    current: bdf405
+    tree:
+      bdf405:
+        object:
+          id: 847
+          definition: >-
+            förfarande för att kvantitativt definiera ett systems svar på kända,
+            styrbara insignaler
+          country_code: swe
+          language_code: swe
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: CEOS WGCV
+          lineage_source: 'ISO/TS 19101-2:2008(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2008-06-01T00:00:00.000Z
+          review_date: 2018-05-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2018-05-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19101-2:2018(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from CEOS WGCV to CEOS WGCV. Lineage
+            source added as ISO/TS 19101-2:2008(E)
+          release: '2'
+          terms:
+            - type: expression
+              designation: kalibrering
+              normative_status: preferred
+        parents: []
+        timeCreated: 2008-06-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

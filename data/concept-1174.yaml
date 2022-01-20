@@ -1,0 +1,318 @@
+term: linearly located event
+termid: 1174
+eng:
+  id: 1174
+  definition: occurrence along a feature of an attribute value or another feature
+  language_code: eng
+  notes:
+    - The event location is specified using linearly referenced locations.
+    - >-
+      A linearly located event may be qualified by the instant in which, or
+      period during which, the linearly located event occurred.
+    - >-
+      ISO 19108 limits events to a single instant in time and does not include
+      the specification of a location.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19148:2012'
+    clause: '4.15'
+    link: 'https://www.iso.org/standard/32566.html'
+  date_accepted: 2012-02-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: linearly located event
+      normative_status: preferred
+  _revisions:
+    current: fe5cbe
+    tree:
+      fe5cbe:
+        object:
+          id: 1174
+          definition: occurrence along a feature of an attribute value or another feature
+          language_code: eng
+          notes:
+            - >-
+              The event location is specified using linearly referenced
+              locations.
+            - >-
+              A linearly located event may be qualified by the instant in which,
+              or period during which, the linearly located event occurred.
+            - >-
+              ISO 19108 limits events to a single instant in time and does not
+              include the specification of a location.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19148:2012'
+            clause: '4.15'
+            link: 'https://www.iso.org/standard/32566.html'
+          date_accepted: 2012-02-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: linearly located event
+              normative_status: preferred
+        parents: []
+        timeCreated: 2012-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+kor:
+  id: 1174
+  definition: 속성값 또는 다른 지형지물의 지형지물을 따라 발생하는 사건
+  language_code: kor
+  notes:
+    - The event location is specified using linearly referenced locations.
+    - >-
+      A linearly located event may be qualified by the instant in which, or
+      period during which, the linearly located event occurred.
+    - >-
+      ISO 19108 limits events to a single instant in time and does not include
+      the specification of a location.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19148:2012'
+    clause: '4.15'
+    link: 'https://www.iso.org/standard/32566.html'
+  date_accepted: 2012-02-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: 선형적 위치 사건
+      normative_status: preferred
+  _revisions:
+    current: 53a373
+    tree:
+      53a373:
+        object:
+          id: 1174
+          definition: 속성값 또는 다른 지형지물의 지형지물을 따라 발생하는 사건
+          language_code: kor
+          notes:
+            - >-
+              The event location is specified using linearly referenced
+              locations.
+            - >-
+              A linearly located event may be qualified by the instant in which,
+              or period during which, the linearly located event occurred.
+            - >-
+              ISO 19108 limits events to a single instant in time and does not
+              include the specification of a location.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19148:2012'
+            clause: '4.15'
+            link: 'https://www.iso.org/standard/32566.html'
+          date_accepted: 2012-02-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: 선형적 위치 사건
+              normative_status: preferred
+        parents: []
+        timeCreated: 2012-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 1174
+  definition: появление вдоль объекта значения атрибута или другого объекта
+  language_code: rus
+  notes:
+    - >-
+      Местоположение события определяется с использованием линейнопривязанного
+      местоположения
+    - >-
+      Линейно расположенное событие  может быть квалифицировано по моменту, в
+      котором- или по периоду , в течение которого оно имело место
+    - >-
+      Стандарт ISO 19108 ограничивает события до одного момента во времени и не
+      включает определение местоположения
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19148:2012'
+    clause: '4.15'
+    link: 'https://www.iso.org/standard/32566.html'
+  lineage_source: 'перевод ИСО 19148:2012'
+  date_accepted: 2012-02-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: Линейно расположенное событие
+      normative_status: preferred
+  _revisions:
+    current: eef387
+    tree:
+      eef387:
+        object:
+          id: 1174
+          definition: появление вдоль объекта значения атрибута или другого объекта
+          language_code: rus
+          notes:
+            - >-
+              Местоположение события определяется с использованием
+              линейнопривязанного местоположения
+            - >-
+              Линейно расположенное событие  может быть квалифицировано по
+              моменту, в котором- или по периоду , в течение которого оно имело
+              место
+            - >-
+              Стандарт ISO 19108 ограничивает события до одного момента во
+              времени и не включает определение местоположения
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19148:2012'
+            clause: '4.15'
+            link: 'https://www.iso.org/standard/32566.html'
+          lineage_source: 'перевод ИСО 19148:2012'
+          date_accepted: 2012-02-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: Линейно расположенное событие
+              normative_status: preferred
+        parents: []
+        timeCreated: 2012-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 1174
+  definition: >-
+    ocurrencia de un valor de atributo o un objeto geográfico a lo largo de otro
+    objeto geográfico
+  language_code: spa
+  notes:
+    - >-
+      La localización (4.19) del evento se especifica usando localizaciones
+      referenciadas linealmente (4.16)
+    - >-
+      Un evento localizado linealmente puede calificarse mediante el instante
+      (4.8) o el periodo (4.20) durante el cual acontece el evento localizado
+      linealmente
+    - >-
+      La Norma ISO 19108 limita los eventos a un solo instante de tiempo y no
+      incluye la especificación de una localización
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19148:2012'
+    clause: '4.15'
+    link: 'https://www.iso.org/standard/32566.html'
+  date_accepted: 2012-02-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: evento localizado linealmente
+      normative_status: preferred
+  _revisions:
+    current: 651ed2
+    tree:
+      651ed2:
+        object:
+          id: 1174
+          definition: >-
+            ocurrencia de un valor de atributo o un objeto geográfico a lo largo
+            de otro objeto geográfico
+          language_code: spa
+          notes:
+            - >-
+              La localización (4.19) del evento se especifica usando
+              localizaciones referenciadas linealmente (4.16)
+            - >-
+              Un evento localizado linealmente puede calificarse mediante el
+              instante (4.8) o el periodo (4.20) durante el cual acontece el
+              evento localizado linealmente
+            - >-
+              La Norma ISO 19108 limita los eventos a un solo instante de tiempo
+              y no incluye la especificación de una localización
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19148:2012'
+            clause: '4.15'
+            link: 'https://www.iso.org/standard/32566.html'
+          date_accepted: 2012-02-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: evento localizado linealmente
+              normative_status: preferred
+        parents: []
+        timeCreated: 2012-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+swe:
+  id: 1174
+  definition: >-
+    längs utsträckningen av ett objekt, förekomst av  något som representeras av
+    ett attributvärde eller av ett annat objekt
+  country_code: swe
+  language_code: swe
+  notes:
+    - The event location is specified using linearly referenced locations.
+    - >-
+      A linearly located event may be qualified by the instant in which, or
+      period during which, the linearly located event occurred.
+    - >-
+      ISO 19108 limits events to a single instant in time and does not include
+      the specification of a location.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19148:2012'
+    clause: '4.15'
+    link: 'https://www.iso.org/standard/32566.html'
+  lineage_source: (Type reference to national language document)
+  date_accepted: 2012-02-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: linjeanknuten företeelse
+      normative_status: preferred
+  _revisions:
+    current: e35f99
+    tree:
+      e35f99:
+        object:
+          id: 1174
+          definition: >-
+            längs utsträckningen av ett objekt, förekomst av  något som
+            representeras av ett attributvärde eller av ett annat objekt
+          country_code: swe
+          language_code: swe
+          notes:
+            - >-
+              The event location is specified using linearly referenced
+              locations.
+            - >-
+              A linearly located event may be qualified by the instant in which,
+              or period during which, the linearly located event occurred.
+            - >-
+              ISO 19108 limits events to a single instant in time and does not
+              include the specification of a location.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19148:2012'
+            clause: '4.15'
+            link: 'https://www.iso.org/standard/32566.html'
+          lineage_source: (Type reference to national language document)
+          date_accepted: 2012-02-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: linjeanknuten företeelse
+              normative_status: preferred
+        parents: []
+        timeCreated: 2012-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

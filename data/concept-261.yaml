@@ -1,0 +1,760 @@
+term: item class
+termid: 261
+eng:
+  id: 261
+  definition: set of items with common properties
+  language_code: eng
+  notes:
+    - >-
+      Class is used in this context to refer to a set of instances, not the
+      concept abstracted from that set of instances.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19135-1:2015'
+    clause: 4.1.7
+    link: 'https://www.iso.org/standard/54721.html'
+  lineage_source: 'ISO 19135:2005'
+  lineage_source_similarity: 1
+  date_accepted: 2005-10-15T00:00:00.000Z
+  review_date: 2010-10-19T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2015-10-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19135-1:2015'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19135:2005 to ISO 19135-1:2015,
+    4.1.7. Lineage source added as ISO 19135:2005
+  release: '1'
+  terms:
+    - type: expression
+      designation: item class
+      normative_status: preferred
+  _revisions:
+    current: 55af12
+    tree:
+      55af12:
+        object:
+          id: 261
+          definition: set of items with common properties
+          language_code: eng
+          notes:
+            - >-
+              Class is used in this context to refer to a set of instances, not
+              the concept abstracted from that set of instances.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19135-1:2015'
+            clause: 4.1.7
+            link: 'https://www.iso.org/standard/54721.html'
+          lineage_source: 'ISO 19135:2005'
+          lineage_source_similarity: 1
+          date_accepted: 2005-10-15T00:00:00.000Z
+          review_date: 2010-10-19T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2015-10-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19135-1:2015'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19135:2005 to ISO
+            19135-1:2015, 4.1.7. Lineage source added as ISO 19135:2005
+          release: '1'
+          terms:
+            - type: expression
+              designation: item class
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-10-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+ara:
+  id: 261
+  definition: مجموعة من البنود ذات خصائص مشتركة
+  language_code: ara
+  notes:
+    - >-
+      كلمة فئة مستعملة في هذا السياق للإشارة إلى مجموعة من الأمثلة وليس الإشارة
+      إلى التصور المجرد المأخوذ من تلك المجموعة من الأمثلة.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19135-1:2015'
+    clause: 4.1.7
+    link: 'https://www.iso.org/standard/54721.html'
+  lineage_source: 'ISO 19135:2005'
+  lineage_source_similarity: 1
+  date_accepted: 2005-10-15T00:00:00.000Z
+  review_date: 2010-10-19T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2015-10-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19135-1:2015'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19135:2005 to ISO 19135-1:2015,
+    4.1.7. Lineage source added as ISO 19135:2005
+  release: '1'
+  terms:
+    - type: expression
+      designation: فئة بنود
+      normative_status: preferred
+  _revisions:
+    current: 39ae43
+    tree:
+      39ae43:
+        object:
+          id: 261
+          definition: مجموعة من البنود ذات خصائص مشتركة
+          language_code: ara
+          notes:
+            - >-
+              كلمة فئة مستعملة في هذا السياق للإشارة إلى مجموعة من الأمثلة وليس
+              الإشارة إلى التصور المجرد المأخوذ من تلك المجموعة من الأمثلة.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19135-1:2015'
+            clause: 4.1.7
+            link: 'https://www.iso.org/standard/54721.html'
+          lineage_source: 'ISO 19135:2005'
+          lineage_source_similarity: 1
+          date_accepted: 2005-10-15T00:00:00.000Z
+          review_date: 2010-10-19T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2015-10-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19135-1:2015'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19135:2005 to ISO
+            19135-1:2015, 4.1.7. Lineage source added as ISO 19135:2005
+          release: '1'
+          terms:
+            - type: expression
+              designation: فئة بنود
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-10-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+zho:
+  id: 261
+  definition: 具有共同特性的数据项集合。
+  language_code: zho
+  notes:
+    - '此处使用的类指的是实例集合,而不是这些实例集合所抽象的概念。'
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19135-1:2015'
+    clause: 4.1.7
+    link: 'https://www.iso.org/standard/54721.html'
+  lineage_source: 'ISO 19135:2005'
+  lineage_source_similarity: 1
+  date_accepted: 2005-10-15T00:00:00.000Z
+  review_date: 2010-10-19T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2015-10-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19135-1:2015'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19135:2005 to ISO 19135-1:2015,
+    4.1.7. Lineage source added as ISO 19135:2005
+  release: '1'
+  terms:
+    - type: expression
+      designation: 数据项类
+      normative_status: preferred
+  _revisions:
+    current: fc7005
+    tree:
+      fc7005:
+        object:
+          id: 261
+          definition: 具有共同特性的数据项集合。
+          language_code: zho
+          notes:
+            - '此处使用的类指的是实例集合,而不是这些实例集合所抽象的概念。'
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19135-1:2015'
+            clause: 4.1.7
+            link: 'https://www.iso.org/standard/54721.html'
+          lineage_source: 'ISO 19135:2005'
+          lineage_source_similarity: 1
+          date_accepted: 2005-10-15T00:00:00.000Z
+          review_date: 2010-10-19T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2015-10-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19135-1:2015'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19135:2005 to ISO
+            19135-1:2015, 4.1.7. Lineage source added as ISO 19135:2005
+          release: '1'
+          terms:
+            - type: expression
+              designation: 数据项类
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-10-15T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+fin:
+  id: 261
+  definition: 'joukko yksiköitä, joilla on yhteisiä ominaisuuksia'
+  language_code: fin
+  notes:
+    - >-
+      Sanaa luokka käytetään tässä yhteydessä viittaamaan ilmentymäjoukkoon, ei
+      ilmentymäjoukon pohjalta yleistettyyn käsitteeseen.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19135-1:2015'
+    clause: 4.1.7
+    link: 'https://www.iso.org/standard/54721.html'
+  lineage_source: 'ISO 19135:2005'
+  lineage_source_similarity: 1
+  date_accepted: 2005-10-15T00:00:00.000Z
+  review_date: 2010-10-19T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2015-10-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19135-1:2015'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19135:2005 to ISO 19135-1:2015,
+    4.1.7. Lineage source added as ISO 19135:2005
+  release: '1'
+  terms:
+    - type: expression
+      designation: tietokohdeluokka
+      normative_status: preferred
+    - designation: yksilöluokka
+      type: expression
+  _revisions:
+    current: dccdbe
+    tree:
+      dccdbe:
+        object:
+          id: 261
+          definition: 'joukko yksiköitä, joilla on yhteisiä ominaisuuksia'
+          language_code: fin
+          notes:
+            - >-
+              Sanaa luokka käytetään tässä yhteydessä viittaamaan
+              ilmentymäjoukkoon, ei ilmentymäjoukon pohjalta yleistettyyn
+              käsitteeseen.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19135-1:2015'
+            clause: 4.1.7
+            link: 'https://www.iso.org/standard/54721.html'
+          lineage_source: 'ISO 19135:2005'
+          lineage_source_similarity: 1
+          date_accepted: 2005-10-15T00:00:00.000Z
+          review_date: 2010-10-19T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2015-10-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19135-1:2015'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19135:2005 to ISO
+            19135-1:2015, 4.1.7. Lineage source added as ISO 19135:2005
+          release: '1'
+          terms:
+            - type: expression
+              designation: tietokohdeluokka
+              normative_status: preferred
+            - designation: yksilöluokka
+              type: expression
+        parents: []
+        timeCreated: 2005-10-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+fra:
+  id: 261
+  definition: ensemble d'éléments avec des propriétés communes
+  language_code: fra
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19135-1:2015'
+    clause: 4.1.7
+    link: 'https://www.iso.org/standard/54721.html'
+  lineage_source: 'ISO 19135:2005'
+  lineage_source_similarity: 1
+  date_accepted: 2005-10-15T00:00:00.000Z
+  review_date: 2010-10-19T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2015-10-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19135-1:2015'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19135:2005 to ISO 19135-1:2015,
+    4.1.7. Lineage source added as ISO 19135:2005
+  release: '1'
+  terms:
+    - type: expression
+      designation: classe d'éléments
+      normative_status: preferred
+  _revisions:
+    current: e972d6
+    tree:
+      e972d6:
+        object:
+          id: 261
+          definition: ensemble d'éléments avec des propriétés communes
+          language_code: fra
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19135-1:2015'
+            clause: 4.1.7
+            link: 'https://www.iso.org/standard/54721.html'
+          lineage_source: 'ISO 19135:2005'
+          lineage_source_similarity: 1
+          date_accepted: 2005-10-15T00:00:00.000Z
+          review_date: 2010-10-19T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2015-10-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19135-1:2015'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19135:2005 to ISO
+            19135-1:2015, 4.1.7. Lineage source added as ISO 19135:2005
+          release: '1'
+          terms:
+            - type: expression
+              designation: classe d'éléments
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-10-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+deu:
+  id: 261
+  definition: Menge von Elementen mit gemeinsamen Eigenschaften
+  language_code: deu
+  notes:
+    - >-
+      Class is used in this context to refer to a set of instances, not the
+      concept abstracted from that set of instances.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19135-1:2015'
+    clause: 4.1.7
+    link: 'https://www.iso.org/standard/54721.html'
+  lineage_source: 'ISO 19135:2005'
+  lineage_source_similarity: 1
+  date_accepted: 2005-10-15T00:00:00.000Z
+  review_date: 2010-10-19T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2015-10-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19135-1:2015'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19135:2005 to ISO 19135-1:2015,
+    4.1.7. Lineage source added as ISO 19135:2005
+  release: '1'
+  terms:
+    - type: expression
+      designation: Elementklasse
+      normative_status: preferred
+  _revisions:
+    current: 755eec
+    tree:
+      755eec:
+        object:
+          id: 261
+          definition: Menge von Elementen mit gemeinsamen Eigenschaften
+          language_code: deu
+          notes:
+            - >-
+              Class is used in this context to refer to a set of instances, not
+              the concept abstracted from that set of instances.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19135-1:2015'
+            clause: 4.1.7
+            link: 'https://www.iso.org/standard/54721.html'
+          lineage_source: 'ISO 19135:2005'
+          lineage_source_similarity: 1
+          date_accepted: 2005-10-15T00:00:00.000Z
+          review_date: 2010-10-19T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2015-10-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19135-1:2015'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19135:2005 to ISO
+            19135-1:2015, 4.1.7. Lineage source added as ISO 19135:2005
+          release: '1'
+          terms:
+            - type: expression
+              designation: Elementklasse
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-10-15T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+kor:
+  id: 261
+  definition: 공통의 특성을 갖는 항목의 집합
+  language_code: kor
+  notes:
+    - '여기서 클래스는 인스턴스 집합의 추상화된 개념이 아닌, 인스턴스 집합을 언급하기 위해 사용된다.'
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19135-1:2015'
+    clause: 4.1.7
+    link: 'https://www.iso.org/standard/54721.html'
+  lineage_source: 'ISO 19135:2005'
+  lineage_source_similarity: 1
+  date_accepted: 2005-10-15T00:00:00.000Z
+  review_date: 2010-10-19T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2015-10-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19135-1:2015'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19135:2005 to ISO 19135-1:2015,
+    4.1.7. Lineage source added as ISO 19135:2005
+  release: '1'
+  terms:
+    - type: expression
+      designation: 항목 클래스
+      normative_status: preferred
+  _revisions:
+    current: 75ecb4
+    tree:
+      75ecb4:
+        object:
+          id: 261
+          definition: 공통의 특성을 갖는 항목의 집합
+          language_code: kor
+          notes:
+            - '여기서 클래스는 인스턴스 집합의 추상화된 개념이 아닌, 인스턴스 집합을 언급하기 위해 사용된다.'
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19135-1:2015'
+            clause: 4.1.7
+            link: 'https://www.iso.org/standard/54721.html'
+          lineage_source: 'ISO 19135:2005'
+          lineage_source_similarity: 1
+          date_accepted: 2005-10-15T00:00:00.000Z
+          review_date: 2010-10-19T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2015-10-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19135-1:2015'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19135:2005 to ISO
+            19135-1:2015, 4.1.7. Lineage source added as ISO 19135:2005
+          release: '1'
+          terms:
+            - type: expression
+              designation: 항목 클래스
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-10-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+pol:
+  id: 261
+  definition: zbiór pozycji mających wspólne właściwości
+  language_code: pol
+  notes:
+    - >-
+      Klasa jest użyta w tym kontekście jako odnośnik do zbioru instancji, a nie
+      jako pojęcie wyabstrahowane z tego zbioru instancji.
+  examples: []
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19135-1:2015'
+    clause: 4.1.7
+    link: 'https://www.iso.org/standard/54721.html'
+  lineage_source: 'ISO 19135:2005'
+  lineage_source_similarity: 1
+  date_accepted: 2005-10-15T00:00:00.000Z
+  review_date: 2010-10-19T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2015-10-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19135-1:2015'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19135:2005 to ISO 19135-1:2015,
+    4.1.7. Lineage source added as ISO 19135:2005
+  release: '1'
+  terms:
+    - type: expression
+      designation: klasa pozycji
+      normative_status: preferred
+  _revisions:
+    current: bb2191
+    tree:
+      bb2191:
+        object:
+          id: 261
+          definition: zbiór pozycji mających wspólne właściwości
+          language_code: pol
+          notes:
+            - >-
+              Klasa jest użyta w tym kontekście jako odnośnik do zbioru
+              instancji, a nie jako pojęcie wyabstrahowane z tego zbioru
+              instancji.
+          examples: []
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19135-1:2015'
+            clause: 4.1.7
+            link: 'https://www.iso.org/standard/54721.html'
+          lineage_source: 'ISO 19135:2005'
+          lineage_source_similarity: 1
+          date_accepted: 2005-10-15T00:00:00.000Z
+          review_date: 2010-10-19T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2015-10-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19135-1:2015'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19135:2005 to ISO
+            19135-1:2015, 4.1.7. Lineage source added as ISO 19135:2005
+          release: '1'
+          terms:
+            - type: expression
+              designation: klasa pozycji
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-10-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 261
+  definition: множество элементов с общими свойствами
+  language_code: rus
+  notes:
+    - >-
+      В данном контексте понятие «класс» используется по отношению к набору
+      экземпляров, а не в абстрактном по отношению к нему понятии
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19135:2005'
+    link: 'https://www.iso.org/standard/32553.html'
+  lineage_source: Internet
+  date_accepted: 2005-10-15T00:00:00.000Z
+  terms:
+    - type: expression
+      designation: класс элементов
+      normative_status: preferred
+  _revisions:
+    current: 4f059a
+    tree:
+      4f059a:
+        object:
+          id: 261
+          definition: множество элементов с общими свойствами
+          language_code: rus
+          notes:
+            - >-
+              В данном контексте понятие «класс» используется по отношению к
+              набору экземпляров, а не в абстрактном по отношению к нему понятии
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19135:2005'
+            link: 'https://www.iso.org/standard/32553.html'
+          lineage_source: Internet
+          date_accepted: 2005-10-15T00:00:00.000Z
+          terms:
+            - type: expression
+              designation: класс элементов
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-10-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 261
+  definition: conjunto de ítems con propiedades comunes
+  language_code: spa
+  notes:
+    - >-
+      La clase se utiliza en este contexto para referirse a un conjunto de
+      instancias, no al concepto genérico de ese conjunto de instancias.
+    - >-
+      En esta norma internacional se utiliza la expresión “clase de ítems de
+      registro” para evitar potenciales ambigüedades.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19135-1:2015'
+    clause: 4.1.7
+    link: 'https://www.iso.org/standard/54721.html'
+  lineage_source: 'ISO 19135:2005'
+  lineage_source_similarity: 1
+  date_accepted: 2005-10-15T00:00:00.000Z
+  review_date: 2010-10-19T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2015-10-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19135-1:2015'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19135:2005 to ISO 19135-1:2015,
+    4.1.7. Lineage source added as ISO 19135:2005
+  release: '1'
+  terms:
+    - type: expression
+      designation: clase de ítems
+      normative_status: preferred
+  _revisions:
+    current: 7127f2
+    tree:
+      7127f2:
+        object:
+          id: 261
+          definition: conjunto de ítems con propiedades comunes
+          language_code: spa
+          notes:
+            - >-
+              La clase se utiliza en este contexto para referirse a un conjunto
+              de instancias, no al concepto genérico de ese conjunto de
+              instancias.
+            - >-
+              En esta norma internacional se utiliza la expresión “clase de
+              ítems de registro” para evitar potenciales ambigüedades.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19135-1:2015'
+            clause: 4.1.7
+            link: 'https://www.iso.org/standard/54721.html'
+          lineage_source: 'ISO 19135:2005'
+          lineage_source_similarity: 1
+          date_accepted: 2005-10-15T00:00:00.000Z
+          review_date: 2010-10-19T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2015-10-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19135-1:2015'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19135:2005 to ISO
+            19135-1:2015, 4.1.7. Lineage source added as ISO 19135:2005
+          release: '1'
+          terms:
+            - type: expression
+              designation: clase de ítems
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-10-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+swe:
+  id: 261
+  definition: uppsättning företeelser med gemensamma egenskaper
+  country_code: swe
+  language_code: swe
+  notes:
+    - >-
+      Class is used in this context to refer to a set of instances, not the
+      concept abstracted from that set of instances.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19135-1:2015'
+    clause: 4.1.7
+    link: 'https://www.iso.org/standard/54721.html'
+  lineage_source: 'ISO 19135:2005'
+  lineage_source_similarity: 1
+  date_accepted: 2005-10-15T00:00:00.000Z
+  review_date: 2010-10-19T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2015-10-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19135-1:2015'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19135:2005 to ISO 19135-1:2015,
+    4.1.7. Lineage source added as ISO 19135:2005
+  release: '1'
+  terms:
+    - type: expression
+      designation: företeelseklass
+      normative_status: preferred
+  _revisions:
+    current: 2371d5
+    tree:
+      2371d5:
+        object:
+          id: 261
+          definition: uppsättning företeelser med gemensamma egenskaper
+          country_code: swe
+          language_code: swe
+          notes:
+            - >-
+              Class is used in this context to refer to a set of instances, not
+              the concept abstracted from that set of instances.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19135-1:2015'
+            clause: 4.1.7
+            link: 'https://www.iso.org/standard/54721.html'
+          lineage_source: 'ISO 19135:2005'
+          lineage_source_similarity: 1
+          date_accepted: 2005-10-15T00:00:00.000Z
+          review_date: 2010-10-19T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2015-10-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19135-1:2015'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19135:2005 to ISO
+            19135-1:2015, 4.1.7. Lineage source added as ISO 19135:2005
+          release: '1'
+          terms:
+            - type: expression
+              designation: företeelseklass
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-10-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

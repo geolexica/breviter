@@ -1,0 +1,267 @@
+term: calibration validation
+termid: 1605
+eng:
+  id: 1605
+  definition: process of assessing the validity of parameters
+  language_code: eng
+  notes:
+    - >-
+      With respect to the general definition of validation the “calibration
+      validation” does only refer to a small set of parameters (attribute
+      values) such as the result of a sensor calibration.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO/TS 19159-1:2014'
+    clause: '4.4'
+    link: 'https://www.iso.org/standard/60080.html'
+  date_accepted: 2014-07-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: calibration validation
+      normative_status: preferred
+  _revisions:
+    current: 9267b0
+    tree:
+      9267b0:
+        object:
+          id: 1605
+          definition: process of assessing the validity of parameters
+          language_code: eng
+          notes:
+            - >-
+              With respect to the general definition of validation the
+              “calibration validation” does only refer to a small set of
+              parameters (attribute values) such as the result of a sensor
+              calibration.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO/TS 19159-1:2014'
+            clause: '4.4'
+            link: 'https://www.iso.org/standard/60080.html'
+          date_accepted: 2014-07-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: calibration validation
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-07-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+kor:
+  id: 1605
+  definition: 매개변수의 타당성을 평가하는 과정
+  language_code: kor
+  notes:
+    - >-
+      With respect to the general definition of validation the “calibration
+      validation” does only refer to a small set of parameters (attribute
+      values) such as the result of a sensor calibration.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO/TS 19159-1:2014'
+    clause: '4.4'
+    link: 'https://www.iso.org/standard/60080.html'
+  date_accepted: 2014-07-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: 보정 곡선
+      normative_status: preferred
+  _revisions:
+    current: 9e30e2
+    tree:
+      9e30e2:
+        object:
+          id: 1605
+          definition: 매개변수의 타당성을 평가하는 과정
+          language_code: kor
+          notes:
+            - >-
+              With respect to the general definition of validation the
+              “calibration validation” does only refer to a small set of
+              parameters (attribute values) such as the result of a sensor
+              calibration.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO/TS 19159-1:2014'
+            clause: '4.4'
+            link: 'https://www.iso.org/standard/60080.html'
+          date_accepted: 2014-07-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: 보정 곡선
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-07-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 1605
+  definition: процесс оценки достоверности параметров
+  language_code: rus
+  notes:
+    - >-
+      Относительно общего определения проверки,  “проверка калибровки” относится
+      только к небольшому набору параметров (значений атрибутов), таких как
+      результат калибровки датчика.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO/TS 19159-1:2014'
+    clause: '4.4'
+    link: 'https://www.iso.org/standard/60080.html'
+  lineage_source: 'ISO/TS 19159-1:2014'
+  date_accepted: 2014-07-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: проверка калибровки
+      normative_status: preferred
+  _revisions:
+    current: e4bd3d
+    tree:
+      e4bd3d:
+        object:
+          id: 1605
+          definition: процесс оценки достоверности параметров
+          language_code: rus
+          notes:
+            - >-
+              Относительно общего определения проверки,  “проверка калибровки”
+              относится только к небольшому набору параметров (значений
+              атрибутов), таких как результат калибровки датчика.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO/TS 19159-1:2014'
+            clause: '4.4'
+            link: 'https://www.iso.org/standard/60080.html'
+          lineage_source: 'ISO/TS 19159-1:2014'
+          date_accepted: 2014-07-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: проверка калибровки
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-07-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 1605
+  definition: proceso de determinación de la validez de unos parámetros
+  language_code: spa
+  notes:
+    - >-
+      Con respecto a la definición general de validación, la "validación de
+      calibración" se refiere sólo a un pequeño conjunto de parámetros (valores
+      de atributo), tales como el resultado de una calibración del sensor.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO/TS 19159-1:2014'
+    clause: '4.4'
+    link: 'https://www.iso.org/standard/60080.html'
+  date_accepted: 2014-07-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: validación de la calibración
+      normative_status: preferred
+  _revisions:
+    current: a6120e
+    tree:
+      a6120e:
+        object:
+          id: 1605
+          definition: proceso de determinación de la validez de unos parámetros
+          language_code: spa
+          notes:
+            - >-
+              Con respecto a la definición general de validación, la "validación
+              de calibración" se refiere sólo a un pequeño conjunto de
+              parámetros (valores de atributo), tales como el resultado de una
+              calibración del sensor.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO/TS 19159-1:2014'
+            clause: '4.4'
+            link: 'https://www.iso.org/standard/60080.html'
+          date_accepted: 2014-07-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: validación de la calibración
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-07-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+swe:
+  id: 1605
+  definition: förfarande för att utvärdera giltigheten hos parametrar
+  country_code: swe
+  language_code: swe
+  notes:
+    - >-
+      With respect to the general definition of validation the “calibration
+      validation” does only refer to a small set of parameters (attribute
+      values) such as the result of a sensor calibration.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO/TS 19159-1:2014'
+    clause: '4.4'
+    link: 'https://www.iso.org/standard/60080.html'
+  lineage_source: (Type reference to national language document)
+  date_accepted: 2014-07-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: utvärdering av kalibreringsparametrar
+      normative_status: preferred
+  _revisions:
+    current: 2c6fcd
+    tree:
+      2c6fcd:
+        object:
+          id: 1605
+          definition: förfarande för att utvärdera giltigheten hos parametrar
+          country_code: swe
+          language_code: swe
+          notes:
+            - >-
+              With respect to the general definition of validation the
+              “calibration validation” does only refer to a small set of
+              parameters (attribute values) such as the result of a sensor
+              calibration.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO/TS 19159-1:2014'
+            clause: '4.4'
+            link: 'https://www.iso.org/standard/60080.html'
+          lineage_source: (Type reference to national language document)
+          date_accepted: 2014-07-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: utvärdering av kalibreringsparametrar
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-07-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

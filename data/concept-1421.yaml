@@ -1,0 +1,200 @@
+term: stare
+termid: 1421
+eng:
+  id: 1421
+  definition: scanning mode consisting of a step stair pattern
+  language_code: eng
+  notes:
+    - >-
+      This applies to a HARLIE transceiver, based on a volume phase holographic
+      optical element.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO/TS 19130-2:2014'
+    clause: '4.74'
+    link: 'https://www.iso.org/standard/56113.html'
+  date_accepted: 2014-01-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: stare
+      normative_status: preferred
+  _revisions:
+    current: 3b1259
+    tree:
+      3b1259:
+        object:
+          id: 1421
+          definition: scanning mode consisting of a step stair pattern
+          language_code: eng
+          notes:
+            - >-
+              This applies to a HARLIE transceiver, based on a volume phase
+              holographic optical element.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO/TS 19130-2:2014'
+            clause: '4.74'
+            link: 'https://www.iso.org/standard/56113.html'
+          date_accepted: 2014-01-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: stare
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-01-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+kor:
+  id: 1421
+  definition: 계단형 패턴으로 구성된 스캐닝 모드
+  language_code: kor
+  notes:
+    - >-
+      This applies to a HARLIE transceiver, based on a volume phase holographic
+      optical element.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO/TS 19130-2:2014'
+    clause: '4.74'
+    link: 'https://www.iso.org/standard/56113.html'
+  date_accepted: 2014-01-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: 스테어
+      normative_status: preferred
+  _revisions:
+    current: '021457'
+    tree:
+      '021457':
+        object:
+          id: 1421
+          definition: 계단형 패턴으로 구성된 스캐닝 모드
+          language_code: kor
+          notes:
+            - >-
+              This applies to a HARLIE transceiver, based on a volume phase
+              holographic optical element.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO/TS 19130-2:2014'
+            clause: '4.74'
+            link: 'https://www.iso.org/standard/56113.html'
+          date_accepted: 2014-01-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: 스테어
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-01-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 1421
+  definition: 'режим сканирования, состоящий из шаблона ступенчатой лестницы'
+  language_code: rus
+  notes:
+    - >-
+      это относится к приемопередатчику HARLIE на основе объемного фазового
+      голографического оптического элемента.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO/TS 19130-2:2014'
+    clause: '4.74'
+    link: 'https://www.iso.org/standard/56113.html'
+  lineage_source: 'ISO/TS 19130-2:2014'
+  date_accepted: 2014-01-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: stare
+      normative_status: preferred
+  _revisions:
+    current: '99e151'
+    tree:
+      '99e151':
+        object:
+          id: 1421
+          definition: 'режим сканирования, состоящий из шаблона ступенчатой лестницы'
+          language_code: rus
+          notes:
+            - >-
+              это относится к приемопередатчику HARLIE на основе объемного
+              фазового голографического оптического элемента.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO/TS 19130-2:2014'
+            clause: '4.74'
+            link: 'https://www.iso.org/standard/56113.html'
+          lineage_source: 'ISO/TS 19130-2:2014'
+          date_accepted: 2014-01-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: stare
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-01-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 1421
+  definition: modo de escaneo que consiste en un patrón escalonado
+  language_code: spa
+  notes:
+    - >-
+      Esto se aplica a un transceptor Harlie, sobre la base de un elemento
+      óptico holográfico
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO/TS 19130-2:2014'
+    clause: '4.74'
+    link: 'https://www.iso.org/standard/56113.html'
+  date_accepted: 2014-01-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: stare
+      normative_status: preferred
+  _revisions:
+    current: '771988'
+    tree:
+      '771988':
+        object:
+          id: 1421
+          definition: modo de escaneo que consiste en un patrón escalonado
+          language_code: spa
+          notes:
+            - >-
+              Esto se aplica a un transceptor Harlie, sobre la base de un
+              elemento óptico holográfico
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO/TS 19130-2:2014'
+            clause: '4.74'
+            link: 'https://www.iso.org/standard/56113.html'
+          date_accepted: 2014-01-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: stare
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-01-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

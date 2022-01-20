@@ -1,0 +1,61 @@
+term: tangent space
+termid: 2181
+eng:
+  id: 2181
+  definition: collection of tangent vectors for curves passing through the point
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19107:2019'
+    clause: '(E), 3.94'
+    link: 'https://www.iso.org/standard/66175.html'
+  date_accepted: 2019-12-02T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: Normal ISO processing
+  review_decision_notes: 'Publication of document ISO 19107:2019(E)'
+  release: '5'
+  terms:
+    - type: expression
+      designation: tangent space
+      normative_status: preferred
+    - designation: tangent plane
+      type: expression
+  _revisions:
+    current: 0ae027
+    tree:
+      0ae027:
+        object:
+          id: 2181
+          definition: collection of tangent vectors for curves passing through the point
+          language_code: eng
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19107:2019'
+            clause: '(E), 3.94'
+            link: 'https://www.iso.org/standard/66175.html'
+          date_accepted: 2019-12-02T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: Normal ISO processing
+          review_decision_notes: 'Publication of document ISO 19107:2019(E)'
+          release: '5'
+          terms:
+            - type: expression
+              designation: tangent space
+              normative_status: preferred
+            - designation: tangent plane
+              type: expression
+        parents: []
+        timeCreated: 2019-12-02T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

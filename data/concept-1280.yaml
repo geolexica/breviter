@@ -1,0 +1,266 @@
+term: place
+termid: 1280
+eng:
+  id: 1280
+  definition: identifiable part of any space
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19155:2012'
+    clause: '4.8'
+    link: 'https://www.iso.org/standard/32573.html'
+  date_accepted: 2012-11-01T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: place
+      normative_status: preferred
+  _revisions:
+    current: babb88
+    tree:
+      babb88:
+        object:
+          id: 1280
+          definition: identifiable part of any space
+          language_code: eng
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19155:2012'
+            clause: '4.8'
+            link: 'https://www.iso.org/standard/32573.html'
+          date_accepted: 2012-11-01T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: place
+              normative_status: preferred
+        parents: []
+        timeCreated: 2012-11-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+kor:
+  id: 1280
+  definition: 공간의 식별가능한 부분
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19155:2012'
+    clause: '4.8'
+    link: 'https://www.iso.org/standard/32573.html'
+  date_accepted: 2012-11-01T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: 장소
+      normative_status: preferred
+  _revisions:
+    current: 59ff8a
+    tree:
+      59ff8a:
+        object:
+          id: 1280
+          definition: 공간의 식별가능한 부분
+          language_code: kor
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19155:2012'
+            clause: '4.8'
+            link: 'https://www.iso.org/standard/32573.html'
+          date_accepted: 2012-11-01T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: 장소
+              normative_status: preferred
+        parents: []
+        timeCreated: 2012-11-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+msa:
+  id: 1280
+  definition: ruang atau lokasi yang boleh dikenalpasti
+  language_code: msa
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19155:2012'
+    clause: '4.8'
+    link: 'https://www.iso.org/standard/32573.html'
+  date_accepted: 2012-11-01T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: tempat
+      normative_status: preferred
+  _revisions:
+    current: 1d3515
+    tree:
+      1d3515:
+        object:
+          id: 1280
+          definition: ruang atau lokasi yang boleh dikenalpasti
+          language_code: msa
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19155:2012'
+            clause: '4.8'
+            link: 'https://www.iso.org/standard/32573.html'
+          date_accepted: 2012-11-01T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: tempat
+              normative_status: preferred
+        parents: []
+        timeCreated: 2012-11-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 1280
+  definition: идентифицируемая  часть любого пространства
+  language_code: rus
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19155:2012'
+    clause: '4.8'
+    link: 'https://www.iso.org/standard/32573.html'
+  lineage_source: 'ISO 19155:2012'
+  date_accepted: 2012-11-01T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: место
+      normative_status: preferred
+  _revisions:
+    current: ad7ce5
+    tree:
+      ad7ce5:
+        object:
+          id: 1280
+          definition: идентифицируемая  часть любого пространства
+          language_code: rus
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19155:2012'
+            clause: '4.8'
+            link: 'https://www.iso.org/standard/32573.html'
+          lineage_source: 'ISO 19155:2012'
+          date_accepted: 2012-11-01T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: место
+              normative_status: preferred
+        parents: []
+        timeCreated: 2012-11-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 1280
+  definition: parte identificable de un cierto espacio
+  language_code: spa
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19155:2012'
+    clause: '4.8'
+    link: 'https://www.iso.org/standard/32573.html'
+  date_accepted: 2012-11-01T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: lugar
+      normative_status: preferred
+  _revisions:
+    current: '636579'
+    tree:
+      '636579':
+        object:
+          id: 1280
+          definition: parte identificable de un cierto espacio
+          language_code: spa
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19155:2012'
+            clause: '4.8'
+            link: 'https://www.iso.org/standard/32573.html'
+          date_accepted: 2012-11-01T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: lugar
+              normative_status: preferred
+        parents: []
+        timeCreated: 2012-11-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+swe:
+  id: 1280
+  definition: identifierbar del av geometriskt rum
+  country_code: swe
+  language_code: swe
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19155:2012'
+    clause: '4.8'
+    link: 'https://www.iso.org/standard/32573.html'
+  lineage_source: (Type reference to national language document)
+  date_accepted: 2012-11-01T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: plats
+      normative_status: preferred
+  _revisions:
+    current: cdc733
+    tree:
+      cdc733:
+        object:
+          id: 1280
+          definition: identifierbar del av geometriskt rum
+          country_code: swe
+          language_code: swe
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19155:2012'
+            clause: '4.8'
+            link: 'https://www.iso.org/standard/32573.html'
+          lineage_source: (Type reference to national language document)
+          date_accepted: 2012-11-01T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: plats
+              normative_status: preferred
+        parents: []
+        timeCreated: 2012-11-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

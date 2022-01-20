@@ -1,0 +1,196 @@
+term: depression angle
+termid: 1384
+eng:
+  id: 1384
+  definition: >-
+    vertical angle from the platform horizontal plane to the slant range
+    direction, usually measured at the ARP
+  language_code: eng
+  notes:
+    - Approximately the complement of the look angle
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO/TS 19130-2:2014'
+    clause: '4.13'
+    link: 'https://www.iso.org/standard/56113.html'
+  date_accepted: 2014-01-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: depression angle
+      normative_status: preferred
+  _revisions:
+    current: 483fce
+    tree:
+      483fce:
+        object:
+          id: 1384
+          definition: >-
+            vertical angle from the platform horizontal plane to the slant range
+            direction, usually measured at the ARP
+          language_code: eng
+          notes:
+            - Approximately the complement of the look angle
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO/TS 19130-2:2014'
+            clause: '4.13'
+            link: 'https://www.iso.org/standard/56113.html'
+          date_accepted: 2014-01-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: depression angle
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-01-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+kor:
+  id: 1384
+  definition: 일반적으로 ARP에서 측정되는 플랫폼 수평면에서 사선거리방향으로의 수직각
+  language_code: kor
+  notes:
+    - Approximately the complement of the look angle
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO/TS 19130-2:2014'
+    clause: '4.13'
+    link: 'https://www.iso.org/standard/56113.html'
+  date_accepted: 2014-01-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: '내림각,부각'
+      normative_status: preferred
+  _revisions:
+    current: e58e8b
+    tree:
+      e58e8b:
+        object:
+          id: 1384
+          definition: 일반적으로 ARP에서 측정되는 플랫폼 수평면에서 사선거리방향으로의 수직각
+          language_code: kor
+          notes:
+            - Approximately the complement of the look angle
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO/TS 19130-2:2014'
+            clause: '4.13'
+            link: 'https://www.iso.org/standard/56113.html'
+          date_accepted: 2014-01-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: '내림각,부각'
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-01-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 1384
+  definition: >-
+    вертикальный угол от горизонтальной плоскости платформы до направления
+    наклонной дальности, обычно измеряемый в ARP
+  language_code: rus
+  notes:
+    - Приблизительно дополнение к углу обзора
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO/TS 19130-2:2014'
+    clause: '4.13'
+    link: 'https://www.iso.org/standard/56113.html'
+  lineage_source: 'ISO/TS 19130-2:2014'
+  date_accepted: 2014-01-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: угол наклона
+      normative_status: preferred
+  _revisions:
+    current: 4d9e2a
+    tree:
+      4d9e2a:
+        object:
+          id: 1384
+          definition: >-
+            вертикальный угол от горизонтальной плоскости платформы до
+            направления наклонной дальности, обычно измеряемый в ARP
+          language_code: rus
+          notes:
+            - Приблизительно дополнение к углу обзора
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO/TS 19130-2:2014'
+            clause: '4.13'
+            link: 'https://www.iso.org/standard/56113.html'
+          lineage_source: 'ISO/TS 19130-2:2014'
+          date_accepted: 2014-01-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: угол наклона
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-01-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 1384
+  definition: >-
+    ángulo vertical desde el plano horizontal de la plataforma hacia la
+    dirección oblicua, normalmente medido en ARP
+  language_code: spa
+  notes:
+    - Aproximadamente el complemento del ángulo de observación
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO/TS 19130-2:2014'
+    clause: '4.13'
+    link: 'https://www.iso.org/standard/56113.html'
+  date_accepted: 2014-01-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: ángulo de depresión
+      normative_status: preferred
+  _revisions:
+    current: 7bc78c
+    tree:
+      7bc78c:
+        object:
+          id: 1384
+          definition: >-
+            ángulo vertical desde el plano horizontal de la plataforma hacia la
+            dirección oblicua, normalmente medido en ARP
+          language_code: spa
+          notes:
+            - Aproximadamente el complemento del ángulo de observación
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO/TS 19130-2:2014'
+            clause: '4.13'
+            link: 'https://www.iso.org/standard/56113.html'
+          date_accepted: 2014-01-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: ángulo de depresión
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-01-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

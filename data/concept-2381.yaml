@@ -1,0 +1,71 @@
+term: vertical reference system
+termid: 2381
+eng:
+  id: 2381
+  abbrev: VRS
+  definition: >-
+    set of conventions defining the origin, scale, orientation and time
+    evolution that describes the relationship of gravity-related heights or
+    depths to the Earth
+  language_code: eng
+  notes:
+    - >-
+      The abstract concept of a VRS is realised through a vertical reference
+      frame.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19111:2019'
+    clause: '(E), 3.1.73'
+    link: 'https://www.iso.org/standard/74039.html'
+  date_accepted: 2019-01-31T00:00:00.000Z
+  review_date: 2019-01-31T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-01-31T00:00:00.000Z
+  review_decision_event: Normal ISO processing
+  review_decision_notes: 'Publication of document ISO 19111:2019(E)'
+  release: '5'
+  terms:
+    - type: expression
+      designation: vertical reference system
+      normative_status: preferred
+  _revisions:
+    current: f8d137
+    tree:
+      f8d137:
+        object:
+          id: 2381
+          abbrev: VRS
+          definition: >-
+            set of conventions defining the origin, scale, orientation and time
+            evolution that describes the relationship of gravity-related heights
+            or depths to the Earth
+          language_code: eng
+          notes:
+            - >-
+              The abstract concept of a VRS is realised through a vertical
+              reference frame.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19111:2019'
+            clause: '(E), 3.1.73'
+            link: 'https://www.iso.org/standard/74039.html'
+          date_accepted: 2019-01-31T00:00:00.000Z
+          review_date: 2019-01-31T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-01-31T00:00:00.000Z
+          review_decision_event: Normal ISO processing
+          review_decision_notes: 'Publication of document ISO 19111:2019(E)'
+          release: '5'
+          terms:
+            - type: expression
+              designation: vertical reference system
+              normative_status: preferred
+        parents: []
+        timeCreated: 2019-01-31T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

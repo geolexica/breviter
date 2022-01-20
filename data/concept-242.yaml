@@ -1,0 +1,772 @@
+term: information viewpoint
+termid: 242
+eng:
+  id: 242
+  definition: >-
+    viewpoint on an ODP system and its environment that focuses on the semantics
+    of information and information processing
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO/IEC 10746-3:2009'
+    clause: 4.1.1.2
+    link: 'https://www.iso.org/standard/55724.html'
+  lineage_source: 'ISO 19119:2005'
+  lineage_source_similarity: 1
+  date_accepted: 2005-02-15T00:00:00.000Z
+  review_date: 2012-08-11T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2016-01-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19119:2016'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO/IEC 10746-3:1996 to ISO/IEC
+    10746-3:2009, 4.1.1.2. Lineage source added as ISO 19119:2005
+  release: '1'
+  terms:
+    - type: expression
+      designation: information viewpoint
+      normative_status: preferred
+  _revisions:
+    current: 368ab1
+    tree:
+      368ab1:
+        object:
+          id: 242
+          definition: >-
+            viewpoint on an ODP system and its environment that focuses on the
+            semantics of information and information processing
+          language_code: eng
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO/IEC 10746-3:2009'
+            clause: 4.1.1.2
+            link: 'https://www.iso.org/standard/55724.html'
+          lineage_source: 'ISO 19119:2005'
+          lineage_source_similarity: 1
+          date_accepted: 2005-02-15T00:00:00.000Z
+          review_date: 2012-08-11T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2016-01-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19119:2016'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO/IEC 10746-3:1996 to ISO/IEC
+            10746-3:2009, 4.1.1.2. Lineage source added as ISO 19119:2005
+          release: '1'
+          terms:
+            - type: expression
+              designation: information viewpoint
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+ara:
+  id: 242
+  definition: >-
+    وجهة نظر في نظام معالجة البيانات المباشرة وبيئته تركز على دلالات معاني ألفاظ
+    المعلومات ومعالجتها
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO/IEC 10746-3:2009'
+    clause: 4.1.1.2
+    link: 'https://www.iso.org/standard/55724.html'
+  lineage_source: 'ISO 19119:2005'
+  lineage_source_similarity: 1
+  date_accepted: 2005-02-15T00:00:00.000Z
+  review_date: 2012-08-11T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2016-01-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19119:2016'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO/IEC 10746-3:1996 to ISO/IEC
+    10746-3:2009, 4.1.1.2. Lineage source added as ISO 19119:2005
+  release: '1'
+  terms:
+    - type: expression
+      designation: وجهة نظر معلوماتية
+      normative_status: preferred
+  _revisions:
+    current: 8df091
+    tree:
+      8df091:
+        object:
+          id: 242
+          definition: >-
+            وجهة نظر في نظام معالجة البيانات المباشرة وبيئته تركز على دلالات
+            معاني ألفاظ المعلومات ومعالجتها
+          language_code: ara
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO/IEC 10746-3:2009'
+            clause: 4.1.1.2
+            link: 'https://www.iso.org/standard/55724.html'
+          lineage_source: 'ISO 19119:2005'
+          lineage_source_similarity: 1
+          date_accepted: 2005-02-15T00:00:00.000Z
+          review_date: 2012-08-11T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2016-01-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19119:2016'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO/IEC 10746-3:1996 to ISO/IEC
+            10746-3:2009, 4.1.1.2. Lineage source added as ISO 19119:2005
+          release: '1'
+          terms:
+            - type: expression
+              designation: وجهة نظر معلوماتية
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+zho:
+  id: 242
+  definition: 有关ODP系统及其环境的视角，它关注的是信息的语义和信息处理。
+  language_code: zho
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO/IEC 10746-3:2009'
+    clause: 4.1.1.2
+    link: 'https://www.iso.org/standard/55724.html'
+  lineage_source: 'ISO 19119:2005'
+  lineage_source_similarity: 1
+  date_accepted: 2005-02-15T00:00:00.000Z
+  review_date: 2012-08-11T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2016-01-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19119:2016'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO/IEC 10746-3:1996 to ISO/IEC
+    10746-3:2009, 4.1.1.2. Lineage source added as ISO 19119:2005
+  release: '1'
+  terms:
+    - type: expression
+      designation: 信息视角
+      normative_status: preferred
+  _revisions:
+    current: a3115b
+    tree:
+      a3115b:
+        object:
+          id: 242
+          definition: 有关ODP系统及其环境的视角，它关注的是信息的语义和信息处理。
+          language_code: zho
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO/IEC 10746-3:2009'
+            clause: 4.1.1.2
+            link: 'https://www.iso.org/standard/55724.html'
+          lineage_source: 'ISO 19119:2005'
+          lineage_source_similarity: 1
+          date_accepted: 2005-02-15T00:00:00.000Z
+          review_date: 2012-08-11T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2016-01-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19119:2016'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO/IEC 10746-3:1996 to ISO/IEC
+            10746-3:2009, 4.1.1.2. Lineage source added as ISO 19119:2005
+          release: '1'
+          terms:
+            - type: expression
+              designation: 信息视角
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-02-15T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+dan:
+  id: 242
+  definition: >-
+    synsvinkel på et ODP-system og dets omgivelser, der fokuserer på
+    informationens og informationsbehandlingens semantik
+  language_code: dan
+  notes: []
+  examples: []
+  authoritative_source:
+    ref: 'ISO/IEC 10746-3:2009'
+    clause: 4.1.1.2
+    link: 'https://www.iso.org/standard/55724.html'
+  lineage_source: 'ISO 19119:2005'
+  lineage_source_similarity: 1
+  date_accepted: 2005-02-15T00:00:00.000Z
+  review_date: 2012-08-11T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2016-01-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19119:2016'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO/IEC 10746-3:1996 to ISO/IEC
+    10746-3:2009, 4.1.1.2. Lineage source added as ISO 19119:2005
+  release: '1'
+  terms:
+    - type: expression
+      designation: 'synsvinkel, information'
+      normative_status: null
+  _revisions:
+    current: 6b6a30
+    tree:
+      6b6a30:
+        object:
+          id: 242
+          definition: >-
+            synsvinkel på et ODP-system og dets omgivelser, der fokuserer på
+            informationens og informationsbehandlingens semantik
+          language_code: dan
+          notes: []
+          examples: []
+          authoritative_source:
+            ref: 'ISO/IEC 10746-3:2009'
+            clause: 4.1.1.2
+            link: 'https://www.iso.org/standard/55724.html'
+          lineage_source: 'ISO 19119:2005'
+          lineage_source_similarity: 1
+          date_accepted: 2005-02-15T00:00:00.000Z
+          review_date: 2012-08-11T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2016-01-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19119:2016'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO/IEC 10746-3:1996 to ISO/IEC
+            10746-3:2009, 4.1.1.2. Lineage source added as ISO 19119:2005
+          release: '1'
+          terms:
+            - type: expression
+              designation: 'synsvinkel, information'
+              normative_status: null
+        parents: []
+        timeCreated: 2005-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+fin:
+  id: 242
+  definition: >-
+    ODP (Open Distributed Processing, avoin hajautettu suoritus) -järjestelmään
+    ja sen ympäristöön kohdistuva näkökulma, joka keskittyy tarkastelemaan
+    tietojen semantiikkaa ja käsittelyä
+  language_code: fin
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO/IEC 10746-3:2009'
+    clause: 4.1.1.2
+    link: 'https://www.iso.org/standard/55724.html'
+  lineage_source: 'ISO 19119:2005'
+  lineage_source_similarity: 1
+  date_accepted: 2005-02-15T00:00:00.000Z
+  review_date: 2012-08-11T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2016-01-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19119:2016'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO/IEC 10746-3:1996 to ISO/IEC
+    10746-3:2009, 4.1.1.2. Lineage source added as ISO 19119:2005
+  release: '1'
+  terms:
+    - type: expression
+      designation: informaationäkökulma
+      normative_status: preferred
+  _revisions:
+    current: 3d1f50
+    tree:
+      3d1f50:
+        object:
+          id: 242
+          definition: >-
+            ODP (Open Distributed Processing, avoin hajautettu suoritus)
+            -järjestelmään ja sen ympäristöön kohdistuva näkökulma, joka
+            keskittyy tarkastelemaan tietojen semantiikkaa ja käsittelyä
+          language_code: fin
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO/IEC 10746-3:2009'
+            clause: 4.1.1.2
+            link: 'https://www.iso.org/standard/55724.html'
+          lineage_source: 'ISO 19119:2005'
+          lineage_source_similarity: 1
+          date_accepted: 2005-02-15T00:00:00.000Z
+          review_date: 2012-08-11T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2016-01-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19119:2016'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO/IEC 10746-3:1996 to ISO/IEC
+            10746-3:2009, 4.1.1.2. Lineage source added as ISO 19119:2005
+          release: '1'
+          terms:
+            - type: expression
+              designation: informaationäkökulma
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+fra:
+  id: 242
+  definition: >-
+    point de vue sur un système ODP (Open Distributed Processing) et son
+    environnement qui se concentre sur la sémantique de l'information et le
+    traitement de l'information
+  language_code: fra
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO/IEC 10746-3:2009'
+    clause: 4.1.1.2
+    link: 'https://www.iso.org/standard/55724.html'
+  lineage_source: 'ISO 19119:2005'
+  lineage_source_similarity: 1
+  date_accepted: 2005-02-15T00:00:00.000Z
+  review_date: 2012-08-11T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2016-01-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19119:2016'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO/IEC 10746-3:1996 to ISO/IEC
+    10746-3:2009, 4.1.1.2. Lineage source added as ISO 19119:2005
+  release: '1'
+  terms:
+    - type: expression
+      designation: point de vue information
+      normative_status: preferred
+  _revisions:
+    current: 55bdde
+    tree:
+      55bdde:
+        object:
+          id: 242
+          definition: >-
+            point de vue sur un système ODP (Open Distributed Processing) et son
+            environnement qui se concentre sur la sémantique de l'information et
+            le traitement de l'information
+          language_code: fra
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO/IEC 10746-3:2009'
+            clause: 4.1.1.2
+            link: 'https://www.iso.org/standard/55724.html'
+          lineage_source: 'ISO 19119:2005'
+          lineage_source_similarity: 1
+          date_accepted: 2005-02-15T00:00:00.000Z
+          review_date: 2012-08-11T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2016-01-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19119:2016'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO/IEC 10746-3:1996 to ISO/IEC
+            10746-3:2009, 4.1.1.2. Lineage source added as ISO 19119:2005
+          release: '1'
+          terms:
+            - type: expression
+              designation: point de vue information
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+deu:
+  id: 242
+  language_code: deu
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO/IEC 10746-3:2009'
+    clause: 4.1.1.2
+    link: 'https://www.iso.org/standard/55724.html'
+  lineage_source: 'ISO 19119:2005'
+  lineage_source_similarity: 1
+  date_accepted: 2005-02-15T00:00:00.000Z
+  review_date: 2012-08-11T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2016-01-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19119:2016'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO/IEC 10746-3:1996 to ISO/IEC
+    10746-3:2009, 4.1.1.2. Lineage source added as ISO 19119:2005
+  release: '1'
+  terms:
+    - type: expression
+      designation: Datensicht
+      normative_status: preferred
+  _revisions:
+    current: d3e69e
+    tree:
+      d3e69e:
+        object:
+          id: 242
+          language_code: deu
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO/IEC 10746-3:2009'
+            clause: 4.1.1.2
+            link: 'https://www.iso.org/standard/55724.html'
+          lineage_source: 'ISO 19119:2005'
+          lineage_source_similarity: 1
+          date_accepted: 2005-02-15T00:00:00.000Z
+          review_date: 2012-08-11T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2016-01-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19119:2016'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO/IEC 10746-3:1996 to ISO/IEC
+            10746-3:2009, 4.1.1.2. Lineage source added as ISO 19119:2005
+          release: '1'
+          terms:
+            - type: expression
+              designation: Datensicht
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-02-15T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+kor:
+  id: 242
+  definition: 정보와 정보 처리 과정의 의미론에 초점을 맞춘 개방형 분산 처리 시스템과 그 환경에 대한 관점
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO/IEC 10746-3:2009'
+    clause: 4.1.1.2
+    link: 'https://www.iso.org/standard/55724.html'
+  lineage_source: 'ISO 19119:2005'
+  lineage_source_similarity: 1
+  date_accepted: 2005-02-15T00:00:00.000Z
+  review_date: 2012-08-11T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2016-01-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19119:2016'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO/IEC 10746-3:1996 to ISO/IEC
+    10746-3:2009, 4.1.1.2. Lineage source added as ISO 19119:2005
+  release: '1'
+  terms:
+    - type: expression
+      designation: 정보 관점
+      normative_status: preferred
+  _revisions:
+    current: ba4468
+    tree:
+      ba4468:
+        object:
+          id: 242
+          definition: 정보와 정보 처리 과정의 의미론에 초점을 맞춘 개방형 분산 처리 시스템과 그 환경에 대한 관점
+          language_code: kor
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO/IEC 10746-3:2009'
+            clause: 4.1.1.2
+            link: 'https://www.iso.org/standard/55724.html'
+          lineage_source: 'ISO 19119:2005'
+          lineage_source_similarity: 1
+          date_accepted: 2005-02-15T00:00:00.000Z
+          review_date: 2012-08-11T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2016-01-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19119:2016'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO/IEC 10746-3:1996 to ISO/IEC
+            10746-3:2009, 4.1.1.2. Lineage source added as ISO 19119:2005
+          release: '1'
+          terms:
+            - type: expression
+              designation: 정보 관점
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+pol:
+  id: 242
+  definition: >-
+    punkt widzenia (4.7) na dany system ODP oraz jego otoczenie, który skupia
+    się na semantyce informacji i przetwarzaniu informacji
+  language_code: pol
+  notes: []
+  examples: []
+  authoritative_source:
+    ref: 'ISO/IEC 10746-3:2009'
+    clause: 4.1.1.2
+    link: 'https://www.iso.org/standard/55724.html'
+  lineage_source: 'ISO 19119:2005'
+  lineage_source_similarity: 1
+  date_accepted: 2005-02-15T00:00:00.000Z
+  review_date: 2012-08-11T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2016-01-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19119:2016'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO/IEC 10746-3:1996 to ISO/IEC
+    10746-3:2009, 4.1.1.2. Lineage source added as ISO 19119:2005
+  release: '1'
+  terms:
+    - type: expression
+      designation: informacyjny punkt widzenia
+      normative_status: preferred
+  _revisions:
+    current: 82f71e
+    tree:
+      82f71e:
+        object:
+          id: 242
+          definition: >-
+            punkt widzenia (4.7) na dany system ODP oraz jego otoczenie, który
+            skupia się na semantyce informacji i przetwarzaniu informacji
+          language_code: pol
+          notes: []
+          examples: []
+          authoritative_source:
+            ref: 'ISO/IEC 10746-3:2009'
+            clause: 4.1.1.2
+            link: 'https://www.iso.org/standard/55724.html'
+          lineage_source: 'ISO 19119:2005'
+          lineage_source_similarity: 1
+          date_accepted: 2005-02-15T00:00:00.000Z
+          review_date: 2012-08-11T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2016-01-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19119:2016'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO/IEC 10746-3:1996 to ISO/IEC
+            10746-3:2009, 4.1.1.2. Lineage source added as ISO 19119:2005
+          release: '1'
+          terms:
+            - type: expression
+              designation: informacyjny punkt widzenia
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 242
+  definition: >-
+    аспект ODP-системы и среды ее функционирования, выделяющий семантику и
+    обработку информации
+  language_code: rus
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO/IEC 10746-3:1996'
+    link: 'https://www.iso.org/standard/20697.html'
+  lineage_source: Internet
+  date_accepted: 2005-02-15T00:00:00.000Z
+  terms:
+    - type: expression
+      designation: информационный аспект
+      normative_status: preferred
+  _revisions:
+    current: 5ed009
+    tree:
+      5ed009:
+        object:
+          id: 242
+          definition: >-
+            аспект ODP-системы и среды ее функционирования, выделяющий семантику
+            и обработку информации
+          language_code: rus
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO/IEC 10746-3:1996'
+            link: 'https://www.iso.org/standard/20697.html'
+          lineage_source: Internet
+          date_accepted: 2005-02-15T00:00:00.000Z
+          terms:
+            - type: expression
+              designation: информационный аспект
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 242
+  definition: >-
+    punto de vista de un sistema ODP y su entorno que se centra en la semántica
+    de la información y el procesamiento de la información
+  language_code: spa
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO/IEC 10746-3:2009'
+    clause: 4.1.1.2
+    link: 'https://www.iso.org/standard/55724.html'
+  lineage_source: 'ISO 19119:2005'
+  lineage_source_similarity: 1
+  date_accepted: 2005-02-15T00:00:00.000Z
+  review_date: 2012-08-11T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2016-01-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19119:2016'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO/IEC 10746-3:1996 to ISO/IEC
+    10746-3:2009, 4.1.1.2. Lineage source added as ISO 19119:2005
+  release: '1'
+  terms:
+    - type: expression
+      designation: punto de vista de la información
+      normative_status: preferred
+  _revisions:
+    current: 9d028c
+    tree:
+      9d028c:
+        object:
+          id: 242
+          definition: >-
+            punto de vista de un sistema ODP y su entorno que se centra en la
+            semántica de la información y el procesamiento de la información
+          language_code: spa
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO/IEC 10746-3:2009'
+            clause: 4.1.1.2
+            link: 'https://www.iso.org/standard/55724.html'
+          lineage_source: 'ISO 19119:2005'
+          lineage_source_similarity: 1
+          date_accepted: 2005-02-15T00:00:00.000Z
+          review_date: 2012-08-11T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2016-01-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19119:2016'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO/IEC 10746-3:1996 to ISO/IEC
+            10746-3:2009, 4.1.1.2. Lineage source added as ISO 19119:2005
+          release: '1'
+          terms:
+            - type: expression
+              designation: punto de vista de la información
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+swe:
+  id: 242
+  definition: >-
+    perspektiv på ett system och dess omgivning som fokuserar på informationens
+    innebörd och bearbetning
+  country_code: swe
+  language_code: swe
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO/IEC 10746-3:2009'
+    clause: 4.1.1.2
+    link: 'https://www.iso.org/standard/55724.html'
+  lineage_source: 'ISO 19119:2005'
+  lineage_source_similarity: 1
+  date_accepted: 2005-02-15T00:00:00.000Z
+  review_date: 2012-08-11T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2016-01-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19119:2016'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO/IEC 10746-3:1996 to ISO/IEC
+    10746-3:2009, 4.1.1.2. Lineage source added as ISO 19119:2005
+  release: '1'
+  terms:
+    - type: expression
+      designation: informationsperspektiv
+      normative_status: preferred
+  _revisions:
+    current: 2f0d95
+    tree:
+      2f0d95:
+        object:
+          id: 242
+          definition: >-
+            perspektiv på ett system och dess omgivning som fokuserar på
+            informationens innebörd och bearbetning
+          country_code: swe
+          language_code: swe
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO/IEC 10746-3:2009'
+            clause: 4.1.1.2
+            link: 'https://www.iso.org/standard/55724.html'
+          lineage_source: 'ISO 19119:2005'
+          lineage_source_similarity: 1
+          date_accepted: 2005-02-15T00:00:00.000Z
+          review_date: 2012-08-11T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2016-01-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19119:2016'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO/IEC 10746-3:1996 to ISO/IEC
+            10746-3:2009, 4.1.1.2. Lineage source added as ISO 19119:2005
+          release: '1'
+          terms:
+            - type: expression
+              designation: informationsperspektiv
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

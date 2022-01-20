@@ -1,0 +1,532 @@
+term: grid coordinates
+termid: 222
+eng:
+  id: 222
+  definition: >-
+    sequence of two or more numbers specifying a position with respect to its
+    location on a grid
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19115-2:2019'
+    clause: '(E), 3.15'
+    link: 'https://www.iso.org/standard/67039.html'
+  lineage_source: 'ISO 19115-2:2009(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2009-02-15T00:00:00.000Z
+  review_date: 2019-01-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-01-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19115-2:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19115-2:2009 to ISO
+    19115-2:2019(E), 3.15. Lineage source added as ISO 19115-2:2009(E)
+  release: '2'
+  terms:
+    - type: expression
+      designation: grid coordinates
+      normative_status: preferred
+  _revisions:
+    current: 120f1f
+    tree:
+      120f1f:
+        object:
+          id: 222
+          definition: >-
+            sequence of two or more numbers specifying a position with respect
+            to its location on a grid
+          language_code: eng
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19115-2:2019'
+            clause: '(E), 3.15'
+            link: 'https://www.iso.org/standard/67039.html'
+          lineage_source: 'ISO 19115-2:2009(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2009-02-15T00:00:00.000Z
+          review_date: 2019-01-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-01-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19115-2:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19115-2:2009 to ISO
+            19115-2:2019(E), 3.15. Lineage source added as ISO 19115-2:2009(E)
+          release: '2'
+          terms:
+            - type: expression
+              designation: grid coordinates
+              normative_status: preferred
+        parents: []
+        timeCreated: 2009-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+ara:
+  id: 222
+  definition: تتابع رقمين أو أكثر لتحديد موقع بالنسبه لمكانه على الشبكة التسامتية
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19115-2:2019'
+    clause: '(E), 3.15'
+    link: 'https://www.iso.org/standard/67039.html'
+  lineage_source: 'ISO 19115-2:2009(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2009-02-15T00:00:00.000Z
+  review_date: 2019-01-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-01-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19115-2:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19115-2:2009 to ISO
+    19115-2:2019(E), 3.15. Lineage source added as ISO 19115-2:2009(E)
+  release: '2'
+  terms:
+    - type: expression
+      designation: إحداثيات شبكية
+      normative_status: preferred
+  _revisions:
+    current: 98b6b5
+    tree:
+      98b6b5:
+        object:
+          id: 222
+          definition: تتابع رقمين أو أكثر لتحديد موقع بالنسبه لمكانه على الشبكة التسامتية
+          language_code: ara
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19115-2:2019'
+            clause: '(E), 3.15'
+            link: 'https://www.iso.org/standard/67039.html'
+          lineage_source: 'ISO 19115-2:2009(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2009-02-15T00:00:00.000Z
+          review_date: 2019-01-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-01-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19115-2:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19115-2:2009 to ISO
+            19115-2:2019(E), 3.15. Lineage source added as ISO 19115-2:2009(E)
+          release: '2'
+          terms:
+            - type: expression
+              designation: إحداثيات شبكية
+              normative_status: preferred
+        parents: []
+        timeCreated: 2009-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+deu:
+  id: 222
+  definition: >-
+    Vektor von zwei oder mehr Zahlen, der eine Position innerhalb des Gitters
+    definiert
+  language_code: deu
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19115-2:2019'
+    clause: '(E), 3.15'
+    link: 'https://www.iso.org/standard/67039.html'
+  lineage_source: 'ISO 19115-2:2009(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2009-02-15T00:00:00.000Z
+  review_date: 2019-01-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-01-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19115-2:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19115-2:2009 to ISO
+    19115-2:2019(E), 3.15. Lineage source added as ISO 19115-2:2009(E)
+  release: '2'
+  terms:
+    - type: expression
+      designation: Gitterkoordinaten
+      normative_status: preferred
+  _revisions:
+    current: c06929
+    tree:
+      c06929:
+        object:
+          id: 222
+          definition: >-
+            Vektor von zwei oder mehr Zahlen, der eine Position innerhalb des
+            Gitters definiert
+          language_code: deu
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19115-2:2019'
+            clause: '(E), 3.15'
+            link: 'https://www.iso.org/standard/67039.html'
+          lineage_source: 'ISO 19115-2:2009(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2009-02-15T00:00:00.000Z
+          review_date: 2019-01-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-01-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19115-2:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19115-2:2009 to ISO
+            19115-2:2019(E), 3.15. Lineage source added as ISO 19115-2:2009(E)
+          release: '2'
+          terms:
+            - type: expression
+              designation: Gitterkoordinaten
+              normative_status: preferred
+        parents: []
+        timeCreated: 2009-02-15T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+kor:
+  id: 222
+  definition: 격자의 위치에 대한 위치를 지정하는 두 개 또는 그 이상의 연속된 숫자
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19115-2:2019'
+    clause: '(E), 3.15'
+    link: 'https://www.iso.org/standard/67039.html'
+  lineage_source: 'ISO 19115-2:2009(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2009-02-15T00:00:00.000Z
+  review_date: 2019-01-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-01-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19115-2:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19115-2:2009 to ISO
+    19115-2:2019(E), 3.15. Lineage source added as ISO 19115-2:2009(E)
+  release: '2'
+  terms:
+    - type: expression
+      designation: 격자 좌표
+      normative_status: preferred
+  _revisions:
+    current: 5027b4
+    tree:
+      5027b4:
+        object:
+          id: 222
+          definition: 격자의 위치에 대한 위치를 지정하는 두 개 또는 그 이상의 연속된 숫자
+          language_code: kor
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19115-2:2019'
+            clause: '(E), 3.15'
+            link: 'https://www.iso.org/standard/67039.html'
+          lineage_source: 'ISO 19115-2:2009(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2009-02-15T00:00:00.000Z
+          review_date: 2019-01-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-01-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19115-2:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19115-2:2009 to ISO
+            19115-2:2019(E), 3.15. Lineage source added as ISO 19115-2:2009(E)
+          release: '2'
+          terms:
+            - type: expression
+              designation: 격자 좌표
+              normative_status: preferred
+        parents: []
+        timeCreated: 2009-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+msa:
+  id: 222
+  definition: >-
+    urutan dua atau lebih nombor yang menentukan kedudukan berkenaan dengan
+    lokasinya pada grid
+  language_code: msa
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19115-2:2019'
+    clause: '(E), 3.15'
+    link: 'https://www.iso.org/standard/67039.html'
+  lineage_source: 'ISO 19115-2:2009(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2009-02-15T00:00:00.000Z
+  review_date: 2019-01-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-01-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19115-2:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19115-2:2009 to ISO
+    19115-2:2019(E), 3.15. Lineage source added as ISO 19115-2:2009(E)
+  release: '2'
+  terms:
+    - type: expression
+      designation: koordinat grid
+      normative_status: preferred
+  _revisions:
+    current: '81e288'
+    tree:
+      '81e288':
+        object:
+          id: 222
+          definition: >-
+            urutan dua atau lebih nombor yang menentukan kedudukan berkenaan
+            dengan lokasinya pada grid
+          language_code: msa
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19115-2:2019'
+            clause: '(E), 3.15'
+            link: 'https://www.iso.org/standard/67039.html'
+          lineage_source: 'ISO 19115-2:2009(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2009-02-15T00:00:00.000Z
+          review_date: 2019-01-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-01-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19115-2:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19115-2:2009 to ISO
+            19115-2:2019(E), 3.15. Lineage source added as ISO 19115-2:2009(E)
+          release: '2'
+          terms:
+            - type: expression
+              designation: koordinat grid
+              normative_status: preferred
+        parents: []
+        timeCreated: 2009-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 222
+  definition: >-
+    последовательность двух или больше чисел, определяющих некую позицию
+    относительно ее местоположения на сетке
+  language_code: rus
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19115-2:2019'
+    clause: '(E), 3.15'
+    link: 'https://www.iso.org/standard/67039.html'
+  lineage_source: 'ISO 19115-2:2009(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2009-02-15T00:00:00.000Z
+  review_date: 2019-01-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-01-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19115-2:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19115-2:2009 to ISO
+    19115-2:2019(E), 3.15. Lineage source added as ISO 19115-2:2009(E)
+  release: '2'
+  terms:
+    - type: expression
+      designation: координаты сетки
+      normative_status: preferred
+  _revisions:
+    current: 27f815
+    tree:
+      27f815:
+        object:
+          id: 222
+          definition: >-
+            последовательность двух или больше чисел, определяющих некую позицию
+            относительно ее местоположения на сетке
+          language_code: rus
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19115-2:2019'
+            clause: '(E), 3.15'
+            link: 'https://www.iso.org/standard/67039.html'
+          lineage_source: 'ISO 19115-2:2009(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2009-02-15T00:00:00.000Z
+          review_date: 2019-01-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-01-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19115-2:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19115-2:2009 to ISO
+            19115-2:2019(E), 3.15. Lineage source added as ISO 19115-2:2009(E)
+          release: '2'
+          terms:
+            - type: expression
+              designation: координаты сетки
+              normative_status: preferred
+        parents: []
+        timeCreated: 2009-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 222
+  definition: >-
+    secuencia de dos o más números que especifican una posición con respecto a
+    su ubicación en una malla
+  language_code: spa
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19115-2:2019'
+    clause: '(E), 3.15'
+    link: 'https://www.iso.org/standard/67039.html'
+  lineage_source: 'ISO 19115-2:2009(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2009-02-15T00:00:00.000Z
+  review_date: 2019-01-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-01-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19115-2:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19115-2:2009 to ISO
+    19115-2:2019(E), 3.15. Lineage source added as ISO 19115-2:2009(E)
+  release: '2'
+  terms:
+    - type: expression
+      designation: coordenadas malla
+      normative_status: preferred
+  _revisions:
+    current: 9fd4e3
+    tree:
+      9fd4e3:
+        object:
+          id: 222
+          definition: >-
+            secuencia de dos o más números que especifican una posición con
+            respecto a su ubicación en una malla
+          language_code: spa
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19115-2:2019'
+            clause: '(E), 3.15'
+            link: 'https://www.iso.org/standard/67039.html'
+          lineage_source: 'ISO 19115-2:2009(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2009-02-15T00:00:00.000Z
+          review_date: 2019-01-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-01-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19115-2:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19115-2:2009 to ISO
+            19115-2:2019(E), 3.15. Lineage source added as ISO 19115-2:2009(E)
+          release: '2'
+          terms:
+            - type: expression
+              designation: coordenadas malla
+              normative_status: preferred
+        parents: []
+        timeCreated: 2009-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+swe:
+  id: 222
+  definition: >-
+    sekvens av två eller flera tal för att ange en position utifrån dess läge i
+    ett rutnät
+  country_code: swe
+  language_code: swe
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19115-2:2019'
+    clause: '(E), 3.15'
+    link: 'https://www.iso.org/standard/67039.html'
+  lineage_source: 'ISO 19115-2:2009(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2009-02-15T00:00:00.000Z
+  review_date: 2019-01-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-01-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19115-2:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19115-2:2009 to ISO
+    19115-2:2019(E), 3.15. Lineage source added as ISO 19115-2:2009(E)
+  release: '2'
+  terms:
+    - type: expression
+      designation: rutnätskoordinater
+      normative_status: preferred
+  _revisions:
+    current: ec590c
+    tree:
+      ec590c:
+        object:
+          id: 222
+          definition: >-
+            sekvens av två eller flera tal för att ange en position utifrån dess
+            läge i ett rutnät
+          country_code: swe
+          language_code: swe
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19115-2:2019'
+            clause: '(E), 3.15'
+            link: 'https://www.iso.org/standard/67039.html'
+          lineage_source: 'ISO 19115-2:2009(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2009-02-15T00:00:00.000Z
+          review_date: 2019-01-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-01-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19115-2:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19115-2:2009 to ISO
+            19115-2:2019(E), 3.15. Lineage source added as ISO 19115-2:2009(E)
+          release: '2'
+          terms:
+            - type: expression
+              designation: rutnätskoordinater
+              normative_status: preferred
+        parents: []
+        timeCreated: 2009-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

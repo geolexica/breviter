@@ -1,0 +1,229 @@
+term: protection
+termid: 1246
+eng:
+  id: 1246
+  definition: >-
+    aspect of the system that lowers the capability of a party to commit
+    infringement
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19153:2014'
+    clause: '4.38'
+    link: 'https://www.iso.org/standard/32571.html'
+  date_accepted: 2014-02-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: protection
+      normative_status: preferred
+  _revisions:
+    current: '316e44'
+    tree:
+      '316e44':
+        object:
+          id: 1246
+          definition: >-
+            aspect of the system that lowers the capability of a party to commit
+            infringement
+          language_code: eng
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19153:2014'
+            clause: '4.38'
+            link: 'https://www.iso.org/standard/32571.html'
+          date_accepted: 2014-02-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: protection
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+kor:
+  id: 1246
+  definition: 관계자가 권리를 침해할 수 있는 능력을 제한하는 시스템적 측면
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19153:2014'
+    clause: '4.38'
+    link: 'https://www.iso.org/standard/32571.html'
+  date_accepted: 2014-02-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: 보호
+      normative_status: preferred
+  _revisions:
+    current: c8aa64
+    tree:
+      c8aa64:
+        object:
+          id: 1246
+          definition: 관계자가 권리를 침해할 수 있는 능력을 제한하는 시스템적 측면
+          language_code: kor
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19153:2014'
+            clause: '4.38'
+            link: 'https://www.iso.org/standard/32571.html'
+          date_accepted: 2014-02-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: 보호
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+msa:
+  id: 1246
+  language_code: msa
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19153:2014'
+    clause: '4.38'
+    link: 'https://www.iso.org/standard/32571.html'
+  lineage_source: Pusat Rujukan Persuratan Melayu (DBP)
+  date_accepted: 2014-02-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: perlindungan
+      normative_status: preferred
+  _revisions:
+    current: dbaa27
+    tree:
+      dbaa27:
+        object:
+          id: 1246
+          language_code: msa
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19153:2014'
+            clause: '4.38'
+            link: 'https://www.iso.org/standard/32571.html'
+          lineage_source: Pusat Rujukan Persuratan Melayu (DBP)
+          date_accepted: 2014-02-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: perlindungan
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 1246
+  definition: 'аспект системы, который снижает способность кого - либо совершить нарушение'
+  language_code: rus
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19153:2014'
+    clause: '4.38'
+    link: 'https://www.iso.org/standard/32571.html'
+  lineage_source: 'перевод ИСО 19153:2014'
+  date_accepted: 2014-02-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: защита
+      normative_status: preferred
+  _revisions:
+    current: 4224ac
+    tree:
+      4224ac:
+        object:
+          id: 1246
+          definition: >-
+            аспект системы, который снижает способность кого - либо совершить
+            нарушение
+          language_code: rus
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19153:2014'
+            clause: '4.38'
+            link: 'https://www.iso.org/standard/32571.html'
+          lineage_source: 'перевод ИСО 19153:2014'
+          date_accepted: 2014-02-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: защита
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 1246
+  definition: >-
+    aspecto de un sistema que disminuye la posibilidades de que una parte cometa
+    una vulneración
+  language_code: spa
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19153:2014'
+    clause: '4.38'
+    link: 'https://www.iso.org/standard/32571.html'
+  date_accepted: 2014-02-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: protección
+      normative_status: preferred
+  _revisions:
+    current: 677b38
+    tree:
+      677b38:
+        object:
+          id: 1246
+          definition: >-
+            aspecto de un sistema que disminuye la posibilidades de que una
+            parte cometa una vulneración
+          language_code: spa
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19153:2014'
+            clause: '4.38'
+            link: 'https://www.iso.org/standard/32571.html'
+          date_accepted: 2014-02-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: protección
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

@@ -1,0 +1,954 @@
+term: geometric object
+termid: 214
+eng:
+  id: 214
+  definition: spatial object representing a geometric set
+  language_code: eng
+  notes:
+    - >-
+      A geometric object consists of a geometric primitive, a collection of
+      geometric primitives, or a geometric complex treated as a single entity. A
+      geometric object may be the spatial representation of an object such as a
+      feature or a significant part of a feature.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19107:2019'
+    clause: '(E), 3.49'
+    link: 'https://www.iso.org/standard/66175.html'
+  lineage_source: 'ISO 19107:2003(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19107:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19107:2003 to ISO 19107:2019(E),
+    3.49. Lineage source added as ISO 19107:2003(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: geometric object
+      normative_status: preferred
+  _revisions:
+    current: 8ba8fb
+    tree:
+      8ba8fb:
+        object:
+          id: 214
+          definition: spatial object representing a geometric set
+          language_code: eng
+          notes:
+            - >-
+              A geometric object consists of a geometric primitive, a collection
+              of geometric primitives, or a geometric complex treated as a
+              single entity. A geometric object may be the spatial
+              representation of an object such as a feature or a significant
+              part of a feature.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19107:2019'
+            clause: '(E), 3.49'
+            link: 'https://www.iso.org/standard/66175.html'
+          lineage_source: 'ISO 19107:2003(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19107:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19107:2003 to ISO
+            19107:2019(E), 3.49. Lineage source added as ISO 19107:2003(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: geometric object
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+ara:
+  id: 214
+  definition: كائن مكاني يمثل مجموعة هندسية
+  language_code: ara
+  notes:
+    - >-
+      الكيان الهندسي يتألف من عنصر هندسي بسيط , أو مجموعة عناصر هندسية بسيطة, أو
+      مركَّب هندسي يعامل كأنه كيان مفرد. الكيان الهندسي قد يكون تمثيلاً مكانياً
+      لكيان مثل معلم أو جزء كبير من معلم.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19107:2019'
+    clause: '(E), 3.49'
+    link: 'https://www.iso.org/standard/66175.html'
+  lineage_source: 'ISO 19107:2003(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19107:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19107:2003 to ISO 19107:2019(E),
+    3.49. Lineage source added as ISO 19107:2003(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: كائن هندسي
+      normative_status: preferred
+  _revisions:
+    current: 5b0462
+    tree:
+      5b0462:
+        object:
+          id: 214
+          definition: كائن مكاني يمثل مجموعة هندسية
+          language_code: ara
+          notes:
+            - >-
+              الكيان الهندسي يتألف من عنصر هندسي بسيط , أو مجموعة عناصر هندسية
+              بسيطة, أو مركَّب هندسي يعامل كأنه كيان مفرد. الكيان الهندسي قد
+              يكون تمثيلاً مكانياً لكيان مثل معلم أو جزء كبير من معلم.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19107:2019'
+            clause: '(E), 3.49'
+            link: 'https://www.iso.org/standard/66175.html'
+          lineage_source: 'ISO 19107:2003(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19107:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19107:2003 to ISO
+            19107:2019(E), 3.49. Lineage source added as ISO 19107:2003(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: كائن هندسي
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+zho:
+  id: 214
+  definition: 表达一个几何集的空间对象。
+  language_code: zho
+  notes:
+    - 几何对象由几何单形、几何单形的组合或处理为一个单独实体的几何复形构成。几何对象可以是作为要素或要素的一个有意义部分的对象的空间表达。
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19107:2019'
+    clause: '(E), 3.49'
+    link: 'https://www.iso.org/standard/66175.html'
+  lineage_source: 'ISO 19107:2003(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19107:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19107:2003 to ISO 19107:2019(E),
+    3.49. Lineage source added as ISO 19107:2003(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: 几何对象
+      normative_status: preferred
+  _revisions:
+    current: f008c7
+    tree:
+      f008c7:
+        object:
+          id: 214
+          definition: 表达一个几何集的空间对象。
+          language_code: zho
+          notes:
+            - 几何对象由几何单形、几何单形的组合或处理为一个单独实体的几何复形构成。几何对象可以是作为要素或要素的一个有意义部分的对象的空间表达。
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19107:2019'
+            clause: '(E), 3.49'
+            link: 'https://www.iso.org/standard/66175.html'
+          lineage_source: 'ISO 19107:2003(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19107:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19107:2003 to ISO
+            19107:2019(E), 3.49. Lineage source added as ISO 19107:2003(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: 几何对象
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+dan:
+  id: 214
+  definition: 'rumligt objekt, der repræsenterer en geometrisk mængde'
+  language_code: dan
+  notes:
+    - >-
+      Et geometrisk objekt består af en geometrisk grundform, en aggregering af
+      geometriske grundformer eller en kompleks geometri, der behandles som en
+      enkelt entitet. Et geometrisk objekt kan være den rumlige repræsentation
+      af et objekt såsom en feature, eller en væsentlig del af en feature.
+  examples: []
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19107:2019'
+    clause: '(E), 3.49'
+    link: 'https://www.iso.org/standard/66175.html'
+  lineage_source: 'ISO 19107:2003(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19107:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19107:2003 to ISO 19107:2019(E),
+    3.49. Lineage source added as ISO 19107:2003(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: geometrisk objekt
+      normative_status: null
+  _revisions:
+    current: 71d415
+    tree:
+      71d415:
+        object:
+          id: 214
+          definition: 'rumligt objekt, der repræsenterer en geometrisk mængde'
+          language_code: dan
+          notes:
+            - >-
+              Et geometrisk objekt består af en geometrisk grundform, en
+              aggregering af geometriske grundformer eller en kompleks geometri,
+              der behandles som en enkelt entitet. Et geometrisk objekt kan være
+              den rumlige repræsentation af et objekt såsom en feature, eller en
+              væsentlig del af en feature.
+          examples: []
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19107:2019'
+            clause: '(E), 3.49'
+            link: 'https://www.iso.org/standard/66175.html'
+          lineage_source: 'ISO 19107:2003(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19107:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19107:2003 to ISO
+            19107:2019(E), 3.49. Lineage source added as ISO 19107:2003(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: geometrisk objekt
+              normative_status: null
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+fin:
+  id: 214
+  definition: 'sijaintiobjekti, joka kuvaa kohteen geometriaa'
+  language_code: fin
+  notes:
+    - >-
+      Geometrinen objekti koostuu geometrisestä primitiivistä, kokoelmasta
+      geometrisiä primitiivejä tai yhdeksi kokonaisuudeksi käsitetystä
+      geometrisestä kompleksista. Geometrinen objekti voi olla objektin, kuten
+      kohteen tai sen osan, sijainnillinen esitys.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19107:2019'
+    clause: '(E), 3.49'
+    link: 'https://www.iso.org/standard/66175.html'
+  lineage_source: 'ISO 19107:2003(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19107:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19107:2003 to ISO 19107:2019(E),
+    3.49. Lineage source added as ISO 19107:2003(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: geometrinen objekti
+      normative_status: preferred
+    - designation: geometriaobjekti
+      type: expression
+  _revisions:
+    current: 27e4ff
+    tree:
+      27e4ff:
+        object:
+          id: 214
+          definition: 'sijaintiobjekti, joka kuvaa kohteen geometriaa'
+          language_code: fin
+          notes:
+            - >-
+              Geometrinen objekti koostuu geometrisestä primitiivistä,
+              kokoelmasta geometrisiä primitiivejä tai yhdeksi kokonaisuudeksi
+              käsitetystä geometrisestä kompleksista. Geometrinen objekti voi
+              olla objektin, kuten kohteen tai sen osan, sijainnillinen esitys.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19107:2019'
+            clause: '(E), 3.49'
+            link: 'https://www.iso.org/standard/66175.html'
+          lineage_source: 'ISO 19107:2003(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19107:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19107:2003 to ISO
+            19107:2019(E), 3.49. Lineage source added as ISO 19107:2003(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: geometrinen objekti
+              normative_status: preferred
+            - designation: geometriaobjekti
+              type: expression
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+fra:
+  id: 214
+  definition: objet spatial représentant un ensemble géométrique
+  language_code: fra
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19107:2019'
+    clause: '(E), 3.49'
+    link: 'https://www.iso.org/standard/66175.html'
+  lineage_source: 'ISO 19107:2003(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19107:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19107:2003 to ISO 19107:2019(E),
+    3.49. Lineage source added as ISO 19107:2003(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: objet géométrique
+      normative_status: preferred
+  _revisions:
+    current: 777cc5
+    tree:
+      777cc5:
+        object:
+          id: 214
+          definition: objet spatial représentant un ensemble géométrique
+          language_code: fra
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19107:2019'
+            clause: '(E), 3.49'
+            link: 'https://www.iso.org/standard/66175.html'
+          lineage_source: 'ISO 19107:2003(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19107:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19107:2003 to ISO
+            19107:2019(E), 3.49. Lineage source added as ISO 19107:2003(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: objet géométrique
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+deu:
+  id: 214
+  definition: 'Geoobjekt, das eine geometrische Menge darstellt'
+  language_code: deu
+  notes:
+    - >-
+      A geometric object consists of a geometric primitive, a collection of
+      geometric primitives, or a geometric complex treated as a single entity. A
+      geometric object may be the spatial representation of an object such as a
+      feature or a significant part of a feature.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19107:2019'
+    clause: '(E), 3.49'
+    link: 'https://www.iso.org/standard/66175.html'
+  lineage_source: 'ISO 19107:2003(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19107:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19107:2003 to ISO 19107:2019(E),
+    3.49. Lineage source added as ISO 19107:2003(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: Geometrieobjekt
+      normative_status: preferred
+  _revisions:
+    current: '3861e8'
+    tree:
+      '3861e8':
+        object:
+          id: 214
+          definition: 'Geoobjekt, das eine geometrische Menge darstellt'
+          language_code: deu
+          notes:
+            - >-
+              A geometric object consists of a geometric primitive, a collection
+              of geometric primitives, or a geometric complex treated as a
+              single entity. A geometric object may be the spatial
+              representation of an object such as a feature or a significant
+              part of a feature.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19107:2019'
+            clause: '(E), 3.49'
+            link: 'https://www.iso.org/standard/66175.html'
+          lineage_source: 'ISO 19107:2003(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19107:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19107:2003 to ISO
+            19107:2019(E), 3.49. Lineage source added as ISO 19107:2003(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: Geometrieobjekt
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+jpn:
+  id: 214
+  definition: 幾何集合を表す空間オブジェクト。
+  language_code: jpn
+  notes:
+    - >-
+      幾何オブジェクトは，幾何プリミティブ，幾何プリミティブの集まり又は単一の実体として扱われる幾何複体からなる。幾何オブジェクトは，地物又は地物の重要な部分の空間表現に用いてよい。
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19107:2019'
+    clause: '(E), 3.49'
+    link: 'https://www.iso.org/standard/66175.html'
+  lineage_source: 'ISO 19107:2003(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19107:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19107:2003 to ISO 19107:2019(E),
+    3.49. Lineage source added as ISO 19107:2003(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: 幾何オブジェクト
+      normative_status: preferred
+  _revisions:
+    current: bcb010
+    tree:
+      bcb010:
+        object:
+          id: 214
+          definition: 幾何集合を表す空間オブジェクト。
+          language_code: jpn
+          notes:
+            - >-
+              幾何オブジェクトは，幾何プリミティブ，幾何プリミティブの集まり又は単一の実体として扱われる幾何複体からなる。幾何オブジェクトは，地物又は地物の重要な部分の空間表現に用いてよい。
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19107:2019'
+            clause: '(E), 3.49'
+            link: 'https://www.iso.org/standard/66175.html'
+          lineage_source: 'ISO 19107:2003(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19107:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19107:2003 to ISO
+            19107:2019(E), 3.49. Lineage source added as ISO 19107:2003(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: 幾何オブジェクト
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+kor:
+  id: 214
+  definition: 기하 집합을 표현하는 공간 객체
+  language_code: kor
+  notes:
+    - >-
+      기하 객체는 하나의 개체로 취급되는 기하 원시 객체, 기하 원시 객체 집합, 기하 복합체로 구성된다. 기하 객체는 피처 또는 피처의
+      중요한 부분과 같은 객체의 공간적 표현이라 할 수 있다.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19107:2019'
+    clause: '(E), 3.49'
+    link: 'https://www.iso.org/standard/66175.html'
+  lineage_source: 'ISO 19107:2003(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19107:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19107:2003 to ISO 19107:2019(E),
+    3.49. Lineage source added as ISO 19107:2003(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: 기하 객체
+      normative_status: preferred
+  _revisions:
+    current: 5ba25f
+    tree:
+      5ba25f:
+        object:
+          id: 214
+          definition: 기하 집합을 표현하는 공간 객체
+          language_code: kor
+          notes:
+            - >-
+              기하 객체는 하나의 개체로 취급되는 기하 원시 객체, 기하 원시 객체 집합, 기하 복합체로 구성된다. 기하 객체는 피처
+              또는 피처의 중요한 부분과 같은 객체의 공간적 표현이라 할 수 있다.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19107:2019'
+            clause: '(E), 3.49'
+            link: 'https://www.iso.org/standard/66175.html'
+          lineage_source: 'ISO 19107:2003(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19107:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19107:2003 to ISO
+            19107:2019(E), 3.49. Lineage source added as ISO 19107:2003(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: 기하 객체
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+pol:
+  id: 214
+  definition: obiekt przestrzenny reprezentujący zbiór geometryczny
+  language_code: pol
+  notes:
+    - >-
+      Obiekt geometryczny  to prosty element geometryczny, kolekcja prostych
+      elementów geometrycznych
+       lub złożony element geometryczny, traktowany jako pojedynczy byt. Obiekt geometryczny może być przestrzenną reprezentacją obiektu lub jego istotnej części.
+  examples: []
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19107:2019'
+    clause: '(E), 3.49'
+    link: 'https://www.iso.org/standard/66175.html'
+  lineage_source: 'ISO 19107:2003(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19107:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19107:2003 to ISO 19107:2019(E),
+    3.49. Lineage source added as ISO 19107:2003(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: obiekt geometryczny
+      normative_status: preferred
+  _revisions:
+    current: 20d4b7
+    tree:
+      20d4b7:
+        object:
+          id: 214
+          definition: obiekt przestrzenny reprezentujący zbiór geometryczny
+          language_code: pol
+          notes:
+            - >-
+              Obiekt geometryczny  to prosty element geometryczny, kolekcja
+              prostych elementów geometrycznych
+               lub złożony element geometryczny, traktowany jako pojedynczy byt. Obiekt geometryczny może być przestrzenną reprezentacją obiektu lub jego istotnej części.
+          examples: []
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19107:2019'
+            clause: '(E), 3.49'
+            link: 'https://www.iso.org/standard/66175.html'
+          lineage_source: 'ISO 19107:2003(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19107:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19107:2003 to ISO
+            19107:2019(E), 3.49. Lineage source added as ISO 19107:2003(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: obiekt geometryczny
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 214
+  definition: 'объект в пространстве, представляющий геометрическое множество'
+  language_code: rus
+  notes:
+    - >-
+      Геометрический объект состоит из геометрического примитива, совокупности
+      геометрических примитивов или геометрического комплекса, трактуемого как
+      отдельная сущность. Геометрический объект может быть пространственным
+      представлением какого-нибудь объекта, либо его некоторой значимой части
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19107:2019'
+    clause: '(E), 3.49'
+    link: 'https://www.iso.org/standard/66175.html'
+  lineage_source: 'ISO 19107:2003(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19107:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19107:2003 to ISO 19107:2019(E),
+    3.49. Lineage source added as ISO 19107:2003(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: геометрический объект
+      normative_status: preferred
+  _revisions:
+    current: da0614
+    tree:
+      da0614:
+        object:
+          id: 214
+          definition: 'объект в пространстве, представляющий геометрическое множество'
+          language_code: rus
+          notes:
+            - >-
+              Геометрический объект состоит из геометрического примитива,
+              совокупности геометрических примитивов или геометрического
+              комплекса, трактуемого как отдельная сущность. Геометрический
+              объект может быть пространственным представлением какого-нибудь
+              объекта, либо его некоторой значимой части
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19107:2019'
+            clause: '(E), 3.49'
+            link: 'https://www.iso.org/standard/66175.html'
+          lineage_source: 'ISO 19107:2003(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19107:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19107:2003 to ISO
+            19107:2019(E), 3.49. Lineage source added as ISO 19107:2003(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: геометрический объект
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 214
+  definition: objeto espacial que representa a un conjunto geométrico
+  language_code: spa
+  notes:
+    - >-
+      Un objeto geométrico consta de una primitiva geométrica, de una colección
+      de primitivas geométricas o de un complejo geométrico que es tratado como
+      una única entidad. Un objeto geométrico puede ser una representación
+      espacial de un objeto tal como un objeto geográfico o una parte
+      significativa de él.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19107:2019'
+    clause: '(E), 3.49'
+    link: 'https://www.iso.org/standard/66175.html'
+  lineage_source: 'ISO 19107:2003(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19107:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19107:2003 to ISO 19107:2019(E),
+    3.49. Lineage source added as ISO 19107:2003(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: objeto geométrico
+      normative_status: preferred
+  _revisions:
+    current: 51c0df
+    tree:
+      51c0df:
+        object:
+          id: 214
+          definition: objeto espacial que representa a un conjunto geométrico
+          language_code: spa
+          notes:
+            - >-
+              Un objeto geométrico consta de una primitiva geométrica, de una
+              colección de primitivas geométricas o de un complejo geométrico
+              que es tratado como una única entidad. Un objeto geométrico puede
+              ser una representación espacial de un objeto tal como un objeto
+              geográfico o una parte significativa de él.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19107:2019'
+            clause: '(E), 3.49'
+            link: 'https://www.iso.org/standard/66175.html'
+          lineage_source: 'ISO 19107:2003(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19107:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19107:2003 to ISO
+            19107:2019(E), 3.49. Lineage source added as ISO 19107:2003(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: objeto geométrico
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+swe:
+  id: 214
+  definition: objekt (i UML) för representation av geometrisk egenskap
+  country_code: swe
+  language_code: swe
+  notes:
+    - >-
+      A geometric object consists of a geometric primitive, a collection of
+      geometric primitives, or a geometric complex treated as a single entity. A
+      geometric object may be the spatial representation of an object such as a
+      feature or a significant part of a feature.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19107:2019'
+    clause: '(E), 3.49'
+    link: 'https://www.iso.org/standard/66175.html'
+  lineage_source: 'ISO 19107:2003(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19107:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19107:2003 to ISO 19107:2019(E),
+    3.49. Lineage source added as ISO 19107:2003(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: geometriskt objekt
+      normative_status: preferred
+  _revisions:
+    current: '329445'
+    tree:
+      '329445':
+        object:
+          id: 214
+          definition: objekt (i UML) för representation av geometrisk egenskap
+          country_code: swe
+          language_code: swe
+          notes:
+            - >-
+              A geometric object consists of a geometric primitive, a collection
+              of geometric primitives, or a geometric complex treated as a
+              single entity. A geometric object may be the spatial
+              representation of an object such as a feature or a significant
+              part of a feature.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19107:2019'
+            clause: '(E), 3.49'
+            link: 'https://www.iso.org/standard/66175.html'
+          lineage_source: 'ISO 19107:2003(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19107:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19107:2003 to ISO
+            19107:2019(E), 3.49. Lineage source added as ISO 19107:2003(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: geometriskt objekt
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

@@ -1,0 +1,703 @@
+term: subregister
+termid: 436
+eng:
+  id: 436
+  definition: >-
+    part of a hierarchical register that contains items from a partition of a
+    domain of information
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19135-1:2015'
+    clause: 4.1.16
+    link: 'https://www.iso.org/standard/54721.html'
+  lineage_source: 'ISO 19135:2005'
+  date_accepted: 2005-10-15T00:00:00.000Z
+  review_date: 2010-10-19T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2015-10-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19135-1:2015'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19135:2005 to ISO 19135-1:2015,
+    4.1.16. Lineage source added as ISO 19135:2005
+  release: '1'
+  terms:
+    - type: expression
+      designation: subregister
+      normative_status: preferred
+  _revisions:
+    current: 3d34e9
+    tree:
+      3d34e9:
+        object:
+          id: 436
+          definition: >-
+            part of a hierarchical register that contains items from a partition
+            of a domain of information
+          language_code: eng
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19135-1:2015'
+            clause: 4.1.16
+            link: 'https://www.iso.org/standard/54721.html'
+          lineage_source: 'ISO 19135:2005'
+          date_accepted: 2005-10-15T00:00:00.000Z
+          review_date: 2010-10-19T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2015-10-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19135-1:2015'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19135:2005 to ISO
+            19135-1:2015, 4.1.16. Lineage source added as ISO 19135:2005
+          release: '1'
+          terms:
+            - type: expression
+              designation: subregister
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-10-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+ara:
+  id: 436
+  definition: جزء من سجل هرمي يحتوي على بنود من جزء مقتطع من مجال معلومات
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19135-1:2015'
+    clause: 4.1.16
+    link: 'https://www.iso.org/standard/54721.html'
+  lineage_source: 'ISO 19135:2005'
+  date_accepted: 2005-10-15T00:00:00.000Z
+  review_date: 2010-10-19T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2015-10-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19135-1:2015'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19135:2005 to ISO 19135-1:2015,
+    4.1.16. Lineage source added as ISO 19135:2005
+  release: '1'
+  terms:
+    - type: expression
+      designation: سجل فرعي
+      normative_status: preferred
+  _revisions:
+    current: 9a5072
+    tree:
+      9a5072:
+        object:
+          id: 436
+          definition: جزء من سجل هرمي يحتوي على بنود من جزء مقتطع من مجال معلومات
+          language_code: ara
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19135-1:2015'
+            clause: 4.1.16
+            link: 'https://www.iso.org/standard/54721.html'
+          lineage_source: 'ISO 19135:2005'
+          date_accepted: 2005-10-15T00:00:00.000Z
+          review_date: 2010-10-19T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2015-10-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19135-1:2015'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19135:2005 to ISO
+            19135-1:2015, 4.1.16. Lineage source added as ISO 19135:2005
+          release: '1'
+          terms:
+            - type: expression
+              designation: سجل فرعي
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-10-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+zho:
+  id: 436
+  definition: 分级注册表的一部分，包含某一部分信息域的注册项。
+  language_code: zho
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19135-1:2015'
+    clause: 4.1.16
+    link: 'https://www.iso.org/standard/54721.html'
+  lineage_source: 'ISO 19135:2005'
+  date_accepted: 2005-10-15T00:00:00.000Z
+  review_date: 2010-10-19T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2015-10-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19135-1:2015'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19135:2005 to ISO 19135-1:2015,
+    4.1.16. Lineage source added as ISO 19135:2005
+  release: '1'
+  terms:
+    - type: expression
+      designation: 子注册表
+      normative_status: preferred
+  _revisions:
+    current: 23f019
+    tree:
+      23f019:
+        object:
+          id: 436
+          definition: 分级注册表的一部分，包含某一部分信息域的注册项。
+          language_code: zho
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19135-1:2015'
+            clause: 4.1.16
+            link: 'https://www.iso.org/standard/54721.html'
+          lineage_source: 'ISO 19135:2005'
+          date_accepted: 2005-10-15T00:00:00.000Z
+          review_date: 2010-10-19T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2015-10-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19135-1:2015'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19135:2005 to ISO
+            19135-1:2015, 4.1.16. Lineage source added as ISO 19135:2005
+          release: '1'
+          terms:
+            - type: expression
+              designation: 子注册表
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-10-15T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+fin:
+  id: 436
+  definition: >-
+    hierarkkisen rekisterin osa, joka sisältää aihepiirin johonkin osa-alueeseen
+    kuuluvat rekisterielementit
+  language_code: fin
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19135-1:2015'
+    clause: 4.1.16
+    link: 'https://www.iso.org/standard/54721.html'
+  lineage_source: 'ISO 19135:2005'
+  date_accepted: 2005-10-15T00:00:00.000Z
+  review_date: 2010-10-19T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2015-10-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19135-1:2015'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19135:2005 to ISO 19135-1:2015,
+    4.1.16. Lineage source added as ISO 19135:2005
+  release: '1'
+  terms:
+    - type: expression
+      designation: alirekisteri
+      normative_status: preferred
+  _revisions:
+    current: 8ca059
+    tree:
+      8ca059:
+        object:
+          id: 436
+          definition: >-
+            hierarkkisen rekisterin osa, joka sisältää aihepiirin johonkin
+            osa-alueeseen kuuluvat rekisterielementit
+          language_code: fin
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19135-1:2015'
+            clause: 4.1.16
+            link: 'https://www.iso.org/standard/54721.html'
+          lineage_source: 'ISO 19135:2005'
+          date_accepted: 2005-10-15T00:00:00.000Z
+          review_date: 2010-10-19T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2015-10-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19135-1:2015'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19135:2005 to ISO
+            19135-1:2015, 4.1.16. Lineage source added as ISO 19135:2005
+          release: '1'
+          terms:
+            - type: expression
+              designation: alirekisteri
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-10-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+fra:
+  id: 436
+  definition: >-
+    partie d'un registre hiérarchique qui contient des articles d'une partition
+    d'un domaine d'informations
+  language_code: fra
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19135-1:2015'
+    clause: 4.1.16
+    link: 'https://www.iso.org/standard/54721.html'
+  lineage_source: 'ISO 19135:2005'
+  date_accepted: 2005-10-15T00:00:00.000Z
+  review_date: 2010-10-19T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2015-10-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19135-1:2015'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19135:2005 to ISO 19135-1:2015,
+    4.1.16. Lineage source added as ISO 19135:2005
+  release: '1'
+  terms:
+    - type: expression
+      designation: sous-registre
+      normative_status: preferred
+  _revisions:
+    current: b53828
+    tree:
+      b53828:
+        object:
+          id: 436
+          definition: >-
+            partie d'un registre hiérarchique qui contient des articles d'une
+            partition d'un domaine d'informations
+          language_code: fra
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19135-1:2015'
+            clause: 4.1.16
+            link: 'https://www.iso.org/standard/54721.html'
+          lineage_source: 'ISO 19135:2005'
+          date_accepted: 2005-10-15T00:00:00.000Z
+          review_date: 2010-10-19T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2015-10-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19135-1:2015'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19135:2005 to ISO
+            19135-1:2015, 4.1.16. Lineage source added as ISO 19135:2005
+          release: '1'
+          terms:
+            - type: expression
+              designation: sous-registre
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-10-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+deu:
+  id: 436
+  definition: >-
+    Teil eines hierarchischen Registers, der eine Untermenge der Einträge (einer
+    Informationsdomäne) enthält
+  language_code: deu
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19135-1:2015'
+    clause: 4.1.16
+    link: 'https://www.iso.org/standard/54721.html'
+  lineage_source: 'ISO 19135:2005'
+  date_accepted: 2005-10-15T00:00:00.000Z
+  review_date: 2010-10-19T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2015-10-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19135-1:2015'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19135:2005 to ISO 19135-1:2015,
+    4.1.16. Lineage source added as ISO 19135:2005
+  release: '1'
+  terms:
+    - type: expression
+      designation: 'Unterregister (Syn.: Subregister)'
+      normative_status: preferred
+  _revisions:
+    current: '440578'
+    tree:
+      '440578':
+        object:
+          id: 436
+          definition: >-
+            Teil eines hierarchischen Registers, der eine Untermenge der
+            Einträge (einer Informationsdomäne) enthält
+          language_code: deu
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19135-1:2015'
+            clause: 4.1.16
+            link: 'https://www.iso.org/standard/54721.html'
+          lineage_source: 'ISO 19135:2005'
+          date_accepted: 2005-10-15T00:00:00.000Z
+          review_date: 2010-10-19T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2015-10-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19135-1:2015'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19135:2005 to ISO
+            19135-1:2015, 4.1.16. Lineage source added as ISO 19135:2005
+          release: '1'
+          terms:
+            - type: expression
+              designation: 'Unterregister (Syn.: Subregister)'
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-10-15T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+kor:
+  id: 436
+  definition: 정보 영역의 한 부분에 대한 항목을 포함하는 계층적 등록물의 일부
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19135-1:2015'
+    clause: 4.1.16
+    link: 'https://www.iso.org/standard/54721.html'
+  lineage_source: 'ISO 19135:2005'
+  date_accepted: 2005-10-15T00:00:00.000Z
+  review_date: 2010-10-19T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2015-10-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19135-1:2015'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19135:2005 to ISO 19135-1:2015,
+    4.1.16. Lineage source added as ISO 19135:2005
+  release: '1'
+  terms:
+    - type: expression
+      designation: 하위 등록물
+      normative_status: preferred
+  _revisions:
+    current: cadcf2
+    tree:
+      cadcf2:
+        object:
+          id: 436
+          definition: 정보 영역의 한 부분에 대한 항목을 포함하는 계층적 등록물의 일부
+          language_code: kor
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19135-1:2015'
+            clause: 4.1.16
+            link: 'https://www.iso.org/standard/54721.html'
+          lineage_source: 'ISO 19135:2005'
+          date_accepted: 2005-10-15T00:00:00.000Z
+          review_date: 2010-10-19T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2015-10-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19135-1:2015'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19135:2005 to ISO
+            19135-1:2015, 4.1.16. Lineage source added as ISO 19135:2005
+          release: '1'
+          terms:
+            - type: expression
+              designation: 하위 등록물
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-10-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+pol:
+  id: 436
+  definition: >-
+    część rejestru hierarchicznego zawierająca pozycje z części dziedziny
+    informacji
+  language_code: pol
+  notes: []
+  examples: []
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19135-1:2015'
+    clause: 4.1.16
+    link: 'https://www.iso.org/standard/54721.html'
+  lineage_source: 'ISO 19135:2005'
+  date_accepted: 2005-10-15T00:00:00.000Z
+  review_date: 2010-10-19T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2015-10-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19135-1:2015'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19135:2005 to ISO 19135-1:2015,
+    4.1.16. Lineage source added as ISO 19135:2005
+  release: '1'
+  terms:
+    - type: expression
+      designation: rejestr podrzędny
+      normative_status: preferred
+  _revisions:
+    current: 9ee79a
+    tree:
+      9ee79a:
+        object:
+          id: 436
+          definition: >-
+            część rejestru hierarchicznego zawierająca pozycje z części
+            dziedziny informacji
+          language_code: pol
+          notes: []
+          examples: []
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19135-1:2015'
+            clause: 4.1.16
+            link: 'https://www.iso.org/standard/54721.html'
+          lineage_source: 'ISO 19135:2005'
+          date_accepted: 2005-10-15T00:00:00.000Z
+          review_date: 2010-10-19T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2015-10-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19135-1:2015'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19135:2005 to ISO
+            19135-1:2015, 4.1.16. Lineage source added as ISO 19135:2005
+          release: '1'
+          terms:
+            - type: expression
+              designation: rejestr podrzędny
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-10-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 436
+  definition: >-
+    часть иерархического реестра, которая содержит единицы учета, относящиеся  к
+    некоторому подмножеству данной информационной области
+  language_code: rus
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19135:2005'
+    link: 'https://www.iso.org/standard/32553.html'
+  lineage_source: Internet
+  date_accepted: 2005-10-15T00:00:00.000Z
+  terms:
+    - type: expression
+      designation: подреестр
+      normative_status: preferred
+  _revisions:
+    current: f0bbba
+    tree:
+      f0bbba:
+        object:
+          id: 436
+          definition: >-
+            часть иерархического реестра, которая содержит единицы учета,
+            относящиеся  к некоторому подмножеству данной информационной области
+          language_code: rus
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19135:2005'
+            link: 'https://www.iso.org/standard/32553.html'
+          lineage_source: Internet
+          date_accepted: 2005-10-15T00:00:00.000Z
+          terms:
+            - type: expression
+              designation: подреестр
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-10-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 436
+  definition: >-
+    parte de un registro jerárquico que contiene ítems de una partición de un
+    dominio de información
+  language_code: spa
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19135-1:2015'
+    clause: 4.1.16
+    link: 'https://www.iso.org/standard/54721.html'
+  lineage_source: 'ISO 19135:2005'
+  date_accepted: 2005-10-15T00:00:00.000Z
+  review_date: 2010-10-19T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2015-10-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19135-1:2015'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19135:2005 to ISO 19135-1:2015,
+    4.1.16. Lineage source added as ISO 19135:2005
+  release: '1'
+  terms:
+    - type: expression
+      designation: subregistro
+      normative_status: preferred
+  _revisions:
+    current: 625d7f
+    tree:
+      625d7f:
+        object:
+          id: 436
+          definition: >-
+            parte de un registro jerárquico que contiene ítems de una partición
+            de un dominio de información
+          language_code: spa
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19135-1:2015'
+            clause: 4.1.16
+            link: 'https://www.iso.org/standard/54721.html'
+          lineage_source: 'ISO 19135:2005'
+          date_accepted: 2005-10-15T00:00:00.000Z
+          review_date: 2010-10-19T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2015-10-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19135-1:2015'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19135:2005 to ISO
+            19135-1:2015, 4.1.16. Lineage source added as ISO 19135:2005
+          release: '1'
+          terms:
+            - type: expression
+              designation: subregistro
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-10-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+swe:
+  id: 436
+  definition: underordnad systematiskt ordnad förteckning
+  country_code: swe
+  language_code: swe
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19135-1:2015'
+    clause: 4.1.16
+    link: 'https://www.iso.org/standard/54721.html'
+  lineage_source: 'ISO 19135:2005'
+  date_accepted: 2005-10-15T00:00:00.000Z
+  review_date: 2010-10-19T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2015-10-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19135-1:2015'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19135:2005 to ISO 19135-1:2015,
+    4.1.16. Lineage source added as ISO 19135:2005
+  release: '1'
+  terms:
+    - type: expression
+      designation: underregister
+      normative_status: preferred
+  _revisions:
+    current: eb9345
+    tree:
+      eb9345:
+        object:
+          id: 436
+          definition: underordnad systematiskt ordnad förteckning
+          country_code: swe
+          language_code: swe
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19135-1:2015'
+            clause: 4.1.16
+            link: 'https://www.iso.org/standard/54721.html'
+          lineage_source: 'ISO 19135:2005'
+          date_accepted: 2005-10-15T00:00:00.000Z
+          review_date: 2010-10-19T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2015-10-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19135-1:2015'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19135:2005 to ISO
+            19135-1:2015, 4.1.16. Lineage source added as ISO 19135:2005
+          release: '1'
+          terms:
+            - type: expression
+              designation: underregister
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-10-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

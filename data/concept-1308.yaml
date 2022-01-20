@@ -1,0 +1,239 @@
+term: observation result
+termid: 1308
+eng:
+  id: 1308
+  definition: >-
+    estimate of the value of a property determined through a known observation
+    procedure
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19156:2011'
+    clause: '4.14'
+    link: 'https://www.iso.org/standard/32574.html'
+  date_accepted: 2011-12-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: observation result
+      normative_status: preferred
+  _revisions:
+    current: d7434a
+    tree:
+      d7434a:
+        object:
+          id: 1308
+          definition: >-
+            estimate of the value of a property determined through a known
+            observation procedure
+          language_code: eng
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19156:2011'
+            clause: '4.14'
+            link: 'https://www.iso.org/standard/32574.html'
+          date_accepted: 2011-12-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: observation result
+              normative_status: preferred
+        parents: []
+        timeCreated: 2011-12-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+kor:
+  id: 1308
+  definition: 인지된 관측 절차를 통해 추정 속성값을 결정하는 것
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19156:2011'
+    clause: '4.14'
+    link: 'https://www.iso.org/standard/32574.html'
+  date_accepted: 2011-12-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: 관측 결과
+      normative_status: preferred
+  _revisions:
+    current: 64dfb4
+    tree:
+      64dfb4:
+        object:
+          id: 1308
+          definition: 인지된 관측 절차를 통해 추정 속성값을 결정하는 것
+          language_code: kor
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19156:2011'
+            clause: '4.14'
+            link: 'https://www.iso.org/standard/32574.html'
+          date_accepted: 2011-12-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: 관측 결과
+              normative_status: preferred
+        parents: []
+        timeCreated: 2011-12-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 1308
+  definition: >-
+    определение значения свойства, определенного с помощью известной процедуры
+    наблюдения
+  language_code: rus
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19156:2011'
+    clause: '4.14'
+    link: 'https://www.iso.org/standard/32574.html'
+  lineage_source: 'ISO 19156:2011'
+  date_accepted: 2011-12-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: результат наблюдения
+      normative_status: preferred
+  _revisions:
+    current: 61538c
+    tree:
+      61538c:
+        object:
+          id: 1308
+          definition: >-
+            определение значения свойства, определенного с помощью известной
+            процедуры наблюдения
+          language_code: rus
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19156:2011'
+            clause: '4.14'
+            link: 'https://www.iso.org/standard/32574.html'
+          lineage_source: 'ISO 19156:2011'
+          date_accepted: 2011-12-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: результат наблюдения
+              normative_status: preferred
+        parents: []
+        timeCreated: 2011-12-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 1308
+  definition: >-
+    estimación del valor de una propiedad determinado a través de un
+    procedimiento de observación conocido
+  language_code: spa
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19156:2011'
+    clause: '4.14'
+    link: 'https://www.iso.org/standard/32574.html'
+  date_accepted: 2011-12-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: resultado de observación
+      normative_status: preferred
+  _revisions:
+    current: d10124
+    tree:
+      d10124:
+        object:
+          id: 1308
+          definition: >-
+            estimación del valor de una propiedad determinado a través de un
+            procedimiento de observación conocido
+          language_code: spa
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19156:2011'
+            clause: '4.14'
+            link: 'https://www.iso.org/standard/32574.html'
+          date_accepted: 2011-12-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: resultado de observación
+              normative_status: preferred
+        parents: []
+        timeCreated: 2011-12-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+swe:
+  id: 1308
+  definition: >-
+    uppskattning av värdet för en datauppgift hos ett objekt genom ett känt
+    bestämningsförfarande
+  country_code: swe
+  language_code: swe
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19156:2011'
+    clause: '4.14'
+    link: 'https://www.iso.org/standard/32574.html'
+  lineage_source: (Type reference to national language document)
+  date_accepted: 2011-12-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: bestämningsresultat
+      normative_status: preferred
+  _revisions:
+    current: b8cc5e
+    tree:
+      b8cc5e:
+        object:
+          id: 1308
+          definition: >-
+            uppskattning av värdet för en datauppgift hos ett objekt genom ett
+            känt bestämningsförfarande
+          country_code: swe
+          language_code: swe
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19156:2011'
+            clause: '4.14'
+            link: 'https://www.iso.org/standard/32574.html'
+          lineage_source: (Type reference to national language document)
+          date_accepted: 2011-12-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: bestämningsresultat
+              normative_status: preferred
+        parents: []
+        timeCreated: 2011-12-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

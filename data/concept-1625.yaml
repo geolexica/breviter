@@ -1,0 +1,116 @@
+term: subject field
+termid: 1625
+eng:
+  id: 1625
+  definition: field of special knowledge
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 1087-1:2000'
+    clause: 3.1.2
+    link: 'https://www.iso.org/standard/20057.html'
+  lineage_source: 'ISO 19104:2016, 4.28'
+  date_accepted: 2016-10-01T00:00:00.000Z
+  review_date: 2013-01-29T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2016-10-01T00:00:00.000Z
+  review_decision_event: Normal ISO processing
+  review_decision_notes: 'Publication of document ISO 19104:2016(E)'
+  release: '4'
+  terms:
+    - type: expression
+      designation: subject field
+      normative_status: preferred
+  _revisions:
+    current: 461c12
+    tree:
+      461c12:
+        object:
+          id: 1625
+          definition: field of special knowledge
+          language_code: eng
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 1087-1:2000'
+            clause: 3.1.2
+            link: 'https://www.iso.org/standard/20057.html'
+          lineage_source: 'ISO 19104:2016, 4.28'
+          date_accepted: 2016-10-01T00:00:00.000Z
+          review_date: 2013-01-29T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2016-10-01T00:00:00.000Z
+          review_decision_event: Normal ISO processing
+          review_decision_notes: 'Publication of document ISO 19104:2016(E)'
+          release: '4'
+          terms:
+            - type: expression
+              designation: subject field
+              normative_status: preferred
+        parents: []
+        timeCreated: 2016-10-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 1625
+  definition: campo de conocimiento especializado
+  language_code: spa
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 1087-1:2000'
+    clause: 3.1.2
+    link: 'https://www.iso.org/standard/20057.html'
+  lineage_source: 'ISO 19104:2016, 4.28'
+  date_accepted: 2016-10-01T00:00:00.000Z
+  review_date: 2013-01-29T00:00:00.000Z
+  review_status: final
+  review_decision: ''
+  review_decision_date: 2016-10-01T00:00:00.000Z
+  review_decision_event: Normal ISO processing
+  review_decision_notes: 'Publication of document ISO 19104:2016(E)'
+  release: '4'
+  terms:
+    - type: expression
+      designation: campo temático
+      normative_status: preferred
+  _revisions:
+    current: 61e58a
+    tree:
+      61e58a:
+        object:
+          id: 1625
+          definition: campo de conocimiento especializado
+          language_code: spa
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 1087-1:2000'
+            clause: 3.1.2
+            link: 'https://www.iso.org/standard/20057.html'
+          lineage_source: 'ISO 19104:2016, 4.28'
+          date_accepted: 2016-10-01T00:00:00.000Z
+          review_date: 2013-01-29T00:00:00.000Z
+          review_status: final
+          review_decision: ''
+          review_decision_date: 2016-10-01T00:00:00.000Z
+          review_decision_event: Normal ISO processing
+          review_decision_notes: 'Publication of document ISO 19104:2016(E)'
+          release: '4'
+          terms:
+            - type: expression
+              designation: campo temático
+              normative_status: preferred
+        parents: []
+        timeCreated: 2016-10-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

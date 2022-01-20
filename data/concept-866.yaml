@@ -1,0 +1,445 @@
+term: picture portrayal
+termid: 866
+eng:
+  id: 866
+  definition: >-
+    representations of image data in terms of the colour-space coordinates that
+    are appropriate for, and tightly coupled to, the characteristics of a
+    specified real or virtual output device and viewing
+  language_code: eng
+  notes:
+    - >-
+      Picture portrayals are geared for visual display whether in hardcopy or
+      softcopy.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19101-2:2018'
+    clause: '(E), 3.27'
+    link: 'https://www.iso.org/standard/69325.html'
+  lineage_source: 'ISO/TS 19101-2:2008(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2008-06-01T00:00:00.000Z
+  review_date: 2018-05-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2018-05-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19101-2:2018(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO/TS 19101-2:2008 to ISO
+    19101-2:2018(E), 3.27. Lineage source added as ISO/TS 19101-2:2008(E)
+  release: '2'
+  terms:
+    - type: expression
+      designation: picture portrayal
+      normative_status: preferred
+  _revisions:
+    current: '965392'
+    tree:
+      '965392':
+        object:
+          id: 866
+          definition: >-
+            representations of image data in terms of the colour-space
+            coordinates that are appropriate for, and tightly coupled to, the
+            characteristics of a specified real or virtual output device and
+            viewing
+          language_code: eng
+          notes:
+            - >-
+              Picture portrayals are geared for visual display whether in
+              hardcopy or softcopy.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19101-2:2018'
+            clause: '(E), 3.27'
+            link: 'https://www.iso.org/standard/69325.html'
+          lineage_source: 'ISO/TS 19101-2:2008(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2008-06-01T00:00:00.000Z
+          review_date: 2018-05-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2018-05-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19101-2:2018(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO/TS 19101-2:2008 to ISO
+            19101-2:2018(E), 3.27. Lineage source added as ISO/TS
+            19101-2:2008(E)
+          release: '2'
+          terms:
+            - type: expression
+              designation: picture portrayal
+              normative_status: preferred
+        parents: []
+        timeCreated: 2008-06-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+ara:
+  id: 866
+  definition: >-
+    تمثيل لبيانات صور من حيث إحداثيات لون-الفضاء المناسبة لذلك، والمقترنة باحكام
+    ، بخصائص جهاز اخراج ومشاهدة حقيقي او افتراضي محدد
+  language_code: ara
+  notes:
+    - حالات تمثيل الصور مهياة للعرض المرئي سواء كانت نسخا ورقية أو نسخا رقمية. .
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19101-2:2018'
+    clause: '(E), 3.27'
+    link: 'https://www.iso.org/standard/69325.html'
+  lineage_source: 'ISO/TS 19101-2:2008(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2008-06-01T00:00:00.000Z
+  review_date: 2018-05-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2018-05-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19101-2:2018(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO/TS 19101-2:2008 to ISO
+    19101-2:2018(E), 3.27. Lineage source added as ISO/TS 19101-2:2008(E)
+  release: '2'
+  terms:
+    - type: expression
+      designation: عرض الصورة
+      normative_status: preferred
+  _revisions:
+    current: 9602f9
+    tree:
+      9602f9:
+        object:
+          id: 866
+          definition: >-
+            تمثيل لبيانات صور من حيث إحداثيات لون-الفضاء المناسبة لذلك،
+            والمقترنة باحكام ، بخصائص جهاز اخراج ومشاهدة حقيقي او افتراضي محدد
+          language_code: ara
+          notes:
+            - >-
+              حالات تمثيل الصور مهياة للعرض المرئي سواء كانت نسخا ورقية أو نسخا
+              رقمية. .
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19101-2:2018'
+            clause: '(E), 3.27'
+            link: 'https://www.iso.org/standard/69325.html'
+          lineage_source: 'ISO/TS 19101-2:2008(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2008-06-01T00:00:00.000Z
+          review_date: 2018-05-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2018-05-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19101-2:2018(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO/TS 19101-2:2008 to ISO
+            19101-2:2018(E), 3.27. Lineage source added as ISO/TS
+            19101-2:2008(E)
+          release: '2'
+          terms:
+            - type: expression
+              designation: عرض الصورة
+              normative_status: preferred
+        parents: []
+        timeCreated: 2008-06-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+deu:
+  id: 866
+  language_code: deu
+  notes:
+    - >-
+      Picture portrayals are geared for visual display whether in hardcopy or
+      softcopy.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19101-2:2018'
+    clause: '(E), 3.27'
+    link: 'https://www.iso.org/standard/69325.html'
+  lineage_source: 'ISO/TS 19101-2:2008(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2008-06-01T00:00:00.000Z
+  review_date: 2018-05-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2018-05-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19101-2:2018(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO/TS 19101-2:2008 to ISO
+    19101-2:2018(E), 3.27. Lineage source added as ISO/TS 19101-2:2008(E)
+  release: '2'
+  terms:
+    - type: expression
+      designation: Bilddarstellung
+      normative_status: preferred
+  _revisions:
+    current: 30dc84
+    tree:
+      30dc84:
+        object:
+          id: 866
+          language_code: deu
+          notes:
+            - >-
+              Picture portrayals are geared for visual display whether in
+              hardcopy or softcopy.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19101-2:2018'
+            clause: '(E), 3.27'
+            link: 'https://www.iso.org/standard/69325.html'
+          lineage_source: 'ISO/TS 19101-2:2008(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2008-06-01T00:00:00.000Z
+          review_date: 2018-05-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2018-05-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19101-2:2018(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO/TS 19101-2:2008 to ISO
+            19101-2:2018(E), 3.27. Lineage source added as ISO/TS
+            19101-2:2008(E)
+          release: '2'
+          terms:
+            - type: expression
+              designation: Bilddarstellung
+              normative_status: preferred
+        parents: []
+        timeCreated: 2008-06-01T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+kor:
+  id: 866
+  definition: 명시된 현실 또는 가상의 출력 기기와 조망의 특성과 밀접하게 연관되어 있고 적합한 색-공간 좌표에서 나타낸 영상 자료의 표현
+  language_code: kor
+  notes:
+    - >-
+      Picture portrayals are geared for visual display whether in hardcopy or
+      softcopy.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19101-2:2018'
+    clause: '(E), 3.27'
+    link: 'https://www.iso.org/standard/69325.html'
+  lineage_source: 'ISO/TS 19101-2:2008(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2008-06-01T00:00:00.000Z
+  review_date: 2018-05-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2018-05-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19101-2:2018(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO/TS 19101-2:2008 to ISO
+    19101-2:2018(E), 3.27. Lineage source added as ISO/TS 19101-2:2008(E)
+  release: '2'
+  terms:
+    - type: expression
+      designation: 사진 묘화
+      normative_status: preferred
+  _revisions:
+    current: 44f5c4
+    tree:
+      44f5c4:
+        object:
+          id: 866
+          definition: >-
+            명시된 현실 또는 가상의 출력 기기와 조망의 특성과 밀접하게 연관되어 있고 적합한 색-공간 좌표에서 나타낸 영상 자료의
+            표현
+          language_code: kor
+          notes:
+            - >-
+              Picture portrayals are geared for visual display whether in
+              hardcopy or softcopy.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19101-2:2018'
+            clause: '(E), 3.27'
+            link: 'https://www.iso.org/standard/69325.html'
+          lineage_source: 'ISO/TS 19101-2:2008(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2008-06-01T00:00:00.000Z
+          review_date: 2018-05-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2018-05-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19101-2:2018(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO/TS 19101-2:2008 to ISO
+            19101-2:2018(E), 3.27. Lineage source added as ISO/TS
+            19101-2:2008(E)
+          release: '2'
+          terms:
+            - type: expression
+              designation: 사진 묘화
+              normative_status: preferred
+        parents: []
+        timeCreated: 2008-06-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 866
+  definition: >-
+    представления данных изображения на основе координат цветового пространства,
+    которые подходят для характеристик указанного реального или виртуального
+    устройства вывода и просмотра и тесно связаны с ними
+  language_code: rus
+  notes:
+    - >-
+      изображения предназначены для визуального отображения, будь то в печатном
+      или виртуальном виде.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19101-2:2018'
+    clause: '(E), 3.27'
+    link: 'https://www.iso.org/standard/69325.html'
+  lineage_source: 'ISO/TS 19101-2:2008(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2008-06-01T00:00:00.000Z
+  review_date: 2018-05-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2018-05-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19101-2:2018(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO/TS 19101-2:2008 to ISO
+    19101-2:2018(E), 3.27. Lineage source added as ISO/TS 19101-2:2008(E)
+  release: '2'
+  terms:
+    - type: expression
+      designation: представление изображения
+      normative_status: preferred
+  _revisions:
+    current: ac1c55
+    tree:
+      ac1c55:
+        object:
+          id: 866
+          definition: >-
+            представления данных изображения на основе координат цветового
+            пространства, которые подходят для характеристик указанного
+            реального или виртуального устройства вывода и просмотра и тесно
+            связаны с ними
+          language_code: rus
+          notes:
+            - >-
+              изображения предназначены для визуального отображения, будь то в
+              печатном или виртуальном виде.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19101-2:2018'
+            clause: '(E), 3.27'
+            link: 'https://www.iso.org/standard/69325.html'
+          lineage_source: 'ISO/TS 19101-2:2008(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2008-06-01T00:00:00.000Z
+          review_date: 2018-05-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2018-05-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19101-2:2018(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO/TS 19101-2:2008 to ISO
+            19101-2:2018(E), 3.27. Lineage source added as ISO/TS
+            19101-2:2008(E)
+          release: '2'
+          terms:
+            - type: expression
+              designation: представление изображения
+              normative_status: preferred
+        parents: []
+        timeCreated: 2008-06-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 866
+  definition: >-
+    representaciones de los datos de una imagen en términos de coordenadas
+    espacio-color que son apropiadas, y están ajustadas, a las características
+    de un dispositivo de salidad real o virtual y a la visualización
+  language_code: spa
+  notes:
+    - >-
+      La representación de imágenes está adaptada a la visualización más que a
+      una copia en papel o digital.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19101-2:2018'
+    clause: '(E), 3.27'
+    link: 'https://www.iso.org/standard/69325.html'
+  lineage_source: 'ISO/TS 19101-2:2008(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2008-06-01T00:00:00.000Z
+  review_date: 2018-05-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2018-05-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19101-2:2018(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO/TS 19101-2:2008 to ISO
+    19101-2:2018(E), 3.27. Lineage source added as ISO/TS 19101-2:2008(E)
+  release: '2'
+  terms:
+    - type: expression
+      designation: representación de una imagen
+      normative_status: preferred
+  _revisions:
+    current: '988972'
+    tree:
+      '988972':
+        object:
+          id: 866
+          definition: >-
+            representaciones de los datos de una imagen en términos de
+            coordenadas espacio-color que son apropiadas, y están ajustadas, a
+            las características de un dispositivo de salidad real o virtual y a
+            la visualización
+          language_code: spa
+          notes:
+            - >-
+              La representación de imágenes está adaptada a la visualización más
+              que a una copia en papel o digital.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19101-2:2018'
+            clause: '(E), 3.27'
+            link: 'https://www.iso.org/standard/69325.html'
+          lineage_source: 'ISO/TS 19101-2:2008(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2008-06-01T00:00:00.000Z
+          review_date: 2018-05-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2018-05-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19101-2:2018(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO/TS 19101-2:2008 to ISO
+            19101-2:2018(E), 3.27. Lineage source added as ISO/TS
+            19101-2:2008(E)
+          release: '2'
+          terms:
+            - type: expression
+              designation: representación de una imagen
+              normative_status: preferred
+        parents: []
+        timeCreated: 2008-06-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

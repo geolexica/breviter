@@ -1,0 +1,83 @@
+term: ellipsoidal height
+termid: 2406
+eng:
+  id: 2406
+  abbrev: h
+  definition: >-
+    distance of a point from the reference ellipsoid along the perpendicular
+    from the reference ellipsoid to this point, positive if upwards or outside
+    of the reference ellipsoid
+  language_code: eng
+  notes:
+    - >-
+      Only used as part of a three-dimensional ellipsoidal coordinate system or
+      as part of a three-dimensional Cartesian coordinate system in a
+      three-dimensional projected coordinate reference system, but never on its
+      own.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19111:2019'
+    clause: '(E), 3.1.24'
+    link: 'https://www.iso.org/standard/74039.html'
+  date_accepted: 2019-01-31T00:00:00.000Z
+  review_date: 2019-01-31T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2019-01-31T00:00:00.000Z
+  review_decision_event: 'Publication of document ISO 19111:2019(E)'
+  review_decision_notes: 'This entry supersedes the entry for ellipsoidal height in ISO 19111:2007(E)'
+  release: '5'
+  terms:
+    - type: expression
+      designation: ellipsoidal height
+      normative_status: preferred
+    - designation: geodetic height
+      type: expression
+  _revisions:
+    current: d2deeb
+    tree:
+      d2deeb:
+        object:
+          id: 2406
+          abbrev: h
+          definition: >-
+            distance of a point from the reference ellipsoid along the
+            perpendicular from the reference ellipsoid to this point, positive
+            if upwards or outside of the reference ellipsoid
+          language_code: eng
+          notes:
+            - >-
+              Only used as part of a three-dimensional ellipsoidal coordinate
+              system or as part of a three-dimensional Cartesian coordinate
+              system in a three-dimensional projected coordinate reference
+              system, but never on its own.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19111:2019'
+            clause: '(E), 3.1.24'
+            link: 'https://www.iso.org/standard/74039.html'
+          date_accepted: 2019-01-31T00:00:00.000Z
+          review_date: 2019-01-31T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2019-01-31T00:00:00.000Z
+          review_decision_event: 'Publication of document ISO 19111:2019(E)'
+          review_decision_notes: >-
+            This entry supersedes the entry for ellipsoidal height in ISO
+            19111:2007(E)
+          release: '5'
+          terms:
+            - type: expression
+              designation: ellipsoidal height
+              normative_status: preferred
+            - designation: geodetic height
+              type: expression
+        parents: []
+        timeCreated: 2019-01-31T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

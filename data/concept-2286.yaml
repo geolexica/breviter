@@ -1,0 +1,76 @@
+term: peak side lobe ratio
+termid: 2286
+eng:
+  id: 2286
+  abbrev: PSLR
+  definition: >-
+    ratio between the peak power of the largest side lobe and the peak power of
+    the main lobe of the impulse response of point targets in the SAR image
+  language_code: eng
+  notes:
+    - >-
+      The peak side lobe ratio is usually expressed in decibels (dB) and
+      computed as follows `PSLR = 10log_(10)
+      {(P_(text(sidepeak)))/(P_(text(mainpeak)))}` where `P_(text(mainpeak))` is
+      the peak power of the main lobe; `P_(text(sidepeak))` is the peak power of
+      the largest side lobe.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO/TS 19159-3:2018'
+    clause: '(E), 3.19'
+    link: 'https://www.iso.org/standard/74032.html'
+  date_accepted: 2018-05-01T00:00:00.000Z
+  review_date: 2018-05-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2018-05-01T00:00:00.000Z
+  review_decision_event: Normal ISO processing
+  review_decision_notes: 'Publication of document ISO/TS 19159-3:2018(E)'
+  release: '5'
+  terms:
+    - type: expression
+      designation: peak side lobe ratio
+      normative_status: preferred
+  _revisions:
+    current: 5d0263
+    tree:
+      5d0263:
+        object:
+          id: 2286
+          abbrev: PSLR
+          definition: >-
+            ratio between the peak power of the largest side lobe and the peak
+            power of the main lobe of the impulse response of point targets in
+            the SAR image
+          language_code: eng
+          notes:
+            - >-
+              The peak side lobe ratio is usually expressed in decibels (dB) and
+              computed as follows `PSLR = 10log_(10)
+              {(P_(text(sidepeak)))/(P_(text(mainpeak)))}` where
+              `P_(text(mainpeak))` is the peak power of the main lobe;
+              `P_(text(sidepeak))` is the peak power of the largest side lobe.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO/TS 19159-3:2018'
+            clause: '(E), 3.19'
+            link: 'https://www.iso.org/standard/74032.html'
+          date_accepted: 2018-05-01T00:00:00.000Z
+          review_date: 2018-05-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2018-05-01T00:00:00.000Z
+          review_decision_event: Normal ISO processing
+          review_decision_notes: 'Publication of document ISO/TS 19159-3:2018(E)'
+          release: '5'
+          terms:
+            - type: expression
+              designation: peak side lobe ratio
+              normative_status: preferred
+        parents: []
+        timeCreated: 2018-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

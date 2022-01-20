@@ -1,0 +1,122 @@
+term: classifier <UML>
+termid: 1611
+eng:
+  id: 1611
+  definition: >-
+    mechanism that describes behavioural and structural features in any
+    combination
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: UML 1
+  lineage_source: 'ISO 19103:2015, 4.8'
+  date_accepted: 2015-12-01T00:00:00.000Z
+  review_date: 2009-01-14T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2015-12-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19103:2015'
+  review_decision_notes: 'This entry supersedes the entry for "classifier <UML>" in ISO/TS 19103:2005'
+  release: '4'
+  terms:
+    - type: expression
+      designation: classifier <UML>
+      normative_status: preferred
+  _revisions:
+    current: '3884e9'
+    tree:
+      '3884e9':
+        object:
+          id: 1611
+          definition: >-
+            mechanism that describes behavioural and structural features in any
+            combination
+          language_code: eng
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: UML 1
+          lineage_source: 'ISO 19103:2015, 4.8'
+          date_accepted: 2015-12-01T00:00:00.000Z
+          review_date: 2009-01-14T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2015-12-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19103:2015'
+          review_decision_notes: >-
+            This entry supersedes the entry for "classifier <UML>" in ISO/TS
+            19103:2005
+          release: '4'
+          terms:
+            - type: expression
+              designation: classifier <UML>
+              normative_status: preferred
+        parents: []
+        timeCreated: 2015-12-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 1611
+  definition: >-
+    mecanismo que describe características  estructurales y de comportamiento en
+    cualquier combinación
+  language_code: spa
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: UML 1
+  lineage_source: 'ISO 19103:2015, 4.8'
+  date_accepted: 2015-12-01T00:00:00.000Z
+  review_date: 2009-01-14T00:00:00.000Z
+  review_status: final
+  review_decision: ''
+  review_decision_date: 2015-12-01T00:00:00.000Z
+  review_decision_event: 'Publicación de ISO 19103:2015'
+  review_decision_notes: >-
+    Esta entrada terminológica sustituye a "classifier <UML>" en la
+    Especificación Técnica ISO/TS 19103:2005
+  release: '4'
+  terms:
+    - type: expression
+      designation: clasificador <UML>
+      normative_status: preferred
+  _revisions:
+    current: 82319b
+    tree:
+      82319b:
+        object:
+          id: 1611
+          definition: >-
+            mecanismo que describe características  estructurales y de
+            comportamiento en cualquier combinación
+          language_code: spa
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: UML 1
+          lineage_source: 'ISO 19103:2015, 4.8'
+          date_accepted: 2015-12-01T00:00:00.000Z
+          review_date: 2009-01-14T00:00:00.000Z
+          review_status: final
+          review_decision: ''
+          review_decision_date: 2015-12-01T00:00:00.000Z
+          review_decision_event: 'Publicación de ISO 19103:2015'
+          review_decision_notes: >-
+            Esta entrada terminológica sustituye a "classifier <UML>" en la
+            Especificación Técnica ISO/TS 19103:2005
+          release: '4'
+          terms:
+            - type: expression
+              designation: clasificador <UML>
+              normative_status: preferred
+        parents: []
+        timeCreated: 2015-12-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

@@ -1,0 +1,937 @@
+term: geographic identifier
+termid: 204
+eng:
+  id: 204
+  definition: spatial reference in the form of a label or code that identifies a location
+  language_code: eng
+  notes: []
+  examples:
+    - >-
+      'Spain' is an example of a country name, 'SW1P 3AD' is an example of a
+      postcode.
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19112:2019'
+    clause: '(E), 3.1.2'
+    link: 'https://www.iso.org/standard/70742.html'
+  lineage_source: 'ISO 19112:2003(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2003-10-15T00:00:00.000Z
+  review_date: 2019-02-14T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-02-14T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19112:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19112:2003 to ISO 19112:2019(E),
+    3.1.2. Lineage source added as ISO 19112:2003(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: geographic identifier
+      normative_status: preferred
+  _revisions:
+    current: c9af99
+    tree:
+      c9af99:
+        object:
+          id: 204
+          definition: >-
+            spatial reference in the form of a label or code that identifies a
+            location
+          language_code: eng
+          notes: []
+          examples:
+            - >-
+              'Spain' is an example of a country name, 'SW1P 3AD' is an example
+              of a postcode.
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19112:2019'
+            clause: '(E), 3.1.2'
+            link: 'https://www.iso.org/standard/70742.html'
+          lineage_source: 'ISO 19112:2003(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2003-10-15T00:00:00.000Z
+          review_date: 2019-02-14T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-02-14T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19112:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19112:2003 to ISO
+            19112:2019(E), 3.1.2. Lineage source added as ISO 19112:2003(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: geographic identifier
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-10-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+ara:
+  id: 204
+  definition: مرجع مكاني في شكل علامة أو رمز لتعريف موقع
+  language_code: ara
+  notes: []
+  examples:
+    - 'اسبانيا هي مثال لاسم بلد , والرموز "SW 1P  3AD" هي مثال لرمز بريدي.'
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19112:2019'
+    clause: '(E), 3.1.2'
+    link: 'https://www.iso.org/standard/70742.html'
+  lineage_source: 'ISO 19112:2003(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2003-10-15T00:00:00.000Z
+  review_date: 2019-02-14T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-02-14T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19112:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19112:2003 to ISO 19112:2019(E),
+    3.1.2. Lineage source added as ISO 19112:2003(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: معرف جغرافي
+      normative_status: preferred
+  _revisions:
+    current: 5344cc
+    tree:
+      5344cc:
+        object:
+          id: 204
+          definition: مرجع مكاني في شكل علامة أو رمز لتعريف موقع
+          language_code: ara
+          notes: []
+          examples:
+            - >-
+              اسبانيا هي مثال لاسم بلد , والرموز "SW 1P  3AD" هي مثال لرمز
+              بريدي.
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19112:2019'
+            clause: '(E), 3.1.2'
+            link: 'https://www.iso.org/standard/70742.html'
+          lineage_source: 'ISO 19112:2003(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2003-10-15T00:00:00.000Z
+          review_date: 2019-02-14T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-02-14T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19112:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19112:2003 to ISO
+            19112:2019(E), 3.1.2. Lineage source added as ISO 19112:2003(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: معرف جغرافي
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-10-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+zho:
+  id: 204
+  definition: 以标记或代码形式标识位置的空间参照。
+  language_code: zho
+  notes: []
+  examples:
+    - “西班牙”是一个国家名称的例子，“SW1P 3AD” 是邮政编码的例子。
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19112:2019'
+    clause: '(E), 3.1.2'
+    link: 'https://www.iso.org/standard/70742.html'
+  lineage_source: 'ISO 19112:2003(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2003-10-15T00:00:00.000Z
+  review_date: 2019-02-14T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-02-14T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19112:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19112:2003 to ISO 19112:2019(E),
+    3.1.2. Lineage source added as ISO 19112:2003(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: 地理标识符
+      normative_status: preferred
+  _revisions:
+    current: 82aa18
+    tree:
+      82aa18:
+        object:
+          id: 204
+          definition: 以标记或代码形式标识位置的空间参照。
+          language_code: zho
+          notes: []
+          examples:
+            - “西班牙”是一个国家名称的例子，“SW1P 3AD” 是邮政编码的例子。
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19112:2019'
+            clause: '(E), 3.1.2'
+            link: 'https://www.iso.org/standard/70742.html'
+          lineage_source: 'ISO 19112:2003(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2003-10-15T00:00:00.000Z
+          review_date: 2019-02-14T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-02-14T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19112:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19112:2003 to ISO
+            19112:2019(E), 3.1.2. Lineage source added as ISO 19112:2003(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: 地理标识符
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-10-15T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+dan:
+  id: 204
+  definition: >-
+    rumlig reference i form af et mærke eller en kode, der identificerer en
+    lokalitet
+  language_code: dan
+  notes: []
+  examples:
+    - >-
+      "Spanien" er et eksempel på et landenavn, "SW1P 3AD" er et eksempel på et
+      postnummer.
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19112:2019'
+    clause: '(E), 3.1.2'
+    link: 'https://www.iso.org/standard/70742.html'
+  lineage_source: 'ISO 19112:2003(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2003-10-15T00:00:00.000Z
+  review_date: 2019-02-14T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-02-14T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19112:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19112:2003 to ISO 19112:2019(E),
+    3.1.2. Lineage source added as ISO 19112:2003(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: geografisk identifikator
+      normative_status: null
+  _revisions:
+    current: 967b4f
+    tree:
+      967b4f:
+        object:
+          id: 204
+          definition: >-
+            rumlig reference i form af et mærke eller en kode, der identificerer
+            en lokalitet
+          language_code: dan
+          notes: []
+          examples:
+            - >-
+              "Spanien" er et eksempel på et landenavn, "SW1P 3AD" er et
+              eksempel på et postnummer.
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19112:2019'
+            clause: '(E), 3.1.2'
+            link: 'https://www.iso.org/standard/70742.html'
+          lineage_source: 'ISO 19112:2003(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2003-10-15T00:00:00.000Z
+          review_date: 2019-02-14T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-02-14T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19112:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19112:2003 to ISO
+            19112:2019(E), 3.1.2. Lineage source added as ISO 19112:2003(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: geografisk identifikator
+              normative_status: null
+        parents: []
+        timeCreated: 2003-10-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+nld:
+  id: 204
+  definition: >-
+    ruimtelijke referentie door een label of code waarmee een locatie wordt
+    geïdentificeerd
+  language_code: nld
+  notes:
+    - >-
+      'Nederland' is een voorbeeld voor een identificatie van een land. '6711
+      AD' is een voorbeeld van een postcode.
+  examples:
+    - >-
+      'Spain' is an example of a country name, 'SW1P 3AD' is an example of a
+      postcode.
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19112:2019'
+    clause: '(E), 3.1.2'
+    link: 'https://www.iso.org/standard/70742.html'
+  lineage_source: 'ISO 19112:2003(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2003-10-15T00:00:00.000Z
+  review_date: 2019-02-14T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-02-14T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19112:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19112:2003 to ISO 19112:2019(E),
+    3.1.2. Lineage source added as ISO 19112:2003(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: geographische identificatie
+      normative_status: preferred
+  _revisions:
+    current: bed57f
+    tree:
+      bed57f:
+        object:
+          id: 204
+          definition: >-
+            ruimtelijke referentie door een label of code waarmee een locatie
+            wordt geïdentificeerd
+          language_code: nld
+          notes:
+            - >-
+              'Nederland' is een voorbeeld voor een identificatie van een land.
+              '6711 AD' is een voorbeeld van een postcode.
+          examples:
+            - >-
+              'Spain' is an example of a country name, 'SW1P 3AD' is an example
+              of a postcode.
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19112:2019'
+            clause: '(E), 3.1.2'
+            link: 'https://www.iso.org/standard/70742.html'
+          lineage_source: 'ISO 19112:2003(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2003-10-15T00:00:00.000Z
+          review_date: 2019-02-14T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-02-14T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19112:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19112:2003 to ISO
+            19112:2019(E), 3.1.2. Lineage source added as ISO 19112:2003(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: geographische identificatie
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-10-15T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+fin:
+  id: 204
+  definition: >-
+    sijaintiviittaus sijainnin tunnistamiseen tarkoitetun tunnuksen tai koodin
+    avulla
+  language_code: fin
+  notes: []
+  examples:
+    - 'Maannimi Espanja, postikoodi SW1P 3AD.'
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19112:2019'
+    clause: '(E), 3.1.2'
+    link: 'https://www.iso.org/standard/70742.html'
+  lineage_source: 'ISO 19112:2003(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2003-10-15T00:00:00.000Z
+  review_date: 2019-02-14T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-02-14T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19112:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19112:2003 to ISO 19112:2019(E),
+    3.1.2. Lineage source added as ISO 19112:2003(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: sijaintitunniste
+      normative_status: preferred
+    - designation: maantieteellinen tunniste
+      type: expression
+  _revisions:
+    current: 93d61e
+    tree:
+      93d61e:
+        object:
+          id: 204
+          definition: >-
+            sijaintiviittaus sijainnin tunnistamiseen tarkoitetun tunnuksen tai
+            koodin avulla
+          language_code: fin
+          notes: []
+          examples:
+            - 'Maannimi Espanja, postikoodi SW1P 3AD.'
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19112:2019'
+            clause: '(E), 3.1.2'
+            link: 'https://www.iso.org/standard/70742.html'
+          lineage_source: 'ISO 19112:2003(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2003-10-15T00:00:00.000Z
+          review_date: 2019-02-14T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-02-14T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19112:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19112:2003 to ISO
+            19112:2019(E), 3.1.2. Lineage source added as ISO 19112:2003(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: sijaintitunniste
+              normative_status: preferred
+            - designation: maantieteellinen tunniste
+              type: expression
+        parents: []
+        timeCreated: 2003-10-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+fra:
+  id: 204
+  definition: >-
+    référence spatiale sous forme d'un label ou code qui définit une
+    localisation
+  language_code: fra
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19112:2019'
+    clause: '(E), 3.1.2'
+    link: 'https://www.iso.org/standard/70742.html'
+  lineage_source: 'ISO 19112:2003(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2003-10-15T00:00:00.000Z
+  review_date: 2019-02-14T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-02-14T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19112:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19112:2003 to ISO 19112:2019(E),
+    3.1.2. Lineage source added as ISO 19112:2003(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: identifiant géographique
+      normative_status: preferred
+  _revisions:
+    current: b12f31
+    tree:
+      b12f31:
+        object:
+          id: 204
+          definition: >-
+            référence spatiale sous forme d'un label ou code qui définit une
+            localisation
+          language_code: fra
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19112:2019'
+            clause: '(E), 3.1.2'
+            link: 'https://www.iso.org/standard/70742.html'
+          lineage_source: 'ISO 19112:2003(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2003-10-15T00:00:00.000Z
+          review_date: 2019-02-14T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-02-14T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19112:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19112:2003 to ISO
+            19112:2019(E), 3.1.2. Lineage source added as ISO 19112:2003(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: identifiant géographique
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-10-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+deu:
+  id: 204
+  language_code: deu
+  notes: []
+  examples:
+    - >-
+      'Spain' is an example of a country name, 'SW1P 3AD' is an example of a
+      postcode.
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19112:2019'
+    clause: '(E), 3.1.2'
+    link: 'https://www.iso.org/standard/70742.html'
+  lineage_source: 'ISO 19112:2003(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2003-10-15T00:00:00.000Z
+  review_date: 2019-02-14T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-02-14T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19112:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19112:2003 to ISO 19112:2019(E),
+    3.1.2. Lineage source added as ISO 19112:2003(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: geographischer Identifikator
+      normative_status: preferred
+  _revisions:
+    current: eba181
+    tree:
+      eba181:
+        object:
+          id: 204
+          language_code: deu
+          notes: []
+          examples:
+            - >-
+              'Spain' is an example of a country name, 'SW1P 3AD' is an example
+              of a postcode.
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19112:2019'
+            clause: '(E), 3.1.2'
+            link: 'https://www.iso.org/standard/70742.html'
+          lineage_source: 'ISO 19112:2003(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2003-10-15T00:00:00.000Z
+          review_date: 2019-02-14T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-02-14T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19112:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19112:2003 to ISO
+            19112:2019(E), 3.1.2. Lineage source added as ISO 19112:2003(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: geographischer Identifikator
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-10-15T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+jpn:
+  id: 204
+  definition: 場所の識別のための，ラベル又はコードの形式による空間参照。
+  language_code: jpn
+  notes: []
+  examples:
+    - “日本”は，国名の例である。“102-0083”は，郵便番号の例である。
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19112:2019'
+    clause: '(E), 3.1.2'
+    link: 'https://www.iso.org/standard/70742.html'
+  lineage_source: 'ISO 19112:2003(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2003-10-15T00:00:00.000Z
+  review_date: 2019-02-14T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-02-14T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19112:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19112:2003 to ISO 19112:2019(E),
+    3.1.2. Lineage source added as ISO 19112:2003(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: 地理識別子
+      normative_status: preferred
+  _revisions:
+    current: e2cd94
+    tree:
+      e2cd94:
+        object:
+          id: 204
+          definition: 場所の識別のための，ラベル又はコードの形式による空間参照。
+          language_code: jpn
+          notes: []
+          examples:
+            - “日本”は，国名の例である。“102-0083”は，郵便番号の例である。
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19112:2019'
+            clause: '(E), 3.1.2'
+            link: 'https://www.iso.org/standard/70742.html'
+          lineage_source: 'ISO 19112:2003(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2003-10-15T00:00:00.000Z
+          review_date: 2019-02-14T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-02-14T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19112:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19112:2003 to ISO
+            19112:2019(E), 3.1.2. Lineage source added as ISO 19112:2003(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: 地理識別子
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-10-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+kor:
+  id: 204
+  definition: 위치 식별을 위한 코드나 라벨 형식의 공간 참조
+  language_code: kor
+  notes: []
+  examples:
+    - '"스페인"은 나라 이름의 예이며, "SW1P 3AD"는 우편 번호의 예이다.'
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19112:2019'
+    clause: '(E), 3.1.2'
+    link: 'https://www.iso.org/standard/70742.html'
+  lineage_source: 'ISO 19112:2003(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2003-10-15T00:00:00.000Z
+  review_date: 2019-02-14T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-02-14T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19112:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19112:2003 to ISO 19112:2019(E),
+    3.1.2. Lineage source added as ISO 19112:2003(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: 지리 식별자
+      normative_status: preferred
+  _revisions:
+    current: 099b77
+    tree:
+      099b77:
+        object:
+          id: 204
+          definition: 위치 식별을 위한 코드나 라벨 형식의 공간 참조
+          language_code: kor
+          notes: []
+          examples:
+            - '"스페인"은 나라 이름의 예이며, "SW1P 3AD"는 우편 번호의 예이다.'
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19112:2019'
+            clause: '(E), 3.1.2'
+            link: 'https://www.iso.org/standard/70742.html'
+          lineage_source: 'ISO 19112:2003(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2003-10-15T00:00:00.000Z
+          review_date: 2019-02-14T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-02-14T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19112:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19112:2003 to ISO
+            19112:2019(E), 3.1.2. Lineage source added as ISO 19112:2003(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: 지리 식별자
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-10-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 204
+  definition: >-
+    пространственная ссылка в форме символьной строки или кода, идентифицирующая
+    местоположение
+  language_code: rus
+  notes: []
+  examples:
+    - '"Испания" - пример названия страны, "SW1P 3AD" - пример почтового индекса'
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19112:2019'
+    clause: '(E), 3.1.2'
+    link: 'https://www.iso.org/standard/70742.html'
+  lineage_source: 'ISO 19112:2003(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2003-10-15T00:00:00.000Z
+  review_date: 2019-02-14T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-02-14T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19112:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19112:2003 to ISO 19112:2019(E),
+    3.1.2. Lineage source added as ISO 19112:2003(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: географический идентификатор
+      normative_status: preferred
+  _revisions:
+    current: bf089b
+    tree:
+      bf089b:
+        object:
+          id: 204
+          definition: >-
+            пространственная ссылка в форме символьной строки или кода,
+            идентифицирующая местоположение
+          language_code: rus
+          notes: []
+          examples:
+            - >-
+              "Испания" - пример названия страны, "SW1P 3AD" - пример почтового
+              индекса
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19112:2019'
+            clause: '(E), 3.1.2'
+            link: 'https://www.iso.org/standard/70742.html'
+          lineage_source: 'ISO 19112:2003(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2003-10-15T00:00:00.000Z
+          review_date: 2019-02-14T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-02-14T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19112:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19112:2003 to ISO
+            19112:2019(E), 3.1.2. Lineage source added as ISO 19112:2003(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: географический идентификатор
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-10-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 204
+  definition: >-
+    referencia espacial en forma de etiqueta o código que identifica una
+    localización
+  language_code: spa
+  notes: []
+  examples:
+    - >-
+      "España" es un ejemplo de un nombre de país, "SW1P 3AD" es un ejemplo de
+      un código postal.
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19112:2019'
+    clause: '(E), 3.1.2'
+    link: 'https://www.iso.org/standard/70742.html'
+  lineage_source: 'ISO 19112:2003(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2003-10-15T00:00:00.000Z
+  review_date: 2019-02-14T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-02-14T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19112:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19112:2003 to ISO 19112:2019(E),
+    3.1.2. Lineage source added as ISO 19112:2003(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: identificador geográfico
+      normative_status: preferred
+  _revisions:
+    current: 48768e
+    tree:
+      48768e:
+        object:
+          id: 204
+          definition: >-
+            referencia espacial en forma de etiqueta o código que identifica una
+            localización
+          language_code: spa
+          notes: []
+          examples:
+            - >-
+              "España" es un ejemplo de un nombre de país, "SW1P 3AD" es un
+              ejemplo de un código postal.
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19112:2019'
+            clause: '(E), 3.1.2'
+            link: 'https://www.iso.org/standard/70742.html'
+          lineage_source: 'ISO 19112:2003(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2003-10-15T00:00:00.000Z
+          review_date: 2019-02-14T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-02-14T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19112:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19112:2003 to ISO
+            19112:2019(E), 3.1.2. Lineage source added as ISO 19112:2003(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: identificador geográfico
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-10-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+swe:
+  id: 204
+  definition: >-
+    rumslig referens som identifierar en plats på annat sätt än genom
+    koordinater
+  country_code: swe
+  language_code: swe
+  notes: []
+  examples:
+    - >-
+      'Spain' is an example of a country name, 'SW1P 3AD' is an example of a
+      postcode.
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19112:2019'
+    clause: '(E), 3.1.2'
+    link: 'https://www.iso.org/standard/70742.html'
+  lineage_source: 'ISO 19112:2003(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2003-10-15T00:00:00.000Z
+  review_date: 2019-02-14T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-02-14T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19112:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19112:2003 to ISO 19112:2019(E),
+    3.1.2. Lineage source added as ISO 19112:2003(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: geografisk indentifierare
+      normative_status: preferred
+  _revisions:
+    current: ee2df4
+    tree:
+      ee2df4:
+        object:
+          id: 204
+          definition: >-
+            rumslig referens som identifierar en plats på annat sätt än genom
+            koordinater
+          country_code: swe
+          language_code: swe
+          notes: []
+          examples:
+            - >-
+              'Spain' is an example of a country name, 'SW1P 3AD' is an example
+              of a postcode.
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19112:2019'
+            clause: '(E), 3.1.2'
+            link: 'https://www.iso.org/standard/70742.html'
+          lineage_source: 'ISO 19112:2003(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2003-10-15T00:00:00.000Z
+          review_date: 2019-02-14T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-02-14T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19112:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19112:2003 to ISO
+            19112:2019(E), 3.1.2. Lineage source added as ISO 19112:2003(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: geografisk indentifierare
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-10-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

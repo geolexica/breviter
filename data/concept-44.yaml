@@ -1,0 +1,769 @@
+term: classifier <UML>
+termid: 44
+eng:
+  id: 44
+  definition: mechanism that describes behavioural and structural features
+  language_code: eng
+  notes:
+    - 'Classifiers include interfaces, classes, datatypes, and components.'
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: ISO/IEC 19501
+    link: 'https://www.iso.org/standard/32620.html'
+  lineage_source: 'ISO/TS 19103:2005 ,4.2.8'
+  lineage_source_similarity: 1
+  date_accepted: 2005-07-15T00:00:00.000Z
+  date_amended: 2015-12-01T00:00:00.000Z
+  review_date: 2009-01-14T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2015-12-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19103:2015'
+  review_decision_notes: >-
+    The entry has been superseded. An entry with a revised definition has been
+    published in ISO 19103:2015
+  release: '-1'
+  terms:
+    - type: expression
+      designation: classifier <UML>
+      normative_status: null
+  _revisions:
+    current: 5b2051
+    tree:
+      5b2051:
+        object:
+          id: 44
+          definition: mechanism that describes behavioural and structural features
+          language_code: eng
+          notes:
+            - >-
+              Classifiers include interfaces, classes, datatypes, and
+              components.
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: ISO/IEC 19501
+            link: 'https://www.iso.org/standard/32620.html'
+          lineage_source: 'ISO/TS 19103:2005 ,4.2.8'
+          lineage_source_similarity: 1
+          date_accepted: 2005-07-15T00:00:00.000Z
+          date_amended: 2015-12-01T00:00:00.000Z
+          review_date: 2009-01-14T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2015-12-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19103:2015'
+          review_decision_notes: >-
+            The entry has been superseded. An entry with a revised definition
+            has been published in ISO 19103:2015
+          release: '-1'
+          terms:
+            - type: expression
+              designation: classifier <UML>
+              normative_status: null
+        parents: []
+        timeCreated: 2005-07-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+ara:
+  id: 44
+  definition: آلية تصف المعالم السلوكية والهيكلية
+  language_code: ara
+  notes:
+    - 'المصنفات تشمل الواجهات , والفئات , وأنواع البيانات , المكونات'
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: ISO/IEC 19501
+    link: 'https://www.iso.org/standard/32620.html'
+  lineage_source: 'ISO/TS 19103:2005 ,4.2.8'
+  lineage_source_similarity: 1
+  date_accepted: 2005-07-15T00:00:00.000Z
+  date_amended: 2015-12-01T00:00:00.000Z
+  review_date: 2009-01-14T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2015-12-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19103:2015'
+  review_decision_notes: >-
+    The entry has been superseded. An entry with a revised definition has been
+    published in ISO 19103:2015
+  release: '-1'
+  terms:
+    - type: expression
+      designation: مصنِّف <UML>
+      normative_status: null
+  _revisions:
+    current: edff49
+    tree:
+      edff49:
+        object:
+          id: 44
+          definition: آلية تصف المعالم السلوكية والهيكلية
+          language_code: ara
+          notes:
+            - 'المصنفات تشمل الواجهات , والفئات , وأنواع البيانات , المكونات'
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: ISO/IEC 19501
+            link: 'https://www.iso.org/standard/32620.html'
+          lineage_source: 'ISO/TS 19103:2005 ,4.2.8'
+          lineage_source_similarity: 1
+          date_accepted: 2005-07-15T00:00:00.000Z
+          date_amended: 2015-12-01T00:00:00.000Z
+          review_date: 2009-01-14T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2015-12-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19103:2015'
+          review_decision_notes: >-
+            The entry has been superseded. An entry with a revised definition
+            has been published in ISO 19103:2015
+          release: '-1'
+          terms:
+            - type: expression
+              designation: مصنِّف <UML>
+              normative_status: null
+        parents: []
+        timeCreated: 2005-07-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+zho:
+  id: 44
+  definition: 描述行为和结构要素的机制。
+  language_code: zho
+  notes:
+    - 类元包括接口、类、数据类型和组分。
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: ISO/IEC 19501
+    link: 'https://www.iso.org/standard/32620.html'
+  lineage_source: 'ISO/TS 19103:2005 ,4.2.8'
+  lineage_source_similarity: 1
+  date_accepted: 2005-07-15T00:00:00.000Z
+  date_amended: 2015-12-01T00:00:00.000Z
+  review_date: 2009-01-14T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2015-12-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19103:2015'
+  review_decision_notes: >-
+    The entry has been superseded. An entry with a revised definition has been
+    published in ISO 19103:2015
+  release: '-1'
+  terms:
+    - type: expression
+      designation: 类元<UML>
+      normative_status: null
+  _revisions:
+    current: dbb4e7
+    tree:
+      dbb4e7:
+        object:
+          id: 44
+          definition: 描述行为和结构要素的机制。
+          language_code: zho
+          notes:
+            - 类元包括接口、类、数据类型和组分。
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: ISO/IEC 19501
+            link: 'https://www.iso.org/standard/32620.html'
+          lineage_source: 'ISO/TS 19103:2005 ,4.2.8'
+          lineage_source_similarity: 1
+          date_accepted: 2005-07-15T00:00:00.000Z
+          date_amended: 2015-12-01T00:00:00.000Z
+          review_date: 2009-01-14T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2015-12-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19103:2015'
+          review_decision_notes: >-
+            The entry has been superseded. An entry with a revised definition
+            has been published in ISO 19103:2015
+          release: '-1'
+          terms:
+            - type: expression
+              designation: 类元<UML>
+              normative_status: null
+        parents: []
+        timeCreated: 2005-07-15T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+dan:
+  id: 44
+  definition: 'mekanisme, der beskriver adfærdsmæssige og strukturelle træk'
+  language_code: dan
+  notes:
+    - 'Klassifikatorer omfatter grænseflader, klasser, datatyper og komponenter.'
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: ISO/IEC 19501
+    link: 'https://www.iso.org/standard/32620.html'
+  lineage_source: 'ISO/TS 19103:2005 ,4.2.8'
+  lineage_source_similarity: 1
+  date_accepted: 2005-07-15T00:00:00.000Z
+  date_amended: 2015-12-01T00:00:00.000Z
+  review_date: 2009-01-14T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2015-12-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19103:2015'
+  review_decision_notes: >-
+    The entry has been superseded. An entry with a revised definition has been
+    published in ISO 19103:2015
+  release: '-1'
+  terms:
+    - type: expression
+      designation: klassifikator <UML>
+      normative_status: null
+  _revisions:
+    current: 9330b4
+    tree:
+      9330b4:
+        object:
+          id: 44
+          definition: 'mekanisme, der beskriver adfærdsmæssige og strukturelle træk'
+          language_code: dan
+          notes:
+            - >-
+              Klassifikatorer omfatter grænseflader, klasser, datatyper og
+              komponenter.
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: ISO/IEC 19501
+            link: 'https://www.iso.org/standard/32620.html'
+          lineage_source: 'ISO/TS 19103:2005 ,4.2.8'
+          lineage_source_similarity: 1
+          date_accepted: 2005-07-15T00:00:00.000Z
+          date_amended: 2015-12-01T00:00:00.000Z
+          review_date: 2009-01-14T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2015-12-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19103:2015'
+          review_decision_notes: >-
+            The entry has been superseded. An entry with a revised definition
+            has been published in ISO 19103:2015
+          release: '-1'
+          terms:
+            - type: expression
+              designation: klassifikator <UML>
+              normative_status: null
+        parents: []
+        timeCreated: 2005-07-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+fin:
+  id: 44
+  definition: 'mekanismi, joka kuvaa käyttäytymiseen ja rakenteeseen liittyviä piirteitä'
+  language_code: fin
+  notes:
+    - >-
+      Luokittelijoita ovat esimerkiksi rajapinnat, luokat, tietotyypit ja
+      komponentit.
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: ISO/IEC 19501
+    link: 'https://www.iso.org/standard/32620.html'
+  lineage_source: 'ISO/TS 19103:2005 ,4.2.8'
+  lineage_source_similarity: 1
+  date_accepted: 2005-07-15T00:00:00.000Z
+  date_amended: 2015-12-01T00:00:00.000Z
+  review_date: 2009-01-14T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2015-12-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19103:2015'
+  review_decision_notes: >-
+    The entry has been superseded. An entry with a revised definition has been
+    published in ISO 19103:2015
+  release: '-1'
+  terms:
+    - type: expression
+      designation: luokittelija <UML>
+      normative_status: null
+  _revisions:
+    current: 214ce8
+    tree:
+      214ce8:
+        object:
+          id: 44
+          definition: >-
+            mekanismi, joka kuvaa käyttäytymiseen ja rakenteeseen liittyviä
+            piirteitä
+          language_code: fin
+          notes:
+            - >-
+              Luokittelijoita ovat esimerkiksi rajapinnat, luokat, tietotyypit
+              ja komponentit.
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: ISO/IEC 19501
+            link: 'https://www.iso.org/standard/32620.html'
+          lineage_source: 'ISO/TS 19103:2005 ,4.2.8'
+          lineage_source_similarity: 1
+          date_accepted: 2005-07-15T00:00:00.000Z
+          date_amended: 2015-12-01T00:00:00.000Z
+          review_date: 2009-01-14T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2015-12-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19103:2015'
+          review_decision_notes: >-
+            The entry has been superseded. An entry with a revised definition
+            has been published in ISO 19103:2015
+          release: '-1'
+          terms:
+            - type: expression
+              designation: luokittelija <UML>
+              normative_status: null
+        parents: []
+        timeCreated: 2005-07-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+fra:
+  id: 44
+  definition: mécanisme décrivant les caractéristiques comportementales et structurelles
+  language_code: fra
+  notes: []
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: ISO/IEC 19501
+    link: 'https://www.iso.org/standard/32620.html'
+  lineage_source: 'ISO/TS 19103:2005 ,4.2.8'
+  lineage_source_similarity: 1
+  date_accepted: 2005-07-15T00:00:00.000Z
+  date_amended: 2015-12-01T00:00:00.000Z
+  review_date: 2009-01-14T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2015-12-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19103:2015'
+  review_decision_notes: >-
+    The entry has been superseded. An entry with a revised definition has been
+    published in ISO 19103:2015
+  release: '-1'
+  terms:
+    - type: expression
+      designation: classificateur <UML>
+      normative_status: null
+  _revisions:
+    current: '902211'
+    tree:
+      '902211':
+        object:
+          id: 44
+          definition: >-
+            mécanisme décrivant les caractéristiques comportementales et
+            structurelles
+          language_code: fra
+          notes: []
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: ISO/IEC 19501
+            link: 'https://www.iso.org/standard/32620.html'
+          lineage_source: 'ISO/TS 19103:2005 ,4.2.8'
+          lineage_source_similarity: 1
+          date_accepted: 2005-07-15T00:00:00.000Z
+          date_amended: 2015-12-01T00:00:00.000Z
+          review_date: 2009-01-14T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2015-12-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19103:2015'
+          review_decision_notes: >-
+            The entry has been superseded. An entry with a revised definition
+            has been published in ISO 19103:2015
+          release: '-1'
+          terms:
+            - type: expression
+              designation: classificateur <UML>
+              normative_status: null
+        parents: []
+        timeCreated: 2005-07-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+deu:
+  id: 44
+  language_code: deu
+  notes:
+    - 'Classifiers include interfaces, classes, datatypes, and components.'
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: ISO/IEC 19501
+    link: 'https://www.iso.org/standard/32620.html'
+  lineage_source: 'ISO/TS 19103:2005 ,4.2.8'
+  lineage_source_similarity: 1
+  date_accepted: 2005-07-15T00:00:00.000Z
+  date_amended: 2015-12-01T00:00:00.000Z
+  review_date: 2009-01-14T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2015-12-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19103:2015'
+  review_decision_notes: >-
+    The entry has been superseded. An entry with a revised definition has been
+    published in ISO 19103:2015
+  release: '-1'
+  terms:
+    - type: expression
+      designation: Klassifikator <UML>
+      normative_status: null
+  _revisions:
+    current: c34db2
+    tree:
+      c34db2:
+        object:
+          id: 44
+          language_code: deu
+          notes:
+            - >-
+              Classifiers include interfaces, classes, datatypes, and
+              components.
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: ISO/IEC 19501
+            link: 'https://www.iso.org/standard/32620.html'
+          lineage_source: 'ISO/TS 19103:2005 ,4.2.8'
+          lineage_source_similarity: 1
+          date_accepted: 2005-07-15T00:00:00.000Z
+          date_amended: 2015-12-01T00:00:00.000Z
+          review_date: 2009-01-14T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2015-12-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19103:2015'
+          review_decision_notes: >-
+            The entry has been superseded. An entry with a revised definition
+            has been published in ISO 19103:2015
+          release: '-1'
+          terms:
+            - type: expression
+              designation: Klassifikator <UML>
+              normative_status: null
+        parents: []
+        timeCreated: 2005-07-15T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+kor:
+  id: 44
+  definition: 행위 및 구조적 특성을 기술하는 메커니즘
+  language_code: kor
+  notes:
+    - '분류자에는 인터페이스, 클래스, 데이터 유형, 컴포넌트 등이 포함된다.'
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: ISO/IEC 19501
+    link: 'https://www.iso.org/standard/32620.html'
+  lineage_source: 'ISO/TS 19103:2005 ,4.2.8'
+  lineage_source_similarity: 1
+  date_accepted: 2005-07-15T00:00:00.000Z
+  date_amended: 2015-12-01T00:00:00.000Z
+  review_date: 2009-01-14T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2015-12-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19103:2015'
+  review_decision_notes: >-
+    The entry has been superseded. An entry with a revised definition has been
+    published in ISO 19103:2015
+  release: '-1'
+  terms:
+    - type: expression
+      designation: 분류자 <UML>
+      normative_status: null
+  _revisions:
+    current: 20b859
+    tree:
+      20b859:
+        object:
+          id: 44
+          definition: 행위 및 구조적 특성을 기술하는 메커니즘
+          language_code: kor
+          notes:
+            - '분류자에는 인터페이스, 클래스, 데이터 유형, 컴포넌트 등이 포함된다.'
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: ISO/IEC 19501
+            link: 'https://www.iso.org/standard/32620.html'
+          lineage_source: 'ISO/TS 19103:2005 ,4.2.8'
+          lineage_source_similarity: 1
+          date_accepted: 2005-07-15T00:00:00.000Z
+          date_amended: 2015-12-01T00:00:00.000Z
+          review_date: 2009-01-14T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2015-12-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19103:2015'
+          review_decision_notes: >-
+            The entry has been superseded. An entry with a revised definition
+            has been published in ISO 19103:2015
+          release: '-1'
+          terms:
+            - type: expression
+              designation: 분류자 <UML>
+              normative_status: null
+        parents: []
+        timeCreated: 2005-07-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 44
+  definition: 'механизм, описывающий структурные и поведенческие особенности'
+  language_code: rus
+  notes:
+    - 'К классификаторам относятся интерфейсы, классы, типы данных и компоненты'
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: ISO/IEC 19501
+    link: 'https://www.iso.org/standard/32620.html'
+  lineage_source: 'ISO/TS 19103:2005 ,4.2.8'
+  lineage_source_similarity: 1
+  date_accepted: 2005-07-15T00:00:00.000Z
+  review_date: 2009-08-31T00:00:00.000Z
+  review_status: ''
+  review_type: ''
+  release: '1'
+  terms:
+    - type: expression
+      designation: классификатор <UML>
+      normative_status: preferred
+  _revisions:
+    current: 6a7f73
+    tree:
+      6a7f73:
+        object:
+          id: 44
+          definition: 'механизм, описывающий структурные и поведенческие особенности'
+          language_code: rus
+          notes:
+            - >-
+              К классификаторам относятся интерфейсы, классы, типы данных и
+              компоненты
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: ISO/IEC 19501
+            link: 'https://www.iso.org/standard/32620.html'
+          lineage_source: 'ISO/TS 19103:2005 ,4.2.8'
+          lineage_source_similarity: 1
+          date_accepted: 2005-07-15T00:00:00.000Z
+          review_date: 2009-08-31T00:00:00.000Z
+          review_status: ''
+          review_type: ''
+          release: '1'
+          terms:
+            - type: expression
+              designation: классификатор <UML>
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-07-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 44
+  definition: >-
+    mecanismo que describe objetos geográficos estructurados y con
+    comportamiento
+  language_code: spa
+  notes:
+    - >-
+      Los clasificadores incluyen interfaces, clases, tipos de datos y
+      componentes.
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: ISO/IEC 19501
+    link: 'https://www.iso.org/standard/32620.html'
+  lineage_source: 'ISO/TS 19103:2005 ,4.2.8'
+  lineage_source_similarity: 1
+  date_accepted: 2005-07-15T00:00:00.000Z
+  date_amended: 2015-12-01T00:00:00.000Z
+  review_date: 2009-01-14T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2015-12-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19103:2015'
+  review_decision_notes: >-
+    The entry has been superseded. An entry with a revised definition has been
+    published in ISO 19103:2015
+  release: '-1'
+  terms:
+    - type: expression
+      designation: clasificador <UML>
+      normative_status: null
+  _revisions:
+    current: 08e280
+    tree:
+      08e280:
+        object:
+          id: 44
+          definition: >-
+            mecanismo que describe objetos geográficos estructurados y con
+            comportamiento
+          language_code: spa
+          notes:
+            - >-
+              Los clasificadores incluyen interfaces, clases, tipos de datos y
+              componentes.
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: ISO/IEC 19501
+            link: 'https://www.iso.org/standard/32620.html'
+          lineage_source: 'ISO/TS 19103:2005 ,4.2.8'
+          lineage_source_similarity: 1
+          date_accepted: 2005-07-15T00:00:00.000Z
+          date_amended: 2015-12-01T00:00:00.000Z
+          review_date: 2009-01-14T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2015-12-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19103:2015'
+          review_decision_notes: >-
+            The entry has been superseded. An entry with a revised definition
+            has been published in ISO 19103:2015
+          release: '-1'
+          terms:
+            - type: expression
+              designation: clasificador <UML>
+              normative_status: null
+        parents: []
+        timeCreated: 2005-07-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+swe:
+  id: 44
+  definition: mechanism that describes behavioural and structural features
+  language_code: swe
+  notes:
+    - 'Classifiers include interfaces, classes, datatypes, and components.'
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: ISO/IEC 19501
+    link: 'https://www.iso.org/standard/32620.html'
+  lineage_source: 'ISO/TS 19103:2005 ,4.2.8'
+  lineage_source_similarity: 1
+  date_accepted: 2005-07-15T00:00:00.000Z
+  date_amended: 2015-12-01T00:00:00.000Z
+  review_date: 2009-01-14T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2015-12-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19103:2015'
+  review_decision_notes: >-
+    The entry has been superseded. An entry with a revised definition has been
+    published in ISO 19103:2015
+  release: '-1'
+  terms:
+    - type: expression
+      designation: classifier <UML>
+      normative_status: null
+  _revisions:
+    current: 9f6496
+    tree:
+      9f6496:
+        object:
+          id: 44
+          definition: mechanism that describes behavioural and structural features
+          language_code: swe
+          notes:
+            - >-
+              Classifiers include interfaces, classes, datatypes, and
+              components.
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: ISO/IEC 19501
+            link: 'https://www.iso.org/standard/32620.html'
+          lineage_source: 'ISO/TS 19103:2005 ,4.2.8'
+          lineage_source_similarity: 1
+          date_accepted: 2005-07-15T00:00:00.000Z
+          date_amended: 2015-12-01T00:00:00.000Z
+          review_date: 2009-01-14T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2015-12-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19103:2015'
+          review_decision_notes: >-
+            The entry has been superseded. An entry with a revised definition
+            has been published in ISO 19103:2015
+          release: '-1'
+          terms:
+            - type: expression
+              designation: classifier <UML>
+              normative_status: null
+        parents: []
+        timeCreated: 2005-07-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

@@ -1,0 +1,749 @@
+term: service
+termid: 405
+eng:
+  id: 405
+  definition: >-
+    distinct part of the functionality that is provided by an entity through
+    interfaces
+  language_code: eng
+  notes:
+    - 'See 7.2 [of ISO 19119] for a discussion of service'
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19119:2016'
+    clause: 4.1.12
+    link: 'https://www.iso.org/standard/59221.html'
+  lineage_source: ISO/IEC TR 14252(Adapted from)
+  date_accepted: 2005-02-15T00:00:00.000Z
+  review_date: 2012-08-11T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2016-01-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19119:2016'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO/IEC TR 14252 (Adapted from) to ISO
+    19119:2016, 4.1.12. Lineage source added as ISO/IEC TR 14252(Adapted from)
+  release: '1'
+  terms:
+    - type: expression
+      designation: service
+      normative_status: preferred
+  _revisions:
+    current: '605347'
+    tree:
+      '605347':
+        object:
+          id: 405
+          definition: >-
+            distinct part of the functionality that is provided by an entity
+            through interfaces
+          language_code: eng
+          notes:
+            - 'See 7.2 [of ISO 19119] for a discussion of service'
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19119:2016'
+            clause: 4.1.12
+            link: 'https://www.iso.org/standard/59221.html'
+          lineage_source: ISO/IEC TR 14252(Adapted from)
+          date_accepted: 2005-02-15T00:00:00.000Z
+          review_date: 2012-08-11T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2016-01-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19119:2016'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO/IEC TR 14252 (Adapted from)
+            to ISO 19119:2016, 4.1.12. Lineage source added as ISO/IEC TR
+            14252(Adapted from)
+          release: '1'
+          terms:
+            - type: expression
+              designation: service
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+ara:
+  id: 405
+  definition: جزء متميز من الفعالية الوظيفية التي يقدمها كيان ما عن طريق الواجهات
+  language_code: ara
+  notes:
+    - 'أنظر الفقرة (7 – 2) [ من المقياس آيزو 19119] التي تتضمن مناقشة حول الخدمة.'
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19119:2016'
+    clause: 4.1.12
+    link: 'https://www.iso.org/standard/59221.html'
+  lineage_source: ISO/IEC TR 14252(Adapted from)
+  date_accepted: 2005-02-15T00:00:00.000Z
+  review_date: 2012-08-11T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2016-01-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19119:2016'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO/IEC TR 14252 (Adapted from) to ISO
+    19119:2016, 4.1.12. Lineage source added as ISO/IEC TR 14252(Adapted from)
+  release: '1'
+  terms:
+    - type: expression
+      designation: خدمة
+      normative_status: preferred
+  _revisions:
+    current: c88548
+    tree:
+      c88548:
+        object:
+          id: 405
+          definition: جزء متميز من الفعالية الوظيفية التي يقدمها كيان ما عن طريق الواجهات
+          language_code: ara
+          notes:
+            - >-
+              أنظر الفقرة (7 – 2) [ من المقياس آيزو 19119] التي تتضمن مناقشة حول
+              الخدمة.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19119:2016'
+            clause: 4.1.12
+            link: 'https://www.iso.org/standard/59221.html'
+          lineage_source: ISO/IEC TR 14252(Adapted from)
+          date_accepted: 2005-02-15T00:00:00.000Z
+          review_date: 2012-08-11T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2016-01-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19119:2016'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO/IEC TR 14252 (Adapted from)
+            to ISO 19119:2016, 4.1.12. Lineage source added as ISO/IEC TR
+            14252(Adapted from)
+          release: '1'
+          terms:
+            - type: expression
+              designation: خدمة
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+zho:
+  id: 405
+  definition: 实体通过接口提供的功能的可区分部分。
+  language_code: zho
+  notes:
+    - 见 ISO 19119 的7.2条对服务的讨论。
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19119:2016'
+    clause: 4.1.12
+    link: 'https://www.iso.org/standard/59221.html'
+  lineage_source: ISO/IEC TR 14252(Adapted from)
+  date_accepted: 2005-02-15T00:00:00.000Z
+  review_date: 2012-08-11T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2016-01-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19119:2016'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO/IEC TR 14252 (Adapted from) to ISO
+    19119:2016, 4.1.12. Lineage source added as ISO/IEC TR 14252(Adapted from)
+  release: '1'
+  terms:
+    - type: expression
+      designation: 服务
+      normative_status: preferred
+  _revisions:
+    current: d4e3dc
+    tree:
+      d4e3dc:
+        object:
+          id: 405
+          definition: 实体通过接口提供的功能的可区分部分。
+          language_code: zho
+          notes:
+            - 见 ISO 19119 的7.2条对服务的讨论。
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19119:2016'
+            clause: 4.1.12
+            link: 'https://www.iso.org/standard/59221.html'
+          lineage_source: ISO/IEC TR 14252(Adapted from)
+          date_accepted: 2005-02-15T00:00:00.000Z
+          review_date: 2012-08-11T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2016-01-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19119:2016'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO/IEC TR 14252 (Adapted from)
+            to ISO 19119:2016, 4.1.12. Lineage source added as ISO/IEC TR
+            14252(Adapted from)
+          release: '1'
+          terms:
+            - type: expression
+              designation: 服务
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-02-15T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+fin:
+  id: 405
+  definition: >-
+    organisoidun toiminnan tuloksena syntyvä aineeton hyödyke tarpeiden
+    tyydyttämiseksi
+  language_code: fin
+  notes:
+    - >-
+      Lisätietoa palvelusta: katso ISO-standardin 19119 luku 7.2.
+
+      Geoinformatiikan sanasto: palvelu on organisoidun toiminnan tuloksena
+      syntyvä aineeton hyödyke tarpeiden tyydyttämiseksi
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19119:2016'
+    clause: 4.1.12
+    link: 'https://www.iso.org/standard/59221.html'
+  lineage_source: ISO/IEC TR 14252(Adapted from)
+  date_accepted: 2005-02-15T00:00:00.000Z
+  review_date: 2012-08-11T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2016-01-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19119:2016'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO/IEC TR 14252 (Adapted from) to ISO
+    19119:2016, 4.1.12. Lineage source added as ISO/IEC TR 14252(Adapted from)
+  release: '1'
+  terms:
+    - type: expression
+      designation: palvelu
+      normative_status: preferred
+  _revisions:
+    current: 7e23d2
+    tree:
+      7e23d2:
+        object:
+          id: 405
+          definition: >-
+            organisoidun toiminnan tuloksena syntyvä aineeton hyödyke tarpeiden
+            tyydyttämiseksi
+          language_code: fin
+          notes:
+            - >-
+              Lisätietoa palvelusta: katso ISO-standardin 19119 luku 7.2.
+
+              Geoinformatiikan sanasto: palvelu on organisoidun toiminnan
+              tuloksena syntyvä aineeton hyödyke tarpeiden tyydyttämiseksi
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19119:2016'
+            clause: 4.1.12
+            link: 'https://www.iso.org/standard/59221.html'
+          lineage_source: ISO/IEC TR 14252(Adapted from)
+          date_accepted: 2005-02-15T00:00:00.000Z
+          review_date: 2012-08-11T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2016-01-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19119:2016'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO/IEC TR 14252 (Adapted from)
+            to ISO 19119:2016, 4.1.12. Lineage source added as ISO/IEC TR
+            14252(Adapted from)
+          release: '1'
+          terms:
+            - type: expression
+              designation: palvelu
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+fra:
+  id: 405
+  definition: >-
+    fonctionnalité distincte fournie par une entité par l'intermédiaire
+    d'interfaces
+  language_code: fra
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19119:2016'
+    clause: 4.1.12
+    link: 'https://www.iso.org/standard/59221.html'
+  lineage_source: ISO/IEC TR 14252(Adapted from)
+  date_accepted: 2005-02-15T00:00:00.000Z
+  review_date: 2012-08-11T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2016-01-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19119:2016'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO/IEC TR 14252 (Adapted from) to ISO
+    19119:2016, 4.1.12. Lineage source added as ISO/IEC TR 14252(Adapted from)
+  release: '1'
+  terms:
+    - type: expression
+      designation: service
+      normative_status: preferred
+  _revisions:
+    current: '595478'
+    tree:
+      '595478':
+        object:
+          id: 405
+          definition: >-
+            fonctionnalité distincte fournie par une entité par l'intermédiaire
+            d'interfaces
+          language_code: fra
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19119:2016'
+            clause: 4.1.12
+            link: 'https://www.iso.org/standard/59221.html'
+          lineage_source: ISO/IEC TR 14252(Adapted from)
+          date_accepted: 2005-02-15T00:00:00.000Z
+          review_date: 2012-08-11T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2016-01-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19119:2016'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO/IEC TR 14252 (Adapted from)
+            to ISO 19119:2016, 4.1.12. Lineage source added as ISO/IEC TR
+            14252(Adapted from)
+          release: '1'
+          terms:
+            - type: expression
+              designation: service
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+deu:
+  id: 405
+  definition: >-
+    charakteristischer Teil der Funktionalität, der von einer Entität durch
+    Schnittstellen bereitgestellt wird
+  language_code: deu
+  notes:
+    - 'See 7.2 [of ISO 19119] for a discussion of service'
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19119:2016'
+    clause: 4.1.12
+    link: 'https://www.iso.org/standard/59221.html'
+  lineage_source: ISO/IEC TR 14252(Adapted from)
+  date_accepted: 2005-02-15T00:00:00.000Z
+  review_date: 2012-08-11T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2016-01-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19119:2016'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO/IEC TR 14252 (Adapted from) to ISO
+    19119:2016, 4.1.12. Lineage source added as ISO/IEC TR 14252(Adapted from)
+  release: '1'
+  terms:
+    - type: expression
+      designation: 'Dienst (Syn.: Service)'
+      normative_status: preferred
+  _revisions:
+    current: 46ba19
+    tree:
+      46ba19:
+        object:
+          id: 405
+          definition: >-
+            charakteristischer Teil der Funktionalität, der von einer Entität
+            durch Schnittstellen bereitgestellt wird
+          language_code: deu
+          notes:
+            - 'See 7.2 [of ISO 19119] for a discussion of service'
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19119:2016'
+            clause: 4.1.12
+            link: 'https://www.iso.org/standard/59221.html'
+          lineage_source: ISO/IEC TR 14252(Adapted from)
+          date_accepted: 2005-02-15T00:00:00.000Z
+          review_date: 2012-08-11T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2016-01-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19119:2016'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO/IEC TR 14252 (Adapted from)
+            to ISO 19119:2016, 4.1.12. Lineage source added as ISO/IEC TR
+            14252(Adapted from)
+          release: '1'
+          terms:
+            - type: expression
+              designation: 'Dienst (Syn.: Service)'
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-02-15T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+kor:
+  id: 405
+  definition: 개체의 인터페이스를 통해 제공되는 기능성의 개별 부분
+  language_code: kor
+  notes:
+    - 서비스에 관한 논의는 KS X ISO 19110의 7.2절을 참조하라.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19119:2016'
+    clause: 4.1.12
+    link: 'https://www.iso.org/standard/59221.html'
+  lineage_source: ISO/IEC TR 14252(Adapted from)
+  date_accepted: 2005-02-15T00:00:00.000Z
+  review_date: 2012-08-11T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2016-01-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19119:2016'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO/IEC TR 14252 (Adapted from) to ISO
+    19119:2016, 4.1.12. Lineage source added as ISO/IEC TR 14252(Adapted from)
+  release: '1'
+  terms:
+    - type: expression
+      designation: 서비스
+      normative_status: preferred
+  _revisions:
+    current: f62482
+    tree:
+      f62482:
+        object:
+          id: 405
+          definition: 개체의 인터페이스를 통해 제공되는 기능성의 개별 부분
+          language_code: kor
+          notes:
+            - 서비스에 관한 논의는 KS X ISO 19110의 7.2절을 참조하라.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19119:2016'
+            clause: 4.1.12
+            link: 'https://www.iso.org/standard/59221.html'
+          lineage_source: ISO/IEC TR 14252(Adapted from)
+          date_accepted: 2005-02-15T00:00:00.000Z
+          review_date: 2012-08-11T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2016-01-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19119:2016'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO/IEC TR 14252 (Adapted from)
+            to ISO 19119:2016, 4.1.12. Lineage source added as ISO/IEC TR
+            14252(Adapted from)
+          release: '1'
+          terms:
+            - type: expression
+              designation: 서비스
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+pol:
+  id: 405
+  definition: >-
+    wydzielona część funkcjonalności zapewniana przez jednostkę za pośrednictwem
+    interfejsów (4.2)
+
+    [adaptowana z ISO/IEC TR 14252]
+  language_code: pol
+  notes:
+    - 'Omówienie usługi, patrz 7.2.'
+  examples: []
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19119:2016'
+    clause: 4.1.12
+    link: 'https://www.iso.org/standard/59221.html'
+  lineage_source: ISO/IEC TR 14252(Adapted from)
+  date_accepted: 2005-02-15T00:00:00.000Z
+  review_date: 2012-08-11T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2016-01-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19119:2016'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO/IEC TR 14252 (Adapted from) to ISO
+    19119:2016, 4.1.12. Lineage source added as ISO/IEC TR 14252(Adapted from)
+  release: '1'
+  terms:
+    - type: expression
+      designation: usługa
+      normative_status: preferred
+  _revisions:
+    current: 89fa86
+    tree:
+      89fa86:
+        object:
+          id: 405
+          definition: >-
+            wydzielona część funkcjonalności zapewniana przez jednostkę za
+            pośrednictwem interfejsów (4.2)
+
+            [adaptowana z ISO/IEC TR 14252]
+          language_code: pol
+          notes:
+            - 'Omówienie usługi, patrz 7.2.'
+          examples: []
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19119:2016'
+            clause: 4.1.12
+            link: 'https://www.iso.org/standard/59221.html'
+          lineage_source: ISO/IEC TR 14252(Adapted from)
+          date_accepted: 2005-02-15T00:00:00.000Z
+          review_date: 2012-08-11T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2016-01-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19119:2016'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO/IEC TR 14252 (Adapted from)
+            to ISO 19119:2016, 4.1.12. Lineage source added as ISO/IEC TR
+            14252(Adapted from)
+          release: '1'
+          terms:
+            - type: expression
+              designation: usługa
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 405
+  definition: >-
+    особая часть функциональности, представляемая некоторой сущностью через
+    интерфейсы
+  language_code: rus
+  notes:
+    - См. 7.2  ISO 19119 для обсуждения сервисов
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO/IEC TR 14252 '
+    clause: (Adapted from)
+    link: 'https://www.iso.org/standard/23985.html'
+  lineage_source: Internet
+  date_accepted: 2005-02-15T00:00:00.000Z
+  terms:
+    - type: expression
+      designation: сервис
+      normative_status: preferred
+  _revisions:
+    current: 530f48
+    tree:
+      530f48:
+        object:
+          id: 405
+          definition: >-
+            особая часть функциональности, представляемая некоторой сущностью
+            через интерфейсы
+          language_code: rus
+          notes:
+            - См. 7.2  ISO 19119 для обсуждения сервисов
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO/IEC TR 14252 '
+            clause: (Adapted from)
+            link: 'https://www.iso.org/standard/23985.html'
+          lineage_source: Internet
+          date_accepted: 2005-02-15T00:00:00.000Z
+          terms:
+            - type: expression
+              designation: сервис
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 405
+  definition: >-
+    parte distinguible de la funcionalidad que una entidad proporciona a través
+    de sus interfaces
+  language_code: spa
+  notes:
+    - Véase el apartado 7.2 para una discusión de servicio.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19119:2016'
+    clause: 4.1.12
+    link: 'https://www.iso.org/standard/59221.html'
+  lineage_source: ISO/IEC TR 14252(Adapted from)
+  date_accepted: 2005-02-15T00:00:00.000Z
+  review_date: 2012-08-11T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2016-01-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19119:2016'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO/IEC TR 14252 (Adapted from) to ISO
+    19119:2016, 4.1.12. Lineage source added as ISO/IEC TR 14252(Adapted from)
+  release: '1'
+  terms:
+    - type: expression
+      designation: servicio
+      normative_status: preferred
+  _revisions:
+    current: 954c6e
+    tree:
+      954c6e:
+        object:
+          id: 405
+          definition: >-
+            parte distinguible de la funcionalidad que una entidad proporciona a
+            través de sus interfaces
+          language_code: spa
+          notes:
+            - Véase el apartado 7.2 para una discusión de servicio.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19119:2016'
+            clause: 4.1.12
+            link: 'https://www.iso.org/standard/59221.html'
+          lineage_source: ISO/IEC TR 14252(Adapted from)
+          date_accepted: 2005-02-15T00:00:00.000Z
+          review_date: 2012-08-11T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2016-01-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19119:2016'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO/IEC TR 14252 (Adapted from)
+            to ISO 19119:2016, 4.1.12. Lineage source added as ISO/IEC TR
+            14252(Adapted from)
+          release: '1'
+          terms:
+            - type: expression
+              designation: servicio
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+swe:
+  id: 405
+  definition: <inom IT> funktionalitet erbjuden via ett väldefinierat gränssnitt
+  country_code: swe
+  language_code: swe
+  notes:
+    - 'See 7.2 [of ISO 19119] for a discussion of service'
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19119:2016'
+    clause: 4.1.12
+    link: 'https://www.iso.org/standard/59221.html'
+  lineage_source: ISO/IEC TR 14252(Adapted from)
+  date_accepted: 2005-02-15T00:00:00.000Z
+  review_date: 2012-08-11T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2016-01-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19119:2016'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO/IEC TR 14252 (Adapted from) to ISO
+    19119:2016, 4.1.12. Lineage source added as ISO/IEC TR 14252(Adapted from)
+  release: '1'
+  terms:
+    - type: expression
+      designation: tjänst
+      normative_status: preferred
+  _revisions:
+    current: c06d14
+    tree:
+      c06d14:
+        object:
+          id: 405
+          definition: <inom IT> funktionalitet erbjuden via ett väldefinierat gränssnitt
+          country_code: swe
+          language_code: swe
+          notes:
+            - 'See 7.2 [of ISO 19119] for a discussion of service'
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19119:2016'
+            clause: 4.1.12
+            link: 'https://www.iso.org/standard/59221.html'
+          lineage_source: ISO/IEC TR 14252(Adapted from)
+          date_accepted: 2005-02-15T00:00:00.000Z
+          review_date: 2012-08-11T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2016-01-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19119:2016'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO/IEC TR 14252 (Adapted from)
+            to ISO 19119:2016, 4.1.12. Lineage source added as ISO/IEC TR
+            14252(Adapted from)
+          release: '1'
+          terms:
+            - type: expression
+              designation: tjänst
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

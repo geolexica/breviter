@@ -1,0 +1,820 @@
+term: functional language
+termid: 191
+eng:
+  id: 191
+  definition: language in which feature operations are formally specified
+  language_code: eng
+  notes:
+    - >-
+      In a functional language, feature types may be represented as abstract
+      data types.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19110:2016'
+    clause: '3.8'
+    link: 'https://www.iso.org/standard/57303.html'
+  lineage_source: 'ISO 19110:2005'
+  lineage_source_similarity: 1
+  date_accepted: 2005-02-15T00:00:00.000Z
+  review_date: 2012-01-27T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2016-12-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19110:2016'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19110:2005 to ISO 19110:2016, 3.8.
+    Lineage source added as ISO 19110:2005
+  release: '1'
+  terms:
+    - type: expression
+      designation: functional language
+      normative_status: preferred
+  _revisions:
+    current: '783950'
+    tree:
+      '783950':
+        object:
+          id: 191
+          definition: language in which feature operations are formally specified
+          language_code: eng
+          notes:
+            - >-
+              In a functional language, feature types may be represented as
+              abstract data types.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19110:2016'
+            clause: '3.8'
+            link: 'https://www.iso.org/standard/57303.html'
+          lineage_source: 'ISO 19110:2005'
+          lineage_source_similarity: 1
+          date_accepted: 2005-02-15T00:00:00.000Z
+          review_date: 2012-01-27T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2016-12-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19110:2016'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19110:2005 to ISO
+            19110:2016, 3.8. Lineage source added as ISO 19110:2005
+          release: '1'
+          terms:
+            - type: expression
+              designation: functional language
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+ara:
+  id: 191
+  definition: لغة تحدد فيها عمليات المعالم بشكل رسمي
+  language_code: ara
+  notes:
+    - 'في اللغة الوظيفية , يمكن تمثيل أنواع المعالم على صورة أنواع بيانات مجردة.'
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19110:2016'
+    clause: '3.8'
+    link: 'https://www.iso.org/standard/57303.html'
+  lineage_source: 'ISO 19110:2005'
+  lineage_source_similarity: 1
+  date_accepted: 2005-02-15T00:00:00.000Z
+  review_date: 2012-01-27T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2016-12-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19110:2016'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19110:2005 to ISO 19110:2016, 3.8.
+    Lineage source added as ISO 19110:2005
+  release: '1'
+  terms:
+    - type: expression
+      designation: لغة فعالة
+      normative_status: preferred
+  _revisions:
+    current: 9f3433
+    tree:
+      9f3433:
+        object:
+          id: 191
+          definition: لغة تحدد فيها عمليات المعالم بشكل رسمي
+          language_code: ara
+          notes:
+            - >-
+              في اللغة الوظيفية , يمكن تمثيل أنواع المعالم على صورة أنواع بيانات
+              مجردة.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19110:2016'
+            clause: '3.8'
+            link: 'https://www.iso.org/standard/57303.html'
+          lineage_source: 'ISO 19110:2005'
+          lineage_source_similarity: 1
+          date_accepted: 2005-02-15T00:00:00.000Z
+          review_date: 2012-01-27T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2016-12-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19110:2016'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19110:2005 to ISO
+            19110:2016, 3.8. Lineage source added as ISO 19110:2005
+          release: '1'
+          terms:
+            - type: expression
+              designation: لغة فعالة
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+zho:
+  id: 191
+  definition: 说明要素操作的语言。
+  language_code: zho
+  notes:
+    - 用函数语言，可以将要素类型表示为抽象的数据类型。
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19110:2016'
+    clause: '3.8'
+    link: 'https://www.iso.org/standard/57303.html'
+  lineage_source: 'ISO 19110:2005'
+  lineage_source_similarity: 1
+  date_accepted: 2005-02-15T00:00:00.000Z
+  review_date: 2012-01-27T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2016-12-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19110:2016'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19110:2005 to ISO 19110:2016, 3.8.
+    Lineage source added as ISO 19110:2005
+  release: '1'
+  terms:
+    - type: expression
+      designation: 函数语言
+      normative_status: preferred
+  _revisions:
+    current: dcb8fa
+    tree:
+      dcb8fa:
+        object:
+          id: 191
+          definition: 说明要素操作的语言。
+          language_code: zho
+          notes:
+            - 用函数语言，可以将要素类型表示为抽象的数据类型。
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19110:2016'
+            clause: '3.8'
+            link: 'https://www.iso.org/standard/57303.html'
+          lineage_source: 'ISO 19110:2005'
+          lineage_source_similarity: 1
+          date_accepted: 2005-02-15T00:00:00.000Z
+          review_date: 2012-01-27T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2016-12-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19110:2016'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19110:2005 to ISO
+            19110:2016, 3.8. Lineage source added as ISO 19110:2005
+          release: '1'
+          terms:
+            - type: expression
+              designation: 函数语言
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-02-15T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+dan:
+  id: 191
+  definition: 'sprog, som featureoperationer formelt specificeres i'
+  language_code: dan
+  notes:
+    - I et funktionelt sprog kan featuretyper angives som abstrakte datatyper.
+  examples: []
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19110:2016'
+    clause: '3.8'
+    link: 'https://www.iso.org/standard/57303.html'
+  lineage_source: 'ISO 19110:2005'
+  lineage_source_similarity: 1
+  date_accepted: 2005-02-15T00:00:00.000Z
+  review_date: 2012-01-27T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2016-12-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19110:2016'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19110:2005 to ISO 19110:2016, 3.8.
+    Lineage source added as ISO 19110:2005
+  release: '1'
+  terms:
+    - type: expression
+      designation: funktionelt sprog
+      normative_status: null
+  _revisions:
+    current: 11a067
+    tree:
+      11a067:
+        object:
+          id: 191
+          definition: 'sprog, som featureoperationer formelt specificeres i'
+          language_code: dan
+          notes:
+            - >-
+              I et funktionelt sprog kan featuretyper angives som abstrakte
+              datatyper.
+          examples: []
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19110:2016'
+            clause: '3.8'
+            link: 'https://www.iso.org/standard/57303.html'
+          lineage_source: 'ISO 19110:2005'
+          lineage_source_similarity: 1
+          date_accepted: 2005-02-15T00:00:00.000Z
+          review_date: 2012-01-27T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2016-12-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19110:2016'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19110:2005 to ISO
+            19110:2016, 3.8. Lineage source added as ISO 19110:2005
+          release: '1'
+          terms:
+            - type: expression
+              designation: funktionelt sprog
+              normative_status: null
+        parents: []
+        timeCreated: 2005-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+fin:
+  id: 191
+  definition: 'kieli, jolla kohdetyyppitoiminnot on muodollisesti määritelty'
+  language_code: fin
+  notes:
+    - Funktiokielessä kohdetyyppejä voidaan kuvata abstrakteina tietotyyppeinä.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19110:2016'
+    clause: '3.8'
+    link: 'https://www.iso.org/standard/57303.html'
+  lineage_source: 'ISO 19110:2005'
+  lineage_source_similarity: 1
+  date_accepted: 2005-02-15T00:00:00.000Z
+  review_date: 2012-01-27T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2016-12-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19110:2016'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19110:2005 to ISO 19110:2016, 3.8.
+    Lineage source added as ISO 19110:2005
+  release: '1'
+  terms:
+    - type: expression
+      designation: funktiokieli
+      normative_status: preferred
+  _revisions:
+    current: f97caa
+    tree:
+      f97caa:
+        object:
+          id: 191
+          definition: 'kieli, jolla kohdetyyppitoiminnot on muodollisesti määritelty'
+          language_code: fin
+          notes:
+            - >-
+              Funktiokielessä kohdetyyppejä voidaan kuvata abstrakteina
+              tietotyyppeinä.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19110:2016'
+            clause: '3.8'
+            link: 'https://www.iso.org/standard/57303.html'
+          lineage_source: 'ISO 19110:2005'
+          lineage_source_similarity: 1
+          date_accepted: 2005-02-15T00:00:00.000Z
+          review_date: 2012-01-27T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2016-12-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19110:2016'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19110:2005 to ISO
+            19110:2016, 3.8. Lineage source added as ISO 19110:2005
+          release: '1'
+          terms:
+            - type: expression
+              designation: funktiokieli
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+fra:
+  id: 191
+  definition: >-
+    langage dans lequel des opérations sur les entités sont formellement
+    spécifiées
+  language_code: fra
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19110:2016'
+    clause: '3.8'
+    link: 'https://www.iso.org/standard/57303.html'
+  lineage_source: 'ISO 19110:2005'
+  lineage_source_similarity: 1
+  date_accepted: 2005-02-15T00:00:00.000Z
+  review_date: 2012-01-27T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2016-12-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19110:2016'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19110:2005 to ISO 19110:2016, 3.8.
+    Lineage source added as ISO 19110:2005
+  release: '1'
+  terms:
+    - type: expression
+      designation: langage fonctionnel
+      normative_status: preferred
+  _revisions:
+    current: a0da8c
+    tree:
+      a0da8c:
+        object:
+          id: 191
+          definition: >-
+            langage dans lequel des opérations sur les entités sont formellement
+            spécifiées
+          language_code: fra
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19110:2016'
+            clause: '3.8'
+            link: 'https://www.iso.org/standard/57303.html'
+          lineage_source: 'ISO 19110:2005'
+          lineage_source_similarity: 1
+          date_accepted: 2005-02-15T00:00:00.000Z
+          review_date: 2012-01-27T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2016-12-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19110:2016'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19110:2005 to ISO
+            19110:2016, 3.8. Lineage source added as ISO 19110:2005
+          release: '1'
+          terms:
+            - type: expression
+              designation: langage fonctionnel
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+deu:
+  id: 191
+  definition: 'Sprache, in der die Feature-Operationen formal beschrieben sind'
+  language_code: deu
+  notes:
+    - >-
+      In a functional language, feature types may be represented as abstract
+      data types.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19110:2016'
+    clause: '3.8'
+    link: 'https://www.iso.org/standard/57303.html'
+  lineage_source: 'ISO 19110:2005'
+  lineage_source_similarity: 1
+  date_accepted: 2005-02-15T00:00:00.000Z
+  review_date: 2012-01-27T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2016-12-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19110:2016'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19110:2005 to ISO 19110:2016, 3.8.
+    Lineage source added as ISO 19110:2005
+  release: '1'
+  terms:
+    - type: expression
+      designation: Fachsprache
+      normative_status: preferred
+  _revisions:
+    current: 003cb5
+    tree:
+      003cb5:
+        object:
+          id: 191
+          definition: 'Sprache, in der die Feature-Operationen formal beschrieben sind'
+          language_code: deu
+          notes:
+            - >-
+              In a functional language, feature types may be represented as
+              abstract data types.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19110:2016'
+            clause: '3.8'
+            link: 'https://www.iso.org/standard/57303.html'
+          lineage_source: 'ISO 19110:2005'
+          lineage_source_similarity: 1
+          date_accepted: 2005-02-15T00:00:00.000Z
+          review_date: 2012-01-27T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2016-12-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19110:2016'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19110:2005 to ISO
+            19110:2016, 3.8. Lineage source added as ISO 19110:2005
+          release: '1'
+          terms:
+            - type: expression
+              designation: Fachsprache
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-02-15T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+kor:
+  id: 191
+  definition: 피처 연산을 기술하는데 사용되는 언어
+  language_code: kor
+  notes:
+    - 함수 언어에서 피처 유형은 추상 데이터 유형으로 표현될 수 있다.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19110:2016'
+    clause: '3.8'
+    link: 'https://www.iso.org/standard/57303.html'
+  lineage_source: 'ISO 19110:2005'
+  lineage_source_similarity: 1
+  date_accepted: 2005-02-15T00:00:00.000Z
+  review_date: 2012-01-27T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2016-12-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19110:2016'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19110:2005 to ISO 19110:2016, 3.8.
+    Lineage source added as ISO 19110:2005
+  release: '1'
+  terms:
+    - type: expression
+      designation: 함수 언어
+      normative_status: preferred
+  _revisions:
+    current: c84de0
+    tree:
+      c84de0:
+        object:
+          id: 191
+          definition: 피처 연산을 기술하는데 사용되는 언어
+          language_code: kor
+          notes:
+            - 함수 언어에서 피처 유형은 추상 데이터 유형으로 표현될 수 있다.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19110:2016'
+            clause: '3.8'
+            link: 'https://www.iso.org/standard/57303.html'
+          lineage_source: 'ISO 19110:2005'
+          lineage_source_similarity: 1
+          date_accepted: 2005-02-15T00:00:00.000Z
+          review_date: 2012-01-27T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2016-12-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19110:2016'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19110:2005 to ISO
+            19110:2016, 3.8. Lineage source added as ISO 19110:2005
+          release: '1'
+          terms:
+            - type: expression
+              designation: 함수 언어
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+pol:
+  id: 191
+  definition: język w którym formalnie określane są operacje obiektów
+  language_code: pol
+  notes:
+    - >-
+      W języku funkcyjnym typy obiektów mogą być reprezentowane przez
+      abstrakcyjne typy danych.
+  examples: []
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19110:2016'
+    clause: '3.8'
+    link: 'https://www.iso.org/standard/57303.html'
+  lineage_source: 'ISO 19110:2005'
+  lineage_source_similarity: 1
+  date_accepted: 2005-02-15T00:00:00.000Z
+  review_date: 2012-01-27T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2016-12-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19110:2016'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19110:2005 to ISO 19110:2016, 3.8.
+    Lineage source added as ISO 19110:2005
+  release: '1'
+  terms:
+    - type: expression
+      designation: język funkcyjny
+      normative_status: preferred
+  _revisions:
+    current: 290ff0
+    tree:
+      290ff0:
+        object:
+          id: 191
+          definition: język w którym formalnie określane są operacje obiektów
+          language_code: pol
+          notes:
+            - >-
+              W języku funkcyjnym typy obiektów mogą być reprezentowane przez
+              abstrakcyjne typy danych.
+          examples: []
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19110:2016'
+            clause: '3.8'
+            link: 'https://www.iso.org/standard/57303.html'
+          lineage_source: 'ISO 19110:2005'
+          lineage_source_similarity: 1
+          date_accepted: 2005-02-15T00:00:00.000Z
+          review_date: 2012-01-27T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2016-12-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19110:2016'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19110:2005 to ISO
+            19110:2016, 3.8. Lineage source added as ISO 19110:2005
+          release: '1'
+          terms:
+            - type: expression
+              designation: język funkcyjny
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 191
+  definition: 'язык, в котором  формально определены  операции пространственных объектов'
+  language_code: rus
+  notes:
+    - >-
+      В функциональном языке типы объектов могут быть представлены как типы
+      абстрактных данных
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19110:2005'
+    link: 'https://www.iso.org/standard/39965.html'
+  lineage_source: Internet
+  date_accepted: 2005-02-15T00:00:00.000Z
+  terms:
+    - type: expression
+      designation: функциональный язык
+      normative_status: preferred
+  _revisions:
+    current: ea5172
+    tree:
+      ea5172:
+        object:
+          id: 191
+          definition: >-
+            язык, в котором  формально определены  операции пространственных
+            объектов
+          language_code: rus
+          notes:
+            - >-
+              В функциональном языке типы объектов могут быть представлены как
+              типы абстрактных данных
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19110:2005'
+            link: 'https://www.iso.org/standard/39965.html'
+          lineage_source: Internet
+          date_accepted: 2005-02-15T00:00:00.000Z
+          terms:
+            - type: expression
+              designation: функциональный язык
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 191
+  definition: >-
+    lenguaje en el cual se especifican formalmente las operaciones de objeto
+    geográfico
+  language_code: spa
+  notes:
+    - >-
+      En un lenguaje funcional, los tipos de objetos geográficos pueden ser
+      representados como tipos abstractos de datos.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19110:2016'
+    clause: '3.8'
+    link: 'https://www.iso.org/standard/57303.html'
+  lineage_source: 'ISO 19110:2005'
+  lineage_source_similarity: 1
+  date_accepted: 2005-02-15T00:00:00.000Z
+  review_date: 2012-01-27T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2016-12-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19110:2016'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19110:2005 to ISO 19110:2016, 3.8.
+    Lineage source added as ISO 19110:2005
+  release: '1'
+  terms:
+    - type: expression
+      designation: lenguaje funcional
+      normative_status: preferred
+  _revisions:
+    current: bf892a
+    tree:
+      bf892a:
+        object:
+          id: 191
+          definition: >-
+            lenguaje en el cual se especifican formalmente las operaciones de
+            objeto geográfico
+          language_code: spa
+          notes:
+            - >-
+              En un lenguaje funcional, los tipos de objetos geográficos pueden
+              ser representados como tipos abstractos de datos.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19110:2016'
+            clause: '3.8'
+            link: 'https://www.iso.org/standard/57303.html'
+          lineage_source: 'ISO 19110:2005'
+          lineage_source_similarity: 1
+          date_accepted: 2005-02-15T00:00:00.000Z
+          review_date: 2012-01-27T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2016-12-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19110:2016'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19110:2005 to ISO
+            19110:2016, 3.8. Lineage source added as ISO 19110:2005
+          release: '1'
+          terms:
+            - type: expression
+              designation: lenguaje funcional
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+swe:
+  id: 191
+  definition: programmering med funktioner
+  country_code: swe
+  language_code: swe
+  notes:
+    - >-
+      In a functional language, feature types may be represented as abstract
+      data types.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19110:2016'
+    clause: '3.8'
+    link: 'https://www.iso.org/standard/57303.html'
+  lineage_source: 'ISO 19110:2005'
+  lineage_source_similarity: 1
+  date_accepted: 2005-02-15T00:00:00.000Z
+  review_date: 2012-01-27T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2016-12-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19110:2016'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19110:2005 to ISO 19110:2016, 3.8.
+    Lineage source added as ISO 19110:2005
+  release: '1'
+  terms:
+    - type: expression
+      designation: funtionellt programeringsspråk
+      normative_status: preferred
+  _revisions:
+    current: 3baadd
+    tree:
+      3baadd:
+        object:
+          id: 191
+          definition: programmering med funktioner
+          country_code: swe
+          language_code: swe
+          notes:
+            - >-
+              In a functional language, feature types may be represented as
+              abstract data types.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19110:2016'
+            clause: '3.8'
+            link: 'https://www.iso.org/standard/57303.html'
+          lineage_source: 'ISO 19110:2005'
+          lineage_source_similarity: 1
+          date_accepted: 2005-02-15T00:00:00.000Z
+          review_date: 2012-01-27T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2016-12-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19110:2016'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19110:2005 to ISO
+            19110:2016, 3.8. Lineage source added as ISO 19110:2005
+          release: '1'
+          terms:
+            - type: expression
+              designation: funtionellt programeringsspråk
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

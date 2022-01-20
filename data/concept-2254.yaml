@@ -1,0 +1,73 @@
+term: 'topological primitive <geometry, topology>'
+termid: 2254
+eng:
+  id: 2254
+  definition: >-
+    topological object that represents a single, homogeneous, non-decomposable
+    element
+  language_code: eng
+  notes:
+    - >-
+      A topological primitive corresponds to the interior of a geometric
+      primitive of the same dimension in a geometric realization.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19107:2019'
+    clause: '(E), 3.100'
+    link: 'https://www.iso.org/standard/66175.html'
+  date_accepted: 2019-12-02T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: 'Publication of document ISO 19107:2019(E)'
+  review_decision_notes: >-
+    This entry supersedes the entry for topological primitive in ISO
+    19107:2003(E)
+  release: '5'
+  terms:
+    - type: expression
+      designation: 'topological primitive <geometry, topology>'
+      normative_status: preferred
+  _revisions:
+    current: 44ff51
+    tree:
+      44ff51:
+        object:
+          id: 2254
+          definition: >-
+            topological object that represents a single, homogeneous,
+            non-decomposable element
+          language_code: eng
+          notes:
+            - >-
+              A topological primitive corresponds to the interior of a geometric
+              primitive of the same dimension in a geometric realization.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19107:2019'
+            clause: '(E), 3.100'
+            link: 'https://www.iso.org/standard/66175.html'
+          date_accepted: 2019-12-02T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: 'Publication of document ISO 19107:2019(E)'
+          review_decision_notes: >-
+            This entry supersedes the entry for topological primitive in ISO
+            19107:2003(E)
+          release: '5'
+          terms:
+            - type: expression
+              designation: 'topological primitive <geometry, topology>'
+              normative_status: preferred
+        parents: []
+        timeCreated: 2019-12-02T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

@@ -1,0 +1,282 @@
+term: lineage
+termid: 1649
+eng:
+  id: 1649
+  definition: >-
+    provenance, source(s) and production process(es) used in producing a
+    resource
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19115-1:2014'
+    clause: '4.9'
+    link: 'https://www.iso.org/standard/53798.html'
+  date_accepted: 2014-04-01T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: lineage
+      normative_status: preferred
+  _revisions:
+    current: faf2e9
+    tree:
+      faf2e9:
+        object:
+          id: 1649
+          definition: >-
+            provenance, source(s) and production process(es) used in producing a
+            resource
+          language_code: eng
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19115-1:2014'
+            clause: '4.9'
+            link: 'https://www.iso.org/standard/53798.html'
+          date_accepted: 2014-04-01T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: lineage
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-04-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+kor:
+  id: 1649
+  definition: '자원 생산에 사용된 산지, 원지와 생산처리과정'
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19115-1:2014'
+    clause: '4.9'
+    link: 'https://www.iso.org/standard/53798.html'
+  date_accepted: 2014-04-01T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: 계보
+      normative_status: preferred
+  _revisions:
+    current: a49e19
+    tree:
+      a49e19:
+        object:
+          id: 1649
+          definition: '자원 생산에 사용된 산지, 원지와 생산처리과정'
+          language_code: kor
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19115-1:2014'
+            clause: '4.9'
+            link: 'https://www.iso.org/standard/53798.html'
+          date_accepted: 2014-04-01T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: 계보
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-04-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+msa:
+  id: 1649
+  language_code: msa
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19115-1:2014'
+    clause: '4.9'
+    link: 'https://www.iso.org/standard/53798.html'
+  lineage_source: Pusat Rujukan Persuratan Melayu (DBP)
+  date_accepted: 2014-04-01T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: zuriat; titisan
+      normative_status: preferred
+  _revisions:
+    current: f738fa
+    tree:
+      f738fa:
+        object:
+          id: 1649
+          language_code: msa
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19115-1:2014'
+            clause: '4.9'
+            link: 'https://www.iso.org/standard/53798.html'
+          lineage_source: Pusat Rujukan Persuratan Melayu (DBP)
+          date_accepted: 2014-04-01T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: zuriat; titisan
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-04-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 1649
+  definition: >-
+    происхождение, источник(и) и процесс(ы) производства,использованные  в
+    производстве ресурса
+  language_code: rus
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19115-1:2014'
+    clause: '4.9'
+    link: 'https://www.iso.org/standard/53798.html'
+  lineage_source: ГОСТ Р 57668-2017 (ИСО 19115-1-2014)
+  date_accepted: 2014-04-01T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: родословная (история ресурса)
+      normative_status: preferred
+  _revisions:
+    current: 6768d3
+    tree:
+      6768d3:
+        object:
+          id: 1649
+          definition: >-
+            происхождение, источник(и) и процесс(ы) производства,использованные 
+            в производстве ресурса
+          language_code: rus
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19115-1:2014'
+            clause: '4.9'
+            link: 'https://www.iso.org/standard/53798.html'
+          lineage_source: ГОСТ Р 57668-2017 (ИСО 19115-1-2014)
+          date_accepted: 2014-04-01T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: родословная (история ресурса)
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-04-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 1649
+  definition: >-
+    procedencia, fuente(s) y proceso(s) de producción utilizados en la
+    producción de un recurso
+  language_code: spa
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19115-1:2014'
+    clause: '4.9'
+    link: 'https://www.iso.org/standard/53798.html'
+  date_accepted: 2014-04-01T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: linaje
+      normative_status: preferred
+  _revisions:
+    current: a89480
+    tree:
+      a89480:
+        object:
+          id: 1649
+          definition: >-
+            procedencia, fuente(s) y proceso(s) de producción utilizados en la
+            producción de un recurso
+          language_code: spa
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19115-1:2014'
+            clause: '4.9'
+            link: 'https://www.iso.org/standard/53798.html'
+          date_accepted: 2014-04-01T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: linaje
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-04-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+swe:
+  id: 1649
+  definition: >-
+    tillkomst, källor och produktionsprocesser som använts för att producera en
+    resurs
+  country_code: swe
+  language_code: swe
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19115-1:2014'
+    clause: '4.9'
+    link: 'https://www.iso.org/standard/53798.html'
+  lineage_source: (Type reference to national language document)
+  date_accepted: 2014-04-01T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: tillkomshistorik
+      normative_status: preferred
+  _revisions:
+    current: '11e843'
+    tree:
+      '11e843':
+        object:
+          id: 1649
+          definition: >-
+            tillkomst, källor och produktionsprocesser som använts för att
+            producera en resurs
+          country_code: swe
+          language_code: swe
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19115-1:2014'
+            clause: '4.9'
+            link: 'https://www.iso.org/standard/53798.html'
+          lineage_source: (Type reference to national language document)
+          date_accepted: 2014-04-01T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: tillkomshistorik
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-04-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

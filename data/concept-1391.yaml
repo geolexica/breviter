@@ -1,0 +1,280 @@
+term: geiger mode
+termid: 1391
+eng:
+  id: 1391
+  definition: >-
+    photon counting mode for LIDAR systems, where the detector is biased and
+    becomes sensitive to individual photons
+  language_code: eng
+  notes:
+    - >-
+      These detectors exist in the form of arrays and are bonded with electronic
+      circuitry.  The electronic circuitry produces a measurement corresponding
+      to the time at which the current was generated; resulting in a direct
+      time-of-flight measurement.  A LIDAR that employs this detector technology
+      typically illuminates a large scene with a single pulse.  The direct
+      time-of-flight measurements are then combined with platform
+      location/attitude data along with pointing information to produce a
+      three-dimensional product of the illuminated scene of interest. 
+      Additional processing is applied which removes existing noise present in
+      the data to produce a visually exploitable data set.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: Adapted from Albota 2002
+  lineage_source: 'ISO/TS 19130-2:2014, 4.23'
+  lineage_source_similarity: 1
+  date_accepted: 2014-01-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: geiger mode
+      normative_status: preferred
+  _revisions:
+    current: 8475fb
+    tree:
+      8475fb:
+        object:
+          id: 1391
+          definition: >-
+            photon counting mode for LIDAR systems, where the detector is biased
+            and becomes sensitive to individual photons
+          language_code: eng
+          notes:
+            - >-
+              These detectors exist in the form of arrays and are bonded with
+              electronic circuitry.  The electronic circuitry produces a
+              measurement corresponding to the time at which the current was
+              generated; resulting in a direct time-of-flight measurement.  A
+              LIDAR that employs this detector technology typically illuminates
+              a large scene with a single pulse.  The direct time-of-flight
+              measurements are then combined with platform location/attitude
+              data along with pointing information to produce a
+              three-dimensional product of the illuminated scene of interest. 
+              Additional processing is applied which removes existing noise
+              present in the data to produce a visually exploitable data set.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: Adapted from Albota 2002
+          lineage_source: 'ISO/TS 19130-2:2014, 4.23'
+          lineage_source_similarity: 1
+          date_accepted: 2014-01-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: geiger mode
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-01-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+kor:
+  id: 1391
+  definition: 탐지기가 편향되어 개별 광자에 민감하게 반응하는 LIDAR시스템에 대한 광자 집계 모드
+  language_code: kor
+  notes:
+    - >-
+      These detectors exist in the form of arrays and are bonded with electronic
+      circuitry.  The electronic circuitry produces a measurement corresponding
+      to the time at which the current was generated; resulting in a direct
+      time-of-flight measurement.  A LIDAR that employs this detector technology
+      typically illuminates a large scene with a single pulse.  The direct
+      time-of-flight measurements are then combined with platform
+      location/attitude data along with pointing information to produce a
+      three-dimensional product of the illuminated scene of interest. 
+      Additional processing is applied which removes existing noise present in
+      the data to produce a visually exploitable data set.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: Adapted from Albota 2002
+  lineage_source: 'ISO/TS 19130-2:2014, 4.23'
+  lineage_source_similarity: 1
+  date_accepted: 2014-01-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: 가이거 모드
+      normative_status: preferred
+  _revisions:
+    current: 52dae3
+    tree:
+      52dae3:
+        object:
+          id: 1391
+          definition: 탐지기가 편향되어 개별 광자에 민감하게 반응하는 LIDAR시스템에 대한 광자 집계 모드
+          language_code: kor
+          notes:
+            - >-
+              These detectors exist in the form of arrays and are bonded with
+              electronic circuitry.  The electronic circuitry produces a
+              measurement corresponding to the time at which the current was
+              generated; resulting in a direct time-of-flight measurement.  A
+              LIDAR that employs this detector technology typically illuminates
+              a large scene with a single pulse.  The direct time-of-flight
+              measurements are then combined with platform location/attitude
+              data along with pointing information to produce a
+              three-dimensional product of the illuminated scene of interest. 
+              Additional processing is applied which removes existing noise
+              present in the data to produce a visually exploitable data set.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: Adapted from Albota 2002
+          lineage_source: 'ISO/TS 19130-2:2014, 4.23'
+          lineage_source_similarity: 1
+          date_accepted: 2014-01-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: 가이거 모드
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-01-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 1391
+  definition: >-
+    режим подсчета фотонов для систем LIDAR, где детектор смещен и становится
+    чувствительным к отдельным фотонам
+  language_code: rus
+  notes:
+    - >-
+      эти детекторы существуют в виде массивов и связаны с электронными сетями. 
+      Электронная сеть производит измерение соответственно   времени в какое был
+      сгенрирован ток;получая прямое измерение времени полета.  Лидар который
+      использует эту технологию детектора обычно освещает большую сцену с
+      одиночным импульсом.  Прямые измерения времени полета затем объединяются с
+      данными о местоположении/ориентации платформы вместе с указывающей
+      информацией для получения трехмерного продукта освещенной сцены интереса. 
+      Применяется дополнительная обработка, которая удаляет существующий шум,
+      присутствующий в данных для создания визуально эксплуатируемого набора
+      данных.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: Adapted from Albota 2002
+  lineage_source: 'ISO/TS 19130-2:2014, 4.23'
+  lineage_source_similarity: 1
+  date_accepted: 2014-01-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: Режим гейгера
+      normative_status: preferred
+  _revisions:
+    current: b80e32
+    tree:
+      b80e32:
+        object:
+          id: 1391
+          definition: >-
+            режим подсчета фотонов для систем LIDAR, где детектор смещен и
+            становится чувствительным к отдельным фотонам
+          language_code: rus
+          notes:
+            - >-
+              эти детекторы существуют в виде массивов и связаны с электронными
+              сетями.  Электронная сеть производит измерение соответственно  
+              времени в какое был сгенрирован ток;получая прямое измерение
+              времени полета.  Лидар который использует эту технологию детектора
+              обычно освещает большую сцену с одиночным импульсом.  Прямые
+              измерения времени полета затем объединяются с данными о
+              местоположении/ориентации платформы вместе с указывающей
+              информацией для получения трехмерного продукта освещенной сцены
+              интереса.  Применяется дополнительная обработка, которая удаляет
+              существующий шум, присутствующий в данных для создания визуально
+              эксплуатируемого набора данных.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: Adapted from Albota 2002
+          lineage_source: 'ISO/TS 19130-2:2014, 4.23'
+          lineage_source_similarity: 1
+          date_accepted: 2014-01-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: Режим гейгера
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-01-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 1391
+  definition: >-
+    modo de contar fotones en los sistemas lídar en los que el detector está
+    sesgado y se ha vuelto sensible a los fotones individuales
+  language_code: spa
+  notes:
+    - >-
+      estos detectores existen en forma de array y se unen con circuitos
+      electrónicos. El circuito electrónico produce una medición correspondiente
+      al momento en que se genera la corriente, lo que resulta en una medición
+      directa del tiempo de vuelo. Un lidar que emplea esta tecnología detector
+      normalmente ilumina una gran escena con un solo pulso. Las mediciones
+      directas de tiempo de vuelo se combinan entonces con los datos de
+      localización/altitud de la plataforma junto con la información de los
+      puntos para producir un producto tridimensional de la escena de interés
+      iluminada. Se aplica un procesamiento adicional que elimina el ruido
+      existente presente en los datos para producir un conjunto de datos
+      explotable visualmente.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: Adapted from Albota 2002
+  lineage_source: 'ISO/TS 19130-2:2014, 4.23'
+  lineage_source_similarity: 1
+  date_accepted: 2014-01-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: modo geiger
+      normative_status: preferred
+  _revisions:
+    current: 4cef11
+    tree:
+      4cef11:
+        object:
+          id: 1391
+          definition: >-
+            modo de contar fotones en los sistemas lídar en los que el detector
+            está sesgado y se ha vuelto sensible a los fotones individuales
+          language_code: spa
+          notes:
+            - >-
+              estos detectores existen en forma de array y se unen con circuitos
+              electrónicos. El circuito electrónico produce una medición
+              correspondiente al momento en que se genera la corriente, lo que
+              resulta en una medición directa del tiempo de vuelo. Un lidar que
+              emplea esta tecnología detector normalmente ilumina una gran
+              escena con un solo pulso. Las mediciones directas de tiempo de
+              vuelo se combinan entonces con los datos de localización/altitud
+              de la plataforma junto con la información de los puntos para
+              producir un producto tridimensional de la escena de interés
+              iluminada. Se aplica un procesamiento adicional que elimina el
+              ruido existente presente en los datos para producir un conjunto de
+              datos explotable visualmente.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: Adapted from Albota 2002
+          lineage_source: 'ISO/TS 19130-2:2014, 4.23'
+          lineage_source_similarity: 1
+          date_accepted: 2014-01-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: modo geiger
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-01-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

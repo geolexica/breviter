@@ -1,0 +1,463 @@
+term: gridded data
+termid: 224
+eng:
+  id: 224
+  definition: >-
+    data whose attribute values are associated with positions on a grid
+    coordinate system
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19115-2:2019'
+    clause: '(E), 3.16'
+    link: 'https://www.iso.org/standard/67039.html'
+  lineage_source: 'ISO 19115-2:2009(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2009-02-15T00:00:00.000Z
+  review_date: 2019-01-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-01-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19115-2:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19115-2:2009 to ISO
+    19115-2:2019(E), 3.16. Lineage source added as ISO 19115-2:2009(E)
+  release: '2'
+  terms:
+    - type: expression
+      designation: gridded data
+      normative_status: preferred
+  _revisions:
+    current: 16fa4e
+    tree:
+      16fa4e:
+        object:
+          id: 224
+          definition: >-
+            data whose attribute values are associated with positions on a grid
+            coordinate system
+          language_code: eng
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19115-2:2019'
+            clause: '(E), 3.16'
+            link: 'https://www.iso.org/standard/67039.html'
+          lineage_source: 'ISO 19115-2:2009(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2009-02-15T00:00:00.000Z
+          review_date: 2019-01-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-01-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19115-2:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19115-2:2009 to ISO
+            19115-2:2019(E), 3.16. Lineage source added as ISO 19115-2:2009(E)
+          release: '2'
+          terms:
+            - type: expression
+              designation: gridded data
+              normative_status: preferred
+        parents: []
+        timeCreated: 2009-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+ara:
+  id: 224
+  definition: بيانات تكون قيمها الوصفية مرتبطة بمواقع على نظام إحداثيات شبكة تسامتية.
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19115-2:2019'
+    clause: '(E), 3.16'
+    link: 'https://www.iso.org/standard/67039.html'
+  lineage_source: 'ISO 19115-2:2009(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2009-02-15T00:00:00.000Z
+  review_date: 2019-01-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-01-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19115-2:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19115-2:2009 to ISO
+    19115-2:2019(E), 3.16. Lineage source added as ISO 19115-2:2009(E)
+  release: '2'
+  terms:
+    - type: expression
+      designation: بيانات شبكية
+      normative_status: preferred
+  _revisions:
+    current: c6d78b
+    tree:
+      c6d78b:
+        object:
+          id: 224
+          definition: >-
+            بيانات تكون قيمها الوصفية مرتبطة بمواقع على نظام إحداثيات شبكة
+            تسامتية.
+          language_code: ara
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19115-2:2019'
+            clause: '(E), 3.16'
+            link: 'https://www.iso.org/standard/67039.html'
+          lineage_source: 'ISO 19115-2:2009(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2009-02-15T00:00:00.000Z
+          review_date: 2019-01-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-01-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19115-2:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19115-2:2009 to ISO
+            19115-2:2019(E), 3.16. Lineage source added as ISO 19115-2:2009(E)
+          release: '2'
+          terms:
+            - type: expression
+              designation: بيانات شبكية
+              normative_status: preferred
+        parents: []
+        timeCreated: 2009-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+deu:
+  id: 224
+  definition: 'Daten, deren Attribute auf ein Gitterkoordinatensystem bezogen sind'
+  language_code: deu
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19115-2:2019'
+    clause: '(E), 3.16'
+    link: 'https://www.iso.org/standard/67039.html'
+  lineage_source: 'ISO 19115-2:2009(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2009-02-15T00:00:00.000Z
+  review_date: 2019-01-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-01-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19115-2:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19115-2:2009 to ISO
+    19115-2:2019(E), 3.16. Lineage source added as ISO 19115-2:2009(E)
+  release: '2'
+  terms:
+    - type: expression
+      designation: Gitterdaten
+      normative_status: preferred
+  _revisions:
+    current: df98d4
+    tree:
+      df98d4:
+        object:
+          id: 224
+          definition: 'Daten, deren Attribute auf ein Gitterkoordinatensystem bezogen sind'
+          language_code: deu
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19115-2:2019'
+            clause: '(E), 3.16'
+            link: 'https://www.iso.org/standard/67039.html'
+          lineage_source: 'ISO 19115-2:2009(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2009-02-15T00:00:00.000Z
+          review_date: 2019-01-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-01-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19115-2:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19115-2:2009 to ISO
+            19115-2:2019(E), 3.16. Lineage source added as ISO 19115-2:2009(E)
+          release: '2'
+          terms:
+            - type: expression
+              designation: Gitterdaten
+              normative_status: preferred
+        parents: []
+        timeCreated: 2009-02-15T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+kor:
+  id: 224
+  definition: 격자 좌표 체계의 위치들과 연관되어 있는 속성값들에 대한 자료
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19115-2:2019'
+    clause: '(E), 3.16'
+    link: 'https://www.iso.org/standard/67039.html'
+  lineage_source: 'ISO 19115-2:2009(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2009-02-15T00:00:00.000Z
+  review_date: 2019-01-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-01-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19115-2:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19115-2:2009 to ISO
+    19115-2:2019(E), 3.16. Lineage source added as ISO 19115-2:2009(E)
+  release: '2'
+  terms:
+    - type: expression
+      designation: 그리드 자료
+      normative_status: preferred
+  _revisions:
+    current: 6417b6
+    tree:
+      6417b6:
+        object:
+          id: 224
+          definition: 격자 좌표 체계의 위치들과 연관되어 있는 속성값들에 대한 자료
+          language_code: kor
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19115-2:2019'
+            clause: '(E), 3.16'
+            link: 'https://www.iso.org/standard/67039.html'
+          lineage_source: 'ISO 19115-2:2009(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2009-02-15T00:00:00.000Z
+          review_date: 2019-01-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-01-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19115-2:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19115-2:2009 to ISO
+            19115-2:2019(E), 3.16. Lineage source added as ISO 19115-2:2009(E)
+          release: '2'
+          terms:
+            - type: expression
+              designation: 그리드 자료
+              normative_status: preferred
+        parents: []
+        timeCreated: 2009-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 224
+  definition: >-
+    данные, значения атрибута которых связаны с положениями на системе координат
+    сетки
+  language_code: rus
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19115-2:2019'
+    clause: '(E), 3.16'
+    link: 'https://www.iso.org/standard/67039.html'
+  lineage_source: 'ISO 19115-2:2009(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2009-02-15T00:00:00.000Z
+  review_date: 2019-01-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-01-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19115-2:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19115-2:2009 to ISO
+    19115-2:2019(E), 3.16. Lineage source added as ISO 19115-2:2009(E)
+  release: '2'
+  terms:
+    - type: expression
+      designation: матричные данные
+      normative_status: preferred
+  _revisions:
+    current: '91e089'
+    tree:
+      '91e089':
+        object:
+          id: 224
+          definition: >-
+            данные, значения атрибута которых связаны с положениями на системе
+            координат сетки
+          language_code: rus
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19115-2:2019'
+            clause: '(E), 3.16'
+            link: 'https://www.iso.org/standard/67039.html'
+          lineage_source: 'ISO 19115-2:2009(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2009-02-15T00:00:00.000Z
+          review_date: 2019-01-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-01-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19115-2:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19115-2:2009 to ISO
+            19115-2:2019(E), 3.16. Lineage source added as ISO 19115-2:2009(E)
+          release: '2'
+          terms:
+            - type: expression
+              designation: матричные данные
+              normative_status: preferred
+        parents: []
+        timeCreated: 2009-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 224
+  definition: >-
+    datos cuyos valores de atributos están asociados con posiciones en un
+    sistema de coordenadas malla
+  language_code: spa
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19115-2:2019'
+    clause: '(E), 3.16'
+    link: 'https://www.iso.org/standard/67039.html'
+  lineage_source: 'ISO 19115-2:2009(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2009-02-15T00:00:00.000Z
+  review_date: 2019-01-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-01-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19115-2:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19115-2:2009 to ISO
+    19115-2:2019(E), 3.16. Lineage source added as ISO 19115-2:2009(E)
+  release: '2'
+  terms:
+    - type: expression
+      designation: datos malla
+      normative_status: preferred
+  _revisions:
+    current: e0733f
+    tree:
+      e0733f:
+        object:
+          id: 224
+          definition: >-
+            datos cuyos valores de atributos están asociados con posiciones en
+            un sistema de coordenadas malla
+          language_code: spa
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19115-2:2019'
+            clause: '(E), 3.16'
+            link: 'https://www.iso.org/standard/67039.html'
+          lineage_source: 'ISO 19115-2:2009(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2009-02-15T00:00:00.000Z
+          review_date: 2019-01-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-01-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19115-2:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19115-2:2009 to ISO
+            19115-2:2019(E), 3.16. Lineage source added as ISO 19115-2:2009(E)
+          release: '2'
+          terms:
+            - type: expression
+              designation: datos malla
+              normative_status: preferred
+        parents: []
+        timeCreated: 2009-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+swe:
+  id: 224
+  definition: >-
+    data som har attributvärden kopplade till positioner i ett
+    rutnätskoordinatsystem
+  country_code: swe
+  language_code: swe
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19115-2:2019'
+    clause: '(E), 3.16'
+    link: 'https://www.iso.org/standard/67039.html'
+  lineage_source: 'ISO 19115-2:2009(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2009-02-15T00:00:00.000Z
+  review_date: 2019-01-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-01-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19115-2:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19115-2:2009 to ISO
+    19115-2:2019(E), 3.16. Lineage source added as ISO 19115-2:2009(E)
+  release: '2'
+  terms:
+    - type: expression
+      designation: rasterdata
+      normative_status: preferred
+  _revisions:
+    current: aa8f1e
+    tree:
+      aa8f1e:
+        object:
+          id: 224
+          definition: >-
+            data som har attributvärden kopplade till positioner i ett
+            rutnätskoordinatsystem
+          country_code: swe
+          language_code: swe
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19115-2:2019'
+            clause: '(E), 3.16'
+            link: 'https://www.iso.org/standard/67039.html'
+          lineage_source: 'ISO 19115-2:2009(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2009-02-15T00:00:00.000Z
+          review_date: 2019-01-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-01-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19115-2:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19115-2:2009 to ISO
+            19115-2:2019(E), 3.16. Lineage source added as ISO 19115-2:2009(E)
+          release: '2'
+          terms:
+            - type: expression
+              designation: rasterdata
+              normative_status: preferred
+        parents: []
+        timeCreated: 2009-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

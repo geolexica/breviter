@@ -1,0 +1,61 @@
+term: satellite ephemeris
+termid: 2399
+eng:
+  id: 2399
+  definition: >-
+    numerical representation of the trajectory of the centre of mass of an Earth
+    orbiting artificial satellite expressed in an Earth centred terrestrial
+    reference frame
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: '19161-1:2020'
+    clause: '(E), 3.4'
+  date_accepted: 2020-01-24T00:00:00.000Z
+  review_date: 2020-01-24T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2020-01-24T00:00:00.000Z
+  review_decision_event: Normal ISO processing
+  review_decision_notes: 'Publication of document 19161-1:2020(E)'
+  release: '5'
+  terms:
+    - type: expression
+      designation: satellite ephemeris
+      normative_status: preferred
+  _revisions:
+    current: 5aac39
+    tree:
+      5aac39:
+        object:
+          id: 2399
+          definition: >-
+            numerical representation of the trajectory of the centre of mass of
+            an Earth orbiting artificial satellite expressed in an Earth centred
+            terrestrial reference frame
+          language_code: eng
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: '19161-1:2020'
+            clause: '(E), 3.4'
+          date_accepted: 2020-01-24T00:00:00.000Z
+          review_date: 2020-01-24T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2020-01-24T00:00:00.000Z
+          review_decision_event: Normal ISO processing
+          review_decision_notes: 'Publication of document 19161-1:2020(E)'
+          release: '5'
+          terms:
+            - type: expression
+              designation: satellite ephemeris
+              normative_status: preferred
+        parents: []
+        timeCreated: 2020-01-24T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

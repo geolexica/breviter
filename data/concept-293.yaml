@@ -1,0 +1,810 @@
+term: metadata section
+termid: 293
+eng:
+  id: 293
+  definition: >-
+    subset of metadata which consists of a collection of related metadata
+    entities and metadata elements
+  language_code: eng
+  notes:
+    - Equivalent to a package in UML terminology
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19115-1:2014'
+    clause: '4.13'
+    link: 'https://www.iso.org/standard/53798.html'
+  lineage_source: 'ISO 19115:2003'
+  lineage_source_similarity: 1
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2011-01-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2014-04-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19115-1:2014'
+  review_decision_notes: 'Authoritative reference changed from ISO 19115:2003 to ISO 19115-1:2014.'
+  release: '1'
+  terms:
+    - type: expression
+      designation: metadata section
+      normative_status: preferred
+  _revisions:
+    current: c69ed4
+    tree:
+      c69ed4:
+        object:
+          id: 293
+          definition: >-
+            subset of metadata which consists of a collection of related
+            metadata entities and metadata elements
+          language_code: eng
+          notes:
+            - Equivalent to a package in UML terminology
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19115-1:2014'
+            clause: '4.13'
+            link: 'https://www.iso.org/standard/53798.html'
+          lineage_source: 'ISO 19115:2003'
+          lineage_source_similarity: 1
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2011-01-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2014-04-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19115-1:2014'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19115:2003 to ISO
+            19115-1:2014.
+          release: '1'
+          terms:
+            - type: expression
+              designation: metadata section
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+ara:
+  id: 293
+  definition: >-
+    مجموعة توصيف بيانات فرعية تتكون من مجموعة كيانات وعناصر توصيف بيانات ذات
+    علاقة ببعضها البعض
+  language_code: ara
+  notes:
+    - يعادل "حزمة" في مصطلحات لغة  UML
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19115-1:2014'
+    clause: '4.13'
+    link: 'https://www.iso.org/standard/53798.html'
+  lineage_source: 'ISO 19115:2003'
+  lineage_source_similarity: 1
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2011-01-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2014-04-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19115-1:2014'
+  review_decision_notes: 'Authoritative reference changed from ISO 19115:2003 to ISO 19115-1:2014.'
+  release: '1'
+  terms:
+    - type: expression
+      designation: قسم توصيف البيانات
+      normative_status: preferred
+  _revisions:
+    current: '844463'
+    tree:
+      '844463':
+        object:
+          id: 293
+          definition: >-
+            مجموعة توصيف بيانات فرعية تتكون من مجموعة كيانات وعناصر توصيف بيانات
+            ذات علاقة ببعضها البعض
+          language_code: ara
+          notes:
+            - يعادل "حزمة" في مصطلحات لغة  UML
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19115-1:2014'
+            clause: '4.13'
+            link: 'https://www.iso.org/standard/53798.html'
+          lineage_source: 'ISO 19115:2003'
+          lineage_source_similarity: 1
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2011-01-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2014-04-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19115-1:2014'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19115:2003 to ISO
+            19115-1:2014.
+          release: '1'
+          terms:
+            - type: expression
+              designation: قسم توصيف البيانات
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+zho:
+  id: 293
+  definition: 元数据的子集合，由相关的元数据实体和元素组成。
+  language_code: zho
+  notes:
+    - 与UML术语的包同义。
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19115-1:2014'
+    clause: '4.13'
+    link: 'https://www.iso.org/standard/53798.html'
+  lineage_source: 'ISO 19115:2003'
+  lineage_source_similarity: 1
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2011-01-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2014-04-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19115-1:2014'
+  review_decision_notes: 'Authoritative reference changed from ISO 19115:2003 to ISO 19115-1:2014.'
+  release: '1'
+  terms:
+    - type: expression
+      designation: 元数据子集
+      normative_status: preferred
+  _revisions:
+    current: f64aac
+    tree:
+      f64aac:
+        object:
+          id: 293
+          definition: 元数据的子集合，由相关的元数据实体和元素组成。
+          language_code: zho
+          notes:
+            - 与UML术语的包同义。
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19115-1:2014'
+            clause: '4.13'
+            link: 'https://www.iso.org/standard/53798.html'
+          lineage_source: 'ISO 19115:2003'
+          lineage_source_similarity: 1
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2011-01-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2014-04-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19115-1:2014'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19115:2003 to ISO
+            19115-1:2014.
+          release: '1'
+          terms:
+            - type: expression
+              designation: 元数据子集
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+fin:
+  id: 293
+  definition: 'metatiedon osajoukko, joka kuvailee tietoa tietystä näkökulmasta'
+  language_code: fin
+  notes:
+    - Metatieto-osio vastaa UML-käsitettä paketti.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19115-1:2014'
+    clause: '4.13'
+    link: 'https://www.iso.org/standard/53798.html'
+  lineage_source: 'ISO 19115:2003'
+  lineage_source_similarity: 1
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2011-01-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2014-04-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19115-1:2014'
+  review_decision_notes: 'Authoritative reference changed from ISO 19115:2003 to ISO 19115-1:2014.'
+  release: '1'
+  terms:
+    - type: expression
+      designation: metatieto-osio
+      normative_status: preferred
+  _revisions:
+    current: 27aafb
+    tree:
+      27aafb:
+        object:
+          id: 293
+          definition: 'metatiedon osajoukko, joka kuvailee tietoa tietystä näkökulmasta'
+          language_code: fin
+          notes:
+            - Metatieto-osio vastaa UML-käsitettä paketti.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19115-1:2014'
+            clause: '4.13'
+            link: 'https://www.iso.org/standard/53798.html'
+          lineage_source: 'ISO 19115:2003'
+          lineage_source_similarity: 1
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2011-01-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2014-04-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19115-1:2014'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19115:2003 to ISO
+            19115-1:2014.
+          release: '1'
+          terms:
+            - type: expression
+              designation: metatieto-osio
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+fra:
+  id: 293
+  definition: >-
+    sous-ensemble de métadonnées consistant en une collection d'entités et
+    d'éléments de métadonnées liés
+  language_code: fra
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19115-1:2014'
+    clause: '4.13'
+    link: 'https://www.iso.org/standard/53798.html'
+  lineage_source: 'ISO 19115:2003'
+  lineage_source_similarity: 1
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2011-01-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2014-04-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19115-1:2014'
+  review_decision_notes: 'Authoritative reference changed from ISO 19115:2003 to ISO 19115-1:2014.'
+  release: '1'
+  terms:
+    - type: expression
+      designation: section de métadonnées
+      normative_status: preferred
+  _revisions:
+    current: 1c40e6
+    tree:
+      1c40e6:
+        object:
+          id: 293
+          definition: >-
+            sous-ensemble de métadonnées consistant en une collection d'entités
+            et d'éléments de métadonnées liés
+          language_code: fra
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19115-1:2014'
+            clause: '4.13'
+            link: 'https://www.iso.org/standard/53798.html'
+          lineage_source: 'ISO 19115:2003'
+          lineage_source_similarity: 1
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2011-01-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2014-04-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19115-1:2014'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19115:2003 to ISO
+            19115-1:2014.
+          release: '1'
+          terms:
+            - type: expression
+              designation: section de métadonnées
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+deu:
+  id: 293
+  definition: >-
+    bestimmte Menge von Metadaten, die aus einer Sammlung von Metadateneinheiten
+    und Metadatenelementen besteht
+  language_code: deu
+  notes:
+    - Equivalent to a package in UML terminology
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19115-1:2014'
+    clause: '4.13'
+    link: 'https://www.iso.org/standard/53798.html'
+  lineage_source: 'ISO 19115:2003'
+  lineage_source_similarity: 1
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2011-01-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2014-04-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19115-1:2014'
+  review_decision_notes: 'Authoritative reference changed from ISO 19115:2003 to ISO 19115-1:2014.'
+  release: '1'
+  terms:
+    - type: expression
+      designation: Metadatenbereich
+      normative_status: preferred
+  _revisions:
+    current: 475bca
+    tree:
+      475bca:
+        object:
+          id: 293
+          definition: >-
+            bestimmte Menge von Metadaten, die aus einer Sammlung von
+            Metadateneinheiten und Metadatenelementen besteht
+          language_code: deu
+          notes:
+            - Equivalent to a package in UML terminology
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19115-1:2014'
+            clause: '4.13'
+            link: 'https://www.iso.org/standard/53798.html'
+          lineage_source: 'ISO 19115:2003'
+          lineage_source_similarity: 1
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2011-01-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2014-04-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19115-1:2014'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19115:2003 to ISO
+            19115-1:2014.
+          release: '1'
+          terms:
+            - type: expression
+              designation: Metadatenbereich
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+jpn:
+  id: 293
+  definition: 関係するメタデータ要素体及びメタデータ要素の集まりからなるメタデータの部分集合。
+  language_code: jpn
+  notes:
+    - UMLの専門用語集におけるパッケージと同等のものとする。
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19115-1:2014'
+    clause: '4.13'
+    link: 'https://www.iso.org/standard/53798.html'
+  lineage_source: 'ISO 19115:2003'
+  lineage_source_similarity: 1
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2011-01-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2014-04-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19115-1:2014'
+  review_decision_notes: 'Authoritative reference changed from ISO 19115:2003 to ISO 19115-1:2014.'
+  release: '1'
+  terms:
+    - type: expression
+      designation: メタデータ構成集合
+      normative_status: preferred
+  _revisions:
+    current: dd2a80
+    tree:
+      dd2a80:
+        object:
+          id: 293
+          definition: 関係するメタデータ要素体及びメタデータ要素の集まりからなるメタデータの部分集合。
+          language_code: jpn
+          notes:
+            - UMLの専門用語集におけるパッケージと同等のものとする。
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19115-1:2014'
+            clause: '4.13'
+            link: 'https://www.iso.org/standard/53798.html'
+          lineage_source: 'ISO 19115:2003'
+          lineage_source_similarity: 1
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2011-01-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2014-04-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19115-1:2014'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19115:2003 to ISO
+            19115-1:2014.
+          release: '1'
+          terms:
+            - type: expression
+              designation: メタデータ構成集合
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+kor:
+  id: 293
+  definition: 관련된 메터데이터 개체와 메타데이터 요소의 모음으로 구성된 메터데이터의 하위 집합
+  language_code: kor
+  notes:
+    - UML 용어에서 패키지에 대응되는 용어이다.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19115-1:2014'
+    clause: '4.13'
+    link: 'https://www.iso.org/standard/53798.html'
+  lineage_source: 'ISO 19115:2003'
+  lineage_source_similarity: 1
+  date_accepted: 2008-12-30T00:00:00.000Z
+  review_date: 2011-01-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2014-04-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19115-1:2014'
+  review_decision_notes: 'Authoritative reference changed from ISO 19115:2003 to ISO 19115-1:2014.'
+  release: '1'
+  terms:
+    - type: expression
+      designation: 메타데이터 섹션
+      normative_status: preferred
+  _revisions:
+    current: 9f0bde
+    tree:
+      9f0bde:
+        object:
+          id: 293
+          definition: 관련된 메터데이터 개체와 메타데이터 요소의 모음으로 구성된 메터데이터의 하위 집합
+          language_code: kor
+          notes:
+            - UML 용어에서 패키지에 대응되는 용어이다.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19115-1:2014'
+            clause: '4.13'
+            link: 'https://www.iso.org/standard/53798.html'
+          lineage_source: 'ISO 19115:2003'
+          lineage_source_similarity: 1
+          date_accepted: 2008-12-30T00:00:00.000Z
+          review_date: 2011-01-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2014-04-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19115-1:2014'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19115:2003 to ISO
+            19115-1:2014.
+          release: '1'
+          terms:
+            - type: expression
+              designation: 메타데이터 섹션
+              normative_status: preferred
+        parents: []
+        timeCreated: 2008-12-30T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+pol:
+  id: 293
+  definition: >-
+    podzbiór metadanych, który składa się z kolekcji związanych encji metadanych
+    i elementów metadanych
+  language_code: pol
+  notes:
+    - Odpowiednik pakietu w terminologii UML.
+  examples: []
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19115-1:2014'
+    clause: '4.13'
+    link: 'https://www.iso.org/standard/53798.html'
+  lineage_source: 'ISO 19115:2003'
+  lineage_source_similarity: 1
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2011-01-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2014-04-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19115-1:2014'
+  review_decision_notes: 'Authoritative reference changed from ISO 19115:2003 to ISO 19115-1:2014.'
+  release: '1'
+  terms:
+    - type: expression
+      designation: sekcja metadanych
+      normative_status: preferred
+  _revisions:
+    current: 21d9ac
+    tree:
+      21d9ac:
+        object:
+          id: 293
+          definition: >-
+            podzbiór metadanych, który składa się z kolekcji związanych encji
+            metadanych i elementów metadanych
+          language_code: pol
+          notes:
+            - Odpowiednik pakietu w terminologii UML.
+          examples: []
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19115-1:2014'
+            clause: '4.13'
+            link: 'https://www.iso.org/standard/53798.html'
+          lineage_source: 'ISO 19115:2003'
+          lineage_source_similarity: 1
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2011-01-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2014-04-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19115-1:2014'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19115:2003 to ISO
+            19115-1:2014.
+          release: '1'
+          terms:
+            - type: expression
+              designation: sekcja metadanych
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 293
+  definition: >-
+    подмножество метаданных, состоящее из совокупности  связанных сущностей
+    метаданных и элементов метаданных
+  language_code: rus
+  notes:
+    - Соответствует пакету в терминологии UML
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19115-1:2014'
+    clause: '4.13'
+    link: 'https://www.iso.org/standard/53798.html'
+  lineage_source: ГОСТ Р 57668-2017 (ИСО 19115-1-2014)
+  lineage_source_similarity: 1
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2011-01-01T00:00:00.000Z
+  review_status: ''
+  review_decision: ''
+  review_decision_date: 2014-04-01T00:00:00.000Z
+  review_decision_event: 'Публикация ИСО19115-1:2014'
+  review_decision_notes: 'Авторитетная ссылка изменена с ISO 19115: 2003 на ISO 19115-1: 2014.'
+  release: '1'
+  terms:
+    - type: expression
+      designation: пакет метаданных
+      normative_status: preferred
+  _revisions:
+    current: cb0833
+    tree:
+      cb0833:
+        object:
+          id: 293
+          definition: >-
+            подмножество метаданных, состоящее из совокупности  связанных
+            сущностей метаданных и элементов метаданных
+          language_code: rus
+          notes:
+            - Соответствует пакету в терминологии UML
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19115-1:2014'
+            clause: '4.13'
+            link: 'https://www.iso.org/standard/53798.html'
+          lineage_source: ГОСТ Р 57668-2017 (ИСО 19115-1-2014)
+          lineage_source_similarity: 1
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2011-01-01T00:00:00.000Z
+          review_status: ''
+          review_decision: ''
+          review_decision_date: 2014-04-01T00:00:00.000Z
+          review_decision_event: 'Публикация ИСО19115-1:2014'
+          review_decision_notes: 'Авторитетная ссылка изменена с ISO 19115: 2003 на ISO 19115-1: 2014.'
+          release: '1'
+          terms:
+            - type: expression
+              designation: пакет метаданных
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 293
+  definition: >-
+    subconjunto de metadatos que consta de una colección de entidades de
+    metadatos relacionadas entre sí, y elementos de metadatos
+  language_code: spa
+  notes:
+    - Equivalente a un paquete en terminología UML.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19115-1:2014'
+    clause: '4.13'
+    link: 'https://www.iso.org/standard/53798.html'
+  lineage_source: 'ISO 19115:2003'
+  lineage_source_similarity: 1
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2011-01-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2014-04-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19115-1:2014'
+  review_decision_notes: 'Authoritative reference changed from ISO 19115:2003 to ISO 19115-1:2014.'
+  release: '1'
+  terms:
+    - type: expression
+      designation: sección de metadatos
+      normative_status: preferred
+  _revisions:
+    current: 140fd8
+    tree:
+      140fd8:
+        object:
+          id: 293
+          definition: >-
+            subconjunto de metadatos que consta de una colección de entidades de
+            metadatos relacionadas entre sí, y elementos de metadatos
+          language_code: spa
+          notes:
+            - Equivalente a un paquete en terminología UML.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19115-1:2014'
+            clause: '4.13'
+            link: 'https://www.iso.org/standard/53798.html'
+          lineage_source: 'ISO 19115:2003'
+          lineage_source_similarity: 1
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2011-01-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2014-04-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19115-1:2014'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19115:2003 to ISO
+            19115-1:2014.
+          release: '1'
+          terms:
+            - type: expression
+              designation: sección de metadatos
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+swe:
+  id: 293
+  definition: >-
+    delmängd av metadata som består av en samling av besläktade metadataklasser
+    och metadataelement
+  country_code: swe
+  language_code: swe
+  notes:
+    - Equivalent to a package in UML terminology
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19115-1:2014'
+    clause: '4.13'
+    link: 'https://www.iso.org/standard/53798.html'
+  lineage_source: 'ISO 19115:2003'
+  lineage_source_similarity: 1
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2011-01-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2014-04-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19115-1:2014'
+  review_decision_notes: 'Authoritative reference changed from ISO 19115:2003 to ISO 19115-1:2014.'
+  release: '1'
+  terms:
+    - type: expression
+      designation: metadatasektion
+      normative_status: preferred
+  _revisions:
+    current: 344f03
+    tree:
+      344f03:
+        object:
+          id: 293
+          definition: >-
+            delmängd av metadata som består av en samling av besläktade
+            metadataklasser och metadataelement
+          country_code: swe
+          language_code: swe
+          notes:
+            - Equivalent to a package in UML terminology
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19115-1:2014'
+            clause: '4.13'
+            link: 'https://www.iso.org/standard/53798.html'
+          lineage_source: 'ISO 19115:2003'
+          lineage_source_similarity: 1
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2011-01-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2014-04-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19115-1:2014'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19115:2003 to ISO
+            19115-1:2014.
+          release: '1'
+          terms:
+            - type: expression
+              designation: metadatasektion
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

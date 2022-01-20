@@ -1,0 +1,923 @@
+term: geodetic height
+termid: 199
+eng:
+  id: 199
+  abbrev: h
+  definition: >-
+    distance of a point from the ellipsoid measured along the perpendicular from
+    the ellipsoid to this point positive if upwards or outside of the ellipsoid
+  language_code: eng
+  notes:
+    - >-
+      Only used as part of a three-dimensional ellipsoidal coordinate system and
+      never on its own.
+  examples: []
+  entry_status: superseded
+  authoritative_source:
+    ref: 'ISO 19111:2007'
+    link: 'https://www.iso.org/standard/41126.html'
+  lineage_source: 'ISO 19111:2003'
+  date_accepted: 2003-02-15T00:00:00.000Z
+  date_amended: 2019-01-31T00:00:00.000Z
+  review_date: 2019-01-31T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2019-01-31T00:00:00.000Z
+  review_decision_event: 'Publication of document ISO 19111:2019(E)'
+  review_decision_notes: >-
+    This entry is superseded by the entry for geodetic height in ISO
+    19111:2019(E)
+  release: '-1'
+  terms:
+    - type: expression
+      designation: geodetic height
+      normative_status: null
+    - designation: ellipsoidal height
+      type: expression
+  _revisions:
+    current: 5c1b85
+    tree:
+      5c1b85:
+        object:
+          id: 199
+          abbrev: h
+          definition: >-
+            distance of a point from the ellipsoid measured along the
+            perpendicular from the ellipsoid to this point positive if upwards
+            or outside of the ellipsoid
+          language_code: eng
+          notes:
+            - >-
+              Only used as part of a three-dimensional ellipsoidal coordinate
+              system and never on its own.
+          examples: []
+          entry_status: superseded
+          authoritative_source:
+            ref: 'ISO 19111:2007'
+            link: 'https://www.iso.org/standard/41126.html'
+          lineage_source: 'ISO 19111:2003'
+          date_accepted: 2003-02-15T00:00:00.000Z
+          date_amended: 2019-01-31T00:00:00.000Z
+          review_date: 2019-01-31T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2019-01-31T00:00:00.000Z
+          review_decision_event: 'Publication of document ISO 19111:2019(E)'
+          review_decision_notes: >-
+            This entry is superseded by the entry for geodetic height in ISO
+            19111:2019(E)
+          release: '-1'
+          terms:
+            - type: expression
+              designation: geodetic height
+              normative_status: null
+            - designation: ellipsoidal height
+              type: expression
+        parents: []
+        timeCreated: 2003-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+ara:
+  id: 199
+  abbrev: ع
+  definition: >-
+    مسافة نقطة ما من مجسم القطع الناقص مُقاسةً بامتداد الخط المتعامد ، الممتد
+    بين القطع الناقص والنقطة المذكورة ، وذلك كقياس موجب إذا كان متجها إلى أعلى
+    أو إلى خارج القطع الناقص
+  language_code: ara
+  notes:
+    - >-
+      يستخدم فقط كجزء من نظام إحداثيات مجسم قطع ناقص ثلاثي الأبعاد ولا يستخدم
+      وحده أبداً.
+  examples: []
+  entry_status: superseded
+  authoritative_source:
+    ref: 'ISO 19111:2007'
+    link: 'https://www.iso.org/standard/41126.html'
+  lineage_source: 'ISO 19111:2003'
+  date_accepted: 2003-02-15T00:00:00.000Z
+  date_amended: 2019-01-31T00:00:00.000Z
+  review_date: 2019-01-31T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2019-01-31T00:00:00.000Z
+  review_decision_event: 'Publication of document ISO 19111:2019(E)'
+  review_decision_notes: >-
+    This entry is superseded by the entry for geodetic height in ISO
+    19111:2019(E)
+  release: '-1'
+  terms:
+    - type: expression
+      designation: الارتفاع الجيوديسي
+      normative_status: null
+    - designation: ellipsoidal height
+      type: expression
+  _revisions:
+    current: '870611'
+    tree:
+      '870611':
+        object:
+          id: 199
+          abbrev: ع
+          definition: >-
+            مسافة نقطة ما من مجسم القطع الناقص مُقاسةً بامتداد الخط المتعامد ،
+            الممتد بين القطع الناقص والنقطة المذكورة ، وذلك كقياس موجب إذا كان
+            متجها إلى أعلى أو إلى خارج القطع الناقص
+          language_code: ara
+          notes:
+            - >-
+              يستخدم فقط كجزء من نظام إحداثيات مجسم قطع ناقص ثلاثي الأبعاد ولا
+              يستخدم وحده أبداً.
+          examples: []
+          entry_status: superseded
+          authoritative_source:
+            ref: 'ISO 19111:2007'
+            link: 'https://www.iso.org/standard/41126.html'
+          lineage_source: 'ISO 19111:2003'
+          date_accepted: 2003-02-15T00:00:00.000Z
+          date_amended: 2019-01-31T00:00:00.000Z
+          review_date: 2019-01-31T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2019-01-31T00:00:00.000Z
+          review_decision_event: 'Publication of document ISO 19111:2019(E)'
+          review_decision_notes: >-
+            This entry is superseded by the entry for geodetic height in ISO
+            19111:2019(E)
+          release: '-1'
+          terms:
+            - type: expression
+              designation: الارتفاع الجيوديسي
+              normative_status: null
+            - designation: ellipsoidal height
+              type: expression
+        parents: []
+        timeCreated: 2003-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+zho:
+  id: 199
+  abbrev: h
+  definition: 沿从椭球面到点的法线方向量测的该点到椭球面的距离，向上或向外为正。
+  language_code: zho
+  notes:
+    - 仅用作三维大地坐标系的一部分，从不单独使用。
+  examples: []
+  entry_status: superseded
+  authoritative_source:
+    ref: 'ISO 19111:2007'
+    link: 'https://www.iso.org/standard/41126.html'
+  lineage_source: 'ISO 19111:2003'
+  date_accepted: 2003-02-15T00:00:00.000Z
+  date_amended: 2019-01-31T00:00:00.000Z
+  review_date: 2019-01-31T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2019-01-31T00:00:00.000Z
+  review_decision_event: 'Publication of document ISO 19111:2019(E)'
+  review_decision_notes: >-
+    This entry is superseded by the entry for geodetic height in ISO
+    19111:2019(E)
+  release: '-1'
+  terms:
+    - type: expression
+      designation: 大地高
+      normative_status: null
+    - designation: ellipsoidal height
+      type: expression
+  _revisions:
+    current: c176b5
+    tree:
+      c176b5:
+        object:
+          id: 199
+          abbrev: h
+          definition: 沿从椭球面到点的法线方向量测的该点到椭球面的距离，向上或向外为正。
+          language_code: zho
+          notes:
+            - 仅用作三维大地坐标系的一部分，从不单独使用。
+          examples: []
+          entry_status: superseded
+          authoritative_source:
+            ref: 'ISO 19111:2007'
+            link: 'https://www.iso.org/standard/41126.html'
+          lineage_source: 'ISO 19111:2003'
+          date_accepted: 2003-02-15T00:00:00.000Z
+          date_amended: 2019-01-31T00:00:00.000Z
+          review_date: 2019-01-31T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2019-01-31T00:00:00.000Z
+          review_decision_event: 'Publication of document ISO 19111:2019(E)'
+          review_decision_notes: >-
+            This entry is superseded by the entry for geodetic height in ISO
+            19111:2019(E)
+          release: '-1'
+          terms:
+            - type: expression
+              designation: 大地高
+              normative_status: null
+            - designation: ellipsoidal height
+              type: expression
+        parents: []
+        timeCreated: 2003-02-15T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+dan:
+  id: 199
+  abbrev: h
+  definition: >-
+    et punkts afstand fra ellipsoiden målt langs normalen fra ellipsoiden til
+    dette punkt. Den er positiv, hvis punktet ligger over eller uden for
+    ellipsoiden
+  language_code: dan
+  notes:
+    - >-
+      Benyttes kun som en del af et 3-dimensionalt geodætisk koordinatsystem og
+      aldrig alene.
+  examples: []
+  entry_status: superseded
+  authoritative_source:
+    ref: 'ISO 19111:2007'
+    link: 'https://www.iso.org/standard/41126.html'
+  lineage_source: 'ISO 19111:2003'
+  date_accepted: 2003-02-15T00:00:00.000Z
+  date_amended: 2019-01-31T00:00:00.000Z
+  review_date: 2019-01-31T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2019-01-31T00:00:00.000Z
+  review_decision_event: 'Publication of document ISO 19111:2019(E)'
+  review_decision_notes: >-
+    This entry is superseded by the entry for geodetic height in ISO
+    19111:2019(E)
+  release: '-1'
+  terms:
+    - type: expression
+      designation: geodætisk højde
+      normative_status: null
+  _revisions:
+    current: 07395b
+    tree:
+      07395b:
+        object:
+          id: 199
+          abbrev: h
+          definition: >-
+            et punkts afstand fra ellipsoiden målt langs normalen fra
+            ellipsoiden til dette punkt. Den er positiv, hvis punktet ligger
+            over eller uden for ellipsoiden
+          language_code: dan
+          notes:
+            - >-
+              Benyttes kun som en del af et 3-dimensionalt geodætisk
+              koordinatsystem og aldrig alene.
+          examples: []
+          entry_status: superseded
+          authoritative_source:
+            ref: 'ISO 19111:2007'
+            link: 'https://www.iso.org/standard/41126.html'
+          lineage_source: 'ISO 19111:2003'
+          date_accepted: 2003-02-15T00:00:00.000Z
+          date_amended: 2019-01-31T00:00:00.000Z
+          review_date: 2019-01-31T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2019-01-31T00:00:00.000Z
+          review_decision_event: 'Publication of document ISO 19111:2019(E)'
+          review_decision_notes: >-
+            This entry is superseded by the entry for geodetic height in ISO
+            19111:2019(E)
+          release: '-1'
+          terms:
+            - type: expression
+              designation: geodætisk højde
+              normative_status: null
+        parents: []
+        timeCreated: 2003-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+nld:
+  id: 199
+  abbrev: h
+  definition: >-
+    afstand van een punt tot de ellipsoïde gemeten langs een lijn loodrecht op
+    de ellipsoïde positief indien naar boven of naar de buitenzijde van de
+    ellipsoïde
+  language_code: nld
+  notes:
+    - >-
+      Wordt alleen gebruikt als deel van een driedimensionaal ellipsoidaal
+      coördinaatsysteem en nooit op zichzelf staand.
+  examples: []
+  entry_status: superseded
+  authoritative_source:
+    ref: 'ISO 19111:2007'
+    link: 'https://www.iso.org/standard/41126.html'
+  lineage_source: 'ISO 19111:2003'
+  date_accepted: 2003-02-15T00:00:00.000Z
+  date_amended: 2019-01-31T00:00:00.000Z
+  review_date: 2019-01-31T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2019-01-31T00:00:00.000Z
+  review_decision_event: 'Publication of document ISO 19111:2019(E)'
+  review_decision_notes: >-
+    This entry is superseded by the entry for geodetic height in ISO
+    19111:2019(E)
+  release: '-1'
+  terms:
+    - type: expression
+      designation: geodetische hoogte
+      normative_status: null
+    - designation: ellipsoïde hoogte
+      type: expression
+  _revisions:
+    current: cd26a5
+    tree:
+      cd26a5:
+        object:
+          id: 199
+          abbrev: h
+          definition: >-
+            afstand van een punt tot de ellipsoïde gemeten langs een lijn
+            loodrecht op de ellipsoïde positief indien naar boven of naar de
+            buitenzijde van de ellipsoïde
+          language_code: nld
+          notes:
+            - >-
+              Wordt alleen gebruikt als deel van een driedimensionaal
+              ellipsoidaal coördinaatsysteem en nooit op zichzelf staand.
+          examples: []
+          entry_status: superseded
+          authoritative_source:
+            ref: 'ISO 19111:2007'
+            link: 'https://www.iso.org/standard/41126.html'
+          lineage_source: 'ISO 19111:2003'
+          date_accepted: 2003-02-15T00:00:00.000Z
+          date_amended: 2019-01-31T00:00:00.000Z
+          review_date: 2019-01-31T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2019-01-31T00:00:00.000Z
+          review_decision_event: 'Publication of document ISO 19111:2019(E)'
+          review_decision_notes: >-
+            This entry is superseded by the entry for geodetic height in ISO
+            19111:2019(E)
+          release: '-1'
+          terms:
+            - type: expression
+              designation: geodetische hoogte
+              normative_status: null
+            - designation: ellipsoïde hoogte
+              type: expression
+        parents: []
+        timeCreated: 2003-02-15T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+fin:
+  id: 199
+  definition: >-
+    pisteen ja vertausellipsoidin välinen etäisyys vertausellipsoidin normaalia
+    pitkin laskettuna
+  language_code: fin
+  notes:
+    - >-
+      Käytetään osana kolmiulotteista ellipsoidista koordinaatistoa, ei koskaan
+      yksin.
+  examples: []
+  entry_status: superseded
+  authoritative_source:
+    ref: 'ISO 19111:2007'
+    link: 'https://www.iso.org/standard/41126.html'
+  lineage_source: 'ISO 19111:2003'
+  date_accepted: 2003-02-15T00:00:00.000Z
+  date_amended: 2019-01-31T00:00:00.000Z
+  review_date: 2019-01-31T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2019-01-31T00:00:00.000Z
+  review_decision_event: 'Publication of document ISO 19111:2019(E)'
+  review_decision_notes: >-
+    This entry is superseded by the entry for geodetic height in ISO
+    19111:2019(E)
+  release: '-1'
+  terms:
+    - type: expression
+      designation: geodeettinen korkeus
+      normative_status: null
+    - designation: ellipsoidinen korkeus; geodeettinen korkeus
+      type: expression
+  _revisions:
+    current: 3fd216
+    tree:
+      3fd216:
+        object:
+          id: 199
+          definition: >-
+            pisteen ja vertausellipsoidin välinen etäisyys vertausellipsoidin
+            normaalia pitkin laskettuna
+          language_code: fin
+          notes:
+            - >-
+              Käytetään osana kolmiulotteista ellipsoidista koordinaatistoa, ei
+              koskaan yksin.
+          examples: []
+          entry_status: superseded
+          authoritative_source:
+            ref: 'ISO 19111:2007'
+            link: 'https://www.iso.org/standard/41126.html'
+          lineage_source: 'ISO 19111:2003'
+          date_accepted: 2003-02-15T00:00:00.000Z
+          date_amended: 2019-01-31T00:00:00.000Z
+          review_date: 2019-01-31T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2019-01-31T00:00:00.000Z
+          review_decision_event: 'Publication of document ISO 19111:2019(E)'
+          review_decision_notes: >-
+            This entry is superseded by the entry for geodetic height in ISO
+            19111:2019(E)
+          release: '-1'
+          terms:
+            - type: expression
+              designation: geodeettinen korkeus
+              normative_status: null
+            - designation: ellipsoidinen korkeus; geodeettinen korkeus
+              type: expression
+        parents: []
+        timeCreated: 2003-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+fra:
+  id: 199
+  definition: >-
+    distance d'un point à l'ellipsoïde mesurée le long de la normale à
+    l'ellipsoïde en ce point, positive si vers le haut ou vers l'extérieur de
+    l'ellipsoïde
+  language_code: fra
+  notes:
+    - Synonyme de hauteur ellipsoïdale
+  examples: []
+  entry_status: superseded
+  authoritative_source:
+    ref: 'ISO 19111:2007'
+    link: 'https://www.iso.org/standard/41126.html'
+  lineage_source: 'ISO 19111:2003'
+  date_accepted: 2003-02-15T00:00:00.000Z
+  date_amended: 2019-01-31T00:00:00.000Z
+  review_date: 2019-01-31T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2019-01-31T00:00:00.000Z
+  review_decision_event: 'Publication of document ISO 19111:2019(E)'
+  review_decision_notes: >-
+    This entry is superseded by the entry for geodetic height in ISO
+    19111:2019(E)
+  release: '-1'
+  terms:
+    - type: expression
+      designation: hauteur géodésique
+      normative_status: null
+    - designation: ellipsoidal height
+      type: expression
+  _revisions:
+    current: 55579a
+    tree:
+      55579a:
+        object:
+          id: 199
+          definition: >-
+            distance d'un point à l'ellipsoïde mesurée le long de la normale à
+            l'ellipsoïde en ce point, positive si vers le haut ou vers
+            l'extérieur de l'ellipsoïde
+          language_code: fra
+          notes:
+            - Synonyme de hauteur ellipsoïdale
+          examples: []
+          entry_status: superseded
+          authoritative_source:
+            ref: 'ISO 19111:2007'
+            link: 'https://www.iso.org/standard/41126.html'
+          lineage_source: 'ISO 19111:2003'
+          date_accepted: 2003-02-15T00:00:00.000Z
+          date_amended: 2019-01-31T00:00:00.000Z
+          review_date: 2019-01-31T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2019-01-31T00:00:00.000Z
+          review_decision_event: 'Publication of document ISO 19111:2019(E)'
+          review_decision_notes: >-
+            This entry is superseded by the entry for geodetic height in ISO
+            19111:2019(E)
+          release: '-1'
+          terms:
+            - type: expression
+              designation: hauteur géodésique
+              normative_status: null
+            - designation: ellipsoidal height
+              type: expression
+        parents: []
+        timeCreated: 2003-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+deu:
+  id: 199
+  abbrev: h
+  definition: >-
+    Abstand eines Punktes vom Ellipsoid, gemessen entlang der
+    Ellipsoidsenkrechten durch diesen Punkt; Wert ist positiv, wenn nach oben
+    oder außerhalb des Ellipsoids
+  language_code: deu
+  notes:
+    - >-
+      Only used as part of a three-dimensional ellipsoidal coordinate system and
+      never on its own.
+  examples: []
+  entry_status: superseded
+  authoritative_source:
+    ref: 'ISO 19111:2007'
+    link: 'https://www.iso.org/standard/41126.html'
+  lineage_source: 'ISO 19111:2003'
+  date_accepted: 2003-02-15T00:00:00.000Z
+  date_amended: 2019-01-31T00:00:00.000Z
+  review_date: 2019-01-31T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2019-01-31T00:00:00.000Z
+  review_decision_event: 'Publication of document ISO 19111:2019(E)'
+  review_decision_notes: >-
+    This entry is superseded by the entry for geodetic height in ISO
+    19111:2019(E)
+  release: '-1'
+  terms:
+    - type: expression
+      designation: geodätische Höhe
+      normative_status: null
+    - designation: ellipsoidal height
+      type: expression
+  _revisions:
+    current: b0509a
+    tree:
+      b0509a:
+        object:
+          id: 199
+          abbrev: h
+          definition: >-
+            Abstand eines Punktes vom Ellipsoid, gemessen entlang der
+            Ellipsoidsenkrechten durch diesen Punkt; Wert ist positiv, wenn nach
+            oben oder außerhalb des Ellipsoids
+          language_code: deu
+          notes:
+            - >-
+              Only used as part of a three-dimensional ellipsoidal coordinate
+              system and never on its own.
+          examples: []
+          entry_status: superseded
+          authoritative_source:
+            ref: 'ISO 19111:2007'
+            link: 'https://www.iso.org/standard/41126.html'
+          lineage_source: 'ISO 19111:2003'
+          date_accepted: 2003-02-15T00:00:00.000Z
+          date_amended: 2019-01-31T00:00:00.000Z
+          review_date: 2019-01-31T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2019-01-31T00:00:00.000Z
+          review_decision_event: 'Publication of document ISO 19111:2019(E)'
+          review_decision_notes: >-
+            This entry is superseded by the entry for geodetic height in ISO
+            19111:2019(E)
+          release: '-1'
+          terms:
+            - type: expression
+              designation: geodätische Höhe
+              normative_status: null
+            - designation: ellipsoidal height
+              type: expression
+        parents: []
+        timeCreated: 2003-02-15T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+kor:
+  id: 199
+  abbrev: h
+  definition: 타원체에서 임의의 한 점까지 법선을 따라 측정된 거리. 타원체에서 위쪽 방향 또는 타원체 외부이면 양의 값을 갖는다.
+  language_code: kor
+  notes:
+    - '차원 타원체 좌표계의 일부로 사용되며, 독립적으로 사용되지 않는다.'
+  examples: []
+  entry_status: superseded
+  authoritative_source:
+    ref: 'ISO 19111:2007'
+    link: 'https://www.iso.org/standard/41126.html'
+  lineage_source: 'ISO 19111:2003'
+  date_accepted: 2003-02-15T00:00:00.000Z
+  date_amended: 2019-01-31T00:00:00.000Z
+  review_date: 2019-01-31T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2019-01-31T00:00:00.000Z
+  review_decision_event: 'Publication of document ISO 19111:2019(E)'
+  review_decision_notes: >-
+    This entry is superseded by the entry for geodetic height in ISO
+    19111:2019(E)
+  release: '-1'
+  terms:
+    - type: expression
+      designation: 측지 표고
+      normative_status: null
+  _revisions:
+    current: cd8e60
+    tree:
+      cd8e60:
+        object:
+          id: 199
+          abbrev: h
+          definition: 타원체에서 임의의 한 점까지 법선을 따라 측정된 거리. 타원체에서 위쪽 방향 또는 타원체 외부이면 양의 값을 갖는다.
+          language_code: kor
+          notes:
+            - '차원 타원체 좌표계의 일부로 사용되며, 독립적으로 사용되지 않는다.'
+          examples: []
+          entry_status: superseded
+          authoritative_source:
+            ref: 'ISO 19111:2007'
+            link: 'https://www.iso.org/standard/41126.html'
+          lineage_source: 'ISO 19111:2003'
+          date_accepted: 2003-02-15T00:00:00.000Z
+          date_amended: 2019-01-31T00:00:00.000Z
+          review_date: 2019-01-31T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2019-01-31T00:00:00.000Z
+          review_decision_event: 'Publication of document ISO 19111:2019(E)'
+          review_decision_notes: >-
+            This entry is superseded by the entry for geodetic height in ISO
+            19111:2019(E)
+          release: '-1'
+          terms:
+            - type: expression
+              designation: 측지 표고
+              normative_status: null
+        parents: []
+        timeCreated: 2003-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+pol:
+  id: 199
+  abbrev: h
+  definition: >-
+    odległość punktu od elipsoidy mierzona wzdłuż normalnej do elipsoidy,
+    dodatnia gdy punkt znajduje się na zewnątrz elipsoidy
+  language_code: pol
+  notes:
+    - >-
+      Używana tylko jako część trójwymiarowego geodezyjnego układu
+      współrzędnych, a nigdy osobno.
+  examples: []
+  authoritative_source:
+    ref: 'ISO 19111:2007'
+    link: 'https://www.iso.org/standard/41126.html'
+  lineage_source: 'ISO 19111:2003'
+  date_accepted: 2003-02-15T00:00:00.000Z
+  date_amended: 2019-01-31T00:00:00.000Z
+  review_date: 2019-01-31T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2019-01-31T00:00:00.000Z
+  review_decision_event: 'Publication of document ISO 19111:2019(E)'
+  review_decision_notes: >-
+    This entry is superseded by the entry for geodetic height in ISO
+    19111:2019(E)
+  release: '-1'
+  terms:
+    - type: expression
+      designation: 'wysokość elipsoidalna,                  wysokośc geodezyjna h'
+      normative_status: null
+    - designation: wysokość elipsoidalna
+      type: expression
+  _revisions:
+    current: 72ecf8
+    tree:
+      72ecf8:
+        object:
+          id: 199
+          abbrev: h
+          definition: >-
+            odległość punktu od elipsoidy mierzona wzdłuż normalnej do
+            elipsoidy, dodatnia gdy punkt znajduje się na zewnątrz elipsoidy
+          language_code: pol
+          notes:
+            - >-
+              Używana tylko jako część trójwymiarowego geodezyjnego układu
+              współrzędnych, a nigdy osobno.
+          examples: []
+          authoritative_source:
+            ref: 'ISO 19111:2007'
+            link: 'https://www.iso.org/standard/41126.html'
+          lineage_source: 'ISO 19111:2003'
+          date_accepted: 2003-02-15T00:00:00.000Z
+          date_amended: 2019-01-31T00:00:00.000Z
+          review_date: 2019-01-31T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2019-01-31T00:00:00.000Z
+          review_decision_event: 'Publication of document ISO 19111:2019(E)'
+          review_decision_notes: >-
+            This entry is superseded by the entry for geodetic height in ISO
+            19111:2019(E)
+          release: '-1'
+          terms:
+            - type: expression
+              designation: 'wysokość elipsoidalna,                  wysokośc geodezyjna h'
+              normative_status: null
+            - designation: wysokość elipsoidalna
+              type: expression
+        parents: []
+        timeCreated: 2003-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 199
+  abbrev: H
+  definition: >-
+    расстояние от эллипсоида до точки на физической поверхности Земли по нормали
+    к его поверхности
+  language_code: rus
+  notes: []
+  examples: []
+  entry_status: superseded
+  authoritative_source:
+    ref: 'ISO 19111:2007'
+    link: 'https://www.iso.org/standard/41126.html'
+  lineage_source: 'ISO 19111:2003'
+  date_accepted: 2003-02-15T00:00:00.000Z
+  date_amended: 2019-01-31T00:00:00.000Z
+  review_date: 2019-01-31T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2019-01-31T00:00:00.000Z
+  review_decision_event: 'Publication of document ISO 19111:2019(E)'
+  review_decision_notes: >-
+    This entry is superseded by the entry for geodetic height in ISO
+    19111:2019(E)
+  release: '-1'
+  terms:
+    - type: expression
+      designation: геодезическая высота
+      normative_status: null
+    - designation: элипсоидальная высота
+      type: expression
+  _revisions:
+    current: 6c57cc
+    tree:
+      6c57cc:
+        object:
+          id: 199
+          abbrev: H
+          definition: >-
+            расстояние от эллипсоида до точки на физической поверхности Земли по
+            нормали к его поверхности
+          language_code: rus
+          notes: []
+          examples: []
+          entry_status: superseded
+          authoritative_source:
+            ref: 'ISO 19111:2007'
+            link: 'https://www.iso.org/standard/41126.html'
+          lineage_source: 'ISO 19111:2003'
+          date_accepted: 2003-02-15T00:00:00.000Z
+          date_amended: 2019-01-31T00:00:00.000Z
+          review_date: 2019-01-31T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2019-01-31T00:00:00.000Z
+          review_decision_event: 'Publication of document ISO 19111:2019(E)'
+          review_decision_notes: >-
+            This entry is superseded by the entry for geodetic height in ISO
+            19111:2019(E)
+          release: '-1'
+          terms:
+            - type: expression
+              designation: геодезическая высота
+              normative_status: null
+            - designation: элипсоидальная высота
+              type: expression
+        parents: []
+        timeCreated: 2003-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 199
+  abbrev: h
+  definition: >-
+    distancia a un punto desde el elipsoide medida a lo largo de la normal al
+    elipsoide por este punto positiva si es ascendente o el punto está fuera del
+    elipsoide
+  language_code: spa
+  notes:
+    - >-
+      Solo se usa como parte de un sistema de coordenadas elipsódico
+      tridimensional y nunca sólo
+  examples: []
+  entry_status: superseded
+  authoritative_source:
+    ref: 'ISO 19111:2007'
+    link: 'https://www.iso.org/standard/41126.html'
+  lineage_source: 'ISO 19111:2003'
+  date_accepted: 2003-02-15T00:00:00.000Z
+  date_amended: 2019-01-31T00:00:00.000Z
+  review_date: 2019-01-31T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2019-01-31T00:00:00.000Z
+  review_decision_event: 'Publication of document ISO 19111:2019(E)'
+  review_decision_notes: >-
+    This entry is superseded by the entry for geodetic height in ISO
+    19111:2019(E)
+  release: '-1'
+  terms:
+    - type: expression
+      designation: altitud geodésica
+      normative_status: null
+    - designation: altitud elipsoidal
+      type: expression
+  _revisions:
+    current: 22606c
+    tree:
+      22606c:
+        object:
+          id: 199
+          abbrev: h
+          definition: >-
+            distancia a un punto desde el elipsoide medida a lo largo de la
+            normal al elipsoide por este punto positiva si es ascendente o el
+            punto está fuera del elipsoide
+          language_code: spa
+          notes:
+            - >-
+              Solo se usa como parte de un sistema de coordenadas elipsódico
+              tridimensional y nunca sólo
+          examples: []
+          entry_status: superseded
+          authoritative_source:
+            ref: 'ISO 19111:2007'
+            link: 'https://www.iso.org/standard/41126.html'
+          lineage_source: 'ISO 19111:2003'
+          date_accepted: 2003-02-15T00:00:00.000Z
+          date_amended: 2019-01-31T00:00:00.000Z
+          review_date: 2019-01-31T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2019-01-31T00:00:00.000Z
+          review_decision_event: 'Publication of document ISO 19111:2019(E)'
+          review_decision_notes: >-
+            This entry is superseded by the entry for geodetic height in ISO
+            19111:2019(E)
+          release: '-1'
+          terms:
+            - type: expression
+              designation: altitud geodésica
+              normative_status: null
+            - designation: altitud elipsoidal
+              type: expression
+        parents: []
+        timeCreated: 2003-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

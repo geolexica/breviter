@@ -1,0 +1,654 @@
+term: line string
+termid: 270
+eng:
+  id: 270
+  definition: curve composed of straight-line segments
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19136-1:2020'
+    clause: '(E), 3.1.40'
+    link: 'https://www.iso.org/standard/75676.html'
+  lineage_source: 'ISO 19136:2007(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2007-09-01T00:00:00.000Z
+  review_date: 2020-01-09T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2020-01-09T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19136-1:2020(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19136:2007 to ISO 19136-1:2020(E),
+    3.1.40. Lineage source added as ISO 19136:2007(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: line string
+      normative_status: preferred
+  _revisions:
+    current: 253d2f
+    tree:
+      253d2f:
+        object:
+          id: 270
+          definition: curve composed of straight-line segments
+          language_code: eng
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19136-1:2020'
+            clause: '(E), 3.1.40'
+            link: 'https://www.iso.org/standard/75676.html'
+          lineage_source: 'ISO 19136:2007(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2007-09-01T00:00:00.000Z
+          review_date: 2020-01-09T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2020-01-09T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19136-1:2020(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19136:2007 to ISO
+            19136-1:2020(E), 3.1.40. Lineage source added as ISO 19136:2007(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: line string
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-09-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+ara:
+  id: 270
+  definition: منحنى من خطوط مستقيمة هي أجزاؤه التي يتكون منها
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19136-1:2020'
+    clause: '(E), 3.1.40'
+    link: 'https://www.iso.org/standard/75676.html'
+  lineage_source: 'ISO 19136:2007(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2007-09-01T00:00:00.000Z
+  review_date: 2020-01-09T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2020-01-09T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19136-1:2020(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19136:2007 to ISO 19136-1:2020(E),
+    3.1.40. Lineage source added as ISO 19136:2007(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: سلسلة خطوط
+      normative_status: preferred
+  _revisions:
+    current: 45ec1a
+    tree:
+      45ec1a:
+        object:
+          id: 270
+          definition: منحنى من خطوط مستقيمة هي أجزاؤه التي يتكون منها
+          language_code: ara
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19136-1:2020'
+            clause: '(E), 3.1.40'
+            link: 'https://www.iso.org/standard/75676.html'
+          lineage_source: 'ISO 19136:2007(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2007-09-01T00:00:00.000Z
+          review_date: 2020-01-09T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2020-01-09T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19136-1:2020(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19136:2007 to ISO
+            19136-1:2020(E), 3.1.40. Lineage source added as ISO 19136:2007(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: سلسلة خطوط
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-09-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+zho:
+  id: 270
+  definition: 由直线段组成的曲线。
+  language_code: zho
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19136-1:2020'
+    clause: '(E), 3.1.40'
+    link: 'https://www.iso.org/standard/75676.html'
+  lineage_source: 'ISO 19136:2007(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2007-09-01T00:00:00.000Z
+  review_date: 2020-01-09T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2020-01-09T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19136-1:2020(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19136:2007 to ISO 19136-1:2020(E),
+    3.1.40. Lineage source added as ISO 19136:2007(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: 线串
+      normative_status: preferred
+  _revisions:
+    current: c35189
+    tree:
+      c35189:
+        object:
+          id: 270
+          definition: 由直线段组成的曲线。
+          language_code: zho
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19136-1:2020'
+            clause: '(E), 3.1.40'
+            link: 'https://www.iso.org/standard/75676.html'
+          lineage_source: 'ISO 19136:2007(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2007-09-01T00:00:00.000Z
+          review_date: 2020-01-09T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2020-01-09T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19136-1:2020(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19136:2007 to ISO
+            19136-1:2020(E), 3.1.40. Lineage source added as ISO 19136:2007(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: 线串
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-09-01T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+fin:
+  id: 270
+  definition: 'yhtenäinen käyrä, joka koostuu suorista osaviivoista eli janoista'
+  language_code: fin
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19136-1:2020'
+    clause: '(E), 3.1.40'
+    link: 'https://www.iso.org/standard/75676.html'
+  lineage_source: 'ISO 19136:2007(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2007-09-01T00:00:00.000Z
+  review_date: 2020-01-09T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2020-01-09T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19136-1:2020(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19136:2007 to ISO 19136-1:2020(E),
+    3.1.40. Lineage source added as ISO 19136:2007(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: murtoviiva
+      normative_status: preferred
+  _revisions:
+    current: 020fc6
+    tree:
+      020fc6:
+        object:
+          id: 270
+          definition: 'yhtenäinen käyrä, joka koostuu suorista osaviivoista eli janoista'
+          language_code: fin
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19136-1:2020'
+            clause: '(E), 3.1.40'
+            link: 'https://www.iso.org/standard/75676.html'
+          lineage_source: 'ISO 19136:2007(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2007-09-01T00:00:00.000Z
+          review_date: 2020-01-09T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2020-01-09T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19136-1:2020(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19136:2007 to ISO
+            19136-1:2020(E), 3.1.40. Lineage source added as ISO 19136:2007(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: murtoviiva
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-09-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+fra:
+  id: 270
+  definition: courbe composée de segments de lignes droites
+  language_code: fra
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19136-1:2020'
+    clause: '(E), 3.1.40'
+    link: 'https://www.iso.org/standard/75676.html'
+  lineage_source: 'ISO 19136:2007(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2007-09-01T00:00:00.000Z
+  review_date: 2020-01-09T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2020-01-09T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19136-1:2020(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19136:2007 to ISO 19136-1:2020(E),
+    3.1.40. Lineage source added as ISO 19136:2007(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: polyligne
+      normative_status: preferred
+  _revisions:
+    current: 01d9ab
+    tree:
+      01d9ab:
+        object:
+          id: 270
+          definition: courbe composée de segments de lignes droites
+          language_code: fra
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19136-1:2020'
+            clause: '(E), 3.1.40'
+            link: 'https://www.iso.org/standard/75676.html'
+          lineage_source: 'ISO 19136:2007(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2007-09-01T00:00:00.000Z
+          review_date: 2020-01-09T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2020-01-09T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19136-1:2020(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19136:2007 to ISO
+            19136-1:2020(E), 3.1.40. Lineage source added as ISO 19136:2007(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: polyligne
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-09-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+deu:
+  id: 270
+  definition: aus geraden Liniensegmenten zusammengesetzte Kurve
+  language_code: deu
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19136-1:2020'
+    clause: '(E), 3.1.40'
+    link: 'https://www.iso.org/standard/75676.html'
+  lineage_source: 'ISO 19136:2007(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2007-09-01T00:00:00.000Z
+  review_date: 2020-01-09T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2020-01-09T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19136-1:2020(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19136:2007 to ISO 19136-1:2020(E),
+    3.1.40. Lineage source added as ISO 19136:2007(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: Linienzug
+      normative_status: preferred
+  _revisions:
+    current: b1578e
+    tree:
+      b1578e:
+        object:
+          id: 270
+          definition: aus geraden Liniensegmenten zusammengesetzte Kurve
+          language_code: deu
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19136-1:2020'
+            clause: '(E), 3.1.40'
+            link: 'https://www.iso.org/standard/75676.html'
+          lineage_source: 'ISO 19136:2007(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2007-09-01T00:00:00.000Z
+          review_date: 2020-01-09T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2020-01-09T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19136-1:2020(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19136:2007 to ISO
+            19136-1:2020(E), 3.1.40. Lineage source added as ISO 19136:2007(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: Linienzug
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-09-01T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+kor:
+  id: 270
+  definition: 직선 조각으로 구성된 곡선
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19136-1:2020'
+    clause: '(E), 3.1.40'
+    link: 'https://www.iso.org/standard/75676.html'
+  lineage_source: 'ISO 19136:2007(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2007-09-01T00:00:00.000Z
+  review_date: 2020-01-09T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2020-01-09T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19136-1:2020(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19136:2007 to ISO 19136-1:2020(E),
+    3.1.40. Lineage source added as ISO 19136:2007(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: 선열
+      normative_status: preferred
+  _revisions:
+    current: 494a2d
+    tree:
+      494a2d:
+        object:
+          id: 270
+          definition: 직선 조각으로 구성된 곡선
+          language_code: kor
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19136-1:2020'
+            clause: '(E), 3.1.40'
+            link: 'https://www.iso.org/standard/75676.html'
+          lineage_source: 'ISO 19136:2007(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2007-09-01T00:00:00.000Z
+          review_date: 2020-01-09T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2020-01-09T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19136-1:2020(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19136:2007 to ISO
+            19136-1:2020(E), 3.1.40. Lineage source added as ISO 19136:2007(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: 선열
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-09-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 270
+  definition: 'кривая, состоящая из прямолинейных сегментов [отрезков прямой)'
+  language_code: rus
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19136-1:2020'
+    clause: '(E), 3.1.40'
+    link: 'https://www.iso.org/standard/75676.html'
+  lineage_source: 'ISO 19136:2007(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2007-09-01T00:00:00.000Z
+  review_date: 2020-01-09T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2020-01-09T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19136-1:2020(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19136:2007 to ISO 19136-1:2020(E),
+    3.1.40. Lineage source added as ISO 19136:2007(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: ломаная
+      normative_status: preferred
+  _revisions:
+    current: '282887'
+    tree:
+      '282887':
+        object:
+          id: 270
+          definition: 'кривая, состоящая из прямолинейных сегментов [отрезков прямой)'
+          language_code: rus
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19136-1:2020'
+            clause: '(E), 3.1.40'
+            link: 'https://www.iso.org/standard/75676.html'
+          lineage_source: 'ISO 19136:2007(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2007-09-01T00:00:00.000Z
+          review_date: 2020-01-09T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2020-01-09T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19136-1:2020(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19136:2007 to ISO
+            19136-1:2020(E), 3.1.40. Lineage source added as ISO 19136:2007(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: ломаная
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-09-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 270
+  definition: curva compuesta de segmentos rectilíneos
+  language_code: spa
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19136-1:2020'
+    clause: '(E), 3.1.40'
+    link: 'https://www.iso.org/standard/75676.html'
+  lineage_source: 'ISO 19136:2007(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2007-09-01T00:00:00.000Z
+  review_date: 2020-01-09T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2020-01-09T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19136-1:2020(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19136:2007 to ISO 19136-1:2020(E),
+    3.1.40. Lineage source added as ISO 19136:2007(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: cadena de líneas
+      normative_status: preferred
+  _revisions:
+    current: bb651d
+    tree:
+      bb651d:
+        object:
+          id: 270
+          definition: curva compuesta de segmentos rectilíneos
+          language_code: spa
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19136-1:2020'
+            clause: '(E), 3.1.40'
+            link: 'https://www.iso.org/standard/75676.html'
+          lineage_source: 'ISO 19136:2007(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2007-09-01T00:00:00.000Z
+          review_date: 2020-01-09T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2020-01-09T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19136-1:2020(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19136:2007 to ISO
+            19136-1:2020(E), 3.1.40. Lineage source added as ISO 19136:2007(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: cadena de líneas
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-09-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+swe:
+  id: 270
+  definition: linje bestående av sammanhängande räta linjer
+  country_code: swe
+  language_code: swe
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19136-1:2020'
+    clause: '(E), 3.1.40'
+    link: 'https://www.iso.org/standard/75676.html'
+  lineage_source: 'ISO 19136:2007(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2007-09-01T00:00:00.000Z
+  review_date: 2020-01-09T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2020-01-09T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19136-1:2020(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19136:2007 to ISO 19136-1:2020(E),
+    3.1.40. Lineage source added as ISO 19136:2007(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: 'öppen polygon, linjesegment'
+      normative_status: preferred
+  _revisions:
+    current: e16e4b
+    tree:
+      e16e4b:
+        object:
+          id: 270
+          definition: linje bestående av sammanhängande räta linjer
+          country_code: swe
+          language_code: swe
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19136-1:2020'
+            clause: '(E), 3.1.40'
+            link: 'https://www.iso.org/standard/75676.html'
+          lineage_source: 'ISO 19136:2007(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2007-09-01T00:00:00.000Z
+          review_date: 2020-01-09T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2020-01-09T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19136-1:2020(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19136:2007 to ISO
+            19136-1:2020(E), 3.1.40. Lineage source added as ISO 19136:2007(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: 'öppen polygon, linjesegment'
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-09-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

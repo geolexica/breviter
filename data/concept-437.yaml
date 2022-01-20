@@ -1,0 +1,964 @@
+term: surface
+termid: 437
+eng:
+  id: 437
+  definition: >-
+    2-dimensional geometric primitive, locally representing a continuous image
+    of a region of a plane
+  language_code: eng
+  notes:
+    - >-
+      The boundary of a surface is the set of oriented, closed curves that
+      delineate the limits of the surface. Surfaces that are isomorphic to a
+      sphere, or to an n-torus (a topological sphere with n "handles") have no
+      boundary. Such surfaces are called cycles.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19136-1:2020'
+    clause: '(E), 3.1.57'
+    link: 'https://www.iso.org/standard/75676.html'
+  lineage_source: 'ISO 19107:2003'
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2018-06-08T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2020-01-09T00:00:00.000Z
+  review_decision_event: 'Supersession of ISO 19107:2003 and publication of ISO 19136-1:2020'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19107:2003 to ISO 19136-1:2020(E),
+    3.1.57. Lineage source added as ISO 19107:2003
+  release: '1'
+  terms:
+    - type: expression
+      designation: surface
+      normative_status: preferred
+  _revisions:
+    current: c0cdfc
+    tree:
+      c0cdfc:
+        object:
+          id: 437
+          definition: >-
+            2-dimensional geometric primitive, locally representing a continuous
+            image of a region of a plane
+          language_code: eng
+          notes:
+            - >-
+              The boundary of a surface is the set of oriented, closed curves
+              that delineate the limits of the surface. Surfaces that are
+              isomorphic to a sphere, or to an n-torus (a topological sphere
+              with n "handles") have no boundary. Such surfaces are called
+              cycles.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19136-1:2020'
+            clause: '(E), 3.1.57'
+            link: 'https://www.iso.org/standard/75676.html'
+          lineage_source: 'ISO 19107:2003'
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2018-06-08T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2020-01-09T00:00:00.000Z
+          review_decision_event: 'Supersession of ISO 19107:2003 and publication of ISO 19136-1:2020'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19107:2003 to ISO
+            19136-1:2020(E), 3.1.57. Lineage source added as ISO 19107:2003
+          release: '1'
+          terms:
+            - type: expression
+              designation: surface
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+ara:
+  id: 437
+  definition: >-
+    عنصر هندسي بسيط ثنائي الأبعاد يمثل موضعيا صورة مستمرة لمنطقة معينة من سطح
+    مستو
+  language_code: ara
+  notes:
+    - >-
+      الحد الخارجي لسطح ما يتمثل في مجموعة من المنحنيات الموجهة والمغلقة التي
+      تصف حدود السطح المذكور. الأسطح التي تكون أجزاؤها مشابهة لأجزاء جسم كروي ,
+      أو لأجزاء حلقة مرساة (ع) (شكل طوبولوجي كروي له "مقابض" بعدد (ع)) ليس لها
+      حد خارجي. مثل هذه الأسطح تسمى دورات cycles.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19136-1:2020'
+    clause: '(E), 3.1.57'
+    link: 'https://www.iso.org/standard/75676.html'
+  lineage_source: 'ISO 19107:2003'
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2018-06-08T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2020-01-09T00:00:00.000Z
+  review_decision_event: 'Supersession of ISO 19107:2003 and publication of ISO 19136-1:2020'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19107:2003 to ISO 19136-1:2020(E),
+    3.1.57. Lineage source added as ISO 19107:2003
+  release: '1'
+  terms:
+    - type: expression
+      designation: سطح
+      normative_status: preferred
+  _revisions:
+    current: 5d8fc3
+    tree:
+      5d8fc3:
+        object:
+          id: 437
+          definition: >-
+            عنصر هندسي بسيط ثنائي الأبعاد يمثل موضعيا صورة مستمرة لمنطقة معينة
+            من سطح مستو
+          language_code: ara
+          notes:
+            - >-
+              الحد الخارجي لسطح ما يتمثل في مجموعة من المنحنيات الموجهة والمغلقة
+              التي تصف حدود السطح المذكور. الأسطح التي تكون أجزاؤها مشابهة
+              لأجزاء جسم كروي , أو لأجزاء حلقة مرساة (ع) (شكل طوبولوجي كروي له
+              "مقابض" بعدد (ع)) ليس لها حد خارجي. مثل هذه الأسطح تسمى دورات
+              cycles.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19136-1:2020'
+            clause: '(E), 3.1.57'
+            link: 'https://www.iso.org/standard/75676.html'
+          lineage_source: 'ISO 19107:2003'
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2018-06-08T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2020-01-09T00:00:00.000Z
+          review_decision_event: 'Supersession of ISO 19107:2003 and publication of ISO 19136-1:2020'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19107:2003 to ISO
+            19136-1:2020(E), 3.1.57. Lineage source added as ISO 19107:2003
+          release: '1'
+          terms:
+            - type: expression
+              designation: سطح
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+zho:
+  id: 437
+  definition: 二维几何单形，局部表示某平面的一个区域的连续映像。
+  language_code: zho
+  notes:
+    - 曲面的边界是定义曲面界限的有向、闭合曲线的集合。与一个球面或n-圆环面（具有n个把柄的拓扑球面）同构的曲面没有边界，这样的曲面被称之为圈。
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19136-1:2020'
+    clause: '(E), 3.1.57'
+    link: 'https://www.iso.org/standard/75676.html'
+  lineage_source: 'ISO 19107:2003'
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2018-06-08T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2020-01-09T00:00:00.000Z
+  review_decision_event: 'Supersession of ISO 19107:2003 and publication of ISO 19136-1:2020'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19107:2003 to ISO 19136-1:2020(E),
+    3.1.57. Lineage source added as ISO 19107:2003
+  release: '1'
+  terms:
+    - type: expression
+      designation: 曲面
+      normative_status: preferred
+  _revisions:
+    current: 05bda4
+    tree:
+      05bda4:
+        object:
+          id: 437
+          definition: 二维几何单形，局部表示某平面的一个区域的连续映像。
+          language_code: zho
+          notes:
+            - >-
+              曲面的边界是定义曲面界限的有向、闭合曲线的集合。与一个球面或n-圆环面（具有n个把柄的拓扑球面）同构的曲面没有边界，这样的曲面被称之为圈。
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19136-1:2020'
+            clause: '(E), 3.1.57'
+            link: 'https://www.iso.org/standard/75676.html'
+          lineage_source: 'ISO 19107:2003'
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2018-06-08T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2020-01-09T00:00:00.000Z
+          review_decision_event: 'Supersession of ISO 19107:2003 and publication of ISO 19136-1:2020'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19107:2003 to ISO
+            19136-1:2020(E), 3.1.57. Lineage source added as ISO 19107:2003
+          release: '1'
+          terms:
+            - type: expression
+              designation: 曲面
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+fin:
+  id: 437
+  definition: 'kaksiulotteinen geometrinen primitiivi, joka kuvaa yhtenäistä aluetta'
+  language_code: fin
+  notes:
+    - >-
+      Pinnan rajaus on niiden suunnattujen, suljettujen käyrien joukko, jotka
+      muodostavat pinnan rajat. Pinnoilla, jotka ovat isomorfisia pallopinnan
+      tai n-toruksen (topologinen pallo, jolla on n "kahvaa") kanssa, ei ole
+      rajausta. Tällaiset pinnat ovat silmukoita.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19136-1:2020'
+    clause: '(E), 3.1.57'
+    link: 'https://www.iso.org/standard/75676.html'
+  lineage_source: 'ISO 19107:2003'
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2018-06-08T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2020-01-09T00:00:00.000Z
+  review_decision_event: 'Supersession of ISO 19107:2003 and publication of ISO 19136-1:2020'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19107:2003 to ISO 19136-1:2020(E),
+    3.1.57. Lineage source added as ISO 19107:2003
+  release: '1'
+  terms:
+    - type: expression
+      designation: pinta
+      normative_status: preferred
+  _revisions:
+    current: 71ec05
+    tree:
+      71ec05:
+        object:
+          id: 437
+          definition: >-
+            kaksiulotteinen geometrinen primitiivi, joka kuvaa yhtenäistä
+            aluetta
+          language_code: fin
+          notes:
+            - >-
+              Pinnan rajaus on niiden suunnattujen, suljettujen käyrien joukko,
+              jotka muodostavat pinnan rajat. Pinnoilla, jotka ovat isomorfisia
+              pallopinnan tai n-toruksen (topologinen pallo, jolla on n
+              "kahvaa") kanssa, ei ole rajausta. Tällaiset pinnat ovat
+              silmukoita.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19136-1:2020'
+            clause: '(E), 3.1.57'
+            link: 'https://www.iso.org/standard/75676.html'
+          lineage_source: 'ISO 19107:2003'
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2018-06-08T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2020-01-09T00:00:00.000Z
+          review_decision_event: 'Supersession of ISO 19107:2003 and publication of ISO 19136-1:2020'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19107:2003 to ISO
+            19136-1:2020(E), 3.1.57. Lineage source added as ISO 19107:2003
+          release: '1'
+          terms:
+            - type: expression
+              designation: pinta
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+fra:
+  id: 437
+  definition: >-
+    primitive géométrique bidimensionnelle représentant localement une image
+    continue d'une région d'un plan
+  language_code: fra
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19136-1:2020'
+    clause: '(E), 3.1.57'
+    link: 'https://www.iso.org/standard/75676.html'
+  lineage_source: 'ISO 19107:2003'
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2018-06-08T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2020-01-09T00:00:00.000Z
+  review_decision_event: 'Supersession of ISO 19107:2003 and publication of ISO 19136-1:2020'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19107:2003 to ISO 19136-1:2020(E),
+    3.1.57. Lineage source added as ISO 19107:2003
+  release: '1'
+  terms:
+    - type: expression
+      designation: surface
+      normative_status: preferred
+  _revisions:
+    current: 9f16d7
+    tree:
+      9f16d7:
+        object:
+          id: 437
+          definition: >-
+            primitive géométrique bidimensionnelle représentant localement une
+            image continue d'une région d'un plan
+          language_code: fra
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19136-1:2020'
+            clause: '(E), 3.1.57'
+            link: 'https://www.iso.org/standard/75676.html'
+          lineage_source: 'ISO 19107:2003'
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2018-06-08T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2020-01-09T00:00:00.000Z
+          review_decision_event: 'Supersession of ISO 19107:2003 and publication of ISO 19136-1:2020'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19107:2003 to ISO
+            19136-1:2020(E), 3.1.57. Lineage source added as ISO 19107:2003
+          release: '1'
+          terms:
+            - type: expression
+              designation: surface
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+deu:
+  id: 437
+  definition: >-
+    zweidimensionales geometrisches Primitiv, das das kontinuierliche Abbild
+    eines Teils der Ebene darstellt
+  language_code: deu
+  notes:
+    - >-
+      The boundary of a surface is the set of oriented, closed curves that
+      delineate the limits of the surface. Surfaces that are isomorphic to a
+      sphere, or to an n-torus (a topological sphere with n "handles") have no
+      boundary. Such surfaces are called cycles.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19136-1:2020'
+    clause: '(E), 3.1.57'
+    link: 'https://www.iso.org/standard/75676.html'
+  lineage_source: 'ISO 19107:2003'
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2018-06-08T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2020-01-09T00:00:00.000Z
+  review_decision_event: 'Supersession of ISO 19107:2003 and publication of ISO 19136-1:2020'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19107:2003 to ISO 19136-1:2020(E),
+    3.1.57. Lineage source added as ISO 19107:2003
+  release: '1'
+  terms:
+    - type: expression
+      designation: Fläche
+      normative_status: preferred
+  _revisions:
+    current: e65c1d
+    tree:
+      e65c1d:
+        object:
+          id: 437
+          definition: >-
+            zweidimensionales geometrisches Primitiv, das das kontinuierliche
+            Abbild eines Teils der Ebene darstellt
+          language_code: deu
+          notes:
+            - >-
+              The boundary of a surface is the set of oriented, closed curves
+              that delineate the limits of the surface. Surfaces that are
+              isomorphic to a sphere, or to an n-torus (a topological sphere
+              with n "handles") have no boundary. Such surfaces are called
+              cycles.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19136-1:2020'
+            clause: '(E), 3.1.57'
+            link: 'https://www.iso.org/standard/75676.html'
+          lineage_source: 'ISO 19107:2003'
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2018-06-08T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2020-01-09T00:00:00.000Z
+          review_decision_event: 'Supersession of ISO 19107:2003 and publication of ISO 19136-1:2020'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19107:2003 to ISO
+            19136-1:2020(E), 3.1.57. Lineage source added as ISO 19107:2003
+          release: '1'
+          terms:
+            - type: expression
+              designation: Fläche
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+jpn:
+  id: 437
+  definition: 局所的に平面領域の連続な像を表す二次元の幾何プリミティブ。
+  language_code: jpn
+  notes:
+    - >-
+      曲面の境界は，曲面の限界の輪郭を描く向きをもつ閉曲線である。球面又はn次元トーラス（n次元“把”をもつ位相球面）と同形である曲面は，境界をもたない。このような曲面を輪体と呼ぶ。
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19136-1:2020'
+    clause: '(E), 3.1.57'
+    link: 'https://www.iso.org/standard/75676.html'
+  lineage_source: 'ISO 19107:2003'
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2018-06-08T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2020-01-09T00:00:00.000Z
+  review_decision_event: 'Supersession of ISO 19107:2003 and publication of ISO 19136-1:2020'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19107:2003 to ISO 19136-1:2020(E),
+    3.1.57. Lineage source added as ISO 19107:2003
+  release: '1'
+  terms:
+    - type: expression
+      designation: 曲面
+      normative_status: preferred
+  _revisions:
+    current: 7d525d
+    tree:
+      7d525d:
+        object:
+          id: 437
+          definition: 局所的に平面領域の連続な像を表す二次元の幾何プリミティブ。
+          language_code: jpn
+          notes:
+            - >-
+              曲面の境界は，曲面の限界の輪郭を描く向きをもつ閉曲線である。球面又はn次元トーラス（n次元“把”をもつ位相球面）と同形である曲面は，境界をもたない。このような曲面を輪体と呼ぶ。
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19136-1:2020'
+            clause: '(E), 3.1.57'
+            link: 'https://www.iso.org/standard/75676.html'
+          lineage_source: 'ISO 19107:2003'
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2018-06-08T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2020-01-09T00:00:00.000Z
+          review_decision_event: 'Supersession of ISO 19107:2003 and publication of ISO 19136-1:2020'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19107:2003 to ISO
+            19136-1:2020(E), 3.1.57. Lineage source added as ISO 19107:2003
+          release: '1'
+          terms:
+            - type: expression
+              designation: 曲面
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+kor:
+  id: 437
+  definition: 평면 구역의 연속 영상을 국지적으로 표현하는 2차원 기하 원시 객체
+  language_code: kor
+  notes:
+    - >-
+      표면의 경계는 표면의 한계를 그리는 방향성을 갖는, 폐합 곡선의 집합이다. 구 또는 n-원환제(n"핸들"을 갖는 위상구)와 동형인
+      표면은 경계를 갖지 않는다. 이러한 표면을 순환이라고 부른다.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19136-1:2020'
+    clause: '(E), 3.1.57'
+    link: 'https://www.iso.org/standard/75676.html'
+  lineage_source: 'ISO 19107:2003'
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2018-06-08T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2020-01-09T00:00:00.000Z
+  review_decision_event: 'Supersession of ISO 19107:2003 and publication of ISO 19136-1:2020'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19107:2003 to ISO 19136-1:2020(E),
+    3.1.57. Lineage source added as ISO 19107:2003
+  release: '1'
+  terms:
+    - type: expression
+      designation: 표면
+      normative_status: preferred
+  _revisions:
+    current: 0553f8
+    tree:
+      0553f8:
+        object:
+          id: 437
+          definition: 평면 구역의 연속 영상을 국지적으로 표현하는 2차원 기하 원시 객체
+          language_code: kor
+          notes:
+            - >-
+              표면의 경계는 표면의 한계를 그리는 방향성을 갖는, 폐합 곡선의 집합이다. 구 또는 n-원환제(n"핸들"을 갖는
+              위상구)와 동형인 표면은 경계를 갖지 않는다. 이러한 표면을 순환이라고 부른다.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19136-1:2020'
+            clause: '(E), 3.1.57'
+            link: 'https://www.iso.org/standard/75676.html'
+          lineage_source: 'ISO 19107:2003'
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2018-06-08T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2020-01-09T00:00:00.000Z
+          review_decision_event: 'Supersession of ISO 19107:2003 and publication of ISO 19136-1:2020'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19107:2003 to ISO
+            19136-1:2020(E), 3.1.57. Lineage source added as ISO 19107:2003
+          release: '1'
+          terms:
+            - type: expression
+              designation: 표면
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+msa:
+  id: 437
+  definition: Lapisan luar atau lapisan atas pada suatu objek.
+  language_code: msa
+  notes:
+    - >-
+      The boundary of a surface is the set of oriented, closed curves that
+      delineate the limits of the surface. Surfaces that are isomorphic to a
+      sphere, or to an n-torus (a topological sphere with n "handles") have no
+      boundary. Such surfaces are called cycles.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19136-1:2020'
+    clause: '(E), 3.1.57'
+    link: 'https://www.iso.org/standard/75676.html'
+  lineage_source: 'ISO 19107:2003'
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2018-06-08T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2020-01-09T00:00:00.000Z
+  review_decision_event: 'Supersession of ISO 19107:2003 and publication of ISO 19136-1:2020'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19107:2003 to ISO 19136-1:2020(E),
+    3.1.57. Lineage source added as ISO 19107:2003
+  release: '1'
+  terms:
+    - type: expression
+      designation: permukaan
+      normative_status: preferred
+  _revisions:
+    current: 1a011e
+    tree:
+      1a011e:
+        object:
+          id: 437
+          definition: Lapisan luar atau lapisan atas pada suatu objek.
+          language_code: msa
+          notes:
+            - >-
+              The boundary of a surface is the set of oriented, closed curves
+              that delineate the limits of the surface. Surfaces that are
+              isomorphic to a sphere, or to an n-torus (a topological sphere
+              with n "handles") have no boundary. Such surfaces are called
+              cycles.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19136-1:2020'
+            clause: '(E), 3.1.57'
+            link: 'https://www.iso.org/standard/75676.html'
+          lineage_source: 'ISO 19107:2003'
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2018-06-08T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2020-01-09T00:00:00.000Z
+          review_decision_event: 'Supersession of ISO 19107:2003 and publication of ISO 19136-1:2020'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19107:2003 to ISO
+            19136-1:2020(E), 3.1.57. Lineage source added as ISO 19107:2003
+          release: '1'
+          terms:
+            - type: expression
+              designation: permukaan
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+pol:
+  id: 437
+  definition: >-
+    2-wymiarowy prosty element geometryczny, lokalnie reprzentujący ciągły obraz
+    części płaszczyzny
+  language_code: pol
+  notes:
+    - >-
+      Granicą powierzchni jest zbiór zorientowanych krzywych zamkniętych, które
+      wyznaczają zasięg tej powierzchni.Powierzchnie izomorficzne względem sfery
+      lub n-torusa (sfery topologicznej z n "uchwytami") nie mają granicy. Takie
+      powierzchnie są nazywane cyklami.
+  examples: []
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19136-1:2020'
+    clause: '(E), 3.1.57'
+    link: 'https://www.iso.org/standard/75676.html'
+  lineage_source: 'ISO 19107:2003'
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2018-06-08T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2020-01-09T00:00:00.000Z
+  review_decision_event: 'Supersession of ISO 19107:2003 and publication of ISO 19136-1:2020'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19107:2003 to ISO 19136-1:2020(E),
+    3.1.57. Lineage source added as ISO 19107:2003
+  release: '1'
+  terms:
+    - type: expression
+      designation: powierzchnia
+      normative_status: preferred
+  _revisions:
+    current: b1cfc1
+    tree:
+      b1cfc1:
+        object:
+          id: 437
+          definition: >-
+            2-wymiarowy prosty element geometryczny, lokalnie reprzentujący
+            ciągły obraz części płaszczyzny
+          language_code: pol
+          notes:
+            - >-
+              Granicą powierzchni jest zbiór zorientowanych krzywych
+              zamkniętych, które wyznaczają zasięg tej powierzchni.Powierzchnie
+              izomorficzne względem sfery lub n-torusa (sfery topologicznej z n
+              "uchwytami") nie mają granicy. Takie powierzchnie są nazywane
+              cyklami.
+          examples: []
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19136-1:2020'
+            clause: '(E), 3.1.57'
+            link: 'https://www.iso.org/standard/75676.html'
+          lineage_source: 'ISO 19107:2003'
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2018-06-08T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2020-01-09T00:00:00.000Z
+          review_decision_event: 'Supersession of ISO 19107:2003 and publication of ISO 19136-1:2020'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19107:2003 to ISO
+            19136-1:2020(E), 3.1.57. Lineage source added as ISO 19107:2003
+          release: '1'
+          terms:
+            - type: expression
+              designation: powierzchnia
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 437
+  definition: >-
+    двумерный геометрический примитив, локально представляющий  непрерывный
+    образ области на плоскости
+  language_code: rus
+  notes:
+    - >-
+      Границей поверхности является мно;жество направленных, замкнутых кривых,
+      которые очерчивают пределы поверхности. Поверхности, изоморфные сфере или
+      n-мерному тору, не имеют границы. Такие поверхности называют циклами
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19136-1:2020'
+    clause: '(E), 3.1.57'
+    link: 'https://www.iso.org/standard/75676.html'
+  lineage_source: 'ISO 19107:2003'
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2018-06-08T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2020-01-09T00:00:00.000Z
+  review_decision_event: 'Supersession of ISO 19107:2003 and publication of ISO 19136-1:2020'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19107:2003 to ISO 19136-1:2020(E),
+    3.1.57. Lineage source added as ISO 19107:2003
+  release: '1'
+  terms:
+    - type: expression
+      designation: поверхность
+      normative_status: preferred
+  _revisions:
+    current: acd401
+    tree:
+      acd401:
+        object:
+          id: 437
+          definition: >-
+            двумерный геометрический примитив, локально представляющий 
+            непрерывный образ области на плоскости
+          language_code: rus
+          notes:
+            - >-
+              Границей поверхности является мно;жество направленных, замкнутых
+              кривых, которые очерчивают пределы поверхности. Поверхности,
+              изоморфные сфере или n-мерному тору, не имеют границы. Такие
+              поверхности называют циклами
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19136-1:2020'
+            clause: '(E), 3.1.57'
+            link: 'https://www.iso.org/standard/75676.html'
+          lineage_source: 'ISO 19107:2003'
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2018-06-08T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2020-01-09T00:00:00.000Z
+          review_decision_event: 'Supersession of ISO 19107:2003 and publication of ISO 19136-1:2020'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19107:2003 to ISO
+            19136-1:2020(E), 3.1.57. Lineage source added as ISO 19107:2003
+          release: '1'
+          terms:
+            - type: expression
+              designation: поверхность
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 437
+  definition: >-
+    primitiva geométrica bidimensional que localmente representa una imagen
+    continua de una región de un plano
+  language_code: spa
+  notes:
+    - >-
+      La frontera de una superficie es el conjunto de curvas orientadas y
+      cerradas que la delimita. Las superficies que son isomorfas a una esfera,
+      o a un toro enesimal (esfera topológica con n asas) no tienen frontera.
+      Esas superficies se denominan ciclos.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19136-1:2020'
+    clause: '(E), 3.1.57'
+    link: 'https://www.iso.org/standard/75676.html'
+  lineage_source: 'ISO 19107:2003'
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2018-06-08T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2020-01-09T00:00:00.000Z
+  review_decision_event: 'Supersession of ISO 19107:2003 and publication of ISO 19136-1:2020'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19107:2003 to ISO 19136-1:2020(E),
+    3.1.57. Lineage source added as ISO 19107:2003
+  release: '1'
+  terms:
+    - type: expression
+      designation: superficie
+      normative_status: preferred
+  _revisions:
+    current: 73f768
+    tree:
+      73f768:
+        object:
+          id: 437
+          definition: >-
+            primitiva geométrica bidimensional que localmente representa una
+            imagen continua de una región de un plano
+          language_code: spa
+          notes:
+            - >-
+              La frontera de una superficie es el conjunto de curvas orientadas
+              y cerradas que la delimita. Las superficies que son isomorfas a
+              una esfera, o a un toro enesimal (esfera topológica con n asas) no
+              tienen frontera. Esas superficies se denominan ciclos.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19136-1:2020'
+            clause: '(E), 3.1.57'
+            link: 'https://www.iso.org/standard/75676.html'
+          lineage_source: 'ISO 19107:2003'
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2018-06-08T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2020-01-09T00:00:00.000Z
+          review_decision_event: 'Supersession of ISO 19107:2003 and publication of ISO 19136-1:2020'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19107:2003 to ISO
+            19136-1:2020(E), 3.1.57. Lineage source added as ISO 19107:2003
+          release: '1'
+          terms:
+            - type: expression
+              designation: superficie
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+swe:
+  id: 437
+  definition: >-
+    tvådimensionellt geometriskt grundelement som är sammanhängande och
+    begränsat
+  country_code: swe
+  language_code: swe
+  notes:
+    - >-
+      The boundary of a surface is the set of oriented, closed curves that
+      delineate the limits of the surface. Surfaces that are isomorphic to a
+      sphere, or to an n-torus (a topological sphere with n "handles") have no
+      boundary. Such surfaces are called cycles.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19136-1:2020'
+    clause: '(E), 3.1.57'
+    link: 'https://www.iso.org/standard/75676.html'
+  lineage_source: 'ISO 19107:2003'
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2018-06-08T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2020-01-09T00:00:00.000Z
+  review_decision_event: 'Supersession of ISO 19107:2003 and publication of ISO 19136-1:2020'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19107:2003 to ISO 19136-1:2020(E),
+    3.1.57. Lineage source added as ISO 19107:2003
+  release: '1'
+  terms:
+    - type: expression
+      designation: yta
+      normative_status: preferred
+  _revisions:
+    current: 28ed4b
+    tree:
+      28ed4b:
+        object:
+          id: 437
+          definition: >-
+            tvådimensionellt geometriskt grundelement som är sammanhängande och
+            begränsat
+          country_code: swe
+          language_code: swe
+          notes:
+            - >-
+              The boundary of a surface is the set of oriented, closed curves
+              that delineate the limits of the surface. Surfaces that are
+              isomorphic to a sphere, or to an n-torus (a topological sphere
+              with n "handles") have no boundary. Such surfaces are called
+              cycles.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19136-1:2020'
+            clause: '(E), 3.1.57'
+            link: 'https://www.iso.org/standard/75676.html'
+          lineage_source: 'ISO 19107:2003'
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2018-06-08T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2020-01-09T00:00:00.000Z
+          review_decision_event: 'Supersession of ISO 19107:2003 and publication of ISO 19136-1:2020'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19107:2003 to ISO
+            19136-1:2020(E), 3.1.57. Lineage source added as ISO 19107:2003
+          release: '1'
+          terms:
+            - type: expression
+              designation: yta
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

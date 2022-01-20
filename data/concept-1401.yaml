@@ -1,0 +1,256 @@
+term: linear mode
+termid: 1401
+eng:
+  id: 1401
+  definition: >-
+    LIDAR system in which output photocurrent is proportional to the input
+    optical incident intensity
+  language_code: eng
+  notes:
+    - >-
+      A LIDAR system which employs this technology typically uses processing
+      techniques to develop the time-of-flight measurements from the full
+      waveform that is reflected from the targets in the illuminated scene of
+      interest. These time-of-flight measurements are then combined with precise
+      platform location/attitude data along with pointing data to produce a
+      three-dimensional product of the illuminated scene of interest.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: Adapted from Aull et al.
+    clause: '2002'
+  lineage_source: 'ISO/TS 19130-2:2014, 4.41'
+  lineage_source_similarity: '1'
+  date_accepted: 2014-01-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: linear mode
+      normative_status: preferred
+  _revisions:
+    current: dc5599
+    tree:
+      dc5599:
+        object:
+          id: 1401
+          definition: >-
+            LIDAR system in which output photocurrent is proportional to the
+            input optical incident intensity
+          language_code: eng
+          notes:
+            - >-
+              A LIDAR system which employs this technology typically uses
+              processing techniques to develop the time-of-flight measurements
+              from the full waveform that is reflected from the targets in the
+              illuminated scene of interest. These time-of-flight measurements
+              are then combined with precise platform location/attitude data
+              along with pointing data to produce a three-dimensional product of
+              the illuminated scene of interest.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: Adapted from Aull et al.
+            clause: '2002'
+          lineage_source: 'ISO/TS 19130-2:2014, 4.41'
+          lineage_source_similarity: '1'
+          date_accepted: 2014-01-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: linear mode
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-01-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+kor:
+  id: 1401
+  definition: 출력 광전도가 입력 광사건 강도에 비례하는 LIDAR시스템
+  language_code: kor
+  notes:
+    - >-
+      A LIDAR system which employs this technology typically uses processing
+      techniques to develop the time-of-flight measurements from the full
+      waveform that is reflected from the targets in the illuminated scene of
+      interest. These time-of-flight measurements are then combined with precise
+      platform location/attitude data along with pointing data to produce a
+      three-dimensional product of the illuminated scene of interest.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: Adapted from Aull et al.
+    clause: '2002'
+  lineage_source: 'ISO/TS 19130-2:2014, 4.41'
+  lineage_source_similarity: '1'
+  date_accepted: 2014-01-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: 선형 모형
+      normative_status: preferred
+  _revisions:
+    current: '649108'
+    tree:
+      '649108':
+        object:
+          id: 1401
+          definition: 출력 광전도가 입력 광사건 강도에 비례하는 LIDAR시스템
+          language_code: kor
+          notes:
+            - >-
+              A LIDAR system which employs this technology typically uses
+              processing techniques to develop the time-of-flight measurements
+              from the full waveform that is reflected from the targets in the
+              illuminated scene of interest. These time-of-flight measurements
+              are then combined with precise platform location/attitude data
+              along with pointing data to produce a three-dimensional product of
+              the illuminated scene of interest.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: Adapted from Aull et al.
+            clause: '2002'
+          lineage_source: 'ISO/TS 19130-2:2014, 4.41'
+          lineage_source_similarity: '1'
+          date_accepted: 2014-01-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: 선형 모형
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-01-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 1401
+  definition: >-
+    система LIDAR, в которой выходной фототок пропорционален интенсивности
+    падающего входного оптического излучения
+  language_code: rus
+  notes:
+    - >-
+      Система лидар, которая использует эту технологию, обычно использует методы
+      обработки для разработки измерений времени полета от полной формы волны,
+      которая отражается от целей в освещенной сцене интереса. Эти измерения
+      времени полета затем объединяются с точными данными о
+      местоположении/ориентации платформы вместе с указывающими данными для
+      получения трехмерного продукта освещенной сцены интереса.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: Adapted from Aull et al.
+    clause: '2002'
+  lineage_source: 'ISO/TS 19130-2:2014, 4.41'
+  lineage_source_similarity: '1'
+  date_accepted: 2014-01-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: линейный режим
+      normative_status: preferred
+  _revisions:
+    current: 810ca6
+    tree:
+      810ca6:
+        object:
+          id: 1401
+          definition: >-
+            система LIDAR, в которой выходной фототок пропорционален
+            интенсивности падающего входного оптического излучения
+          language_code: rus
+          notes:
+            - >-
+              Система лидар, которая использует эту технологию, обычно
+              использует методы обработки для разработки измерений времени
+              полета от полной формы волны, которая отражается от целей в
+              освещенной сцене интереса. Эти измерения времени полета затем
+              объединяются с точными данными о местоположении/ориентации
+              платформы вместе с указывающими данными для получения трехмерного
+              продукта освещенной сцены интереса.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: Adapted from Aull et al.
+            clause: '2002'
+          lineage_source: 'ISO/TS 19130-2:2014, 4.41'
+          lineage_source_similarity: '1'
+          date_accepted: 2014-01-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: линейный режим
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-01-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 1401
+  definition: >-
+    sistema lidar cuya corriente fotoeléctrica resultado es proporcional a la
+    insensidad óptica de entrada incidente
+  language_code: spa
+  notes:
+    - >-
+      Un sistema lidar que emplea esta tecnología suele utilizar técnicas de
+      procesamiento para desarrollar mediciones de tiempo de vuelo para la onda
+      completa que se refleja desde los objetivos en la escena de interés
+      iluminada. Estas mediciones de tiempo de vuelo se combinan entonces con
+      los datos precisos de localización/altitud de la plataforma, junto con
+      datos de puntos para producir un producto tridimensional de la escena de
+      interés iluminada.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: Adapted from Aull et al.
+    clause: '2002'
+  lineage_source: 'ISO/TS 19130-2:2014, 4.41'
+  lineage_source_similarity: '1'
+  date_accepted: 2014-01-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: modo lineal
+      normative_status: preferred
+  _revisions:
+    current: 8bb1c2
+    tree:
+      8bb1c2:
+        object:
+          id: 1401
+          definition: >-
+            sistema lidar cuya corriente fotoeléctrica resultado es proporcional
+            a la insensidad óptica de entrada incidente
+          language_code: spa
+          notes:
+            - >-
+              Un sistema lidar que emplea esta tecnología suele utilizar
+              técnicas de procesamiento para desarrollar mediciones de tiempo de
+              vuelo para la onda completa que se refleja desde los objetivos en
+              la escena de interés iluminada. Estas mediciones de tiempo de
+              vuelo se combinan entonces con los datos precisos de
+              localización/altitud de la plataforma, junto con datos de puntos
+              para producir un producto tridimensional de la escena de interés
+              iluminada.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: Adapted from Aull et al.
+            clause: '2002'
+          lineage_source: 'ISO/TS 19130-2:2014, 4.41'
+          lineage_source_similarity: '1'
+          date_accepted: 2014-01-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: modo lineal
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-01-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

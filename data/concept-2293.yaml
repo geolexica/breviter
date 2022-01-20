@@ -1,0 +1,75 @@
+term: implementation coverage
+termid: 2293
+eng:
+  id: 2293
+  definition: >-
+    feature which is a subclass (specialization) of a coverage as defined in
+    this document
+  language_code: eng
+  notes:
+    - >-
+      An implementation coverage is a concrete document in some concrete
+      encoding, such as a GeoTIFF file.
+    - >-
+      The definition of implementation coverage in this standard is functionally
+      identical to GML coverage as defined in the OGC Coverage Implementation
+      Schema [OGC 09-146r2].
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19123-2:2018'
+    clause: '(E), 3.1.4'
+    link: 'https://www.iso.org/standard/70948.html'
+  date_accepted: 2018-10-01T00:00:00.000Z
+  review_date: 2018-10-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2018-10-01T00:00:00.000Z
+  review_decision_event: Normal ISO processing
+  review_decision_notes: 'Publication of document ISO 19123-2:2018(E)'
+  release: '5'
+  terms:
+    - type: expression
+      designation: implementation coverage
+      normative_status: preferred
+  _revisions:
+    current: ca9dba
+    tree:
+      ca9dba:
+        object:
+          id: 2293
+          definition: >-
+            feature which is a subclass (specialization) of a coverage as
+            defined in this document
+          language_code: eng
+          notes:
+            - >-
+              An implementation coverage is a concrete document in some concrete
+              encoding, such as a GeoTIFF file.
+            - >-
+              The definition of implementation coverage in this standard is
+              functionally identical to GML coverage as defined in the OGC
+              Coverage Implementation Schema [OGC 09-146r2].
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19123-2:2018'
+            clause: '(E), 3.1.4'
+            link: 'https://www.iso.org/standard/70948.html'
+          date_accepted: 2018-10-01T00:00:00.000Z
+          review_date: 2018-10-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2018-10-01T00:00:00.000Z
+          review_decision_event: Normal ISO processing
+          review_decision_notes: 'Publication of document ISO 19123-2:2018(E)'
+          release: '5'
+          terms:
+            - type: expression
+              designation: implementation coverage
+              normative_status: preferred
+        parents: []
+        timeCreated: 2018-10-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

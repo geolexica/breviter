@@ -1,0 +1,77 @@
+term: data submission session
+termid: 2269
+eng:
+  id: 2269
+  definition: >-
+    delivery of media or a single telecommunications session that provides data
+    to an OAIS
+  language_code: eng
+  notes:
+    - >-
+      The data submission session format/contents is based on a data model
+      negotiated between the OAIS and the producer in the submission agreement.
+      This data model identifies the logical constructs used by the producer and
+      how they are represented on each media delivery or in the
+      telecommunication session.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 14721:2012'
+    clause: >-
+      1.7.2, modified — Supporting content has been relocated to Note 1 to
+      entry.
+    link: 'https://www.iso.org/standard/57284.html'
+  date_accepted: 2018-05-01T00:00:00.000Z
+  review_date: 2018-05-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2018-05-01T00:00:00.000Z
+  review_decision_event: Normal ISO processing
+  review_decision_notes: 'Publication of document ISO 19165-1:2018(E)'
+  release: '5'
+  terms:
+    - type: expression
+      designation: data submission session
+      normative_status: preferred
+  _revisions:
+    current: c98197
+    tree:
+      c98197:
+        object:
+          id: 2269
+          definition: >-
+            delivery of media or a single telecommunications session that
+            provides data to an OAIS
+          language_code: eng
+          notes:
+            - >-
+              The data submission session format/contents is based on a data
+              model negotiated between the OAIS and the producer in the
+              submission agreement. This data model identifies the logical
+              constructs used by the producer and how they are represented on
+              each media delivery or in the telecommunication session.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 14721:2012'
+            clause: >-
+              1.7.2, modified — Supporting content has been relocated to Note 1
+              to entry.
+            link: 'https://www.iso.org/standard/57284.html'
+          date_accepted: 2018-05-01T00:00:00.000Z
+          review_date: 2018-05-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2018-05-01T00:00:00.000Z
+          review_decision_event: Normal ISO processing
+          review_decision_notes: 'Publication of document ISO 19165-1:2018(E)'
+          release: '5'
+          terms:
+            - type: expression
+              designation: data submission session
+              normative_status: preferred
+        parents: []
+        timeCreated: 2018-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

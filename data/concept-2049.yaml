@@ -1,0 +1,63 @@
+term: end node <topology>
+termid: 2049
+eng:
+  id: 2049
+  definition: >-
+    node in the boundary of an edge that corresponds to the end point of that
+    edge
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19107:2019'
+    clause: '(E), 3.33'
+    link: 'https://www.iso.org/standard/66175.html'
+  date_accepted: 2019-12-02T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: 'Publication of document ISO 19107:2019(E)'
+  review_decision_notes: 'This entry supersedes the entry for end node in ISO 19107:2003(E)'
+  release: '5'
+  terms:
+    - type: expression
+      designation: end node <topology>
+      normative_status: preferred
+  _revisions:
+    current: 0be53d
+    tree:
+      0be53d:
+        object:
+          id: 2049
+          definition: >-
+            node in the boundary of an edge that corresponds to the end point of
+            that edge
+          language_code: eng
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19107:2019'
+            clause: '(E), 3.33'
+            link: 'https://www.iso.org/standard/66175.html'
+          date_accepted: 2019-12-02T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: 'Publication of document ISO 19107:2019(E)'
+          review_decision_notes: 'This entry supersedes the entry for end node in ISO 19107:2003(E)'
+          release: '5'
+          terms:
+            - type: expression
+              designation: end node <topology>
+              normative_status: preferred
+        parents: []
+        timeCreated: 2019-12-02T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

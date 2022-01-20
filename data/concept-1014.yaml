@@ -1,0 +1,374 @@
+term: accuracy
+termid: 1014
+eng:
+  id: 1014
+  definition: >-
+    closeness of agreement between a test result or measurement result and the
+    true value
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 3534-2:2006'
+    link: 'https://www.iso.org/standard/40147.html'
+  lineage_source: 'ISO 6709:2008'
+  date_accepted: 2008-07-15T00:00:00.000Z
+  release: '2'
+  terms:
+    - type: expression
+      designation: accuracy
+      normative_status: preferred
+  _revisions:
+    current: 63939f
+    tree:
+      63939f:
+        object:
+          id: 1014
+          definition: >-
+            closeness of agreement between a test result or measurement result
+            and the true value
+          language_code: eng
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 3534-2:2006'
+            link: 'https://www.iso.org/standard/40147.html'
+          lineage_source: 'ISO 6709:2008'
+          date_accepted: 2008-07-15T00:00:00.000Z
+          release: '2'
+          terms:
+            - type: expression
+              designation: accuracy
+              normative_status: preferred
+        parents: []
+        timeCreated: 2008-07-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+ara:
+  id: 1014
+  definition: درجة اقتراب نتيجة الاختبار او القياس من القيمة الحقيقية
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 3534-2:2006'
+    link: 'https://www.iso.org/standard/40147.html'
+  date_accepted: 2008-07-15T00:00:00.000Z
+  release: '2'
+  terms:
+    - type: expression
+      designation: الدقة
+      normative_status: preferred
+  _revisions:
+    current: 8fdfe9
+    tree:
+      8fdfe9:
+        object:
+          id: 1014
+          definition: درجة اقتراب نتيجة الاختبار او القياس من القيمة الحقيقية
+          language_code: ara
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 3534-2:2006'
+            link: 'https://www.iso.org/standard/40147.html'
+          date_accepted: 2008-07-15T00:00:00.000Z
+          release: '2'
+          terms:
+            - type: expression
+              designation: الدقة
+              normative_status: preferred
+        parents: []
+        timeCreated: 2008-07-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+fin:
+  id: 1014
+  definition: >-
+    tietoaineiston ominaisuus, joka ilmentää testituloksen tai mittaustuloksen
+    ja todellisen arvon läheisyyttä
+  language_code: fin
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 3534-2:2006'
+    link: 'https://www.iso.org/standard/40147.html'
+  lineage_source: 'Sanastokeskus TSK: Geoinformatiikan sanasto (TSK 45), 2013'
+  date_accepted: 2013-07-03T00:00:00.000Z
+  release: '2'
+  terms:
+    - type: expression
+      designation: ulkoinen tarkkuus
+      normative_status: preferred
+  _revisions:
+    current: 3494ba
+    tree:
+      3494ba:
+        object:
+          id: 1014
+          definition: >-
+            tietoaineiston ominaisuus, joka ilmentää testituloksen tai
+            mittaustuloksen ja todellisen arvon läheisyyttä
+          language_code: fin
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 3534-2:2006'
+            link: 'https://www.iso.org/standard/40147.html'
+          lineage_source: 'Sanastokeskus TSK: Geoinformatiikan sanasto (TSK 45), 2013'
+          date_accepted: 2013-07-03T00:00:00.000Z
+          release: '2'
+          terms:
+            - type: expression
+              designation: ulkoinen tarkkuus
+              normative_status: preferred
+        parents: []
+        timeCreated: 2013-07-03T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+deu:
+  id: 1014
+  definition: >-
+    Maß der Übereinstimmung zwischen einem Ermittlungsergebnis oder einem
+    Messergebnis und dem tatsächlichen Wert
+  language_code: deu
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 3534-2:2006'
+    link: 'https://www.iso.org/standard/40147.html'
+  date_accepted: 2008-07-15T00:00:00.000Z
+  release: '2'
+  terms:
+    - type: expression
+      designation: Genauigkeit
+      normative_status: preferred
+  _revisions:
+    current: 94fa96
+    tree:
+      94fa96:
+        object:
+          id: 1014
+          definition: >-
+            Maß der Übereinstimmung zwischen einem Ermittlungsergebnis oder
+            einem Messergebnis und dem tatsächlichen Wert
+          language_code: deu
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 3534-2:2006'
+            link: 'https://www.iso.org/standard/40147.html'
+          date_accepted: 2008-07-15T00:00:00.000Z
+          release: '2'
+          terms:
+            - type: expression
+              designation: Genauigkeit
+              normative_status: preferred
+        parents: []
+        timeCreated: 2008-07-15T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+kor:
+  id: 1014
+  definition: '시험결과 또는 측정결과와 참값 사이의 근사치, 근접성'
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 3534-2:2006'
+    link: 'https://www.iso.org/standard/40147.html'
+  date_accepted: 2008-07-15T00:00:00.000Z
+  release: '2'
+  terms:
+    - type: expression
+      designation: 정확성
+      normative_status: preferred
+  _revisions:
+    current: 1b882a
+    tree:
+      1b882a:
+        object:
+          id: 1014
+          definition: '시험결과 또는 측정결과와 참값 사이의 근사치, 근접성'
+          language_code: kor
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 3534-2:2006'
+            link: 'https://www.iso.org/standard/40147.html'
+          date_accepted: 2008-07-15T00:00:00.000Z
+          release: '2'
+          terms:
+            - type: expression
+              designation: 정확성
+              normative_status: preferred
+        parents: []
+        timeCreated: 2008-07-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 1014
+  definition: близость измеренного значения к истинному значению измеряемой величины
+  language_code: rus
+  notes:
+    - >-
+      в данном международном стандарте истинным значением может выступать
+      эталонное значение, принятое за истинное
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 3534-2:2006'
+    link: 'https://www.iso.org/standard/40147.html'
+  lineage_source: 'перевод ISO 6709:2008'
+  date_accepted: 2008-07-15T00:00:00.000Z
+  release: '2'
+  terms:
+    - type: expression
+      designation: точность
+      normative_status: preferred
+  _revisions:
+    current: '601285'
+    tree:
+      '601285':
+        object:
+          id: 1014
+          definition: >-
+            близость измеренного значения к истинному значению измеряемой
+            величины
+          language_code: rus
+          notes:
+            - >-
+              в данном международном стандарте истинным значением может
+              выступать эталонное значение, принятое за истинное
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 3534-2:2006'
+            link: 'https://www.iso.org/standard/40147.html'
+          lineage_source: 'перевод ISO 6709:2008'
+          date_accepted: 2008-07-15T00:00:00.000Z
+          release: '2'
+          terms:
+            - type: expression
+              designation: точность
+              normative_status: preferred
+        parents: []
+        timeCreated: 2008-07-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 1014
+  definition: >-
+    grado de concordancia entre el resultado de un ensayo o una medición y el
+    valor verdadero
+  language_code: spa
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 3534-2:2006'
+    link: 'https://www.iso.org/standard/40147.html'
+  date_accepted: 2008-07-15T00:00:00.000Z
+  release: '2'
+  terms:
+    - type: expression
+      designation: exactitud
+      normative_status: preferred
+  _revisions:
+    current: 3b952e
+    tree:
+      3b952e:
+        object:
+          id: 1014
+          definition: >-
+            grado de concordancia entre el resultado de un ensayo o una medición
+            y el valor verdadero
+          language_code: spa
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 3534-2:2006'
+            link: 'https://www.iso.org/standard/40147.html'
+          date_accepted: 2008-07-15T00:00:00.000Z
+          release: '2'
+          terms:
+            - type: expression
+              designation: exactitud
+              normative_status: preferred
+        parents: []
+        timeCreated: 2008-07-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+swe:
+  id: 1014
+  definition: >-
+    graden av överensstämmelse mellan ett observerat, beräknat eller skattat
+    värde och ett värde som betraktas som sant
+  country_code: swe
+  language_code: swe
+  notes:
+    - >-
+      Ibland talar man hellre om onoggrannhet istället för noggrannhet, om
+      medelfelet ökar, ökar också onoggrannheten
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 3534-2:2006'
+    link: 'https://www.iso.org/standard/40147.html'
+  lineage_source: 'ISO 6709:2008'
+  date_accepted: 2008-07-15T00:00:00.000Z
+  release: '2'
+  terms:
+    - type: expression
+      designation: noggrannhet
+      normative_status: preferred
+  _revisions:
+    current: 5aba5b
+    tree:
+      5aba5b:
+        object:
+          id: 1014
+          definition: >-
+            graden av överensstämmelse mellan ett observerat, beräknat eller
+            skattat värde och ett värde som betraktas som sant
+          country_code: swe
+          language_code: swe
+          notes:
+            - >-
+              Ibland talar man hellre om onoggrannhet istället för noggrannhet,
+              om medelfelet ökar, ökar också onoggrannheten
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 3534-2:2006'
+            link: 'https://www.iso.org/standard/40147.html'
+          lineage_source: 'ISO 6709:2008'
+          date_accepted: 2008-07-15T00:00:00.000Z
+          release: '2'
+          terms:
+            - type: expression
+              designation: noggrannhet
+              normative_status: preferred
+        parents: []
+        timeCreated: 2008-07-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

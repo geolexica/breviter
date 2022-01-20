@@ -1,0 +1,242 @@
+term: keystone effect
+termid: 1461
+eng:
+  id: 1461
+  definition: >-
+    distortion of a projected image caused by a tilt between the image plane and
+    the projection plane resulting in a trapezoidal shaped projection of a
+    rectangular image
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO/TS 19159-1:2014'
+    clause: '4.14'
+    link: 'https://www.iso.org/standard/60080.html'
+  date_accepted: 2014-07-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: keystone effect
+      normative_status: preferred
+  _revisions:
+    current: 63460e
+    tree:
+      63460e:
+        object:
+          id: 1461
+          definition: >-
+            distortion of a projected image caused by a tilt between the image
+            plane and the projection plane resulting in a trapezoidal shaped
+            projection of a rectangular image
+          language_code: eng
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO/TS 19159-1:2014'
+            clause: '4.14'
+            link: 'https://www.iso.org/standard/60080.html'
+          date_accepted: 2014-07-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: keystone effect
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-07-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+kor:
+  id: 1461
+  definition: 영상면과 투영면 사이의 기울어짐으로 인해 직사각형 영상이 마름모꼴로 투영되는 투영 영상 왜곡 효과
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO/TS 19159-1:2014'
+    clause: '4.14'
+    link: 'https://www.iso.org/standard/60080.html'
+  date_accepted: 2014-07-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: 화면 왜곡 효과
+      normative_status: preferred
+  _revisions:
+    current: dd753e
+    tree:
+      dd753e:
+        object:
+          id: 1461
+          definition: 영상면과 투영면 사이의 기울어짐으로 인해 직사각형 영상이 마름모꼴로 투영되는 투영 영상 왜곡 효과
+          language_code: kor
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO/TS 19159-1:2014'
+            clause: '4.14'
+            link: 'https://www.iso.org/standard/60080.html'
+          date_accepted: 2014-07-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: 화면 왜곡 효과
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-07-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+msa:
+  id: 1461
+  definition: >-
+    herotan imej terunjur akibat kecondongan antara satah imej dan satah unjuran
+    yang menghasilkan unjuran trapesium berbentuk segi empat tepat
+  language_code: msa
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO/TS 19159-1:2014'
+    clause: '4.14'
+    link: 'https://www.iso.org/standard/60080.html'
+  date_accepted: 2014-07-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: kesan erotan
+      normative_status: preferred
+  _revisions:
+    current: 8ff9c4
+    tree:
+      8ff9c4:
+        object:
+          id: 1461
+          definition: >-
+            herotan imej terunjur akibat kecondongan antara satah imej dan satah
+            unjuran yang menghasilkan unjuran trapesium berbentuk segi empat
+            tepat
+          language_code: msa
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO/TS 19159-1:2014'
+            clause: '4.14'
+            link: 'https://www.iso.org/standard/60080.html'
+          date_accepted: 2014-07-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: kesan erotan
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-07-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 1461
+  definition: >-
+    искажение проецируемого изображения, вызванное наклоном между плоскостью
+    изображения и плоскостью проекции, приводящей к трапецеидальной проекции
+    прямоугольного изображения
+  language_code: rus
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO/TS 19159-1:2014'
+    clause: '4.14'
+    link: 'https://www.iso.org/standard/60080.html'
+  lineage_source: 'ISO/TS 19159-1:2014'
+  date_accepted: 2014-07-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: эффект трапецеидальности
+      normative_status: preferred
+  _revisions:
+    current: 0b3058
+    tree:
+      0b3058:
+        object:
+          id: 1461
+          definition: >-
+            искажение проецируемого изображения, вызванное наклоном между
+            плоскостью изображения и плоскостью проекции, приводящей к
+            трапецеидальной проекции прямоугольного изображения
+          language_code: rus
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO/TS 19159-1:2014'
+            clause: '4.14'
+            link: 'https://www.iso.org/standard/60080.html'
+          lineage_source: 'ISO/TS 19159-1:2014'
+          date_accepted: 2014-07-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: эффект трапецеидальности
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-07-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 1461
+  definition: >-
+    distorsión de una imagen proyectada causada por una inclinación entre el
+    plano imagen y el plano de proyección, causando una proyección de forma
+    trapezoidal de una imagen rectangular
+  language_code: spa
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO/TS 19159-1:2014'
+    clause: '4.14'
+    link: 'https://www.iso.org/standard/60080.html'
+  date_accepted: 2014-07-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: efecto trapezoidal
+      normative_status: preferred
+  _revisions:
+    current: '1e3811'
+    tree:
+      '1e3811':
+        object:
+          id: 1461
+          definition: >-
+            distorsión de una imagen proyectada causada por una inclinación
+            entre el plano imagen y el plano de proyección, causando una
+            proyección de forma trapezoidal de una imagen rectangular
+          language_code: spa
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO/TS 19159-1:2014'
+            clause: '4.14'
+            link: 'https://www.iso.org/standard/60080.html'
+          date_accepted: 2014-07-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: efecto trapezoidal
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-07-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

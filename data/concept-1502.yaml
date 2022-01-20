@@ -1,0 +1,158 @@
+term: trip
+termid: 1502
+eng:
+  id: 1502
+  definition: >-
+    instance of a transport service supporting mobility, for example, a specific
+    flight, a specific ferry departure or a specific taxi tour
+  language_code: eng
+  notes:
+    - >-
+      May follow a pre-defined trip pattern or the trip may be ad hoc according
+      to specific mobility demands. Depending on the nature of the trip, it may
+      start and stop at several transfer nodes.
+    - >-
+      A trip may serve many travellers, and the travellers may make use
+      different part of a trip (e.g. different legs between different bus
+      stops), and these parts may be whole journeys or journey segments.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19147:2015'
+    clause: '3.20'
+    link: 'https://www.iso.org/standard/44874.html'
+  date_accepted: 2015-06-15T00:00:00.000Z
+  review_date: 2009-06-20T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2015-06-15T00:00:00.000Z
+  review_decision_event: Normal ISO processing
+  review_decision_notes: 'Publication of document ISO 19147:2015(E)'
+  release: '4'
+  terms:
+    - type: expression
+      designation: trip
+      normative_status: preferred
+  _revisions:
+    current: 69d4b5
+    tree:
+      69d4b5:
+        object:
+          id: 1502
+          definition: >-
+            instance of a transport service supporting mobility, for example, a
+            specific flight, a specific ferry departure or a specific taxi tour
+          language_code: eng
+          notes:
+            - >-
+              May follow a pre-defined trip pattern or the trip may be ad hoc
+              according to specific mobility demands. Depending on the nature of
+              the trip, it may start and stop at several transfer nodes.
+            - >-
+              A trip may serve many travellers, and the travellers may make use
+              different part of a trip (e.g. different legs between different
+              bus stops), and these parts may be whole journeys or journey
+              segments.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19147:2015'
+            clause: '3.20'
+            link: 'https://www.iso.org/standard/44874.html'
+          date_accepted: 2015-06-15T00:00:00.000Z
+          review_date: 2009-06-20T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2015-06-15T00:00:00.000Z
+          review_decision_event: Normal ISO processing
+          review_decision_notes: 'Publication of document ISO 19147:2015(E)'
+          release: '4'
+          terms:
+            - type: expression
+              designation: trip
+              normative_status: preferred
+        parents: []
+        timeCreated: 2015-06-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 1502
+  definition: >-
+    instancia de un servicio de transporte que permite movilidad, por ejemplo,
+    un vuelo específico, una salida específica en ferry o un recorrido
+    específico en taxi
+  language_code: spa
+  notes:
+    - >-
+      Puede seguir una ruta de viaje predefinida o puede estar personalizado de
+      acuerdo a una demanda de movilidad concreta. Dependiendo de la naturaleza
+      del viaje, puede empezar y parar en varios nodos de transbordo.
+    - >-
+      Un viaje puede servir a muchos viajeros y los viajeros pueden utilizar
+      diferentes partes de un viaje (por ejemplo, diferentes tramos entre
+      diferentes paradas de autobús) y estas partes pueden ser viajes completos
+      o segmentos de viaje.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19147:2015'
+    clause: '3.20'
+    link: 'https://www.iso.org/standard/44874.html'
+  date_accepted: 2015-06-15T00:00:00.000Z
+  review_date: 2009-06-20T00:00:00.000Z
+  review_status: final
+  review_decision: ''
+  review_decision_date: 2015-06-15T00:00:00.000Z
+  review_decision_event: Normal ISO processing
+  review_decision_notes: 'Publication of document ISO 19147:2015(E)'
+  release: '4'
+  terms:
+    - type: expression
+      designation: viaje
+      normative_status: preferred
+  _revisions:
+    current: 4c1661
+    tree:
+      4c1661:
+        object:
+          id: 1502
+          definition: >-
+            instancia de un servicio de transporte que permite movilidad, por
+            ejemplo, un vuelo específico, una salida específica en ferry o un
+            recorrido específico en taxi
+          language_code: spa
+          notes:
+            - >-
+              Puede seguir una ruta de viaje predefinida o puede estar
+              personalizado de acuerdo a una demanda de movilidad concreta.
+              Dependiendo de la naturaleza del viaje, puede empezar y parar en
+              varios nodos de transbordo.
+            - >-
+              Un viaje puede servir a muchos viajeros y los viajeros pueden
+              utilizar diferentes partes de un viaje (por ejemplo, diferentes
+              tramos entre diferentes paradas de autobús) y estas partes pueden
+              ser viajes completos o segmentos de viaje.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19147:2015'
+            clause: '3.20'
+            link: 'https://www.iso.org/standard/44874.html'
+          date_accepted: 2015-06-15T00:00:00.000Z
+          review_date: 2009-06-20T00:00:00.000Z
+          review_status: final
+          review_decision: ''
+          review_decision_date: 2015-06-15T00:00:00.000Z
+          review_decision_event: Normal ISO processing
+          review_decision_notes: 'Publication of document ISO 19147:2015(E)'
+          release: '4'
+          terms:
+            - type: expression
+              designation: viaje
+              normative_status: preferred
+        parents: []
+        timeCreated: 2015-06-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

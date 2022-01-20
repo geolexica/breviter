@@ -1,0 +1,850 @@
+term: semi-major axis
+termid: 622
+eng:
+  id: 622
+  abbrev: a
+  definition: semi-diameter of the longest axis of an ellipsoid
+  language_code: eng
+  notes:
+    - >-
+      This equates to the semi-diameter of the ellipsoid measured in its
+      equatorial plane.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19111:2019'
+    clause: '(E), 3.1.53'
+    link: 'https://www.iso.org/standard/74039.html'
+  lineage_source: 'ISO 19111:2007(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2007-07-01T00:00:00.000Z
+  review_date: 2019-01-31T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-01-31T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19111:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19111:2007 to ISO 19111:2019(E),
+    3.1.53. Lineage source added as ISO 19111:2007(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: semi-major axis
+      normative_status: preferred
+  _revisions:
+    current: '5516e5'
+    tree:
+      '5516e5':
+        object:
+          id: 622
+          abbrev: a
+          definition: semi-diameter of the longest axis of an ellipsoid
+          language_code: eng
+          notes:
+            - >-
+              This equates to the semi-diameter of the ellipsoid measured in its
+              equatorial plane.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19111:2019'
+            clause: '(E), 3.1.53'
+            link: 'https://www.iso.org/standard/74039.html'
+          lineage_source: 'ISO 19111:2007(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2007-07-01T00:00:00.000Z
+          review_date: 2019-01-31T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-01-31T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19111:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19111:2007 to ISO
+            19111:2019(E), 3.1.53. Lineage source added as ISO 19111:2007(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: semi-major axis
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+ara:
+  id: 622
+  abbrev: ا
+  definition: نصف القطر  لأطول محور لمجسم قطع ناقص
+  language_code: ara
+  notes:
+    - هذا يساوي نصف القطر الزاوي لمجسم القطع الناقص مقاساً عند سطحه الاستوائي.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19111:2019'
+    clause: '(E), 3.1.53'
+    link: 'https://www.iso.org/standard/74039.html'
+  lineage_source: 'ISO 19111:2007(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2007-07-01T00:00:00.000Z
+  review_date: 2019-01-31T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-01-31T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19111:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19111:2007 to ISO 19111:2019(E),
+    3.1.53. Lineage source added as ISO 19111:2007(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: محور شبه رئيسي
+      normative_status: preferred
+  _revisions:
+    current: 62234c
+    tree:
+      62234c:
+        object:
+          id: 622
+          abbrev: ا
+          definition: نصف القطر  لأطول محور لمجسم قطع ناقص
+          language_code: ara
+          notes:
+            - >-
+              هذا يساوي نصف القطر الزاوي لمجسم القطع الناقص مقاساً عند سطحه
+              الاستوائي.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19111:2019'
+            clause: '(E), 3.1.53'
+            link: 'https://www.iso.org/standard/74039.html'
+          lineage_source: 'ISO 19111:2007(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2007-07-01T00:00:00.000Z
+          review_date: 2019-01-31T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-01-31T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19111:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19111:2007 to ISO
+            19111:2019(E), 3.1.53. Lineage source added as ISO 19111:2007(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: محور شبه رئيسي
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+zho:
+  id: 622
+  abbrev: a
+  definition: 椭球的最长轴的半径。
+  language_code: zho
+  notes:
+    - 它等于在赤道平面上量测的椭球的半径。
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19111:2019'
+    clause: '(E), 3.1.53'
+    link: 'https://www.iso.org/standard/74039.html'
+  lineage_source: 'ISO 19111:2007(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2007-07-01T00:00:00.000Z
+  review_date: 2019-01-31T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-01-31T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19111:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19111:2007 to ISO 19111:2019(E),
+    3.1.53. Lineage source added as ISO 19111:2007(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: 长半轴
+      normative_status: preferred
+  _revisions:
+    current: 4dcc5e
+    tree:
+      4dcc5e:
+        object:
+          id: 622
+          abbrev: a
+          definition: 椭球的最长轴的半径。
+          language_code: zho
+          notes:
+            - 它等于在赤道平面上量测的椭球的半径。
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19111:2019'
+            clause: '(E), 3.1.53'
+            link: 'https://www.iso.org/standard/74039.html'
+          lineage_source: 'ISO 19111:2007(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2007-07-01T00:00:00.000Z
+          review_date: 2019-01-31T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-01-31T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19111:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19111:2007 to ISO
+            19111:2019(E), 3.1.53. Lineage source added as ISO 19111:2007(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: 长半轴
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-07-01T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+nld:
+  id: 622
+  abbrev: a
+  definition: halve diameter van de langste as van een ellipsoïde
+  language_code: nld
+  notes:
+    - >-
+      Dit is gelijk aan de halve diameter van de ellipsoïde zoals bepaald in het
+      equatoriale vlak.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19111:2019'
+    clause: '(E), 3.1.53'
+    link: 'https://www.iso.org/standard/74039.html'
+  lineage_source: 'ISO 19111:2007(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2007-07-01T00:00:00.000Z
+  review_date: 2019-01-31T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-01-31T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19111:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19111:2007 to ISO 19111:2019(E),
+    3.1.53. Lineage source added as ISO 19111:2007(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: halve lange as
+      normative_status: preferred
+  _revisions:
+    current: 18df31
+    tree:
+      18df31:
+        object:
+          id: 622
+          abbrev: a
+          definition: halve diameter van de langste as van een ellipsoïde
+          language_code: nld
+          notes:
+            - >-
+              Dit is gelijk aan de halve diameter van de ellipsoïde zoals
+              bepaald in het equatoriale vlak.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19111:2019'
+            clause: '(E), 3.1.53'
+            link: 'https://www.iso.org/standard/74039.html'
+          lineage_source: 'ISO 19111:2007(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2007-07-01T00:00:00.000Z
+          review_date: 2019-01-31T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-01-31T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19111:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19111:2007 to ISO
+            19111:2019(E), 3.1.53. Lineage source added as ISO 19111:2007(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: halve lange as
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-07-01T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+fin:
+  id: 622
+  abbrev: a
+  definition: ellipsoidin pisimmän akselin puolikas
+  language_code: fin
+  notes:
+    - Isoakselin puolikas on puolet ellipsoidin  päiväntasaajahalkaisijasta.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19111:2019'
+    clause: '(E), 3.1.53'
+    link: 'https://www.iso.org/standard/74039.html'
+  lineage_source: 'ISO 19111:2007(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2007-07-01T00:00:00.000Z
+  review_date: 2019-01-31T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-01-31T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19111:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19111:2007 to ISO 19111:2019(E),
+    3.1.53. Lineage source added as ISO 19111:2007(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: isoakselin puolikas
+      normative_status: preferred
+  _revisions:
+    current: 2084b7
+    tree:
+      2084b7:
+        object:
+          id: 622
+          abbrev: a
+          definition: ellipsoidin pisimmän akselin puolikas
+          language_code: fin
+          notes:
+            - >-
+              Isoakselin puolikas on puolet ellipsoidin 
+              päiväntasaajahalkaisijasta.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19111:2019'
+            clause: '(E), 3.1.53'
+            link: 'https://www.iso.org/standard/74039.html'
+          lineage_source: 'ISO 19111:2007(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2007-07-01T00:00:00.000Z
+          review_date: 2019-01-31T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-01-31T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19111:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19111:2007 to ISO
+            19111:2019(E), 3.1.53. Lineage source added as ISO 19111:2007(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: isoakselin puolikas
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+fra:
+  id: 622
+  definition: demi-diamètre de l'axe le plus long d'un ellipsoïde
+  language_code: fra
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19111:2019'
+    clause: '(E), 3.1.53'
+    link: 'https://www.iso.org/standard/74039.html'
+  lineage_source: 'ISO 19111:2007(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2007-07-01T00:00:00.000Z
+  review_date: 2019-01-31T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-01-31T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19111:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19111:2007 to ISO 19111:2019(E),
+    3.1.53. Lineage source added as ISO 19111:2007(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: axe semi-majeur
+      normative_status: preferred
+  _revisions:
+    current: 3242ab
+    tree:
+      3242ab:
+        object:
+          id: 622
+          definition: demi-diamètre de l'axe le plus long d'un ellipsoïde
+          language_code: fra
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19111:2019'
+            clause: '(E), 3.1.53'
+            link: 'https://www.iso.org/standard/74039.html'
+          lineage_source: 'ISO 19111:2007(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2007-07-01T00:00:00.000Z
+          review_date: 2019-01-31T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-01-31T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19111:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19111:2007 to ISO
+            19111:2019(E), 3.1.53. Lineage source added as ISO 19111:2007(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: axe semi-majeur
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+deu:
+  id: 622
+  abbrev: a
+  definition: Durchmesserhälfte der längsten Ellipsoidachse
+  language_code: deu
+  notes:
+    - >-
+      This equates to the semi-diameter of the ellipsoid measured in its
+      equatorial plane.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19111:2019'
+    clause: '(E), 3.1.53'
+    link: 'https://www.iso.org/standard/74039.html'
+  lineage_source: 'ISO 19111:2007(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2007-07-01T00:00:00.000Z
+  review_date: 2019-01-31T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-01-31T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19111:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19111:2007 to ISO 19111:2019(E),
+    3.1.53. Lineage source added as ISO 19111:2007(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: große Halbachse
+      normative_status: preferred
+  _revisions:
+    current: 6798d0
+    tree:
+      6798d0:
+        object:
+          id: 622
+          abbrev: a
+          definition: Durchmesserhälfte der längsten Ellipsoidachse
+          language_code: deu
+          notes:
+            - >-
+              This equates to the semi-diameter of the ellipsoid measured in its
+              equatorial plane.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19111:2019'
+            clause: '(E), 3.1.53'
+            link: 'https://www.iso.org/standard/74039.html'
+          lineage_source: 'ISO 19111:2007(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2007-07-01T00:00:00.000Z
+          review_date: 2019-01-31T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-01-31T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19111:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19111:2007 to ISO
+            19111:2019(E), 3.1.53. Lineage source added as ISO 19111:2007(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: große Halbachse
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-07-01T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+kor:
+  id: 622
+  abbrev: a
+  definition: 타원체의 최장 반지름
+  language_code: kor
+  notes:
+    - 지구 타원체의 장반경은 적도 반경이다.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19111:2019'
+    clause: '(E), 3.1.53'
+    link: 'https://www.iso.org/standard/74039.html'
+  lineage_source: 'ISO 19111:2007(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2007-07-01T00:00:00.000Z
+  review_date: 2019-01-31T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-01-31T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19111:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19111:2007 to ISO 19111:2019(E),
+    3.1.53. Lineage source added as ISO 19111:2007(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: 장반경
+      normative_status: preferred
+  _revisions:
+    current: 45e7a3
+    tree:
+      45e7a3:
+        object:
+          id: 622
+          abbrev: a
+          definition: 타원체의 최장 반지름
+          language_code: kor
+          notes:
+            - 지구 타원체의 장반경은 적도 반경이다.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19111:2019'
+            clause: '(E), 3.1.53'
+            link: 'https://www.iso.org/standard/74039.html'
+          lineage_source: 'ISO 19111:2007(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2007-07-01T00:00:00.000Z
+          review_date: 2019-01-31T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-01-31T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19111:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19111:2007 to ISO
+            19111:2019(E), 3.1.53. Lineage source added as ISO 19111:2007(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: 장반경
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+pol:
+  id: 622
+  abbrev: a
+  definition: połowa dłuższej osi elipsoidy
+  language_code: pol
+  notes:
+    - 'Dla elipsoidy reprezentującej Ziemię, półoś duża jest promieniem równika.'
+  examples: []
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19111:2019'
+    clause: '(E), 3.1.53'
+    link: 'https://www.iso.org/standard/74039.html'
+  lineage_source: 'ISO 19111:2007(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2007-07-01T00:00:00.000Z
+  review_date: 2019-01-31T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-01-31T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19111:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19111:2007 to ISO 19111:2019(E),
+    3.1.53. Lineage source added as ISO 19111:2007(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: półoś duża a
+      normative_status: preferred
+  _revisions:
+    current: 50666f
+    tree:
+      50666f:
+        object:
+          id: 622
+          abbrev: a
+          definition: połowa dłuższej osi elipsoidy
+          language_code: pol
+          notes:
+            - >-
+              Dla elipsoidy reprezentującej Ziemię, półoś duża jest promieniem
+              równika.
+          examples: []
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19111:2019'
+            clause: '(E), 3.1.53'
+            link: 'https://www.iso.org/standard/74039.html'
+          lineage_source: 'ISO 19111:2007(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2007-07-01T00:00:00.000Z
+          review_date: 2019-01-31T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-01-31T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19111:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19111:2007 to ISO
+            19111:2019(E), 3.1.53. Lineage source added as ISO 19111:2007(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: półoś duża a
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 622
+  abbrev: a
+  definition: максимальный радиус эллипсоида
+  language_code: rus
+  notes:
+    - 'Для эллипсоида, представляющего Землю, это радиус экватора'
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19111:2019'
+    clause: '(E), 3.1.53'
+    link: 'https://www.iso.org/standard/74039.html'
+  lineage_source: 'ISO 19111:2007(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2007-07-01T00:00:00.000Z
+  review_date: 2019-01-31T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-01-31T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19111:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19111:2007 to ISO 19111:2019(E),
+    3.1.53. Lineage source added as ISO 19111:2007(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: большая полуось
+      normative_status: preferred
+  _revisions:
+    current: 1e472d
+    tree:
+      1e472d:
+        object:
+          id: 622
+          abbrev: a
+          definition: максимальный радиус эллипсоида
+          language_code: rus
+          notes:
+            - 'Для эллипсоида, представляющего Землю, это радиус экватора'
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19111:2019'
+            clause: '(E), 3.1.53'
+            link: 'https://www.iso.org/standard/74039.html'
+          lineage_source: 'ISO 19111:2007(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2007-07-01T00:00:00.000Z
+          review_date: 2019-01-31T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-01-31T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19111:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19111:2007 to ISO
+            19111:2019(E), 3.1.53. Lineage source added as ISO 19111:2007(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: большая полуось
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 622
+  abbrev: a
+  definition: semidiámetro del eje más largo de un elipsoide
+  language_code: spa
+  notes:
+    - Es igual al semidiámetro del elipsoide medido en su plano ecuatorial.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19111:2019'
+    clause: '(E), 3.1.53'
+    link: 'https://www.iso.org/standard/74039.html'
+  lineage_source: 'ISO 19111:2007(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2007-07-01T00:00:00.000Z
+  review_date: 2019-01-31T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-01-31T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19111:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19111:2007 to ISO 19111:2019(E),
+    3.1.53. Lineage source added as ISO 19111:2007(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: semieje mayor
+      normative_status: preferred
+  _revisions:
+    current: c42a42
+    tree:
+      c42a42:
+        object:
+          id: 622
+          abbrev: a
+          definition: semidiámetro del eje más largo de un elipsoide
+          language_code: spa
+          notes:
+            - >-
+              Es igual al semidiámetro del elipsoide medido en su plano
+              ecuatorial.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19111:2019'
+            clause: '(E), 3.1.53'
+            link: 'https://www.iso.org/standard/74039.html'
+          lineage_source: 'ISO 19111:2007(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2007-07-01T00:00:00.000Z
+          review_date: 2019-01-31T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-01-31T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19111:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19111:2007 to ISO
+            19111:2019(E), 3.1.53. Lineage source added as ISO 19111:2007(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: semieje mayor
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+swe:
+  id: 622
+  abbrev: a
+  definition: halva storaxeln hos en ellips eller ellipsoid
+  country_code: swe
+  language_code: swe
+  notes:
+    - >-
+      This equates to the semi-diameter of the ellipsoid measured in its
+      equatorial plane.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19111:2019'
+    clause: '(E), 3.1.53'
+    link: 'https://www.iso.org/standard/74039.html'
+  lineage_source: 'ISO 19111:2007(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2007-07-01T00:00:00.000Z
+  review_date: 2019-01-31T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-01-31T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19111:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19111:2007 to ISO 19111:2019(E),
+    3.1.53. Lineage source added as ISO 19111:2007(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: halva storaxeln
+      normative_status: preferred
+  _revisions:
+    current: a89b2b
+    tree:
+      a89b2b:
+        object:
+          id: 622
+          abbrev: a
+          definition: halva storaxeln hos en ellips eller ellipsoid
+          country_code: swe
+          language_code: swe
+          notes:
+            - >-
+              This equates to the semi-diameter of the ellipsoid measured in its
+              equatorial plane.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19111:2019'
+            clause: '(E), 3.1.53'
+            link: 'https://www.iso.org/standard/74039.html'
+          lineage_source: 'ISO 19111:2007(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2007-07-01T00:00:00.000Z
+          review_date: 2019-01-31T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-01-31T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19111:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19111:2007 to ISO
+            19111:2019(E), 3.1.53. Lineage source added as ISO 19111:2007(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: halva storaxeln
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

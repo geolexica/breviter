@@ -1,0 +1,428 @@
+term: terminological data
+termid: 900
+eng:
+  id: 900
+  definition: data related to concepts or their designations
+  language_code: eng
+  notes:
+    - >-
+      The more common terminological data include entry term, definition, note,
+      grammatical label, subject label, language identifier, country identifier
+      and source identifier.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 1087-1:2000'
+    clause: 3.8.1
+    link: 'https://www.iso.org/standard/20057.html'
+  lineage_source: 'ISO 19146:2010(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2010-11-01T00:00:00.000Z
+  review_date: 2018-06-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2018-06-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19146:2018(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 1087-1:2000 to ISO 1087-1:2000,
+    3.8.1. Lineage source added as ISO 19146:2010(E)
+  release: '2'
+  terms:
+    - type: expression
+      designation: terminological data
+      normative_status: preferred
+  _revisions:
+    current: 98711c
+    tree:
+      98711c:
+        object:
+          id: 900
+          definition: data related to concepts or their designations
+          language_code: eng
+          notes:
+            - >-
+              The more common terminological data include entry term,
+              definition, note, grammatical label, subject label, language
+              identifier, country identifier and source identifier.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 1087-1:2000'
+            clause: 3.8.1
+            link: 'https://www.iso.org/standard/20057.html'
+          lineage_source: 'ISO 19146:2010(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2010-11-01T00:00:00.000Z
+          review_date: 2018-06-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2018-06-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19146:2018(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 1087-1:2000 to ISO
+            1087-1:2000, 3.8.1. Lineage source added as ISO 19146:2010(E)
+          release: '2'
+          terms:
+            - type: expression
+              designation: terminological data
+              normative_status: preferred
+        parents: []
+        timeCreated: 2010-11-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+ara:
+  id: 900
+  definition: بيانات متعلقة بمفاهيم أو دلالاتها
+  language_code: ara
+  notes:
+    - >-
+      البيانات المصطلحية الأكثر شيوعا هي المصطلح كمادة مدرجة في المعجم ، وتعريفه
+      ، والملاحظة ، والإعراب النحوي ، وتوضيح المادة ، وتعريف اللغة ، وتعريف
+      الدولة أو البلد ، وتعريف المصدر.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 1087-1:2000'
+    clause: 3.8.1
+    link: 'https://www.iso.org/standard/20057.html'
+  lineage_source: 'ISO 19146:2010(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2010-11-01T00:00:00.000Z
+  review_date: 2018-06-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2018-06-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19146:2018(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 1087-1:2000 to ISO 1087-1:2000,
+    3.8.1. Lineage source added as ISO 19146:2010(E)
+  release: '2'
+  terms:
+    - type: expression
+      designation: بيانات مصطلحية
+      normative_status: preferred
+  _revisions:
+    current: a955e6
+    tree:
+      a955e6:
+        object:
+          id: 900
+          definition: بيانات متعلقة بمفاهيم أو دلالاتها
+          language_code: ara
+          notes:
+            - >-
+              البيانات المصطلحية الأكثر شيوعا هي المصطلح كمادة مدرجة في المعجم ،
+              وتعريفه ، والملاحظة ، والإعراب النحوي ، وتوضيح المادة ، وتعريف
+              اللغة ، وتعريف الدولة أو البلد ، وتعريف المصدر.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 1087-1:2000'
+            clause: 3.8.1
+            link: 'https://www.iso.org/standard/20057.html'
+          lineage_source: 'ISO 19146:2010(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2010-11-01T00:00:00.000Z
+          review_date: 2018-06-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2018-06-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19146:2018(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 1087-1:2000 to ISO
+            1087-1:2000, 3.8.1. Lineage source added as ISO 19146:2010(E)
+          release: '2'
+          terms:
+            - type: expression
+              designation: بيانات مصطلحية
+              normative_status: preferred
+        parents: []
+        timeCreated: 2010-11-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+deu:
+  id: 900
+  language_code: deu
+  notes:
+    - >-
+      The more common terminological data include entry term, definition, note,
+      grammatical label, subject label, language identifier, country identifier
+      and source identifier.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 1087-1:2000'
+    clause: 3.8.1
+    link: 'https://www.iso.org/standard/20057.html'
+  lineage_source: 'ISO 19146:2010(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2010-11-01T00:00:00.000Z
+  review_date: 2018-06-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2018-06-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19146:2018(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 1087-1:2000 to ISO 1087-1:2000,
+    3.8.1. Lineage source added as ISO 19146:2010(E)
+  release: '2'
+  terms:
+    - type: expression
+      designation: terminologische Daten
+      normative_status: preferred
+  _revisions:
+    current: 6eb612
+    tree:
+      6eb612:
+        object:
+          id: 900
+          language_code: deu
+          notes:
+            - >-
+              The more common terminological data include entry term,
+              definition, note, grammatical label, subject label, language
+              identifier, country identifier and source identifier.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 1087-1:2000'
+            clause: 3.8.1
+            link: 'https://www.iso.org/standard/20057.html'
+          lineage_source: 'ISO 19146:2010(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2010-11-01T00:00:00.000Z
+          review_date: 2018-06-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2018-06-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19146:2018(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 1087-1:2000 to ISO
+            1087-1:2000, 3.8.1. Lineage source added as ISO 19146:2010(E)
+          release: '2'
+          terms:
+            - type: expression
+              designation: terminologische Daten
+              normative_status: preferred
+        parents: []
+        timeCreated: 2010-11-01T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+kor:
+  id: 900
+  definition: 개념 또는 지정된 바와 관계된 자료
+  language_code: kor
+  notes:
+    - >-
+      The more common terminological data include entry term, definition, note,
+      grammatical label, subject label, language identifier, country identifier
+      and source identifier.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 1087-1:2000'
+    clause: 3.8.1
+    link: 'https://www.iso.org/standard/20057.html'
+  lineage_source: 'ISO 19146:2010(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2010-11-01T00:00:00.000Z
+  review_date: 2018-06-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2018-06-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19146:2018(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 1087-1:2000 to ISO 1087-1:2000,
+    3.8.1. Lineage source added as ISO 19146:2010(E)
+  release: '2'
+  terms:
+    - type: expression
+      designation: 용어 자료
+      normative_status: preferred
+  _revisions:
+    current: 96d8d0
+    tree:
+      96d8d0:
+        object:
+          id: 900
+          definition: 개념 또는 지정된 바와 관계된 자료
+          language_code: kor
+          notes:
+            - >-
+              The more common terminological data include entry term,
+              definition, note, grammatical label, subject label, language
+              identifier, country identifier and source identifier.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 1087-1:2000'
+            clause: 3.8.1
+            link: 'https://www.iso.org/standard/20057.html'
+          lineage_source: 'ISO 19146:2010(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2010-11-01T00:00:00.000Z
+          review_date: 2018-06-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2018-06-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19146:2018(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 1087-1:2000 to ISO
+            1087-1:2000, 3.8.1. Lineage source added as ISO 19146:2010(E)
+          release: '2'
+          terms:
+            - type: expression
+              designation: 용어 자료
+              normative_status: preferred
+        parents: []
+        timeCreated: 2010-11-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 900
+  definition: 'данные, относящиеся к понятиямили их обозначениям'
+  language_code: rus
+  notes:
+    - >-
+      В общем случае терминологические данные включают: термин, определение,
+      примечание, грамматическую пометку, метку предмета, идентификатор языка,
+      идентификатор страны и идентификатор источника
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 1087-1:2000'
+    clause: 3.8.1
+    link: 'https://www.iso.org/standard/20057.html'
+  lineage_source: 'ISO 19146:2010(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2010-11-01T00:00:00.000Z
+  review_date: 2018-06-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2018-06-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19146:2018(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 1087-1:2000 to ISO 1087-1:2000,
+    3.8.1. Lineage source added as ISO 19146:2010(E)
+  release: '2'
+  terms:
+    - type: expression
+      designation: терминологические данные
+      normative_status: preferred
+  _revisions:
+    current: 2325ac
+    tree:
+      2325ac:
+        object:
+          id: 900
+          definition: 'данные, относящиеся к понятиямили их обозначениям'
+          language_code: rus
+          notes:
+            - >-
+              В общем случае терминологические данные включают: термин,
+              определение, примечание, грамматическую пометку, метку предмета,
+              идентификатор языка, идентификатор страны и идентификатор
+              источника
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 1087-1:2000'
+            clause: 3.8.1
+            link: 'https://www.iso.org/standard/20057.html'
+          lineage_source: 'ISO 19146:2010(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2010-11-01T00:00:00.000Z
+          review_date: 2018-06-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2018-06-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19146:2018(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 1087-1:2000 to ISO
+            1087-1:2000, 3.8.1. Lineage source added as ISO 19146:2010(E)
+          release: '2'
+          terms:
+            - type: expression
+              designation: терминологические данные
+              normative_status: preferred
+        parents: []
+        timeCreated: 2010-11-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 900
+  definition: información relativa a los conceptos o a sus designaciones
+  language_code: spa
+  notes:
+    - >-
+      La información terminológica suele incluir la entrada, la definición, la
+      nota, la marca gramatical, la marca temática, el identificador de lengua,
+      el identificador de país y el identificador de fuente.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 1087-1:2000'
+    clause: 3.8.1
+    link: 'https://www.iso.org/standard/20057.html'
+  lineage_source: 'ISO 19146:2010(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2010-11-01T00:00:00.000Z
+  review_date: 2018-06-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2018-06-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19146:2018(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 1087-1:2000 to ISO 1087-1:2000,
+    3.8.1. Lineage source added as ISO 19146:2010(E)
+  release: '2'
+  terms:
+    - type: expression
+      designation: información terminológica
+      normative_status: preferred
+  _revisions:
+    current: 22761f
+    tree:
+      22761f:
+        object:
+          id: 900
+          definition: información relativa a los conceptos o a sus designaciones
+          language_code: spa
+          notes:
+            - >-
+              La información terminológica suele incluir la entrada, la
+              definición, la nota, la marca gramatical, la marca temática, el
+              identificador de lengua, el identificador de país y el
+              identificador de fuente.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 1087-1:2000'
+            clause: 3.8.1
+            link: 'https://www.iso.org/standard/20057.html'
+          lineage_source: 'ISO 19146:2010(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2010-11-01T00:00:00.000Z
+          review_date: 2018-06-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2018-06-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19146:2018(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 1087-1:2000 to ISO
+            1087-1:2000, 3.8.1. Lineage source added as ISO 19146:2010(E)
+          release: '2'
+          terms:
+            - type: expression
+              designation: información terminológica
+              normative_status: preferred
+        parents: []
+        timeCreated: 2010-11-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

@@ -1,0 +1,83 @@
+term: sub-element <postal address>
+termid: 2128
+eng:
+  id: 2128
+  definition: >-
+    identifier of either a sub-division of a postal address element value or one
+    of multiple occurrences of an element in a postal address
+  language_code: eng
+  notes:
+    - >-
+      Postal address sub-elements are used to facilitate postal address
+      rendering, database storage and related technical needs and should not be
+      considered as specific cases of postal address components.
+    - Postal address sub-elements are further described in 6.5.
+    - >-
+      For convenience, the preferred term “postal address sub-element” has been
+      shortened to the admitted term “sub-element” throughout this document.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19160-4:2017'
+    clause: '(E), 3.17'
+    link: 'https://www.iso.org/standard/64242.html'
+  date_accepted: 2017-11-15T00:00:00.000Z
+  review_date: 2017-11-15T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2017-11-15T00:00:00.000Z
+  review_decision_event: Normal ISO processing
+  review_decision_notes: 'Publication of document ISO 19160-4:2017(E)'
+  release: '5'
+  terms:
+    - type: expression
+      designation: sub-element <postal address>
+      normative_status: admitted
+    - designation: postal address sub-element <postal address>
+      type: expression
+  _revisions:
+    current: 85a86a
+    tree:
+      85a86a:
+        object:
+          id: 2128
+          definition: >-
+            identifier of either a sub-division of a postal address element
+            value or one of multiple occurrences of an element in a postal
+            address
+          language_code: eng
+          notes:
+            - >-
+              Postal address sub-elements are used to facilitate postal address
+              rendering, database storage and related technical needs and should
+              not be considered as specific cases of postal address components.
+            - Postal address sub-elements are further described in 6.5.
+            - >-
+              For convenience, the preferred term “postal address sub-element”
+              has been shortened to the admitted term “sub-element” throughout
+              this document.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19160-4:2017'
+            clause: '(E), 3.17'
+            link: 'https://www.iso.org/standard/64242.html'
+          date_accepted: 2017-11-15T00:00:00.000Z
+          review_date: 2017-11-15T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2017-11-15T00:00:00.000Z
+          review_decision_event: Normal ISO processing
+          review_decision_notes: 'Publication of document ISO 19160-4:2017(E)'
+          release: '5'
+          terms:
+            - type: expression
+              designation: sub-element <postal address>
+              normative_status: admitted
+            - designation: postal address sub-element <postal address>
+              type: expression
+        parents: []
+        timeCreated: 2017-11-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

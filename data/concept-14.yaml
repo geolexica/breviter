@@ -1,0 +1,800 @@
+term: application
+termid: 14
+eng:
+  id: 14
+  definition: manipulation and processing of data in support of user requirements
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19101-1:2014'
+    clause: 4.1.1
+    link: 'https://www.iso.org/standard/59164.html'
+  lineage_source: 'ISO 19101:2002'
+  lineage_source_similarity: '1'
+  date_accepted: 2002-07-01T00:00:00.000Z
+  review_date: 2014-11-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2014-11-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19101-1:2014'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19101:2002 to ISO 19101-1:2014.
+    Lineage source added as ISO 19101:2002.
+  release: '1'
+  terms:
+    - type: expression
+      designation: application
+      normative_status: preferred
+  _revisions:
+    current: 10b39a
+    tree:
+      10b39a:
+        object:
+          id: 14
+          definition: manipulation and processing of data in support of user requirements
+          language_code: eng
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19101-1:2014'
+            clause: 4.1.1
+            link: 'https://www.iso.org/standard/59164.html'
+          lineage_source: 'ISO 19101:2002'
+          lineage_source_similarity: '1'
+          date_accepted: 2002-07-01T00:00:00.000Z
+          review_date: 2014-11-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2014-11-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19101-1:2014'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19101:2002 to ISO
+            19101-1:2014. Lineage source added as ISO 19101:2002.
+          release: '1'
+          terms:
+            - type: expression
+              designation: application
+              normative_status: preferred
+        parents: []
+        timeCreated: 2002-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+ara:
+  id: 14
+  definition: معالجة وتجهيز البيانات فيما يدعم متطلبات المستخدم
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19101-1:2014'
+    clause: 4.1.1
+    link: 'https://www.iso.org/standard/59164.html'
+  lineage_source: 'ISO 19101:2002'
+  lineage_source_similarity: '1'
+  date_accepted: 2002-07-01T00:00:00.000Z
+  review_date: 2014-11-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2014-11-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19101-1:2014'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19101:2002 to ISO 19101-1:2014.
+    Lineage source added as ISO 19101:2002.
+  release: '1'
+  terms:
+    - type: expression
+      designation: تطبيق
+      normative_status: preferred
+  _revisions:
+    current: 81e59c
+    tree:
+      81e59c:
+        object:
+          id: 14
+          definition: معالجة وتجهيز البيانات فيما يدعم متطلبات المستخدم
+          language_code: ara
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19101-1:2014'
+            clause: 4.1.1
+            link: 'https://www.iso.org/standard/59164.html'
+          lineage_source: 'ISO 19101:2002'
+          lineage_source_similarity: '1'
+          date_accepted: 2002-07-01T00:00:00.000Z
+          review_date: 2014-11-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2014-11-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19101-1:2014'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19101:2002 to ISO
+            19101-1:2014. Lineage source added as ISO 19101:2002.
+          release: '1'
+          terms:
+            - type: expression
+              designation: تطبيق
+              normative_status: preferred
+        parents: []
+        timeCreated: 2002-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+zho:
+  id: 14
+  definition: 支持用户需求的数据操作和处理。
+  language_code: zho
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19101-1:2014'
+    clause: 4.1.1
+    link: 'https://www.iso.org/standard/59164.html'
+  lineage_source: 'ISO 19101:2002'
+  lineage_source_similarity: '1'
+  date_accepted: 2002-07-01T00:00:00.000Z
+  review_date: 2014-11-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2014-11-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19101-1:2014'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19101:2002 to ISO 19101-1:2014.
+    Lineage source added as ISO 19101:2002.
+  release: '1'
+  terms:
+    - type: expression
+      designation: 应用
+      normative_status: preferred
+  _revisions:
+    current: 53fa9f
+    tree:
+      53fa9f:
+        object:
+          id: 14
+          definition: 支持用户需求的数据操作和处理。
+          language_code: zho
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19101-1:2014'
+            clause: 4.1.1
+            link: 'https://www.iso.org/standard/59164.html'
+          lineage_source: 'ISO 19101:2002'
+          lineage_source_similarity: '1'
+          date_accepted: 2002-07-01T00:00:00.000Z
+          review_date: 2014-11-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2014-11-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19101-1:2014'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19101:2002 to ISO
+            19101-1:2014. Lineage source added as ISO 19101:2002.
+          release: '1'
+          terms:
+            - type: expression
+              designation: 应用
+              normative_status: preferred
+        parents: []
+        timeCreated: 2002-07-01T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+dan:
+  id: 14
+  definition: manipulation og behandling af data for at opfylde brugerkrav
+  language_code: dan
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19101-1:2014'
+    clause: 4.1.1
+    link: 'https://www.iso.org/standard/59164.html'
+  lineage_source: 'ISO 19101:2002'
+  lineage_source_similarity: '1'
+  date_accepted: 2002-07-01T00:00:00.000Z
+  review_date: 2014-11-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2014-11-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19101-1:2014'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19101:2002 to ISO 19101-1:2014.
+    Lineage source added as ISO 19101:2002.
+  release: '1'
+  terms:
+    - type: expression
+      designation: applikation
+      normative_status: preferred
+  _revisions:
+    current: d55847
+    tree:
+      d55847:
+        object:
+          id: 14
+          definition: manipulation og behandling af data for at opfylde brugerkrav
+          language_code: dan
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19101-1:2014'
+            clause: 4.1.1
+            link: 'https://www.iso.org/standard/59164.html'
+          lineage_source: 'ISO 19101:2002'
+          lineage_source_similarity: '1'
+          date_accepted: 2002-07-01T00:00:00.000Z
+          review_date: 2014-11-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2014-11-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19101-1:2014'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19101:2002 to ISO
+            19101-1:2014. Lineage source added as ISO 19101:2002.
+          release: '1'
+          terms:
+            - type: expression
+              designation: applikation
+              normative_status: preferred
+        parents: []
+        timeCreated: 2002-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+fin:
+  id: 14
+  definition: tiedon käsittely ja prosessointi käyttäjävaatimusten mukaisesti
+  language_code: fin
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19101-1:2014'
+    clause: 4.1.1
+    link: 'https://www.iso.org/standard/59164.html'
+  lineage_source: 'ISO 19101:2002'
+  lineage_source_similarity: '1'
+  date_accepted: 2002-07-01T00:00:00.000Z
+  review_date: 2014-11-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2014-11-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19101-1:2014'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19101:2002 to ISO 19101-1:2014.
+    Lineage source added as ISO 19101:2002.
+  release: '1'
+  terms:
+    - type: expression
+      designation: sovellus
+      normative_status: preferred
+    - designation: sovelma
+      type: expression
+  _revisions:
+    current: a97389
+    tree:
+      a97389:
+        object:
+          id: 14
+          definition: tiedon käsittely ja prosessointi käyttäjävaatimusten mukaisesti
+          language_code: fin
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19101-1:2014'
+            clause: 4.1.1
+            link: 'https://www.iso.org/standard/59164.html'
+          lineage_source: 'ISO 19101:2002'
+          lineage_source_similarity: '1'
+          date_accepted: 2002-07-01T00:00:00.000Z
+          review_date: 2014-11-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2014-11-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19101-1:2014'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19101:2002 to ISO
+            19101-1:2014. Lineage source added as ISO 19101:2002.
+          release: '1'
+          terms:
+            - type: expression
+              designation: sovellus
+              normative_status: preferred
+            - designation: sovelma
+              type: expression
+        parents: []
+        timeCreated: 2002-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+fra:
+  id: 14
+  definition: manipulation et traitement de données supportant des besoins d'utilisateurs
+  language_code: fra
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19101-1:2014'
+    clause: 4.1.1
+    link: 'https://www.iso.org/standard/59164.html'
+  lineage_source: 'ISO 19101:2002'
+  lineage_source_similarity: '1'
+  date_accepted: 2002-07-01T00:00:00.000Z
+  review_date: 2014-11-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2014-11-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19101-1:2014'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19101:2002 to ISO 19101-1:2014.
+    Lineage source added as ISO 19101:2002.
+  release: '1'
+  terms:
+    - type: expression
+      designation: application
+      normative_status: preferred
+  _revisions:
+    current: ccd1bb
+    tree:
+      ccd1bb:
+        object:
+          id: 14
+          definition: >-
+            manipulation et traitement de données supportant des besoins
+            d'utilisateurs
+          language_code: fra
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19101-1:2014'
+            clause: 4.1.1
+            link: 'https://www.iso.org/standard/59164.html'
+          lineage_source: 'ISO 19101:2002'
+          lineage_source_similarity: '1'
+          date_accepted: 2002-07-01T00:00:00.000Z
+          review_date: 2014-11-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2014-11-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19101-1:2014'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19101:2002 to ISO
+            19101-1:2014. Lineage source added as ISO 19101:2002.
+          release: '1'
+          terms:
+            - type: expression
+              designation: application
+              normative_status: preferred
+        parents: []
+        timeCreated: 2002-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+deu:
+  id: 14
+  definition: Be- und Verarbeitung von Daten zur Unterstützung von Nutzeranforderungen
+  language_code: deu
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19101-1:2014'
+    clause: 4.1.1
+    link: 'https://www.iso.org/standard/59164.html'
+  lineage_source: 'ISO 19101:2002'
+  lineage_source_similarity: '1'
+  date_accepted: 2002-07-01T00:00:00.000Z
+  review_date: 2014-11-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2014-11-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19101-1:2014'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19101:2002 to ISO 19101-1:2014.
+    Lineage source added as ISO 19101:2002.
+  release: '1'
+  terms:
+    - type: expression
+      designation: Anwendung
+      normative_status: preferred
+  _revisions:
+    current: 3acd7e
+    tree:
+      3acd7e:
+        object:
+          id: 14
+          definition: >-
+            Be- und Verarbeitung von Daten zur Unterstützung von
+            Nutzeranforderungen
+          language_code: deu
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19101-1:2014'
+            clause: 4.1.1
+            link: 'https://www.iso.org/standard/59164.html'
+          lineage_source: 'ISO 19101:2002'
+          lineage_source_similarity: '1'
+          date_accepted: 2002-07-01T00:00:00.000Z
+          review_date: 2014-11-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2014-11-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19101-1:2014'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19101:2002 to ISO
+            19101-1:2014. Lineage source added as ISO 19101:2002.
+          release: '1'
+          terms:
+            - type: expression
+              designation: Anwendung
+              normative_status: preferred
+        parents: []
+        timeCreated: 2002-07-01T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+kor:
+  id: 14
+  definition: 사용자 요구 사항의 지원을 위한 데이터의 조작 및 처리
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19101-1:2014'
+    clause: 4.1.1
+    link: 'https://www.iso.org/standard/59164.html'
+  lineage_source: 'ISO 19101:2002'
+  lineage_source_similarity: '1'
+  date_accepted: 2008-12-30T00:00:00.000Z
+  review_date: 2014-11-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2014-11-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19101-1:2014'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19101:2002 to ISO 19101-1:2014.
+    Lineage source added as ISO 19101:2002.
+  release: '1'
+  terms:
+    - type: expression
+      designation: 응용
+      normative_status: preferred
+  _revisions:
+    current: 8b1a2e
+    tree:
+      8b1a2e:
+        object:
+          id: 14
+          definition: 사용자 요구 사항의 지원을 위한 데이터의 조작 및 처리
+          language_code: kor
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19101-1:2014'
+            clause: 4.1.1
+            link: 'https://www.iso.org/standard/59164.html'
+          lineage_source: 'ISO 19101:2002'
+          lineage_source_similarity: '1'
+          date_accepted: 2008-12-30T00:00:00.000Z
+          review_date: 2014-11-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2014-11-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19101-1:2014'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19101:2002 to ISO
+            19101-1:2014. Lineage source added as ISO 19101:2002.
+          release: '1'
+          terms:
+            - type: expression
+              designation: 응용
+              normative_status: preferred
+        parents: []
+        timeCreated: 2008-12-30T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+msa:
+  id: 14
+  definition: ist atur cara atau program komputer yg direka khusus utk kegunaan tertentu
+  language_code: msa
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19101-1:2014'
+    clause: 4.1.1
+    link: 'https://www.iso.org/standard/59164.html'
+  lineage_source: Pusat Rujukan Persuratan Melayu (DBP)
+  date_accepted: 2002-07-01T00:00:00.000Z
+  review_date: 2014-11-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2014-11-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19101-1:2014'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19101:2002 to ISO 19101-1:2014.
+    Lineage source added as ISO 19101:2002.
+  release: '1'
+  terms:
+    - type: expression
+      designation: Aplikasi
+      normative_status: preferred
+  _revisions:
+    current: 023380
+    tree:
+      023380:
+        object:
+          id: 14
+          definition: >-
+            ist atur cara atau program komputer yg direka khusus utk kegunaan
+            tertentu
+          language_code: msa
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19101-1:2014'
+            clause: 4.1.1
+            link: 'https://www.iso.org/standard/59164.html'
+          lineage_source: Pusat Rujukan Persuratan Melayu (DBP)
+          date_accepted: 2002-07-01T00:00:00.000Z
+          review_date: 2014-11-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2014-11-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19101-1:2014'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19101:2002 to ISO
+            19101-1:2014. Lineage source added as ISO 19101:2002.
+          release: '1'
+          terms:
+            - type: expression
+              designation: Aplikasi
+              normative_status: preferred
+        parents: []
+        timeCreated: 2002-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 14
+  definition: >-
+    манипулирование данными и их обработка с целью удовлетворения потребностей
+    пользователя
+  language_code: rus
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19101-1:2014'
+    clause: 4.1.1
+    link: 'https://www.iso.org/standard/59164.html'
+  lineage_source: 'перевод ИСО 19101-1:2014,'
+  lineage_source_similarity: '1'
+  date_accepted: 2002-07-01T00:00:00.000Z
+  review_date: 2014-11-01T00:00:00.000Z
+  review_status: ''
+  review_decision: ''
+  review_decision_date: 2014-11-01T00:00:00.000Z
+  review_decision_event: 'Публикация ИСО19101-1:2014'
+  review_decision_notes: >-
+    Авторитетная ссылка изменена с ISO 19101: 2002 на ISO 19101-1: 2014.
+    Источник происхождения добавлен как ISO 19101: 2002.
+  release: '1'
+  terms:
+    - type: expression
+      designation: приложение
+      normative_status: preferred
+  _revisions:
+    current: b12c4f
+    tree:
+      b12c4f:
+        object:
+          id: 14
+          definition: >-
+            манипулирование данными и их обработка с целью удовлетворения
+            потребностей пользователя
+          language_code: rus
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19101-1:2014'
+            clause: 4.1.1
+            link: 'https://www.iso.org/standard/59164.html'
+          lineage_source: 'перевод ИСО 19101-1:2014,'
+          lineage_source_similarity: '1'
+          date_accepted: 2002-07-01T00:00:00.000Z
+          review_date: 2014-11-01T00:00:00.000Z
+          review_status: ''
+          review_decision: ''
+          review_decision_date: 2014-11-01T00:00:00.000Z
+          review_decision_event: 'Публикация ИСО19101-1:2014'
+          review_decision_notes: >-
+            Авторитетная ссылка изменена с ISO 19101: 2002 на ISO 19101-1: 2014.
+            Источник происхождения добавлен как ISO 19101: 2002.
+          release: '1'
+          terms:
+            - type: expression
+              designation: приложение
+              normative_status: preferred
+        parents: []
+        timeCreated: 2002-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 14
+  definition: >-
+    manipulación y procesamiento de datos para satisfacer los requerimientos del
+    usuario
+  language_code: spa
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19101-1:2014'
+    clause: 4.1.1
+    link: 'https://www.iso.org/standard/59164.html'
+  lineage_source: 'ISO 19101:2002'
+  lineage_source_similarity: '1'
+  date_accepted: 2002-07-01T00:00:00.000Z
+  review_date: 2014-11-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2014-11-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19101-1:2014'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19101:2002 to ISO 19101-1:2014.
+    Lineage source added as ISO 19101:2002.
+  release: '1'
+  terms:
+    - type: expression
+      designation: aplicación
+      normative_status: preferred
+  _revisions:
+    current: a74c1c
+    tree:
+      a74c1c:
+        object:
+          id: 14
+          definition: >-
+            manipulación y procesamiento de datos para satisfacer los
+            requerimientos del usuario
+          language_code: spa
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19101-1:2014'
+            clause: 4.1.1
+            link: 'https://www.iso.org/standard/59164.html'
+          lineage_source: 'ISO 19101:2002'
+          lineage_source_similarity: '1'
+          date_accepted: 2002-07-01T00:00:00.000Z
+          review_date: 2014-11-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2014-11-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19101-1:2014'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19101:2002 to ISO
+            19101-1:2014. Lineage source added as ISO 19101:2002.
+          release: '1'
+          terms:
+            - type: expression
+              designation: aplicación
+              normative_status: preferred
+        parents: []
+        timeCreated: 2002-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+swe:
+  id: 14
+  definition: hantering och bearbetning av data utifrån användarens behov
+  country_code: swe
+  language_code: swe
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19101-1:2014'
+    clause: 4.1.1
+    link: 'https://www.iso.org/standard/59164.html'
+  lineage_source: 'ISO 19101:2002'
+  lineage_source_similarity: '1'
+  date_accepted: 2002-07-01T00:00:00.000Z
+  review_date: 2014-11-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2014-11-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19101-1:2014'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19101:2002 to ISO 19101-1:2014.
+    Lineage source added as ISO 19101:2002.
+  release: '1'
+  terms:
+    - type: expression
+      designation: applikation
+      normative_status: preferred
+  _revisions:
+    current: '454613'
+    tree:
+      '454613':
+        object:
+          id: 14
+          definition: hantering och bearbetning av data utifrån användarens behov
+          country_code: swe
+          language_code: swe
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19101-1:2014'
+            clause: 4.1.1
+            link: 'https://www.iso.org/standard/59164.html'
+          lineage_source: 'ISO 19101:2002'
+          lineage_source_similarity: '1'
+          date_accepted: 2002-07-01T00:00:00.000Z
+          review_date: 2014-11-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2014-11-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19101-1:2014'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19101:2002 to ISO
+            19101-1:2014. Lineage source added as ISO 19101:2002.
+          release: '1'
+          terms:
+            - type: expression
+              designation: applikation
+              normative_status: preferred
+        parents: []
+        timeCreated: 2002-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

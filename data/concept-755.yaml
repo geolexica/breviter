@@ -1,0 +1,721 @@
+term: graphical language
+termid: 755
+eng:
+  id: 755
+  definition: language whose syntax is expressed in terms of graphical symbols
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19101-1:2014'
+    clause: 4.1.21
+    link: 'https://www.iso.org/standard/59164.html'
+  lineage_source: 'ISO 19101:2002'
+  lineage_source_similarity: 1
+  date_accepted: 2002-07-01T00:00:00.000Z
+  review_date: 2010-10-12T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2014-11-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19101-1:2014'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19101:2002 to ISO 19101-1:2014.
+    Lineage source added as ISO 19101:2002.
+  release: '1'
+  terms:
+    - type: expression
+      designation: graphical language
+      normative_status: preferred
+  _revisions:
+    current: b426b8
+    tree:
+      b426b8:
+        object:
+          id: 755
+          definition: language whose syntax is expressed in terms of graphical symbols
+          language_code: eng
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19101-1:2014'
+            clause: 4.1.21
+            link: 'https://www.iso.org/standard/59164.html'
+          lineage_source: 'ISO 19101:2002'
+          lineage_source_similarity: 1
+          date_accepted: 2002-07-01T00:00:00.000Z
+          review_date: 2010-10-12T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2014-11-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19101-1:2014'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19101:2002 to ISO
+            19101-1:2014. Lineage source added as ISO 19101:2002.
+          release: '1'
+          terms:
+            - type: expression
+              designation: graphical language
+              normative_status: preferred
+        parents: []
+        timeCreated: 2002-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+ara:
+  id: 755
+  definition: لغة تصاغ جملها على شكل رموز مرسومة
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19101-1:2014'
+    clause: 4.1.21
+    link: 'https://www.iso.org/standard/59164.html'
+  lineage_source: 'ISO 19101:2002'
+  lineage_source_similarity: 1
+  date_accepted: 2002-07-01T00:00:00.000Z
+  review_date: 2010-10-12T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2014-11-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19101-1:2014'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19101:2002 to ISO 19101-1:2014.
+    Lineage source added as ISO 19101:2002.
+  release: '1'
+  terms:
+    - type: expression
+      designation: لغة الرسم
+      normative_status: preferred
+  _revisions:
+    current: 49a6dd
+    tree:
+      49a6dd:
+        object:
+          id: 755
+          definition: لغة تصاغ جملها على شكل رموز مرسومة
+          language_code: ara
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19101-1:2014'
+            clause: 4.1.21
+            link: 'https://www.iso.org/standard/59164.html'
+          lineage_source: 'ISO 19101:2002'
+          lineage_source_similarity: 1
+          date_accepted: 2002-07-01T00:00:00.000Z
+          review_date: 2010-10-12T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2014-11-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19101-1:2014'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19101:2002 to ISO
+            19101-1:2014. Lineage source added as ISO 19101:2002.
+          release: '1'
+          terms:
+            - type: expression
+              designation: لغة الرسم
+              normative_status: preferred
+        parents: []
+        timeCreated: 2002-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+zho:
+  id: 755
+  definition: 用图形符号表达语法的语言。
+  language_code: zho
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19101-1:2014'
+    clause: 4.1.21
+    link: 'https://www.iso.org/standard/59164.html'
+  lineage_source: 'ISO 19101:2002'
+  lineage_source_similarity: 1
+  date_accepted: 2002-07-01T00:00:00.000Z
+  review_date: 2010-10-12T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2014-11-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19101-1:2014'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19101:2002 to ISO 19101-1:2014.
+    Lineage source added as ISO 19101:2002.
+  release: '1'
+  terms:
+    - type: expression
+      designation: 图形语言
+      normative_status: preferred
+  _revisions:
+    current: 6fd23c
+    tree:
+      6fd23c:
+        object:
+          id: 755
+          definition: 用图形符号表达语法的语言。
+          language_code: zho
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19101-1:2014'
+            clause: 4.1.21
+            link: 'https://www.iso.org/standard/59164.html'
+          lineage_source: 'ISO 19101:2002'
+          lineage_source_similarity: 1
+          date_accepted: 2002-07-01T00:00:00.000Z
+          review_date: 2010-10-12T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2014-11-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19101-1:2014'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19101:2002 to ISO
+            19101-1:2014. Lineage source added as ISO 19101:2002.
+          release: '1'
+          terms:
+            - type: expression
+              designation: 图形语言
+              normative_status: preferred
+        parents: []
+        timeCreated: 2002-07-01T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+dan:
+  id: 755
+  definition: 'sprog, hvis syntaks udtrykkes ved hjælp af grafiske symboler'
+  language_code: dan
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19101-1:2014'
+    clause: 4.1.21
+    link: 'https://www.iso.org/standard/59164.html'
+  lineage_source: 'ISO 19101:2002'
+  lineage_source_similarity: 1
+  date_accepted: 2002-07-01T00:00:00.000Z
+  review_date: 2010-10-12T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2014-11-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19101-1:2014'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19101:2002 to ISO 19101-1:2014.
+    Lineage source added as ISO 19101:2002.
+  release: '1'
+  terms:
+    - type: expression
+      designation: grafisk sprog
+      normative_status: preferred
+  _revisions:
+    current: 6758fe
+    tree:
+      6758fe:
+        object:
+          id: 755
+          definition: 'sprog, hvis syntaks udtrykkes ved hjælp af grafiske symboler'
+          language_code: dan
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19101-1:2014'
+            clause: 4.1.21
+            link: 'https://www.iso.org/standard/59164.html'
+          lineage_source: 'ISO 19101:2002'
+          lineage_source_similarity: 1
+          date_accepted: 2002-07-01T00:00:00.000Z
+          review_date: 2010-10-12T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2014-11-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19101-1:2014'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19101:2002 to ISO
+            19101-1:2014. Lineage source added as ISO 19101:2002.
+          release: '1'
+          terms:
+            - type: expression
+              designation: grafisk sprog
+              normative_status: preferred
+        parents: []
+        timeCreated: 2002-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+fin:
+  id: 755
+  definition: 'kieli, jonka syntaksi on ilmaistu graafisilla symboleilla'
+  language_code: fin
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19101-1:2014'
+    clause: 4.1.21
+    link: 'https://www.iso.org/standard/59164.html'
+  lineage_source: 'ISO 19101:2002'
+  lineage_source_similarity: 1
+  date_accepted: 2002-07-01T00:00:00.000Z
+  review_date: 2010-10-12T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2014-11-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19101-1:2014'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19101:2002 to ISO 19101-1:2014.
+    Lineage source added as ISO 19101:2002.
+  release: '1'
+  terms:
+    - type: expression
+      designation: graafinen kieli
+      normative_status: preferred
+  _revisions:
+    current: 7a7430
+    tree:
+      7a7430:
+        object:
+          id: 755
+          definition: 'kieli, jonka syntaksi on ilmaistu graafisilla symboleilla'
+          language_code: fin
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19101-1:2014'
+            clause: 4.1.21
+            link: 'https://www.iso.org/standard/59164.html'
+          lineage_source: 'ISO 19101:2002'
+          lineage_source_similarity: 1
+          date_accepted: 2002-07-01T00:00:00.000Z
+          review_date: 2010-10-12T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2014-11-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19101-1:2014'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19101:2002 to ISO
+            19101-1:2014. Lineage source added as ISO 19101:2002.
+          release: '1'
+          terms:
+            - type: expression
+              designation: graafinen kieli
+              normative_status: preferred
+        parents: []
+        timeCreated: 2002-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+fra:
+  id: 755
+  definition: langage dont la syntaxe est exprimée en termes de symboles graphiques
+  language_code: fra
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19101-1:2014'
+    clause: 4.1.21
+    link: 'https://www.iso.org/standard/59164.html'
+  lineage_source: 'ISO 19101:2002'
+  lineage_source_similarity: 1
+  date_accepted: 2002-07-01T00:00:00.000Z
+  review_date: 2010-10-12T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2014-11-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19101-1:2014'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19101:2002 to ISO 19101-1:2014.
+    Lineage source added as ISO 19101:2002.
+  release: '1'
+  terms:
+    - type: expression
+      designation: langage graphique
+      normative_status: preferred
+  _revisions:
+    current: ac5f2c
+    tree:
+      ac5f2c:
+        object:
+          id: 755
+          definition: >-
+            langage dont la syntaxe est exprimée en termes de symboles
+            graphiques
+          language_code: fra
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19101-1:2014'
+            clause: 4.1.21
+            link: 'https://www.iso.org/standard/59164.html'
+          lineage_source: 'ISO 19101:2002'
+          lineage_source_similarity: 1
+          date_accepted: 2002-07-01T00:00:00.000Z
+          review_date: 2010-10-12T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2014-11-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19101-1:2014'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19101:2002 to ISO
+            19101-1:2014. Lineage source added as ISO 19101:2002.
+          release: '1'
+          terms:
+            - type: expression
+              designation: langage graphique
+              normative_status: preferred
+        parents: []
+        timeCreated: 2002-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+deu:
+  id: 755
+  language_code: deu
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19101-1:2014'
+    clause: 4.1.21
+    link: 'https://www.iso.org/standard/59164.html'
+  lineage_source: 'ISO 19101:2002'
+  lineage_source_similarity: 1
+  date_accepted: 2002-07-01T00:00:00.000Z
+  review_date: 2010-10-12T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2014-11-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19101-1:2014'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19101:2002 to ISO 19101-1:2014.
+    Lineage source added as ISO 19101:2002.
+  release: '1'
+  terms:
+    - type: expression
+      designation: graphische Sprache
+      normative_status: preferred
+  _revisions:
+    current: 4c51e5
+    tree:
+      4c51e5:
+        object:
+          id: 755
+          language_code: deu
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19101-1:2014'
+            clause: 4.1.21
+            link: 'https://www.iso.org/standard/59164.html'
+          lineage_source: 'ISO 19101:2002'
+          lineage_source_similarity: 1
+          date_accepted: 2002-07-01T00:00:00.000Z
+          review_date: 2010-10-12T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2014-11-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19101-1:2014'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19101:2002 to ISO
+            19101-1:2014. Lineage source added as ISO 19101:2002.
+          release: '1'
+          terms:
+            - type: expression
+              designation: graphische Sprache
+              normative_status: preferred
+        parents: []
+        timeCreated: 2002-07-01T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+kor:
+  id: 755
+  definition: 그래픽 기호를 통해 문법을 표현하는 언어
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19101-1:2014'
+    clause: 4.1.21
+    link: 'https://www.iso.org/standard/59164.html'
+  lineage_source: 'ISO 19101:2002'
+  lineage_source_similarity: 1
+  date_accepted: 2008-12-30T00:00:00.000Z
+  review_date: 2010-10-12T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2014-11-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19101-1:2014'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19101:2002 to ISO 19101-1:2014.
+    Lineage source added as ISO 19101:2002.
+  release: '1'
+  terms:
+    - type: expression
+      designation: 그래픽 언어
+      normative_status: preferred
+  _revisions:
+    current: 7a7294
+    tree:
+      7a7294:
+        object:
+          id: 755
+          definition: 그래픽 기호를 통해 문법을 표현하는 언어
+          language_code: kor
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19101-1:2014'
+            clause: 4.1.21
+            link: 'https://www.iso.org/standard/59164.html'
+          lineage_source: 'ISO 19101:2002'
+          lineage_source_similarity: 1
+          date_accepted: 2008-12-30T00:00:00.000Z
+          review_date: 2010-10-12T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2014-11-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19101-1:2014'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19101:2002 to ISO
+            19101-1:2014. Lineage source added as ISO 19101:2002.
+          release: '1'
+          terms:
+            - type: expression
+              designation: 그래픽 언어
+              normative_status: preferred
+        parents: []
+        timeCreated: 2008-12-30T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 755
+  definition: 'язык, синтаксис которого выражается  посредством графических символов'
+  language_code: rus
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19101-1:2014'
+    clause: 4.1.21
+    link: 'https://www.iso.org/standard/59164.html'
+  lineage_source: 'перевод ИСО 19101-1:2014,'
+  lineage_source_similarity: 1
+  date_accepted: 2002-07-01T00:00:00.000Z
+  review_date: 2010-10-12T00:00:00.000Z
+  review_status: ''
+  review_decision: ''
+  review_decision_date: 2014-11-01T00:00:00.000Z
+  review_decision_event: 'Публикация ИСО19101-1:2014'
+  review_decision_notes: >-
+    Авторитетная ссылка изменена с ISO 19101: 2002 на ISO 19101-1: 2014.
+    Источник происхождения добавлен как ISO 19101: 2002.
+  release: '1'
+  terms:
+    - type: expression
+      designation: графический язык
+      normative_status: preferred
+  _revisions:
+    current: 1fad27
+    tree:
+      1fad27:
+        object:
+          id: 755
+          definition: >-
+            язык, синтаксис которого выражается  посредством графических
+            символов
+          language_code: rus
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19101-1:2014'
+            clause: 4.1.21
+            link: 'https://www.iso.org/standard/59164.html'
+          lineage_source: 'перевод ИСО 19101-1:2014,'
+          lineage_source_similarity: 1
+          date_accepted: 2002-07-01T00:00:00.000Z
+          review_date: 2010-10-12T00:00:00.000Z
+          review_status: ''
+          review_decision: ''
+          review_decision_date: 2014-11-01T00:00:00.000Z
+          review_decision_event: 'Публикация ИСО19101-1:2014'
+          review_decision_notes: >-
+            Авторитетная ссылка изменена с ISO 19101: 2002 на ISO 19101-1: 2014.
+            Источник происхождения добавлен как ISO 19101: 2002.
+          release: '1'
+          terms:
+            - type: expression
+              designation: графический язык
+              normative_status: preferred
+        parents: []
+        timeCreated: 2002-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 755
+  definition: lenguaje cuya sintaxis se expresa en términos de símbolos gráficos
+  language_code: spa
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19101-1:2014'
+    clause: 4.1.21
+    link: 'https://www.iso.org/standard/59164.html'
+  lineage_source: 'ISO 19101:2002'
+  lineage_source_similarity: 1
+  date_accepted: 2002-07-01T00:00:00.000Z
+  review_date: 2010-10-12T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2014-11-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19101-1:2014'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19101:2002 to ISO 19101-1:2014.
+    Lineage source added as ISO 19101:2002.
+  release: '1'
+  terms:
+    - type: expression
+      designation: lenguaje gráfico
+      normative_status: preferred
+  _revisions:
+    current: 1b14b6
+    tree:
+      1b14b6:
+        object:
+          id: 755
+          definition: lenguaje cuya sintaxis se expresa en términos de símbolos gráficos
+          language_code: spa
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19101-1:2014'
+            clause: 4.1.21
+            link: 'https://www.iso.org/standard/59164.html'
+          lineage_source: 'ISO 19101:2002'
+          lineage_source_similarity: 1
+          date_accepted: 2002-07-01T00:00:00.000Z
+          review_date: 2010-10-12T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2014-11-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19101-1:2014'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19101:2002 to ISO
+            19101-1:2014. Lineage source added as ISO 19101:2002.
+          release: '1'
+          terms:
+            - type: expression
+              designation: lenguaje gráfico
+              normative_status: preferred
+        parents: []
+        timeCreated: 2002-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+swe:
+  id: 755
+  definition: språk vars syntax uttrycks med grafiska symboler
+  country_code: swe
+  language_code: swe
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19101-1:2014'
+    clause: 4.1.21
+    link: 'https://www.iso.org/standard/59164.html'
+  lineage_source: 'ISO 19101:2002'
+  lineage_source_similarity: 1
+  date_accepted: 2002-07-01T00:00:00.000Z
+  review_date: 2010-10-12T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2014-11-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19101-1:2014'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19101:2002 to ISO 19101-1:2014.
+    Lineage source added as ISO 19101:2002.
+  release: '1'
+  terms:
+    - type: expression
+      designation: grafiskt språk
+      normative_status: preferred
+  _revisions:
+    current: bf4232
+    tree:
+      bf4232:
+        object:
+          id: 755
+          definition: språk vars syntax uttrycks med grafiska symboler
+          country_code: swe
+          language_code: swe
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19101-1:2014'
+            clause: 4.1.21
+            link: 'https://www.iso.org/standard/59164.html'
+          lineage_source: 'ISO 19101:2002'
+          lineage_source_similarity: 1
+          date_accepted: 2002-07-01T00:00:00.000Z
+          review_date: 2010-10-12T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2014-11-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19101-1:2014'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19101:2002 to ISO
+            19101-1:2014. Lineage source added as ISO 19101:2002.
+          release: '1'
+          terms:
+            - type: expression
+              designation: grafiskt språk
+              normative_status: preferred
+        parents: []
+        timeCreated: 2002-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

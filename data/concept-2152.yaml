@@ -1,0 +1,84 @@
+term: connected
+termid: 2152
+eng:
+  id: 2152
+  definition: >-
+    property of a topological space implying that only the entire space or the
+    empty set are the only subsets which are both open and closed
+  language_code: eng
+  notes:
+    - >-
+      The formal definition of connected is that any pair of locally open sets
+      whose union is the entire space must have a non-empty intersection.  
+      \(\text{a topological space T is connected if and only if } [\forall X,Y
+      \subset T \backepsilon X \cup Y = T] \implies [X \cap Y \ne \emptyset]\)
+      This formal definition is difficult to use. The term path connected,
+      defined below is equivalent for the purposed of this document. The use or
+      "finite precision" coordinates makes sets which are connected but not path
+      connected impossible to represent. In all cases "connected" is used, but
+      "path connected" is easier to test and to visualize.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19107:2019'
+    clause: '(E), 3.11'
+    link: 'https://www.iso.org/standard/66175.html'
+  date_accepted: 2019-12-02T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: 'Publication of document ISO 19107:2019(E)'
+  review_decision_notes: 'This entry supersedes the entry for connected in ISO 19107:2003(E)'
+  release: '5'
+  terms:
+    - type: expression
+      designation: connected
+      normative_status: preferred
+  _revisions:
+    current: a6239d
+    tree:
+      a6239d:
+        object:
+          id: 2152
+          definition: >-
+            property of a topological space implying that only the entire space
+            or the empty set are the only subsets which are both open and closed
+          language_code: eng
+          notes:
+            - >-
+              The formal definition of connected is that any pair of locally
+              open sets whose union is the entire space must have a non-empty
+              intersection.   \(\text{a topological space T is connected if and
+              only if } [\forall X,Y \subset T \backepsilon X \cup Y = T]
+              \implies [X \cap Y \ne \emptyset]\) This formal definition is
+              difficult to use. The term path connected, defined below is
+              equivalent for the purposed of this document. The use or "finite
+              precision" coordinates makes sets which are connected but not path
+              connected impossible to represent. In all cases "connected" is
+              used, but "path connected" is easier to test and to visualize.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19107:2019'
+            clause: '(E), 3.11'
+            link: 'https://www.iso.org/standard/66175.html'
+          date_accepted: 2019-12-02T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: 'Publication of document ISO 19107:2019(E)'
+          review_decision_notes: 'This entry supersedes the entry for connected in ISO 19107:2003(E)'
+          release: '5'
+          terms:
+            - type: expression
+              designation: connected
+              normative_status: preferred
+        parents: []
+        timeCreated: 2019-12-02T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

@@ -1,0 +1,515 @@
+term: pass
+termid: 864
+eng:
+  id: 864
+  definition: >-
+    single instance of a remote, mobile measuring system going by a target of
+    interest
+  language_code: eng
+  notes:
+    - >-
+      In this part of ISO 19115, the measuring system will usually be a remote
+      sensing platform. In a navigation context, the measuring system might be a
+      GPS satellite.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19115-2:2019'
+    clause: '(E), 3.21'
+    link: 'https://www.iso.org/standard/67039.html'
+  lineage_source: 'ISO 19115-2:2009(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2009-02-15T00:00:00.000Z
+  review_date: 2019-01-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-01-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19115-2:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19115-2:2009 to ISO
+    19115-2:2019(E), 3.21. Lineage source added as ISO 19115-2:2009(E)
+  release: '2'
+  terms:
+    - type: expression
+      designation: pass
+      normative_status: preferred
+  _revisions:
+    current: 085ea3
+    tree:
+      085ea3:
+        object:
+          id: 864
+          definition: >-
+            single instance of a remote, mobile measuring system going by a
+            target of interest
+          language_code: eng
+          notes:
+            - >-
+              In this part of ISO 19115, the measuring system will usually be a
+              remote sensing platform. In a navigation context, the measuring
+              system might be a GPS satellite.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19115-2:2019'
+            clause: '(E), 3.21'
+            link: 'https://www.iso.org/standard/67039.html'
+          lineage_source: 'ISO 19115-2:2009(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2009-02-15T00:00:00.000Z
+          review_date: 2019-01-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-01-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19115-2:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19115-2:2009 to ISO
+            19115-2:2019(E), 3.21. Lineage source added as ISO 19115-2:2009(E)
+          release: '2'
+          terms:
+            - type: expression
+              designation: pass
+              normative_status: preferred
+        parents: []
+        timeCreated: 2009-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+ara:
+  id: 864
+  definition: طلب واحد لنظام قياس متجول يسير بهدف مرغوب
+  language_code: ara
+  notes:
+    - >-
+      في هذا الجزء من مقياس الآيزو 19115 ، يكون نظام القياس عادة عبارة عن منصة
+      استشعار عن بعد. أما في السياق الملاحي فقد يكون نظام القياس قمرا صناعيا في
+      خدمة نظام التحديد الكوني GPS .
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19115-2:2019'
+    clause: '(E), 3.21'
+    link: 'https://www.iso.org/standard/67039.html'
+  lineage_source: 'ISO 19115-2:2009(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2009-02-15T00:00:00.000Z
+  review_date: 2019-01-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-01-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19115-2:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19115-2:2009 to ISO
+    19115-2:2019(E), 3.21. Lineage source added as ISO 19115-2:2009(E)
+  release: '2'
+  terms:
+    - type: expression
+      designation: مرّر
+      normative_status: preferred
+  _revisions:
+    current: 74d9c5
+    tree:
+      74d9c5:
+        object:
+          id: 864
+          definition: طلب واحد لنظام قياس متجول يسير بهدف مرغوب
+          language_code: ara
+          notes:
+            - >-
+              في هذا الجزء من مقياس الآيزو 19115 ، يكون نظام القياس عادة عبارة
+              عن منصة استشعار عن بعد. أما في السياق الملاحي فقد يكون نظام القياس
+              قمرا صناعيا في خدمة نظام التحديد الكوني GPS .
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19115-2:2019'
+            clause: '(E), 3.21'
+            link: 'https://www.iso.org/standard/67039.html'
+          lineage_source: 'ISO 19115-2:2009(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2009-02-15T00:00:00.000Z
+          review_date: 2019-01-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-01-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19115-2:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19115-2:2009 to ISO
+            19115-2:2019(E), 3.21. Lineage source added as ISO 19115-2:2009(E)
+          release: '2'
+          terms:
+            - type: expression
+              designation: مرّر
+              normative_status: preferred
+        parents: []
+        timeCreated: 2009-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+deu:
+  id: 864
+  definition: einzelnes Messereignis eines mobilen Messsystems
+  language_code: deu
+  notes:
+    - >-
+      In this part of ISO 19115, the measuring system will usually be a remote
+      sensing platform. In a navigation context, the measuring system might be a
+      GPS satellite.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19115-2:2019'
+    clause: '(E), 3.21'
+    link: 'https://www.iso.org/standard/67039.html'
+  lineage_source: 'ISO 19115-2:2009(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2009-02-15T00:00:00.000Z
+  review_date: 2019-01-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-01-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19115-2:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19115-2:2009 to ISO
+    19115-2:2019(E), 3.21. Lineage source added as ISO 19115-2:2009(E)
+  release: '2'
+  terms:
+    - type: expression
+      designation: Vorbeiflug
+      normative_status: preferred
+  _revisions:
+    current: a5e21c
+    tree:
+      a5e21c:
+        object:
+          id: 864
+          definition: einzelnes Messereignis eines mobilen Messsystems
+          language_code: deu
+          notes:
+            - >-
+              In this part of ISO 19115, the measuring system will usually be a
+              remote sensing platform. In a navigation context, the measuring
+              system might be a GPS satellite.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19115-2:2019'
+            clause: '(E), 3.21'
+            link: 'https://www.iso.org/standard/67039.html'
+          lineage_source: 'ISO 19115-2:2009(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2009-02-15T00:00:00.000Z
+          review_date: 2019-01-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-01-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19115-2:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19115-2:2009 to ISO
+            19115-2:2019(E), 3.21. Lineage source added as ISO 19115-2:2009(E)
+          release: '2'
+          terms:
+            - type: expression
+              designation: Vorbeiflug
+              normative_status: preferred
+        parents: []
+        timeCreated: 2009-02-15T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+kor:
+  id: 864
+  definition: 관심 목표를 지나치는 원격 이동 측정 시스템의 단일 사례
+  language_code: kor
+  notes:
+    - >-
+      In this part of ISO 19115, the measuring system will usually be a remote
+      sensing platform. In a navigation context, the measuring system might be a
+      GPS satellite.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19115-2:2019'
+    clause: '(E), 3.21'
+    link: 'https://www.iso.org/standard/67039.html'
+  lineage_source: 'ISO 19115-2:2009(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2009-02-15T00:00:00.000Z
+  review_date: 2019-01-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-01-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19115-2:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19115-2:2009 to ISO
+    19115-2:2019(E), 3.21. Lineage source added as ISO 19115-2:2009(E)
+  release: '2'
+  terms:
+    - type: expression
+      designation: 통과
+      normative_status: preferred
+  _revisions:
+    current: cea0ca
+    tree:
+      cea0ca:
+        object:
+          id: 864
+          definition: 관심 목표를 지나치는 원격 이동 측정 시스템의 단일 사례
+          language_code: kor
+          notes:
+            - >-
+              In this part of ISO 19115, the measuring system will usually be a
+              remote sensing platform. In a navigation context, the measuring
+              system might be a GPS satellite.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19115-2:2019'
+            clause: '(E), 3.21'
+            link: 'https://www.iso.org/standard/67039.html'
+          lineage_source: 'ISO 19115-2:2009(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2009-02-15T00:00:00.000Z
+          review_date: 2019-01-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-01-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19115-2:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19115-2:2009 to ISO
+            19115-2:2019(E), 3.21. Lineage source added as ISO 19115-2:2009(E)
+          release: '2'
+          terms:
+            - type: expression
+              designation: 통과
+              normative_status: preferred
+        parents: []
+        timeCreated: 2009-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+msa:
+  id: 864
+  definition: >-
+    satu contoh sistem pengukur mudah alih yang terpencil yang dilakukan oleh
+    sasaran tertentu
+  language_code: msa
+  notes:
+    - >-
+      In this part of ISO 19115, the measuring system will usually be a remote
+      sensing platform. In a navigation context, the measuring system might be a
+      GPS satellite.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19115-2:2019'
+    clause: '(E), 3.21'
+    link: 'https://www.iso.org/standard/67039.html'
+  lineage_source: 'ISO 19115-2:2009(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2009-02-15T00:00:00.000Z
+  review_date: 2019-01-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-01-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19115-2:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19115-2:2009 to ISO
+    19115-2:2019(E), 3.21. Lineage source added as ISO 19115-2:2009(E)
+  release: '2'
+  terms:
+    - type: expression
+      designation: lulus; laluan; genting; pas
+      normative_status: preferred
+  _revisions:
+    current: d5e1bc
+    tree:
+      d5e1bc:
+        object:
+          id: 864
+          definition: >-
+            satu contoh sistem pengukur mudah alih yang terpencil yang dilakukan
+            oleh sasaran tertentu
+          language_code: msa
+          notes:
+            - >-
+              In this part of ISO 19115, the measuring system will usually be a
+              remote sensing platform. In a navigation context, the measuring
+              system might be a GPS satellite.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19115-2:2019'
+            clause: '(E), 3.21'
+            link: 'https://www.iso.org/standard/67039.html'
+          lineage_source: 'ISO 19115-2:2009(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2009-02-15T00:00:00.000Z
+          review_date: 2019-01-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-01-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19115-2:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19115-2:2009 to ISO
+            19115-2:2019(E), 3.21. Lineage source added as ISO 19115-2:2009(E)
+          release: '2'
+          terms:
+            - type: expression
+              designation: lulus; laluan; genting; pas
+              normative_status: preferred
+        parents: []
+        timeCreated: 2009-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 864
+  definition: >-
+    отдельный случай прохождения мобильной системы измерения, по направлению к
+    интересующей цели
+  language_code: rus
+  notes:
+    - >-
+      В этой части ISO 19115 система измерения обычно будет платформой
+      дистанционного зондирования. В навигационном контексте система измерения
+      могла бы быть спутником GPS.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19115-2:2019'
+    clause: '(E), 3.21'
+    link: 'https://www.iso.org/standard/67039.html'
+  lineage_source: 'ISO 19115-2:2009(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2009-02-15T00:00:00.000Z
+  review_date: 2019-01-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-01-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19115-2:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19115-2:2009 to ISO
+    19115-2:2019(E), 3.21. Lineage source added as ISO 19115-2:2009(E)
+  release: '2'
+  terms:
+    - type: expression
+      designation: проход
+      normative_status: preferred
+  _revisions:
+    current: f71370
+    tree:
+      f71370:
+        object:
+          id: 864
+          definition: >-
+            отдельный случай прохождения мобильной системы измерения, по
+            направлению к интересующей цели
+          language_code: rus
+          notes:
+            - >-
+              В этой части ISO 19115 система измерения обычно будет платформой
+              дистанционного зондирования. В навигационном контексте система
+              измерения могла бы быть спутником GPS.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19115-2:2019'
+            clause: '(E), 3.21'
+            link: 'https://www.iso.org/standard/67039.html'
+          lineage_source: 'ISO 19115-2:2009(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2009-02-15T00:00:00.000Z
+          review_date: 2019-01-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-01-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19115-2:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19115-2:2009 to ISO
+            19115-2:2019(E), 3.21. Lineage source added as ISO 19115-2:2009(E)
+          release: '2'
+          terms:
+            - type: expression
+              designation: проход
+              normative_status: preferred
+        parents: []
+        timeCreated: 2009-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 864
+  definition: >-
+    instancia única de un sistema de medición remoto y móvil que pasa por un
+    objetivo de interés
+  language_code: spa
+  notes:
+    - >-
+      En esta parte de la Norma ISO 19115, los sistemas de medida serán
+      normalmente una plataforma de teledetección. En un contexto de navegación
+      el sistema de medida puede ser un satélite GPS
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19115-2:2019'
+    clause: '(E), 3.21'
+    link: 'https://www.iso.org/standard/67039.html'
+  lineage_source: 'ISO 19115-2:2009(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2009-02-15T00:00:00.000Z
+  review_date: 2019-01-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-01-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19115-2:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19115-2:2009 to ISO
+    19115-2:2019(E), 3.21. Lineage source added as ISO 19115-2:2009(E)
+  release: '2'
+  terms:
+    - type: expression
+      designation: pasada
+      normative_status: preferred
+  _revisions:
+    current: 3edfba
+    tree:
+      3edfba:
+        object:
+          id: 864
+          definition: >-
+            instancia única de un sistema de medición remoto y móvil que pasa
+            por un objetivo de interés
+          language_code: spa
+          notes:
+            - >-
+              En esta parte de la Norma ISO 19115, los sistemas de medida serán
+              normalmente una plataforma de teledetección. En un contexto de
+              navegación el sistema de medida puede ser un satélite GPS
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19115-2:2019'
+            clause: '(E), 3.21'
+            link: 'https://www.iso.org/standard/67039.html'
+          lineage_source: 'ISO 19115-2:2009(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2009-02-15T00:00:00.000Z
+          review_date: 2019-01-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-01-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19115-2:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19115-2:2009 to ISO
+            19115-2:2019(E), 3.21. Lineage source added as ISO 19115-2:2009(E)
+          release: '2'
+          terms:
+            - type: expression
+              designation: pasada
+              normative_status: preferred
+        parents: []
+        timeCreated: 2009-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

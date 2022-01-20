@@ -1,0 +1,542 @@
+term: temporal coordinate
+termid: 445
+eng:
+  id: 445
+  definition: >-
+    distance from the origin of the interval scale used as the basis for a
+    temporal coordinate system
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19108:2002'
+    link: 'https://www.iso.org/standard/26013.html'
+  date_accepted: 2002-09-01T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: temporal coordinate
+      normative_status: preferred
+  _revisions:
+    current: bdbd4d
+    tree:
+      bdbd4d:
+        object:
+          id: 445
+          definition: >-
+            distance from the origin of the interval scale used as the basis for
+            a temporal coordinate system
+          language_code: eng
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19108:2002'
+            link: 'https://www.iso.org/standard/26013.html'
+          date_accepted: 2002-09-01T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: temporal coordinate
+              normative_status: preferred
+        parents: []
+        timeCreated: 2002-09-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+ara:
+  id: 445
+  definition: المسافة من نقطة بداية المقياس الزمني المستخدم كأساس لنظام إحداثيات زمني
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19108:2002'
+    link: 'https://www.iso.org/standard/26013.html'
+  date_accepted: 2002-09-01T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: إحداثي زمني
+      normative_status: preferred
+  _revisions:
+    current: 9b927e
+    tree:
+      9b927e:
+        object:
+          id: 445
+          definition: >-
+            المسافة من نقطة بداية المقياس الزمني المستخدم كأساس لنظام إحداثيات
+            زمني
+          language_code: ara
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19108:2002'
+            link: 'https://www.iso.org/standard/26013.html'
+          date_accepted: 2002-09-01T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: إحداثي زمني
+              normative_status: preferred
+        parents: []
+        timeCreated: 2002-09-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+zho:
+  id: 445
+  definition: 到作为时间坐标系的基础的间隔标度原点的距离。
+  language_code: zho
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19108:2002'
+    link: 'https://www.iso.org/standard/26013.html'
+  date_accepted: 2002-09-01T00:00:00.000Z
+  terms:
+    - type: expression
+      designation: 时间坐标
+      normative_status: preferred
+  _revisions:
+    current: d3e7f9
+    tree:
+      d3e7f9:
+        object:
+          id: 445
+          definition: 到作为时间坐标系的基础的间隔标度原点的距离。
+          language_code: zho
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19108:2002'
+            link: 'https://www.iso.org/standard/26013.html'
+          date_accepted: 2002-09-01T00:00:00.000Z
+          terms:
+            - type: expression
+              designation: 时间坐标
+              normative_status: preferred
+        parents: []
+        timeCreated: 2002-09-01T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+fin:
+  id: 445
+  definition: etäisyys aikakoordinaatiston perustana toimivan asteikon nollapisteestä
+  language_code: fin
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19108:2002'
+    link: 'https://www.iso.org/standard/26013.html'
+  lineage_source: 'Ei lähdettä, käännetty'
+  date_accepted: 2002-09-01T00:00:00.000Z
+  terms:
+    - type: expression
+      designation: aikakoordinaatti
+      normative_status: preferred
+  _revisions:
+    current: e9693f
+    tree:
+      e9693f:
+        object:
+          id: 445
+          definition: >-
+            etäisyys aikakoordinaatiston perustana toimivan asteikon
+            nollapisteestä
+          language_code: fin
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19108:2002'
+            link: 'https://www.iso.org/standard/26013.html'
+          lineage_source: 'Ei lähdettä, käännetty'
+          date_accepted: 2002-09-01T00:00:00.000Z
+          terms:
+            - type: expression
+              designation: aikakoordinaatti
+              normative_status: preferred
+        parents: []
+        timeCreated: 2002-09-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+fra:
+  id: 445
+  definition: >-
+    distance par rapport à l'origine de l'échelle d'intervalle utilisée comme
+    base pour un système de coordonnées temporel
+  language_code: fra
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: ISO 19108
+    link: 'https://www.iso.org/standard/26013.html'
+  lineage_source: ''
+  date_accepted: 2002-09-01T00:00:00.000Z
+  terms:
+    - type: expression
+      designation: coordonnée temporelle
+      normative_status: preferred
+  _revisions:
+    current: fc29e3
+    tree:
+      fc29e3:
+        object:
+          id: 445
+          definition: >-
+            distance par rapport à l'origine de l'échelle d'intervalle utilisée
+            comme base pour un système de coordonnées temporel
+          language_code: fra
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: ISO 19108
+            link: 'https://www.iso.org/standard/26013.html'
+          lineage_source: ''
+          date_accepted: 2002-09-01T00:00:00.000Z
+          terms:
+            - type: expression
+              designation: coordonnée temporelle
+              normative_status: preferred
+        parents: []
+        timeCreated: 2002-09-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+deu:
+  id: 445
+  language_code: deu
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19108:2002'
+    link: 'https://www.iso.org/standard/26013.html'
+  date_accepted: 2002-09-01T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: zeitbezogene Koordinate
+      normative_status: preferred
+  _revisions:
+    current: ed371d
+    tree:
+      ed371d:
+        object:
+          id: 445
+          language_code: deu
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19108:2002'
+            link: 'https://www.iso.org/standard/26013.html'
+          date_accepted: 2002-09-01T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: zeitbezogene Koordinate
+              normative_status: preferred
+        parents: []
+        timeCreated: 2002-09-01T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+jpn:
+  id: 445
+  definition: 時間座標系の基礎として使用する間隔尺度の原点からの距離。
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19108:2002'
+    link: 'https://www.iso.org/standard/26013.html'
+  lineage_source: JIS X 7108
+  date_accepted: 2002-09-01T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: 時間座標
+      normative_status: preferred
+  _revisions:
+    current: 66b2e2
+    tree:
+      66b2e2:
+        object:
+          id: 445
+          definition: 時間座標系の基礎として使用する間隔尺度の原点からの距離。
+          language_code: jpn
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19108:2002'
+            link: 'https://www.iso.org/standard/26013.html'
+          lineage_source: JIS X 7108
+          date_accepted: 2002-09-01T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: 時間座標
+              normative_status: preferred
+        parents: []
+        timeCreated: 2002-09-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+kor:
+  id: 445
+  definition: 시간 좌표계에 근거하여 사용되는 간격 척도의 원점으로부터의 거리
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19108:2002'
+    link: 'https://www.iso.org/standard/26013.html'
+  lineage_source: KS X ISO 19108
+  date_accepted: 2007-11-01T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: 시간 좌표
+      normative_status: preferred
+  _revisions:
+    current: 6254f0
+    tree:
+      6254f0:
+        object:
+          id: 445
+          definition: 시간 좌표계에 근거하여 사용되는 간격 척도의 원점으로부터의 거리
+          language_code: kor
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19108:2002'
+            link: 'https://www.iso.org/standard/26013.html'
+          lineage_source: KS X ISO 19108
+          date_accepted: 2007-11-01T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: 시간 좌표
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-11-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+pol:
+  id: 445
+  definition: >-
+    odległość od początku skali interwałowej przyjętej za podstawę układu
+    współrzędnych czasowych
+  language_code: pol
+  notes: []
+  examples: []
+  authoritative_source:
+    ref: 'ISO 19108:2002'
+    link: 'https://www.iso.org/standard/26013.html'
+  lineage_source: PN-EN ISO 19108
+  date_accepted: 2002-09-01T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: współrzędna czasowa
+      normative_status: preferred
+  _revisions:
+    current: 2a1954
+    tree:
+      2a1954:
+        object:
+          id: 445
+          definition: >-
+            odległość od początku skali interwałowej przyjętej za podstawę
+            układu współrzędnych czasowych
+          language_code: pol
+          notes: []
+          examples: []
+          authoritative_source:
+            ref: 'ISO 19108:2002'
+            link: 'https://www.iso.org/standard/26013.html'
+          lineage_source: PN-EN ISO 19108
+          date_accepted: 2002-09-01T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: współrzędna czasowa
+              normative_status: preferred
+        parents: []
+        timeCreated: 2002-09-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 445
+  definition: >-
+    промежуток времени, отмеряемый от начального момента, используемого в
+    качестве основы временнóй системы координат
+  language_code: rus
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19108:2002'
+    link: 'https://www.iso.org/standard/26013.html'
+  lineage_source: Internet
+  date_accepted: 2002-09-01T00:00:00.000Z
+  terms:
+    - type: expression
+      designation: 'координата [шкала] времени'
+      normative_status: preferred
+  _revisions:
+    current: 6bd2c2
+    tree:
+      6bd2c2:
+        object:
+          id: 445
+          definition: >-
+            промежуток времени, отмеряемый от начального момента, используемого
+            в качестве основы временнóй системы координат
+          language_code: rus
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19108:2002'
+            link: 'https://www.iso.org/standard/26013.html'
+          lineage_source: Internet
+          date_accepted: 2002-09-01T00:00:00.000Z
+          terms:
+            - type: expression
+              designation: 'координата [шкала] времени'
+              normative_status: preferred
+        parents: []
+        timeCreated: 2002-09-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 445
+  definition: >-
+    distancia desde el origen de la escala de intervalo, utilizada como base del
+    sistema de coordenadas temporales
+  language_code: spa
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19108:2002'
+    link: 'https://www.iso.org/standard/26013.html'
+  date_accepted: 2002-09-01T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: coordenada temporal
+      normative_status: preferred
+  _revisions:
+    current: 6b4ccc
+    tree:
+      6b4ccc:
+        object:
+          id: 445
+          definition: >-
+            distancia desde el origen de la escala de intervalo, utilizada como
+            base del sistema de coordenadas temporales
+          language_code: spa
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19108:2002'
+            link: 'https://www.iso.org/standard/26013.html'
+          date_accepted: 2002-09-01T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: coordenada temporal
+              normative_status: preferred
+        parents: []
+        timeCreated: 2002-09-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+swe:
+  id: 445
+  definition: koordinat som anger tid relativt origo i ett temporalt koordinatsystem
+  country_code: swe
+  language_code: swe
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19108:2002'
+    link: 'https://www.iso.org/standard/26013.html'
+  lineage_source: (Type reference to national language document)
+  date_accepted: 2002-09-01T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: tidskoordinat
+      normative_status: preferred
+  _revisions:
+    current: 7e629e
+    tree:
+      7e629e:
+        object:
+          id: 445
+          definition: >-
+            koordinat som anger tid relativt origo i ett temporalt
+            koordinatsystem
+          country_code: swe
+          language_code: swe
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19108:2002'
+            link: 'https://www.iso.org/standard/26013.html'
+          lineage_source: (Type reference to national language document)
+          date_accepted: 2002-09-01T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: tidskoordinat
+              normative_status: preferred
+        parents: []
+        timeCreated: 2002-09-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

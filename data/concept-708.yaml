@@ -1,0 +1,742 @@
+term: geodetic datum
+termid: 708
+eng:
+  id: 708
+  definition: >-
+    datum describing the relationship of a two- or three-dimensional coordinate
+    system to the Earth
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19111:2007'
+    link: 'https://www.iso.org/standard/41126.html'
+  date_accepted: 2007-07-01T00:00:00.000Z
+  review_date: 2017-06-28T00:00:00.000Z
+  review_status: pending
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2007-07-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19111:2007'
+  release: '1'
+  terms:
+    - type: expression
+      designation: geodetic datum
+      normative_status: preferred
+  _revisions:
+    current: 4a525c
+    tree:
+      4a525c:
+        object:
+          id: 708
+          definition: >-
+            datum describing the relationship of a two- or three-dimensional
+            coordinate system to the Earth
+          language_code: eng
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19111:2007'
+            link: 'https://www.iso.org/standard/41126.html'
+          date_accepted: 2007-07-01T00:00:00.000Z
+          review_date: 2017-06-28T00:00:00.000Z
+          review_status: pending
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2007-07-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19111:2007'
+          release: '1'
+          terms:
+            - type: expression
+              designation: geodetic datum
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+ara:
+  id: 708
+  definition: مرجع إسناد يصف علاقة نظام إحداثيات ثنائي الأبعاد أو ثلاثي الأبعاد بالأرض
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19111:2007'
+    link: 'https://www.iso.org/standard/41126.html'
+  date_accepted: 2007-07-01T00:00:00.000Z
+  review_date: 2017-06-28T00:00:00.000Z
+  review_status: pending
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2007-07-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19111:2007'
+  release: '1'
+  terms:
+    - type: expression
+      designation: مرجع الإسناد الجيوديسي
+      normative_status: preferred
+  _revisions:
+    current: 31a059
+    tree:
+      31a059:
+        object:
+          id: 708
+          definition: >-
+            مرجع إسناد يصف علاقة نظام إحداثيات ثنائي الأبعاد أو ثلاثي الأبعاد
+            بالأرض
+          language_code: ara
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19111:2007'
+            link: 'https://www.iso.org/standard/41126.html'
+          date_accepted: 2007-07-01T00:00:00.000Z
+          review_date: 2017-06-28T00:00:00.000Z
+          review_status: pending
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2007-07-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19111:2007'
+          release: '1'
+          terms:
+            - type: expression
+              designation: مرجع الإسناد الجيوديسي
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+zho:
+  id: 708
+  definition: 描述地球二维或三维坐标系关系的基准。
+  language_code: zho
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19111:2007'
+    link: 'https://www.iso.org/standard/41126.html'
+  date_accepted: 2007-07-01T00:00:00.000Z
+  review_date: 2017-06-28T00:00:00.000Z
+  review_status: pending
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2007-07-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19111:2007'
+  release: '1'
+  terms:
+    - type: expression
+      designation: 大地基准
+      normative_status: preferred
+  _revisions:
+    current: 2b2b16
+    tree:
+      2b2b16:
+        object:
+          id: 708
+          definition: 描述地球二维或三维坐标系关系的基准。
+          language_code: zho
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19111:2007'
+            link: 'https://www.iso.org/standard/41126.html'
+          date_accepted: 2007-07-01T00:00:00.000Z
+          review_date: 2017-06-28T00:00:00.000Z
+          review_status: pending
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2007-07-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19111:2007'
+          release: '1'
+          terms:
+            - type: expression
+              designation: 大地基准
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-07-01T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+dan:
+  id: 708
+  definition: 'datum, der beskriver relationen mellem et koordinatsystem og jorden'
+  language_code: dan
+  notes:
+    - >-
+      I de fleste tilfælde indeholder det geodætiske datum en
+      ellipsoidedefinition.
+  examples: []
+  authoritative_source:
+    ref: 'ISO 19111:2007'
+    link: 'https://www.iso.org/standard/41126.html'
+  date_accepted: 2007-07-01T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: geodætisk datum
+      normative_status: null
+  _revisions:
+    current: cd60b7
+    tree:
+      cd60b7:
+        object:
+          id: 708
+          definition: 'datum, der beskriver relationen mellem et koordinatsystem og jorden'
+          language_code: dan
+          notes:
+            - >-
+              I de fleste tilfælde indeholder det geodætiske datum en
+              ellipsoidedefinition.
+          examples: []
+          authoritative_source:
+            ref: 'ISO 19111:2007'
+            link: 'https://www.iso.org/standard/41126.html'
+          date_accepted: 2007-07-01T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: geodætisk datum
+              normative_status: null
+        parents: []
+        timeCreated: 2007-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+nld:
+  id: 708
+  definition: >-
+    datum welke de relatie tussen een twee- of driedimensionaal
+    coördinaatsysteem ten opzichte van de aarde beschrijft
+  language_code: nld
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19111:2007'
+    link: 'https://www.iso.org/standard/41126.html'
+  date_accepted: 2007-07-01T00:00:00.000Z
+  review_date: 2017-06-28T00:00:00.000Z
+  review_status: pending
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2007-07-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19111:2007'
+  release: '1'
+  terms:
+    - type: expression
+      designation: geodetisch datum
+      normative_status: preferred
+  _revisions:
+    current: 54f6d8
+    tree:
+      54f6d8:
+        object:
+          id: 708
+          definition: >-
+            datum welke de relatie tussen een twee- of driedimensionaal
+            coördinaatsysteem ten opzichte van de aarde beschrijft
+          language_code: nld
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19111:2007'
+            link: 'https://www.iso.org/standard/41126.html'
+          date_accepted: 2007-07-01T00:00:00.000Z
+          review_date: 2017-06-28T00:00:00.000Z
+          review_status: pending
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2007-07-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19111:2007'
+          release: '1'
+          terms:
+            - type: expression
+              designation: geodetisch datum
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-07-01T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+fin:
+  id: 708
+  definition: >-
+    datumi, joka kuvaa kaksi- tai kolmiulotteisen koordinaatiston suhdetta
+    Maahan
+  language_code: fin
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19111:2007'
+    link: 'https://www.iso.org/standard/41126.html'
+  date_accepted: 2007-07-01T00:00:00.000Z
+  review_date: 2017-06-28T00:00:00.000Z
+  review_status: pending
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2007-07-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19111:2007'
+  release: '1'
+  terms:
+    - type: expression
+      designation: geodeettinen datumi
+      normative_status: preferred
+  _revisions:
+    current: 2fd223
+    tree:
+      2fd223:
+        object:
+          id: 708
+          definition: >-
+            datumi, joka kuvaa kaksi- tai kolmiulotteisen koordinaatiston
+            suhdetta Maahan
+          language_code: fin
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19111:2007'
+            link: 'https://www.iso.org/standard/41126.html'
+          date_accepted: 2007-07-01T00:00:00.000Z
+          review_date: 2017-06-28T00:00:00.000Z
+          review_status: pending
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2007-07-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19111:2007'
+          release: '1'
+          terms:
+            - type: expression
+              designation: geodeettinen datumi
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+fra:
+  id: 708
+  definition: >-
+    référentiel décrivant la relation entre un système de coordonnées à deux ou
+    trois dimensions et la Terre
+  language_code: fra
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19111:2007'
+    link: 'https://www.iso.org/standard/41126.html'
+  date_accepted: 2007-07-01T00:00:00.000Z
+  review_date: 2017-06-28T00:00:00.000Z
+  review_status: pending
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2007-07-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19111:2007'
+  release: '1'
+  terms:
+    - type: expression
+      designation: référentiel géodésique
+      normative_status: preferred
+  _revisions:
+    current: 8418a0
+    tree:
+      8418a0:
+        object:
+          id: 708
+          definition: >-
+            référentiel décrivant la relation entre un système de coordonnées à
+            deux ou trois dimensions et la Terre
+          language_code: fra
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19111:2007'
+            link: 'https://www.iso.org/standard/41126.html'
+          date_accepted: 2007-07-01T00:00:00.000Z
+          review_date: 2017-06-28T00:00:00.000Z
+          review_status: pending
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2007-07-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19111:2007'
+          release: '1'
+          terms:
+            - type: expression
+              designation: référentiel géodésique
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+deu:
+  id: 708
+  definition: >-
+    Datum, das die Beziehung eines zwei- oder dreidimensionalen
+    Koordinatensystems zur Erde beschreibt
+  language_code: deu
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19111:2007'
+    link: 'https://www.iso.org/standard/41126.html'
+  date_accepted: 2007-07-01T00:00:00.000Z
+  review_date: 2017-06-28T00:00:00.000Z
+  review_status: pending
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2007-07-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19111:2007'
+  release: '1'
+  terms:
+    - type: expression
+      designation: geodätisches Datum
+      normative_status: preferred
+  _revisions:
+    current: 6c2c19
+    tree:
+      6c2c19:
+        object:
+          id: 708
+          definition: >-
+            Datum, das die Beziehung eines zwei- oder dreidimensionalen
+            Koordinatensystems zur Erde beschreibt
+          language_code: deu
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19111:2007'
+            link: 'https://www.iso.org/standard/41126.html'
+          date_accepted: 2007-07-01T00:00:00.000Z
+          review_date: 2017-06-28T00:00:00.000Z
+          review_status: pending
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2007-07-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19111:2007'
+          release: '1'
+          terms:
+            - type: expression
+              designation: geodätisches Datum
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-07-01T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+kor:
+  id: 708
+  definition: 지구에 대한 2차원 또는 3차원 좌표 체계의 관계를 기술하는 데이텀
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19111:2007'
+    link: 'https://www.iso.org/standard/41126.html'
+  date_accepted: 2007-07-01T00:00:00.000Z
+  review_date: 2017-06-28T00:00:00.000Z
+  review_status: pending
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2007-07-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19111:2007'
+  release: '1'
+  terms:
+    - type: expression
+      designation: 측지 원점
+      normative_status: preferred
+    - designation: 측지 데이텀
+      type: expression
+  _revisions:
+    current: 1478bf
+    tree:
+      1478bf:
+        object:
+          id: 708
+          definition: 지구에 대한 2차원 또는 3차원 좌표 체계의 관계를 기술하는 데이텀
+          language_code: kor
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19111:2007'
+            link: 'https://www.iso.org/standard/41126.html'
+          date_accepted: 2007-07-01T00:00:00.000Z
+          review_date: 2017-06-28T00:00:00.000Z
+          review_status: pending
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2007-07-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19111:2007'
+          release: '1'
+          terms:
+            - type: expression
+              designation: 측지 원점
+              normative_status: preferred
+            - designation: 측지 데이텀
+              type: expression
+        parents: []
+        timeCreated: 2007-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+pol:
+  id: 708
+  definition: >-
+    układ odniesienia opisujący związek dwu lub trójwymiarowego układu
+    współrzędnych z Ziemią
+  language_code: pol
+  notes: []
+  examples: []
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19111:2007'
+    link: 'https://www.iso.org/standard/41126.html'
+  date_accepted: 2007-07-01T00:00:00.000Z
+  review_date: 2017-06-28T00:00:00.000Z
+  review_status: pending
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2007-07-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19111:2007'
+  release: '1'
+  terms:
+    - type: expression
+      designation: geodezyjny układ odniesienia
+      normative_status: preferred
+  _revisions:
+    current: 971ccc
+    tree:
+      971ccc:
+        object:
+          id: 708
+          definition: >-
+            układ odniesienia opisujący związek dwu lub trójwymiarowego układu
+            współrzędnych z Ziemią
+          language_code: pol
+          notes: []
+          examples: []
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19111:2007'
+            link: 'https://www.iso.org/standard/41126.html'
+          date_accepted: 2007-07-01T00:00:00.000Z
+          review_date: 2017-06-28T00:00:00.000Z
+          review_status: pending
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2007-07-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19111:2007'
+          release: '1'
+          terms:
+            - type: expression
+              designation: geodezyjny układ odniesienia
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 708
+  definition: 'набор параметров, описывающих связь координатной системы с Землей'
+  language_code: rus
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19111:2007'
+    link: 'https://www.iso.org/standard/41126.html'
+  lineage_source: ГОСТ Р 52572-2006
+  date_accepted: 2007-07-01T00:00:00.000Z
+  terms:
+    - type: expression
+      designation: геодезические даты
+      normative_status: preferred
+  _revisions:
+    current: a8310d
+    tree:
+      a8310d:
+        object:
+          id: 708
+          definition: 'набор параметров, описывающих связь координатной системы с Землей'
+          language_code: rus
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19111:2007'
+            link: 'https://www.iso.org/standard/41126.html'
+          lineage_source: ГОСТ Р 52572-2006
+          date_accepted: 2007-07-01T00:00:00.000Z
+          terms:
+            - type: expression
+              designation: геодезические даты
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 708
+  definition: >-
+    datum que describe la relación de un sistema de coordenadas bi o
+    tridimensional con la Tierra
+  language_code: spa
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19111:2007'
+    link: 'https://www.iso.org/standard/41126.html'
+  date_accepted: 2007-07-01T00:00:00.000Z
+  review_date: 2017-06-28T00:00:00.000Z
+  review_status: pending
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2007-07-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19111:2007'
+  release: '1'
+  terms:
+    - type: expression
+      designation: datum geodésico
+      normative_status: preferred
+  _revisions:
+    current: 1a40ef
+    tree:
+      1a40ef:
+        object:
+          id: 708
+          definition: >-
+            datum que describe la relación de un sistema de coordenadas bi o
+            tridimensional con la Tierra
+          language_code: spa
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19111:2007'
+            link: 'https://www.iso.org/standard/41126.html'
+          date_accepted: 2007-07-01T00:00:00.000Z
+          review_date: 2017-06-28T00:00:00.000Z
+          review_status: pending
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2007-07-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19111:2007'
+          release: '1'
+          terms:
+            - type: expression
+              designation: datum geodésico
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+swe:
+  id: 708
+  definition: >-
+    en uppsättning parametrar som beskriver relationen mellan ett referenssystem
+    och den fysiska jorden
+  country_code: swe
+  language_code: swe
+  notes:
+    - >-
+      I de flesta fall innehåller det geodetiska datumet även en definition av
+      ellipsoiden                                                                                                                                                                
+      I
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19111:2007'
+    link: 'https://www.iso.org/standard/41126.html'
+  date_accepted: 2007-07-01T00:00:00.000Z
+  review_date: 2017-06-28T00:00:00.000Z
+  review_status: pending
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2007-07-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19111:2007'
+  release: '1'
+  terms:
+    - type: expression
+      designation: geodetiskt datum
+      normative_status: preferred
+  _revisions:
+    current: bb799f
+    tree:
+      bb799f:
+        object:
+          id: 708
+          definition: >-
+            en uppsättning parametrar som beskriver relationen mellan ett
+            referenssystem och den fysiska jorden
+          country_code: swe
+          language_code: swe
+          notes:
+            - >-
+              I de flesta fall innehåller det geodetiska datumet även en
+              definition av
+              ellipsoiden                                                                                                                                                                
+              I
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19111:2007'
+            link: 'https://www.iso.org/standard/41126.html'
+          date_accepted: 2007-07-01T00:00:00.000Z
+          review_date: 2017-06-28T00:00:00.000Z
+          review_status: pending
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2007-07-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19111:2007'
+          release: '1'
+          terms:
+            - type: expression
+              designation: geodetiskt datum
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

@@ -1,0 +1,463 @@
+term: parametric datum
+termid: 843
+eng:
+  id: 843
+  definition: >-
+    datum describing the relationship of a parametric coordinate system to an
+    object
+  language_code: eng
+  notes:
+    - The object is normally the Earth.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19111:2019'
+    clause: '(E), 3.1.47'
+    link: 'https://www.iso.org/standard/74039.html'
+  lineage_source: 'ISO 19111-2:2009, 4.3'
+  date_accepted: 2009-08-15T00:00:00.000Z
+  review_date: 2017-06-28T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-01-31T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19111:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19111-2:2009 to ISO 19111:2019(E),
+    3.1.47. Lineage source added as ISO 19111-2:2009, 4.3
+  release: '2'
+  terms:
+    - type: expression
+      designation: parametric datum
+      normative_status: preferred
+  _revisions:
+    current: c12248
+    tree:
+      c12248:
+        object:
+          id: 843
+          definition: >-
+            datum describing the relationship of a parametric coordinate system
+            to an object
+          language_code: eng
+          notes:
+            - The object is normally the Earth.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19111:2019'
+            clause: '(E), 3.1.47'
+            link: 'https://www.iso.org/standard/74039.html'
+          lineage_source: 'ISO 19111-2:2009, 4.3'
+          date_accepted: 2009-08-15T00:00:00.000Z
+          review_date: 2017-06-28T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-01-31T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19111:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19111-2:2009 to ISO
+            19111:2019(E), 3.1.47. Lineage source added as ISO 19111-2:2009, 4.3
+          release: '2'
+          terms:
+            - type: expression
+              designation: parametric datum
+              normative_status: preferred
+        parents: []
+        timeCreated: 2009-08-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+ara:
+  id: 843
+  definition: مرجع إسناد يصف علاقة نظام إحداثيات بارامتري بكيان أو شيء ما.
+  language_code: ara
+  notes:
+    - الكيان أو الشيء المقصود هنا هو عادة الكرة الأرضية.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19111:2019'
+    clause: '(E), 3.1.47'
+    link: 'https://www.iso.org/standard/74039.html'
+  lineage_source: 'ISO 19111-2:2009, 4.3'
+  date_accepted: 2009-08-15T00:00:00.000Z
+  review_date: 2017-06-28T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-01-31T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19111:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19111-2:2009 to ISO 19111:2019(E),
+    3.1.47. Lineage source added as ISO 19111-2:2009, 4.3
+  release: '2'
+  terms:
+    - type: expression
+      designation: مرجع إسناد ذو متغير
+      normative_status: preferred
+  _revisions:
+    current: 0cf56d
+    tree:
+      0cf56d:
+        object:
+          id: 843
+          definition: مرجع إسناد يصف علاقة نظام إحداثيات بارامتري بكيان أو شيء ما.
+          language_code: ara
+          notes:
+            - الكيان أو الشيء المقصود هنا هو عادة الكرة الأرضية.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19111:2019'
+            clause: '(E), 3.1.47'
+            link: 'https://www.iso.org/standard/74039.html'
+          lineage_source: 'ISO 19111-2:2009, 4.3'
+          date_accepted: 2009-08-15T00:00:00.000Z
+          review_date: 2017-06-28T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-01-31T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19111:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19111-2:2009 to ISO
+            19111:2019(E), 3.1.47. Lineage source added as ISO 19111-2:2009, 4.3
+          release: '2'
+          terms:
+            - type: expression
+              designation: مرجع إسناد ذو متغير
+              normative_status: preferred
+        parents: []
+        timeCreated: 2009-08-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+deu:
+  id: 843
+  definition: >-
+    Datum, das die Beziehung eines parametrischen Koordinatensystems zu einem
+    Objekt beschreibt
+  language_code: deu
+  notes:
+    - The object is normally the Earth.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19111:2019'
+    clause: '(E), 3.1.47'
+    link: 'https://www.iso.org/standard/74039.html'
+  lineage_source: 'ISO 19111-2:2009, 4.3'
+  date_accepted: 2009-08-15T00:00:00.000Z
+  review_date: 2017-06-28T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-01-31T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19111:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19111-2:2009 to ISO 19111:2019(E),
+    3.1.47. Lineage source added as ISO 19111-2:2009, 4.3
+  release: '2'
+  terms:
+    - type: expression
+      designation: parametrisches Datum
+      normative_status: preferred
+  _revisions:
+    current: '0e3979'
+    tree:
+      '0e3979':
+        object:
+          id: 843
+          definition: >-
+            Datum, das die Beziehung eines parametrischen Koordinatensystems zu
+            einem Objekt beschreibt
+          language_code: deu
+          notes:
+            - The object is normally the Earth.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19111:2019'
+            clause: '(E), 3.1.47'
+            link: 'https://www.iso.org/standard/74039.html'
+          lineage_source: 'ISO 19111-2:2009, 4.3'
+          date_accepted: 2009-08-15T00:00:00.000Z
+          review_date: 2017-06-28T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-01-31T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19111:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19111-2:2009 to ISO
+            19111:2019(E), 3.1.47. Lineage source added as ISO 19111-2:2009, 4.3
+          release: '2'
+          terms:
+            - type: expression
+              designation: parametrisches Datum
+              normative_status: preferred
+        parents: []
+        timeCreated: 2009-08-15T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+kor:
+  id: 843
+  definition: 개체에 대한 매개변수 좌표계의 관계를 기술한 파라미터의 집합을 묘사하는 자료
+  language_code: kor
+  notes:
+    - The object is normally the Earth.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19111:2019'
+    clause: '(E), 3.1.47'
+    link: 'https://www.iso.org/standard/74039.html'
+  lineage_source: 'ISO 19111-2:2009, 4.3'
+  date_accepted: 2009-08-15T00:00:00.000Z
+  review_date: 2017-06-28T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-01-31T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19111:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19111-2:2009 to ISO 19111:2019(E),
+    3.1.47. Lineage source added as ISO 19111-2:2009, 4.3
+  release: '2'
+  terms:
+    - type: expression
+      designation: 매개변수형 정보
+      normative_status: preferred
+  _revisions:
+    current: 80916a
+    tree:
+      80916a:
+        object:
+          id: 843
+          definition: 개체에 대한 매개변수 좌표계의 관계를 기술한 파라미터의 집합을 묘사하는 자료
+          language_code: kor
+          notes:
+            - The object is normally the Earth.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19111:2019'
+            clause: '(E), 3.1.47'
+            link: 'https://www.iso.org/standard/74039.html'
+          lineage_source: 'ISO 19111-2:2009, 4.3'
+          date_accepted: 2009-08-15T00:00:00.000Z
+          review_date: 2017-06-28T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-01-31T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19111:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19111-2:2009 to ISO
+            19111:2019(E), 3.1.47. Lineage source added as ISO 19111-2:2009, 4.3
+          release: '2'
+          terms:
+            - type: expression
+              designation: 매개변수형 정보
+              normative_status: preferred
+        parents: []
+        timeCreated: 2009-08-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 843
+  definition: 'данные, описывающие связь параметрической системы координат с объектом'
+  language_code: rus
+  notes:
+    - Объектом является обычно Земля
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19111:2019'
+    clause: '(E), 3.1.47'
+    link: 'https://www.iso.org/standard/74039.html'
+  lineage_source: 'ISO 19111-2:2009, 4.3'
+  date_accepted: 2009-08-15T00:00:00.000Z
+  review_date: 2017-06-28T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-01-31T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19111:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19111-2:2009 to ISO 19111:2019(E),
+    3.1.47. Lineage source added as ISO 19111-2:2009, 4.3
+  release: '2'
+  terms:
+    - type: expression
+      designation: параметрическая привязка
+      normative_status: preferred
+  _revisions:
+    current: acdd70
+    tree:
+      acdd70:
+        object:
+          id: 843
+          definition: >-
+            данные, описывающие связь параметрической системы координат с
+            объектом
+          language_code: rus
+          notes:
+            - Объектом является обычно Земля
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19111:2019'
+            clause: '(E), 3.1.47'
+            link: 'https://www.iso.org/standard/74039.html'
+          lineage_source: 'ISO 19111-2:2009, 4.3'
+          date_accepted: 2009-08-15T00:00:00.000Z
+          review_date: 2017-06-28T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-01-31T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19111:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19111-2:2009 to ISO
+            19111:2019(E), 3.1.47. Lineage source added as ISO 19111-2:2009, 4.3
+          release: '2'
+          terms:
+            - type: expression
+              designation: параметрическая привязка
+              normative_status: preferred
+        parents: []
+        timeCreated: 2009-08-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 843
+  definition: >-
+    datum que describe la relación de un sistema de coordenadas paramétricas con
+    un objeto
+  language_code: spa
+  notes:
+    - El objeto es normalmente la Tierra.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19111:2019'
+    clause: '(E), 3.1.47'
+    link: 'https://www.iso.org/standard/74039.html'
+  lineage_source: 'ISO 19111-2:2009, 4.3'
+  date_accepted: 2009-08-15T00:00:00.000Z
+  review_date: 2017-06-28T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-01-31T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19111:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19111-2:2009 to ISO 19111:2019(E),
+    3.1.47. Lineage source added as ISO 19111-2:2009, 4.3
+  release: '2'
+  terms:
+    - type: expression
+      designation: datum paramétrico
+      normative_status: preferred
+  _revisions:
+    current: cdccd7
+    tree:
+      cdccd7:
+        object:
+          id: 843
+          definition: >-
+            datum que describe la relación de un sistema de coordenadas
+            paramétricas con un objeto
+          language_code: spa
+          notes:
+            - El objeto es normalmente la Tierra.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19111:2019'
+            clause: '(E), 3.1.47'
+            link: 'https://www.iso.org/standard/74039.html'
+          lineage_source: 'ISO 19111-2:2009, 4.3'
+          date_accepted: 2009-08-15T00:00:00.000Z
+          review_date: 2017-06-28T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-01-31T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19111:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19111-2:2009 to ISO
+            19111:2019(E), 3.1.47. Lineage source added as ISO 19111-2:2009, 4.3
+          release: '2'
+          terms:
+            - type: expression
+              designation: datum paramétrico
+              normative_status: preferred
+        parents: []
+        timeCreated: 2009-08-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+swe:
+  id: 843
+  definition: >-
+    datum som specificerar relationen mellan ett parametriskt koordinatsystem
+    och ett objekt
+  country_code: swe
+  language_code: swe
+  notes:
+    - The object is normally the Earth.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19111:2019'
+    clause: '(E), 3.1.47'
+    link: 'https://www.iso.org/standard/74039.html'
+  lineage_source: 'ISO 19111-2:2009, 4.3'
+  date_accepted: 2009-08-15T00:00:00.000Z
+  review_date: 2017-06-28T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-01-31T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19111:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19111-2:2009 to ISO 19111:2019(E),
+    3.1.47. Lineage source added as ISO 19111-2:2009, 4.3
+  release: '2'
+  terms:
+    - type: expression
+      designation: parametriskt datum
+      normative_status: preferred
+  _revisions:
+    current: bd0c69
+    tree:
+      bd0c69:
+        object:
+          id: 843
+          definition: >-
+            datum som specificerar relationen mellan ett parametriskt
+            koordinatsystem och ett objekt
+          country_code: swe
+          language_code: swe
+          notes:
+            - The object is normally the Earth.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19111:2019'
+            clause: '(E), 3.1.47'
+            link: 'https://www.iso.org/standard/74039.html'
+          lineage_source: 'ISO 19111-2:2009, 4.3'
+          date_accepted: 2009-08-15T00:00:00.000Z
+          review_date: 2017-06-28T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-01-31T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19111:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19111-2:2009 to ISO
+            19111:2019(E), 3.1.47. Lineage source added as ISO 19111-2:2009, 4.3
+          release: '2'
+          terms:
+            - type: expression
+              designation: parametriskt datum
+              normative_status: preferred
+        parents: []
+        timeCreated: 2009-08-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

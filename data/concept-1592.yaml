@@ -1,0 +1,121 @@
+term: qualified cardinality <OWL>
+termid: 1592
+eng:
+  id: 1592
+  definition: >-
+    cardinality restriction that applies to literals or individuals that are
+    connected by a data property or an object property and are instance of the
+    qualifying range [datatype or class]
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: OWL
+  lineage_source: 'ISO 19150-2:2015, 4.1.33'
+  date_accepted: 2015-07-01T00:00:00.000Z
+  review_date: 2012-05-25T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2015-07-01T00:00:00.000Z
+  review_decision_event: Normal ISO processing
+  review_decision_notes: 'Publication of document ISO 19150-2:2015(E)'
+  release: '4'
+  terms:
+    - type: expression
+      designation: qualified cardinality <OWL>
+      normative_status: preferred
+  _revisions:
+    current: 315d7a
+    tree:
+      315d7a:
+        object:
+          id: 1592
+          definition: >-
+            cardinality restriction that applies to literals or individuals that
+            are connected by a data property or an object property and are
+            instance of the qualifying range [datatype or class]
+          language_code: eng
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: OWL
+          lineage_source: 'ISO 19150-2:2015, 4.1.33'
+          date_accepted: 2015-07-01T00:00:00.000Z
+          review_date: 2012-05-25T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2015-07-01T00:00:00.000Z
+          review_decision_event: Normal ISO processing
+          review_decision_notes: 'Publication of document ISO 19150-2:2015(E)'
+          release: '4'
+          terms:
+            - type: expression
+              designation: qualified cardinality <OWL>
+              normative_status: preferred
+        parents: []
+        timeCreated: 2015-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 1592
+  definition: >-
+    Restricción de la cardinalidad que se aplica a literales o individuos que
+    están conectados mediante una propiedad de datos o una propiedad de objeto y
+    son instancia de un rango calificado [tipo de datos o clase]
+  language_code: spa
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: OWL
+  lineage_source: 'ISO 19150-2:2015, 4.1.33'
+  date_accepted: 2015-07-01T00:00:00.000Z
+  review_date: 2012-05-25T00:00:00.000Z
+  review_status: final
+  review_decision: ''
+  review_decision_date: 2015-07-01T00:00:00.000Z
+  review_decision_event: Normal ISO processing
+  review_decision_notes: 'Publication of document ISO 19150-2:2015(E)'
+  release: '4'
+  terms:
+    - type: expression
+      designation: cardinalidad calificada <OWL>
+      normative_status: preferred
+  _revisions:
+    current: 9fbe02
+    tree:
+      9fbe02:
+        object:
+          id: 1592
+          definition: >-
+            Restricción de la cardinalidad que se aplica a literales o
+            individuos que están conectados mediante una propiedad de datos o
+            una propiedad de objeto y son instancia de un rango calificado [tipo
+            de datos o clase]
+          language_code: spa
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: OWL
+          lineage_source: 'ISO 19150-2:2015, 4.1.33'
+          date_accepted: 2015-07-01T00:00:00.000Z
+          review_date: 2012-05-25T00:00:00.000Z
+          review_status: final
+          review_decision: ''
+          review_decision_date: 2015-07-01T00:00:00.000Z
+          review_decision_event: Normal ISO processing
+          review_decision_notes: 'Publication of document ISO 19150-2:2015(E)'
+          release: '4'
+          terms:
+            - type: expression
+              designation: cardinalidad calificada <OWL>
+              normative_status: preferred
+        parents: []
+        timeCreated: 2015-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

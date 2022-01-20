@@ -1,0 +1,130 @@
+term: trip pattern
+termid: 2107
+eng:
+  id: 2107
+  definition: >-
+    pre-defined path defined by means of two or more transfer nodes and the
+    links and waypoints in between
+  language_code: eng
+  notes:
+    - Defines a path to be followed by a transport service; also called route.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19147:2015'
+    clause: '3.21'
+    link: 'https://www.iso.org/standard/44874.html'
+  date_accepted: 2015-06-15T00:00:00.000Z
+  review_date: 2009-06-20T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2015-06-15T00:00:00.000Z
+  review_decision_event: Normal ISO processing
+  review_decision_notes: 'Publication of document ISO 19147:2015(E)'
+  release: '4'
+  terms:
+    - type: expression
+      designation: trip pattern
+      normative_status: preferred
+  _revisions:
+    current: 6b7f4f
+    tree:
+      6b7f4f:
+        object:
+          id: 2107
+          definition: >-
+            pre-defined path defined by means of two or more transfer nodes and
+            the links and waypoints in between
+          language_code: eng
+          notes:
+            - >-
+              Defines a path to be followed by a transport service; also called
+              route.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19147:2015'
+            clause: '3.21'
+            link: 'https://www.iso.org/standard/44874.html'
+          date_accepted: 2015-06-15T00:00:00.000Z
+          review_date: 2009-06-20T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2015-06-15T00:00:00.000Z
+          review_decision_event: Normal ISO processing
+          review_decision_notes: 'Publication of document ISO 19147:2015(E)'
+          release: '4'
+          terms:
+            - type: expression
+              designation: trip pattern
+              normative_status: preferred
+        parents: []
+        timeCreated: 2015-06-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 2107
+  definition: >-
+    recorrido preestablecido definido por dos o más nodos de transbordo y los
+    enlaces y puntos de paso entre ellos
+  language_code: spa
+  notes:
+    - >-
+      Define un camino que debe ser seguido por un servicio de transporte;
+      también llamado ruta.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19147:2015'
+    clause: '3.21'
+    link: 'https://www.iso.org/standard/44874.html'
+  date_accepted: 2015-06-15T00:00:00.000Z
+  review_date: 2009-06-20T00:00:00.000Z
+  review_status: final
+  review_decision: ''
+  review_decision_date: 2015-06-15T00:00:00.000Z
+  review_decision_event: Normal ISO processing
+  review_decision_notes: 'Publication of document ISO 19147:2015(E)'
+  release: '4'
+  terms:
+    - type: expression
+      designation: ruta de viaje
+      normative_status: preferred
+  _revisions:
+    current: 68112f
+    tree:
+      68112f:
+        object:
+          id: 2107
+          definition: >-
+            recorrido preestablecido definido por dos o más nodos de transbordo
+            y los enlaces y puntos de paso entre ellos
+          language_code: spa
+          notes:
+            - >-
+              Define un camino que debe ser seguido por un servicio de
+              transporte; también llamado ruta.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19147:2015'
+            clause: '3.21'
+            link: 'https://www.iso.org/standard/44874.html'
+          date_accepted: 2015-06-15T00:00:00.000Z
+          review_date: 2009-06-20T00:00:00.000Z
+          review_status: final
+          review_decision: ''
+          review_decision_date: 2015-06-15T00:00:00.000Z
+          review_decision_event: Normal ISO processing
+          review_decision_notes: 'Publication of document ISO 19147:2015(E)'
+          release: '4'
+          terms:
+            - type: expression
+              designation: ruta de viaje
+              normative_status: preferred
+        parents: []
+        timeCreated: 2015-06-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

@@ -1,0 +1,472 @@
+term: navigation constraint
+termid: 740
+eng:
+  id: 740
+  definition: >-
+    restriction on how a link or turn may be traversed by a vehicle, such as
+    vehicle classification, physical or temporal constraint
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19133:2005'
+    link: 'https://www.iso.org/standard/32551.html'
+  date_accepted: 2005-10-15T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: navigation constraint
+      normative_status: preferred
+  _revisions:
+    current: 94f162
+    tree:
+      94f162:
+        object:
+          id: 740
+          definition: >-
+            restriction on how a link or turn may be traversed by a vehicle,
+            such as vehicle classification, physical or temporal constraint
+          language_code: eng
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19133:2005'
+            link: 'https://www.iso.org/standard/32551.html'
+          date_accepted: 2005-10-15T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: navigation constraint
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-10-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+ara:
+  id: 740
+  definition: >-
+    قيد يوضع على كيفية اجتياز وصلة أو منحنى بواسطة مركبة ما مثل تصنيف المركبة ،
+    أو قيد عيني أو قيد يتعلق بالوقت .
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19133:2005'
+    link: 'https://www.iso.org/standard/32551.html'
+  date_accepted: 2005-10-15T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: تقييد الملاحة
+      normative_status: preferred
+  _revisions:
+    current: 30762e
+    tree:
+      30762e:
+        object:
+          id: 740
+          definition: >-
+            قيد يوضع على كيفية اجتياز وصلة أو منحنى بواسطة مركبة ما مثل تصنيف
+            المركبة ، أو قيد عيني أو قيد يتعلق بالوقت .
+          language_code: ara
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19133:2005'
+            link: 'https://www.iso.org/standard/32551.html'
+          date_accepted: 2005-10-15T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: تقييد الملاحة
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-10-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+zho:
+  id: 740
+  definition: 对车辆经过的有向路段或转向处所做的限制，例如车辆分类限制，物理上的或时间上的限制。
+  language_code: zho
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19133:2005'
+    link: 'https://www.iso.org/standard/32551.html'
+  date_accepted: 2005-10-15T00:00:00.000Z
+  terms:
+    - type: expression
+      designation: 导航限制
+      normative_status: preferred
+  _revisions:
+    current: 6401ca
+    tree:
+      6401ca:
+        object:
+          id: 740
+          definition: 对车辆经过的有向路段或转向处所做的限制，例如车辆分类限制，物理上的或时间上的限制。
+          language_code: zho
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19133:2005'
+            link: 'https://www.iso.org/standard/32551.html'
+          date_accepted: 2005-10-15T00:00:00.000Z
+          terms:
+            - type: expression
+              designation: 导航限制
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-10-15T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+fin:
+  id: 740
+  definition: >-
+    rajoitus sille, miten linkin tai käännöksen kautta voidaan kulkea;
+    esimerkiksi ajoneuvoluokitus tai fyysinen tai aikaan liittyvä rajoitus
+  language_code: fin
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19133:2005'
+    link: 'https://www.iso.org/standard/32551.html'
+  lineage_source: Maanmittauslaitos
+  date_accepted: 2005-10-15T00:00:00.000Z
+  terms:
+    - type: expression
+      designation: navigointirajoite
+      normative_status: preferred
+  _revisions:
+    current: e8a281
+    tree:
+      e8a281:
+        object:
+          id: 740
+          definition: >-
+            rajoitus sille, miten linkin tai käännöksen kautta voidaan kulkea;
+            esimerkiksi ajoneuvoluokitus tai fyysinen tai aikaan liittyvä
+            rajoitus
+          language_code: fin
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19133:2005'
+            link: 'https://www.iso.org/standard/32551.html'
+          lineage_source: Maanmittauslaitos
+          date_accepted: 2005-10-15T00:00:00.000Z
+          terms:
+            - type: expression
+              designation: navigointirajoite
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-10-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+fra:
+  id: 740
+  definition: >-
+    restriction d'un chemin ou d'une jonction qui peut être utilisé par un
+    véhicule, tel que la classification du véhicule, la contrainte physique ou
+    temporelle
+  language_code: fra
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: ISO 19133
+    link: 'https://www.iso.org/standard/32551.html'
+  lineage_source: ''
+  date_accepted: 2005-10-15T00:00:00.000Z
+  terms:
+    - type: expression
+      designation: contrainte de navigation
+      normative_status: preferred
+  _revisions:
+    current: 220a99
+    tree:
+      220a99:
+        object:
+          id: 740
+          definition: >-
+            restriction d'un chemin ou d'une jonction qui peut être utilisé par
+            un véhicule, tel que la classification du véhicule, la contrainte
+            physique ou temporelle
+          language_code: fra
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: ISO 19133
+            link: 'https://www.iso.org/standard/32551.html'
+          lineage_source: ''
+          date_accepted: 2005-10-15T00:00:00.000Z
+          terms:
+            - type: expression
+              designation: contrainte de navigation
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-10-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+deu:
+  id: 740
+  language_code: deu
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19133:2005'
+    link: 'https://www.iso.org/standard/32551.html'
+  date_accepted: 2005-10-15T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: Navigationseinschränkung
+      normative_status: preferred
+  _revisions:
+    current: d003d6
+    tree:
+      d003d6:
+        object:
+          id: 740
+          language_code: deu
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19133:2005'
+            link: 'https://www.iso.org/standard/32551.html'
+          date_accepted: 2005-10-15T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: Navigationseinschränkung
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-10-15T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+kor:
+  id: 740
+  definition: '차종, 물리적, 시간적 제약 조건과 같이 차량의 링크나 회전에 대한 제약 조건'
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19133:2005'
+    link: 'https://www.iso.org/standard/32551.html'
+  lineage_source: KS X ISO 19133
+  date_accepted: 2006-12-01T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: 내비게이션 제약 조건
+      normative_status: preferred
+  _revisions:
+    current: 1a4104
+    tree:
+      1a4104:
+        object:
+          id: 740
+          definition: '차종, 물리적, 시간적 제약 조건과 같이 차량의 링크나 회전에 대한 제약 조건'
+          language_code: kor
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19133:2005'
+            link: 'https://www.iso.org/standard/32551.html'
+          lineage_source: KS X ISO 19133
+          date_accepted: 2006-12-01T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: 내비게이션 제약 조건
+              normative_status: preferred
+        parents: []
+        timeCreated: 2006-12-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 740
+  definition: >-
+    ограничивающее условие на способы прохождения дуги или поворота транспортным
+    средством, например, класс транспортного средства, физическое или временнóе
+    ограничения
+  language_code: rus
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19133:2005'
+    link: 'https://www.iso.org/standard/32551.html'
+  lineage_source: Internet
+  date_accepted: 2005-10-15T00:00:00.000Z
+  terms:
+    - type: expression
+      designation: навигационное ограничение
+      normative_status: preferred
+  _revisions:
+    current: 27d297
+    tree:
+      27d297:
+        object:
+          id: 740
+          definition: >-
+            ограничивающее условие на способы прохождения дуги или поворота
+            транспортным средством, например, класс транспортного средства,
+            физическое или временнóе ограничения
+          language_code: rus
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19133:2005'
+            link: 'https://www.iso.org/standard/32551.html'
+          lineage_source: Internet
+          date_accepted: 2005-10-15T00:00:00.000Z
+          terms:
+            - type: expression
+              designation: навигационное ограничение
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-10-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 740
+  definition: >-
+    limitación sobre como un enlace o un giro puede ser recorrido por un
+    vehículo, por ejemplo, según la clasificación del vehículo, sus
+    restricciones físicas o temporales
+  language_code: spa
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19133:2005'
+    link: 'https://www.iso.org/standard/32551.html'
+  date_accepted: 2005-10-15T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: restricción de navegación
+      normative_status: preferred
+  _revisions:
+    current: 737c13
+    tree:
+      737c13:
+        object:
+          id: 740
+          definition: >-
+            limitación sobre como un enlace o un giro puede ser recorrido por un
+            vehículo, por ejemplo, según la clasificación del vehículo, sus
+            restricciones físicas o temporales
+          language_code: spa
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19133:2005'
+            link: 'https://www.iso.org/standard/32551.html'
+          date_accepted: 2005-10-15T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: restricción de navegación
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-10-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+swe:
+  id: 740
+  definition: restriktion för hur en länk kan följas eller sväng kan utföras av ett fordon
+  country_code: swe
+  language_code: swe
+  notes:
+    - >-
+      Trafikrestriktioner kan exempelvis baseras på fordonsklassifikation, en
+      fysisk begränsning eller en temporal begränsning.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19133:2005'
+    link: 'https://www.iso.org/standard/32551.html'
+  lineage_source: (Type reference to national language document)
+  date_accepted: 2005-10-15T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: trafikrestriktion
+      normative_status: preferred
+  _revisions:
+    current: 3644ca
+    tree:
+      3644ca:
+        object:
+          id: 740
+          definition: >-
+            restriktion för hur en länk kan följas eller sväng kan utföras av
+            ett fordon
+          country_code: swe
+          language_code: swe
+          notes:
+            - >-
+              Trafikrestriktioner kan exempelvis baseras på
+              fordonsklassifikation, en fysisk begränsning eller en temporal
+              begränsning.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19133:2005'
+            link: 'https://www.iso.org/standard/32551.html'
+          lineage_source: (Type reference to national language document)
+          date_accepted: 2005-10-15T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: trafikrestriktion
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-10-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

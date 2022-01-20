@@ -1,0 +1,461 @@
+term: geolocation information
+termid: 942
+eng:
+  id: 942
+  definition: >-
+    information used to determine geographic location corresponding to image
+    location
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19115-2:2019'
+    clause: '(E), 3.10'
+    link: 'https://www.iso.org/standard/67039.html'
+  lineage_source: 'ISO 19115-2:2009(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2009-02-15T00:00:00.000Z
+  review_date: 2019-01-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-01-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19115-2:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19115-2:2009 to ISO
+    19115-2:2019(E), 3.10. Lineage source added as ISO 19115-2:2009(E)
+  release: '2'
+  terms:
+    - type: expression
+      designation: geolocation information
+      normative_status: preferred
+  _revisions:
+    current: 0b8335
+    tree:
+      0b8335:
+        object:
+          id: 942
+          definition: >-
+            information used to determine geographic location corresponding to
+            image location
+          language_code: eng
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19115-2:2019'
+            clause: '(E), 3.10'
+            link: 'https://www.iso.org/standard/67039.html'
+          lineage_source: 'ISO 19115-2:2009(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2009-02-15T00:00:00.000Z
+          review_date: 2019-01-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-01-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19115-2:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19115-2:2009 to ISO
+            19115-2:2019(E), 3.10. Lineage source added as ISO 19115-2:2009(E)
+          release: '2'
+          terms:
+            - type: expression
+              designation: geolocation information
+              normative_status: preferred
+        parents: []
+        timeCreated: 2009-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+ara:
+  id: 942
+  definition: معلومات تستخدم لتحديد الموقع الجغرافي المتطابق مع موقع الصورة
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19115-2:2019'
+    clause: '(E), 3.10'
+    link: 'https://www.iso.org/standard/67039.html'
+  lineage_source: 'ISO 19115-2:2009(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2009-02-15T00:00:00.000Z
+  review_date: 2019-01-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-01-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19115-2:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19115-2:2009 to ISO
+    19115-2:2019(E), 3.10. Lineage source added as ISO 19115-2:2009(E)
+  release: '2'
+  terms:
+    - type: expression
+      designation: معلومات التحديد الجغرافي
+      normative_status: preferred
+  _revisions:
+    current: fecff4
+    tree:
+      fecff4:
+        object:
+          id: 942
+          definition: معلومات تستخدم لتحديد الموقع الجغرافي المتطابق مع موقع الصورة
+          language_code: ara
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19115-2:2019'
+            clause: '(E), 3.10'
+            link: 'https://www.iso.org/standard/67039.html'
+          lineage_source: 'ISO 19115-2:2009(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2009-02-15T00:00:00.000Z
+          review_date: 2019-01-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-01-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19115-2:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19115-2:2009 to ISO
+            19115-2:2019(E), 3.10. Lineage source added as ISO 19115-2:2009(E)
+          release: '2'
+          terms:
+            - type: expression
+              designation: معلومات التحديد الجغرافي
+              normative_status: preferred
+        parents: []
+        timeCreated: 2009-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+deu:
+  id: 942
+  definition: Information über die Georeferenzierung von Bildern
+  language_code: deu
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19115-2:2019'
+    clause: '(E), 3.10'
+    link: 'https://www.iso.org/standard/67039.html'
+  lineage_source: 'ISO 19115-2:2009(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2009-02-15T00:00:00.000Z
+  review_date: 2019-01-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-01-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19115-2:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19115-2:2009 to ISO
+    19115-2:2019(E), 3.10. Lineage source added as ISO 19115-2:2009(E)
+  release: '2'
+  terms:
+    - type: expression
+      designation: Information zur strengen Georeferenzierung
+      normative_status: preferred
+  _revisions:
+    current: 390bdc
+    tree:
+      390bdc:
+        object:
+          id: 942
+          definition: Information über die Georeferenzierung von Bildern
+          language_code: deu
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19115-2:2019'
+            clause: '(E), 3.10'
+            link: 'https://www.iso.org/standard/67039.html'
+          lineage_source: 'ISO 19115-2:2009(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2009-02-15T00:00:00.000Z
+          review_date: 2019-01-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-01-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19115-2:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19115-2:2009 to ISO
+            19115-2:2019(E), 3.10. Lineage source added as ISO 19115-2:2009(E)
+          release: '2'
+          terms:
+            - type: expression
+              designation: Information zur strengen Georeferenzierung
+              normative_status: preferred
+        parents: []
+        timeCreated: 2009-02-15T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+kor:
+  id: 942
+  definition: 이미지 위치에 대응하는 지리위치를 결정하기 위해 사용되는 정보
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19115-2:2019'
+    clause: '(E), 3.10'
+    link: 'https://www.iso.org/standard/67039.html'
+  lineage_source: 'ISO 19115-2:2009(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2009-02-15T00:00:00.000Z
+  review_date: 2019-01-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-01-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19115-2:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19115-2:2009 to ISO
+    19115-2:2019(E), 3.10. Lineage source added as ISO 19115-2:2009(E)
+  release: '2'
+  terms:
+    - type: expression
+      designation: 공간적 위치정보/지리적 위치정보
+      normative_status: preferred
+  _revisions:
+    current: 9f7ee0
+    tree:
+      9f7ee0:
+        object:
+          id: 942
+          definition: 이미지 위치에 대응하는 지리위치를 결정하기 위해 사용되는 정보
+          language_code: kor
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19115-2:2019'
+            clause: '(E), 3.10'
+            link: 'https://www.iso.org/standard/67039.html'
+          lineage_source: 'ISO 19115-2:2009(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2009-02-15T00:00:00.000Z
+          review_date: 2019-01-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-01-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19115-2:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19115-2:2009 to ISO
+            19115-2:2019(E), 3.10. Lineage source added as ISO 19115-2:2009(E)
+          release: '2'
+          terms:
+            - type: expression
+              designation: 공간적 위치정보/지리적 위치정보
+              normative_status: preferred
+        parents: []
+        timeCreated: 2009-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 942
+  definition: >-
+    Информация, используемая для определения географического местоположения,
+    соответствующего местоположению изображения
+  language_code: rus
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19115-2:2019'
+    clause: '(E), 3.10'
+    link: 'https://www.iso.org/standard/67039.html'
+  lineage_source: 'ISO 19115-2:2009(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2009-02-15T00:00:00.000Z
+  review_date: 2019-01-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-01-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19115-2:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19115-2:2009 to ISO
+    19115-2:2019(E), 3.10. Lineage source added as ISO 19115-2:2009(E)
+  release: '2'
+  terms:
+    - type: expression
+      designation: Геолокационная информация
+      normative_status: preferred
+  _revisions:
+    current: e44a5a
+    tree:
+      e44a5a:
+        object:
+          id: 942
+          definition: >-
+            Информация, используемая для определения географического
+            местоположения, соответствующего местоположению изображения
+          language_code: rus
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19115-2:2019'
+            clause: '(E), 3.10'
+            link: 'https://www.iso.org/standard/67039.html'
+          lineage_source: 'ISO 19115-2:2009(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2009-02-15T00:00:00.000Z
+          review_date: 2019-01-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-01-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19115-2:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19115-2:2009 to ISO
+            19115-2:2019(E), 3.10. Lineage source added as ISO 19115-2:2009(E)
+          release: '2'
+          terms:
+            - type: expression
+              designation: Геолокационная информация
+              normative_status: preferred
+        parents: []
+        timeCreated: 2009-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 942
+  definition: >-
+    información utilizada para determinar la ubicación geográfica
+    correspondiente a una imagen
+  language_code: spa
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19115-2:2019'
+    clause: '(E), 3.10'
+    link: 'https://www.iso.org/standard/67039.html'
+  lineage_source: 'ISO 19115-2:2009(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2009-02-15T00:00:00.000Z
+  review_date: 2019-01-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-01-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19115-2:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19115-2:2009 to ISO
+    19115-2:2019(E), 3.10. Lineage source added as ISO 19115-2:2009(E)
+  release: '2'
+  terms:
+    - type: expression
+      designation: información de geolocalización
+      normative_status: preferred
+  _revisions:
+    current: '299155'
+    tree:
+      '299155':
+        object:
+          id: 942
+          definition: >-
+            información utilizada para determinar la ubicación geográfica
+            correspondiente a una imagen
+          language_code: spa
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19115-2:2019'
+            clause: '(E), 3.10'
+            link: 'https://www.iso.org/standard/67039.html'
+          lineage_source: 'ISO 19115-2:2009(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2009-02-15T00:00:00.000Z
+          review_date: 2019-01-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-01-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19115-2:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19115-2:2009 to ISO
+            19115-2:2019(E), 3.10. Lineage source added as ISO 19115-2:2009(E)
+          release: '2'
+          terms:
+            - type: expression
+              designation: información de geolocalización
+              normative_status: preferred
+        parents: []
+        timeCreated: 2009-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+swe:
+  id: 942
+  definition: >-
+    information som används till att bestämma geografisk plats som motsvrar en
+    bild geografiska plats
+  country_code: swe
+  language_code: swe
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19115-2:2019'
+    clause: '(E), 3.10'
+    link: 'https://www.iso.org/standard/67039.html'
+  lineage_source: 'ISO 19115-2:2009(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2009-02-15T00:00:00.000Z
+  review_date: 2019-01-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-01-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19115-2:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19115-2:2009 to ISO
+    19115-2:2019(E), 3.10. Lineage source added as ISO 19115-2:2009(E)
+  release: '2'
+  terms:
+    - type: expression
+      designation: geolocation information
+      normative_status: preferred
+  _revisions:
+    current: 0a74ce
+    tree:
+      0a74ce:
+        object:
+          id: 942
+          definition: >-
+            information som används till att bestämma geografisk plats som
+            motsvrar en bild geografiska plats
+          country_code: swe
+          language_code: swe
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19115-2:2019'
+            clause: '(E), 3.10'
+            link: 'https://www.iso.org/standard/67039.html'
+          lineage_source: 'ISO 19115-2:2009(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2009-02-15T00:00:00.000Z
+          review_date: 2019-01-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-01-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19115-2:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19115-2:2009 to ISO
+            19115-2:2019(E), 3.10. Lineage source added as ISO 19115-2:2009(E)
+          release: '2'
+          terms:
+            - type: expression
+              designation: geolocation information
+              normative_status: preferred
+        parents: []
+        timeCreated: 2009-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

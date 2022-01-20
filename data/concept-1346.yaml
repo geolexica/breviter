@@ -1,0 +1,328 @@
+term: ontology
+termid: 1346
+eng:
+  id: 1346
+  definition: >-
+    formal representation of phenomena of a universe of discourse with an
+    underlying vocabulary including definitions and axioms that make the
+    intended meaning explicit and describe phenomena and their
+    interrelationships
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19101-1:2014'
+    clause: 4.1.26
+    link: 'https://www.iso.org/standard/59164.html'
+  lineage_source: 'ISO/TS 19150-1:2012'
+  lineage_source_similarity: '1'
+  date_accepted: 2012-11-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: ontology
+      normative_status: preferred
+  _revisions:
+    current: d9c205
+    tree:
+      d9c205:
+        object:
+          id: 1346
+          definition: >-
+            formal representation of phenomena of a universe of discourse with
+            an underlying vocabulary including definitions and axioms that make
+            the intended meaning explicit and describe phenomena and their
+            interrelationships
+          language_code: eng
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19101-1:2014'
+            clause: 4.1.26
+            link: 'https://www.iso.org/standard/59164.html'
+          lineage_source: 'ISO/TS 19150-1:2012'
+          lineage_source_similarity: '1'
+          date_accepted: 2012-11-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: ontology
+              normative_status: preferred
+        parents: []
+        timeCreated: 2012-11-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+kor:
+  id: 1346
+  definition: '진의를 구체화 하고 현상과 상호관계를 묘사하는 정의 및 경구를 포함한 근본적 용어로써, 담론 공간 현상의 형식적 표현'
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19101-1:2014'
+    clause: 4.1.26
+    link: 'https://www.iso.org/standard/59164.html'
+  lineage_source: 'ISO/TS 19150-1:2012'
+  lineage_source_similarity: '1'
+  date_accepted: 2012-11-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: 실체론
+      normative_status: preferred
+  _revisions:
+    current: 7a5f7b
+    tree:
+      7a5f7b:
+        object:
+          id: 1346
+          definition: '진의를 구체화 하고 현상과 상호관계를 묘사하는 정의 및 경구를 포함한 근본적 용어로써, 담론 공간 현상의 형식적 표현'
+          language_code: kor
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19101-1:2014'
+            clause: 4.1.26
+            link: 'https://www.iso.org/standard/59164.html'
+          lineage_source: 'ISO/TS 19150-1:2012'
+          lineage_source_similarity: '1'
+          date_accepted: 2012-11-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: 실체론
+              normative_status: preferred
+        parents: []
+        timeCreated: 2012-11-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+msa:
+  id: 1346
+  definition: >-
+    Model yang berfungsi untuk amalan tertentu, seperti e-dagang dan pengurusan
+    pengetahuan. Dalam kecerdasan buatan(AI), ontologi ialah spesifikasi
+    pengkonsepsian yang digunakan untuk membantu atur cara dan membolehkan
+    manusia berkongsi pengetahuan. Dalam penggunaan ini, ontologi adalah satu
+    set konsep yang melibatkan benda, peristiwa dan hubungan yang dispesifikasi
+    dengan cara tertentu supaya perbendaharaan kata dapat dicipta untuk
+    pertukaran maklumat. Lihat pengurusan pengetahuan
+  language_code: msa
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19101-1:2014'
+    clause: 4.1.26
+    link: 'https://www.iso.org/standard/59164.html'
+  lineage_source: Pusat Rujukan Persuratan Melayu (DBP)
+  date_accepted: 2012-11-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: ontologi
+      normative_status: preferred
+  _revisions:
+    current: 538ff2
+    tree:
+      538ff2:
+        object:
+          id: 1346
+          definition: >-
+            Model yang berfungsi untuk amalan tertentu, seperti e-dagang dan
+            pengurusan pengetahuan. Dalam kecerdasan buatan(AI), ontologi ialah
+            spesifikasi pengkonsepsian yang digunakan untuk membantu atur cara
+            dan membolehkan manusia berkongsi pengetahuan. Dalam penggunaan ini,
+            ontologi adalah satu set konsep yang melibatkan benda, peristiwa dan
+            hubungan yang dispesifikasi dengan cara tertentu supaya
+            perbendaharaan kata dapat dicipta untuk pertukaran maklumat. Lihat
+            pengurusan pengetahuan
+          language_code: msa
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19101-1:2014'
+            clause: 4.1.26
+            link: 'https://www.iso.org/standard/59164.html'
+          lineage_source: Pusat Rujukan Persuratan Melayu (DBP)
+          date_accepted: 2012-11-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: ontologi
+              normative_status: preferred
+        parents: []
+        timeCreated: 2012-11-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 1346
+  definition: >-
+    формализованное представление явлений предметной области  вместе с базовым
+    словарем, включающим определения и аксиомы, которые поясняют подразумеваемый
+    смысл, а также описывают объекты и их взаимосвязи
+  language_code: rus
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19101-1:2014'
+    clause: 4.1.26
+    link: 'https://www.iso.org/standard/59164.html'
+  lineage_source: 'перевод ИСО 19101-1:2014,'
+  lineage_source_similarity: '1'
+  date_accepted: 2012-11-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: онтология
+      normative_status: preferred
+  _revisions:
+    current: 910a81
+    tree:
+      910a81:
+        object:
+          id: 1346
+          definition: >-
+            формализованное представление явлений предметной области  вместе с
+            базовым словарем, включающим определения и аксиомы, которые поясняют
+            подразумеваемый смысл, а также описывают объекты и их взаимосвязи
+          language_code: rus
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19101-1:2014'
+            clause: 4.1.26
+            link: 'https://www.iso.org/standard/59164.html'
+          lineage_source: 'перевод ИСО 19101-1:2014,'
+          lineage_source_similarity: '1'
+          date_accepted: 2012-11-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: онтология
+              normative_status: preferred
+        parents: []
+        timeCreated: 2012-11-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 1346
+  definition: >-
+    representación formal de un fenómeno de un universo de discurso con un
+    vocabulario subyacente que incluye las definiciones y axiomas que le dan el
+    significado explícito previsto y que describen el fenómeno y sus
+    interrelaciones
+  language_code: spa
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19101-1:2014'
+    clause: 4.1.26
+    link: 'https://www.iso.org/standard/59164.html'
+  lineage_source: 'ISO/TS 19150-1:2012'
+  lineage_source_similarity: '1'
+  date_accepted: 2012-11-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: ontología
+      normative_status: preferred
+  _revisions:
+    current: 7a3d7c
+    tree:
+      7a3d7c:
+        object:
+          id: 1346
+          definition: >-
+            representación formal de un fenómeno de un universo de discurso con
+            un vocabulario subyacente que incluye las definiciones y axiomas que
+            le dan el significado explícito previsto y que describen el fenómeno
+            y sus interrelaciones
+          language_code: spa
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19101-1:2014'
+            clause: 4.1.26
+            link: 'https://www.iso.org/standard/59164.html'
+          lineage_source: 'ISO/TS 19150-1:2012'
+          lineage_source_similarity: '1'
+          date_accepted: 2012-11-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: ontología
+              normative_status: preferred
+        parents: []
+        timeCreated: 2012-11-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+swe:
+  id: 1346
+  definition: >-
+    formell representation av företeelser inom ett intresseområde med hjälp av
+    en underförstådd vokabulär inklusive definitioner och axiom som uttrycker
+    innebörden och beskriver företeelser och deras inbördes förhållanden
+  country_code: swe
+  language_code: swe
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19101-1:2014'
+    clause: 4.1.26
+    link: 'https://www.iso.org/standard/59164.html'
+  lineage_source: 'ISO/TS 19150-1:2012'
+  lineage_source_similarity: '1'
+  date_accepted: 2012-11-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: ontologi
+      normative_status: preferred
+  _revisions:
+    current: 7a33c5
+    tree:
+      7a33c5:
+        object:
+          id: 1346
+          definition: >-
+            formell representation av företeelser inom ett intresseområde med
+            hjälp av en underförstådd vokabulär inklusive definitioner och axiom
+            som uttrycker innebörden och beskriver företeelser och deras
+            inbördes förhållanden
+          country_code: swe
+          language_code: swe
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19101-1:2014'
+            clause: 4.1.26
+            link: 'https://www.iso.org/standard/59164.html'
+          lineage_source: 'ISO/TS 19150-1:2012'
+          lineage_source_similarity: '1'
+          date_accepted: 2012-11-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: ontologi
+              normative_status: preferred
+        parents: []
+        timeCreated: 2012-11-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

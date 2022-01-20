@@ -1,0 +1,65 @@
+term: geometric boundary
+termid: 2060
+eng:
+  id: 2060
+  definition: >-
+    boundary represented by a set of geometric primitives that limits the extent
+    of a geometric object
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19107:2019'
+    clause: '(E), 3.46'
+    link: 'https://www.iso.org/standard/66175.html'
+  date_accepted: 2019-12-02T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: 'Publication of document ISO 19107:2019(E)'
+  review_decision_notes: 'This entry supersedes the entry for geometric boundary in ISO 19107:2003(E)'
+  release: '5'
+  terms:
+    - type: expression
+      designation: geometric boundary
+      normative_status: preferred
+  _revisions:
+    current: 87f612
+    tree:
+      87f612:
+        object:
+          id: 2060
+          definition: >-
+            boundary represented by a set of geometric primitives that limits
+            the extent of a geometric object
+          language_code: eng
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19107:2019'
+            clause: '(E), 3.46'
+            link: 'https://www.iso.org/standard/66175.html'
+          date_accepted: 2019-12-02T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: 'Publication of document ISO 19107:2019(E)'
+          review_decision_notes: >-
+            This entry supersedes the entry for geometric boundary in ISO
+            19107:2003(E)
+          release: '5'
+          terms:
+            - type: expression
+              designation: geometric boundary
+              normative_status: preferred
+        parents: []
+        timeCreated: 2019-12-02T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

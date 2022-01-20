@@ -1,0 +1,379 @@
+term: spacestamp
+termid: 685
+eng:
+  id: 685
+  definition: >-
+    value of a spatial attribute of an object at a given time, at which time the
+    object's state is measured and recorded
+  language_code: eng
+  notes:
+    - See timestamp.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19132:2007'
+    link: 'https://www.iso.org/standard/40601.html'
+  date_accepted: 2007-10-15T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: spacestamp
+      normative_status: preferred
+  _revisions:
+    current: a09b8c
+    tree:
+      a09b8c:
+        object:
+          id: 685
+          definition: >-
+            value of a spatial attribute of an object at a given time, at which
+            time the object's state is measured and recorded
+          language_code: eng
+          notes:
+            - See timestamp.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19132:2007'
+            link: 'https://www.iso.org/standard/40601.html'
+          date_accepted: 2007-10-15T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: spacestamp
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-10-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+ara:
+  id: 685
+  definition: قيمة خاصية مكانية لكائن في وقت معين تم فيه قياس حالة الكائن وتسجيلها
+  language_code: ara
+  notes:
+    - أنظر "طابع زمني".
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19132:2007'
+    link: 'https://www.iso.org/standard/40601.html'
+  date_accepted: 2007-10-15T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: الطابع المكاني
+      normative_status: preferred
+  _revisions:
+    current: 1b23df
+    tree:
+      1b23df:
+        object:
+          id: 685
+          definition: قيمة خاصية مكانية لكائن في وقت معين تم فيه قياس حالة الكائن وتسجيلها
+          language_code: ara
+          notes:
+            - أنظر "طابع زمني".
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19132:2007'
+            link: 'https://www.iso.org/standard/40601.html'
+          date_accepted: 2007-10-15T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: الطابع المكاني
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-10-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+zho:
+  id: 685
+  definition: '某一对象在特定时刻的空间属性值, 此时量测和记录了对象状态。'
+  language_code: zho
+  notes:
+    - 参见时间戳记。
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19132:2007'
+    link: 'https://www.iso.org/standard/40601.html'
+  date_accepted: 2007-10-15T00:00:00.000Z
+  terms:
+    - type: expression
+      designation: 空间戳记
+      normative_status: preferred
+  _revisions:
+    current: '906851'
+    tree:
+      '906851':
+        object:
+          id: 685
+          definition: '某一对象在特定时刻的空间属性值, 此时量测和记录了对象状态。'
+          language_code: zho
+          notes:
+            - 参见时间戳记。
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19132:2007'
+            link: 'https://www.iso.org/standard/40601.html'
+          date_accepted: 2007-10-15T00:00:00.000Z
+          terms:
+            - type: expression
+              designation: 空间戳记
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-10-15T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+fin:
+  id: 685
+  definition: >-
+    objektin sijaintiominaisuuden arvo tietyllä hetkellä, jona objektin tila
+    mitataan ja tiedot tallennetaan muistiin
+  language_code: fin
+  notes:
+    - Katso aikaleima.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19132:2007'
+    link: 'https://www.iso.org/standard/40601.html'
+  lineage_source: 'Ei lähdettä, käännetty'
+  date_accepted: 2007-10-15T00:00:00.000Z
+  terms:
+    - type: expression
+      designation: sijaintileima
+      normative_status: preferred
+  _revisions:
+    current: ac4343
+    tree:
+      ac4343:
+        object:
+          id: 685
+          definition: >-
+            objektin sijaintiominaisuuden arvo tietyllä hetkellä, jona objektin
+            tila mitataan ja tiedot tallennetaan muistiin
+          language_code: fin
+          notes:
+            - Katso aikaleima.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19132:2007'
+            link: 'https://www.iso.org/standard/40601.html'
+          lineage_source: 'Ei lähdettä, käännetty'
+          date_accepted: 2007-10-15T00:00:00.000Z
+          terms:
+            - type: expression
+              designation: sijaintileima
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-10-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+fra:
+  id: 685
+  definition: >-
+    valeur d'un attribut spatial d'un objet au moment où l'état de l'objet est
+    mesuré et enregistré
+  language_code: fra
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: ISO 19132
+    link: 'https://www.iso.org/standard/40601.html'
+  lineage_source: ''
+  date_accepted: 2007-10-15T00:00:00.000Z
+  terms:
+    - type: expression
+      designation: marquage (tampon) spatial
+      normative_status: preferred
+  _revisions:
+    current: 83073a
+    tree:
+      83073a:
+        object:
+          id: 685
+          definition: >-
+            valeur d'un attribut spatial d'un objet au moment où l'état de
+            l'objet est mesuré et enregistré
+          language_code: fra
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: ISO 19132
+            link: 'https://www.iso.org/standard/40601.html'
+          lineage_source: ''
+          date_accepted: 2007-10-15T00:00:00.000Z
+          terms:
+            - type: expression
+              designation: marquage (tampon) spatial
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-10-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+kor:
+  id: 685
+  definition: 객체 상태가 측정된 시간 또는 주어진 시간에 있어서 객체의 공간 속성 값
+  language_code: kor
+  notes:
+    - 타임 스탬프를 참조하라
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19132:2007'
+    link: 'https://www.iso.org/standard/40601.html'
+  lineage_source: KS X ISO 19132
+  date_accepted: 2009-12-29T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: 공간 스탬프
+      normative_status: preferred
+  _revisions:
+    current: '671282'
+    tree:
+      '671282':
+        object:
+          id: 685
+          definition: 객체 상태가 측정된 시간 또는 주어진 시간에 있어서 객체의 공간 속성 값
+          language_code: kor
+          notes:
+            - 타임 스탬프를 참조하라
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19132:2007'
+            link: 'https://www.iso.org/standard/40601.html'
+          lineage_source: KS X ISO 19132
+          date_accepted: 2009-12-29T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: 공간 스탬프
+              normative_status: preferred
+        parents: []
+        timeCreated: 2009-12-29T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 685
+  definition: >-
+    значение пространственного атрибута объекта в определенный момент времени,
+    когда выполняются измерение и запись состояния этого объекта
+  language_code: rus
+  notes:
+    - См. термин «метка времени»
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19132:2007'
+    link: 'https://www.iso.org/standard/40601.html'
+  lineage_source: Internet
+  date_accepted: 2007-10-15T00:00:00.000Z
+  terms:
+    - type: expression
+      designation: пространственная метка
+      normative_status: preferred
+  _revisions:
+    current: 2b8b39
+    tree:
+      2b8b39:
+        object:
+          id: 685
+          definition: >-
+            значение пространственного атрибута объекта в определенный момент
+            времени, когда выполняются измерение и запись состояния этого
+            объекта
+          language_code: rus
+          notes:
+            - См. термин «метка времени»
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19132:2007'
+            link: 'https://www.iso.org/standard/40601.html'
+          lineage_source: Internet
+          date_accepted: 2007-10-15T00:00:00.000Z
+          terms:
+            - type: expression
+              designation: пространственная метка
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-10-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 685
+  definition: >-
+    valor de un atributo espacial de un objeto en un momento dado, en cuyo
+    momento el estado del objeto se mide y registra
+  language_code: spa
+  notes:
+    - Véase marca temporal (4.53).
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19132:2007'
+    link: 'https://www.iso.org/standard/40601.html'
+  date_accepted: 2007-10-15T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: estampa espacial
+      normative_status: preferred
+  _revisions:
+    current: da5aee
+    tree:
+      da5aee:
+        object:
+          id: 685
+          definition: >-
+            valor de un atributo espacial de un objeto en un momento dado, en
+            cuyo momento el estado del objeto se mide y registra
+          language_code: spa
+          notes:
+            - Véase marca temporal (4.53).
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19132:2007'
+            link: 'https://www.iso.org/standard/40601.html'
+          date_accepted: 2007-10-15T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: estampa espacial
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-10-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

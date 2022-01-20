@@ -1,0 +1,75 @@
+term: radar cross section
+termid: 2200
+eng:
+  id: 2200
+  definition: >-
+    measure of the capability of the object to scatter the transmitted radar
+    power
+  language_code: eng
+  notes:
+    - >-
+      Radar cross section is calculated as `sigma = lim_(R ->oo) 4 pi R^2
+      (abs(E_s)^2) / (abs(E_i)^2)` where `sigma` is the radar cross section;
+      `E_i` is the electric-field strength of the incident wave; `E_s` is the
+      electric-field strength of the scattered wave at the radar with a distance
+      `R` away from the target.
+    - "\_2 to entry: Radar cross section has the dimensions of area, with the unit of square metres. Usually, it is expressed in the form of a logarithm with the unit of dBsm as follows `sigma_(dBsm) = 10 log_(10) sigma`"
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO/TS 19159-3:2018'
+    clause: '(E), 3.23'
+    link: 'https://www.iso.org/standard/74032.html'
+  date_accepted: 2018-05-01T00:00:00.000Z
+  review_date: 2018-05-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2018-05-01T00:00:00.000Z
+  review_decision_event: Normal ISO processing
+  review_decision_notes: 'Publication of document ISO/TS 19159-3:2018(E)'
+  release: '5'
+  terms:
+    - type: expression
+      designation: radar cross section
+      normative_status: preferred
+  _revisions:
+    current: 978f44
+    tree:
+      978f44:
+        object:
+          id: 2200
+          definition: >-
+            measure of the capability of the object to scatter the transmitted
+            radar power
+          language_code: eng
+          notes:
+            - >-
+              Radar cross section is calculated as `sigma = lim_(R ->oo) 4 pi
+              R^2 (abs(E_s)^2) / (abs(E_i)^2)` where `sigma` is the radar cross
+              section; `E_i` is the electric-field strength of the incident
+              wave; `E_s` is the electric-field strength of the scattered wave
+              at the radar with a distance `R` away from the target.
+            - "\_2 to entry: Radar cross section has the dimensions of area, with the unit of square metres. Usually, it is expressed in the form of a logarithm with the unit of dBsm as follows `sigma_(dBsm) = 10 log_(10) sigma`"
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO/TS 19159-3:2018'
+            clause: '(E), 3.23'
+            link: 'https://www.iso.org/standard/74032.html'
+          date_accepted: 2018-05-01T00:00:00.000Z
+          review_date: 2018-05-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2018-05-01T00:00:00.000Z
+          review_decision_event: Normal ISO processing
+          review_decision_notes: 'Publication of document ISO/TS 19159-3:2018(E)'
+          release: '5'
+          terms:
+            - type: expression
+              designation: radar cross section
+              normative_status: preferred
+        parents: []
+        timeCreated: 2018-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

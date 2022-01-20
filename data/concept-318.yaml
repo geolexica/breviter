@@ -1,0 +1,790 @@
+term: operation
+termid: 318
+eng:
+  id: 318
+  definition: >-
+    specification of a transformation or query that an object may be called to
+    execute
+  language_code: eng
+  notes:
+    - An operation has a name and a list of parameters.
+    - 'See 7.2 [of ISO 19119] for a discussion of operation'
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19119:2016'
+    clause: 4.1.10
+    link: 'https://www.iso.org/standard/59221.html'
+  lineage_source: 'ISO 19119:2005, 4.3'
+  date_accepted: 2005-02-15T00:00:00.000Z
+  review_date: 2012-08-11T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2016-01-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19119:2016'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19119:2005 to ISO 19119:2016,
+    4.1.10. Lineage source added as ISO 19119:2005, 4.3
+  release: '1'
+  terms:
+    - type: expression
+      designation: operation
+      normative_status: preferred
+  _revisions:
+    current: 92af28
+    tree:
+      92af28:
+        object:
+          id: 318
+          definition: >-
+            specification of a transformation or query that an object may be
+            called to execute
+          language_code: eng
+          notes:
+            - An operation has a name and a list of parameters.
+            - 'See 7.2 [of ISO 19119] for a discussion of operation'
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19119:2016'
+            clause: 4.1.10
+            link: 'https://www.iso.org/standard/59221.html'
+          lineage_source: 'ISO 19119:2005, 4.3'
+          date_accepted: 2005-02-15T00:00:00.000Z
+          review_date: 2012-08-11T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2016-01-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19119:2016'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19119:2005 to ISO
+            19119:2016, 4.1.10. Lineage source added as ISO 19119:2005, 4.3
+          release: '1'
+          terms:
+            - type: expression
+              designation: operation
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+ara:
+  id: 318
+  definition: مواصفه تحويل أو استعلام يمكن أن يطلب من كائن تنفيذه
+  language_code: ara
+  notes:
+    - التشغيل له اسم وقائمة متغيرات.
+    - >-
+      انظر الفقرة 7-2 [من المقياس آيزو 19119] للاطلاع على المناقشة الخاصة
+      بالتشغيل.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19119:2016'
+    clause: 4.1.10
+    link: 'https://www.iso.org/standard/59221.html'
+  lineage_source: 'ISO 19119:2005, 4.3'
+  date_accepted: 2005-02-15T00:00:00.000Z
+  review_date: 2012-08-11T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2016-01-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19119:2016'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19119:2005 to ISO 19119:2016,
+    4.1.10. Lineage source added as ISO 19119:2005, 4.3
+  release: '1'
+  terms:
+    - type: expression
+      designation: التشغيل
+      normative_status: preferred
+  _revisions:
+    current: 3363df
+    tree:
+      3363df:
+        object:
+          id: 318
+          definition: مواصفه تحويل أو استعلام يمكن أن يطلب من كائن تنفيذه
+          language_code: ara
+          notes:
+            - التشغيل له اسم وقائمة متغيرات.
+            - >-
+              انظر الفقرة 7-2 [من المقياس آيزو 19119] للاطلاع على المناقشة
+              الخاصة بالتشغيل.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19119:2016'
+            clause: 4.1.10
+            link: 'https://www.iso.org/standard/59221.html'
+          lineage_source: 'ISO 19119:2005, 4.3'
+          date_accepted: 2005-02-15T00:00:00.000Z
+          review_date: 2012-08-11T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2016-01-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19119:2016'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19119:2005 to ISO
+            19119:2016, 4.1.10. Lineage source added as ISO 19119:2005, 4.3
+          release: '1'
+          terms:
+            - type: expression
+              designation: التشغيل
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+zho:
+  id: 318
+  definition: 转换和查询的规范，按照这个规范对象可以被调用执行。
+  language_code: zho
+  notes:
+    - 一个操作包括名称和一系列参数。
+    - 见ISO 19119 的7.2条关于操作的讨论。
+    - 操作包括一个名称和参数列表。方法是实现操作的过程，它包括算法或过程描述。
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19119:2016'
+    clause: 4.1.10
+    link: 'https://www.iso.org/standard/59221.html'
+  lineage_source: 'ISO 19119:2005, 4.3'
+  date_accepted: 2005-02-15T00:00:00.000Z
+  review_date: 2012-08-11T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2016-01-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19119:2016'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19119:2005 to ISO 19119:2016,
+    4.1.10. Lineage source added as ISO 19119:2005, 4.3
+  release: '1'
+  terms:
+    - type: expression
+      designation: 操作
+      normative_status: preferred
+  _revisions:
+    current: 37a1ac
+    tree:
+      37a1ac:
+        object:
+          id: 318
+          definition: 转换和查询的规范，按照这个规范对象可以被调用执行。
+          language_code: zho
+          notes:
+            - 一个操作包括名称和一系列参数。
+            - 见ISO 19119 的7.2条关于操作的讨论。
+            - 操作包括一个名称和参数列表。方法是实现操作的过程，它包括算法或过程描述。
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19119:2016'
+            clause: 4.1.10
+            link: 'https://www.iso.org/standard/59221.html'
+          lineage_source: 'ISO 19119:2005, 4.3'
+          date_accepted: 2005-02-15T00:00:00.000Z
+          review_date: 2012-08-11T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2016-01-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19119:2016'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19119:2005 to ISO
+            19119:2016, 4.1.10. Lineage source added as ISO 19119:2005, 4.3
+          release: '1'
+          terms:
+            - type: expression
+              designation: 操作
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-02-15T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+fin:
+  id: 318
+  definition: >-
+    muunnos, kysely tai muu tietokoneen suorittama operaatio, joka kuuluu
+    palvelurajapintaan
+  language_code: fin
+  notes:
+    - Toiminnolla on nimi ja joukko muuttujia.
+    - >-
+      Katso lisätietoja toiminnon käsitteestä [ISO 19119 -standardin] kohdasta
+      7.2.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19119:2016'
+    clause: 4.1.10
+    link: 'https://www.iso.org/standard/59221.html'
+  lineage_source: 'ISO 19119:2005, 4.3'
+  date_accepted: 2005-02-15T00:00:00.000Z
+  review_date: 2012-08-11T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2016-01-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19119:2016'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19119:2005 to ISO 19119:2016,
+    4.1.10. Lineage source added as ISO 19119:2005, 4.3
+  release: '1'
+  terms:
+    - type: expression
+      designation: toiminto
+      normative_status: preferred
+  _revisions:
+    current: cf8587
+    tree:
+      cf8587:
+        object:
+          id: 318
+          definition: >-
+            muunnos, kysely tai muu tietokoneen suorittama operaatio, joka
+            kuuluu palvelurajapintaan
+          language_code: fin
+          notes:
+            - Toiminnolla on nimi ja joukko muuttujia.
+            - >-
+              Katso lisätietoja toiminnon käsitteestä [ISO 19119 -standardin]
+              kohdasta 7.2.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19119:2016'
+            clause: 4.1.10
+            link: 'https://www.iso.org/standard/59221.html'
+          lineage_source: 'ISO 19119:2005, 4.3'
+          date_accepted: 2005-02-15T00:00:00.000Z
+          review_date: 2012-08-11T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2016-01-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19119:2016'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19119:2005 to ISO
+            19119:2016, 4.1.10. Lineage source added as ISO 19119:2005, 4.3
+          release: '1'
+          terms:
+            - type: expression
+              designation: toiminto
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+fra:
+  id: 318
+  definition: >-
+    spécification d'une transformation ou d'une requête qu'un objet peut être
+    appelé à exécuter
+  language_code: fra
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19119:2016'
+    clause: 4.1.10
+    link: 'https://www.iso.org/standard/59221.html'
+  lineage_source: 'ISO 19119:2005, 4.3'
+  date_accepted: 2005-02-15T00:00:00.000Z
+  review_date: 2012-08-11T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2016-01-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19119:2016'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19119:2005 to ISO 19119:2016,
+    4.1.10. Lineage source added as ISO 19119:2005, 4.3
+  release: '1'
+  terms:
+    - type: expression
+      designation: opération
+      normative_status: preferred
+  _revisions:
+    current: 2b6729
+    tree:
+      2b6729:
+        object:
+          id: 318
+          definition: >-
+            spécification d'une transformation ou d'une requête qu'un objet peut
+            être appelé à exécuter
+          language_code: fra
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19119:2016'
+            clause: 4.1.10
+            link: 'https://www.iso.org/standard/59221.html'
+          lineage_source: 'ISO 19119:2005, 4.3'
+          date_accepted: 2005-02-15T00:00:00.000Z
+          review_date: 2012-08-11T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2016-01-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19119:2016'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19119:2005 to ISO
+            19119:2016, 4.1.10. Lineage source added as ISO 19119:2005, 4.3
+          release: '1'
+          terms:
+            - type: expression
+              designation: opération
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+deu:
+  id: 318
+  definition: >-
+    Festlegung einer Transformation oder Abfrage, zu deren Ausführung ein Objekt
+    aufgerufen werden kann
+  language_code: deu
+  notes:
+    - An operation has a name and a list of parameters.
+    - 'See 7.2 [of ISO 19119] for a discussion of operation'
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19119:2016'
+    clause: 4.1.10
+    link: 'https://www.iso.org/standard/59221.html'
+  lineage_source: 'ISO 19119:2005, 4.3'
+  date_accepted: 2005-02-15T00:00:00.000Z
+  review_date: 2012-08-11T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2016-01-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19119:2016'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19119:2005 to ISO 19119:2016,
+    4.1.10. Lineage source added as ISO 19119:2005, 4.3
+  release: '1'
+  terms:
+    - type: expression
+      designation: 'Operation (Syn.: Methode)'
+      normative_status: preferred
+  _revisions:
+    current: 56acbd
+    tree:
+      56acbd:
+        object:
+          id: 318
+          definition: >-
+            Festlegung einer Transformation oder Abfrage, zu deren Ausführung
+            ein Objekt aufgerufen werden kann
+          language_code: deu
+          notes:
+            - An operation has a name and a list of parameters.
+            - 'See 7.2 [of ISO 19119] for a discussion of operation'
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19119:2016'
+            clause: 4.1.10
+            link: 'https://www.iso.org/standard/59221.html'
+          lineage_source: 'ISO 19119:2005, 4.3'
+          date_accepted: 2005-02-15T00:00:00.000Z
+          review_date: 2012-08-11T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2016-01-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19119:2016'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19119:2005 to ISO
+            19119:2016, 4.1.10. Lineage source added as ISO 19119:2005, 4.3
+          release: '1'
+          terms:
+            - type: expression
+              designation: 'Operation (Syn.: Methode)'
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-02-15T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+kor:
+  id: 318
+  definition: 객체 실행을 호출할 수 있는 변환 및 질의에 대한 사양
+  language_code: kor
+  notes:
+    - 연산은 이름과 매개 변수 목록을 갖는다.
+    - 연산에 대한 논의는 KS X ISO 19119의 7.2절을 참조하라.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19119:2016'
+    clause: 4.1.10
+    link: 'https://www.iso.org/standard/59221.html'
+  lineage_source: 'ISO 19119:2005, 4.3'
+  date_accepted: 2005-02-15T00:00:00.000Z
+  review_date: 2012-08-11T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2016-01-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19119:2016'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19119:2005 to ISO 19119:2016,
+    4.1.10. Lineage source added as ISO 19119:2005, 4.3
+  release: '1'
+  terms:
+    - type: expression
+      designation: 연산
+      normative_status: preferred
+  _revisions:
+    current: 4ac903
+    tree:
+      4ac903:
+        object:
+          id: 318
+          definition: 객체 실행을 호출할 수 있는 변환 및 질의에 대한 사양
+          language_code: kor
+          notes:
+            - 연산은 이름과 매개 변수 목록을 갖는다.
+            - 연산에 대한 논의는 KS X ISO 19119의 7.2절을 참조하라.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19119:2016'
+            clause: 4.1.10
+            link: 'https://www.iso.org/standard/59221.html'
+          lineage_source: 'ISO 19119:2005, 4.3'
+          date_accepted: 2005-02-15T00:00:00.000Z
+          review_date: 2012-08-11T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2016-01-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19119:2016'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19119:2005 to ISO
+            19119:2016, 4.1.10. Lineage source added as ISO 19119:2005, 4.3
+          release: '1'
+          terms:
+            - type: expression
+              designation: 연산
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+msa:
+  id: 318
+  definition: >-
+    spesifikasi suatu transformasi atau pertanyaan sesuatu objek yang boleh
+    dipanggil untuk dilaksanakan
+  language_code: msa
+  notes:
+    - An operation has a name and a list of parameters.
+    - 'See 7.2 [of ISO 19119] for a discussion of operation'
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19119:2005'
+    link: 'https://www.iso.org/standard/39890.html'
+  date_accepted: 2005-02-15T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: pengendalian/operasi
+      normative_status: preferred
+  _revisions:
+    current: 814fa4
+    tree:
+      814fa4:
+        object:
+          id: 318
+          definition: >-
+            spesifikasi suatu transformasi atau pertanyaan sesuatu objek yang
+            boleh dipanggil untuk dilaksanakan
+          language_code: msa
+          notes:
+            - An operation has a name and a list of parameters.
+            - 'See 7.2 [of ISO 19119] for a discussion of operation'
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19119:2005'
+            link: 'https://www.iso.org/standard/39890.html'
+          date_accepted: 2005-02-15T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: pengendalian/operasi
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+pol:
+  id: 318
+  definition: >-
+    specyfikacja przekształcenia lub zapytania, którego wykonania można zażądać
+    od obiektu
+  language_code: pol
+  notes:
+    - Operacja posiada nazwę i liste parametrów.
+    - 'Zob. p.  7.2 [z ISO 19119] dla omówienia operacji.'
+  examples:
+    - |-
+      UWAGA 1 Operacja ma swoją nazwę oraz listę parametrów.
+
+      UWAGA 2  Omówienie operacji, patrz 7.2.
+  authoritative_source:
+    ref: 'ISO 19119:2016'
+    clause: 4.1.10
+    link: 'https://www.iso.org/standard/59221.html'
+  lineage_source: 'ISO 19119:2005, 4.3'
+  date_accepted: 2005-02-15T00:00:00.000Z
+  review_date: 2012-08-11T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2016-01-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19119:2016'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19119:2005 to ISO 19119:2016,
+    4.1.10. Lineage source added as ISO 19119:2005, 4.3
+  release: '1'
+  terms:
+    - type: expression
+      designation: operacja
+      normative_status: preferred
+  _revisions:
+    current: b88042
+    tree:
+      b88042:
+        object:
+          id: 318
+          definition: >-
+            specyfikacja przekształcenia lub zapytania, którego wykonania można
+            zażądać od obiektu
+          language_code: pol
+          notes:
+            - Operacja posiada nazwę i liste parametrów.
+            - 'Zob. p.  7.2 [z ISO 19119] dla omówienia operacji.'
+          examples:
+            - |-
+              UWAGA 1 Operacja ma swoją nazwę oraz listę parametrów.
+
+              UWAGA 2  Omówienie operacji, patrz 7.2.
+          authoritative_source:
+            ref: 'ISO 19119:2016'
+            clause: 4.1.10
+            link: 'https://www.iso.org/standard/59221.html'
+          lineage_source: 'ISO 19119:2005, 4.3'
+          date_accepted: 2005-02-15T00:00:00.000Z
+          review_date: 2012-08-11T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2016-01-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19119:2016'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19119:2005 to ISO
+            19119:2016, 4.1.10. Lineage source added as ISO 19119:2005, 4.3
+          release: '1'
+          terms:
+            - type: expression
+              designation: operacja
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 318
+  definition: >-
+    спецификация преобразования или запроса, исполнение которого может быть
+    затребовано от объекта
+  language_code: rus
+  notes:
+    - Операция имеет имя и список параметров
+    - Для обсуждения операции см. 7.2 (ISO 19119)
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19119:2005'
+    link: 'https://www.iso.org/standard/39890.html'
+  lineage_source: Internet
+  date_accepted: 2005-02-15T00:00:00.000Z
+  terms:
+    - type: expression
+      designation: операция
+      normative_status: preferred
+  _revisions:
+    current: 8574ca
+    tree:
+      8574ca:
+        object:
+          id: 318
+          definition: >-
+            спецификация преобразования или запроса, исполнение которого может
+            быть затребовано от объекта
+          language_code: rus
+          notes:
+            - Операция имеет имя и список параметров
+            - Для обсуждения операции см. 7.2 (ISO 19119)
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19119:2005'
+            link: 'https://www.iso.org/standard/39890.html'
+          lineage_source: Internet
+          date_accepted: 2005-02-15T00:00:00.000Z
+          terms:
+            - type: expression
+              designation: операция
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 318
+  definition: >-
+    especificación de una transformación o consulta que puede pedirse a un
+    objeto que ejecute.
+  language_code: spa
+  notes:
+    - Una operación tiene un nombre y una lista de parámetros.
+    - Véase el apartado 7.2 para una discusión de interfaz.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19119:2016'
+    clause: 4.1.10
+    link: 'https://www.iso.org/standard/59221.html'
+  lineage_source: 'ISO 19119:2005, 4.3'
+  date_accepted: 2005-02-15T00:00:00.000Z
+  review_date: 2012-08-11T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2016-01-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19119:2016'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19119:2005 to ISO 19119:2016,
+    4.1.10. Lineage source added as ISO 19119:2005, 4.3
+  release: '1'
+  terms:
+    - type: expression
+      designation: operación
+      normative_status: preferred
+  _revisions:
+    current: f59ba6
+    tree:
+      f59ba6:
+        object:
+          id: 318
+          definition: >-
+            especificación de una transformación o consulta que puede pedirse a
+            un objeto que ejecute.
+          language_code: spa
+          notes:
+            - Una operación tiene un nombre y una lista de parámetros.
+            - Véase el apartado 7.2 para una discusión de interfaz.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19119:2016'
+            clause: 4.1.10
+            link: 'https://www.iso.org/standard/59221.html'
+          lineage_source: 'ISO 19119:2005, 4.3'
+          date_accepted: 2005-02-15T00:00:00.000Z
+          review_date: 2012-08-11T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2016-01-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19119:2016'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19119:2005 to ISO
+            19119:2016, 4.1.10. Lineage source added as ISO 19119:2005, 4.3
+          release: '1'
+          terms:
+            - type: expression
+              designation: operación
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+swe:
+  id: 318
+  definition: >-
+    specification of a transformation or query that an object may be called to
+    execute
+  language_code: swe
+  notes:
+    - An operation has a name and a list of parameters.
+    - 'See 7.2 [of ISO 19119] for a discussion of operation'
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19119:2016'
+    clause: 4.1.10
+    link: 'https://www.iso.org/standard/59221.html'
+  lineage_source: 'ISO 19119:2005, 4.3'
+  date_accepted: 2005-02-15T00:00:00.000Z
+  review_date: 2012-08-11T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2016-01-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19119:2016'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19119:2005 to ISO 19119:2016,
+    4.1.10. Lineage source added as ISO 19119:2005, 4.3
+  release: '1'
+  terms:
+    - type: expression
+      designation: operation
+      normative_status: preferred
+  _revisions:
+    current: 8f0aed
+    tree:
+      8f0aed:
+        object:
+          id: 318
+          definition: >-
+            specification of a transformation or query that an object may be
+            called to execute
+          language_code: swe
+          notes:
+            - An operation has a name and a list of parameters.
+            - 'See 7.2 [of ISO 19119] for a discussion of operation'
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19119:2016'
+            clause: 4.1.10
+            link: 'https://www.iso.org/standard/59221.html'
+          lineage_source: 'ISO 19119:2005, 4.3'
+          date_accepted: 2005-02-15T00:00:00.000Z
+          review_date: 2012-08-11T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2016-01-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19119:2016'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19119:2005 to ISO
+            19119:2016, 4.1.10. Lineage source added as ISO 19119:2005, 4.3
+          release: '1'
+          terms:
+            - type: expression
+              designation: operation
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

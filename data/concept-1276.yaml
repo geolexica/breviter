@@ -1,0 +1,239 @@
+term: symbol reference
+termid: 1276
+eng:
+  id: 1276
+  definition: >-
+    pointer in a feature portrayal function that associates the feature type
+    with a specific symbol
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19117:2012'
+    clause: '4.34'
+    link: 'https://www.iso.org/standard/46226.html'
+  date_accepted: 2012-12-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: symbol reference
+      normative_status: preferred
+  _revisions:
+    current: 47bf42
+    tree:
+      47bf42:
+        object:
+          id: 1276
+          definition: >-
+            pointer in a feature portrayal function that associates the feature
+            type with a specific symbol
+          language_code: eng
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19117:2012'
+            clause: '4.34'
+            link: 'https://www.iso.org/standard/46226.html'
+          date_accepted: 2012-12-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: symbol reference
+              normative_status: preferred
+        parents: []
+        timeCreated: 2012-12-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+kor:
+  id: 1276
+  definition: 특정 기호와 지형지물 유형을 연관짓는 지형지물 묘사 함수의 포인터
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19117:2012'
+    clause: '4.34'
+    link: 'https://www.iso.org/standard/46226.html'
+  date_accepted: 2012-12-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: 기호 참조
+      normative_status: preferred
+  _revisions:
+    current: 4115af
+    tree:
+      4115af:
+        object:
+          id: 1276
+          definition: 특정 기호와 지형지물 유형을 연관짓는 지형지물 묘사 함수의 포인터
+          language_code: kor
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19117:2012'
+            clause: '4.34'
+            link: 'https://www.iso.org/standard/46226.html'
+          date_accepted: 2012-12-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: 기호 참조
+              normative_status: preferred
+        parents: []
+        timeCreated: 2012-12-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 1276
+  definition: >-
+    указатель в функции отображения объекта, который связывает тип объекта с
+    определенным символом
+  language_code: rus
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19117:2012'
+    clause: '4.34'
+    link: 'https://www.iso.org/standard/46226.html'
+  lineage_source: 'перевод ИСО 19117:2012,'
+  date_accepted: 2012-12-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: ссылка на символ
+      normative_status: preferred
+  _revisions:
+    current: c91bfb
+    tree:
+      c91bfb:
+        object:
+          id: 1276
+          definition: >-
+            указатель в функции отображения объекта, который связывает тип
+            объекта с определенным символом
+          language_code: rus
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19117:2012'
+            clause: '4.34'
+            link: 'https://www.iso.org/standard/46226.html'
+          lineage_source: 'перевод ИСО 19117:2012,'
+          date_accepted: 2012-12-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: ссылка на символ
+              normative_status: preferred
+        parents: []
+        timeCreated: 2012-12-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 1276
+  definition: >-
+    puntero de una función de representación de objeto geográfico que asocia un
+    tipo de objeto geográfico con un símbolo específico
+  language_code: spa
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19117:2012'
+    clause: '4.34'
+    link: 'https://www.iso.org/standard/46226.html'
+  date_accepted: 2012-12-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: referencia de símbolo
+      normative_status: preferred
+  _revisions:
+    current: 016faf
+    tree:
+      016faf:
+        object:
+          id: 1276
+          definition: >-
+            puntero de una función de representación de objeto geográfico que
+            asocia un tipo de objeto geográfico con un símbolo específico
+          language_code: spa
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19117:2012'
+            clause: '4.34'
+            link: 'https://www.iso.org/standard/46226.html'
+          date_accepted: 2012-12-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: referencia de símbolo
+              normative_status: preferred
+        parents: []
+        timeCreated: 2012-12-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+swe:
+  id: 1276
+  definition: >-
+    samband som i en symboliseringsfunktion binder objekttypen till en viss
+    symbol
+  country_code: swe
+  language_code: swe
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19117:2012'
+    clause: '4.34'
+    link: 'https://www.iso.org/standard/46226.html'
+  lineage_source: (Type reference to national language document)
+  date_accepted: 2012-12-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: symbolreferens
+      normative_status: preferred
+  _revisions:
+    current: a90fcd
+    tree:
+      a90fcd:
+        object:
+          id: 1276
+          definition: >-
+            samband som i en symboliseringsfunktion binder objekttypen till en
+            viss symbol
+          country_code: swe
+          language_code: swe
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19117:2012'
+            clause: '4.34'
+            link: 'https://www.iso.org/standard/46226.html'
+          lineage_source: (Type reference to national language document)
+          date_accepted: 2012-12-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: symbolreferens
+              normative_status: preferred
+        parents: []
+        timeCreated: 2012-12-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

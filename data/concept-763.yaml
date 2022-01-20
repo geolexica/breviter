@@ -1,0 +1,1020 @@
+term: coordinate transformation
+termid: 763
+eng:
+  id: 763
+  definition: >-
+    coordinate operation in which the two coordinate reference systems are based
+    on different datums
+  language_code: eng
+  notes:
+    - >-
+      A coordinate transformation uses parameters which are derived empirically
+      by a set of points with known coordinates in both coordinate reference
+      systems.
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19111:2007'
+    link: 'https://www.iso.org/standard/41126.html'
+  date_accepted: 2007-07-01T00:00:00.000Z
+  date_amended: 2019-01-31T00:00:00.000Z
+  review_date: 2019-01-31T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2019-01-31T00:00:00.000Z
+  review_decision_event: 'Publication of document ISO 19111:2019(E)'
+  review_decision_notes: >-
+    This entry is superseded by the entry for coordinate transformation in ISO
+    19111:2019(E)
+  release: '-1'
+  terms:
+    - type: expression
+      designation: coordinate transformation
+      normative_status: null
+  _revisions:
+    current: df7094
+    tree:
+      df7094:
+        object:
+          id: 763
+          definition: >-
+            coordinate operation in which the two coordinate reference systems
+            are based on different datums
+          language_code: eng
+          notes:
+            - >-
+              A coordinate transformation uses parameters which are derived
+              empirically by a set of points with known coordinates in both
+              coordinate reference systems.
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19111:2007'
+            link: 'https://www.iso.org/standard/41126.html'
+          date_accepted: 2007-07-01T00:00:00.000Z
+          date_amended: 2019-01-31T00:00:00.000Z
+          review_date: 2019-01-31T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2019-01-31T00:00:00.000Z
+          review_decision_event: 'Publication of document ISO 19111:2019(E)'
+          review_decision_notes: >-
+            This entry is superseded by the entry for coordinate transformation
+            in ISO 19111:2019(E)
+          release: '-1'
+          terms:
+            - type: expression
+              designation: coordinate transformation
+              normative_status: null
+        parents: []
+        timeCreated: 2007-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+ara:
+  id: 763
+  definition: >-
+    عملية إحداثية يكون نظاما الإحداثيات المرجعية فيهما مبنيين على مرجعي إسناد
+    مختلفين (Datums)
+  language_code: ara
+  notes:
+    - >-
+      تغير النظام الإحداثي يستخدم متغيِّرات يتم اشتقاقها بالتجريب العملي من خلال
+      مجموعة نقاط ذات إحداثيات معلومة في كلا النظامين الإحداثيين.
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19111:2007'
+    link: 'https://www.iso.org/standard/41126.html'
+  date_accepted: 2007-07-01T00:00:00.000Z
+  date_amended: 2019-01-31T00:00:00.000Z
+  review_date: 2019-01-31T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2019-01-31T00:00:00.000Z
+  review_decision_event: 'Publication of document ISO 19111:2019(E)'
+  review_decision_notes: >-
+    This entry is superseded by the entry for coordinate transformation in ISO
+    19111:2019(E)
+  release: '-1'
+  terms:
+    - type: expression
+      designation: تحويل الإحداثيات
+      normative_status: null
+  _revisions:
+    current: 7487b7
+    tree:
+      7487b7:
+        object:
+          id: 763
+          definition: >-
+            عملية إحداثية يكون نظاما الإحداثيات المرجعية فيهما مبنيين على مرجعي
+            إسناد مختلفين (Datums)
+          language_code: ara
+          notes:
+            - >-
+              تغير النظام الإحداثي يستخدم متغيِّرات يتم اشتقاقها بالتجريب العملي
+              من خلال مجموعة نقاط ذات إحداثيات معلومة في كلا النظامين
+              الإحداثيين.
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19111:2007'
+            link: 'https://www.iso.org/standard/41126.html'
+          date_accepted: 2007-07-01T00:00:00.000Z
+          date_amended: 2019-01-31T00:00:00.000Z
+          review_date: 2019-01-31T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2019-01-31T00:00:00.000Z
+          review_decision_event: 'Publication of document ISO 19111:2019(E)'
+          review_decision_notes: >-
+            This entry is superseded by the entry for coordinate transformation
+            in ISO 19111:2019(E)
+          release: '-1'
+          terms:
+            - type: expression
+              designation: تحويل الإحداثيات
+              normative_status: null
+        parents: []
+        timeCreated: 2007-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+zho:
+  id: 763
+  definition: 基于不同基准的，从一个坐标参照系到另一个坐标参照系一一对应的坐标操作。
+  language_code: zho
+  notes:
+    - 使用一组在两种坐标参照系中已知坐标的点，通过经验公式推导出参数进行坐标操作。
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19111:2007'
+    link: 'https://www.iso.org/standard/41126.html'
+  date_accepted: 2007-07-01T00:00:00.000Z
+  date_amended: 2019-01-31T00:00:00.000Z
+  review_date: 2019-01-31T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2019-01-31T00:00:00.000Z
+  review_decision_event: 'Publication of document ISO 19111:2019(E)'
+  review_decision_notes: >-
+    This entry is superseded by the entry for coordinate transformation in ISO
+    19111:2019(E)
+  release: '-1'
+  terms:
+    - type: expression
+      designation: 坐标变换
+      normative_status: null
+  _revisions:
+    current: 15f02e
+    tree:
+      15f02e:
+        object:
+          id: 763
+          definition: 基于不同基准的，从一个坐标参照系到另一个坐标参照系一一对应的坐标操作。
+          language_code: zho
+          notes:
+            - 使用一组在两种坐标参照系中已知坐标的点，通过经验公式推导出参数进行坐标操作。
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19111:2007'
+            link: 'https://www.iso.org/standard/41126.html'
+          date_accepted: 2007-07-01T00:00:00.000Z
+          date_amended: 2019-01-31T00:00:00.000Z
+          review_date: 2019-01-31T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2019-01-31T00:00:00.000Z
+          review_decision_event: 'Publication of document ISO 19111:2019(E)'
+          review_decision_notes: >-
+            This entry is superseded by the entry for coordinate transformation
+            in ISO 19111:2019(E)
+          release: '-1'
+          terms:
+            - type: expression
+              designation: 坐标变换
+              normative_status: null
+        parents: []
+        timeCreated: 2007-07-01T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+dan:
+  id: 763
+  definition: >-
+    ændring af koordinater fra et koordinatsystem til et andet koordinatsystem
+    baseret på et andet datum i en 1 til 1-relation
+  language_code: dan
+  notes:
+    - >-
+      Ved en koordinattransformation anvendes parametre, der er afledt empirisk
+      af en mængde af punkter med kendte koordinater i begge koordinatsystemer.
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19111:2007'
+    link: 'https://www.iso.org/standard/41126.html'
+  date_accepted: 2007-07-01T00:00:00.000Z
+  date_amended: 2019-01-31T00:00:00.000Z
+  review_date: 2019-01-31T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2019-01-31T00:00:00.000Z
+  review_decision_event: 'Publication of document ISO 19111:2019(E)'
+  review_decision_notes: >-
+    This entry is superseded by the entry for coordinate transformation in ISO
+    19111:2019(E)
+  release: '-1'
+  terms:
+    - type: expression
+      designation: koordinattransformation
+      normative_status: null
+  _revisions:
+    current: 05bca4
+    tree:
+      05bca4:
+        object:
+          id: 763
+          definition: >-
+            ændring af koordinater fra et koordinatsystem til et andet
+            koordinatsystem baseret på et andet datum i en 1 til 1-relation
+          language_code: dan
+          notes:
+            - >-
+              Ved en koordinattransformation anvendes parametre, der er afledt
+              empirisk af en mængde af punkter med kendte koordinater i begge
+              koordinatsystemer.
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19111:2007'
+            link: 'https://www.iso.org/standard/41126.html'
+          date_accepted: 2007-07-01T00:00:00.000Z
+          date_amended: 2019-01-31T00:00:00.000Z
+          review_date: 2019-01-31T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2019-01-31T00:00:00.000Z
+          review_decision_event: 'Publication of document ISO 19111:2019(E)'
+          review_decision_notes: >-
+            This entry is superseded by the entry for coordinate transformation
+            in ISO 19111:2019(E)
+          release: '-1'
+          terms:
+            - type: expression
+              designation: koordinattransformation
+              normative_status: null
+        parents: []
+        timeCreated: 2007-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+nld:
+  id: 763
+  definition: >-
+    coördinaatbewerking waarbij de twee coördinaatreferentiesystemen zijn
+    gebaseerd op verschillende datums
+  language_code: nld
+  notes:
+    - >-
+      Een coördinaat transformatie gebruikt parameters die empirisch zijn
+      afgeleid uit een set punten met bekende coördinaten in beide
+      coördinaatreferentiesystemen.
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19111:2007'
+    link: 'https://www.iso.org/standard/41126.html'
+  date_accepted: 2007-07-01T00:00:00.000Z
+  date_amended: 2019-01-31T00:00:00.000Z
+  review_date: 2019-01-31T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2019-01-31T00:00:00.000Z
+  review_decision_event: 'Publication of document ISO 19111:2019(E)'
+  review_decision_notes: >-
+    This entry is superseded by the entry for coordinate transformation in ISO
+    19111:2019(E)
+  release: '-1'
+  terms:
+    - type: expression
+      designation: coördinaat transformatie
+      normative_status: null
+  _revisions:
+    current: 7026fd
+    tree:
+      7026fd:
+        object:
+          id: 763
+          definition: >-
+            coördinaatbewerking waarbij de twee coördinaatreferentiesystemen
+            zijn gebaseerd op verschillende datums
+          language_code: nld
+          notes:
+            - >-
+              Een coördinaat transformatie gebruikt parameters die empirisch
+              zijn afgeleid uit een set punten met bekende coördinaten in beide
+              coördinaatreferentiesystemen.
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19111:2007'
+            link: 'https://www.iso.org/standard/41126.html'
+          date_accepted: 2007-07-01T00:00:00.000Z
+          date_amended: 2019-01-31T00:00:00.000Z
+          review_date: 2019-01-31T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2019-01-31T00:00:00.000Z
+          review_decision_event: 'Publication of document ISO 19111:2019(E)'
+          review_decision_notes: >-
+            This entry is superseded by the entry for coordinate transformation
+            in ISO 19111:2019(E)
+          release: '-1'
+          terms:
+            - type: expression
+              designation: coördinaat transformatie
+              normative_status: null
+        parents: []
+        timeCreated: 2007-07-01T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+fin:
+  id: 763
+  definition: >-
+    menetelmä, jolla muunnetaan koordinaatteja kahden eri datumiin perustuvan
+    koordinaattijärjestelmän välillä
+  language_code: fin
+  notes:
+    - >-
+      Koordinaattimuunnoksessa käytetään parametreja, jotka on johdettu
+      empiirisesti joukosta pisteitä, joiden koordinaatit kummassakin
+      koordinaattijärjestelmässä tunnetaan.
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19111:2007'
+    link: 'https://www.iso.org/standard/41126.html'
+  date_accepted: 2007-07-01T00:00:00.000Z
+  date_amended: 2019-01-31T00:00:00.000Z
+  review_date: 2019-01-31T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2019-01-31T00:00:00.000Z
+  review_decision_event: 'Publication of document ISO 19111:2019(E)'
+  review_decision_notes: >-
+    This entry is superseded by the entry for coordinate transformation in ISO
+    19111:2019(E)
+  release: '-1'
+  terms:
+    - type: expression
+      designation: koordinaattimuunnos
+      normative_status: null
+  _revisions:
+    current: '277283'
+    tree:
+      '277283':
+        object:
+          id: 763
+          definition: >-
+            menetelmä, jolla muunnetaan koordinaatteja kahden eri datumiin
+            perustuvan koordinaattijärjestelmän välillä
+          language_code: fin
+          notes:
+            - >-
+              Koordinaattimuunnoksessa käytetään parametreja, jotka on johdettu
+              empiirisesti joukosta pisteitä, joiden koordinaatit kummassakin
+              koordinaattijärjestelmässä tunnetaan.
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19111:2007'
+            link: 'https://www.iso.org/standard/41126.html'
+          date_accepted: 2007-07-01T00:00:00.000Z
+          date_amended: 2019-01-31T00:00:00.000Z
+          review_date: 2019-01-31T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2019-01-31T00:00:00.000Z
+          review_decision_event: 'Publication of document ISO 19111:2019(E)'
+          review_decision_notes: >-
+            This entry is superseded by the entry for coordinate transformation
+            in ISO 19111:2019(E)
+          release: '-1'
+          terms:
+            - type: expression
+              designation: koordinaattimuunnos
+              normative_status: null
+        parents: []
+        timeCreated: 2007-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+fra:
+  id: 763
+  definition: >-
+    opération sur les coordonnées dans laquelle les deux systèmes de coordonnées
+    de référence sont basés sur des référentiels distincts
+  language_code: fra
+  notes: []
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19111:2007'
+    link: 'https://www.iso.org/standard/41126.html'
+  date_accepted: 2007-07-01T00:00:00.000Z
+  date_amended: 2019-01-31T00:00:00.000Z
+  review_date: 2019-01-31T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2019-01-31T00:00:00.000Z
+  review_decision_event: 'Publication of document ISO 19111:2019(E)'
+  review_decision_notes: >-
+    This entry is superseded by the entry for coordinate transformation in ISO
+    19111:2019(E)
+  release: '-1'
+  terms:
+    - type: expression
+      designation: transformation de coordonnées
+      normative_status: null
+  _revisions:
+    current: 85fbf1
+    tree:
+      85fbf1:
+        object:
+          id: 763
+          definition: >-
+            opération sur les coordonnées dans laquelle les deux systèmes de
+            coordonnées de référence sont basés sur des référentiels distincts
+          language_code: fra
+          notes: []
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19111:2007'
+            link: 'https://www.iso.org/standard/41126.html'
+          date_accepted: 2007-07-01T00:00:00.000Z
+          date_amended: 2019-01-31T00:00:00.000Z
+          review_date: 2019-01-31T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2019-01-31T00:00:00.000Z
+          review_decision_event: 'Publication of document ISO 19111:2019(E)'
+          review_decision_notes: >-
+            This entry is superseded by the entry for coordinate transformation
+            in ISO 19111:2019(E)
+          release: '-1'
+          terms:
+            - type: expression
+              designation: transformation de coordonnées
+              normative_status: null
+        parents: []
+        timeCreated: 2007-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+deu:
+  id: 763
+  definition: >-
+    Umrechnung von Koordinaten (Koordinatentransformation), deren
+    Koordinatenreferenzsysteme auf unterschiedlichen Datumen basieren
+  language_code: deu
+  notes:
+    - >-
+      A coordinate transformation uses parameters which are derived empirically
+      by a set of points with known coordinates in both coordinate reference
+      systems.
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19111:2007'
+    link: 'https://www.iso.org/standard/41126.html'
+  date_accepted: 2007-07-01T00:00:00.000Z
+  date_amended: 2019-01-31T00:00:00.000Z
+  review_date: 2019-01-31T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2019-01-31T00:00:00.000Z
+  review_decision_event: 'Publication of document ISO 19111:2019(E)'
+  review_decision_notes: >-
+    This entry is superseded by the entry for coordinate transformation in ISO
+    19111:2019(E)
+  release: '-1'
+  terms:
+    - type: expression
+      designation: Koordinatentransformation
+      normative_status: null
+  _revisions:
+    current: dd3d58
+    tree:
+      dd3d58:
+        object:
+          id: 763
+          definition: >-
+            Umrechnung von Koordinaten (Koordinatentransformation), deren
+            Koordinatenreferenzsysteme auf unterschiedlichen Datumen basieren
+          language_code: deu
+          notes:
+            - >-
+              A coordinate transformation uses parameters which are derived
+              empirically by a set of points with known coordinates in both
+              coordinate reference systems.
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19111:2007'
+            link: 'https://www.iso.org/standard/41126.html'
+          date_accepted: 2007-07-01T00:00:00.000Z
+          date_amended: 2019-01-31T00:00:00.000Z
+          review_date: 2019-01-31T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2019-01-31T00:00:00.000Z
+          review_decision_event: 'Publication of document ISO 19111:2019(E)'
+          review_decision_notes: >-
+            This entry is superseded by the entry for coordinate transformation
+            in ISO 19111:2019(E)
+          release: '-1'
+          terms:
+            - type: expression
+              designation: Koordinatentransformation
+              normative_status: null
+        parents: []
+        timeCreated: 2007-07-01T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+kor:
+  id: 763
+  definition: 서로 다른 데이텀을 기준으로 하는 두 개의 좌표 참조 체계에서의 좌표 연산
+  language_code: kor
+  notes:
+    - 좌표 변환은 경험적 매개 변수를 사용한다. 이는 두 개의 좌표 참조 체계에서 미리 알려진 좌표 점의 집합을 통해 도출된 것이다.
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19111:2007'
+    link: 'https://www.iso.org/standard/41126.html'
+  date_accepted: 2007-07-01T00:00:00.000Z
+  date_amended: 2019-01-31T00:00:00.000Z
+  review_date: 2019-01-31T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2019-01-31T00:00:00.000Z
+  review_decision_event: 'Publication of document ISO 19111:2019(E)'
+  review_decision_notes: >-
+    This entry is superseded by the entry for coordinate transformation in ISO
+    19111:2019(E)
+  release: '-1'
+  terms:
+    - type: expression
+      designation: 좌표 변환
+      normative_status: null
+  _revisions:
+    current: 7b9743
+    tree:
+      7b9743:
+        object:
+          id: 763
+          definition: 서로 다른 데이텀을 기준으로 하는 두 개의 좌표 참조 체계에서의 좌표 연산
+          language_code: kor
+          notes:
+            - >-
+              좌표 변환은 경험적 매개 변수를 사용한다. 이는 두 개의 좌표 참조 체계에서 미리 알려진 좌표 점의 집합을 통해 도출된
+              것이다.
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19111:2007'
+            link: 'https://www.iso.org/standard/41126.html'
+          date_accepted: 2007-07-01T00:00:00.000Z
+          date_amended: 2019-01-31T00:00:00.000Z
+          review_date: 2019-01-31T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2019-01-31T00:00:00.000Z
+          review_decision_event: 'Publication of document ISO 19111:2019(E)'
+          review_decision_notes: >-
+            This entry is superseded by the entry for coordinate transformation
+            in ISO 19111:2019(E)
+          release: '-1'
+          terms:
+            - type: expression
+              designation: 좌표 변환
+              normative_status: null
+        parents: []
+        timeCreated: 2007-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+msa:
+  id: 763
+  language_code: msa
+  notes:
+    - >-
+      A coordinate transformation uses parameters which are derived empirically
+      by a set of points with known coordinates in both coordinate reference
+      systems.
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19111:2007'
+    link: 'https://www.iso.org/standard/41126.html'
+  date_accepted: 2007-07-01T00:00:00.000Z
+  date_amended: 2019-01-31T00:00:00.000Z
+  review_date: 2019-01-31T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2019-01-31T00:00:00.000Z
+  review_decision_event: 'Publication of document ISO 19111:2019(E)'
+  review_decision_notes: >-
+    This entry is superseded by the entry for coordinate transformation in ISO
+    19111:2019(E)
+  release: '-1'
+  terms:
+    - type: expression
+      designation: transformasi koordinat
+      normative_status: null
+  _revisions:
+    current: 4c5f8a
+    tree:
+      4c5f8a:
+        object:
+          id: 763
+          language_code: msa
+          notes:
+            - >-
+              A coordinate transformation uses parameters which are derived
+              empirically by a set of points with known coordinates in both
+              coordinate reference systems.
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19111:2007'
+            link: 'https://www.iso.org/standard/41126.html'
+          date_accepted: 2007-07-01T00:00:00.000Z
+          date_amended: 2019-01-31T00:00:00.000Z
+          review_date: 2019-01-31T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2019-01-31T00:00:00.000Z
+          review_decision_event: 'Publication of document ISO 19111:2019(E)'
+          review_decision_notes: >-
+            This entry is superseded by the entry for coordinate transformation
+            in ISO 19111:2019(E)
+          release: '-1'
+          terms:
+            - type: expression
+              designation: transformasi koordinat
+              normative_status: null
+        parents: []
+        timeCreated: 2007-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+pol:
+  id: 763
+  definition: >-
+    operacja na współrzędnych,w której dwa systemy odniesienia opierają się na
+    różnych układach odniesienia
+  language_code: pol
+  notes:
+    - >-
+      Transformacja współrzędnych wykorzystuje parametry pozyskane empirycznie
+      na podstawie zbioru punktów o znanych współrzędnych w obu systemach
+      odniesienia.
+  examples: []
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19111:2007'
+    link: 'https://www.iso.org/standard/41126.html'
+  date_accepted: 2007-07-01T00:00:00.000Z
+  date_amended: 2019-01-31T00:00:00.000Z
+  review_date: 2019-01-31T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2019-01-31T00:00:00.000Z
+  review_decision_event: 'Publication of document ISO 19111:2019(E)'
+  review_decision_notes: >-
+    This entry is superseded by the entry for coordinate transformation in ISO
+    19111:2019(E)
+  release: '-1'
+  terms:
+    - type: expression
+      designation: transformacja współrzędnych
+      normative_status: null
+  _revisions:
+    current: b65ecd
+    tree:
+      b65ecd:
+        object:
+          id: 763
+          definition: >-
+            operacja na współrzędnych,w której dwa systemy odniesienia opierają
+            się na różnych układach odniesienia
+          language_code: pol
+          notes:
+            - >-
+              Transformacja współrzędnych wykorzystuje parametry pozyskane
+              empirycznie na podstawie zbioru punktów o znanych współrzędnych w
+              obu systemach odniesienia.
+          examples: []
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19111:2007'
+            link: 'https://www.iso.org/standard/41126.html'
+          date_accepted: 2007-07-01T00:00:00.000Z
+          date_amended: 2019-01-31T00:00:00.000Z
+          review_date: 2019-01-31T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2019-01-31T00:00:00.000Z
+          review_decision_event: 'Publication of document ISO 19111:2019(E)'
+          review_decision_notes: >-
+            This entry is superseded by the entry for coordinate transformation
+            in ISO 19111:2019(E)
+          release: '-1'
+          terms:
+            - type: expression
+              designation: transformacja współrzędnych
+              normative_status: null
+        parents: []
+        timeCreated: 2007-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 763
+  definition: >-
+    операция с координатами пространственных объектов при переходе от одной
+    координатной системы отсчета к координатной системе отсчета, основанной на
+    других датах
+  language_code: rus
+  notes:
+    - >-
+      При трансформировании координат используют параметры, которые могут быть
+      определены опытным путем с использованием набора пунктов, общих для обеих
+      координатных систем отсчета
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19111:2007'
+    link: 'https://www.iso.org/standard/41126.html'
+  date_accepted: 2007-07-01T00:00:00.000Z
+  date_amended: 2019-01-31T00:00:00.000Z
+  review_date: 2019-01-31T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2019-01-31T00:00:00.000Z
+  review_decision_event: 'Publication of document ISO 19111:2019(E)'
+  review_decision_notes: >-
+    This entry is superseded by the entry for coordinate transformation in ISO
+    19111:2019(E)
+  release: '-1'
+  terms:
+    - type: expression
+      designation: трансформирование координат
+      normative_status: null
+  _revisions:
+    current: 33cf14
+    tree:
+      33cf14:
+        object:
+          id: 763
+          definition: >-
+            операция с координатами пространственных объектов при переходе от
+            одной координатной системы отсчета к координатной системе отсчета,
+            основанной на других датах
+          language_code: rus
+          notes:
+            - >-
+              При трансформировании координат используют параметры, которые
+              могут быть определены опытным путем с использованием набора
+              пунктов, общих для обеих координатных систем отсчета
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19111:2007'
+            link: 'https://www.iso.org/standard/41126.html'
+          date_accepted: 2007-07-01T00:00:00.000Z
+          date_amended: 2019-01-31T00:00:00.000Z
+          review_date: 2019-01-31T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2019-01-31T00:00:00.000Z
+          review_decision_event: 'Publication of document ISO 19111:2019(E)'
+          review_decision_notes: >-
+            This entry is superseded by the entry for coordinate transformation
+            in ISO 19111:2019(E)
+          release: '-1'
+          terms:
+            - type: expression
+              designation: трансформирование координат
+              normative_status: null
+        parents: []
+        timeCreated: 2007-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 763
+  definition: >-
+    operación de coordenadas en la que los dos sistemas de referencia de
+    coordenadas están basados en diferentes datums
+  language_code: spa
+  notes:
+    - >-
+      Una transformación de coordenadas usa parámetros obtenidos empíricamente a
+      partir de un conjunto de puntos con coordenadas conocidas en ambos
+      sistemas de referencia de coordenadas.
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19111:2007'
+    link: 'https://www.iso.org/standard/41126.html'
+  date_accepted: 2007-07-01T00:00:00.000Z
+  date_amended: 2019-01-31T00:00:00.000Z
+  review_date: 2019-01-31T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2019-01-31T00:00:00.000Z
+  review_decision_event: 'Publication of document ISO 19111:2019(E)'
+  review_decision_notes: >-
+    This entry is superseded by the entry for coordinate transformation in ISO
+    19111:2019(E)
+  release: '-1'
+  terms:
+    - type: expression
+      designation: transformación de coordenadas
+      normative_status: null
+  _revisions:
+    current: 0d64d2
+    tree:
+      0d64d2:
+        object:
+          id: 763
+          definition: >-
+            operación de coordenadas en la que los dos sistemas de referencia de
+            coordenadas están basados en diferentes datums
+          language_code: spa
+          notes:
+            - >-
+              Una transformación de coordenadas usa parámetros obtenidos
+              empíricamente a partir de un conjunto de puntos con coordenadas
+              conocidas en ambos sistemas de referencia de coordenadas.
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19111:2007'
+            link: 'https://www.iso.org/standard/41126.html'
+          date_accepted: 2007-07-01T00:00:00.000Z
+          date_amended: 2019-01-31T00:00:00.000Z
+          review_date: 2019-01-31T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2019-01-31T00:00:00.000Z
+          review_decision_event: 'Publication of document ISO 19111:2019(E)'
+          review_decision_notes: >-
+            This entry is superseded by the entry for coordinate transformation
+            in ISO 19111:2019(E)
+          release: '-1'
+          terms:
+            - type: expression
+              designation: transformación de coordenadas
+              normative_status: null
+        parents: []
+        timeCreated: 2007-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+swe:
+  id: 763
+  definition: >-
+    koordinatomräkning där de  två koordinatbaserade referenssystemen har olika
+    datum
+  country_code: swe
+  language_code: swe
+  notes:
+    - >-
+      A coordinate transformation uses parameters which are derived empirically
+      by a set of points with known coordinates in both coordinate reference
+      systems.
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19111:2007'
+    link: 'https://www.iso.org/standard/41126.html'
+  date_accepted: 2007-07-01T00:00:00.000Z
+  date_amended: 2019-01-31T00:00:00.000Z
+  review_date: 2019-01-31T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2019-01-31T00:00:00.000Z
+  review_decision_event: 'Publication of document ISO 19111:2019(E)'
+  review_decision_notes: >-
+    This entry is superseded by the entry for coordinate transformation in ISO
+    19111:2019(E)
+  release: '-1'
+  terms:
+    - type: expression
+      designation: koordinattransformaion
+      normative_status: null
+  _revisions:
+    current: d465c4
+    tree:
+      d465c4:
+        object:
+          id: 763
+          definition: >-
+            koordinatomräkning där de  två koordinatbaserade referenssystemen
+            har olika datum
+          country_code: swe
+          language_code: swe
+          notes:
+            - >-
+              A coordinate transformation uses parameters which are derived
+              empirically by a set of points with known coordinates in both
+              coordinate reference systems.
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19111:2007'
+            link: 'https://www.iso.org/standard/41126.html'
+          date_accepted: 2007-07-01T00:00:00.000Z
+          date_amended: 2019-01-31T00:00:00.000Z
+          review_date: 2019-01-31T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2019-01-31T00:00:00.000Z
+          review_decision_event: 'Publication of document ISO 19111:2019(E)'
+          review_decision_notes: >-
+            This entry is superseded by the entry for coordinate transformation
+            in ISO 19111:2019(E)
+          release: '-1'
+          terms:
+            - type: expression
+              designation: koordinattransformaion
+              normative_status: null
+        parents: []
+        timeCreated: 2007-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

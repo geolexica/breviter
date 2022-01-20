@@ -1,0 +1,320 @@
+term: boundary face
+termid: 1359
+eng:
+  id: 1359
+  definition: >-
+    face that is used in the 3-dimensional representation of a boundary of a
+    spatial unit
+  language_code: eng
+  notes:
+    - >-
+      Boundary faces are used when the implied vertical and unbounded faces of a
+      boundary face string are not sufficient to describe 3D spatial units.
+      Boundary faces close volumes in height (e.g. every apartment floor), or in
+      depth (e.g. an underground parking garage), or in all other directions to
+      form a bounded volume. The volumes represent legal space (in contrast with
+      physical space).
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19152:2012'
+    clause: 4.1.4
+    link: 'https://www.iso.org/standard/51206.html'
+  date_accepted: 2012-12-01T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: boundary face
+      normative_status: preferred
+  _revisions:
+    current: 3d1185
+    tree:
+      3d1185:
+        object:
+          id: 1359
+          definition: >-
+            face that is used in the 3-dimensional representation of a boundary
+            of a spatial unit
+          language_code: eng
+          notes:
+            - >-
+              Boundary faces are used when the implied vertical and unbounded
+              faces of a boundary face string are not sufficient to describe 3D
+              spatial units. Boundary faces close volumes in height (e.g. every
+              apartment floor), or in depth (e.g. an underground parking
+              garage), or in all other directions to form a bounded volume. The
+              volumes represent legal space (in contrast with physical space).
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19152:2012'
+            clause: 4.1.4
+            link: 'https://www.iso.org/standard/51206.html'
+          date_accepted: 2012-12-01T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: boundary face
+              normative_status: preferred
+        parents: []
+        timeCreated: 2012-12-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+kor:
+  id: 1359
+  definition: 공간 단위 경계의 3차원 표현에서 사용되는 면
+  language_code: kor
+  notes:
+    - >-
+      Boundary faces are used when the implied vertical and unbounded faces of a
+      boundary face string are not sufficient to describe 3D spatial units.
+      Boundary faces close volumes in height (e.g. every apartment floor), or in
+      depth (e.g. an underground parking garage), or in all other directions to
+      form a bounded volume. The volumes represent legal space (in contrast with
+      physical space).
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19152:2012'
+    clause: 4.1.4
+    link: 'https://www.iso.org/standard/51206.html'
+  date_accepted: 2012-12-01T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: 경계면
+      normative_status: preferred
+  _revisions:
+    current: d23d40
+    tree:
+      d23d40:
+        object:
+          id: 1359
+          definition: 공간 단위 경계의 3차원 표현에서 사용되는 면
+          language_code: kor
+          notes:
+            - >-
+              Boundary faces are used when the implied vertical and unbounded
+              faces of a boundary face string are not sufficient to describe 3D
+              spatial units. Boundary faces close volumes in height (e.g. every
+              apartment floor), or in depth (e.g. an underground parking
+              garage), or in all other directions to form a bounded volume. The
+              volumes represent legal space (in contrast with physical space).
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19152:2012'
+            clause: 4.1.4
+            link: 'https://www.iso.org/standard/51206.html'
+          date_accepted: 2012-12-01T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: 경계면
+              normative_status: preferred
+        parents: []
+        timeCreated: 2012-12-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 1359
+  definition: >-
+    грань,  используемая в трехмерном представлении границы пространственной
+    единицы
+  language_code: rus
+  notes:
+    - >-
+      Окаймляющие грани  используются, когда подразумеваемых вертикальных и
+      неограниченных граней полосы окаймляющей грани  недостаточно для описания
+      3D пространственных единиц. Окаймляющие грани закрывают объемы по высоте
+      (например, каждый этаж квартиры), или по глубине (например, подземный
+      гараж), или во всех других направлениях, чтобы сформировать ограниченный
+      объем. Объемы представляют собой правовое пространство (в отличие от
+      физического пространства).
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19152:2012'
+    clause: 4.1.4
+    link: 'https://www.iso.org/standard/51206.html'
+  lineage_source: 'ISO 19152:2012'
+  date_accepted: 2012-12-01T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: окаймляюшая грань
+      normative_status: preferred
+  _revisions:
+    current: f3242d
+    tree:
+      f3242d:
+        object:
+          id: 1359
+          definition: >-
+            грань,  используемая в трехмерном представлении границы
+            пространственной единицы
+          language_code: rus
+          notes:
+            - >-
+              Окаймляющие грани  используются, когда подразумеваемых
+              вертикальных и неограниченных граней полосы окаймляющей грани 
+              недостаточно для описания 3D пространственных единиц. Окаймляющие
+              грани закрывают объемы по высоте (например, каждый этаж квартиры),
+              или по глубине (например, подземный гараж), или во всех других
+              направлениях, чтобы сформировать ограниченный объем. Объемы
+              представляют собой правовое пространство (в отличие от физического
+              пространства).
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19152:2012'
+            clause: 4.1.4
+            link: 'https://www.iso.org/standard/51206.html'
+          lineage_source: 'ISO 19152:2012'
+          date_accepted: 2012-12-01T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: окаймляюшая грань
+              normative_status: preferred
+        parents: []
+        timeCreated: 2012-12-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 1359
+  definition: >-
+    cara  que se usa en la representación tridimensional de una frontera de una
+    unidad espacial
+  language_code: spa
+  notes:
+    - >-
+      Las caras lindero se utilizan cuando las caras verticales y no limitadas
+      implicadas de una cadena de caras lindero no son suficiente para describir
+      las unidades espaciales 3D. Las caras lindero cierran volúmenes en altura
+      (por ejemplo, la planta de cada apartamento), o en profundidad (por
+      ejemplo, un garaje subterráneo) o en todas las otras direcciones para
+      formar un volumen limitado. Los volúmenes representan espacio jurídico (en
+      contraste con el espacio físico)
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19152:2012'
+    clause: 4.1.4
+    link: 'https://www.iso.org/standard/51206.html'
+  date_accepted: 2012-12-01T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: cara frontera
+      normative_status: preferred
+  _revisions:
+    current: f1cc22
+    tree:
+      f1cc22:
+        object:
+          id: 1359
+          definition: >-
+            cara  que se usa en la representación tridimensional de una frontera
+            de una unidad espacial
+          language_code: spa
+          notes:
+            - >-
+              Las caras lindero se utilizan cuando las caras verticales y no
+              limitadas implicadas de una cadena de caras lindero no son
+              suficiente para describir las unidades espaciales 3D. Las caras
+              lindero cierran volúmenes en altura (por ejemplo, la planta de
+              cada apartamento), o en profundidad (por ejemplo, un garaje
+              subterráneo) o en todas las otras direcciones para formar un
+              volumen limitado. Los volúmenes representan espacio jurídico (en
+              contraste con el espacio físico)
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19152:2012'
+            clause: 4.1.4
+            link: 'https://www.iso.org/standard/51206.html'
+          date_accepted: 2012-12-01T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: cara frontera
+              normative_status: preferred
+        parents: []
+        timeCreated: 2012-12-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+swe:
+  id: 1359
+  definition: tredimensionell yta som används som avgränsning av ett gränssatt område
+  country_code: swe
+  language_code: swe
+  notes:
+    - >-
+      Boundary faces are used when the implied vertical and unbounded faces of a
+      boundary face string are not sufficient to describe 3D spatial units.
+      Boundary faces close volumes in height (e.g. every apartment floor), or in
+      depth (e.g. an underground parking garage), or in all other directions to
+      form a bounded volume. The volumes represent legal space (in contrast with
+      physical space).
+    - >-
+      D-gränsytor avgränsar med ”golv” och/eller ”tak”, eller på annat sätt för
+      att definiera var rättigheter, skyldigheter och ansvar gäller.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19152:2012'
+    clause: 4.1.4
+    link: 'https://www.iso.org/standard/51206.html'
+  lineage_source: (Type reference to national language document)
+  date_accepted: 2012-12-01T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: 3D-gränsyta
+      normative_status: preferred
+  _revisions:
+    current: 3c7156
+    tree:
+      3c7156:
+        object:
+          id: 1359
+          definition: >-
+            tredimensionell yta som används som avgränsning av ett gränssatt
+            område
+          country_code: swe
+          language_code: swe
+          notes:
+            - >-
+              Boundary faces are used when the implied vertical and unbounded
+              faces of a boundary face string are not sufficient to describe 3D
+              spatial units. Boundary faces close volumes in height (e.g. every
+              apartment floor), or in depth (e.g. an underground parking
+              garage), or in all other directions to form a bounded volume. The
+              volumes represent legal space (in contrast with physical space).
+            - >-
+              D-gränsytor avgränsar med ”golv” och/eller ”tak”, eller på annat
+              sätt för att definiera var rättigheter, skyldigheter och ansvar
+              gäller.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19152:2012'
+            clause: 4.1.4
+            link: 'https://www.iso.org/standard/51206.html'
+          lineage_source: (Type reference to national language document)
+          date_accepted: 2012-12-01T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: 3D-gränsyta
+              normative_status: preferred
+        parents: []
+        timeCreated: 2012-12-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

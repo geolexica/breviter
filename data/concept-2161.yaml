@@ -1,0 +1,57 @@
+term: footprint
+termid: 2161
+eng:
+  id: 2161
+  definition: 2D extent or projection of a 3D object on a horizontal surface
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19107:2019'
+    clause: '(E), 3.40'
+    link: 'https://www.iso.org/standard/66175.html'
+  date_accepted: 2019-12-02T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: Normal ISO processing
+  review_decision_notes: 'Publication of document ISO 19107:2019(E)'
+  release: '5'
+  terms:
+    - type: expression
+      designation: footprint
+      normative_status: preferred
+  _revisions:
+    current: 5d93a9
+    tree:
+      5d93a9:
+        object:
+          id: 2161
+          definition: 2D extent or projection of a 3D object on a horizontal surface
+          language_code: eng
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19107:2019'
+            clause: '(E), 3.40'
+            link: 'https://www.iso.org/standard/66175.html'
+          date_accepted: 2019-12-02T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: Normal ISO processing
+          review_decision_notes: 'Publication of document ISO 19107:2019(E)'
+          release: '5'
+          terms:
+            - type: expression
+              designation: footprint
+              normative_status: preferred
+        parents: []
+        timeCreated: 2019-12-02T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

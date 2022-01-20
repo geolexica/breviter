@@ -1,0 +1,198 @@
+term: Differential Global Navigational Satellite System
+termid: 1559
+eng:
+  id: 1559
+  definition: >-
+    enhancement to Global Positioning System that uses GNSS and DGNSS to
+    broadcast the difference between the positions indicated by the satellite
+    systems and the known fixed positions
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO/TS 19130-2:2014'
+    clause: '4.14'
+    link: 'https://www.iso.org/standard/56113.html'
+  date_accepted: 2014-01-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: Differential Global Navigational Satellite System
+      normative_status: preferred
+  _revisions:
+    current: a27466
+    tree:
+      a27466:
+        object:
+          id: 1559
+          definition: >-
+            enhancement to Global Positioning System that uses GNSS and DGNSS to
+            broadcast the difference between the positions indicated by the
+            satellite systems and the known fixed positions
+          language_code: eng
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO/TS 19130-2:2014'
+            clause: '4.14'
+            link: 'https://www.iso.org/standard/56113.html'
+          date_accepted: 2014-01-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: Differential Global Navigational Satellite System
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-01-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+kor:
+  id: 1559
+  definition: >-
+    위성 체계와 인지된 고정 위치에 의해 표시된 위치들 사이의 차이를 전파하기 위해 GPS기능 을 향상시키는 것으로, GNSS와 DGNSS를
+    사용함
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO/TS 19130-2:2014'
+    clause: '4.14'
+    link: 'https://www.iso.org/standard/56113.html'
+  date_accepted: 2014-01-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: 차등 글로벌 항행 위성 시스템
+      normative_status: preferred
+  _revisions:
+    current: '981657'
+    tree:
+      '981657':
+        object:
+          id: 1559
+          definition: >-
+            위성 체계와 인지된 고정 위치에 의해 표시된 위치들 사이의 차이를 전파하기 위해 GPS기능 을 향상시키는 것으로,
+            GNSS와 DGNSS를 사용함
+          language_code: kor
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO/TS 19130-2:2014'
+            clause: '4.14'
+            link: 'https://www.iso.org/standard/56113.html'
+          date_accepted: 2014-01-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: 차등 글로벌 항행 위성 시스템
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-01-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 1559
+  definition: >-
+    расширение Глобальной системы позиционирования, которая использует GNSS и
+    DGNSS для трансляции разницы между позициями, указанными спутниковыми
+    системами, и известными фиксированными позициями
+  language_code: rus
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO/TS 19130-2:2014'
+    clause: '4.14'
+    link: 'https://www.iso.org/standard/56113.html'
+  lineage_source: 'ISO/TS 19130-2:2014'
+  date_accepted: 2014-01-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: дифференциальная глобальная навигационная спутниковая система
+      normative_status: preferred
+  _revisions:
+    current: bc3a76
+    tree:
+      bc3a76:
+        object:
+          id: 1559
+          definition: >-
+            расширение Глобальной системы позиционирования, которая использует
+            GNSS и DGNSS для трансляции разницы между позициями, указанными
+            спутниковыми системами, и известными фиксированными позициями
+          language_code: rus
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO/TS 19130-2:2014'
+            clause: '4.14'
+            link: 'https://www.iso.org/standard/56113.html'
+          lineage_source: 'ISO/TS 19130-2:2014'
+          date_accepted: 2014-01-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: дифференциальная глобальная навигационная спутниковая система
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-01-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 1559
+  definition: >-
+    mejora del Sistema de Posicionamiento Global que usa GNSS y DGNSS para
+    radiofundir la diferencia entre las posiciones indicadas por los sistemas de
+    satélites y la posición fija conocida
+  language_code: spa
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO/TS 19130-2:2014'
+    clause: '4.14'
+    link: 'https://www.iso.org/standard/56113.html'
+  date_accepted: 2014-01-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: Sistema Diferencial de Navegación Global por Satélite
+      normative_status: preferred
+  _revisions:
+    current: 8ac9e8
+    tree:
+      8ac9e8:
+        object:
+          id: 1559
+          definition: >-
+            mejora del Sistema de Posicionamiento Global que usa GNSS y DGNSS
+            para radiofundir la diferencia entre las posiciones indicadas por
+            los sistemas de satélites y la posición fija conocida
+          language_code: spa
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO/TS 19130-2:2014'
+            clause: '4.14'
+            link: 'https://www.iso.org/standard/56113.html'
+          date_accepted: 2014-01-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: Sistema Diferencial de Navegación Global por Satélite
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-01-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

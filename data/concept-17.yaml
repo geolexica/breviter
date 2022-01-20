@@ -1,0 +1,813 @@
+term: association <UML>
+termid: 17
+eng:
+  id: 17
+  definition: >-
+    semantic relationship between two or more classifiers that specifies
+    connections among their instances
+  language_code: eng
+  notes:
+    - >-
+      A binary association is an association among exactly two classifiers
+      (including the possibility of an association from a classifier to itself).
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: ISO/IEC 19501
+    link: 'https://www.iso.org/standard/32620.html'
+  lineage_source: 'ISO/TS 19103:2005 ,4.2.3'
+  lineage_source_similarity: 1
+  date_accepted: 2005-07-15T00:00:00.000Z
+  date_amended: 2015-07-01T00:00:00.000Z
+  review_date: 2009-08-31T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2015-07-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19150-2:2015(E)'
+  review_decision_notes: >-
+    This entry is superseded by the entry for "association <UML>" in ISO
+    19150-2:2015
+  release: '-1'
+  terms:
+    - type: expression
+      designation: association <UML>
+      normative_status: null
+  _revisions:
+    current: fb8c3e
+    tree:
+      fb8c3e:
+        object:
+          id: 17
+          definition: >-
+            semantic relationship between two or more classifiers that specifies
+            connections among their instances
+          language_code: eng
+          notes:
+            - >-
+              A binary association is an association among exactly two
+              classifiers (including the possibility of an association from a
+              classifier to itself).
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: ISO/IEC 19501
+            link: 'https://www.iso.org/standard/32620.html'
+          lineage_source: 'ISO/TS 19103:2005 ,4.2.3'
+          lineage_source_similarity: 1
+          date_accepted: 2005-07-15T00:00:00.000Z
+          date_amended: 2015-07-01T00:00:00.000Z
+          review_date: 2009-08-31T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2015-07-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19150-2:2015(E)'
+          review_decision_notes: >-
+            This entry is superseded by the entry for "association <UML>" in ISO
+            19150-2:2015
+          release: '-1'
+          terms:
+            - type: expression
+              designation: association <UML>
+              normative_status: null
+        parents: []
+        timeCreated: 2005-07-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+ara:
+  id: 17
+  abbrev: ''
+  definition: |-
+    العلاقة اللغوية القائمة بين مصنِّفَيْن أو أكثر
+    التي تحدد الترابط بين عناصرها
+  language_code: ara
+  notes:
+    - >-
+      الربط الثنائي هو عبارة عن ربط بين مصنِّفَيْن بالضبط ( ويشمل ذلك إمكانية
+      الربط من مصنِّف إلى نفسه)
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: ISO/IEC 19501
+    link: 'https://www.iso.org/standard/32620.html'
+  lineage_source: 'ISO/TS 19103:2005 ,4.2.3'
+  lineage_source_similarity: 1
+  date_accepted: 2005-07-15T00:00:00.000Z
+  date_amended: 2015-07-01T00:00:00.000Z
+  review_date: 2009-08-31T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2015-07-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19150-2:2015(E)'
+  review_decision_notes: >-
+    This entry is superseded by the entry for "association <UML>" in ISO
+    19150-2:2015
+  release: '-1'
+  terms:
+    - type: expression
+      designation: ارتباط UML
+      normative_status: null
+  _revisions:
+    current: '200e52'
+    tree:
+      '200e52':
+        object:
+          id: 17
+          abbrev: ''
+          definition: |-
+            العلاقة اللغوية القائمة بين مصنِّفَيْن أو أكثر
+            التي تحدد الترابط بين عناصرها
+          language_code: ara
+          notes:
+            - >-
+              الربط الثنائي هو عبارة عن ربط بين مصنِّفَيْن بالضبط ( ويشمل ذلك
+              إمكانية الربط من مصنِّف إلى نفسه)
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: ISO/IEC 19501
+            link: 'https://www.iso.org/standard/32620.html'
+          lineage_source: 'ISO/TS 19103:2005 ,4.2.3'
+          lineage_source_similarity: 1
+          date_accepted: 2005-07-15T00:00:00.000Z
+          date_amended: 2015-07-01T00:00:00.000Z
+          review_date: 2009-08-31T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2015-07-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19150-2:2015(E)'
+          review_decision_notes: >-
+            This entry is superseded by the entry for "association <UML>" in ISO
+            19150-2:2015
+          release: '-1'
+          terms:
+            - type: expression
+              designation: ارتباط UML
+              normative_status: null
+        parents: []
+        timeCreated: 2005-07-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+zho:
+  id: 17
+  definition: <UML>两个或两个以上类之间的语义关系，定义了类中实例间的连接。
+  language_code: zho
+  notes:
+    - 二元关联确指两个类元之间的关联（包括一个类元与其本身的关联）
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: ISO/IEC 19501
+    link: 'https://www.iso.org/standard/32620.html'
+  lineage_source: 'ISO/TS 19103:2005 ,4.2.3'
+  lineage_source_similarity: 1
+  date_accepted: 2005-07-15T00:00:00.000Z
+  date_amended: 2015-07-01T00:00:00.000Z
+  review_date: 2009-08-31T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2015-07-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19150-2:2015(E)'
+  review_decision_notes: >-
+    This entry is superseded by the entry for "association <UML>" in ISO
+    19150-2:2015
+  release: '-1'
+  terms:
+    - type: expression
+      designation: 关联<UML>
+      normative_status: null
+  _revisions:
+    current: 6b20af
+    tree:
+      6b20af:
+        object:
+          id: 17
+          definition: <UML>两个或两个以上类之间的语义关系，定义了类中实例间的连接。
+          language_code: zho
+          notes:
+            - 二元关联确指两个类元之间的关联（包括一个类元与其本身的关联）
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: ISO/IEC 19501
+            link: 'https://www.iso.org/standard/32620.html'
+          lineage_source: 'ISO/TS 19103:2005 ,4.2.3'
+          lineage_source_similarity: 1
+          date_accepted: 2005-07-15T00:00:00.000Z
+          date_amended: 2015-07-01T00:00:00.000Z
+          review_date: 2009-08-31T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2015-07-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19150-2:2015(E)'
+          review_decision_notes: >-
+            This entry is superseded by the entry for "association <UML>" in ISO
+            19150-2:2015
+          release: '-1'
+          terms:
+            - type: expression
+              designation: 关联<UML>
+              normative_status: null
+        parents: []
+        timeCreated: 2005-07-15T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+dan:
+  id: 17
+  definition: >-
+    semantisk sammenhæng imellem to eller flere klassifikatorer, som
+    specificerer forbindelser mellem deres instanser
+  language_code: dan
+  notes:
+    - >-
+      En binær association er en association imellem nøjagtig to klassifikatorer
+      (inkl. muligheden for en association fra en klassifikator til sig selv).
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: ISO/IEC 19501
+    link: 'https://www.iso.org/standard/32620.html'
+  lineage_source: 'ISO/TS 19103:2005 ,4.2.3'
+  lineage_source_similarity: 1
+  date_accepted: 2005-07-15T00:00:00.000Z
+  date_amended: 2015-07-01T00:00:00.000Z
+  review_date: 2009-08-31T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2015-07-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19150-2:2015(E)'
+  review_decision_notes: >-
+    This entry is superseded by the entry for "association <UML>" in ISO
+    19150-2:2015
+  release: '-1'
+  terms:
+    - type: expression
+      designation: association <UML>
+      normative_status: null
+  _revisions:
+    current: 12cd66
+    tree:
+      12cd66:
+        object:
+          id: 17
+          definition: >-
+            semantisk sammenhæng imellem to eller flere klassifikatorer, som
+            specificerer forbindelser mellem deres instanser
+          language_code: dan
+          notes:
+            - >-
+              En binær association er en association imellem nøjagtig to
+              klassifikatorer (inkl. muligheden for en association fra en
+              klassifikator til sig selv).
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: ISO/IEC 19501
+            link: 'https://www.iso.org/standard/32620.html'
+          lineage_source: 'ISO/TS 19103:2005 ,4.2.3'
+          lineage_source_similarity: 1
+          date_accepted: 2005-07-15T00:00:00.000Z
+          date_amended: 2015-07-01T00:00:00.000Z
+          review_date: 2009-08-31T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2015-07-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19150-2:2015(E)'
+          review_decision_notes: >-
+            This entry is superseded by the entry for "association <UML>" in ISO
+            19150-2:2015
+          release: '-1'
+          terms:
+            - type: expression
+              designation: association <UML>
+              normative_status: null
+        parents: []
+        timeCreated: 2005-07-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+fin:
+  id: 17
+  definition: >-
+    kahden tai useamman luokittelijan välinen semanttinen suhde, joka määrittää
+    luokittelijoiden mukaisten ilmentymien väliset yhteydet
+  language_code: fin
+  notes:
+    - >-
+      Binäärinen assosiaatio määrittää suhteen täsmälleen kahden luokittelijan
+      välillä (mukaan lukien luokittelijan assosiaatiosuhde itseensä).
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: ISO/IEC 19501
+    link: 'https://www.iso.org/standard/32620.html'
+  lineage_source: 'ISO/TS 19103:2005 ,4.2.3'
+  lineage_source_similarity: 1
+  date_accepted: 2005-07-15T00:00:00.000Z
+  date_amended: 2015-07-01T00:00:00.000Z
+  review_date: 2009-08-31T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2015-07-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19150-2:2015(E)'
+  review_decision_notes: >-
+    This entry is superseded by the entry for "association <UML>" in ISO
+    19150-2:2015
+  release: '-1'
+  terms:
+    - type: expression
+      designation: assosiaatio <UML>
+      normative_status: null
+    - designation: assosiaatiosuhde <UML>
+      type: expression
+  _revisions:
+    current: b6ec82
+    tree:
+      b6ec82:
+        object:
+          id: 17
+          definition: >-
+            kahden tai useamman luokittelijan välinen semanttinen suhde, joka
+            määrittää luokittelijoiden mukaisten ilmentymien väliset yhteydet
+          language_code: fin
+          notes:
+            - >-
+              Binäärinen assosiaatio määrittää suhteen täsmälleen kahden
+              luokittelijan välillä (mukaan lukien luokittelijan
+              assosiaatiosuhde itseensä).
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: ISO/IEC 19501
+            link: 'https://www.iso.org/standard/32620.html'
+          lineage_source: 'ISO/TS 19103:2005 ,4.2.3'
+          lineage_source_similarity: 1
+          date_accepted: 2005-07-15T00:00:00.000Z
+          date_amended: 2015-07-01T00:00:00.000Z
+          review_date: 2009-08-31T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2015-07-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19150-2:2015(E)'
+          review_decision_notes: >-
+            This entry is superseded by the entry for "association <UML>" in ISO
+            19150-2:2015
+          release: '-1'
+          terms:
+            - type: expression
+              designation: assosiaatio <UML>
+              normative_status: null
+            - designation: assosiaatiosuhde <UML>
+              type: expression
+        parents: []
+        timeCreated: 2005-07-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+fra:
+  id: 17
+  definition: >-
+    relation sémantique entre deux ou plusieurs classificateurs qui spécifient
+    des connections parmi leurs instances
+  language_code: fra
+  notes: []
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: ISO/IEC 19501
+    link: 'https://www.iso.org/standard/32620.html'
+  lineage_source: 'ISO/TS 19103:2005 ,4.2.3'
+  lineage_source_similarity: 1
+  date_accepted: 2005-07-15T00:00:00.000Z
+  date_amended: 2015-07-01T00:00:00.000Z
+  review_date: 2009-08-31T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2015-07-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19150-2:2015(E)'
+  review_decision_notes: >-
+    This entry is superseded by the entry for "association <UML>" in ISO
+    19150-2:2015
+  release: '-1'
+  terms:
+    - type: expression
+      designation: association <UML>
+      normative_status: null
+  _revisions:
+    current: 4a99fa
+    tree:
+      4a99fa:
+        object:
+          id: 17
+          definition: >-
+            relation sémantique entre deux ou plusieurs classificateurs qui
+            spécifient des connections parmi leurs instances
+          language_code: fra
+          notes: []
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: ISO/IEC 19501
+            link: 'https://www.iso.org/standard/32620.html'
+          lineage_source: 'ISO/TS 19103:2005 ,4.2.3'
+          lineage_source_similarity: 1
+          date_accepted: 2005-07-15T00:00:00.000Z
+          date_amended: 2015-07-01T00:00:00.000Z
+          review_date: 2009-08-31T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2015-07-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19150-2:2015(E)'
+          review_decision_notes: >-
+            This entry is superseded by the entry for "association <UML>" in ISO
+            19150-2:2015
+          release: '-1'
+          terms:
+            - type: expression
+              designation: association <UML>
+              normative_status: null
+        parents: []
+        timeCreated: 2005-07-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+deu:
+  id: 17
+  language_code: deu
+  notes:
+    - >-
+      A binary association is an association among exactly two classifiers
+      (including the possibility of an association from a classifier to itself).
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: ISO/IEC 19501
+    link: 'https://www.iso.org/standard/32620.html'
+  lineage_source: 'ISO/TS 19103:2005 ,4.2.3'
+  lineage_source_similarity: 1
+  date_accepted: 2005-07-15T00:00:00.000Z
+  date_amended: 2015-07-01T00:00:00.000Z
+  review_date: 2009-08-31T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2015-07-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19150-2:2015(E)'
+  review_decision_notes: >-
+    This entry is superseded by the entry for "association <UML>" in ISO
+    19150-2:2015
+  release: '-1'
+  terms:
+    - type: expression
+      designation: 'Relation <UML> (Synonym: Beziehung, Assoziation)'
+      normative_status: null
+  _revisions:
+    current: 9b73e9
+    tree:
+      9b73e9:
+        object:
+          id: 17
+          language_code: deu
+          notes:
+            - >-
+              A binary association is an association among exactly two
+              classifiers (including the possibility of an association from a
+              classifier to itself).
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: ISO/IEC 19501
+            link: 'https://www.iso.org/standard/32620.html'
+          lineage_source: 'ISO/TS 19103:2005 ,4.2.3'
+          lineage_source_similarity: 1
+          date_accepted: 2005-07-15T00:00:00.000Z
+          date_amended: 2015-07-01T00:00:00.000Z
+          review_date: 2009-08-31T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2015-07-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19150-2:2015(E)'
+          review_decision_notes: >-
+            This entry is superseded by the entry for "association <UML>" in ISO
+            19150-2:2015
+          release: '-1'
+          terms:
+            - type: expression
+              designation: 'Relation <UML> (Synonym: Beziehung, Assoziation)'
+              normative_status: null
+        parents: []
+        timeCreated: 2005-07-15T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+kor:
+  id: 17
+  definition: 인스턴스간의 연결을 규정하는 두 개 이상 분류자 간의 의미론적 관계
+  language_code: kor
+  notes:
+    - 이진 연관 관계는 정확하게 두 분류자 간의 연관 관계이다.
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: ISO/IEC 19501
+    link: 'https://www.iso.org/standard/32620.html'
+  lineage_source: 'ISO/TS 19103:2005 ,4.2.3'
+  lineage_source_similarity: 1
+  date_accepted: 2005-07-15T00:00:00.000Z
+  date_amended: 2015-07-01T00:00:00.000Z
+  review_date: 2009-08-31T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2015-07-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19150-2:2015(E)'
+  review_decision_notes: >-
+    This entry is superseded by the entry for "association <UML>" in ISO
+    19150-2:2015
+  release: '-1'
+  terms:
+    - type: expression
+      designation: 연관 <UML>
+      normative_status: null
+  _revisions:
+    current: ae0b5e
+    tree:
+      ae0b5e:
+        object:
+          id: 17
+          definition: 인스턴스간의 연결을 규정하는 두 개 이상 분류자 간의 의미론적 관계
+          language_code: kor
+          notes:
+            - 이진 연관 관계는 정확하게 두 분류자 간의 연관 관계이다.
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: ISO/IEC 19501
+            link: 'https://www.iso.org/standard/32620.html'
+          lineage_source: 'ISO/TS 19103:2005 ,4.2.3'
+          lineage_source_similarity: 1
+          date_accepted: 2005-07-15T00:00:00.000Z
+          date_amended: 2015-07-01T00:00:00.000Z
+          review_date: 2009-08-31T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2015-07-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19150-2:2015(E)'
+          review_decision_notes: >-
+            This entry is superseded by the entry for "association <UML>" in ISO
+            19150-2:2015
+          release: '-1'
+          terms:
+            - type: expression
+              designation: 연관 <UML>
+              normative_status: null
+        parents: []
+        timeCreated: 2005-07-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 17
+  definition: >-
+    семантическое отношение двух или более классификаторов, определяющее
+    взаимосвязи между их экземплярами
+  language_code: rus
+  notes:
+    - >-
+      Бинарная ассоциация является ассоциацией  между  двумя классификаторами, 
+      включая возможность ассоциации классификатора с самим собой
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: ISO/IEC 19501
+    link: 'https://www.iso.org/standard/32620.html'
+  lineage_source: 'ISO/TS 19103:2005 ,4.2.3'
+  lineage_source_similarity: 1
+  date_accepted: 2005-07-15T00:00:00.000Z
+  review_date: 2009-08-31T00:00:00.000Z
+  review_status: ''
+  review_type: ''
+  release: '1'
+  terms:
+    - type: expression
+      designation: ассоциация <UML>
+      normative_status: preferred
+  _revisions:
+    current: 7e4be1
+    tree:
+      7e4be1:
+        object:
+          id: 17
+          definition: >-
+            семантическое отношение двух или более классификаторов, определяющее
+            взаимосвязи между их экземплярами
+          language_code: rus
+          notes:
+            - >-
+              Бинарная ассоциация является ассоциацией  между  двумя
+              классификаторами,  включая возможность ассоциации классификатора с
+              самим собой
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: ISO/IEC 19501
+            link: 'https://www.iso.org/standard/32620.html'
+          lineage_source: 'ISO/TS 19103:2005 ,4.2.3'
+          lineage_source_similarity: 1
+          date_accepted: 2005-07-15T00:00:00.000Z
+          review_date: 2009-08-31T00:00:00.000Z
+          review_status: ''
+          review_type: ''
+          release: '1'
+          terms:
+            - type: expression
+              designation: ассоциация <UML>
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-07-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 17
+  definition: >-
+    relación semántica entre dos o más clasificadores que especifica conexiones
+    entre sus instancias
+  language_code: spa
+  notes: []
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: ISO/IEC 19501
+    link: 'https://www.iso.org/standard/32620.html'
+  lineage_source: 'ISO/TS 19103:2005 ,4.2.3'
+  lineage_source_similarity: 1
+  date_accepted: 2005-07-15T00:00:00.000Z
+  date_amended: 2015-07-01T00:00:00.000Z
+  review_date: 2009-08-31T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2015-07-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19150-2:2015(E)'
+  review_decision_notes: >-
+    This entry is superseded by the entry for "association <UML>" in ISO
+    19150-2:2015
+  release: '-1'
+  terms:
+    - type: expression
+      designation: asociación <UML>
+      normative_status: null
+  _revisions:
+    current: 99208f
+    tree:
+      99208f:
+        object:
+          id: 17
+          definition: >-
+            relación semántica entre dos o más clasificadores que especifica
+            conexiones entre sus instancias
+          language_code: spa
+          notes: []
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: ISO/IEC 19501
+            link: 'https://www.iso.org/standard/32620.html'
+          lineage_source: 'ISO/TS 19103:2005 ,4.2.3'
+          lineage_source_similarity: 1
+          date_accepted: 2005-07-15T00:00:00.000Z
+          date_amended: 2015-07-01T00:00:00.000Z
+          review_date: 2009-08-31T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2015-07-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19150-2:2015(E)'
+          review_decision_notes: >-
+            This entry is superseded by the entry for "association <UML>" in ISO
+            19150-2:2015
+          release: '-1'
+          terms:
+            - type: expression
+              designation: asociación <UML>
+              normative_status: null
+        parents: []
+        timeCreated: 2005-07-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+swe:
+  id: 17
+  definition: UML-element som anger hur instanser kan eller ska referera till varandra
+  country_code: swe
+  language_code: swe
+  notes:
+    - >-
+      A binary association is an association among exactly two classifiers
+      (including the possibility of an association from a classifier to itself).
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: ISO/IEC 19501
+    link: 'https://www.iso.org/standard/32620.html'
+  lineage_source: 'ISO/TS 19103:2005 ,4.2.3'
+  lineage_source_similarity: 1
+  date_accepted: 2005-07-15T00:00:00.000Z
+  date_amended: 2015-07-01T00:00:00.000Z
+  review_date: 2009-08-31T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2015-07-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19150-2:2015(E)'
+  review_decision_notes: >-
+    This entry is superseded by the entry for "association <UML>" in ISO
+    19150-2:2015
+  release: '-1'
+  terms:
+    - type: expression
+      designation: samband <UML>
+      normative_status: null
+  _revisions:
+    current: f85850
+    tree:
+      f85850:
+        object:
+          id: 17
+          definition: >-
+            UML-element som anger hur instanser kan eller ska referera till
+            varandra
+          country_code: swe
+          language_code: swe
+          notes:
+            - >-
+              A binary association is an association among exactly two
+              classifiers (including the possibility of an association from a
+              classifier to itself).
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: ISO/IEC 19501
+            link: 'https://www.iso.org/standard/32620.html'
+          lineage_source: 'ISO/TS 19103:2005 ,4.2.3'
+          lineage_source_similarity: 1
+          date_accepted: 2005-07-15T00:00:00.000Z
+          date_amended: 2015-07-01T00:00:00.000Z
+          review_date: 2009-08-31T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2015-07-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19150-2:2015(E)'
+          review_decision_notes: >-
+            This entry is superseded by the entry for "association <UML>" in ISO
+            19150-2:2015
+          release: '-1'
+          terms:
+            - type: expression
+              designation: samband <UML>
+              normative_status: null
+        parents: []
+        timeCreated: 2005-07-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

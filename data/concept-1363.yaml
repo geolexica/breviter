@@ -1,0 +1,396 @@
+term: spatial unit
+termid: 1363
+eng:
+  id: 1363
+  definition: >-
+    single area (or multiple areas) of land and/or water, or a single volume (or
+    multiple volumes) of space
+  language_code: eng
+  notes:
+    - A single area is the norm and multiple areas are the exception.
+    - >-
+      Spatial units are structured in a way to support the creation and
+      management of basic administrative units.
+    - >-
+      This International Standard [ISO 19152:2012] supports either 2-dimensional
+      (2D), 3-dimensional (3D), or mixed (2D and 3D) representations of spatial
+      units, which may be described in text (“from this tree to that river”), or
+      based on a single point, or represented as a set of unstructured lines, or
+      as a surface, or as a 3D volume.
+    - >-
+      In addition to spatial units represented by a single point, text, or a set
+      of unstructured lines, a spatial unit may have an area equal to zero for
+      administrative reasons.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19152:2012'
+    clause: 4.1.23
+    link: 'https://www.iso.org/standard/51206.html'
+  date_accepted: 2012-12-01T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: spatial unit
+      normative_status: preferred
+  _revisions:
+    current: 2a3847
+    tree:
+      2a3847:
+        object:
+          id: 1363
+          definition: >-
+            single area (or multiple areas) of land and/or water, or a single
+            volume (or multiple volumes) of space
+          language_code: eng
+          notes:
+            - A single area is the norm and multiple areas are the exception.
+            - >-
+              Spatial units are structured in a way to support the creation and
+              management of basic administrative units.
+            - >-
+              This International Standard [ISO 19152:2012] supports either
+              2-dimensional (2D), 3-dimensional (3D), or mixed (2D and 3D)
+              representations of spatial units, which may be described in text
+              (“from this tree to that river”), or based on a single point, or
+              represented as a set of unstructured lines, or as a surface, or as
+              a 3D volume.
+            - >-
+              In addition to spatial units represented by a single point, text,
+              or a set of unstructured lines, a spatial unit may have an area
+              equal to zero for administrative reasons.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19152:2012'
+            clause: 4.1.23
+            link: 'https://www.iso.org/standard/51206.html'
+          date_accepted: 2012-12-01T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: spatial unit
+              normative_status: preferred
+        parents: []
+        timeCreated: 2012-12-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+kor:
+  id: 1363
+  definition: '수륙,수중의 단일 혹은 다중 공간, 또는 단일 또는 다량의 공간'
+  language_code: kor
+  notes:
+    - A single area is the norm and multiple areas are the exception.
+    - >-
+      Spatial units are structured in a way to support the creation and
+      management of basic administrative units.
+    - >-
+      This International Standard [ISO 19152:2012] supports either 2-dimensional
+      (2D), 3-dimensional (3D), or mixed (2D and 3D) representations of spatial
+      units, which may be described in text (“from this tree to that river”), or
+      based on a single point, or represented as a set of unstructured lines, or
+      as a surface, or as a 3D volume.
+    - >-
+      In addition to spatial units represented by a single point, text, or a set
+      of unstructured lines, a spatial unit may have an area equal to zero for
+      administrative reasons.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19152:2012'
+    clause: 4.1.23
+    link: 'https://www.iso.org/standard/51206.html'
+  date_accepted: 2012-12-01T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: 공간 단위
+      normative_status: preferred
+  _revisions:
+    current: f20769
+    tree:
+      f20769:
+        object:
+          id: 1363
+          definition: '수륙,수중의 단일 혹은 다중 공간, 또는 단일 또는 다량의 공간'
+          language_code: kor
+          notes:
+            - A single area is the norm and multiple areas are the exception.
+            - >-
+              Spatial units are structured in a way to support the creation and
+              management of basic administrative units.
+            - >-
+              This International Standard [ISO 19152:2012] supports either
+              2-dimensional (2D), 3-dimensional (3D), or mixed (2D and 3D)
+              representations of spatial units, which may be described in text
+              (“from this tree to that river”), or based on a single point, or
+              represented as a set of unstructured lines, or as a surface, or as
+              a 3D volume.
+            - >-
+              In addition to spatial units represented by a single point, text,
+              or a set of unstructured lines, a spatial unit may have an area
+              equal to zero for administrative reasons.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19152:2012'
+            clause: 4.1.23
+            link: 'https://www.iso.org/standard/51206.html'
+          date_accepted: 2012-12-01T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: 공간 단위
+              normative_status: preferred
+        parents: []
+        timeCreated: 2012-12-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 1363
+  definition: >-
+    отдельная  область (или несколько областей) земли и / или воды, или одного
+    объема (или несколько объемов) пространства
+  language_code: rus
+  notes:
+    - 'Отдельная область является нормой, а множественные области - исключением'
+    - >-
+      пространственные единицы структурированы таким образом, чтобы поддерживать
+      создание базовых административных единиц и управление ими
+    - >-
+      настоящий международный стандарт [ISO 19152:2012] поддерживает либо
+      2-мерные (2D), 3-мерные (3D), либо смешанные (2D и 3D) представления
+      пространственных единиц, которые могут быть описаны в тексте (“от этого
+      дерева до той реки”), либо основаны на одной точке, либо представлены в
+      виде набора неструктурированных линий, либо в виде поверхности, либо в
+      виде трехмерного объема.
+    - >-
+      в дополнение к пространственным единицам, представленным одной точкой,
+      текстом или набором неструктурированных линий, пространственная единица
+      может иметь площадь, равную нулю, по административным причинам.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19152:2012'
+    clause: 4.1.23
+    link: 'https://www.iso.org/standard/51206.html'
+  lineage_source: 'ISO 19152:2012'
+  date_accepted: 2012-12-01T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: пространственная единица
+      normative_status: preferred
+  _revisions:
+    current: f14048
+    tree:
+      f14048:
+        object:
+          id: 1363
+          definition: >-
+            отдельная  область (или несколько областей) земли и / или воды, или
+            одного объема (или несколько объемов) пространства
+          language_code: rus
+          notes:
+            - >-
+              Отдельная область является нормой, а множественные области -
+              исключением
+            - >-
+              пространственные единицы структурированы таким образом, чтобы
+              поддерживать создание базовых административных единиц и управление
+              ими
+            - >-
+              настоящий международный стандарт [ISO 19152:2012] поддерживает
+              либо 2-мерные (2D), 3-мерные (3D), либо смешанные (2D и 3D)
+              представления пространственных единиц, которые могут быть описаны
+              в тексте (“от этого дерева до той реки”), либо основаны на одной
+              точке, либо представлены в виде набора неструктурированных линий,
+              либо в виде поверхности, либо в виде трехмерного объема.
+            - >-
+              в дополнение к пространственным единицам, представленным одной
+              точкой, текстом или набором неструктурированных линий,
+              пространственная единица может иметь площадь, равную нулю, по
+              административным причинам.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19152:2012'
+            clause: 4.1.23
+            link: 'https://www.iso.org/standard/51206.html'
+          lineage_source: 'ISO 19152:2012'
+          date_accepted: 2012-12-01T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: пространственная единица
+              normative_status: preferred
+        parents: []
+        timeCreated: 2012-12-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 1363
+  definition: >-
+    un área (o múltiples áreas) de terreno o agua, o un volumen (o múltiples
+    volúmenes) de espacio
+  language_code: spa
+  notes:
+    - Un área es la norma y múltiples áreas son la excepción
+    - >-
+      Las unidades espaciales se estructuran de manera que permiten la creación
+      y gestión de unidades básicas administrativas
+    - >-
+      Esta norma internacional permite la representación bidimensional (2D),
+      tridimensional (3D) o mixta (2D y 3D) de unidades espaciales, que se
+      pueden describir textualmente ("desde este árbol hasta el río"), a partir
+      de un único punto, o a partir de un conjunto de líneas sin estructura, o
+      como una superficie, o como un volumen 3D
+    - >-
+      Además de representar las unidades espaciales como un único punto,
+      textualmente, o mediante un conjunto de líneas sin estructura, la unidad
+      espacial puede tener un área igual a cero por razones administrativas
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19152:2012'
+    clause: 4.1.23
+    link: 'https://www.iso.org/standard/51206.html'
+  date_accepted: 2012-12-01T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: unidad espacial
+      normative_status: preferred
+  _revisions:
+    current: 3c9410
+    tree:
+      3c9410:
+        object:
+          id: 1363
+          definition: >-
+            un área (o múltiples áreas) de terreno o agua, o un volumen (o
+            múltiples volúmenes) de espacio
+          language_code: spa
+          notes:
+            - Un área es la norma y múltiples áreas son la excepción
+            - >-
+              Las unidades espaciales se estructuran de manera que permiten la
+              creación y gestión de unidades básicas administrativas
+            - >-
+              Esta norma internacional permite la representación bidimensional
+              (2D), tridimensional (3D) o mixta (2D y 3D) de unidades
+              espaciales, que se pueden describir textualmente ("desde este
+              árbol hasta el río"), a partir de un único punto, o a partir de un
+              conjunto de líneas sin estructura, o como una superficie, o como
+              un volumen 3D
+            - >-
+              Además de representar las unidades espaciales como un único punto,
+              textualmente, o mediante un conjunto de líneas sin estructura, la
+              unidad espacial puede tener un área igual a cero por razones
+              administrativas
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19152:2012'
+            clause: 4.1.23
+            link: 'https://www.iso.org/standard/51206.html'
+          date_accepted: 2012-12-01T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: unidad espacial
+              normative_status: preferred
+        parents: []
+        timeCreated: 2012-12-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+swe:
+  id: 1363
+  definition: >-
+    single area (or multiple areas) of land and/or water, or a single volume (or
+    multiple volumes) of space
+
+    en eller flera samhörande delar av jordytan eller en eller flera samhörande
+    volymer i förhållande till jordytan
+  country_code: swe
+  language_code: swe
+  notes:
+    - A single area is the norm and multiple areas are the exception.
+    - >-
+      Spatial units are structured in a way to support the creation and
+      management of basic administrative units.
+    - >-
+      This International Standard [ISO 19152:2012] supports either 2-dimensional
+      (2D), 3-dimensional (3D), or mixed (2D and 3D) representations of spatial
+      units, which may be described in text (“from this tree to that river”), or
+      based on a single point, or represented as a set of unstructured lines, or
+      as a surface, or as a 3D volume.
+    - >-
+      In addition to spatial units represented by a single point, text, or a set
+      of unstructured lines, a spatial unit may have an area equal to zero for
+      administrative reasons.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19152:2012'
+    clause: 4.1.23
+    link: 'https://www.iso.org/standard/51206.html'
+  lineage_source: (Type reference to national language document)
+  date_accepted: 2012-12-01T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: gränssatt område
+      normative_status: preferred
+  _revisions:
+    current: '4148e7'
+    tree:
+      '4148e7':
+        object:
+          id: 1363
+          definition: >-
+            single area (or multiple areas) of land and/or water, or a single
+            volume (or multiple volumes) of space
+
+            en eller flera samhörande delar av jordytan eller en eller flera
+            samhörande volymer i förhållande till jordytan
+          country_code: swe
+          language_code: swe
+          notes:
+            - A single area is the norm and multiple areas are the exception.
+            - >-
+              Spatial units are structured in a way to support the creation and
+              management of basic administrative units.
+            - >-
+              This International Standard [ISO 19152:2012] supports either
+              2-dimensional (2D), 3-dimensional (3D), or mixed (2D and 3D)
+              representations of spatial units, which may be described in text
+              (“from this tree to that river”), or based on a single point, or
+              represented as a set of unstructured lines, or as a surface, or as
+              a 3D volume.
+            - >-
+              In addition to spatial units represented by a single point, text,
+              or a set of unstructured lines, a spatial unit may have an area
+              equal to zero for administrative reasons.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19152:2012'
+            clause: 4.1.23
+            link: 'https://www.iso.org/standard/51206.html'
+          lineage_source: (Type reference to national language document)
+          date_accepted: 2012-12-01T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: gränssatt område
+              normative_status: preferred
+        parents: []
+        timeCreated: 2012-12-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

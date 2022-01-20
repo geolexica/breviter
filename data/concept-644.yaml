@@ -1,0 +1,308 @@
+term: one parameter set of geometries
+termid: 644
+eng:
+  id: 644
+  definition: >-
+    function f from an interval t ( [a, b] such that f(t) is a geometry and for
+    each point P ( f(a) there is a one parameter set of points (called the
+    trajectory of P) P(t) : [a, b] ®P(t) such that P(t) ( f(t)
+  language_code: eng
+  notes: []
+  examples:
+    - >-
+      A curve C with constructive parameter t is a one parameter set of points
+      c(t).
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19141:2008'
+    link: 'https://www.iso.org/standard/41445.html'
+  date_accepted: 2008-06-01T00:00:00.000Z
+  release: '2'
+  terms:
+    - type: expression
+      designation: one parameter set of geometries
+      normative_status: preferred
+  _revisions:
+    current: c25c62
+    tree:
+      c25c62:
+        object:
+          id: 644
+          definition: >-
+            function f from an interval t ( [a, b] such that f(t) is a geometry
+            and for each point P ( f(a) there is a one parameter set of points
+            (called the trajectory of P) P(t) : [a, b] ®P(t) such that P(t) (
+            f(t)
+          language_code: eng
+          notes: []
+          examples:
+            - >-
+              A curve C with constructive parameter t is a one parameter set of
+              points c(t).
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19141:2008'
+            link: 'https://www.iso.org/standard/41445.html'
+          date_accepted: 2008-06-01T00:00:00.000Z
+          release: '2'
+          terms:
+            - type: expression
+              designation: one parameter set of geometries
+              normative_status: preferred
+        parents: []
+        timeCreated: 2008-06-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+ara:
+  id: 644
+  definition: >-
+    الدالة د من فاصل زمني ز [أ ، ب] بحيث أن د(ز) تمثل الشكل الهندسي ولكل نقطة ط
+    (د(أ) هناك متغير واحد لمجموعة من النقاط (تسمى مسار ط ) ط (ز): [أ ، ب]× ط (ز)
+    بحيث ط(ز) (د (ز))
+  language_code: ara
+  notes: []
+  examples:
+    - >-
+      منحنى (م) مع متغير بنائي (ز) يمثلان مجموعة متغير واحد تتألف من النقطتين
+      م(ز) .
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19141:2008'
+    link: 'https://www.iso.org/standard/41445.html'
+  date_accepted: 2008-06-01T00:00:00.000Z
+  release: '2'
+  terms:
+    - type: expression
+      designation: مجموعة أشكال هندسية لمتغير واحد
+      normative_status: preferred
+  _revisions:
+    current: 2f5208
+    tree:
+      2f5208:
+        object:
+          id: 644
+          definition: >-
+            الدالة د من فاصل زمني ز [أ ، ب] بحيث أن د(ز) تمثل الشكل الهندسي ولكل
+            نقطة ط (د(أ) هناك متغير واحد لمجموعة من النقاط (تسمى مسار ط ) ط (ز):
+            [أ ، ب]× ط (ز) بحيث ط(ز) (د (ز))
+          language_code: ara
+          notes: []
+          examples:
+            - >-
+              منحنى (م) مع متغير بنائي (ز) يمثلان مجموعة متغير واحد تتألف من
+              النقطتين م(ز) .
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19141:2008'
+            link: 'https://www.iso.org/standard/41445.html'
+          date_accepted: 2008-06-01T00:00:00.000Z
+          release: '2'
+          terms:
+            - type: expression
+              designation: مجموعة أشكال هندسية لمتغير واحد
+              normative_status: preferred
+        parents: []
+        timeCreated: 2008-06-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+deu:
+  id: 644
+  language_code: deu
+  notes: []
+  examples:
+    - >-
+      A curve C with constructive parameter t is a one parameter set of points
+      c(t).
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19141:2008'
+    link: 'https://www.iso.org/standard/41445.html'
+  date_accepted: 2008-06-01T00:00:00.000Z
+  release: '2'
+  terms:
+    - type: expression
+      designation: einparametrige Menge von Geometrien
+      normative_status: preferred
+  _revisions:
+    current: e18e74
+    tree:
+      e18e74:
+        object:
+          id: 644
+          language_code: deu
+          notes: []
+          examples:
+            - >-
+              A curve C with constructive parameter t is a one parameter set of
+              points c(t).
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19141:2008'
+            link: 'https://www.iso.org/standard/41445.html'
+          date_accepted: 2008-06-01T00:00:00.000Z
+          release: '2'
+          terms:
+            - type: expression
+              designation: einparametrige Menge von Geometrien
+              normative_status: preferred
+        parents: []
+        timeCreated: 2008-06-01T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+kor:
+  id: 644
+  language_code: kor
+  notes: []
+  examples:
+    - >-
+      A curve C with constructive parameter t is a one parameter set of points
+      c(t).
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19141:2008'
+    link: 'https://www.iso.org/standard/41445.html'
+  date_accepted: 2008-06-01T00:00:00.000Z
+  release: '2'
+  terms:
+    - type: expression
+      designation: 기하학의 매개변수 집합
+      normative_status: preferred
+  _revisions:
+    current: 0991d7
+    tree:
+      0991d7:
+        object:
+          id: 644
+          language_code: kor
+          notes: []
+          examples:
+            - >-
+              A curve C with constructive parameter t is a one parameter set of
+              points c(t).
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19141:2008'
+            link: 'https://www.iso.org/standard/41445.html'
+          date_accepted: 2008-06-01T00:00:00.000Z
+          release: '2'
+          terms:
+            - type: expression
+              designation: 기하학의 매개변수 집합
+              normative_status: preferred
+        parents: []
+        timeCreated: 2008-06-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 644
+  definition: >-
+    функция f из интервала t ∈ ([a, b] такая, что f (t) является геометрией, и
+    для каждой точки P ∈ (f (a) имеется однопараметрическое множество точек
+    (называемое траекторией P) P (t) : [а, b] →P(t) такое, что P (t)∈ (f (t)
+  language_code: rus
+  notes: []
+  examples:
+    - >-
+      кривая C с конструктивным параметром t является  набора точек c одним
+      параметром (t).
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19141:2008'
+    link: 'https://www.iso.org/standard/41445.html'
+  lineage_source: 'перевод ИСО 19141:2008'
+  date_accepted: 2008-06-01T00:00:00.000Z
+  release: '2'
+  terms:
+    - type: expression
+      designation: Однопараметрическое множество геометрий
+      normative_status: preferred
+  _revisions:
+    current: d34853
+    tree:
+      d34853:
+        object:
+          id: 644
+          definition: >-
+            функция f из интервала t ∈ ([a, b] такая, что f (t) является
+            геометрией, и для каждой точки P ∈ (f (a) имеется
+            однопараметрическое множество точек (называемое траекторией P) P (t)
+            : [а, b] →P(t) такое, что P (t)∈ (f (t)
+          language_code: rus
+          notes: []
+          examples:
+            - >-
+              кривая C с конструктивным параметром t является  набора точек c
+              одним параметром (t).
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19141:2008'
+            link: 'https://www.iso.org/standard/41445.html'
+          lineage_source: 'перевод ИСО 19141:2008'
+          date_accepted: 2008-06-01T00:00:00.000Z
+          release: '2'
+          terms:
+            - type: expression
+              designation: Однопараметрическое множество геометрий
+              normative_status: preferred
+        parents: []
+        timeCreated: 2008-06-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 644
+  definition: >-
+    función f en un intervalo t Є [a, b] tal que f(t) es una geometría y para
+    cada punto P Є f(a) hay un conjunto de puntos de un parámetro (llamado
+    trayectoria de P) P(t): [a, b] → P(t) tal que P(t) Є f(t).
+  language_code: spa
+  notes: []
+  examples:
+    - >-
+      Una curva C con su parámetro constructor t es un conjunto de puntos c(t)
+      de un parámetro.
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19141:2008'
+    link: 'https://www.iso.org/standard/41445.html'
+  date_accepted: 2008-06-01T00:00:00.000Z
+  release: '2'
+  terms:
+    - type: expression
+      designation: conjunto de geometrías de un parámetro
+      normative_status: preferred
+  _revisions:
+    current: 6b6cc9
+    tree:
+      6b6cc9:
+        object:
+          id: 644
+          definition: >-
+            función f en un intervalo t Є [a, b] tal que f(t) es una geometría y
+            para cada punto P Є f(a) hay un conjunto de puntos de un parámetro
+            (llamado trayectoria de P) P(t): [a, b] → P(t) tal que P(t) Є f(t).
+          language_code: spa
+          notes: []
+          examples:
+            - >-
+              Una curva C con su parámetro constructor t es un conjunto de
+              puntos c(t) de un parámetro.
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19141:2008'
+            link: 'https://www.iso.org/standard/41445.html'
+          date_accepted: 2008-06-01T00:00:00.000Z
+          release: '2'
+          terms:
+            - type: expression
+              designation: conjunto de geometrías de un parámetro
+              normative_status: preferred
+        parents: []
+        timeCreated: 2008-06-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

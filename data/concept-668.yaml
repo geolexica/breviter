@@ -1,0 +1,561 @@
+term: integration
+termid: 668
+eng:
+  id: 668
+  definition: >-
+    linkage of two or more software systems by the use of a common data and
+    method base
+  language_code: eng
+  notes:
+    - >-
+      cf. coupling. Integration and coupling are the two major mechanisms for
+      the interoperation of systems.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19132:2007'
+    link: 'https://www.iso.org/standard/40601.html'
+  date_accepted: 2007-10-15T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: integration
+      normative_status: preferred
+  _revisions:
+    current: 95f18c
+    tree:
+      95f18c:
+        object:
+          id: 668
+          definition: >-
+            linkage of two or more software systems by the use of a common data
+            and method base
+          language_code: eng
+          notes:
+            - >-
+              cf. coupling. Integration and coupling are the two major
+              mechanisms for the interoperation of systems.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19132:2007'
+            link: 'https://www.iso.org/standard/40601.html'
+          date_accepted: 2007-10-15T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: integration
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-10-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+ara:
+  id: 668
+  definition: ربط نظامَيْ برمجة أو أكثر باستخدام بيانات مشتركة وطرق اساس
+  language_code: ara
+  notes:
+    - >-
+      قارن "الربط". والتكامل والربط آليتان من الآليات الكبرى لأنظمة تفعيل
+      التوافق المتبادل.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19132:2007'
+    link: 'https://www.iso.org/standard/40601.html'
+  date_accepted: 2007-10-15T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: تكامل
+      normative_status: preferred
+  _revisions:
+    current: 2a5158
+    tree:
+      2a5158:
+        object:
+          id: 668
+          definition: ربط نظامَيْ برمجة أو أكثر باستخدام بيانات مشتركة وطرق اساس
+          language_code: ara
+          notes:
+            - >-
+              قارن "الربط". والتكامل والربط آليتان من الآليات الكبرى لأنظمة
+              تفعيل التوافق المتبادل.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19132:2007'
+            link: 'https://www.iso.org/standard/40601.html'
+          date_accepted: 2007-10-15T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: تكامل
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-10-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+zho:
+  id: 668
+  definition: 使用共同数据库和方法库的两个或多个软件系统的链接。
+  language_code: zho
+  notes:
+    - 集成与耦合是系统互操作的两种主要机制。
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19132:2007'
+    link: 'https://www.iso.org/standard/40601.html'
+  date_accepted: 2007-10-15T00:00:00.000Z
+  terms:
+    - type: expression
+      designation: 集成
+      normative_status: preferred
+  _revisions:
+    current: '4225e8'
+    tree:
+      '4225e8':
+        object:
+          id: 668
+          definition: 使用共同数据库和方法库的两个或多个软件系统的链接。
+          language_code: zho
+          notes:
+            - 集成与耦合是系统互操作的两种主要机制。
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19132:2007'
+            link: 'https://www.iso.org/standard/40601.html'
+          date_accepted: 2007-10-15T00:00:00.000Z
+          terms:
+            - type: expression
+              designation: 集成
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-10-15T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+fin:
+  id: 668
+  definition: >-
+    kahden tai useamman ohjelmistojärjestelmän liittäminen toisiinsa käyttämällä
+    yhteistä tieto- ja menetelmäperustaa
+  language_code: fin
+  notes:
+    - >-
+      Vertaa kytkentä. Integrointi ja kytkentä ovat järjestelmien
+      yhteentoimimisen kaksi päämekanismia.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19132:2007'
+    link: 'https://www.iso.org/standard/40601.html'
+  lineage_source: Internet
+  date_accepted: 2007-10-15T00:00:00.000Z
+  terms:
+    - type: expression
+      designation: integrointi
+      normative_status: preferred
+  _revisions:
+    current: 23ef52
+    tree:
+      23ef52:
+        object:
+          id: 668
+          definition: >-
+            kahden tai useamman ohjelmistojärjestelmän liittäminen toisiinsa
+            käyttämällä yhteistä tieto- ja menetelmäperustaa
+          language_code: fin
+          notes:
+            - >-
+              Vertaa kytkentä. Integrointi ja kytkentä ovat järjestelmien
+              yhteentoimimisen kaksi päämekanismia.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19132:2007'
+            link: 'https://www.iso.org/standard/40601.html'
+          lineage_source: Internet
+          date_accepted: 2007-10-15T00:00:00.000Z
+          terms:
+            - type: expression
+              designation: integrointi
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-10-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+fra:
+  id: 668
+  definition: >-
+    liaison de deux ou plusieurs systèmes logiciels par l'utilisation de données
+    communes et d'une méthode de base
+  language_code: fra
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: ISO 19132
+    link: 'https://www.iso.org/standard/40601.html'
+  lineage_source: ''
+  date_accepted: 2007-10-15T00:00:00.000Z
+  terms:
+    - type: expression
+      designation: intégration
+      normative_status: preferred
+  _revisions:
+    current: 40f4f5
+    tree:
+      40f4f5:
+        object:
+          id: 668
+          definition: >-
+            liaison de deux ou plusieurs systèmes logiciels par l'utilisation de
+            données communes et d'une méthode de base
+          language_code: fra
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: ISO 19132
+            link: 'https://www.iso.org/standard/40601.html'
+          lineage_source: ''
+          date_accepted: 2007-10-15T00:00:00.000Z
+          terms:
+            - type: expression
+              designation: intégration
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-10-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+deu:
+  id: 668
+  language_code: deu
+  notes:
+    - >-
+      cf. coupling. Integration and coupling are the two major mechanisms for
+      the interoperation of systems.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19132:2007'
+    link: 'https://www.iso.org/standard/40601.html'
+  date_accepted: 2007-10-15T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: Integration
+      normative_status: preferred
+  _revisions:
+    current: 6ce255
+    tree:
+      6ce255:
+        object:
+          id: 668
+          language_code: deu
+          notes:
+            - >-
+              cf. coupling. Integration and coupling are the two major
+              mechanisms for the interoperation of systems.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19132:2007'
+            link: 'https://www.iso.org/standard/40601.html'
+          date_accepted: 2007-10-15T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: Integration
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-10-15T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+kor:
+  id: 668
+  definition: 공통의 데이터 및 방법을 사용한 둘 이상의 시스템 연계('결합' 참고)
+  language_code: kor
+  notes:
+    - 통합과 결합은 시스템의 상호 운용을 위한 2가지 주요 메커니즘이다.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19132:2007'
+    link: 'https://www.iso.org/standard/40601.html'
+  lineage_source: KS X ISO 19132
+  date_accepted: 2009-12-29T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: 통합
+      normative_status: preferred
+  _revisions:
+    current: abd348
+    tree:
+      abd348:
+        object:
+          id: 668
+          definition: 공통의 데이터 및 방법을 사용한 둘 이상의 시스템 연계('결합' 참고)
+          language_code: kor
+          notes:
+            - 통합과 결합은 시스템의 상호 운용을 위한 2가지 주요 메커니즘이다.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19132:2007'
+            link: 'https://www.iso.org/standard/40601.html'
+          lineage_source: KS X ISO 19132
+          date_accepted: 2009-12-29T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: 통합
+              normative_status: preferred
+        parents: []
+        timeCreated: 2009-12-29T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+msa:
+  id: 668
+  definition: >-
+    1. Proses menggabungkan pelbagai jenis perkakasan atau perisian daripada
+    pengeluar berlainan untuk membentuk sistem yang bersepadu supaya dapat
+    berkongsi sumber dengan lebih cekap. 2. Proses menggabungkan komponen yang
+    berlainan ke dalam sistem yang harmoni.
+  language_code: msa
+  notes:
+    - >-
+      cf. coupling. Integration and coupling are the two major mechanisms for
+      the interoperation of systems.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19132:2007'
+    link: 'https://www.iso.org/standard/40601.html'
+  lineage_source: PPRM
+  date_accepted: 2007-10-15T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: penyepaduan
+      normative_status: preferred
+  _revisions:
+    current: 98fee4
+    tree:
+      98fee4:
+        object:
+          id: 668
+          definition: >-
+            1. Proses menggabungkan pelbagai jenis perkakasan atau perisian
+            daripada pengeluar berlainan untuk membentuk sistem yang bersepadu
+            supaya dapat berkongsi sumber dengan lebih cekap. 2. Proses
+            menggabungkan komponen yang berlainan ke dalam sistem yang harmoni.
+          language_code: msa
+          notes:
+            - >-
+              cf. coupling. Integration and coupling are the two major
+              mechanisms for the interoperation of systems.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19132:2007'
+            link: 'https://www.iso.org/standard/40601.html'
+          lineage_source: PPRM
+          date_accepted: 2007-10-15T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: penyepaduan
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-10-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 668
+  definition: >-
+    объединение двух или более программных систем за счет использования  общих
+    данных и общей методической основы
+  language_code: rus
+  notes:
+    - >-
+      См. для сравнения  термин «соединение». Интеграция и соединение являются
+      двумя важнейшими механизмами взаимодействия систем
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19132:2007'
+    link: 'https://www.iso.org/standard/40601.html'
+  lineage_source: Internet
+  date_accepted: 2007-10-15T00:00:00.000Z
+  terms:
+    - type: expression
+      designation: интеграция
+      normative_status: preferred
+  _revisions:
+    current: eb0a12
+    tree:
+      eb0a12:
+        object:
+          id: 668
+          definition: >-
+            объединение двух или более программных систем за счет использования 
+            общих данных и общей методической основы
+          language_code: rus
+          notes:
+            - >-
+              См. для сравнения  термин «соединение». Интеграция и соединение
+              являются двумя важнейшими механизмами взаимодействия систем
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19132:2007'
+            link: 'https://www.iso.org/standard/40601.html'
+          lineage_source: Internet
+          date_accepted: 2007-10-15T00:00:00.000Z
+          terms:
+            - type: expression
+              designation: интеграция
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-10-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 668
+  definition: >-
+    vinculación de dos o más sistemas software mediante el uso de una base común
+    de datos y métodos
+  language_code: spa
+  notes:
+    - >-
+      la integración y el acoplamiento son los dos mecanismos principales para
+      la interoperabilidad de los sistemas.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19132:2007'
+    link: 'https://www.iso.org/standard/40601.html'
+  date_accepted: 2007-10-15T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: integración
+      normative_status: preferred
+  _revisions:
+    current: caa887
+    tree:
+      caa887:
+        object:
+          id: 668
+          definition: >-
+            vinculación de dos o más sistemas software mediante el uso de una
+            base común de datos y métodos
+          language_code: spa
+          notes:
+            - >-
+              la integración y el acoplamiento son los dos mecanismos
+              principales para la interoperabilidad de los sistemas.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19132:2007'
+            link: 'https://www.iso.org/standard/40601.html'
+          date_accepted: 2007-10-15T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: integración
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-10-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+swe:
+  id: 668
+  definition: |-
+    <mellan programsystem> samverkan  genom
+    användande av gemensamma data och programkoder
+  country_code: swe
+  language_code: swe
+  notes:
+    - >-
+      cf. coupling. Integration and coupling are the two major mechanisms for
+      the interoperation of systems.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19132:2007'
+    link: 'https://www.iso.org/standard/40601.html'
+  lineage_source: (Type reference to national language document)
+  date_accepted: 2007-10-15T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: integrering
+      normative_status: preferred
+  _revisions:
+    current: 510f40
+    tree:
+      510f40:
+        object:
+          id: 668
+          definition: |-
+            <mellan programsystem> samverkan  genom
+            användande av gemensamma data och programkoder
+          country_code: swe
+          language_code: swe
+          notes:
+            - >-
+              cf. coupling. Integration and coupling are the two major
+              mechanisms for the interoperation of systems.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19132:2007'
+            link: 'https://www.iso.org/standard/40601.html'
+          lineage_source: (Type reference to national language document)
+          date_accepted: 2007-10-15T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: integrering
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-10-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

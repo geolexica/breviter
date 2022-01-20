@@ -1,0 +1,73 @@
+term: designated community
+termid: 2270
+eng:
+  id: 2270
+  definition: >-
+    identified group of potential consumers who should be able to understand a
+    particular set of information
+  language_code: eng
+  notes:
+    - >-
+      The designated community may be composed of multiple user communities. A
+      designated community is defined by the archive and this definition may
+      change over time.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 14721:2012'
+    clause: >-
+      1.7.2, modified — Supporting content has been relocated to Note 1 to
+      entry.
+    link: 'https://www.iso.org/standard/57284.html'
+  date_accepted: 2018-05-01T00:00:00.000Z
+  review_date: 2018-05-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2018-05-01T00:00:00.000Z
+  review_decision_event: Normal ISO processing
+  review_decision_notes: 'Publication of document ISO 19165-1:2018(E)'
+  release: '5'
+  terms:
+    - type: expression
+      designation: designated community
+      normative_status: preferred
+  _revisions:
+    current: 0c2e0d
+    tree:
+      0c2e0d:
+        object:
+          id: 2270
+          definition: >-
+            identified group of potential consumers who should be able to
+            understand a particular set of information
+          language_code: eng
+          notes:
+            - >-
+              The designated community may be composed of multiple user
+              communities. A designated community is defined by the archive and
+              this definition may change over time.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 14721:2012'
+            clause: >-
+              1.7.2, modified — Supporting content has been relocated to Note 1
+              to entry.
+            link: 'https://www.iso.org/standard/57284.html'
+          date_accepted: 2018-05-01T00:00:00.000Z
+          review_date: 2018-05-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2018-05-01T00:00:00.000Z
+          review_decision_event: Normal ISO processing
+          review_decision_notes: 'Publication of document ISO 19165-1:2018(E)'
+          release: '5'
+          terms:
+            - type: expression
+              designation: designated community
+              normative_status: preferred
+        parents: []
+        timeCreated: 2018-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

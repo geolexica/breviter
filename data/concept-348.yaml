@@ -1,0 +1,770 @@
+term: positional accuracy
+termid: 348
+eng:
+  id: 348
+  definition: >-
+    closeness of coordinate value to the true or accepted value in a specified
+    reference system
+  language_code: eng
+  notes:
+    - >-
+      The phrase "absolute accuracy" is sometimes used for this concept to
+      distinguish it from relative positional accuracy.  Where the true
+      coordinate value may not be perfectly known, accuracy is normally tested
+      by comparison to available values that can best be accepted as true.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19116:2019'
+    clause: '(E), 3.22'
+    link: 'https://www.iso.org/standard/70882.html'
+  lineage_source: 'ISO 19116:2004(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2004-07-01T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19116:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19116:2004 to ISO 19116:2019(E),
+    3.22. Lineage source added as ISO 19116:2004(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: positional accuracy
+      normative_status: preferred
+  _revisions:
+    current: 1bfb3a
+    tree:
+      1bfb3a:
+        object:
+          id: 348
+          definition: >-
+            closeness of coordinate value to the true or accepted value in a
+            specified reference system
+          language_code: eng
+          notes:
+            - >-
+              The phrase "absolute accuracy" is sometimes used for this concept
+              to distinguish it from relative positional accuracy.  Where the
+              true coordinate value may not be perfectly known, accuracy is
+              normally tested by comparison to available values that can best be
+              accepted as true.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19116:2019'
+            clause: '(E), 3.22'
+            link: 'https://www.iso.org/standard/70882.html'
+          lineage_source: 'ISO 19116:2004(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2004-07-01T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19116:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19116:2004 to ISO
+            19116:2019(E), 3.22. Lineage source added as ISO 19116:2004(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: positional accuracy
+              normative_status: preferred
+        parents: []
+        timeCreated: 2004-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+ara:
+  id: 348
+  definition: مدى قرب القيمة الإحداثية من القيمة الصحيحة أو المقبولة في نظام مرجعي محدد
+  language_code: ara
+  notes:
+    - >-
+      تستخدم عبارة "الدقة المطلقة" في بعض الأحيان ، حين يتعلق الأمر بهذا المفهوم
+      أو التصور ، للتفريق بينه وبين مفهوم "الدقة الموضعية النسبية". في الحالات
+      التي قد تكون فيها القيمة الحقيقية للإحداثي غير معروفة بشكل تام , يتم
+      اختبار الدقة عادة بمقارنتها بقيم معروفة تتوفر فيها شروط الصحة بقدر
+      الإمكان.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19116:2019'
+    clause: '(E), 3.22'
+    link: 'https://www.iso.org/standard/70882.html'
+  lineage_source: 'ISO 19116:2004(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2004-07-01T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19116:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19116:2004 to ISO 19116:2019(E),
+    3.22. Lineage source added as ISO 19116:2004(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: الدقة المكانيه
+      normative_status: preferred
+  _revisions:
+    current: f02946
+    tree:
+      f02946:
+        object:
+          id: 348
+          definition: >-
+            مدى قرب القيمة الإحداثية من القيمة الصحيحة أو المقبولة في نظام مرجعي
+            محدد
+          language_code: ara
+          notes:
+            - >-
+              تستخدم عبارة "الدقة المطلقة" في بعض الأحيان ، حين يتعلق الأمر بهذا
+              المفهوم أو التصور ، للتفريق بينه وبين مفهوم "الدقة الموضعية
+              النسبية". في الحالات التي قد تكون فيها القيمة الحقيقية للإحداثي
+              غير معروفة بشكل تام , يتم اختبار الدقة عادة بمقارنتها بقيم معروفة
+              تتوفر فيها شروط الصحة بقدر الإمكان.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19116:2019'
+            clause: '(E), 3.22'
+            link: 'https://www.iso.org/standard/70882.html'
+          lineage_source: 'ISO 19116:2004(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2004-07-01T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19116:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19116:2004 to ISO
+            19116:2019(E), 3.22. Lineage source added as ISO 19116:2004(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: الدقة المكانيه
+              normative_status: preferred
+        parents: []
+        timeCreated: 2004-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+zho:
+  id: 348
+  definition: 在一个特定的参照系中，坐标值与真值或可接受值之间的接近程度。
+  language_code: zho
+  notes:
+    - >-
+      短语“绝对准确度”有时用于这样的概念，以便区别与相对位置准确度。在那些坐标真值不完全知道的地方，通常通过与最能被接受为真值的那些有用的值比较来测试准确度。
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19116:2019'
+    clause: '(E), 3.22'
+    link: 'https://www.iso.org/standard/70882.html'
+  lineage_source: 'ISO 19116:2004(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2004-07-01T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19116:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19116:2004 to ISO 19116:2019(E),
+    3.22. Lineage source added as ISO 19116:2004(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: 定位准确度
+      normative_status: preferred
+  _revisions:
+    current: 9c784f
+    tree:
+      9c784f:
+        object:
+          id: 348
+          definition: 在一个特定的参照系中，坐标值与真值或可接受值之间的接近程度。
+          language_code: zho
+          notes:
+            - >-
+              短语“绝对准确度”有时用于这样的概念，以便区别与相对位置准确度。在那些坐标真值不完全知道的地方，通常通过与最能被接受为真值的那些有用的值比较来测试准确度。
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19116:2019'
+            clause: '(E), 3.22'
+            link: 'https://www.iso.org/standard/70882.html'
+          lineage_source: 'ISO 19116:2004(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2004-07-01T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19116:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19116:2004 to ISO
+            19116:2019(E), 3.22. Lineage source added as ISO 19116:2004(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: 定位准确度
+              normative_status: preferred
+        parents: []
+        timeCreated: 2004-07-01T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+fin:
+  id: 348
+  definition: >-
+    laatutekijä, joka ilmentää tietoaineiston kohteen sijainnin tarkkuutta
+    valitussa koordinaattijärjestelmässä
+  language_code: fin
+  notes:
+    - >-
+      Joskus sijaintitarkkuuden käsitteestä käytetään ilmaisua absoluuttinen
+      tarkkuus, jotta se erottuisi suhteellisen sijaintitarkkuuden käsitteestä.
+      Jos koordinaattien todellista arvoa ei täysin tunneta, tarkkuus testataan
+      normaalisti vertaamalla koordinaattiarvoja parhaimpina pidettyihin
+      saatavilla oleviin arvoihin.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19116:2019'
+    clause: '(E), 3.22'
+    link: 'https://www.iso.org/standard/70882.html'
+  lineage_source: 'ISO 19116:2004(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2004-07-01T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19116:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19116:2004 to ISO 19116:2019(E),
+    3.22. Lineage source added as ISO 19116:2004(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: sijaintitarkkuus
+      normative_status: preferred
+    - designation: paikannustarkkuus
+      type: expression
+  _revisions:
+    current: 4eb881
+    tree:
+      4eb881:
+        object:
+          id: 348
+          definition: >-
+            laatutekijä, joka ilmentää tietoaineiston kohteen sijainnin
+            tarkkuutta valitussa koordinaattijärjestelmässä
+          language_code: fin
+          notes:
+            - >-
+              Joskus sijaintitarkkuuden käsitteestä käytetään ilmaisua
+              absoluuttinen tarkkuus, jotta se erottuisi suhteellisen
+              sijaintitarkkuuden käsitteestä. Jos koordinaattien todellista
+              arvoa ei täysin tunneta, tarkkuus testataan normaalisti
+              vertaamalla koordinaattiarvoja parhaimpina pidettyihin saatavilla
+              oleviin arvoihin.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19116:2019'
+            clause: '(E), 3.22'
+            link: 'https://www.iso.org/standard/70882.html'
+          lineage_source: 'ISO 19116:2004(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2004-07-01T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19116:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19116:2004 to ISO
+            19116:2019(E), 3.22. Lineage source added as ISO 19116:2004(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: sijaintitarkkuus
+              normative_status: preferred
+            - designation: paikannustarkkuus
+              type: expression
+        parents: []
+        timeCreated: 2004-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+fra:
+  id: 348
+  definition: >-
+    étroitesse de l'accord entre les valeurs de coordonnées et la valeur vraie
+    ou valeur acceptée dans un système de référence spécifié
+  language_code: fra
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19116:2019'
+    clause: '(E), 3.22'
+    link: 'https://www.iso.org/standard/70882.html'
+  lineage_source: 'ISO 19116:2004(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2004-07-01T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19116:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19116:2004 to ISO 19116:2019(E),
+    3.22. Lineage source added as ISO 19116:2004(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: précision de position (précision géométrique)
+      normative_status: preferred
+  _revisions:
+    current: b9431d
+    tree:
+      b9431d:
+        object:
+          id: 348
+          definition: >-
+            étroitesse de l'accord entre les valeurs de coordonnées et la valeur
+            vraie ou valeur acceptée dans un système de référence spécifié
+          language_code: fra
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19116:2019'
+            clause: '(E), 3.22'
+            link: 'https://www.iso.org/standard/70882.html'
+          lineage_source: 'ISO 19116:2004(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2004-07-01T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19116:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19116:2004 to ISO
+            19116:2019(E), 3.22. Lineage source added as ISO 19116:2004(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: précision de position (précision géométrique)
+              normative_status: preferred
+        parents: []
+        timeCreated: 2004-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+deu:
+  id: 348
+  language_code: deu
+  notes:
+    - >-
+      The phrase "absolute accuracy" is sometimes used for this concept to
+      distinguish it from relative positional accuracy.  Where the true
+      coordinate value may not be perfectly known, accuracy is normally tested
+      by comparison to available values that can best be accepted as true.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19116:2019'
+    clause: '(E), 3.22'
+    link: 'https://www.iso.org/standard/70882.html'
+  lineage_source: 'ISO 19116:2004(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2004-07-01T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19116:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19116:2004 to ISO 19116:2019(E),
+    3.22. Lineage source added as ISO 19116:2004(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: Positionsgenauigkeit
+      normative_status: preferred
+  _revisions:
+    current: 399cda
+    tree:
+      399cda:
+        object:
+          id: 348
+          language_code: deu
+          notes:
+            - >-
+              The phrase "absolute accuracy" is sometimes used for this concept
+              to distinguish it from relative positional accuracy.  Where the
+              true coordinate value may not be perfectly known, accuracy is
+              normally tested by comparison to available values that can best be
+              accepted as true.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19116:2019'
+            clause: '(E), 3.22'
+            link: 'https://www.iso.org/standard/70882.html'
+          lineage_source: 'ISO 19116:2004(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2004-07-01T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19116:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19116:2004 to ISO
+            19116:2019(E), 3.22. Lineage source added as ISO 19116:2004(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: Positionsgenauigkeit
+              normative_status: preferred
+        parents: []
+        timeCreated: 2004-07-01T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+kor:
+  id: 348
+  definition: 특정 참조 체계에서 관측에 의해 결정된 좌표 값이 참값 또는 허용 값에 근접하는 정도
+  language_code: kor
+  notes:
+    - >-
+      "상대 위치 정확도"와 개념 구별을 위해, 종종 위치 정확도에 "절대 정확도"라는 용어가 사용된다. 완벽하게 알려지지 않은 참 좌표
+      값의 정확도는 보통 참값으로 수용할 수 있는 가용한 최적의 값과 비교를 통해 결정된다.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19116:2019'
+    clause: '(E), 3.22'
+    link: 'https://www.iso.org/standard/70882.html'
+  lineage_source: 'ISO 19116:2004(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2004-07-01T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19116:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19116:2004 to ISO 19116:2019(E),
+    3.22. Lineage source added as ISO 19116:2004(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: 위치 정확도
+      normative_status: preferred
+  _revisions:
+    current: 2df407
+    tree:
+      2df407:
+        object:
+          id: 348
+          definition: 특정 참조 체계에서 관측에 의해 결정된 좌표 값이 참값 또는 허용 값에 근접하는 정도
+          language_code: kor
+          notes:
+            - >-
+              "상대 위치 정확도"와 개념 구별을 위해, 종종 위치 정확도에 "절대 정확도"라는 용어가 사용된다. 완벽하게 알려지지
+              않은 참 좌표 값의 정확도는 보통 참값으로 수용할 수 있는 가용한 최적의 값과 비교를 통해 결정된다.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19116:2019'
+            clause: '(E), 3.22'
+            link: 'https://www.iso.org/standard/70882.html'
+          lineage_source: 'ISO 19116:2004(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2004-07-01T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19116:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19116:2004 to ISO
+            19116:2019(E), 3.22. Lineage source added as ISO 19116:2004(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: 위치 정확도
+              normative_status: preferred
+        parents: []
+        timeCreated: 2004-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 348
+  definition: >-
+    близость значений координат к истинным или принимаемым в качестве таковых в
+    определенной системе отсчета
+  language_code: rus
+  notes:
+    - >-
+      Для этого понятия иногда используют термин «абсолютная точность», чтобы
+      различить его с относительной позиционной точностью. В том случае, когда
+      не известны истинные  значения координат, точность проверяется путем
+      сравнения с доступными значениями, принимаемыми в качестве истинных
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19116:2019'
+    clause: '(E), 3.22'
+    link: 'https://www.iso.org/standard/70882.html'
+  lineage_source: 'ISO 19116:2004(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2004-07-01T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19116:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19116:2004 to ISO 19116:2019(E),
+    3.22. Lineage source added as ISO 19116:2004(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: позиционная точность
+      normative_status: preferred
+  _revisions:
+    current: 4dd5e0
+    tree:
+      4dd5e0:
+        object:
+          id: 348
+          definition: >-
+            близость значений координат к истинным или принимаемым в качестве
+            таковых в определенной системе отсчета
+          language_code: rus
+          notes:
+            - >-
+              Для этого понятия иногда используют термин «абсолютная точность»,
+              чтобы различить его с относительной позиционной точностью. В том
+              случае, когда не известны истинные  значения координат, точность
+              проверяется путем сравнения с доступными значениями, принимаемыми
+              в качестве истинных
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19116:2019'
+            clause: '(E), 3.22'
+            link: 'https://www.iso.org/standard/70882.html'
+          lineage_source: 'ISO 19116:2004(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2004-07-01T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19116:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19116:2004 to ISO
+            19116:2019(E), 3.22. Lineage source added as ISO 19116:2004(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: позиционная точность
+              normative_status: preferred
+        parents: []
+        timeCreated: 2004-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 348
+  definition: >-
+    cercanía del valor de unas coordenadas respecto al valor verdadero o al
+    valor aceptado en un sistema de referencia especificado
+  language_code: spa
+  notes:
+    - >-
+      La frase "exactitud absoluta" es utilizada a menudo para este concepto
+      para distinguirlo de la exactitud posicional relativa. Cuando el valor
+      verdadero de una coordenada no puede ser perfectamente conocido, la
+      exactitud usualmente se comprueba comparando los valores disponibles que
+      pueden ser mejor aceptados como verdaderos.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19116:2019'
+    clause: '(E), 3.22'
+    link: 'https://www.iso.org/standard/70882.html'
+  lineage_source: 'ISO 19116:2004(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2004-07-01T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19116:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19116:2004 to ISO 19116:2019(E),
+    3.22. Lineage source added as ISO 19116:2004(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: exactitud posicional
+      normative_status: preferred
+  _revisions:
+    current: 8bf44c
+    tree:
+      8bf44c:
+        object:
+          id: 348
+          definition: >-
+            cercanía del valor de unas coordenadas respecto al valor verdadero o
+            al valor aceptado en un sistema de referencia especificado
+          language_code: spa
+          notes:
+            - >-
+              La frase "exactitud absoluta" es utilizada a menudo para este
+              concepto para distinguirlo de la exactitud posicional relativa.
+              Cuando el valor verdadero de una coordenada no puede ser
+              perfectamente conocido, la exactitud usualmente se comprueba
+              comparando los valores disponibles que pueden ser mejor aceptados
+              como verdaderos.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19116:2019'
+            clause: '(E), 3.22'
+            link: 'https://www.iso.org/standard/70882.html'
+          lineage_source: 'ISO 19116:2004(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2004-07-01T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19116:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19116:2004 to ISO
+            19116:2019(E), 3.22. Lineage source added as ISO 19116:2004(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: exactitud posicional
+              normative_status: preferred
+        parents: []
+        timeCreated: 2004-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+swe:
+  id: 348
+  definition: noggrannhet i en lägesangivelse
+  country_code: swe
+  language_code: swe
+  notes:
+    - >-
+      The phrase "absolute accuracy" is sometimes used for this concept to
+      distinguish it from relative positional accuracy.  Where the true
+      coordinate value may not be perfectly known, accuracy is normally tested
+      by comparison to available values that can best be accepted as true.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19116:2019'
+    clause: '(E), 3.22'
+    link: 'https://www.iso.org/standard/70882.html'
+  lineage_source: 'ISO 19116:2004(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2004-07-01T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19116:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19116:2004 to ISO 19116:2019(E),
+    3.22. Lineage source added as ISO 19116:2004(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: lägesnoggrannhet
+      normative_status: preferred
+  _revisions:
+    current: 7ef400
+    tree:
+      7ef400:
+        object:
+          id: 348
+          definition: noggrannhet i en lägesangivelse
+          country_code: swe
+          language_code: swe
+          notes:
+            - >-
+              The phrase "absolute accuracy" is sometimes used for this concept
+              to distinguish it from relative positional accuracy.  Where the
+              true coordinate value may not be perfectly known, accuracy is
+              normally tested by comparison to available values that can best be
+              accepted as true.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19116:2019'
+            clause: '(E), 3.22'
+            link: 'https://www.iso.org/standard/70882.html'
+          lineage_source: 'ISO 19116:2004(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2004-07-01T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19116:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19116:2004 to ISO
+            19116:2019(E), 3.22. Lineage source added as ISO 19116:2004(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: lägesnoggrannhet
+              normative_status: preferred
+        parents: []
+        timeCreated: 2004-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

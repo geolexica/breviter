@@ -1,0 +1,837 @@
+term: metadata
+termid: 289
+eng:
+  id: 289
+  definition: data about data
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19115:2003'
+    clause: '4.5'
+    link: 'https://www.iso.org/standard/26020.html'
+  lineage_source: ISO 19113
+  lineage_source_similarity: 1
+  date_accepted: 2002-12-01T00:00:00.000Z
+  date_amended: 2014-04-01T00:00:00.000Z
+  review_date: 2011-01-01T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2014-04-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19115-1:2014'
+  review_decision_notes: >-
+    The entry has been superseded. An entry with a revised definition has been
+    published in ISO 19115-1:2014
+  release: '-1'
+  terms:
+    - type: expression
+      designation: metadata
+      normative_status: null
+  _revisions:
+    current: 6776d1
+    tree:
+      6776d1:
+        object:
+          id: 289
+          definition: data about data
+          language_code: eng
+          notes: []
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19115:2003'
+            clause: '4.5'
+            link: 'https://www.iso.org/standard/26020.html'
+          lineage_source: ISO 19113
+          lineage_source_similarity: 1
+          date_accepted: 2002-12-01T00:00:00.000Z
+          date_amended: 2014-04-01T00:00:00.000Z
+          review_date: 2011-01-01T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2014-04-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19115-1:2014'
+          review_decision_notes: >-
+            The entry has been superseded. An entry with a revised definition
+            has been published in ISO 19115-1:2014
+          release: '-1'
+          terms:
+            - type: expression
+              designation: metadata
+              normative_status: null
+        parents: []
+        timeCreated: 2002-12-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+ara:
+  id: 289
+  definition: بيانات عن البيانات
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19115:2003'
+    clause: '4.5'
+    link: 'https://www.iso.org/standard/26020.html'
+  lineage_source: ISO 19113
+  lineage_source_similarity: 1
+  date_accepted: 2002-12-01T00:00:00.000Z
+  date_amended: 2014-04-01T00:00:00.000Z
+  review_date: 2011-01-01T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2014-04-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19115-1:2014'
+  review_decision_notes: >-
+    The entry has been superseded. An entry with a revised definition has been
+    published in ISO 19115-1:2014
+  release: '-1'
+  terms:
+    - type: expression
+      designation: توصيف البيانات
+      normative_status: null
+  _revisions:
+    current: 4de942
+    tree:
+      4de942:
+        object:
+          id: 289
+          definition: بيانات عن البيانات
+          language_code: ara
+          notes: []
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19115:2003'
+            clause: '4.5'
+            link: 'https://www.iso.org/standard/26020.html'
+          lineage_source: ISO 19113
+          lineage_source_similarity: 1
+          date_accepted: 2002-12-01T00:00:00.000Z
+          date_amended: 2014-04-01T00:00:00.000Z
+          review_date: 2011-01-01T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2014-04-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19115-1:2014'
+          review_decision_notes: >-
+            The entry has been superseded. An entry with a revised definition
+            has been published in ISO 19115-1:2014
+          release: '-1'
+          terms:
+            - type: expression
+              designation: توصيف البيانات
+              normative_status: null
+        parents: []
+        timeCreated: 2002-12-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+zho:
+  id: 289
+  definition: 关于数据的数据。
+  language_code: zho
+  notes: []
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19115:2003'
+    clause: '4.5'
+    link: 'https://www.iso.org/standard/26020.html'
+  lineage_source: ISO 19113
+  lineage_source_similarity: 1
+  date_accepted: 2002-12-01T00:00:00.000Z
+  date_amended: 2014-04-01T00:00:00.000Z
+  review_date: 2011-01-01T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2014-04-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19115-1:2014'
+  review_decision_notes: >-
+    The entry has been superseded. An entry with a revised definition has been
+    published in ISO 19115-1:2014
+  release: '-1'
+  terms:
+    - type: expression
+      designation: 元数据
+      normative_status: null
+  _revisions:
+    current: a81002
+    tree:
+      a81002:
+        object:
+          id: 289
+          definition: 关于数据的数据。
+          language_code: zho
+          notes: []
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19115:2003'
+            clause: '4.5'
+            link: 'https://www.iso.org/standard/26020.html'
+          lineage_source: ISO 19113
+          lineage_source_similarity: 1
+          date_accepted: 2002-12-01T00:00:00.000Z
+          date_amended: 2014-04-01T00:00:00.000Z
+          review_date: 2011-01-01T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2014-04-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19115-1:2014'
+          review_decision_notes: >-
+            The entry has been superseded. An entry with a revised definition
+            has been published in ISO 19115-1:2014
+          release: '-1'
+          terms:
+            - type: expression
+              designation: 元数据
+              normative_status: null
+        parents: []
+        timeCreated: 2002-12-01T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+nld:
+  id: 289
+  definition: gegevens over gegevens
+  language_code: nld
+  notes:
+    - >-
+      In de Richtlijn Metagegevens Overheidsinformatie wordt metadata omschreven
+      als: "Gegevens over informatieobjecten. Zij maken het mogelijk
+      informatieobjecten te vinden, uit te wisselen en te beheren."
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19115:2003'
+    clause: '4.5'
+    link: 'https://www.iso.org/standard/26020.html'
+  lineage_source: ISO 19113
+  lineage_source_similarity: 1
+  date_accepted: 2002-12-01T00:00:00.000Z
+  date_amended: 2014-04-01T00:00:00.000Z
+  review_date: 2011-01-01T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2014-04-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19115-1:2014'
+  review_decision_notes: >-
+    The entry has been superseded. An entry with a revised definition has been
+    published in ISO 19115-1:2014
+  release: '-1'
+  terms:
+    - type: expression
+      designation: metadata
+      normative_status: null
+  _revisions:
+    current: 95332a
+    tree:
+      95332a:
+        object:
+          id: 289
+          definition: gegevens over gegevens
+          language_code: nld
+          notes:
+            - >-
+              In de Richtlijn Metagegevens Overheidsinformatie wordt metadata
+              omschreven als: "Gegevens over informatieobjecten. Zij maken het
+              mogelijk informatieobjecten te vinden, uit te wisselen en te
+              beheren."
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19115:2003'
+            clause: '4.5'
+            link: 'https://www.iso.org/standard/26020.html'
+          lineage_source: ISO 19113
+          lineage_source_similarity: 1
+          date_accepted: 2002-12-01T00:00:00.000Z
+          date_amended: 2014-04-01T00:00:00.000Z
+          review_date: 2011-01-01T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2014-04-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19115-1:2014'
+          review_decision_notes: >-
+            The entry has been superseded. An entry with a revised definition
+            has been published in ISO 19115-1:2014
+          release: '-1'
+          terms:
+            - type: expression
+              designation: metadata
+              normative_status: null
+        parents: []
+        timeCreated: 2002-12-01T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+fin:
+  id: 289
+  definition: resurssia kuvaileva tieto
+  language_code: fin
+  notes: []
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19115:2003'
+    clause: '4.5'
+    link: 'https://www.iso.org/standard/26020.html'
+  lineage_source: ISO 19113
+  lineage_source_similarity: 1
+  date_accepted: 2013-07-03T00:00:00.000Z
+  date_amended: 2014-04-01T00:00:00.000Z
+  review_date: 2011-01-01T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2014-04-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19115-1:2014'
+  review_decision_notes: >-
+    The entry has been superseded. An entry with a revised definition has been
+    published in ISO 19115-1:2014
+  release: '-1'
+  terms:
+    - type: expression
+      designation: metatieto
+      normative_status: null
+  _revisions:
+    current: 43b987
+    tree:
+      43b987:
+        object:
+          id: 289
+          definition: resurssia kuvaileva tieto
+          language_code: fin
+          notes: []
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19115:2003'
+            clause: '4.5'
+            link: 'https://www.iso.org/standard/26020.html'
+          lineage_source: ISO 19113
+          lineage_source_similarity: 1
+          date_accepted: 2013-07-03T00:00:00.000Z
+          date_amended: 2014-04-01T00:00:00.000Z
+          review_date: 2011-01-01T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2014-04-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19115-1:2014'
+          review_decision_notes: >-
+            The entry has been superseded. An entry with a revised definition
+            has been published in ISO 19115-1:2014
+          release: '-1'
+          terms:
+            - type: expression
+              designation: metatieto
+              normative_status: null
+        parents: []
+        timeCreated: 2013-07-03T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+fra:
+  id: 289
+  definition: données décrivant des données
+  language_code: fra
+  notes: []
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19115:2003'
+    clause: '4.5'
+    link: 'https://www.iso.org/standard/26020.html'
+  lineage_source: ISO 19113
+  lineage_source_similarity: 1
+  date_accepted: 2002-12-01T00:00:00.000Z
+  date_amended: 2014-04-01T00:00:00.000Z
+  review_date: 2011-01-01T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2014-04-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19115-1:2014'
+  review_decision_notes: >-
+    The entry has been superseded. An entry with a revised definition has been
+    published in ISO 19115-1:2014
+  release: '-1'
+  terms:
+    - type: expression
+      designation: métadonnées
+      normative_status: null
+  _revisions:
+    current: ccf19f
+    tree:
+      ccf19f:
+        object:
+          id: 289
+          definition: données décrivant des données
+          language_code: fra
+          notes: []
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19115:2003'
+            clause: '4.5'
+            link: 'https://www.iso.org/standard/26020.html'
+          lineage_source: ISO 19113
+          lineage_source_similarity: 1
+          date_accepted: 2002-12-01T00:00:00.000Z
+          date_amended: 2014-04-01T00:00:00.000Z
+          review_date: 2011-01-01T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2014-04-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19115-1:2014'
+          review_decision_notes: >-
+            The entry has been superseded. An entry with a revised definition
+            has been published in ISO 19115-1:2014
+          release: '-1'
+          terms:
+            - type: expression
+              designation: métadonnées
+              normative_status: null
+        parents: []
+        timeCreated: 2002-12-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+deu:
+  id: 289
+  definition: Daten zur Beschreibung von Daten
+  language_code: deu
+  notes: []
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19115:2003'
+    clause: '4.5'
+    link: 'https://www.iso.org/standard/26020.html'
+  lineage_source: ISO 19113
+  lineage_source_similarity: 1
+  date_accepted: 2002-12-01T00:00:00.000Z
+  date_amended: 2014-04-01T00:00:00.000Z
+  review_date: 2011-01-01T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2014-04-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19115-1:2014'
+  review_decision_notes: >-
+    The entry has been superseded. An entry with a revised definition has been
+    published in ISO 19115-1:2014
+  release: '-1'
+  terms:
+    - type: expression
+      designation: Metadaten
+      normative_status: null
+  _revisions:
+    current: 3f1eb0
+    tree:
+      3f1eb0:
+        object:
+          id: 289
+          definition: Daten zur Beschreibung von Daten
+          language_code: deu
+          notes: []
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19115:2003'
+            clause: '4.5'
+            link: 'https://www.iso.org/standard/26020.html'
+          lineage_source: ISO 19113
+          lineage_source_similarity: 1
+          date_accepted: 2002-12-01T00:00:00.000Z
+          date_amended: 2014-04-01T00:00:00.000Z
+          review_date: 2011-01-01T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2014-04-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19115-1:2014'
+          review_decision_notes: >-
+            The entry has been superseded. An entry with a revised definition
+            has been published in ISO 19115-1:2014
+          release: '-1'
+          terms:
+            - type: expression
+              designation: Metadaten
+              normative_status: null
+        parents: []
+        timeCreated: 2002-12-01T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+jpn:
+  id: 289
+  definition: データに関するデータ。
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19115:2003'
+    clause: '4.5'
+    link: 'https://www.iso.org/standard/26020.html'
+  lineage_source: ISO 19113
+  lineage_source_similarity: 1
+  date_accepted: 2002-12-01T00:00:00.000Z
+  date_amended: 2014-04-01T00:00:00.000Z
+  review_date: 2011-01-01T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2014-04-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19115-1:2014'
+  review_decision_notes: >-
+    The entry has been superseded. An entry with a revised definition has been
+    published in ISO 19115-1:2014
+  release: '-1'
+  terms:
+    - type: expression
+      designation: メタデータ
+      normative_status: null
+  _revisions:
+    current: c7161c
+    tree:
+      c7161c:
+        object:
+          id: 289
+          definition: データに関するデータ。
+          language_code: jpn
+          notes: []
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19115:2003'
+            clause: '4.5'
+            link: 'https://www.iso.org/standard/26020.html'
+          lineage_source: ISO 19113
+          lineage_source_similarity: 1
+          date_accepted: 2002-12-01T00:00:00.000Z
+          date_amended: 2014-04-01T00:00:00.000Z
+          review_date: 2011-01-01T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2014-04-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19115-1:2014'
+          review_decision_notes: >-
+            The entry has been superseded. An entry with a revised definition
+            has been published in ISO 19115-1:2014
+          release: '-1'
+          terms:
+            - type: expression
+              designation: メタデータ
+              normative_status: null
+        parents: []
+        timeCreated: 2002-12-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+kor:
+  id: 289
+  definition: 데이터에 관한 데이터
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19115:2003'
+    clause: '4.5'
+    link: 'https://www.iso.org/standard/26020.html'
+  lineage_source: ISO 19113
+  lineage_source_similarity: 1
+  date_accepted: 2008-12-30T00:00:00.000Z
+  date_amended: 2014-04-01T00:00:00.000Z
+  review_date: 2011-01-01T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2014-04-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19115-1:2014'
+  review_decision_notes: >-
+    The entry has been superseded. An entry with a revised definition has been
+    published in ISO 19115-1:2014
+  release: '-1'
+  terms:
+    - type: expression
+      designation: 메타데이터
+      normative_status: null
+  _revisions:
+    current: '803422'
+    tree:
+      '803422':
+        object:
+          id: 289
+          definition: 데이터에 관한 데이터
+          language_code: kor
+          notes: []
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19115:2003'
+            clause: '4.5'
+            link: 'https://www.iso.org/standard/26020.html'
+          lineage_source: ISO 19113
+          lineage_source_similarity: 1
+          date_accepted: 2008-12-30T00:00:00.000Z
+          date_amended: 2014-04-01T00:00:00.000Z
+          review_date: 2011-01-01T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2014-04-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19115-1:2014'
+          review_decision_notes: >-
+            The entry has been superseded. An entry with a revised definition
+            has been published in ISO 19115-1:2014
+          release: '-1'
+          terms:
+            - type: expression
+              designation: 메타데이터
+              normative_status: null
+        parents: []
+        timeCreated: 2008-12-30T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+pol:
+  id: 289
+  definition: dane o danych
+  language_code: pol
+  notes: []
+  examples: []
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19115:2003'
+    clause: '4.5'
+    link: 'https://www.iso.org/standard/26020.html'
+  lineage_source: ISO 19113
+  lineage_source_similarity: 1
+  date_accepted: 2002-12-01T00:00:00.000Z
+  date_amended: 2014-04-01T00:00:00.000Z
+  review_date: 2011-01-01T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2014-04-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19115-1:2014'
+  review_decision_notes: >-
+    The entry has been superseded. An entry with a revised definition has been
+    published in ISO 19115-1:2014
+  release: '-1'
+  terms:
+    - type: expression
+      designation: metadane
+      normative_status: null
+  _revisions:
+    current: de902d
+    tree:
+      de902d:
+        object:
+          id: 289
+          definition: dane o danych
+          language_code: pol
+          notes: []
+          examples: []
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19115:2003'
+            clause: '4.5'
+            link: 'https://www.iso.org/standard/26020.html'
+          lineage_source: ISO 19113
+          lineage_source_similarity: 1
+          date_accepted: 2002-12-01T00:00:00.000Z
+          date_amended: 2014-04-01T00:00:00.000Z
+          review_date: 2011-01-01T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2014-04-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19115-1:2014'
+          review_decision_notes: >-
+            The entry has been superseded. An entry with a revised definition
+            has been published in ISO 19115-1:2014
+          release: '-1'
+          terms:
+            - type: expression
+              designation: metadane
+              normative_status: null
+        parents: []
+        timeCreated: 2002-12-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 289
+  definition: данные о данных
+  language_code: rus
+  notes: []
+  examples: []
+  entry_status: замененный
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19115:2003'
+    clause: '4.5'
+    link: 'https://www.iso.org/standard/26020.html'
+  lineage_source: ISO 19113
+  lineage_source_similarity: 1
+  date_accepted: 2002-12-01T00:00:00.000Z
+  date_amended: 2014-04-01T00:00:00.000Z
+  review_date: 2011-01-01T00:00:00.000Z
+  review_status: ''
+  review_type: ''
+  review_decision: ''
+  review_decision_date: 2014-04-01T00:00:00.000Z
+  review_decision_event: 'Публикация ИСО 19115-1:2014'
+  review_decision_notes: >-
+    Запись была заменена. Запись с пересмотренным определением была опубликована
+    в ISO 19115-1:2014
+  release: '-1'
+  terms:
+    - type: expression
+      designation: метаданные
+      normative_status: null
+  _revisions:
+    current: b9f745
+    tree:
+      b9f745:
+        object:
+          id: 289
+          definition: данные о данных
+          language_code: rus
+          notes: []
+          examples: []
+          entry_status: замененный
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19115:2003'
+            clause: '4.5'
+            link: 'https://www.iso.org/standard/26020.html'
+          lineage_source: ISO 19113
+          lineage_source_similarity: 1
+          date_accepted: 2002-12-01T00:00:00.000Z
+          date_amended: 2014-04-01T00:00:00.000Z
+          review_date: 2011-01-01T00:00:00.000Z
+          review_status: ''
+          review_type: ''
+          review_decision: ''
+          review_decision_date: 2014-04-01T00:00:00.000Z
+          review_decision_event: 'Публикация ИСО 19115-1:2014'
+          review_decision_notes: >-
+            Запись была заменена. Запись с пересмотренным определением была
+            опубликована в ISO 19115-1:2014
+          release: '-1'
+          terms:
+            - type: expression
+              designation: метаданные
+              normative_status: null
+        parents: []
+        timeCreated: 2002-12-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 289
+  definition: datos acerca de los datos
+  language_code: spa
+  notes: []
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19115:2003'
+    clause: '4.5'
+    link: 'https://www.iso.org/standard/26020.html'
+  lineage_source: ISO 19113
+  lineage_source_similarity: 1
+  date_accepted: 2002-12-01T00:00:00.000Z
+  date_amended: 2014-04-01T00:00:00.000Z
+  review_date: 2011-01-01T00:00:00.000Z
+  review_status: ''
+  review_type: ''
+  review_decision: ''
+  review_decision_date: 2014-04-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19115-1:2014'
+  review_decision_notes: >-
+    The entry has been superseded. An entry with a revised definition has been
+    published in ISO 19115-1:2014
+  release: '-1'
+  terms:
+    - type: expression
+      designation: metadatos
+      normative_status: null
+  _revisions:
+    current: c664ec
+    tree:
+      c664ec:
+        object:
+          id: 289
+          definition: datos acerca de los datos
+          language_code: spa
+          notes: []
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19115:2003'
+            clause: '4.5'
+            link: 'https://www.iso.org/standard/26020.html'
+          lineage_source: ISO 19113
+          lineage_source_similarity: 1
+          date_accepted: 2002-12-01T00:00:00.000Z
+          date_amended: 2014-04-01T00:00:00.000Z
+          review_date: 2011-01-01T00:00:00.000Z
+          review_status: ''
+          review_type: ''
+          review_decision: ''
+          review_decision_date: 2014-04-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19115-1:2014'
+          review_decision_notes: >-
+            The entry has been superseded. An entry with a revised definition
+            has been published in ISO 19115-1:2014
+          release: '-1'
+          terms:
+            - type: expression
+              designation: metadatos
+              normative_status: null
+        parents: []
+        timeCreated: 2002-12-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

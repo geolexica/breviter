@@ -1,0 +1,656 @@
+term: tessellation
+termid: 457
+eng:
+  id: 457
+  definition: >-
+    partitioning of a space into a set of conterminous subspaces having the same
+    dimension as the space being partitioned
+  language_code: eng
+  notes:
+    - >-
+      A tessellation composed of congruent regular polygons or polyhedra is a
+      regular tessellation. One composed of regular, but non-congruent polygons
+      or polyhedra is a semi-regular tessellation. Otherwise the tessellation is
+      irregular.
+  examples:
+    - >-
+      Graphic examples of tessellations may be found in Figures 11, 13, 20 and
+      22 of this International Standard
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19123:2005'
+    link: 'https://www.iso.org/standard/40121.html'
+  date_accepted: 2005-08-15T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: tessellation
+      normative_status: preferred
+  _revisions:
+    current: 40327a
+    tree:
+      40327a:
+        object:
+          id: 457
+          definition: >-
+            partitioning of a space into a set of conterminous subspaces having
+            the same dimension as the space being partitioned
+          language_code: eng
+          notes:
+            - >-
+              A tessellation composed of congruent regular polygons or polyhedra
+              is a regular tessellation. One composed of regular, but
+              non-congruent polygons or polyhedra is a semi-regular
+              tessellation. Otherwise the tessellation is irregular.
+          examples:
+            - >-
+              Graphic examples of tessellations may be found in Figures 11, 13,
+              20 and 22 of this International Standard
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19123:2005'
+            link: 'https://www.iso.org/standard/40121.html'
+          date_accepted: 2005-08-15T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: tessellation
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-08-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+ara:
+  id: 457
+  definition: >-
+    تجزئة حيز مكاني إلى مجموعة من الأجزاء الفرعية ذات حدود مشتركة لها نفس أبعاد
+    الحيز المكاني الخاضع للتجزئة
+  language_code: ara
+  notes:
+    - >-
+      الترصيع بالمضلعات الرباعية الذي يتكون من مضلعات منتظمة متطابقة أو متعددة
+      السطوح هو ترصيع منتظم بالمضلعات الرباعية. أما الترصيع بالمضلعات الرباعية
+      المكون من مضلعات منتظمة ولكنها غير متطابقة أو غير متعددة السطوح فهو شبه
+      منتظم. وعدا عن ذلك يكون الترصيع بالمضلعات غير منتظم.
+  examples:
+    - >-
+      أمثلة: يمكن الاطلاع على أمثلة الترصيع بالمضلعات الرباعية في شكل رسومات
+      تشتمل عليها الأشكال 11 , و 13 , و 20 , و 22 من هذا المقياس الدولي.
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19123:2005'
+    link: 'https://www.iso.org/standard/40121.html'
+  date_accepted: 2005-08-15T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: التضليع
+      normative_status: preferred
+  _revisions:
+    current: bb952a
+    tree:
+      bb952a:
+        object:
+          id: 457
+          definition: >-
+            تجزئة حيز مكاني إلى مجموعة من الأجزاء الفرعية ذات حدود مشتركة لها
+            نفس أبعاد الحيز المكاني الخاضع للتجزئة
+          language_code: ara
+          notes:
+            - >-
+              الترصيع بالمضلعات الرباعية الذي يتكون من مضلعات منتظمة متطابقة أو
+              متعددة السطوح هو ترصيع منتظم بالمضلعات الرباعية. أما الترصيع
+              بالمضلعات الرباعية المكون من مضلعات منتظمة ولكنها غير متطابقة أو
+              غير متعددة السطوح فهو شبه منتظم. وعدا عن ذلك يكون الترصيع
+              بالمضلعات غير منتظم.
+          examples:
+            - >-
+              أمثلة: يمكن الاطلاع على أمثلة الترصيع بالمضلعات الرباعية في شكل
+              رسومات تشتمل عليها الأشكال 11 , و 13 , و 20 , و 22 من هذا المقياس
+              الدولي.
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19123:2005'
+            link: 'https://www.iso.org/standard/40121.html'
+          date_accepted: 2005-08-15T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: التضليع
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-08-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+zho:
+  id: 457
+  definition: 将空间分割成相同维数的相接的一组子空间。
+  language_code: zho
+  notes:
+    - 由全等正多边形或正多面体组成的镶嵌称为规则镶嵌，由不全等的正多边形或正多面体组成的镶嵌称为半规则镶嵌，否则称为不规则镶嵌。
+  examples:
+    - 在标准（ISO 19123）图11，13，20，22可看到镶嵌的图解实例。
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19123:2005'
+    link: 'https://www.iso.org/standard/40121.html'
+  date_accepted: 2005-08-15T00:00:00.000Z
+  terms:
+    - type: expression
+      designation: 镶嵌式分割
+      normative_status: preferred
+  _revisions:
+    current: fce75d
+    tree:
+      fce75d:
+        object:
+          id: 457
+          definition: 将空间分割成相同维数的相接的一组子空间。
+          language_code: zho
+          notes:
+            - 由全等正多边形或正多面体组成的镶嵌称为规则镶嵌，由不全等的正多边形或正多面体组成的镶嵌称为半规则镶嵌，否则称为不规则镶嵌。
+          examples:
+            - 在标准（ISO 19123）图11，13，20，22可看到镶嵌的图解实例。
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19123:2005'
+            link: 'https://www.iso.org/standard/40121.html'
+          date_accepted: 2005-08-15T00:00:00.000Z
+          terms:
+            - type: expression
+              designation: 镶嵌式分割
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-08-15T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+fin:
+  id: 457
+  definition: >-
+    avaruuden jakaminen joukkoon vierekkäisiä aliavaruuksia, joilla on sama
+    ulottuvuus kuin jaettavalla avaruudella
+  language_code: fin
+  notes:
+    - >-
+      Yhtenevistä säännöllisistä monikulmioista tai monitahokkaista koostuva
+      tesselaatio on säännöllinen. Säännöllisistä mutta epäyhtenevistä
+      monikulmioista tai monitahokkaista koostuva tesselaatio on
+      puolisäännöllinen. Muunlaiset tesselaatiot ovat epäsäännöllisiä.
+  examples:
+    - >-
+      Piirrosesimerkkejä tesselaatioista löytyy tämän kansainvälisen standardin
+      kuvista 11, 13, 20 ja 22.
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19123:2005'
+    link: 'https://www.iso.org/standard/40121.html'
+  lineage_source: Internet
+  date_accepted: 2005-08-15T00:00:00.000Z
+  terms:
+    - type: expression
+      designation: tesselaatio
+      normative_status: preferred
+  _revisions:
+    current: '6e9214'
+    tree:
+      '6e9214':
+        object:
+          id: 457
+          definition: >-
+            avaruuden jakaminen joukkoon vierekkäisiä aliavaruuksia, joilla on
+            sama ulottuvuus kuin jaettavalla avaruudella
+          language_code: fin
+          notes:
+            - >-
+              Yhtenevistä säännöllisistä monikulmioista tai monitahokkaista
+              koostuva tesselaatio on säännöllinen. Säännöllisistä mutta
+              epäyhtenevistä monikulmioista tai monitahokkaista koostuva
+              tesselaatio on puolisäännöllinen. Muunlaiset tesselaatiot ovat
+              epäsäännöllisiä.
+          examples:
+            - >-
+              Piirrosesimerkkejä tesselaatioista löytyy tämän kansainvälisen
+              standardin kuvista 11, 13, 20 ja 22.
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19123:2005'
+            link: 'https://www.iso.org/standard/40121.html'
+          lineage_source: Internet
+          date_accepted: 2005-08-15T00:00:00.000Z
+          terms:
+            - type: expression
+              designation: tesselaatio
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-08-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+fra:
+  id: 457
+  definition: >-
+    découpage d'un espace en un ensemble de sous-espaces coïncidents de même
+    dimension que l'espace partitionné
+  language_code: fra
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: ISO 19123
+    link: 'https://www.iso.org/standard/40121.html'
+  lineage_source: ''
+  date_accepted: 2005-08-15T00:00:00.000Z
+  terms:
+    - type: expression
+      designation: partition
+      normative_status: preferred
+  _revisions:
+    current: 9cdda9
+    tree:
+      9cdda9:
+        object:
+          id: 457
+          definition: >-
+            découpage d'un espace en un ensemble de sous-espaces coïncidents de
+            même dimension que l'espace partitionné
+          language_code: fra
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: ISO 19123
+            link: 'https://www.iso.org/standard/40121.html'
+          lineage_source: ''
+          date_accepted: 2005-08-15T00:00:00.000Z
+          terms:
+            - type: expression
+              designation: partition
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-08-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+kor:
+  id: 457
+  definition: 분할되는 공간과 같은 차원을 갖는 인접한 부분 공간의 집합으로의 공간의 분할
+  language_code: kor
+  notes:
+    - >-
+      합동 정다각형 또는 정다면체로 구성된 테셀러이션은 정규 테셀러이션이다. 정다각형 또는 정다면체이긴 하지만, 합동이 아닌 것은 반-정규
+      테셀러이션이다. 그렇지 않으면 테셀러이션은 불규칙하다.
+  examples:
+    - 'KS X ISO 19123의 그림 11, 13, 20 ,22 참고'
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19123:2005'
+    link: 'https://www.iso.org/standard/40121.html'
+  lineage_source: KS X ISO 19123
+  date_accepted: 2007-11-01T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: 공간 분할
+      normative_status: preferred
+    - designation: 테셀러이션
+      type: expression
+  _revisions:
+    current: ccf64f
+    tree:
+      ccf64f:
+        object:
+          id: 457
+          definition: 분할되는 공간과 같은 차원을 갖는 인접한 부분 공간의 집합으로의 공간의 분할
+          language_code: kor
+          notes:
+            - >-
+              합동 정다각형 또는 정다면체로 구성된 테셀러이션은 정규 테셀러이션이다. 정다각형 또는 정다면체이긴 하지만, 합동이 아닌
+              것은 반-정규 테셀러이션이다. 그렇지 않으면 테셀러이션은 불규칙하다.
+          examples:
+            - 'KS X ISO 19123의 그림 11, 13, 20 ,22 참고'
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19123:2005'
+            link: 'https://www.iso.org/standard/40121.html'
+          lineage_source: KS X ISO 19123
+          date_accepted: 2007-11-01T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: 공간 분할
+              normative_status: preferred
+            - designation: 테셀러이션
+              type: expression
+        parents: []
+        timeCreated: 2007-11-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+msa:
+  id: 457
+  definition: >-
+    Corak yang terhasil apabila beberapa jenis bentuk disusun rapat tanpa
+    bertindih untuk menutup keseluruhan satah
+  language_code: msa
+  notes:
+    - >-
+      A tessellation composed of congruent regular polygons or polyhedra is a
+      regular tessellation. One composed of regular, but non-congruent polygons
+      or polyhedra is a semi-regular tessellation. Otherwise the tessellation is
+      irregular.
+  examples:
+    - >-
+      Graphic examples of tessellations may be found in Figures 11, 13, 20 and
+      22 of this International Standard
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19123:2005'
+    link: 'https://www.iso.org/standard/40121.html'
+  lineage_source: Pusat Rujukan Persuratan Melayu (DBP)
+  date_accepted: 2005-08-15T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: teselasi
+      normative_status: preferred
+  _revisions:
+    current: 2d9463
+    tree:
+      2d9463:
+        object:
+          id: 457
+          definition: >-
+            Corak yang terhasil apabila beberapa jenis bentuk disusun rapat
+            tanpa bertindih untuk menutup keseluruhan satah
+          language_code: msa
+          notes:
+            - >-
+              A tessellation composed of congruent regular polygons or polyhedra
+              is a regular tessellation. One composed of regular, but
+              non-congruent polygons or polyhedra is a semi-regular
+              tessellation. Otherwise the tessellation is irregular.
+          examples:
+            - >-
+              Graphic examples of tessellations may be found in Figures 11, 13,
+              20 and 22 of this International Standard
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19123:2005'
+            link: 'https://www.iso.org/standard/40121.html'
+          lineage_source: Pusat Rujukan Persuratan Melayu (DBP)
+          date_accepted: 2005-08-15T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: teselasi
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-08-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+pol:
+  id: 457
+  definition: >-
+    podział przestrzeni na zbiór sąsiadujących ze sobą podprzestrzeni o tym
+    samym wymiarze co dzielona przestrzeń
+  language_code: pol
+  notes:
+    - >-
+      Teselacja złożona z przystających regularnych wieloboków lub wielościanów
+      jest teselacją regularną. Teselacja złożona z regularnych, ale
+      nieprzystających wieloboków lub wielościanów jest teselacją półregularną.
+      W innych przypadkach teselacja jest nieregularna.
+  examples:
+    - >-
+      Y Graficzne przykłady teselacji pokazano na Rysunkach 11, 13, 20 i 22
+      niniejszej Normy Międzynarodowej.
+  authoritative_source:
+    ref: 'ISO 19123:2005'
+    link: 'https://www.iso.org/standard/40121.html'
+  lineage_source: PN-EN ISO 19123
+  date_accepted: 2005-08-15T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: teselacja
+      normative_status: preferred
+  _revisions:
+    current: 44dd21
+    tree:
+      44dd21:
+        object:
+          id: 457
+          definition: >-
+            podział przestrzeni na zbiór sąsiadujących ze sobą podprzestrzeni o
+            tym samym wymiarze co dzielona przestrzeń
+          language_code: pol
+          notes:
+            - >-
+              Teselacja złożona z przystających regularnych wieloboków lub
+              wielościanów jest teselacją regularną. Teselacja złożona z
+              regularnych, ale nieprzystających wieloboków lub wielościanów jest
+              teselacją półregularną. W innych przypadkach teselacja jest
+              nieregularna.
+          examples:
+            - >-
+              Y Graficzne przykłady teselacji pokazano na Rysunkach 11, 13, 20 i
+              22 niniejszej Normy Międzynarodowej.
+          authoritative_source:
+            ref: 'ISO 19123:2005'
+            link: 'https://www.iso.org/standard/40121.html'
+          lineage_source: PN-EN ISO 19123
+          date_accepted: 2005-08-15T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: teselacja
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-08-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 457
+  definition: >-
+    разбиение пространства на множество смежных подпространств той же
+    пространственной размерности, что и исходное
+  language_code: rus
+  notes:
+    - >-
+      Мозаика, составленная из конгруэнтных регулярных полигонов или
+      многогранника, является регулярной мозаикой. Мозаика, составленная их
+      регулярных, но не конгруэнтных  полигонов или многогранника, является
+      полурегулярной мозаикой. В иных случаях мозаика является нерегулярной
+  examples:
+    - 'Графические примеры мозаик представлены на рис.11, 13, 20 и 22  ISO 19123'
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19123:2005'
+    link: 'https://www.iso.org/standard/40121.html'
+  lineage_source: Internet
+  date_accepted: 2005-08-15T00:00:00.000Z
+  terms:
+    - type: expression
+      designation: мозаика
+      normative_status: preferred
+  _revisions:
+    current: 1f6f03
+    tree:
+      1f6f03:
+        object:
+          id: 457
+          definition: >-
+            разбиение пространства на множество смежных подпространств той же
+            пространственной размерности, что и исходное
+          language_code: rus
+          notes:
+            - >-
+              Мозаика, составленная из конгруэнтных регулярных полигонов или
+              многогранника, является регулярной мозаикой. Мозаика, составленная
+              их регулярных, но не конгруэнтных  полигонов или многогранника,
+              является полурегулярной мозаикой. В иных случаях мозаика является
+              нерегулярной
+          examples:
+            - >-
+              Графические примеры мозаик представлены на рис.11, 13, 20 и 22 
+              ISO 19123
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19123:2005'
+            link: 'https://www.iso.org/standard/40121.html'
+          lineage_source: Internet
+          date_accepted: 2005-08-15T00:00:00.000Z
+          terms:
+            - type: expression
+              designation: мозаика
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-08-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 457
+  definition: >-
+    partición de un espacio en un conjunto de subespacios contiguos que tienen
+    la misma dimensión que el espacio dividido
+  language_code: spa
+  notes:
+    - >-
+      Un mosaico compuesto de polígonos o poliedros regulares y congruentes es
+      un mosaico regular. Uno compuesto de polígonos o poliedros regulares pero
+      no congruentes es un mosaico semi-regular. En otro caso se trata de un
+      mosaico irregular.
+  examples:
+    - >-
+      S Pueden encontrarse ejemplos gráficos de mosaicos en las figuras 11, 13,
+      20 y 22 de esta norma internacional.
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19123:2005'
+    link: 'https://www.iso.org/standard/40121.html'
+  date_accepted: 2005-08-15T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: mosaico
+      normative_status: preferred
+  _revisions:
+    current: b4a03c
+    tree:
+      b4a03c:
+        object:
+          id: 457
+          definition: >-
+            partición de un espacio en un conjunto de subespacios contiguos que
+            tienen la misma dimensión que el espacio dividido
+          language_code: spa
+          notes:
+            - >-
+              Un mosaico compuesto de polígonos o poliedros regulares y
+              congruentes es un mosaico regular. Uno compuesto de polígonos o
+              poliedros regulares pero no congruentes es un mosaico
+              semi-regular. En otro caso se trata de un mosaico irregular.
+          examples:
+            - >-
+              S Pueden encontrarse ejemplos gráficos de mosaicos en las figuras
+              11, 13, 20 y 22 de esta norma internacional.
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19123:2005'
+            link: 'https://www.iso.org/standard/40121.html'
+          date_accepted: 2005-08-15T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: mosaico
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-08-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+swe:
+  id: 457
+  definition: uppdelning av ett plan eller ett rum i sammanhängande delar
+  country_code: swe
+  language_code: swe
+  notes:
+    - >-
+      A tessellation composed of congruent regular polygons or polyhedra is a
+      regular tessellation. One composed of regular, but non-congruent polygons
+      or polyhedra is a semi-regular tessellation. Otherwise the tessellation is
+      irregular.
+  examples:
+    - >-
+      Graphic examples of tessellations may be found in Figures 11, 13, 20 and
+      22 of this International Standard
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19123:2005'
+    link: 'https://www.iso.org/standard/40121.html'
+  lineage_source: (Type reference to national language document)
+  date_accepted: 2005-08-15T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: tesselering
+      normative_status: preferred
+  _revisions:
+    current: 8098fb
+    tree:
+      8098fb:
+        object:
+          id: 457
+          definition: uppdelning av ett plan eller ett rum i sammanhängande delar
+          country_code: swe
+          language_code: swe
+          notes:
+            - >-
+              A tessellation composed of congruent regular polygons or polyhedra
+              is a regular tessellation. One composed of regular, but
+              non-congruent polygons or polyhedra is a semi-regular
+              tessellation. Otherwise the tessellation is irregular.
+          examples:
+            - >-
+              Graphic examples of tessellations may be found in Figures 11, 13,
+              20 and 22 of this International Standard
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19123:2005'
+            link: 'https://www.iso.org/standard/40121.html'
+          lineage_source: (Type reference to national language document)
+          date_accepted: 2005-08-15T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: tesselering
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-08-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

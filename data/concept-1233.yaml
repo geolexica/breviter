@@ -1,0 +1,205 @@
+term: licence extents
+termid: 1233
+eng:
+  id: 1233
+  definition: scope or applicability of a licence
+  language_code: eng
+  notes:
+    - >-
+      The extent can be described in spatial, temporal. or any other parameter
+      range appropriate to the rights described in the licence.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19153:2014'
+    clause: '4.27'
+    link: 'https://www.iso.org/standard/32571.html'
+  date_accepted: 2014-02-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: licence extents
+      normative_status: preferred
+  _revisions:
+    current: 305e3c
+    tree:
+      305e3c:
+        object:
+          id: 1233
+          definition: scope or applicability of a licence
+          language_code: eng
+          notes:
+            - >-
+              The extent can be described in spatial, temporal. or any other
+              parameter range appropriate to the rights described in the
+              licence.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19153:2014'
+            clause: '4.27'
+            link: 'https://www.iso.org/standard/32571.html'
+          date_accepted: 2014-02-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: licence extents
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+kor:
+  id: 1233
+  definition: 허가증의 범위 또는 적용성
+  language_code: kor
+  notes:
+    - >-
+      The extent can be described in spatial, temporal. or any other parameter
+      range appropriate to the rights described in the licence.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19153:2014'
+    clause: '4.27'
+    link: 'https://www.iso.org/standard/32571.html'
+  date_accepted: 2014-02-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: 허가증 범위
+      normative_status: preferred
+  _revisions:
+    current: f29cf6
+    tree:
+      f29cf6:
+        object:
+          id: 1233
+          definition: 허가증의 범위 또는 적용성
+          language_code: kor
+          notes:
+            - >-
+              The extent can be described in spatial, temporal. or any other
+              parameter range appropriate to the rights described in the
+              licence.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19153:2014'
+            clause: '4.27'
+            link: 'https://www.iso.org/standard/32571.html'
+          date_accepted: 2014-02-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: 허가증 범위
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 1233
+  definition: область действия или применимости лицензии
+  language_code: rus
+  notes:
+    - >-
+      Пространство (экстент) может быть описано в пространственном, временном.
+      или любом другом диапазоне параметров, соответствующем правам, описанным в
+      лицензии.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19153:2014'
+    clause: '4.27'
+    link: 'https://www.iso.org/standard/32571.html'
+  lineage_source: 'перевод ИСО 19153:2014'
+  date_accepted: 2014-02-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: лицензионное пространство
+      normative_status: preferred
+  _revisions:
+    current: 8c5982
+    tree:
+      8c5982:
+        object:
+          id: 1233
+          definition: область действия или применимости лицензии
+          language_code: rus
+          notes:
+            - >-
+              Пространство (экстент) может быть описано в пространственном,
+              временном. или любом другом диапазоне параметров, соответствующем
+              правам, описанным в лицензии.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19153:2014'
+            clause: '4.27'
+            link: 'https://www.iso.org/standard/32571.html'
+          lineage_source: 'перевод ИСО 19153:2014'
+          date_accepted: 2014-02-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: лицензионное пространство
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 1233
+  definition: alcance o campo de aplicación de una licencia
+  language_code: spa
+  notes:
+    - >-
+      Puede describirse el ámbito espacial, temporal o respecto a cualquier otro
+      parámetro apropiado para los derechos descritos en la licencia.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19153:2014'
+    clause: '4.27'
+    link: 'https://www.iso.org/standard/32571.html'
+  date_accepted: 2014-02-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: ámbito de licencia
+      normative_status: preferred
+  _revisions:
+    current: 567c44
+    tree:
+      567c44:
+        object:
+          id: 1233
+          definition: alcance o campo de aplicación de una licencia
+          language_code: spa
+          notes:
+            - >-
+              Puede describirse el ámbito espacial, temporal o respecto a
+              cualquier otro parámetro apropiado para los derechos descritos en
+              la licencia.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19153:2014'
+            clause: '4.27'
+            link: 'https://www.iso.org/standard/32571.html'
+          date_accepted: 2014-02-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: ámbito de licencia
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

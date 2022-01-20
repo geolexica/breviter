@@ -1,0 +1,284 @@
+term: sampling feature
+termid: 1443
+eng:
+  id: 1443
+  definition: feature which is involved in making observations concerning a domain feature
+  language_code: eng
+  notes:
+    - >-
+      A sampling feature is an artefact of the observational strategy, and has
+      no significance independent of the observational campaign.
+  examples:
+    - 'Station, transect, section or specimen.'
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19156:2011'
+    clause: '4.17'
+    link: 'https://www.iso.org/standard/32574.html'
+  date_accepted: 2011-12-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: sampling feature
+      normative_status: preferred
+  _revisions:
+    current: a90f2b
+    tree:
+      a90f2b:
+        object:
+          id: 1443
+          definition: >-
+            feature which is involved in making observations concerning a domain
+            feature
+          language_code: eng
+          notes:
+            - >-
+              A sampling feature is an artefact of the observational strategy,
+              and has no significance independent of the observational campaign.
+          examples:
+            - 'Station, transect, section or specimen.'
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19156:2011'
+            clause: '4.17'
+            link: 'https://www.iso.org/standard/32574.html'
+          date_accepted: 2011-12-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: sampling feature
+              normative_status: preferred
+        parents: []
+        timeCreated: 2011-12-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+kor:
+  id: 1443
+  definition: 영역 지형지물 관측에 연관되어 있는 지형지물
+  language_code: kor
+  notes:
+    - >-
+      A sampling feature is an artefact of the observational strategy, and has
+      no significance independent of the observational campaign.
+  examples:
+    - 'Station, transect, section or specimen.'
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19156:2011'
+    clause: '4.17'
+    link: 'https://www.iso.org/standard/32574.html'
+  date_accepted: 2011-12-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: 샘플링 지형지물
+      normative_status: preferred
+  _revisions:
+    current: d638ef
+    tree:
+      d638ef:
+        object:
+          id: 1443
+          definition: 영역 지형지물 관측에 연관되어 있는 지형지물
+          language_code: kor
+          notes:
+            - >-
+              A sampling feature is an artefact of the observational strategy,
+              and has no significance independent of the observational campaign.
+          examples:
+            - 'Station, transect, section or specimen.'
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19156:2011'
+            clause: '4.17'
+            link: 'https://www.iso.org/standard/32574.html'
+          date_accepted: 2011-12-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: 샘플링 지형지물
+              normative_status: preferred
+        parents: []
+        timeCreated: 2011-12-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 1443
+  definition: >-
+    образец, который участвует в проведении наблюдений , связанных с  объектом
+    домена
+  language_code: rus
+  notes:
+    - >-
+      записи: функция выборки является артефактом стратегии наблюдений и не
+      имеет значения независимо от кампании наблюдений.
+  examples:
+    - 'станция, разрез, секция или образец.'
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19156:2011'
+    clause: '4.17'
+    link: 'https://www.iso.org/standard/32574.html'
+  lineage_source: 'ISO 19156:2011'
+  date_accepted: 2011-12-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: образец выборки
+      normative_status: preferred
+  _revisions:
+    current: 25b215
+    tree:
+      25b215:
+        object:
+          id: 1443
+          definition: >-
+            образец, который участвует в проведении наблюдений , связанных с 
+            объектом домена
+          language_code: rus
+          notes:
+            - >-
+              записи: функция выборки является артефактом стратегии наблюдений и
+              не имеет значения независимо от кампании наблюдений.
+          examples:
+            - 'станция, разрез, секция или образец.'
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19156:2011'
+            clause: '4.17'
+            link: 'https://www.iso.org/standard/32574.html'
+          lineage_source: 'ISO 19156:2011'
+          date_accepted: 2011-12-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: образец выборки
+              normative_status: preferred
+        parents: []
+        timeCreated: 2011-12-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 1443
+  definition: >-
+    entidad involucrada en la realización de observaciones relativas a un
+    determinado ámbito
+  language_code: spa
+  notes:
+    - >-
+      Una entidad de muestreo es un artefacto de la estrategia de observación, y
+      no tiene significado independiente de la campaña de observación
+  examples:
+    - 'Estación, corte transversal, sección o espécimen.'
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19156:2011'
+    clause: '4.17'
+    link: 'https://www.iso.org/standard/32574.html'
+  date_accepted: 2011-12-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: entidad de muestreo
+      normative_status: preferred
+  _revisions:
+    current: 870d3c
+    tree:
+      870d3c:
+        object:
+          id: 1443
+          definition: >-
+            entidad involucrada en la realización de observaciones relativas a
+            un determinado ámbito
+          language_code: spa
+          notes:
+            - >-
+              Una entidad de muestreo es un artefacto de la estrategia de
+              observación, y no tiene significado independiente de la campaña de
+              observación
+          examples:
+            - 'Estación, corte transversal, sección o espécimen.'
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19156:2011'
+            clause: '4.17'
+            link: 'https://www.iso.org/standard/32574.html'
+          date_accepted: 2011-12-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: entidad de muestreo
+              normative_status: preferred
+        parents: []
+        timeCreated: 2011-12-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+swe:
+  id: 1443
+  definition: >-
+    objekt som är involverat när bestämning som berör ett
+    tillämpningsområdesobjekt görs
+  country_code: swe
+  language_code: swe
+  notes:
+    - >-
+      A sampling feature is an artefact of the observational strategy, and has
+      no significance independent of the observational campaign.
+    - >-
+      Ett bestämningsobjekt skapas genom vald strategi för bestämning och har
+      ingen betydelse utanför bestämningsuppdraget.
+  examples:
+    - 'Station, transect, section or specimen.'
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19156:2011'
+    clause: '4.17'
+    link: 'https://www.iso.org/standard/32574.html'
+  lineage_source: (Type reference to national language document)
+  date_accepted: 2011-12-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: provtagningsobjekt
+      normative_status: preferred
+  _revisions:
+    current: 5f077c
+    tree:
+      5f077c:
+        object:
+          id: 1443
+          definition: >-
+            objekt som är involverat när bestämning som berör ett
+            tillämpningsområdesobjekt görs
+          country_code: swe
+          language_code: swe
+          notes:
+            - >-
+              A sampling feature is an artefact of the observational strategy,
+              and has no significance independent of the observational campaign.
+            - >-
+              Ett bestämningsobjekt skapas genom vald strategi för bestämning
+              och har ingen betydelse utanför bestämningsuppdraget.
+          examples:
+            - 'Station, transect, section or specimen.'
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19156:2011'
+            clause: '4.17'
+            link: 'https://www.iso.org/standard/32574.html'
+          lineage_source: (Type reference to national language document)
+          date_accepted: 2011-12-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: provtagningsobjekt
+              normative_status: preferred
+        parents: []
+        timeCreated: 2011-12-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

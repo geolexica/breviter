@@ -1,0 +1,80 @@
+term: vertical reference frame
+termid: 2331
+eng:
+  id: 2331
+  definition: >-
+    reference frame describing the relation of gravity-related heights or depths
+    to the Earth
+  language_code: eng
+  notes:
+    - >-
+      In most cases, the vertical reference frame will be related to mean sea
+      level. Vertical datums include sounding datums (used for hydrographic
+      purposes), in which case the heights may be negative heights or depths.
+    - >-
+      Ellipsoidal heights are related to a three-dimensional ellipsoidal
+      coordinate system referenced to a geodetic reference frame.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19111:2019'
+    clause: '(E), 3.1.72'
+    link: 'https://www.iso.org/standard/74039.html'
+  date_accepted: 2019-01-31T00:00:00.000Z
+  review_date: 2019-01-31T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-01-31T00:00:00.000Z
+  review_decision_event: Normal ISO processing
+  review_decision_notes: 'Publication of document ISO 19111:2019(E)'
+  release: '5'
+  terms:
+    - type: expression
+      designation: vertical reference frame
+      normative_status: preferred
+    - designation: vertical datum
+      type: expression
+  _revisions:
+    current: ead8aa
+    tree:
+      ead8aa:
+        object:
+          id: 2331
+          definition: >-
+            reference frame describing the relation of gravity-related heights
+            or depths to the Earth
+          language_code: eng
+          notes:
+            - >-
+              In most cases, the vertical reference frame will be related to
+              mean sea level. Vertical datums include sounding datums (used for
+              hydrographic purposes), in which case the heights may be negative
+              heights or depths.
+            - >-
+              Ellipsoidal heights are related to a three-dimensional ellipsoidal
+              coordinate system referenced to a geodetic reference frame.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19111:2019'
+            clause: '(E), 3.1.72'
+            link: 'https://www.iso.org/standard/74039.html'
+          date_accepted: 2019-01-31T00:00:00.000Z
+          review_date: 2019-01-31T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-01-31T00:00:00.000Z
+          review_decision_event: Normal ISO processing
+          review_decision_notes: 'Publication of document ISO 19111:2019(E)'
+          release: '5'
+          terms:
+            - type: expression
+              designation: vertical reference frame
+              normative_status: preferred
+            - designation: vertical datum
+              type: expression
+        parents: []
+        timeCreated: 2019-01-31T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

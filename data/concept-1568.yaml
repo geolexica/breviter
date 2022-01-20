@@ -1,0 +1,292 @@
+term: settlement
+termid: 1568
+eng:
+  id: 1568
+  definition: >-
+    general lowering in level of a moving vessel, relative to what its level
+    would be were it motionless, due to the regional depression of the surface
+    of the water in which the ship moves
+  language_code: eng
+  notes:
+    - Settlement is not an increase in displacement.
+    - >-
+      Settlement is measured as an angular tilt about the centre of gravity of
+      the vessel.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: IHO Hydrographic Dictionary S-32
+    clause: Fifth Edition
+  lineage_source: 'ISO/TS 19130-2:2014, 4.67'
+  lineage_source_similarity: '1'
+  date_accepted: 2014-01-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: settlement
+      normative_status: preferred
+  _revisions:
+    current: 571c57
+    tree:
+      571c57:
+        object:
+          id: 1568
+          definition: >-
+            general lowering in level of a moving vessel, relative to what its
+            level would be were it motionless, due to the regional depression of
+            the surface of the water in which the ship moves
+          language_code: eng
+          notes:
+            - Settlement is not an increase in displacement.
+            - >-
+              Settlement is measured as an angular tilt about the centre of
+              gravity of the vessel.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: IHO Hydrographic Dictionary S-32
+            clause: Fifth Edition
+          lineage_source: 'ISO/TS 19130-2:2014, 4.67'
+          lineage_source_similarity: '1'
+          date_accepted: 2014-01-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: settlement
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-01-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+kor:
+  id: 1568
+  definition: 선박 이동 방향의 해수면에서 일어나는 부분적 패임/저기압 현상으로 인해 선박의 높이가 정지된 선박보다 해수면에서 낮아지는  현상
+  language_code: kor
+  notes:
+    - Settlement is not an increase in displacement.
+    - >-
+      Settlement is measured as an angular tilt about the centre of gravity of
+      the vessel.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: IHO Hydrographic Dictionary S-32
+    clause: Fifth Edition
+  lineage_source: 'ISO/TS 19130-2:2014, 4.67'
+  lineage_source_similarity: '1'
+  date_accepted: 2014-01-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: 조정
+      normative_status: preferred
+  _revisions:
+    current: 30521a
+    tree:
+      30521a:
+        object:
+          id: 1568
+          definition: >-
+            선박 이동 방향의 해수면에서 일어나는 부분적 패임/저기압 현상으로 인해 선박의 높이가 정지된 선박보다 해수면에서 낮아지는 
+            현상
+          language_code: kor
+          notes:
+            - Settlement is not an increase in displacement.
+            - >-
+              Settlement is measured as an angular tilt about the centre of
+              gravity of the vessel.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: IHO Hydrographic Dictionary S-32
+            clause: Fifth Edition
+          lineage_source: 'ISO/TS 19130-2:2014, 4.67'
+          lineage_source_similarity: '1'
+          date_accepted: 2014-01-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: 조정
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-01-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+msa:
+  id: 1568
+  definition: >-
+    pengurangan umum pada tahap kapal yang bergerak, berbanding dengan tahapnya
+    apakah ia tidak bergerak, kerana depresi serantau permukaan air di mana
+    kapal bergerak
+  language_code: msa
+  notes:
+    - Settlement is not an increase in displacement.
+    - >-
+      Settlement is measured as an angular tilt about the centre of gravity of
+      the vessel.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: IHO Hydrographic Dictionary S-32
+    clause: Fifth Edition
+  lineage_source: 'ISO/TS 19130-2:2014, 4.67'
+  lineage_source_similarity: '1'
+  date_accepted: 2014-01-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: Pemendapan
+      normative_status: preferred
+  _revisions:
+    current: 6ba07b
+    tree:
+      6ba07b:
+        object:
+          id: 1568
+          definition: >-
+            pengurangan umum pada tahap kapal yang bergerak, berbanding dengan
+            tahapnya apakah ia tidak bergerak, kerana depresi serantau permukaan
+            air di mana kapal bergerak
+          language_code: msa
+          notes:
+            - Settlement is not an increase in displacement.
+            - >-
+              Settlement is measured as an angular tilt about the centre of
+              gravity of the vessel.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: IHO Hydrographic Dictionary S-32
+            clause: Fifth Edition
+          lineage_source: 'ISO/TS 19130-2:2014, 4.67'
+          lineage_source_similarity: '1'
+          date_accepted: 2014-01-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: Pemendapan
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-01-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 1568
+  definition: >-
+    общее понижение уровня движущегося судна относительно того, каким был бы его
+    уровень, если бы оно было неподвижно, из-за местного снижения поверхности
+    воды, в которой движется судно
+  language_code: rus
+  notes:
+    - Осадка не означает увеличение в перемещении
+    - Осадка измеряется как угловой наклон относительно центра тяжести судна.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: IHO Hydrographic Dictionary S-32
+    clause: Fifth Edition
+  lineage_source: 'ISO/TS 19130-2:2014, 4.67'
+  lineage_source_similarity: '1'
+  date_accepted: 2014-01-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: осадка
+      normative_status: preferred
+  _revisions:
+    current: 0acd9c
+    tree:
+      0acd9c:
+        object:
+          id: 1568
+          definition: >-
+            общее понижение уровня движущегося судна относительно того, каким
+            был бы его уровень, если бы оно было неподвижно, из-за местного
+            снижения поверхности воды, в которой движется судно
+          language_code: rus
+          notes:
+            - Осадка не означает увеличение в перемещении
+            - >-
+              Осадка измеряется как угловой наклон относительно центра тяжести
+              судна.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: IHO Hydrographic Dictionary S-32
+            clause: Fifth Edition
+          lineage_source: 'ISO/TS 19130-2:2014, 4.67'
+          lineage_source_similarity: '1'
+          date_accepted: 2014-01-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: осадка
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-01-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 1568
+  definition: >-
+    descenso en el calado de un buque en marcha con respecto al que tendría el
+    buque en caso de que permaneciese inmóvil. Esta reducción se debe a la
+    depresión local de la superficie del agua por la que navega el buque.
+  language_code: spa
+  notes:
+    - el asiento no eleva el desplazamiento
+    - >-
+      El asiento se mide como una inclinación angular sobre el centro de
+      gravedad del buque.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: IHO Hydrographic Dictionary S-32
+    clause: Fifth Edition
+  lineage_source: 'ISO/TS 19130-2:2014, 4.67'
+  lineage_source_similarity: '1'
+  date_accepted: 2014-01-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: asiento debido al movimiento del buque
+      normative_status: preferred
+  _revisions:
+    current: 7d37c3
+    tree:
+      7d37c3:
+        object:
+          id: 1568
+          definition: >-
+            descenso en el calado de un buque en marcha con respecto al que
+            tendría el buque en caso de que permaneciese inmóvil. Esta reducción
+            se debe a la depresión local de la superficie del agua por la que
+            navega el buque.
+          language_code: spa
+          notes:
+            - el asiento no eleva el desplazamiento
+            - >-
+              El asiento se mide como una inclinación angular sobre el centro de
+              gravedad del buque.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: IHO Hydrographic Dictionary S-32
+            clause: Fifth Edition
+          lineage_source: 'ISO/TS 19130-2:2014, 4.67'
+          lineage_source_similarity: '1'
+          date_accepted: 2014-01-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: asiento debido al movimiento del buque
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-01-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

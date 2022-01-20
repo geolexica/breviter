@@ -1,0 +1,152 @@
+term: digital terrain model
+termid: 1936
+eng:
+  id: 1936
+  abbrev: DTM
+  definition: >-
+    digital elevation model (DEM) that incorporates the elevation of important
+    topographic features on the land.
+  language_code: eng
+  notes:
+    - >-
+      DTMs are comprised of mass points and breaklines that are irregularly
+      spaced to better characterize the true shape of the bare-earth terrain.
+      The net result of DTMs is that the distinctive terrain features are more
+      clearly defined and precisely located, and contours generated from DTMs
+      more closely approximate the real shape of the terrain.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO/TS 19159-2:2016'
+    clause: '4.13'
+    link: 'https://www.iso.org/standard/64768.html'
+  date_accepted: 2016-04-15T00:00:00.000Z
+  review_date: 2014-08-26T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2016-04-15T00:00:00.000Z
+  review_decision_event: Normal ISO processing
+  review_decision_notes: 'Publication of document ISO/TS 19159-2:2016(E)'
+  release: '4'
+  terms:
+    - type: expression
+      designation: digital terrain model
+      normative_status: preferred
+  _revisions:
+    current: 92c84e
+    tree:
+      92c84e:
+        object:
+          id: 1936
+          abbrev: DTM
+          definition: >-
+            digital elevation model (DEM) that incorporates the elevation of
+            important topographic features on the land.
+          language_code: eng
+          notes:
+            - >-
+              DTMs are comprised of mass points and breaklines that are
+              irregularly spaced to better characterize the true shape of the
+              bare-earth terrain. The net result of DTMs is that the distinctive
+              terrain features are more clearly defined and precisely located,
+              and contours generated from DTMs more closely approximate the real
+              shape of the terrain.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO/TS 19159-2:2016'
+            clause: '4.13'
+            link: 'https://www.iso.org/standard/64768.html'
+          date_accepted: 2016-04-15T00:00:00.000Z
+          review_date: 2014-08-26T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2016-04-15T00:00:00.000Z
+          review_decision_event: Normal ISO processing
+          review_decision_notes: 'Publication of document ISO/TS 19159-2:2016(E)'
+          release: '4'
+          terms:
+            - type: expression
+              designation: digital terrain model
+              normative_status: preferred
+        parents: []
+        timeCreated: 2016-04-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 1936
+  abbrev: MDT
+  definition: >-
+    modelo digital de elevaciones (MDE) que incorpora la elevación de los
+    objetos topográficos importantes sobre el terreno.
+  language_code: spa
+  notes:
+    - >-
+      Los MDT se componen de un gran número puntos y líneas de quiebre que están
+      espaciados irregularmente para caracterizar mejor la forma real del
+      terreno desnudo. El resultado neto de los MDT es tal que los rasgos
+      distintivos del terreno están más claramente definioas y precisamente
+      localizados, y las curvas de nivel generadas a partir de los MDT se
+      aproximan más a la forma real del terreno.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO/TS 19159-2:2016'
+    clause: '4.13'
+    link: 'https://www.iso.org/standard/64768.html'
+  date_accepted: 2016-04-15T00:00:00.000Z
+  review_date: 2014-08-26T00:00:00.000Z
+  review_status: final
+  review_decision: ''
+  review_decision_date: 2016-04-15T00:00:00.000Z
+  review_decision_event: Normal ISO processing
+  review_decision_notes: 'Publication of document ISO/TS 19159-2:2016(E)'
+  release: '4'
+  terms:
+    - type: expression
+      designation: modelo digital del terreno
+      normative_status: preferred
+  _revisions:
+    current: '044272'
+    tree:
+      '044272':
+        object:
+          id: 1936
+          abbrev: MDT
+          definition: >-
+            modelo digital de elevaciones (MDE) que incorpora la elevación de
+            los objetos topográficos importantes sobre el terreno.
+          language_code: spa
+          notes:
+            - >-
+              Los MDT se componen de un gran número puntos y líneas de quiebre
+              que están espaciados irregularmente para caracterizar mejor la
+              forma real del terreno desnudo. El resultado neto de los MDT es
+              tal que los rasgos distintivos del terreno están más claramente
+              definioas y precisamente localizados, y las curvas de nivel
+              generadas a partir de los MDT se aproximan más a la forma real del
+              terreno.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO/TS 19159-2:2016'
+            clause: '4.13'
+            link: 'https://www.iso.org/standard/64768.html'
+          date_accepted: 2016-04-15T00:00:00.000Z
+          review_date: 2014-08-26T00:00:00.000Z
+          review_status: final
+          review_decision: ''
+          review_decision_date: 2016-04-15T00:00:00.000Z
+          review_decision_event: Normal ISO processing
+          review_decision_notes: 'Publication of document ISO/TS 19159-2:2016(E)'
+          release: '4'
+          terms:
+            - type: expression
+              designation: modelo digital del terreno
+              normative_status: preferred
+        parents: []
+        timeCreated: 2016-04-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

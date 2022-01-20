@@ -1,0 +1,851 @@
+term: coordinate dimension
+termid: 90
+eng:
+  id: 90
+  definition: >-
+    number of measurements or axes needed to describe a position in a coordinate
+    system
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19107:2003'
+    link: 'https://www.iso.org/standard/26012.html'
+  date_accepted: 2003-05-01T00:00:00.000Z
+  date_amended: 2019-12-02T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: 'Publication of document ISO 19107:2019(E)'
+  review_decision_notes: >-
+    This entry is superseded by the entry for coordinate dimension <coordinate
+    geometry> in ISO 19107:2019(E)
+  release: '-1'
+  terms:
+    - type: expression
+      designation: coordinate dimension
+      normative_status: null
+  _revisions:
+    current: 163ae9
+    tree:
+      163ae9:
+        object:
+          id: 90
+          definition: >-
+            number of measurements or axes needed to describe a position in a
+            coordinate system
+          language_code: eng
+          notes: []
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19107:2003'
+            link: 'https://www.iso.org/standard/26012.html'
+          date_accepted: 2003-05-01T00:00:00.000Z
+          date_amended: 2019-12-02T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: 'Publication of document ISO 19107:2019(E)'
+          review_decision_notes: >-
+            This entry is superseded by the entry for coordinate dimension
+            <coordinate geometry> in ISO 19107:2019(E)
+          release: '-1'
+          terms:
+            - type: expression
+              designation: coordinate dimension
+              normative_status: null
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+ara:
+  id: 90
+  definition: عدد القياسات أو المحاور المطلوبة لوصف موقع ما في إطار نظام إحداثي
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19107:2003'
+    link: 'https://www.iso.org/standard/26012.html'
+  date_accepted: 2003-05-01T00:00:00.000Z
+  date_amended: 2019-12-02T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: 'Publication of document ISO 19107:2019(E)'
+  review_decision_notes: >-
+    This entry is superseded by the entry for coordinate dimension <coordinate
+    geometry> in ISO 19107:2019(E)
+  release: '-1'
+  terms:
+    - type: expression
+      designation: البعد الإحداثي
+      normative_status: null
+  _revisions:
+    current: 4b19b9
+    tree:
+      4b19b9:
+        object:
+          id: 90
+          definition: عدد القياسات أو المحاور المطلوبة لوصف موقع ما في إطار نظام إحداثي
+          language_code: ara
+          notes: []
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19107:2003'
+            link: 'https://www.iso.org/standard/26012.html'
+          date_accepted: 2003-05-01T00:00:00.000Z
+          date_amended: 2019-12-02T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: 'Publication of document ISO 19107:2019(E)'
+          review_decision_notes: >-
+            This entry is superseded by the entry for coordinate dimension
+            <coordinate geometry> in ISO 19107:2019(E)
+          release: '-1'
+          terms:
+            - type: expression
+              designation: البعد الإحداثي
+              normative_status: null
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+zho:
+  id: 90
+  definition: 在一个坐标系中，描述一个位置所需的量测或坐标轴的个数。
+  language_code: zho
+  notes: []
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19107:2003'
+    link: 'https://www.iso.org/standard/26012.html'
+  date_accepted: 2003-05-01T00:00:00.000Z
+  date_amended: 2019-12-02T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: 'Publication of document ISO 19107:2019(E)'
+  review_decision_notes: >-
+    This entry is superseded by the entry for coordinate dimension <coordinate
+    geometry> in ISO 19107:2019(E)
+  release: '-1'
+  terms:
+    - type: expression
+      designation: 坐标维数
+      normative_status: null
+  _revisions:
+    current: bc57ae
+    tree:
+      bc57ae:
+        object:
+          id: 90
+          definition: 在一个坐标系中，描述一个位置所需的量测或坐标轴的个数。
+          language_code: zho
+          notes: []
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19107:2003'
+            link: 'https://www.iso.org/standard/26012.html'
+          date_accepted: 2003-05-01T00:00:00.000Z
+          date_amended: 2019-12-02T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: 'Publication of document ISO 19107:2019(E)'
+          review_decision_notes: >-
+            This entry is superseded by the entry for coordinate dimension
+            <coordinate geometry> in ISO 19107:2019(E)
+          release: '-1'
+          terms:
+            - type: expression
+              designation: 坐标维数
+              normative_status: null
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+dan:
+  id: 90
+  definition: >-
+    antallet af målinger eller akser, der er nødvendige for at kunne beskrive en
+    position i et koordinatsystem
+  language_code: dan
+  notes: []
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19107:2003'
+    link: 'https://www.iso.org/standard/26012.html'
+  date_accepted: 2003-05-01T00:00:00.000Z
+  date_amended: 2019-12-02T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: 'Publication of document ISO 19107:2019(E)'
+  review_decision_notes: >-
+    This entry is superseded by the entry for coordinate dimension <coordinate
+    geometry> in ISO 19107:2019(E)
+  release: '-1'
+  terms:
+    - type: expression
+      designation: koordinatdimension
+      normative_status: null
+  _revisions:
+    current: f2b17d
+    tree:
+      f2b17d:
+        object:
+          id: 90
+          definition: >-
+            antallet af målinger eller akser, der er nødvendige for at kunne
+            beskrive en position i et koordinatsystem
+          language_code: dan
+          notes: []
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19107:2003'
+            link: 'https://www.iso.org/standard/26012.html'
+          date_accepted: 2003-05-01T00:00:00.000Z
+          date_amended: 2019-12-02T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: 'Publication of document ISO 19107:2019(E)'
+          review_decision_notes: >-
+            This entry is superseded by the entry for coordinate dimension
+            <coordinate geometry> in ISO 19107:2019(E)
+          release: '-1'
+          terms:
+            - type: expression
+              designation: koordinatdimension
+              normative_status: null
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+fin:
+  id: 90
+  definition: >-
+    niiden mittojen tai akselien lukumäärä, jotka tarvitaan sijainnin
+    ilmaisemiseksi koordinaatistossa
+  language_code: fin
+  notes: []
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19107:2003'
+    link: 'https://www.iso.org/standard/26012.html'
+  date_accepted: 2003-05-01T00:00:00.000Z
+  date_amended: 2019-12-02T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: 'Publication of document ISO 19107:2019(E)'
+  review_decision_notes: >-
+    This entry is superseded by the entry for coordinate dimension <coordinate
+    geometry> in ISO 19107:2019(E)
+  release: '-1'
+  terms:
+    - type: expression
+      designation: koordinaatiston ulottuvuus
+      normative_status: null
+  _revisions:
+    current: e0d0f8
+    tree:
+      e0d0f8:
+        object:
+          id: 90
+          definition: >-
+            niiden mittojen tai akselien lukumäärä, jotka tarvitaan sijainnin
+            ilmaisemiseksi koordinaatistossa
+          language_code: fin
+          notes: []
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19107:2003'
+            link: 'https://www.iso.org/standard/26012.html'
+          date_accepted: 2003-05-01T00:00:00.000Z
+          date_amended: 2019-12-02T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: 'Publication of document ISO 19107:2019(E)'
+          review_decision_notes: >-
+            This entry is superseded by the entry for coordinate dimension
+            <coordinate geometry> in ISO 19107:2019(E)
+          release: '-1'
+          terms:
+            - type: expression
+              designation: koordinaatiston ulottuvuus
+              normative_status: null
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+fra:
+  id: 90
+  definition: >-
+    nombre de mesures ou d'axes nécessaires pour décrire une position dans un
+    système de coordonnées
+  language_code: fra
+  notes: []
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19107:2003'
+    link: 'https://www.iso.org/standard/26012.html'
+  date_accepted: 2003-05-01T00:00:00.000Z
+  date_amended: 2019-12-02T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: 'Publication of document ISO 19107:2019(E)'
+  review_decision_notes: >-
+    This entry is superseded by the entry for coordinate dimension <coordinate
+    geometry> in ISO 19107:2019(E)
+  release: '-1'
+  terms:
+    - type: expression
+      designation: dimension de coordonnées
+      normative_status: null
+  _revisions:
+    current: a0d1ba
+    tree:
+      a0d1ba:
+        object:
+          id: 90
+          definition: >-
+            nombre de mesures ou d'axes nécessaires pour décrire une position
+            dans un système de coordonnées
+          language_code: fra
+          notes: []
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19107:2003'
+            link: 'https://www.iso.org/standard/26012.html'
+          date_accepted: 2003-05-01T00:00:00.000Z
+          date_amended: 2019-12-02T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: 'Publication of document ISO 19107:2019(E)'
+          review_decision_notes: >-
+            This entry is superseded by the entry for coordinate dimension
+            <coordinate geometry> in ISO 19107:2019(E)
+          release: '-1'
+          terms:
+            - type: expression
+              designation: dimension de coordonnées
+              normative_status: null
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+deu:
+  id: 90
+  language_code: deu
+  notes: []
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19107:2003'
+    link: 'https://www.iso.org/standard/26012.html'
+  date_accepted: 2003-05-01T00:00:00.000Z
+  date_amended: 2019-12-02T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: 'Publication of document ISO 19107:2019(E)'
+  review_decision_notes: >-
+    This entry is superseded by the entry for coordinate dimension <coordinate
+    geometry> in ISO 19107:2019(E)
+  release: '-1'
+  terms:
+    - type: expression
+      designation: Koordinatendimension
+      normative_status: null
+  _revisions:
+    current: 526fc9
+    tree:
+      526fc9:
+        object:
+          id: 90
+          language_code: deu
+          notes: []
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19107:2003'
+            link: 'https://www.iso.org/standard/26012.html'
+          date_accepted: 2003-05-01T00:00:00.000Z
+          date_amended: 2019-12-02T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: 'Publication of document ISO 19107:2019(E)'
+          review_decision_notes: >-
+            This entry is superseded by the entry for coordinate dimension
+            <coordinate geometry> in ISO 19107:2019(E)
+          release: '-1'
+          terms:
+            - type: expression
+              designation: Koordinatendimension
+              normative_status: null
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+jpn:
+  id: 90
+  definition: ある座標系における位置を記述するために必要な計測値又は座標軸の数。
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19107:2003'
+    link: 'https://www.iso.org/standard/26012.html'
+  date_accepted: 2003-05-01T00:00:00.000Z
+  date_amended: 2019-12-02T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: 'Publication of document ISO 19107:2019(E)'
+  review_decision_notes: >-
+    This entry is superseded by the entry for coordinate dimension <coordinate
+    geometry> in ISO 19107:2019(E)
+  release: '-1'
+  terms:
+    - type: expression
+      designation: 座標次元
+      normative_status: null
+  _revisions:
+    current: 9e06c3
+    tree:
+      9e06c3:
+        object:
+          id: 90
+          definition: ある座標系における位置を記述するために必要な計測値又は座標軸の数。
+          language_code: jpn
+          notes: []
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19107:2003'
+            link: 'https://www.iso.org/standard/26012.html'
+          date_accepted: 2003-05-01T00:00:00.000Z
+          date_amended: 2019-12-02T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: 'Publication of document ISO 19107:2019(E)'
+          review_decision_notes: >-
+            This entry is superseded by the entry for coordinate dimension
+            <coordinate geometry> in ISO 19107:2019(E)
+          release: '-1'
+          terms:
+            - type: expression
+              designation: 座標次元
+              normative_status: null
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+kor:
+  id: 90
+  definition: 좌표 체계에서 위치를 기술하는 데 필요한 측정 또는 축의 수
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19107:2003'
+    link: 'https://www.iso.org/standard/26012.html'
+  date_accepted: 2003-05-01T00:00:00.000Z
+  date_amended: 2019-12-02T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: 'Publication of document ISO 19107:2019(E)'
+  review_decision_notes: >-
+    This entry is superseded by the entry for coordinate dimension <coordinate
+    geometry> in ISO 19107:2019(E)
+  release: '-1'
+  terms:
+    - type: expression
+      designation: 좌표 차원
+      normative_status: null
+  _revisions:
+    current: ea55dc
+    tree:
+      ea55dc:
+        object:
+          id: 90
+          definition: 좌표 체계에서 위치를 기술하는 데 필요한 측정 또는 축의 수
+          language_code: kor
+          notes: []
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19107:2003'
+            link: 'https://www.iso.org/standard/26012.html'
+          date_accepted: 2003-05-01T00:00:00.000Z
+          date_amended: 2019-12-02T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: 'Publication of document ISO 19107:2019(E)'
+          review_decision_notes: >-
+            This entry is superseded by the entry for coordinate dimension
+            <coordinate geometry> in ISO 19107:2019(E)
+          release: '-1'
+          terms:
+            - type: expression
+              designation: 좌표 차원
+              normative_status: null
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+pol:
+  id: 90
+  definition: >-
+    liczba pomiarów lub osi potrzebnych do opisania położenia w układzie
+    współrzędnych
+  language_code: pol
+  notes: []
+  examples: []
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19107:2003'
+    link: 'https://www.iso.org/standard/26012.html'
+  date_accepted: 2003-05-01T00:00:00.000Z
+  date_amended: 2019-12-02T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: 'Publication of document ISO 19107:2019(E)'
+  review_decision_notes: >-
+    This entry is superseded by the entry for coordinate dimension <coordinate
+    geometry> in ISO 19107:2019(E)
+  release: '-1'
+  terms:
+    - type: expression
+      designation: wymiar współrzędnych
+      normative_status: null
+  _revisions:
+    current: 8c1a22
+    tree:
+      8c1a22:
+        object:
+          id: 90
+          definition: >-
+            liczba pomiarów lub osi potrzebnych do opisania położenia w układzie
+            współrzędnych
+          language_code: pol
+          notes: []
+          examples: []
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19107:2003'
+            link: 'https://www.iso.org/standard/26012.html'
+          date_accepted: 2003-05-01T00:00:00.000Z
+          date_amended: 2019-12-02T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: 'Publication of document ISO 19107:2019(E)'
+          review_decision_notes: >-
+            This entry is superseded by the entry for coordinate dimension
+            <coordinate geometry> in ISO 19107:2019(E)
+          release: '-1'
+          terms:
+            - type: expression
+              designation: wymiar współrzędnych
+              normative_status: null
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 90
+  definition: >-
+    количество измерений или осей, необходимое для описания положения в системе
+    координат
+  language_code: rus
+  notes: []
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19107:2003'
+    link: 'https://www.iso.org/standard/26012.html'
+  date_accepted: 2003-05-01T00:00:00.000Z
+  date_amended: 2019-12-02T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: 'Publication of document ISO 19107:2019(E)'
+  review_decision_notes: >-
+    This entry is superseded by the entry for coordinate dimension <coordinate
+    geometry> in ISO 19107:2019(E)
+  release: '-1'
+  terms:
+    - type: expression
+      designation: размерность координат
+      normative_status: null
+  _revisions:
+    current: 128dfb
+    tree:
+      128dfb:
+        object:
+          id: 90
+          definition: >-
+            количество измерений или осей, необходимое для описания положения в
+            системе координат
+          language_code: rus
+          notes: []
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19107:2003'
+            link: 'https://www.iso.org/standard/26012.html'
+          date_accepted: 2003-05-01T00:00:00.000Z
+          date_amended: 2019-12-02T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: 'Publication of document ISO 19107:2019(E)'
+          review_decision_notes: >-
+            This entry is superseded by the entry for coordinate dimension
+            <coordinate geometry> in ISO 19107:2019(E)
+          release: '-1'
+          terms:
+            - type: expression
+              designation: размерность координат
+              normative_status: null
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 90
+  definition: >-
+    número de mediciones o ejes necesarios para describir una posición en un
+    sistema de coordenadas
+  language_code: spa
+  notes: []
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19107:2003'
+    link: 'https://www.iso.org/standard/26012.html'
+  date_accepted: 2003-05-01T00:00:00.000Z
+  date_amended: 2019-12-02T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: 'Publication of document ISO 19107:2019(E)'
+  review_decision_notes: >-
+    This entry is superseded by the entry for coordinate dimension <coordinate
+    geometry> in ISO 19107:2019(E)
+  release: '-1'
+  terms:
+    - type: expression
+      designation: dimensión de coordenadas
+      normative_status: null
+  _revisions:
+    current: f96925
+    tree:
+      f96925:
+        object:
+          id: 90
+          definition: >-
+            número de mediciones o ejes necesarios para describir una posición
+            en un sistema de coordenadas
+          language_code: spa
+          notes: []
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19107:2003'
+            link: 'https://www.iso.org/standard/26012.html'
+          date_accepted: 2003-05-01T00:00:00.000Z
+          date_amended: 2019-12-02T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: 'Publication of document ISO 19107:2019(E)'
+          review_decision_notes: >-
+            This entry is superseded by the entry for coordinate dimension
+            <coordinate geometry> in ISO 19107:2019(E)
+          release: '-1'
+          terms:
+            - type: expression
+              designation: dimensión de coordenadas
+              normative_status: null
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+swe:
+  id: 90
+  definition: >-
+    antal bestämningar eller axlar som behövs för att ange en position i ett
+    koordinatsystem
+  country_code: swe
+  language_code: swe
+  notes: []
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19107:2003'
+    link: 'https://www.iso.org/standard/26012.html'
+  date_accepted: 2003-05-01T00:00:00.000Z
+  date_amended: 2019-12-02T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: 'Publication of document ISO 19107:2019(E)'
+  review_decision_notes: >-
+    This entry is superseded by the entry for coordinate dimension <coordinate
+    geometry> in ISO 19107:2019(E)
+  release: '-1'
+  terms:
+    - type: expression
+      designation: koordinatdimension
+      normative_status: null
+  _revisions:
+    current: bfba7c
+    tree:
+      bfba7c:
+        object:
+          id: 90
+          definition: >-
+            antal bestämningar eller axlar som behövs för att ange en position i
+            ett koordinatsystem
+          country_code: swe
+          language_code: swe
+          notes: []
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19107:2003'
+            link: 'https://www.iso.org/standard/26012.html'
+          date_accepted: 2003-05-01T00:00:00.000Z
+          date_amended: 2019-12-02T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: 'Publication of document ISO 19107:2019(E)'
+          review_decision_notes: >-
+            This entry is superseded by the entry for coordinate dimension
+            <coordinate geometry> in ISO 19107:2019(E)
+          release: '-1'
+          terms:
+            - type: expression
+              designation: koordinatdimension
+              normative_status: null
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

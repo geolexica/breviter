@@ -1,0 +1,155 @@
+term: Place Identifier (PI) link
+termid: 1920
+eng:
+  id: 1920
+  definition: >-
+    relationship established between PIs and other identifiers in different
+    encoding domains
+  language_code: eng
+  notes:
+    - >-
+      While the identifiers of these features or objects can sometimes identify
+      a place, within the scope of this document, the identifiers of features or
+      objects existing in other encoding domains are referred to conceptually as
+      "other identifiers".
+    - These "other identifiers" can exist outside of the PI architecture.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19155-2:2017'
+    clause: '3.1'
+    link: 'https://www.iso.org/standard/63593.html'
+  date_accepted: 2017-08-01T00:00:00.000Z
+  review_date: 2012-11-05T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2017-08-01T00:00:00.000Z
+  review_decision_event: Normal ISO processing
+  review_decision_notes: 'Publication of ISO 19155-2:2017'
+  release: '4'
+  terms:
+    - type: expression
+      designation: Place Identifier (PI) link
+      normative_status: preferred
+  _revisions:
+    current: '979554'
+    tree:
+      '979554':
+        object:
+          id: 1920
+          definition: >-
+            relationship established between PIs and other identifiers in
+            different encoding domains
+          language_code: eng
+          notes:
+            - >-
+              While the identifiers of these features or objects can sometimes
+              identify a place, within the scope of this document, the
+              identifiers of features or objects existing in other encoding
+              domains are referred to conceptually as "other identifiers".
+            - >-
+              These "other identifiers" can exist outside of the PI
+              architecture.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19155-2:2017'
+            clause: '3.1'
+            link: 'https://www.iso.org/standard/63593.html'
+          date_accepted: 2017-08-01T00:00:00.000Z
+          review_date: 2012-11-05T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2017-08-01T00:00:00.000Z
+          review_decision_event: Normal ISO processing
+          review_decision_notes: 'Publication of ISO 19155-2:2017'
+          release: '4'
+          terms:
+            - type: expression
+              designation: Place Identifier (PI) link
+              normative_status: preferred
+        parents: []
+        timeCreated: 2017-08-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 1920
+  definition: >-
+    relación establecida entre identificadores de lugar (PI, Place Identifier) y
+    otros identificadores en dominios diferentes de codificación
+  language_code: spa
+  notes:
+    - >-
+      Mientras que los identificadores de estas entidades u objetos a veces
+      pueden identificar un lugar, dentro del campo de aplicación de este
+      documento, los identificadores de entidades u objetos existentes en otros
+      dominios de codificación se denominan conceptualmente como "otros
+      identificadores".
+    - Estos "otros identificadores" pueden existir fuera de la arquitectura PI
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19155-2:2017'
+    clause: '3.1'
+    link: 'https://www.iso.org/standard/63593.html'
+  date_accepted: 2017-08-01T00:00:00.000Z
+  review_date: 2012-11-05T00:00:00.000Z
+  review_status: final
+  review_decision: ''
+  review_decision_date: 2017-08-01T00:00:00.000Z
+  review_decision_event: Normal ISO processing
+  review_decision_notes: 'Publication of ISO 19155-2:2017'
+  release: '4'
+  terms:
+    - type: expression
+      designation: |-
+        enlace de Identificadores de Lugar
+        (PI)
+      normative_status: preferred
+  _revisions:
+    current: 6f946e
+    tree:
+      6f946e:
+        object:
+          id: 1920
+          definition: >-
+            relación establecida entre identificadores de lugar (PI, Place
+            Identifier) y otros identificadores en dominios diferentes de
+            codificación
+          language_code: spa
+          notes:
+            - >-
+              Mientras que los identificadores de estas entidades u objetos a
+              veces pueden identificar un lugar, dentro del campo de aplicación
+              de este documento, los identificadores de entidades u objetos
+              existentes en otros dominios de codificación se denominan
+              conceptualmente como "otros identificadores".
+            - >-
+              Estos "otros identificadores" pueden existir fuera de la
+              arquitectura PI
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19155-2:2017'
+            clause: '3.1'
+            link: 'https://www.iso.org/standard/63593.html'
+          date_accepted: 2017-08-01T00:00:00.000Z
+          review_date: 2012-11-05T00:00:00.000Z
+          review_status: final
+          review_decision: ''
+          review_decision_date: 2017-08-01T00:00:00.000Z
+          review_decision_event: Normal ISO processing
+          review_decision_notes: 'Publication of ISO 19155-2:2017'
+          release: '4'
+          terms:
+            - type: expression
+              designation: |-
+                enlace de Identificadores de Lugar
+                (PI)
+              normative_status: preferred
+        parents: []
+        timeCreated: 2017-08-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

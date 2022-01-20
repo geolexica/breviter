@@ -1,0 +1,215 @@
+term: field of view
+termid: 1388
+eng:
+  id: 1388
+  abbrev: FOV
+  definition: 'instantaneous region seen by a sensor, provided in angular measure'
+  language_code: eng
+  notes:
+    - >-
+      In the airborne case, this would be swath width for a linear array, ground
+      footprint for an area array, and for a whiskbroom scanner it refers to the
+      swath width.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: Manual of Photogrammetry
+  lineage_source: 'ISO/TS 19130-2:2014, 4.20'
+  lineage_source_similarity: 1
+  date_accepted: 2014-01-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: field of view
+      normative_status: preferred
+  _revisions:
+    current: 35e71f
+    tree:
+      35e71f:
+        object:
+          id: 1388
+          abbrev: FOV
+          definition: 'instantaneous region seen by a sensor, provided in angular measure'
+          language_code: eng
+          notes:
+            - >-
+              In the airborne case, this would be swath width for a linear
+              array, ground footprint for an area array, and for a whiskbroom
+              scanner it refers to the swath width.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: Manual of Photogrammetry
+          lineage_source: 'ISO/TS 19130-2:2014, 4.20'
+          lineage_source_similarity: 1
+          date_accepted: 2014-01-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: field of view
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-01-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+kor:
+  id: 1388
+  definition: 각도로 제공되는 센서에 의해 보여지는 즉각적 지역
+  language_code: kor
+  notes:
+    - >-
+      In the airborne case, this would be swath width for a linear array, ground
+      footprint for an area array, and for a whiskbroom scanner it refers to the
+      swath width.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: Manual of Photogrammetry
+  lineage_source: 'ISO/TS 19130-2:2014, 4.20'
+  lineage_source_similarity: 1
+  date_accepted: 2014-01-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: 시계
+      normative_status: preferred
+  _revisions:
+    current: '235e94'
+    tree:
+      '235e94':
+        object:
+          id: 1388
+          definition: 각도로 제공되는 센서에 의해 보여지는 즉각적 지역
+          language_code: kor
+          notes:
+            - >-
+              In the airborne case, this would be swath width for a linear
+              array, ground footprint for an area array, and for a whiskbroom
+              scanner it refers to the swath width.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: Manual of Photogrammetry
+          lineage_source: 'ISO/TS 19130-2:2014, 4.20'
+          lineage_source_similarity: 1
+          date_accepted: 2014-01-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: 시계
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-01-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 1388
+  abbrev: FOV
+  definition: 'мгновенная область, видимая датчиком, установленная в угловой мере'
+  language_code: rus
+  notes:
+    - >-
+      В случае бортового прибора это будет ширина полосы для линейного комплекта
+      , наземная площадь для площадного комплекта,  а для поперечного сканера 
+      он относится к ширине полосы.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: Manual of Photogrammetry
+  lineage_source: 'ISO/TS 19130-2:2014, 4.20'
+  lineage_source_similarity: 1
+  date_accepted: 2014-01-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: угол поля зрения
+      normative_status: preferred
+  _revisions:
+    current: 2e246f
+    tree:
+      2e246f:
+        object:
+          id: 1388
+          abbrev: FOV
+          definition: 'мгновенная область, видимая датчиком, установленная в угловой мере'
+          language_code: rus
+          notes:
+            - >-
+              В случае бортового прибора это будет ширина полосы для линейного
+              комплекта , наземная площадь для площадного комплекта,  а для
+              поперечного сканера  он относится к ширине полосы.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: Manual of Photogrammetry
+          lineage_source: 'ISO/TS 19130-2:2014, 4.20'
+          lineage_source_similarity: 1
+          date_accepted: 2014-01-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: угол поля зрения
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-01-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 1388
+  abbrev: FOV
+  definition: 'region instantánea visible por un sensor, expresada en unidades angulares'
+  language_code: spa
+  notes:
+    - >-
+      En el caso de sistemas areotransportados, el campo de visión sería el
+      ancho de franja para sistemas lineales, la huella en el terreno  para
+      sistemas matriciales y para un escáner whiskbroom la anchura de la franja.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: Manual of Photogrammetry
+  lineage_source: 'ISO/TS 19130-2:2014, 4.20'
+  lineage_source_similarity: 1
+  date_accepted: 2014-01-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: campo de visión
+      normative_status: preferred
+  _revisions:
+    current: c028bb
+    tree:
+      c028bb:
+        object:
+          id: 1388
+          abbrev: FOV
+          definition: >-
+            region instantánea visible por un sensor, expresada en unidades
+            angulares
+          language_code: spa
+          notes:
+            - >-
+              En el caso de sistemas areotransportados, el campo de visión sería
+              el ancho de franja para sistemas lineales, la huella en el
+              terreno  para sistemas matriciales y para un escáner whiskbroom la
+              anchura de la franja.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: Manual of Photogrammetry
+          lineage_source: 'ISO/TS 19130-2:2014, 4.20'
+          lineage_source_similarity: 1
+          date_accepted: 2014-01-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: campo de visión
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-01-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

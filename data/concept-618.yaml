@@ -1,0 +1,883 @@
+term: map projection
+termid: 618
+eng:
+  id: 618
+  definition: coordinate conversion from an ellipsoidal coordinate system to a plane
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19111:2019'
+    clause: '(E), 3.1.40'
+    link: 'https://www.iso.org/standard/74039.html'
+  lineage_source: 'ISO 19111:2007(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2007-07-01T00:00:00.000Z
+  review_date: 2019-01-31T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-01-31T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19111:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19111:2007 to ISO 19111:2019(E),
+    3.1.40. Lineage source added as ISO 19111:2007(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: map projection
+      normative_status: preferred
+  _revisions:
+    current: 2ae546
+    tree:
+      2ae546:
+        object:
+          id: 618
+          definition: >-
+            coordinate conversion from an ellipsoidal coordinate system to a
+            plane
+          language_code: eng
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19111:2019'
+            clause: '(E), 3.1.40'
+            link: 'https://www.iso.org/standard/74039.html'
+          lineage_source: 'ISO 19111:2007(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2007-07-01T00:00:00.000Z
+          review_date: 2019-01-31T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-01-31T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19111:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19111:2007 to ISO
+            19111:2019(E), 3.1.40. Lineage source added as ISO 19111:2007(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: map projection
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+ara:
+  id: 618
+  definition: تحويل للإحداثيات من نظام لإحداثيات القطع الناقص إلى سطح مستوٍ
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19111:2019'
+    clause: '(E), 3.1.40'
+    link: 'https://www.iso.org/standard/74039.html'
+  lineage_source: 'ISO 19111:2007(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2007-07-01T00:00:00.000Z
+  review_date: 2019-01-31T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-01-31T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19111:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19111:2007 to ISO 19111:2019(E),
+    3.1.40. Lineage source added as ISO 19111:2007(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: مسقط الخارطة
+      normative_status: preferred
+  _revisions:
+    current: 4847cf
+    tree:
+      4847cf:
+        object:
+          id: 618
+          definition: تحويل للإحداثيات من نظام لإحداثيات القطع الناقص إلى سطح مستوٍ
+          language_code: ara
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19111:2019'
+            clause: '(E), 3.1.40'
+            link: 'https://www.iso.org/standard/74039.html'
+          lineage_source: 'ISO 19111:2007(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2007-07-01T00:00:00.000Z
+          review_date: 2019-01-31T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-01-31T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19111:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19111:2007 to ISO
+            19111:2019(E), 3.1.40. Lineage source added as ISO 19111:2007(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: مسقط الخارطة
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+zho:
+  id: 618
+  definition: 从大地坐标系到平面坐标系的坐标转换。
+  language_code: zho
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19111:2019'
+    clause: '(E), 3.1.40'
+    link: 'https://www.iso.org/standard/74039.html'
+  lineage_source: 'ISO 19111:2007(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2007-07-01T00:00:00.000Z
+  review_date: 2019-01-31T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-01-31T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19111:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19111:2007 to ISO 19111:2019(E),
+    3.1.40. Lineage source added as ISO 19111:2007(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: 地图投影
+      normative_status: preferred
+  _revisions:
+    current: 9f0ede
+    tree:
+      9f0ede:
+        object:
+          id: 618
+          definition: 从大地坐标系到平面坐标系的坐标转换。
+          language_code: zho
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19111:2019'
+            clause: '(E), 3.1.40'
+            link: 'https://www.iso.org/standard/74039.html'
+          lineage_source: 'ISO 19111:2007(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2007-07-01T00:00:00.000Z
+          review_date: 2019-01-31T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-01-31T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19111:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19111:2007 to ISO
+            19111:2019(E), 3.1.40. Lineage source added as ISO 19111:2007(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: 地图投影
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-07-01T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+nld:
+  id: 618
+  definition: coordinate conversion from an ellipsoidal coordinate system to a plane
+  language_code: nld
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19111:2019'
+    clause: '(E), 3.1.40'
+    link: 'https://www.iso.org/standard/74039.html'
+  lineage_source: 'ISO 19111:2007(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2007-07-01T00:00:00.000Z
+  review_date: 2019-01-31T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-01-31T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19111:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19111:2007 to ISO 19111:2019(E),
+    3.1.40. Lineage source added as ISO 19111:2007(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: kaartprojectie
+      normative_status: preferred
+  _revisions:
+    current: c8134e
+    tree:
+      c8134e:
+        object:
+          id: 618
+          definition: >-
+            coordinate conversion from an ellipsoidal coordinate system to a
+            plane
+          language_code: nld
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19111:2019'
+            clause: '(E), 3.1.40'
+            link: 'https://www.iso.org/standard/74039.html'
+          lineage_source: 'ISO 19111:2007(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2007-07-01T00:00:00.000Z
+          review_date: 2019-01-31T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-01-31T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19111:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19111:2007 to ISO
+            19111:2019(E), 3.1.40. Lineage source added as ISO 19111:2007(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: kaartprojectie
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-07-01T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+fin:
+  id: 618
+  definition: koordinaattikonversio geodeettisesta koordinaatistosta tasokuvaukseen
+  language_code: fin
+  notes:
+    - >-
+      Yleisemmin määriteltynä koordinaattikonversio ellipsoidisesta
+      koordinaatistosta tasolle.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19111:2019'
+    clause: '(E), 3.1.40'
+    link: 'https://www.iso.org/standard/74039.html'
+  lineage_source: 'ISO 19111:2007(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2007-07-01T00:00:00.000Z
+  review_date: 2019-01-31T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-01-31T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19111:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19111:2007 to ISO 19111:2019(E),
+    3.1.40. Lineage source added as ISO 19111:2007(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: karttaprojektio
+      normative_status: preferred
+  _revisions:
+    current: 02d874
+    tree:
+      02d874:
+        object:
+          id: 618
+          definition: >-
+            koordinaattikonversio geodeettisesta koordinaatistosta
+            tasokuvaukseen
+          language_code: fin
+          notes:
+            - >-
+              Yleisemmin määriteltynä koordinaattikonversio ellipsoidisesta
+              koordinaatistosta tasolle.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19111:2019'
+            clause: '(E), 3.1.40'
+            link: 'https://www.iso.org/standard/74039.html'
+          lineage_source: 'ISO 19111:2007(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2007-07-01T00:00:00.000Z
+          review_date: 2019-01-31T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-01-31T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19111:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19111:2007 to ISO
+            19111:2019(E), 3.1.40. Lineage source added as ISO 19111:2007(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: karttaprojektio
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+fra:
+  id: 618
+  definition: conversion de coordonnées d'un système ellipsoïdal vers un plan
+  language_code: fra
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19111:2019'
+    clause: '(E), 3.1.40'
+    link: 'https://www.iso.org/standard/74039.html'
+  lineage_source: 'ISO 19111:2007(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2007-07-01T00:00:00.000Z
+  review_date: 2019-01-31T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-01-31T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19111:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19111:2007 to ISO 19111:2019(E),
+    3.1.40. Lineage source added as ISO 19111:2007(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: projection cartographique
+      normative_status: preferred
+  _revisions:
+    current: 281bbc
+    tree:
+      281bbc:
+        object:
+          id: 618
+          definition: conversion de coordonnées d'un système ellipsoïdal vers un plan
+          language_code: fra
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19111:2019'
+            clause: '(E), 3.1.40'
+            link: 'https://www.iso.org/standard/74039.html'
+          lineage_source: 'ISO 19111:2007(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2007-07-01T00:00:00.000Z
+          review_date: 2019-01-31T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-01-31T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19111:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19111:2007 to ISO
+            19111:2019(E), 3.1.40. Lineage source added as ISO 19111:2007(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: projection cartographique
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+deu:
+  id: 618
+  definition: >-
+    Koordinatenumrechnung der Koordinaten von einem geodätischen
+    Koordinatenreferenzsystem in ein verebnetes
+  language_code: deu
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19111:2019'
+    clause: '(E), 3.1.40'
+    link: 'https://www.iso.org/standard/74039.html'
+  lineage_source: 'ISO 19111:2007(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2007-07-01T00:00:00.000Z
+  review_date: 2019-01-31T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-01-31T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19111:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19111:2007 to ISO 19111:2019(E),
+    3.1.40. Lineage source added as ISO 19111:2007(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: Kartenprojektion
+      normative_status: preferred
+  _revisions:
+    current: 64f0a9
+    tree:
+      64f0a9:
+        object:
+          id: 618
+          definition: >-
+            Koordinatenumrechnung der Koordinaten von einem geodätischen
+            Koordinatenreferenzsystem in ein verebnetes
+          language_code: deu
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19111:2019'
+            clause: '(E), 3.1.40'
+            link: 'https://www.iso.org/standard/74039.html'
+          lineage_source: 'ISO 19111:2007(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2007-07-01T00:00:00.000Z
+          review_date: 2019-01-31T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-01-31T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19111:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19111:2007 to ISO
+            19111:2019(E), 3.1.40. Lineage source added as ISO 19111:2007(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: Kartenprojektion
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-07-01T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+kor:
+  id: 618
+  definition: 타원 체좌표계를 평면으로 좌표 전환
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19111:2019'
+    clause: '(E), 3.1.40'
+    link: 'https://www.iso.org/standard/74039.html'
+  lineage_source: 'ISO 19111:2007(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2007-07-01T00:00:00.000Z
+  review_date: 2019-01-31T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-01-31T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19111:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19111:2007 to ISO 19111:2019(E),
+    3.1.40. Lineage source added as ISO 19111:2007(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: 지도 투영
+      normative_status: preferred
+  _revisions:
+    current: 415b2d
+    tree:
+      415b2d:
+        object:
+          id: 618
+          definition: 타원 체좌표계를 평면으로 좌표 전환
+          language_code: kor
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19111:2019'
+            clause: '(E), 3.1.40'
+            link: 'https://www.iso.org/standard/74039.html'
+          lineage_source: 'ISO 19111:2007(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2007-07-01T00:00:00.000Z
+          review_date: 2019-01-31T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-01-31T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19111:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19111:2007 to ISO
+            19111:2019(E), 3.1.40. Lineage source added as ISO 19111:2007(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: 지도 투영
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+msa:
+  id: 618
+  definition: >-
+    Satu sistem meridian dan garis selari yang teratur di atas permukaan satah
+    untuk menggambarkan permukaan melengkung sfera terestrial atau cakerawala
+    atau pun sferoid.
+  language_code: msa
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19111:2019'
+    clause: '(E), 3.1.40'
+    link: 'https://www.iso.org/standard/74039.html'
+  lineage_source: 'ISO 19111:2007(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2007-07-01T00:00:00.000Z
+  review_date: 2019-01-31T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-01-31T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19111:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19111:2007 to ISO 19111:2019(E),
+    3.1.40. Lineage source added as ISO 19111:2007(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: unjuran peta
+      normative_status: preferred
+  _revisions:
+    current: 8b5131
+    tree:
+      8b5131:
+        object:
+          id: 618
+          definition: >-
+            Satu sistem meridian dan garis selari yang teratur di atas permukaan
+            satah untuk menggambarkan permukaan melengkung sfera terestrial atau
+            cakerawala atau pun sferoid.
+          language_code: msa
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19111:2019'
+            clause: '(E), 3.1.40'
+            link: 'https://www.iso.org/standard/74039.html'
+          lineage_source: 'ISO 19111:2007(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2007-07-01T00:00:00.000Z
+          review_date: 2019-01-31T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-01-31T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19111:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19111:2007 to ISO
+            19111:2019(E), 3.1.40. Lineage source added as ISO 19111:2007(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: unjuran peta
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+pol:
+  id: 618
+  definition: konwersja współrzędnych z geodezyjnego układu współrzędnych na płaszczyznę
+  language_code: pol
+  notes: []
+  examples: []
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19111:2019'
+    clause: '(E), 3.1.40'
+    link: 'https://www.iso.org/standard/74039.html'
+  lineage_source: 'ISO 19111:2007(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2007-07-01T00:00:00.000Z
+  review_date: 2019-01-31T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-01-31T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19111:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19111:2007 to ISO 19111:2019(E),
+    3.1.40. Lineage source added as ISO 19111:2007(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: odwzorowanie kartograficzne
+      normative_status: preferred
+  _revisions:
+    current: ab675e
+    tree:
+      ab675e:
+        object:
+          id: 618
+          definition: >-
+            konwersja współrzędnych z geodezyjnego układu współrzędnych na
+            płaszczyznę
+          language_code: pol
+          notes: []
+          examples: []
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19111:2019'
+            clause: '(E), 3.1.40'
+            link: 'https://www.iso.org/standard/74039.html'
+          lineage_source: 'ISO 19111:2007(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2007-07-01T00:00:00.000Z
+          review_date: 2019-01-31T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-01-31T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19111:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19111:2007 to ISO
+            19111:2019(E), 3.1.40. Lineage source added as ISO 19111:2007(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: odwzorowanie kartograficzne
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 618
+  definition: >-
+    перевычисление координат, когда одна координатная система является
+    геодезической, а другая - плоской
+  language_code: rus
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19111:2019'
+    clause: '(E), 3.1.40'
+    link: 'https://www.iso.org/standard/74039.html'
+  lineage_source: 'ISO 19111:2007(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2007-07-01T00:00:00.000Z
+  review_date: 2019-01-31T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-01-31T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19111:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19111:2007 to ISO 19111:2019(E),
+    3.1.40. Lineage source added as ISO 19111:2007(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: картографическое проектирование
+      normative_status: preferred
+  _revisions:
+    current: 4ee7bb
+    tree:
+      4ee7bb:
+        object:
+          id: 618
+          definition: >-
+            перевычисление координат, когда одна координатная система является
+            геодезической, а другая - плоской
+          language_code: rus
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19111:2019'
+            clause: '(E), 3.1.40'
+            link: 'https://www.iso.org/standard/74039.html'
+          lineage_source: 'ISO 19111:2007(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2007-07-01T00:00:00.000Z
+          review_date: 2019-01-31T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-01-31T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19111:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19111:2007 to ISO
+            19111:2019(E), 3.1.40. Lineage source added as ISO 19111:2007(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: картографическое проектирование
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 618
+  definition: >-
+    conversión de coordenadas desde un sistema de coordenadas elipsoidales a uno
+    plano
+  language_code: spa
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19111:2019'
+    clause: '(E), 3.1.40'
+    link: 'https://www.iso.org/standard/74039.html'
+  lineage_source: 'ISO 19111:2007(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2007-07-01T00:00:00.000Z
+  review_date: 2019-01-31T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-01-31T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19111:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19111:2007 to ISO 19111:2019(E),
+    3.1.40. Lineage source added as ISO 19111:2007(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: proyección cartográfica
+      normative_status: preferred
+  _revisions:
+    current: b6af97
+    tree:
+      b6af97:
+        object:
+          id: 618
+          definition: >-
+            conversión de coordenadas desde un sistema de coordenadas
+            elipsoidales a uno plano
+          language_code: spa
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19111:2019'
+            clause: '(E), 3.1.40'
+            link: 'https://www.iso.org/standard/74039.html'
+          lineage_source: 'ISO 19111:2007(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2007-07-01T00:00:00.000Z
+          review_date: 2019-01-31T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-01-31T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19111:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19111:2007 to ISO
+            19111:2019(E), 3.1.40. Lineage source added as ISO 19111:2007(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: proyección cartográfica
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+swe:
+  id: 618
+  definition: >-
+    koordinatomvandling från geodetiska koordinater till tvådimensionella
+    koordinater i ett plan
+  country_code: swe
+  language_code: swe
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19111:2019'
+    clause: '(E), 3.1.40'
+    link: 'https://www.iso.org/standard/74039.html'
+  lineage_source: 'ISO 19111:2007(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2007-07-01T00:00:00.000Z
+  review_date: 2019-01-31T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-01-31T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19111:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19111:2007 to ISO 19111:2019(E),
+    3.1.40. Lineage source added as ISO 19111:2007(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: kartprojektion
+      normative_status: preferred
+  _revisions:
+    current: fee9bc
+    tree:
+      fee9bc:
+        object:
+          id: 618
+          definition: >-
+            koordinatomvandling från geodetiska koordinater till
+            tvådimensionella koordinater i ett plan
+          country_code: swe
+          language_code: swe
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19111:2019'
+            clause: '(E), 3.1.40'
+            link: 'https://www.iso.org/standard/74039.html'
+          lineage_source: 'ISO 19111:2007(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2007-07-01T00:00:00.000Z
+          review_date: 2019-01-31T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-01-31T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19111:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19111:2007 to ISO
+            19111:2019(E), 3.1.40. Lineage source added as ISO 19111:2007(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: kartprojektion
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

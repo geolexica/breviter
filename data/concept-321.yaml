@@ -1,0 +1,535 @@
+term: ordinal era
+termid: 321
+eng:
+  id: 321
+  definition: one of a set of named periods ordered in time
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19108:2002'
+    link: 'https://www.iso.org/standard/26013.html'
+  date_accepted: 2002-09-01T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: ordinal era
+      normative_status: preferred
+  _revisions:
+    current: 9fb374
+    tree:
+      9fb374:
+        object:
+          id: 321
+          definition: one of a set of named periods ordered in time
+          language_code: eng
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19108:2002'
+            link: 'https://www.iso.org/standard/26013.html'
+          date_accepted: 2002-09-01T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: ordinal era
+              normative_status: preferred
+        parents: []
+        timeCreated: 2002-09-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+ara:
+  id: 321
+  definition: واحدة من مجموعة حقب ذات أسماء مرتبه حسب الوقت
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19108:2002'
+    link: 'https://www.iso.org/standard/26013.html'
+  date_accepted: 2002-09-01T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: حقبة ترتيبية
+      normative_status: preferred
+  _revisions:
+    current: 6c66e2
+    tree:
+      6c66e2:
+        object:
+          id: 321
+          definition: واحدة من مجموعة حقب ذات أسماء مرتبه حسب الوقت
+          language_code: ara
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19108:2002'
+            link: 'https://www.iso.org/standard/26013.html'
+          date_accepted: 2002-09-01T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: حقبة ترتيبية
+              normative_status: preferred
+        parents: []
+        timeCreated: 2002-09-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+zho:
+  id: 321
+  definition: 按时间排序命名的时段集合中的一个时段。
+  language_code: zho
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19108:2002'
+    link: 'https://www.iso.org/standard/26013.html'
+  date_accepted: 2002-09-01T00:00:00.000Z
+  terms:
+    - type: expression
+      designation: 顺序时代
+      normative_status: preferred
+  _revisions:
+    current: '732678'
+    tree:
+      '732678':
+        object:
+          id: 321
+          definition: 按时间排序命名的时段集合中的一个时段。
+          language_code: zho
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19108:2002'
+            link: 'https://www.iso.org/standard/26013.html'
+          date_accepted: 2002-09-01T00:00:00.000Z
+          terms:
+            - type: expression
+              designation: 顺序时代
+              normative_status: preferred
+        parents: []
+        timeCreated: 2002-09-01T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+fin:
+  id: 321
+  definition: 'nimettyjen, aikaan järjestettyjen ajanjaksojen joukon jakso'
+  language_code: fin
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19108:2002'
+    link: 'https://www.iso.org/standard/26013.html'
+  lineage_source: 'Ei lähdettä, käännetty'
+  date_accepted: 2002-09-01T00:00:00.000Z
+  terms:
+    - type: expression
+      designation: ordinaaliajanjakso
+      normative_status: preferred
+    - designation: järjestysajanjakso
+      type: expression
+  _revisions:
+    current: e4f831
+    tree:
+      e4f831:
+        object:
+          id: 321
+          definition: 'nimettyjen, aikaan järjestettyjen ajanjaksojen joukon jakso'
+          language_code: fin
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19108:2002'
+            link: 'https://www.iso.org/standard/26013.html'
+          lineage_source: 'Ei lähdettä, käännetty'
+          date_accepted: 2002-09-01T00:00:00.000Z
+          terms:
+            - type: expression
+              designation: ordinaaliajanjakso
+              normative_status: preferred
+            - designation: järjestysajanjakso
+              type: expression
+        parents: []
+        timeCreated: 2002-09-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+fra:
+  id: 321
+  definition: un des ensembles de périodes nommées ordonnées dans le temps
+  language_code: fra
+  notes:
+    - >-
+      Il s'agit d'un des possibles découpages du temps en périodes ordonnées. Il
+      peut exister plusieurs ères ordinales couvrant les mêmes périodes.
+  examples:
+    - Echelle des temps géologiques
+  entry_status: valid
+  authoritative_source:
+    ref: ISO 19108
+    link: 'https://www.iso.org/standard/26013.html'
+  lineage_source: ''
+  date_accepted: 2002-09-01T00:00:00.000Z
+  terms:
+    - type: expression
+      designation: ère ordinale
+      normative_status: preferred
+  _revisions:
+    current: bdc17b
+    tree:
+      bdc17b:
+        object:
+          id: 321
+          definition: un des ensembles de périodes nommées ordonnées dans le temps
+          language_code: fra
+          notes:
+            - >-
+              Il s'agit d'un des possibles découpages du temps en périodes
+              ordonnées. Il peut exister plusieurs ères ordinales couvrant les
+              mêmes périodes.
+          examples:
+            - Echelle des temps géologiques
+          entry_status: valid
+          authoritative_source:
+            ref: ISO 19108
+            link: 'https://www.iso.org/standard/26013.html'
+          lineage_source: ''
+          date_accepted: 2002-09-01T00:00:00.000Z
+          terms:
+            - type: expression
+              designation: ère ordinale
+              normative_status: preferred
+        parents: []
+        timeCreated: 2002-09-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+deu:
+  id: 321
+  language_code: deu
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19108:2002'
+    link: 'https://www.iso.org/standard/26013.html'
+  date_accepted: 2002-09-01T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: Ordinalepoche
+      normative_status: preferred
+  _revisions:
+    current: 0e115c
+    tree:
+      0e115c:
+        object:
+          id: 321
+          language_code: deu
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19108:2002'
+            link: 'https://www.iso.org/standard/26013.html'
+          date_accepted: 2002-09-01T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: Ordinalepoche
+              normative_status: preferred
+        parents: []
+        timeCreated: 2002-09-01T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+jpn:
+  id: 321
+  definition: 時間的に順序付けられた，名前をもつ期間。
+  language_code: jpn
+  notes:
+    - 　下位階層として順序年代の集合を含むことがある。
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19108:2002'
+    link: 'https://www.iso.org/standard/26013.html'
+  lineage_source: JIS X 7108
+  date_accepted: 2002-09-01T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: 順序年代
+      normative_status: preferred
+  _revisions:
+    current: 503ca7
+    tree:
+      503ca7:
+        object:
+          id: 321
+          definition: 時間的に順序付けられた，名前をもつ期間。
+          language_code: jpn
+          notes:
+            - 　下位階層として順序年代の集合を含むことがある。
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19108:2002'
+            link: 'https://www.iso.org/standard/26013.html'
+          lineage_source: JIS X 7108
+          date_accepted: 2002-09-01T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: 順序年代
+              normative_status: preferred
+        parents: []
+        timeCreated: 2002-09-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+kor:
+  id: 321
+  definition: 시대순으로 명명된 기간들 중 하나
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19108:2002'
+    link: 'https://www.iso.org/standard/26013.html'
+  lineage_source: KS X ISO 19108
+  date_accepted: 2007-11-01T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: 순서 연대
+      normative_status: preferred
+  _revisions:
+    current: 36aab4
+    tree:
+      36aab4:
+        object:
+          id: 321
+          definition: 시대순으로 명명된 기간들 중 하나
+          language_code: kor
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19108:2002'
+            link: 'https://www.iso.org/standard/26013.html'
+          lineage_source: KS X ISO 19108
+          date_accepted: 2007-11-01T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: 순서 연대
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-11-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+pol:
+  id: 321
+  definition: jeden ze zbiorów zlożonych z nazwanych okresów uporządkowanych w czasie
+  language_code: pol
+  notes: []
+  examples: []
+  authoritative_source:
+    ref: 'ISO 19108:2002'
+    link: 'https://www.iso.org/standard/26013.html'
+  lineage_source: PN-EN ISO 19108
+  date_accepted: 2002-09-01T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: era porządkowa
+      normative_status: preferred
+  _revisions:
+    current: 9c74c4
+    tree:
+      9c74c4:
+        object:
+          id: 321
+          definition: >-
+            jeden ze zbiorów zlożonych z nazwanych okresów uporządkowanych w
+            czasie
+          language_code: pol
+          notes: []
+          examples: []
+          authoritative_source:
+            ref: 'ISO 19108:2002'
+            link: 'https://www.iso.org/standard/26013.html'
+          lineage_source: PN-EN ISO 19108
+          date_accepted: 2002-09-01T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: era porządkowa
+              normative_status: preferred
+        parents: []
+        timeCreated: 2002-09-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 321
+  definition: 'один из элементов набора именованных периодов, упорядоченных во времени'
+  language_code: rus
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19108:2002'
+    link: 'https://www.iso.org/standard/26013.html'
+  lineage_source: Internet
+  date_accepted: 2002-09-01T00:00:00.000Z
+  terms:
+    - type: expression
+      designation: порядковая эра
+      normative_status: preferred
+  _revisions:
+    current: '53e710'
+    tree:
+      '53e710':
+        object:
+          id: 321
+          definition: >-
+            один из элементов набора именованных периодов, упорядоченных во
+            времени
+          language_code: rus
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19108:2002'
+            link: 'https://www.iso.org/standard/26013.html'
+          lineage_source: Internet
+          date_accepted: 2002-09-01T00:00:00.000Z
+          terms:
+            - type: expression
+              designation: порядковая эра
+              normative_status: preferred
+        parents: []
+        timeCreated: 2002-09-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 321
+  definition: uno de una serie de períodos ordenados en el tiempo
+  language_code: spa
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19108:2002'
+    link: 'https://www.iso.org/standard/26013.html'
+  date_accepted: 2002-09-01T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: era ordinal
+      normative_status: preferred
+  _revisions:
+    current: 7efae7
+    tree:
+      7efae7:
+        object:
+          id: 321
+          definition: uno de una serie de períodos ordenados en el tiempo
+          language_code: spa
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19108:2002'
+            link: 'https://www.iso.org/standard/26013.html'
+          date_accepted: 2002-09-01T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: era ordinal
+              normative_status: preferred
+        parents: []
+        timeCreated: 2002-09-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+swe:
+  id: 321
+  definition: en av flera tidsperioder i en sekvens
+  country_code: swe
+  language_code: swe
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19108:2002'
+    link: 'https://www.iso.org/standard/26013.html'
+  lineage_source: (Type reference to national language document)
+  date_accepted: 2002-09-01T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: ordinalera
+      normative_status: preferred
+  _revisions:
+    current: 040f77
+    tree:
+      040f77:
+        object:
+          id: 321
+          definition: en av flera tidsperioder i en sekvens
+          country_code: swe
+          language_code: swe
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19108:2002'
+            link: 'https://www.iso.org/standard/26013.html'
+          lineage_source: (Type reference to national language document)
+          date_accepted: 2002-09-01T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: ordinalera
+              normative_status: preferred
+        parents: []
+        timeCreated: 2002-09-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

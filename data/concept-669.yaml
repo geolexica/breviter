@@ -1,0 +1,496 @@
+term: interoperate
+termid: 669
+eng:
+  id: 669
+  definition: >-
+    communicate, execute programs, or transfer data among various functional
+    units in a manner that requires the user to have little or no knowledge of
+    the unique characteristics of those units
+  language_code: eng
+  notes:
+    - cf. interoperability
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19132:2007'
+    link: 'https://www.iso.org/standard/40601.html'
+  date_accepted: 2007-10-15T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: interoperate
+      normative_status: preferred
+  _revisions:
+    current: 3b20c9
+    tree:
+      3b20c9:
+        object:
+          id: 669
+          definition: >-
+            communicate, execute programs, or transfer data among various
+            functional units in a manner that requires the user to have little
+            or no knowledge of the unique characteristics of those units
+          language_code: eng
+          notes:
+            - cf. interoperability
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19132:2007'
+            link: 'https://www.iso.org/standard/40601.html'
+          date_accepted: 2007-10-15T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: interoperate
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-10-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+ara:
+  id: 669
+  definition: >-
+    الاتصال ، و تنفيذ البرامج ، أو نقل البيانات بين مختلف الوحدات العاملة بطريقة
+    لا يحتاج فيها المستخدم إلى معرفة الخصائص الفريدة لتلك الوحدات أوفقط إلى
+    القليل منها
+  language_code: ara
+  notes:
+    - قارن "إمكانية التوافق المبادل".
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19132:2007'
+    link: 'https://www.iso.org/standard/40601.html'
+  date_accepted: 2007-10-15T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: توافق
+      normative_status: preferred
+  _revisions:
+    current: 7f3c90
+    tree:
+      7f3c90:
+        object:
+          id: 669
+          definition: >-
+            الاتصال ، و تنفيذ البرامج ، أو نقل البيانات بين مختلف الوحدات
+            العاملة بطريقة لا يحتاج فيها المستخدم إلى معرفة الخصائص الفريدة لتلك
+            الوحدات أوفقط إلى القليل منها
+          language_code: ara
+          notes:
+            - قارن "إمكانية التوافق المبادل".
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19132:2007'
+            link: 'https://www.iso.org/standard/40601.html'
+          date_accepted: 2007-10-15T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: توافق
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-10-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+zho:
+  id: 669
+  definition: 用户不需要了解各功能单元的独立特性就能够在各功能单元间通讯、执行程序或转换数据。
+  language_code: zho
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19132:2007'
+    link: 'https://www.iso.org/standard/40601.html'
+  date_accepted: 2007-10-15T00:00:00.000Z
+  terms:
+    - type: expression
+      designation: 互操作
+      normative_status: preferred
+  _revisions:
+    current: 1b572f
+    tree:
+      1b572f:
+        object:
+          id: 669
+          definition: 用户不需要了解各功能单元的独立特性就能够在各功能单元间通讯、执行程序或转换数据。
+          language_code: zho
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19132:2007'
+            link: 'https://www.iso.org/standard/40601.html'
+          date_accepted: 2007-10-15T00:00:00.000Z
+          terms:
+            - type: expression
+              designation: 互操作
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-10-15T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+fin:
+  id: 669
+  definition: >-
+    kommunikoida, toteuttaa ohjelmia tai siirtää tietoa toiminnallisten
+    yksiköiden välillä sellaisella tavalla, joka ei vaadi käyttäjältä yksiköiden
+    ominaispiirteiden tuntemista tai vaatii sitä vain vähän
+  language_code: fin
+  notes:
+    - Vertaa yhteentoimivuus.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19132:2007'
+    link: 'https://www.iso.org/standard/40601.html'
+  lineage_source: 'Sanastokeskus TSK: Geoinformatiikan sanasto (TSK 32), 2005 (sovellettu)'
+  date_accepted: 2007-10-15T00:00:00.000Z
+  terms:
+    - type: expression
+      designation: toimia yhteen
+      normative_status: preferred
+  _revisions:
+    current: ad9aab
+    tree:
+      ad9aab:
+        object:
+          id: 669
+          definition: >-
+            kommunikoida, toteuttaa ohjelmia tai siirtää tietoa toiminnallisten
+            yksiköiden välillä sellaisella tavalla, joka ei vaadi käyttäjältä
+            yksiköiden ominaispiirteiden tuntemista tai vaatii sitä vain vähän
+          language_code: fin
+          notes:
+            - Vertaa yhteentoimivuus.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19132:2007'
+            link: 'https://www.iso.org/standard/40601.html'
+          lineage_source: >-
+            Sanastokeskus TSK: Geoinformatiikan sanasto (TSK 32), 2005
+            (sovellettu)
+          date_accepted: 2007-10-15T00:00:00.000Z
+          terms:
+            - type: expression
+              designation: toimia yhteen
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-10-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+fra:
+  id: 669
+  definition: >-
+    communiquer, exécuter des programmes, ou transférer des données entre des
+    unités fonctionnelles diverses, d'une façon n'exigeant de l'utilisateur que
+    peu ou pas de connaissance des caractéristiques spécifiques de ces unités
+  language_code: fra
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: ISO 19132
+    link: 'https://www.iso.org/standard/40601.html'
+  lineage_source: ''
+  date_accepted: 2007-10-15T00:00:00.000Z
+  terms:
+    - type: expression
+      designation: interagir
+      normative_status: preferred
+  _revisions:
+    current: a9ca88
+    tree:
+      a9ca88:
+        object:
+          id: 669
+          definition: >-
+            communiquer, exécuter des programmes, ou transférer des données
+            entre des unités fonctionnelles diverses, d'une façon n'exigeant de
+            l'utilisateur que peu ou pas de connaissance des caractéristiques
+            spécifiques de ces unités
+          language_code: fra
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: ISO 19132
+            link: 'https://www.iso.org/standard/40601.html'
+          lineage_source: ''
+          date_accepted: 2007-10-15T00:00:00.000Z
+          terms:
+            - type: expression
+              designation: interagir
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-10-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+deu:
+  id: 669
+  language_code: deu
+  notes:
+    - cf. interoperability
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19132:2007'
+    link: 'https://www.iso.org/standard/40601.html'
+  date_accepted: 2007-10-15T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: zusammenwirken
+      normative_status: preferred
+  _revisions:
+    current: b064d0
+    tree:
+      b064d0:
+        object:
+          id: 669
+          language_code: deu
+          notes:
+            - cf. interoperability
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19132:2007'
+            link: 'https://www.iso.org/standard/40601.html'
+          date_accepted: 2007-10-15T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: zusammenwirken
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-10-15T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+kor:
+  id: 669
+  definition: '사용자가 기능적 구성 단위들의 고유 특성을 알지 못해도, 다양한 구성 단위 간의 데이터 전송, 프로그램을 실행, 의사소통'
+  language_code: kor
+  notes:
+    - '''상호 운용성'' 참고'
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19132:2007'
+    link: 'https://www.iso.org/standard/40601.html'
+  lineage_source: KS X ISO 19132
+  date_accepted: 2009-12-29T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: 상호운용
+      normative_status: preferred
+  _revisions:
+    current: f337a3
+    tree:
+      f337a3:
+        object:
+          id: 669
+          definition: '사용자가 기능적 구성 단위들의 고유 특성을 알지 못해도, 다양한 구성 단위 간의 데이터 전송, 프로그램을 실행, 의사소통'
+          language_code: kor
+          notes:
+            - '''상호 운용성'' 참고'
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19132:2007'
+            link: 'https://www.iso.org/standard/40601.html'
+          lineage_source: KS X ISO 19132
+          date_accepted: 2009-12-29T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: 상호운용
+              normative_status: preferred
+        parents: []
+        timeCreated: 2009-12-29T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 669
+  definition: >-
+    устанавливать связь, исполнять программы или осуществлять передачу данных
+    между различными функциональными блоками таким образом, чтобы от
+    пользователя требовались немногие (или не требовались вообще) знания об
+    уникальных характеристиках этих блоков
+  language_code: rus
+  notes:
+    - См. для сравнение термин "интероперабельность"
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19132:2007'
+    link: 'https://www.iso.org/standard/40601.html'
+  lineage_source: Internet
+  date_accepted: 2007-10-15T00:00:00.000Z
+  terms:
+    - type: expression
+      designation: интероперировать
+      normative_status: preferred
+  _revisions:
+    current: eee711
+    tree:
+      eee711:
+        object:
+          id: 669
+          definition: >-
+            устанавливать связь, исполнять программы или осуществлять передачу
+            данных между различными функциональными блоками таким образом, чтобы
+            от пользователя требовались немногие (или не требовались вообще)
+            знания об уникальных характеристиках этих блоков
+          language_code: rus
+          notes:
+            - См. для сравнение термин "интероперабельность"
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19132:2007'
+            link: 'https://www.iso.org/standard/40601.html'
+          lineage_source: Internet
+          date_accepted: 2007-10-15T00:00:00.000Z
+          terms:
+            - type: expression
+              designation: интероперировать
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-10-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 669
+  definition: >-
+    comunicarse, ejecutar programas o transferir datos entre distintas unidades
+    funcionales de modo que el usuario sólo necesite un conocimiento escaso o
+    nulo sobre las características particulares de tales unidades
+  language_code: spa
+  notes:
+    - 'Contrastar con: Interoperabilidad'
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19132:2007'
+    link: 'https://www.iso.org/standard/40601.html'
+  date_accepted: 2007-10-15T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: interoperar
+      normative_status: preferred
+  _revisions:
+    current: 9306ab
+    tree:
+      9306ab:
+        object:
+          id: 669
+          definition: >-
+            comunicarse, ejecutar programas o transferir datos entre distintas
+            unidades funcionales de modo que el usuario sólo necesite un
+            conocimiento escaso o nulo sobre las características particulares de
+            tales unidades
+          language_code: spa
+          notes:
+            - 'Contrastar con: Interoperabilidad'
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19132:2007'
+            link: 'https://www.iso.org/standard/40601.html'
+          date_accepted: 2007-10-15T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: interoperar
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-10-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+swe:
+  id: 669
+  definition: >-
+    kommunicera, exekvera program eller överföra data bland olika funktionella
+    enheter på ett sätt som kräver liten eller ingen kunskap om dessa  enheters
+    unika kännetecken
+  country_code: swe
+  language_code: swe
+  notes:
+    - cf. interoperability
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19132:2007'
+    link: 'https://www.iso.org/standard/40601.html'
+  lineage_source: (Type reference to national language document)
+  date_accepted: 2007-10-15T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: fungera ihop
+      normative_status: preferred
+  _revisions:
+    current: 3cce77
+    tree:
+      3cce77:
+        object:
+          id: 669
+          definition: >-
+            kommunicera, exekvera program eller överföra data bland olika
+            funktionella enheter på ett sätt som kräver liten eller ingen
+            kunskap om dessa  enheters unika kännetecken
+          country_code: swe
+          language_code: swe
+          notes:
+            - cf. interoperability
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19132:2007'
+            link: 'https://www.iso.org/standard/40601.html'
+          lineage_source: (Type reference to national language document)
+          date_accepted: 2007-10-15T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: fungera ihop
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-10-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

@@ -1,0 +1,309 @@
+term: framework
+termid: 188
+eng:
+  id: 188
+  definition: >-
+    relationship between the elements of the content model and the separate
+    encoding and portrayal mechanisms
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO/TS 19129:2009'
+    link: 'https://www.iso.org/standard/43041.html'
+  date_accepted: 2009-04-01T00:00:00.000Z
+  release: '2'
+  terms:
+    - type: expression
+      designation: framework
+      normative_status: preferred
+  _revisions:
+    current: '381e13'
+    tree:
+      '381e13':
+        object:
+          id: 188
+          definition: >-
+            relationship between the elements of the content model and the
+            separate encoding and portrayal mechanisms
+          language_code: eng
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO/TS 19129:2009'
+            link: 'https://www.iso.org/standard/43041.html'
+          date_accepted: 2009-04-01T00:00:00.000Z
+          release: '2'
+          terms:
+            - type: expression
+              designation: framework
+              normative_status: preferred
+        parents: []
+        timeCreated: 2009-04-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+ara:
+  id: 188
+  definition: العلاقة بين عناصر نموذج المحتوى وآليات الترميز والعرض المنفصلة
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO/TS 19129:2009'
+    link: 'https://www.iso.org/standard/43041.html'
+  date_accepted: 2009-04-01T00:00:00.000Z
+  release: '2'
+  terms:
+    - type: expression
+      designation: إطار
+      normative_status: preferred
+  _revisions:
+    current: 86bf9f
+    tree:
+      86bf9f:
+        object:
+          id: 188
+          definition: العلاقة بين عناصر نموذج المحتوى وآليات الترميز والعرض المنفصلة
+          language_code: ara
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO/TS 19129:2009'
+            link: 'https://www.iso.org/standard/43041.html'
+          date_accepted: 2009-04-01T00:00:00.000Z
+          release: '2'
+          terms:
+            - type: expression
+              designation: إطار
+              normative_status: preferred
+        parents: []
+        timeCreated: 2009-04-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+deu:
+  id: 188
+  language_code: deu
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO/TS 19129:2009'
+    link: 'https://www.iso.org/standard/43041.html'
+  date_accepted: 2009-04-01T00:00:00.000Z
+  release: '2'
+  terms:
+    - type: expression
+      designation: Rahmen
+      normative_status: preferred
+  _revisions:
+    current: 465d97
+    tree:
+      465d97:
+        object:
+          id: 188
+          language_code: deu
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO/TS 19129:2009'
+            link: 'https://www.iso.org/standard/43041.html'
+          date_accepted: 2009-04-01T00:00:00.000Z
+          release: '2'
+          terms:
+            - type: expression
+              designation: Rahmen
+              normative_status: preferred
+        parents: []
+        timeCreated: 2009-04-01T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+kor:
+  id: 188
+  definition: 부호화 및 묘사 메커니즘과 내용 모형의 요소간 관계
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO/TS 19129:2009'
+    link: 'https://www.iso.org/standard/43041.html'
+  date_accepted: 2009-04-01T00:00:00.000Z
+  release: '2'
+  terms:
+    - type: expression
+      designation: '프레임워크, 체계, 골격'
+      normative_status: preferred
+  _revisions:
+    current: c04b2d
+    tree:
+      c04b2d:
+        object:
+          id: 188
+          definition: 부호화 및 묘사 메커니즘과 내용 모형의 요소간 관계
+          language_code: kor
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO/TS 19129:2009'
+            link: 'https://www.iso.org/standard/43041.html'
+          date_accepted: 2009-04-01T00:00:00.000Z
+          release: '2'
+          terms:
+            - type: expression
+              designation: '프레임워크, 체계, 골격'
+              normative_status: preferred
+        parents: []
+        timeCreated: 2009-04-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 188
+  definition: >-
+    взаимосвязь между элементами модели содержания  и отдельными механизмами
+    кодирования и отображения
+  language_code: rus
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO/TS 19129:2009'
+    link: 'https://www.iso.org/standard/43041.html'
+  lineage_source: 'перевод ИСО/ТС 19129:2009'
+  date_accepted: 2009-04-01T00:00:00.000Z
+  release: '2'
+  terms:
+    - type: expression
+      designation: гиперструктура
+      normative_status: preferred
+  _revisions:
+    current: fd6124
+    tree:
+      fd6124:
+        object:
+          id: 188
+          definition: >-
+            взаимосвязь между элементами модели содержания  и отдельными
+            механизмами кодирования и отображения
+          language_code: rus
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO/TS 19129:2009'
+            link: 'https://www.iso.org/standard/43041.html'
+          lineage_source: 'перевод ИСО/ТС 19129:2009'
+          date_accepted: 2009-04-01T00:00:00.000Z
+          release: '2'
+          terms:
+            - type: expression
+              designation: гиперструктура
+              normative_status: preferred
+        parents: []
+        timeCreated: 2009-04-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 188
+  definition: >-
+    relación entre los elementos del modelo de contenido y los diferentes
+    mecanismos de codificación y representación
+  language_code: spa
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO/TS 19129:2009'
+    link: 'https://www.iso.org/standard/43041.html'
+  date_accepted: 2009-04-01T00:00:00.000Z
+  release: '2'
+  terms:
+    - type: expression
+      designation: marco de trabajo
+      normative_status: preferred
+  _revisions:
+    current: '5e2578'
+    tree:
+      '5e2578':
+        object:
+          id: 188
+          definition: >-
+            relación entre los elementos del modelo de contenido y los
+            diferentes mecanismos de codificación y representación
+          language_code: spa
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO/TS 19129:2009'
+            link: 'https://www.iso.org/standard/43041.html'
+          date_accepted: 2009-04-01T00:00:00.000Z
+          release: '2'
+          terms:
+            - type: expression
+              designation: marco de trabajo
+              normative_status: preferred
+        parents: []
+        timeCreated: 2009-04-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+swe:
+  id: 188
+  definition: >-
+    förhållandet mellan delarna i innehållsmodellen och de skilda kodnings- och
+    visualiseringsmekanismerna
+  country_code: swe
+  language_code: swe
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO/TS 19129:2009'
+    link: 'https://www.iso.org/standard/43041.html'
+  lineage_source: (Type reference to national language document)
+  date_accepted: 2009-04-01T00:00:00.000Z
+  release: '2'
+  terms:
+    - type: expression
+      designation: ramverk
+      normative_status: preferred
+  _revisions:
+    current: '481e20'
+    tree:
+      '481e20':
+        object:
+          id: 188
+          definition: >-
+            förhållandet mellan delarna i innehållsmodellen och de skilda
+            kodnings- och visualiseringsmekanismerna
+          country_code: swe
+          language_code: swe
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO/TS 19129:2009'
+            link: 'https://www.iso.org/standard/43041.html'
+          lineage_source: (Type reference to national language document)
+          date_accepted: 2009-04-01T00:00:00.000Z
+          release: '2'
+          terms:
+            - type: expression
+              designation: ramverk
+              normative_status: preferred
+        parents: []
+        timeCreated: 2009-04-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

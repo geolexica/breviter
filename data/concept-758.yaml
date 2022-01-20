@@ -1,0 +1,555 @@
+term: geometry value pair
+termid: 758
+eng:
+  id: 758
+  definition: >-
+    ordered pair composed of a spatial object, a temporal object or a
+    spatiotemporal object and a record of feature attribute values
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19123:2005'
+    link: 'https://www.iso.org/standard/40121.html'
+  date_accepted: 2005-08-15T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: geometry value pair
+      normative_status: preferred
+  _revisions:
+    current: ddefba
+    tree:
+      ddefba:
+        object:
+          id: 758
+          definition: >-
+            ordered pair composed of a spatial object, a temporal object or a
+            spatiotemporal object and a record of feature attribute values
+          language_code: eng
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19123:2005'
+            link: 'https://www.iso.org/standard/40121.html'
+          date_accepted: 2005-08-15T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: geometry value pair
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-08-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+ara:
+  id: 758
+  definition: >-
+    زوج مرتب يتألف من كائن مكاني ، أو كائن زماني أو كائن مكاني-زماني وسجل من قيم
+    بيانات وصف المعالم
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19123:2005'
+    link: 'https://www.iso.org/standard/40121.html'
+  date_accepted: 2005-08-15T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: زوج ذو قيمة هندسية
+      normative_status: preferred
+  _revisions:
+    current: 65c21a
+    tree:
+      65c21a:
+        object:
+          id: 758
+          definition: >-
+            زوج مرتب يتألف من كائن مكاني ، أو كائن زماني أو كائن مكاني-زماني
+            وسجل من قيم بيانات وصف المعالم
+          language_code: ara
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19123:2005'
+            link: 'https://www.iso.org/standard/40121.html'
+          date_accepted: 2005-08-15T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: زوج ذو قيمة هندسية
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-08-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+zho:
+  id: 758
+  definition: 由空间对象、时间对象或时空对象和要素属性值记录组成的有序数值对。
+  language_code: zho
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19123:2005'
+    link: 'https://www.iso.org/standard/40121.html'
+  date_accepted: 2005-08-15T00:00:00.000Z
+  terms:
+    - type: expression
+      designation: 几何数值对
+      normative_status: preferred
+  _revisions:
+    current: c8052e
+    tree:
+      c8052e:
+        object:
+          id: 758
+          definition: 由空间对象、时间对象或时空对象和要素属性值记录组成的有序数值对。
+          language_code: zho
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19123:2005'
+            link: 'https://www.iso.org/standard/40121.html'
+          date_accepted: 2005-08-15T00:00:00.000Z
+          terms:
+            - type: expression
+              designation: 几何数值对
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-08-15T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+dan:
+  id: 758
+  definition: >-
+    ordnet par sammensat af et rumligt objekt, et temporalt objekt eller et
+    rumligt-temporalt objekt og en record af featureattribut-værdier
+  language_code: dan
+  notes: []
+  examples: []
+  authoritative_source:
+    ref: 'ISO 19123:2005'
+    link: 'https://www.iso.org/standard/40121.html'
+  date_accepted: 2005-08-15T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: geometrisk værdipar
+      normative_status: null
+  _revisions:
+    current: 7c70ee
+    tree:
+      7c70ee:
+        object:
+          id: 758
+          definition: >-
+            ordnet par sammensat af et rumligt objekt, et temporalt objekt eller
+            et rumligt-temporalt objekt og en record af featureattribut-værdier
+          language_code: dan
+          notes: []
+          examples: []
+          authoritative_source:
+            ref: 'ISO 19123:2005'
+            link: 'https://www.iso.org/standard/40121.html'
+          date_accepted: 2005-08-15T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: geometrisk værdipar
+              normative_status: null
+        parents: []
+        timeCreated: 2005-08-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+fin:
+  id: 758
+  definition: >-
+    järjestetty pari, joka koostuu spatiaalisesta, temporaalisesta tai
+    spatiotemporaalisesta objektista ja kohteen ominaisuuden arvoista
+  language_code: fin
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19123:2005'
+    link: 'https://www.iso.org/standard/40121.html'
+  lineage_source: 'Ei lähdettä, käännetty'
+  date_accepted: 2005-08-15T00:00:00.000Z
+  terms:
+    - type: expression
+      designation: geometria-arvopari
+      normative_status: preferred
+  _revisions:
+    current: 481bb2
+    tree:
+      481bb2:
+        object:
+          id: 758
+          definition: >-
+            järjestetty pari, joka koostuu spatiaalisesta, temporaalisesta tai
+            spatiotemporaalisesta objektista ja kohteen ominaisuuden arvoista
+          language_code: fin
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19123:2005'
+            link: 'https://www.iso.org/standard/40121.html'
+          lineage_source: 'Ei lähdettä, käännetty'
+          date_accepted: 2005-08-15T00:00:00.000Z
+          terms:
+            - type: expression
+              designation: geometria-arvopari
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-08-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+fra:
+  id: 758
+  definition: >-
+    paire ordonnée composée d'un objet spatial, temporel ou spatiotemporel et
+    d'un enregistrement de valeurs d'attributs d'entité
+  language_code: fra
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: ISO 19123
+    link: 'https://www.iso.org/standard/40121.html'
+  lineage_source: ''
+  date_accepted: 2005-08-15T00:00:00.000Z
+  terms:
+    - type: expression
+      designation: paire géométrie - valeur
+      normative_status: preferred
+  _revisions:
+    current: 651ae8
+    tree:
+      651ae8:
+        object:
+          id: 758
+          definition: >-
+            paire ordonnée composée d'un objet spatial, temporel ou
+            spatiotemporel et d'un enregistrement de valeurs d'attributs
+            d'entité
+          language_code: fra
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: ISO 19123
+            link: 'https://www.iso.org/standard/40121.html'
+          lineage_source: ''
+          date_accepted: 2005-08-15T00:00:00.000Z
+          terms:
+            - type: expression
+              designation: paire géométrie - valeur
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-08-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+deu:
+  id: 758
+  language_code: deu
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19123:2005'
+    link: 'https://www.iso.org/standard/40121.html'
+  date_accepted: 2005-08-15T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: geometrisches Wertepaar
+      normative_status: preferred
+  _revisions:
+    current: 1482b2
+    tree:
+      1482b2:
+        object:
+          id: 758
+          language_code: deu
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19123:2005'
+            link: 'https://www.iso.org/standard/40121.html'
+          date_accepted: 2005-08-15T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: geometrisches Wertepaar
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-08-15T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+kor:
+  id: 758
+  definition: '공간 객체, 시간 객체, 시공간 객체 및 피처 속성 값의 레코드로 구성된 일련의 값 쌍'
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19123:2005'
+    link: 'https://www.iso.org/standard/40121.html'
+  lineage_source: KS X ISO 19123
+  date_accepted: 2007-11-01T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: 기하 값 쌍
+      normative_status: preferred
+  _revisions:
+    current: a6a75a
+    tree:
+      a6a75a:
+        object:
+          id: 758
+          definition: '공간 객체, 시간 객체, 시공간 객체 및 피처 속성 값의 레코드로 구성된 일련의 값 쌍'
+          language_code: kor
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19123:2005'
+            link: 'https://www.iso.org/standard/40121.html'
+          lineage_source: KS X ISO 19123
+          date_accepted: 2007-11-01T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: 기하 값 쌍
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-11-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+pol:
+  id: 758
+  definition: >-
+    uporządkowana para złożona z obiektu przestrzennego, czasowego lub
+    czasoprzestrzennego oraz rekordu wartości atrybutów obiektu
+  language_code: pol
+  notes: []
+  examples: []
+  authoritative_source:
+    ref: 'ISO 19123:2005'
+    link: 'https://www.iso.org/standard/40121.html'
+  lineage_source: PN-EN ISO 19123
+  date_accepted: 2005-08-15T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: para wartości geometrii
+      normative_status: preferred
+  _revisions:
+    current: 5ec08a
+    tree:
+      5ec08a:
+        object:
+          id: 758
+          definition: >-
+            uporządkowana para złożona z obiektu przestrzennego, czasowego lub
+            czasoprzestrzennego oraz rekordu wartości atrybutów obiektu
+          language_code: pol
+          notes: []
+          examples: []
+          authoritative_source:
+            ref: 'ISO 19123:2005'
+            link: 'https://www.iso.org/standard/40121.html'
+          lineage_source: PN-EN ISO 19123
+          date_accepted: 2005-08-15T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: para wartości geometrii
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-08-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 758
+  definition: >-
+    упорядоченная пара, составленная из объекта (в пространстве, времени или
+    пространстве - времени) и атрибутивного значения
+  language_code: rus
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19123:2005'
+    link: 'https://www.iso.org/standard/40121.html'
+  lineage_source: Internet
+  date_accepted: 2005-08-15T00:00:00.000Z
+  terms:
+    - type: expression
+      designation: пара «геометрический элемент – значение»
+      normative_status: preferred
+  _revisions:
+    current: 80f9d5
+    tree:
+      80f9d5:
+        object:
+          id: 758
+          definition: >-
+            упорядоченная пара, составленная из объекта (в пространстве, времени
+            или пространстве - времени) и атрибутивного значения
+          language_code: rus
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19123:2005'
+            link: 'https://www.iso.org/standard/40121.html'
+          lineage_source: Internet
+          date_accepted: 2005-08-15T00:00:00.000Z
+          terms:
+            - type: expression
+              designation: пара «геометрический элемент – значение»
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-08-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 758
+  definition: >-
+    par ordenado compuesto de un objeto espacial, un objeto temporal o un objeto
+    espacio-temporal y un registro de valores de atributos de objetos
+    geográficos
+  language_code: spa
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19123:2005'
+    link: 'https://www.iso.org/standard/40121.html'
+  date_accepted: 2005-08-15T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: par de valores geométricos
+      normative_status: preferred
+  _revisions:
+    current: '697979'
+    tree:
+      '697979':
+        object:
+          id: 758
+          definition: >-
+            par ordenado compuesto de un objeto espacial, un objeto temporal o
+            un objeto espacio-temporal y un registro de valores de atributos de
+            objetos geográficos
+          language_code: spa
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19123:2005'
+            link: 'https://www.iso.org/standard/40121.html'
+          date_accepted: 2005-08-15T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: par de valores geométricos
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-08-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+swe:
+  id: 758
+  definition: >-
+    kombinationen av ett rumsligt, temporalt eller rumstemporalt objekt som
+    ingår i ett domänobjekt och de uppgifter som gäller där
+  country_code: swe
+  language_code: swe
+  notes:
+    - Ett exempel är en punkt där nederbörden har uppmätts till ett visst värde.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19123:2005'
+    link: 'https://www.iso.org/standard/40121.html'
+  lineage_source: (Type reference to national language document)
+  date_accepted: 2005-08-15T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: geometri-värdepar
+      normative_status: preferred
+  _revisions:
+    current: e17aa5
+    tree:
+      e17aa5:
+        object:
+          id: 758
+          definition: >-
+            kombinationen av ett rumsligt, temporalt eller rumstemporalt objekt
+            som ingår i ett domänobjekt och de uppgifter som gäller där
+          country_code: swe
+          language_code: swe
+          notes:
+            - >-
+              Ett exempel är en punkt där nederbörden har uppmätts till ett
+              visst värde.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19123:2005'
+            link: 'https://www.iso.org/standard/40121.html'
+          lineage_source: (Type reference to national language document)
+          date_accepted: 2005-08-15T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: geometri-värdepar
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-08-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

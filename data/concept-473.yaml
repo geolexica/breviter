@@ -1,0 +1,668 @@
+term: transfer protocol
+termid: 473
+eng:
+  id: 473
+  definition: common set of rules for defining interactions between distributed systems
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19118:2011'
+    clause: '4.31'
+    link: 'https://www.iso.org/standard/44212.html'
+  lineage_source: 'ISO 19118:2005'
+  lineage_source_similarity: 1
+  date_accepted: 2005-07-15T00:00:00.000Z
+  review_date: 2007-01-23T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2011-10-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19118:2011'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19118:2005 to ISO 19118:2011.
+    Lineage source added as ISO 19118:2005.
+  release: '1'
+  terms:
+    - type: expression
+      designation: transfer protocol
+      normative_status: preferred
+  _revisions:
+    current: c3cfea
+    tree:
+      c3cfea:
+        object:
+          id: 473
+          definition: >-
+            common set of rules for defining interactions between distributed
+            systems
+          language_code: eng
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19118:2011'
+            clause: '4.31'
+            link: 'https://www.iso.org/standard/44212.html'
+          lineage_source: 'ISO 19118:2005'
+          lineage_source_similarity: 1
+          date_accepted: 2005-07-15T00:00:00.000Z
+          review_date: 2007-01-23T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2011-10-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19118:2011'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19118:2005 to ISO
+            19118:2011. Lineage source added as ISO 19118:2005.
+          release: '1'
+          terms:
+            - type: expression
+              designation: transfer protocol
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-07-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+ara:
+  id: 473
+  definition: مجموعة قواعد لتحديد التفاعلات بين النظم الموزعة
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19118:2011'
+    clause: '4.31'
+    link: 'https://www.iso.org/standard/44212.html'
+  lineage_source: 'ISO 19118:2005'
+  lineage_source_similarity: 1
+  date_accepted: 2005-07-15T00:00:00.000Z
+  review_date: 2007-01-23T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2011-10-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19118:2011'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19118:2005 to ISO 19118:2011.
+    Lineage source added as ISO 19118:2005.
+  release: '1'
+  terms:
+    - type: expression
+      designation: برتوكول تحويل
+      normative_status: preferred
+  _revisions:
+    current: 0cbffe
+    tree:
+      0cbffe:
+        object:
+          id: 473
+          definition: مجموعة قواعد لتحديد التفاعلات بين النظم الموزعة
+          language_code: ara
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19118:2011'
+            clause: '4.31'
+            link: 'https://www.iso.org/standard/44212.html'
+          lineage_source: 'ISO 19118:2005'
+          lineage_source_similarity: 1
+          date_accepted: 2005-07-15T00:00:00.000Z
+          review_date: 2007-01-23T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2011-10-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19118:2011'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19118:2005 to ISO
+            19118:2011. Lineage source added as ISO 19118:2005.
+          release: '1'
+          terms:
+            - type: expression
+              designation: برتوكول تحويل
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-07-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+zho:
+  id: 473
+  definition: 定义分布式系统间交互规则的通用集合。
+  language_code: zho
+  notes:
+    - 转换数据集不一定象原数据集那样标识。
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19118:2011'
+    clause: '4.31'
+    link: 'https://www.iso.org/standard/44212.html'
+  lineage_source: 'ISO 19118:2005'
+  lineage_source_similarity: 1
+  date_accepted: 2005-07-15T00:00:00.000Z
+  review_date: 2007-01-23T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2011-10-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19118:2011'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19118:2005 to ISO 19118:2011.
+    Lineage source added as ISO 19118:2005.
+  release: '1'
+  terms:
+    - type: expression
+      designation: 传输协议
+      normative_status: preferred
+  _revisions:
+    current: 08e9a9
+    tree:
+      08e9a9:
+        object:
+          id: 473
+          definition: 定义分布式系统间交互规则的通用集合。
+          language_code: zho
+          notes:
+            - 转换数据集不一定象原数据集那样标识。
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19118:2011'
+            clause: '4.31'
+            link: 'https://www.iso.org/standard/44212.html'
+          lineage_source: 'ISO 19118:2005'
+          lineage_source_similarity: 1
+          date_accepted: 2005-07-15T00:00:00.000Z
+          review_date: 2007-01-23T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2011-10-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19118:2011'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19118:2005 to ISO
+            19118:2011. Lineage source added as ISO 19118:2005.
+          release: '1'
+          terms:
+            - type: expression
+              designation: 传输协议
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-07-15T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+fin:
+  id: 473
+  definition: >-
+    hajautettujen järjestelmien välisten vuorovaikutusten määrittelyyn
+    tarvittava joukko yhteisiä sääntöjä
+  language_code: fin
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19118:2011'
+    clause: '4.31'
+    link: 'https://www.iso.org/standard/44212.html'
+  lineage_source: 'ISO 19118:2005'
+  lineage_source_similarity: 1
+  date_accepted: 2005-07-15T00:00:00.000Z
+  review_date: 2007-01-23T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2011-10-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19118:2011'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19118:2005 to ISO 19118:2011.
+    Lineage source added as ISO 19118:2005.
+  release: '1'
+  terms:
+    - type: expression
+      designation: siirtoprotokolla
+      normative_status: preferred
+  _revisions:
+    current: 62bd5b
+    tree:
+      62bd5b:
+        object:
+          id: 473
+          definition: >-
+            hajautettujen järjestelmien välisten vuorovaikutusten määrittelyyn
+            tarvittava joukko yhteisiä sääntöjä
+          language_code: fin
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19118:2011'
+            clause: '4.31'
+            link: 'https://www.iso.org/standard/44212.html'
+          lineage_source: 'ISO 19118:2005'
+          lineage_source_similarity: 1
+          date_accepted: 2005-07-15T00:00:00.000Z
+          review_date: 2007-01-23T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2011-10-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19118:2011'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19118:2005 to ISO
+            19118:2011. Lineage source added as ISO 19118:2005.
+          release: '1'
+          terms:
+            - type: expression
+              designation: siirtoprotokolla
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-07-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+fra:
+  id: 473
+  definition: >-
+    ensemble de règles communes définissant les interactions entre des systèmes
+    distribués
+  language_code: fra
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19118:2011'
+    clause: '4.31'
+    link: 'https://www.iso.org/standard/44212.html'
+  lineage_source: 'ISO 19118:2005'
+  lineage_source_similarity: 1
+  date_accepted: 2005-07-15T00:00:00.000Z
+  review_date: 2007-01-23T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2011-10-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19118:2011'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19118:2005 to ISO 19118:2011.
+    Lineage source added as ISO 19118:2005.
+  release: '1'
+  terms:
+    - type: expression
+      designation: protocole de transfert
+      normative_status: preferred
+  _revisions:
+    current: bdc2ed
+    tree:
+      bdc2ed:
+        object:
+          id: 473
+          definition: >-
+            ensemble de règles communes définissant les interactions entre des
+            systèmes distribués
+          language_code: fra
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19118:2011'
+            clause: '4.31'
+            link: 'https://www.iso.org/standard/44212.html'
+          lineage_source: 'ISO 19118:2005'
+          lineage_source_similarity: 1
+          date_accepted: 2005-07-15T00:00:00.000Z
+          review_date: 2007-01-23T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2011-10-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19118:2011'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19118:2005 to ISO
+            19118:2011. Lineage source added as ISO 19118:2005.
+          release: '1'
+          terms:
+            - type: expression
+              designation: protocole de transfert
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-07-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+deu:
+  id: 473
+  language_code: deu
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19118:2011'
+    clause: '4.31'
+    link: 'https://www.iso.org/standard/44212.html'
+  lineage_source: 'ISO 19118:2005'
+  lineage_source_similarity: 1
+  date_accepted: 2005-07-15T00:00:00.000Z
+  review_date: 2007-01-23T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2011-10-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19118:2011'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19118:2005 to ISO 19118:2011.
+    Lineage source added as ISO 19118:2005.
+  release: '1'
+  terms:
+    - type: expression
+      designation: Übertragungsprotokoll
+      normative_status: preferred
+  _revisions:
+    current: 5758d3
+    tree:
+      5758d3:
+        object:
+          id: 473
+          language_code: deu
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19118:2011'
+            clause: '4.31'
+            link: 'https://www.iso.org/standard/44212.html'
+          lineage_source: 'ISO 19118:2005'
+          lineage_source_similarity: 1
+          date_accepted: 2005-07-15T00:00:00.000Z
+          review_date: 2007-01-23T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2011-10-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19118:2011'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19118:2005 to ISO
+            19118:2011. Lineage source added as ISO 19118:2005.
+          release: '1'
+          terms:
+            - type: expression
+              designation: Übertragungsprotokoll
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-07-15T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+kor:
+  id: 473
+  definition: 분산 시스템 간의 상호 작용을 정의하기 위한 규칙의 공통 집합
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19118:2011'
+    clause: '4.31'
+    link: 'https://www.iso.org/standard/44212.html'
+  lineage_source: 'ISO 19118:2005'
+  lineage_source_similarity: 1
+  date_accepted: 2008-12-30T00:00:00.000Z
+  review_date: 2007-01-23T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2011-10-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19118:2011'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19118:2005 to ISO 19118:2011.
+    Lineage source added as ISO 19118:2005.
+  release: '1'
+  terms:
+    - type: expression
+      designation: 전송 프로토콜
+      normative_status: preferred
+  _revisions:
+    current: b0d179
+    tree:
+      b0d179:
+        object:
+          id: 473
+          definition: 분산 시스템 간의 상호 작용을 정의하기 위한 규칙의 공통 집합
+          language_code: kor
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19118:2011'
+            clause: '4.31'
+            link: 'https://www.iso.org/standard/44212.html'
+          lineage_source: 'ISO 19118:2005'
+          lineage_source_similarity: 1
+          date_accepted: 2008-12-30T00:00:00.000Z
+          review_date: 2007-01-23T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2011-10-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19118:2011'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19118:2005 to ISO
+            19118:2011. Lineage source added as ISO 19118:2005.
+          release: '1'
+          terms:
+            - type: expression
+              designation: 전송 프로토콜
+              normative_status: preferred
+        parents: []
+        timeCreated: 2008-12-30T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 473
+  definition: общий набор правил взаимодействия распределенных систем
+  language_code: rus
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19118:2011'
+    clause: '4.31'
+    link: 'https://www.iso.org/standard/44212.html'
+  lineage_source: 'перевод ИСО 19118:2011'
+  lineage_source_similarity: 1
+  date_accepted: 2005-07-15T00:00:00.000Z
+  review_date: 2007-01-23T00:00:00.000Z
+  review_status: ''
+  review_decision: ''
+  review_decision_date: 2011-10-15T00:00:00.000Z
+  review_decision_event: 'Публикация ИСО19118:2011'
+  review_decision_notes: >-
+    Авторитетная ссылка изменена с ISO 19118:2005 на ISO 19118: 2011. Источник
+    происхождения добавлен как ISO 19118: 2005.
+  release: '1'
+  terms:
+    - type: expression
+      designation: протокол передачи
+      normative_status: preferred
+  _revisions:
+    current: 2f9937
+    tree:
+      2f9937:
+        object:
+          id: 473
+          definition: общий набор правил взаимодействия распределенных систем
+          language_code: rus
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19118:2011'
+            clause: '4.31'
+            link: 'https://www.iso.org/standard/44212.html'
+          lineage_source: 'перевод ИСО 19118:2011'
+          lineage_source_similarity: 1
+          date_accepted: 2005-07-15T00:00:00.000Z
+          review_date: 2007-01-23T00:00:00.000Z
+          review_status: ''
+          review_decision: ''
+          review_decision_date: 2011-10-15T00:00:00.000Z
+          review_decision_event: 'Публикация ИСО19118:2011'
+          review_decision_notes: >-
+            Авторитетная ссылка изменена с ISO 19118:2005 на ISO 19118: 2011.
+            Источник происхождения добавлен как ISO 19118: 2005.
+          release: '1'
+          terms:
+            - type: expression
+              designation: протокол передачи
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-07-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 473
+  definition: >-
+    conjunto común de reglas para la definición de las interacciones entre
+    sistemas distribuidos
+  language_code: spa
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19118:2011'
+    clause: '4.31'
+    link: 'https://www.iso.org/standard/44212.html'
+  lineage_source: 'ISO 19118:2005'
+  lineage_source_similarity: 1
+  date_accepted: 2005-07-15T00:00:00.000Z
+  review_date: 2007-01-23T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2011-10-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19118:2011'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19118:2005 to ISO 19118:2011.
+    Lineage source added as ISO 19118:2005.
+  release: '1'
+  terms:
+    - type: expression
+      designation: protocolo de transferencia
+      normative_status: preferred
+  _revisions:
+    current: a6c6e4
+    tree:
+      a6c6e4:
+        object:
+          id: 473
+          definition: >-
+            conjunto común de reglas para la definición de las interacciones
+            entre sistemas distribuidos
+          language_code: spa
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19118:2011'
+            clause: '4.31'
+            link: 'https://www.iso.org/standard/44212.html'
+          lineage_source: 'ISO 19118:2005'
+          lineage_source_similarity: 1
+          date_accepted: 2005-07-15T00:00:00.000Z
+          review_date: 2007-01-23T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2011-10-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19118:2011'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19118:2005 to ISO
+            19118:2011. Lineage source added as ISO 19118:2005.
+          release: '1'
+          terms:
+            - type: expression
+              designation: protocolo de transferencia
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-07-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+swe:
+  id: 473
+  definition: gemensam uppsättning regler för samverkan inom distribuerade system
+  country_code: swe
+  language_code: swe
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19118:2011'
+    clause: '4.31'
+    link: 'https://www.iso.org/standard/44212.html'
+  lineage_source: 'ISO 19118:2005'
+  lineage_source_similarity: 1
+  date_accepted: 2005-07-15T00:00:00.000Z
+  review_date: 2007-01-23T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2011-10-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19118:2011'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19118:2005 to ISO 19118:2011.
+    Lineage source added as ISO 19118:2005.
+  release: '1'
+  terms:
+    - type: expression
+      designation: protokoll
+      normative_status: preferred
+  _revisions:
+    current: 32fe30
+    tree:
+      32fe30:
+        object:
+          id: 473
+          definition: gemensam uppsättning regler för samverkan inom distribuerade system
+          country_code: swe
+          language_code: swe
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19118:2011'
+            clause: '4.31'
+            link: 'https://www.iso.org/standard/44212.html'
+          lineage_source: 'ISO 19118:2005'
+          lineage_source_similarity: 1
+          date_accepted: 2005-07-15T00:00:00.000Z
+          review_date: 2007-01-23T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2011-10-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19118:2011'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19118:2005 to ISO
+            19118:2011. Lineage source added as ISO 19118:2005.
+          release: '1'
+          terms:
+            - type: expression
+              designation: protokoll
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-07-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

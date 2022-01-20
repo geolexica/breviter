@@ -1,0 +1,860 @@
+term: semi-minor axis
+termid: 623
+eng:
+  id: 623
+  abbrev: b
+  definition: semi-diameter of the shortest axis of an ellipsoid
+  language_code: eng
+  notes:
+    - >-
+      The shortest axis coincides with the rotation axis of the ellipsoid and
+      therefore contains both poles.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19111:2019'
+    clause: '(E), 3.1.54'
+    link: 'https://www.iso.org/standard/74039.html'
+  lineage_source: 'ISO 19111:2007(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2007-07-01T00:00:00.000Z
+  review_date: 2019-01-31T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-01-31T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19111:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19111:2007 to ISO 19111:2019(E),
+    3.1.54. Lineage source added as ISO 19111:2007(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: semi-minor axis
+      normative_status: preferred
+  _revisions:
+    current: 60bee5
+    tree:
+      60bee5:
+        object:
+          id: 623
+          abbrev: b
+          definition: semi-diameter of the shortest axis of an ellipsoid
+          language_code: eng
+          notes:
+            - >-
+              The shortest axis coincides with the rotation axis of the
+              ellipsoid and therefore contains both poles.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19111:2019'
+            clause: '(E), 3.1.54'
+            link: 'https://www.iso.org/standard/74039.html'
+          lineage_source: 'ISO 19111:2007(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2007-07-01T00:00:00.000Z
+          review_date: 2019-01-31T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-01-31T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19111:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19111:2007 to ISO
+            19111:2019(E), 3.1.54. Lineage source added as ISO 19111:2007(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: semi-minor axis
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+ara:
+  id: 623
+  abbrev: ب
+  definition: نصف القطر لأقصر محور لمجسم قطع ناقص
+  language_code: ara
+  notes:
+    - >-
+      المحور الأقصر يتطابق مع محور دوران مجسم القطع الناقص وهو ، بالتالي، يحتوي
+      على كلا القطبين.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19111:2019'
+    clause: '(E), 3.1.54'
+    link: 'https://www.iso.org/standard/74039.html'
+  lineage_source: 'ISO 19111:2007(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2007-07-01T00:00:00.000Z
+  review_date: 2019-01-31T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-01-31T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19111:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19111:2007 to ISO 19111:2019(E),
+    3.1.54. Lineage source added as ISO 19111:2007(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: محور شبه أصغر
+      normative_status: preferred
+  _revisions:
+    current: e3eac8
+    tree:
+      e3eac8:
+        object:
+          id: 623
+          abbrev: ب
+          definition: نصف القطر لأقصر محور لمجسم قطع ناقص
+          language_code: ara
+          notes:
+            - >-
+              المحور الأقصر يتطابق مع محور دوران مجسم القطع الناقص وهو ،
+              بالتالي، يحتوي على كلا القطبين.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19111:2019'
+            clause: '(E), 3.1.54'
+            link: 'https://www.iso.org/standard/74039.html'
+          lineage_source: 'ISO 19111:2007(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2007-07-01T00:00:00.000Z
+          review_date: 2019-01-31T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-01-31T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19111:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19111:2007 to ISO
+            19111:2019(E), 3.1.54. Lineage source added as ISO 19111:2007(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: محور شبه أصغر
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+zho:
+  id: 623
+  abbrev: b
+  definition: 椭球的最短轴的半径。
+  language_code: zho
+  notes:
+    - 最短轴与椭球的旋转轴一致，因此最短轴包括两个极点。
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19111:2019'
+    clause: '(E), 3.1.54'
+    link: 'https://www.iso.org/standard/74039.html'
+  lineage_source: 'ISO 19111:2007(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2007-07-01T00:00:00.000Z
+  review_date: 2019-01-31T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-01-31T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19111:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19111:2007 to ISO 19111:2019(E),
+    3.1.54. Lineage source added as ISO 19111:2007(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: 短半轴
+      normative_status: preferred
+  _revisions:
+    current: d6e837
+    tree:
+      d6e837:
+        object:
+          id: 623
+          abbrev: b
+          definition: 椭球的最短轴的半径。
+          language_code: zho
+          notes:
+            - 最短轴与椭球的旋转轴一致，因此最短轴包括两个极点。
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19111:2019'
+            clause: '(E), 3.1.54'
+            link: 'https://www.iso.org/standard/74039.html'
+          lineage_source: 'ISO 19111:2007(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2007-07-01T00:00:00.000Z
+          review_date: 2019-01-31T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-01-31T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19111:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19111:2007 to ISO
+            19111:2019(E), 3.1.54. Lineage source added as ISO 19111:2007(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: 短半轴
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-07-01T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+nld:
+  id: 623
+  abbrev: b
+  definition: halve diameter van de kortste as van een ellipsoïde
+  language_code: nld
+  notes:
+    - >-
+      De kortste as is gelijk aan de omwentelingsas van de ellipsoïde en bevat
+      daarmee beide polen.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19111:2019'
+    clause: '(E), 3.1.54'
+    link: 'https://www.iso.org/standard/74039.html'
+  lineage_source: 'ISO 19111:2007(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2007-07-01T00:00:00.000Z
+  review_date: 2019-01-31T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-01-31T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19111:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19111:2007 to ISO 19111:2019(E),
+    3.1.54. Lineage source added as ISO 19111:2007(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: halve korte as
+      normative_status: preferred
+  _revisions:
+    current: 7c22cd
+    tree:
+      7c22cd:
+        object:
+          id: 623
+          abbrev: b
+          definition: halve diameter van de kortste as van een ellipsoïde
+          language_code: nld
+          notes:
+            - >-
+              De kortste as is gelijk aan de omwentelingsas van de ellipsoïde en
+              bevat daarmee beide polen.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19111:2019'
+            clause: '(E), 3.1.54'
+            link: 'https://www.iso.org/standard/74039.html'
+          lineage_source: 'ISO 19111:2007(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2007-07-01T00:00:00.000Z
+          review_date: 2019-01-31T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-01-31T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19111:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19111:2007 to ISO
+            19111:2019(E), 3.1.54. Lineage source added as ISO 19111:2007(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: halve korte as
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-07-01T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+fin:
+  id: 623
+  abbrev: b
+  definition: ellipsoidin lyhyimmän akselin puolikas
+  language_code: fin
+  notes:
+    - >-
+      Lyhyin akseli vastaa ellipsoidin pyörähdysakselia (etäisyys keskipisteestä
+      molemmille navoille).
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19111:2019'
+    clause: '(E), 3.1.54'
+    link: 'https://www.iso.org/standard/74039.html'
+  lineage_source: 'ISO 19111:2007(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2007-07-01T00:00:00.000Z
+  review_date: 2019-01-31T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-01-31T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19111:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19111:2007 to ISO 19111:2019(E),
+    3.1.54. Lineage source added as ISO 19111:2007(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: pikkuakselin puolikas
+      normative_status: preferred
+  _revisions:
+    current: afee30
+    tree:
+      afee30:
+        object:
+          id: 623
+          abbrev: b
+          definition: ellipsoidin lyhyimmän akselin puolikas
+          language_code: fin
+          notes:
+            - >-
+              Lyhyin akseli vastaa ellipsoidin pyörähdysakselia (etäisyys
+              keskipisteestä molemmille navoille).
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19111:2019'
+            clause: '(E), 3.1.54'
+            link: 'https://www.iso.org/standard/74039.html'
+          lineage_source: 'ISO 19111:2007(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2007-07-01T00:00:00.000Z
+          review_date: 2019-01-31T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-01-31T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19111:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19111:2007 to ISO
+            19111:2019(E), 3.1.54. Lineage source added as ISO 19111:2007(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: pikkuakselin puolikas
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+fra:
+  id: 623
+  definition: demi-diamètre de l'axe le plus court d'un ellipsoïde
+  language_code: fra
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19111:2019'
+    clause: '(E), 3.1.54'
+    link: 'https://www.iso.org/standard/74039.html'
+  lineage_source: 'ISO 19111:2007(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2007-07-01T00:00:00.000Z
+  review_date: 2019-01-31T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-01-31T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19111:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19111:2007 to ISO 19111:2019(E),
+    3.1.54. Lineage source added as ISO 19111:2007(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: axe semi-mineur
+      normative_status: preferred
+  _revisions:
+    current: a161f0
+    tree:
+      a161f0:
+        object:
+          id: 623
+          definition: demi-diamètre de l'axe le plus court d'un ellipsoïde
+          language_code: fra
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19111:2019'
+            clause: '(E), 3.1.54'
+            link: 'https://www.iso.org/standard/74039.html'
+          lineage_source: 'ISO 19111:2007(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2007-07-01T00:00:00.000Z
+          review_date: 2019-01-31T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-01-31T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19111:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19111:2007 to ISO
+            19111:2019(E), 3.1.54. Lineage source added as ISO 19111:2007(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: axe semi-mineur
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+deu:
+  id: 623
+  abbrev: b
+  definition: Durchmesserhälfte der kürzesten Ellipsoidachse
+  language_code: deu
+  notes:
+    - >-
+      The shortest axis coincides with the rotation axis of the ellipsoid and
+      therefore contains both poles.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19111:2019'
+    clause: '(E), 3.1.54'
+    link: 'https://www.iso.org/standard/74039.html'
+  lineage_source: 'ISO 19111:2007(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2007-07-01T00:00:00.000Z
+  review_date: 2019-01-31T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-01-31T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19111:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19111:2007 to ISO 19111:2019(E),
+    3.1.54. Lineage source added as ISO 19111:2007(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: kleine Halbachse
+      normative_status: preferred
+  _revisions:
+    current: 2d879b
+    tree:
+      2d879b:
+        object:
+          id: 623
+          abbrev: b
+          definition: Durchmesserhälfte der kürzesten Ellipsoidachse
+          language_code: deu
+          notes:
+            - >-
+              The shortest axis coincides with the rotation axis of the
+              ellipsoid and therefore contains both poles.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19111:2019'
+            clause: '(E), 3.1.54'
+            link: 'https://www.iso.org/standard/74039.html'
+          lineage_source: 'ISO 19111:2007(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2007-07-01T00:00:00.000Z
+          review_date: 2019-01-31T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-01-31T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19111:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19111:2007 to ISO
+            19111:2019(E), 3.1.54. Lineage source added as ISO 19111:2007(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: kleine Halbachse
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-07-01T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+kor:
+  id: 623
+  abbrev: b
+  definition: 타원체의 최단 반지름
+  language_code: kor
+  notes:
+    - 지구 타원체의 단반경은 타원체의 중심으로부터 어느 한쪽 극까지의 거리이다.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19111:2019'
+    clause: '(E), 3.1.54'
+    link: 'https://www.iso.org/standard/74039.html'
+  lineage_source: 'ISO 19111:2007(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2007-07-01T00:00:00.000Z
+  review_date: 2019-01-31T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-01-31T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19111:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19111:2007 to ISO 19111:2019(E),
+    3.1.54. Lineage source added as ISO 19111:2007(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: 단반경
+      normative_status: preferred
+  _revisions:
+    current: fd6aef
+    tree:
+      fd6aef:
+        object:
+          id: 623
+          abbrev: b
+          definition: 타원체의 최단 반지름
+          language_code: kor
+          notes:
+            - 지구 타원체의 단반경은 타원체의 중심으로부터 어느 한쪽 극까지의 거리이다.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19111:2019'
+            clause: '(E), 3.1.54'
+            link: 'https://www.iso.org/standard/74039.html'
+          lineage_source: 'ISO 19111:2007(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2007-07-01T00:00:00.000Z
+          review_date: 2019-01-31T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-01-31T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19111:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19111:2007 to ISO
+            19111:2019(E), 3.1.54. Lineage source added as ISO 19111:2007(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: 단반경
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+pol:
+  id: 623
+  abbrev: b
+  definition: połowa krótszej osi elipsoidy
+  language_code: pol
+  notes:
+    - Krótsza oś pokrywa się z osią obrotu elipsoidy i zawiera oba bieguny.
+  examples: []
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19111:2019'
+    clause: '(E), 3.1.54'
+    link: 'https://www.iso.org/standard/74039.html'
+  lineage_source: 'ISO 19111:2007(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2007-07-01T00:00:00.000Z
+  review_date: 2019-01-31T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-01-31T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19111:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19111:2007 to ISO 19111:2019(E),
+    3.1.54. Lineage source added as ISO 19111:2007(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: półoś mała b
+      normative_status: preferred
+  _revisions:
+    current: 40fd82
+    tree:
+      40fd82:
+        object:
+          id: 623
+          abbrev: b
+          definition: połowa krótszej osi elipsoidy
+          language_code: pol
+          notes:
+            - >-
+              Krótsza oś pokrywa się z osią obrotu elipsoidy i zawiera oba
+              bieguny.
+          examples: []
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19111:2019'
+            clause: '(E), 3.1.54'
+            link: 'https://www.iso.org/standard/74039.html'
+          lineage_source: 'ISO 19111:2007(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2007-07-01T00:00:00.000Z
+          review_date: 2019-01-31T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-01-31T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19111:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19111:2007 to ISO
+            19111:2019(E), 3.1.54. Lineage source added as ISO 19111:2007(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: półoś mała b
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 623
+  abbrev: b
+  definition: полярная ось эллипсоида
+  language_code: rus
+  notes:
+    - >-
+      Для эллипсоида, представляющего Землю, это расстояние от его центра до
+      любого из полюсов
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19111:2019'
+    clause: '(E), 3.1.54'
+    link: 'https://www.iso.org/standard/74039.html'
+  lineage_source: 'ISO 19111:2007(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2007-07-01T00:00:00.000Z
+  review_date: 2019-01-31T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-01-31T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19111:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19111:2007 to ISO 19111:2019(E),
+    3.1.54. Lineage source added as ISO 19111:2007(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: малая полуось
+      normative_status: preferred
+  _revisions:
+    current: '9e5017'
+    tree:
+      '9e5017':
+        object:
+          id: 623
+          abbrev: b
+          definition: полярная ось эллипсоида
+          language_code: rus
+          notes:
+            - >-
+              Для эллипсоида, представляющего Землю, это расстояние от его
+              центра до любого из полюсов
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19111:2019'
+            clause: '(E), 3.1.54'
+            link: 'https://www.iso.org/standard/74039.html'
+          lineage_source: 'ISO 19111:2007(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2007-07-01T00:00:00.000Z
+          review_date: 2019-01-31T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-01-31T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19111:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19111:2007 to ISO
+            19111:2019(E), 3.1.54. Lineage source added as ISO 19111:2007(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: малая полуось
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 623
+  abbrev: b
+  definition: semidiámetro del eje más corto de un elipsoide
+  language_code: spa
+  notes:
+    - >-
+      El eje más corto coincide con el eje de rotación del elipsoide y por
+      consiguiente contiene ambos polos..
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19111:2019'
+    clause: '(E), 3.1.54'
+    link: 'https://www.iso.org/standard/74039.html'
+  lineage_source: 'ISO 19111:2007(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2007-07-01T00:00:00.000Z
+  review_date: 2019-01-31T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-01-31T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19111:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19111:2007 to ISO 19111:2019(E),
+    3.1.54. Lineage source added as ISO 19111:2007(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: semieje menor
+      normative_status: preferred
+  _revisions:
+    current: e177d2
+    tree:
+      e177d2:
+        object:
+          id: 623
+          abbrev: b
+          definition: semidiámetro del eje más corto de un elipsoide
+          language_code: spa
+          notes:
+            - >-
+              El eje más corto coincide con el eje de rotación del elipsoide y
+              por consiguiente contiene ambos polos..
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19111:2019'
+            clause: '(E), 3.1.54'
+            link: 'https://www.iso.org/standard/74039.html'
+          lineage_source: 'ISO 19111:2007(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2007-07-01T00:00:00.000Z
+          review_date: 2019-01-31T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-01-31T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19111:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19111:2007 to ISO
+            19111:2019(E), 3.1.54. Lineage source added as ISO 19111:2007(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: semieje menor
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+swe:
+  id: 623
+  abbrev: b
+  definition: halva lillaxeln hos en ellips eller ellipsoid
+  country_code: swe
+  language_code: swe
+  notes:
+    - >-
+      The shortest axis coincides with the rotation axis of the ellipsoid and
+      therefore contains both poles.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19111:2019'
+    clause: '(E), 3.1.54'
+    link: 'https://www.iso.org/standard/74039.html'
+  lineage_source: 'ISO 19111:2007(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2007-07-01T00:00:00.000Z
+  review_date: 2019-01-31T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-01-31T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19111:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19111:2007 to ISO 19111:2019(E),
+    3.1.54. Lineage source added as ISO 19111:2007(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: halva lillaxeln
+      normative_status: preferred
+  _revisions:
+    current: 6d23f3
+    tree:
+      6d23f3:
+        object:
+          id: 623
+          abbrev: b
+          definition: halva lillaxeln hos en ellips eller ellipsoid
+          country_code: swe
+          language_code: swe
+          notes:
+            - >-
+              The shortest axis coincides with the rotation axis of the
+              ellipsoid and therefore contains both poles.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19111:2019'
+            clause: '(E), 3.1.54'
+            link: 'https://www.iso.org/standard/74039.html'
+          lineage_source: 'ISO 19111:2007(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2007-07-01T00:00:00.000Z
+          review_date: 2019-01-31T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-01-31T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19111:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19111:2007 to ISO
+            19111:2019(E), 3.1.54. Lineage source added as ISO 19111:2007(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: halva lillaxeln
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

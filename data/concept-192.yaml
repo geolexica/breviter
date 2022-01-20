@@ -1,0 +1,782 @@
+term: functional standard
+termid: 192
+eng:
+  id: 192
+  definition: >-
+    existing geographic information standard, in active use by an international
+    community of data producers and data users
+  language_code: eng
+  notes:
+    - 'GDF, S-57, and DIGEST are examples of functional standards.'
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19101-1:2014'
+    clause: 4.1.17
+    link: 'https://www.iso.org/standard/59164.html'
+  lineage_source: 'ISO 19101:2002'
+  lineage_source_similarity: '1'
+  date_accepted: 2002-07-01T00:00:00.000Z
+  review_date: 2010-10-12T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2014-11-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19101-1:2014'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19101:2002 to ISO 19101-1:2014.
+    Lineage source added as ISO 19101:2002.
+  release: '1'
+  terms:
+    - type: expression
+      designation: functional standard
+      normative_status: preferred
+  _revisions:
+    current: 2d4d21
+    tree:
+      2d4d21:
+        object:
+          id: 192
+          definition: >-
+            existing geographic information standard, in active use by an
+            international community of data producers and data users
+          language_code: eng
+          notes:
+            - 'GDF, S-57, and DIGEST are examples of functional standards.'
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19101-1:2014'
+            clause: 4.1.17
+            link: 'https://www.iso.org/standard/59164.html'
+          lineage_source: 'ISO 19101:2002'
+          lineage_source_similarity: '1'
+          date_accepted: 2002-07-01T00:00:00.000Z
+          review_date: 2010-10-12T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2014-11-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19101-1:2014'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19101:2002 to ISO
+            19101-1:2014. Lineage source added as ISO 19101:2002.
+          release: '1'
+          terms:
+            - type: expression
+              designation: functional standard
+              normative_status: preferred
+        parents: []
+        timeCreated: 2002-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+ara:
+  id: 192
+  definition: >-
+    مقياس معلومات جغرافية قائم حالياً ومستخدم بشكل فعال من قبل مجتمع دولي لمنتجي
+    ومستخدمي البيانات
+  language_code: ara
+  notes:
+    - >-
+      من أمثلة المقاييس الوظيفية: المقياس 57 الخاص بملفات البيانات الجغرافية
+      ،"جي دي إف"  "إس - 57" و مقياس تبادل المعلومات الجغرافية الرقمية " دايجيست
+      ".
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19101-1:2014'
+    clause: 4.1.17
+    link: 'https://www.iso.org/standard/59164.html'
+  lineage_source: 'ISO 19101:2002'
+  lineage_source_similarity: '1'
+  date_accepted: 2002-07-01T00:00:00.000Z
+  review_date: 2010-10-12T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2014-11-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19101-1:2014'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19101:2002 to ISO 19101-1:2014.
+    Lineage source added as ISO 19101:2002.
+  release: '1'
+  terms:
+    - type: expression
+      designation: مقياس فعال
+      normative_status: preferred
+  _revisions:
+    current: fcdca4
+    tree:
+      fcdca4:
+        object:
+          id: 192
+          definition: >-
+            مقياس معلومات جغرافية قائم حالياً ومستخدم بشكل فعال من قبل مجتمع
+            دولي لمنتجي ومستخدمي البيانات
+          language_code: ara
+          notes:
+            - >-
+              من أمثلة المقاييس الوظيفية: المقياس 57 الخاص بملفات البيانات
+              الجغرافية ،"جي دي إف"  "إس - 57" و مقياس تبادل المعلومات الجغرافية
+              الرقمية " دايجيست ".
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19101-1:2014'
+            clause: 4.1.17
+            link: 'https://www.iso.org/standard/59164.html'
+          lineage_source: 'ISO 19101:2002'
+          lineage_source_similarity: '1'
+          date_accepted: 2002-07-01T00:00:00.000Z
+          review_date: 2010-10-12T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2014-11-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19101-1:2014'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19101:2002 to ISO
+            19101-1:2014. Lineage source added as ISO 19101:2002.
+          release: '1'
+          terms:
+            - type: expression
+              designation: مقياس فعال
+              normative_status: preferred
+        parents: []
+        timeCreated: 2002-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+zho:
+  id: 192
+  definition: 数据生产者和数据用户国际团体正在使用的现存地理信息标准。
+  language_code: zho
+  notes:
+    - GDF、S-57和DIGEST是现行实用标准的实例。
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19101-1:2014'
+    clause: 4.1.17
+    link: 'https://www.iso.org/standard/59164.html'
+  lineage_source: 'ISO 19101:2002'
+  lineage_source_similarity: '1'
+  date_accepted: 2002-07-01T00:00:00.000Z
+  review_date: 2010-10-12T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2014-11-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19101-1:2014'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19101:2002 to ISO 19101-1:2014.
+    Lineage source added as ISO 19101:2002.
+  release: '1'
+  terms:
+    - type: expression
+      designation: 现行实用标准
+      normative_status: preferred
+  _revisions:
+    current: 96eddf
+    tree:
+      96eddf:
+        object:
+          id: 192
+          definition: 数据生产者和数据用户国际团体正在使用的现存地理信息标准。
+          language_code: zho
+          notes:
+            - GDF、S-57和DIGEST是现行实用标准的实例。
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19101-1:2014'
+            clause: 4.1.17
+            link: 'https://www.iso.org/standard/59164.html'
+          lineage_source: 'ISO 19101:2002'
+          lineage_source_similarity: '1'
+          date_accepted: 2002-07-01T00:00:00.000Z
+          review_date: 2010-10-12T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2014-11-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19101-1:2014'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19101:2002 to ISO
+            19101-1:2014. Lineage source added as ISO 19101:2002.
+          release: '1'
+          terms:
+            - type: expression
+              designation: 现行实用标准
+              normative_status: preferred
+        parents: []
+        timeCreated: 2002-07-01T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+dan:
+  id: 192
+  definition: >-
+    eksisterende geografisk informationsstandard, der bruges aktivt af en
+    international gruppe af dataproducenter og databrugere
+  language_code: dan
+  notes:
+    - 'GDF, S-57 og DIGEST er eksempler på funktionelle standarder.'
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19101-1:2014'
+    clause: 4.1.17
+    link: 'https://www.iso.org/standard/59164.html'
+  lineage_source: 'ISO 19101:2002'
+  lineage_source_similarity: '1'
+  date_accepted: 2002-07-01T00:00:00.000Z
+  review_date: 2010-10-12T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2014-11-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19101-1:2014'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19101:2002 to ISO 19101-1:2014.
+    Lineage source added as ISO 19101:2002.
+  release: '1'
+  terms:
+    - type: expression
+      designation: funktionel standard
+      normative_status: preferred
+  _revisions:
+    current: f9ca34
+    tree:
+      f9ca34:
+        object:
+          id: 192
+          definition: >-
+            eksisterende geografisk informationsstandard, der bruges aktivt af
+            en international gruppe af dataproducenter og databrugere
+          language_code: dan
+          notes:
+            - 'GDF, S-57 og DIGEST er eksempler på funktionelle standarder.'
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19101-1:2014'
+            clause: 4.1.17
+            link: 'https://www.iso.org/standard/59164.html'
+          lineage_source: 'ISO 19101:2002'
+          lineage_source_similarity: '1'
+          date_accepted: 2002-07-01T00:00:00.000Z
+          review_date: 2010-10-12T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2014-11-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19101-1:2014'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19101:2002 to ISO
+            19101-1:2014. Lineage source added as ISO 19101:2002.
+          release: '1'
+          terms:
+            - type: expression
+              designation: funktionel standard
+              normative_status: preferred
+        parents: []
+        timeCreated: 2002-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+fin:
+  id: 192
+  definition: >-
+    tietojärjestelmien yhteentoimivuuden mahdollistamiseksi laadittu ja
+    vahvistettu, käytössä oleva standardi
+  language_code: fin
+  notes:
+    - >-
+      Toiminnallisia standardeja ovat esimerkiksi Geographic Data File (GDF),
+      S-57 ja Digital Geographic Information Exchange Standard (DIGEST).
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19101-1:2014'
+    clause: 4.1.17
+    link: 'https://www.iso.org/standard/59164.html'
+  lineage_source: 'ISO 19101:2002'
+  lineage_source_similarity: '1'
+  date_accepted: 2002-07-01T00:00:00.000Z
+  review_date: 2010-10-12T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2014-11-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19101-1:2014'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19101:2002 to ISO 19101-1:2014.
+    Lineage source added as ISO 19101:2002.
+  release: '1'
+  terms:
+    - type: expression
+      designation: toiminnallinen standardi
+      normative_status: preferred
+  _revisions:
+    current: c369a4
+    tree:
+      c369a4:
+        object:
+          id: 192
+          definition: >-
+            tietojärjestelmien yhteentoimivuuden mahdollistamiseksi laadittu ja
+            vahvistettu, käytössä oleva standardi
+          language_code: fin
+          notes:
+            - >-
+              Toiminnallisia standardeja ovat esimerkiksi Geographic Data File
+              (GDF), S-57 ja Digital Geographic Information Exchange Standard
+              (DIGEST).
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19101-1:2014'
+            clause: 4.1.17
+            link: 'https://www.iso.org/standard/59164.html'
+          lineage_source: 'ISO 19101:2002'
+          lineage_source_similarity: '1'
+          date_accepted: 2002-07-01T00:00:00.000Z
+          review_date: 2010-10-12T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2014-11-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19101-1:2014'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19101:2002 to ISO
+            19101-1:2014. Lineage source added as ISO 19101:2002.
+          release: '1'
+          terms:
+            - type: expression
+              designation: toiminnallinen standardi
+              normative_status: preferred
+        parents: []
+        timeCreated: 2002-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+fra:
+  id: 192
+  definition: >-
+    norme existante pour l'information géographique, en utilisation active par
+    une communauté internationale de producteurs et d'utilisateurs de données
+  language_code: fra
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19101-1:2014'
+    clause: 4.1.17
+    link: 'https://www.iso.org/standard/59164.html'
+  lineage_source: 'ISO 19101:2002'
+  lineage_source_similarity: '1'
+  date_accepted: 2002-07-01T00:00:00.000Z
+  review_date: 2010-10-12T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2014-11-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19101-1:2014'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19101:2002 to ISO 19101-1:2014.
+    Lineage source added as ISO 19101:2002.
+  release: '1'
+  terms:
+    - type: expression
+      designation: norme opératoire
+      normative_status: preferred
+  _revisions:
+    current: ed6722
+    tree:
+      ed6722:
+        object:
+          id: 192
+          definition: >-
+            norme existante pour l'information géographique, en utilisation
+            active par une communauté internationale de producteurs et
+            d'utilisateurs de données
+          language_code: fra
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19101-1:2014'
+            clause: 4.1.17
+            link: 'https://www.iso.org/standard/59164.html'
+          lineage_source: 'ISO 19101:2002'
+          lineage_source_similarity: '1'
+          date_accepted: 2002-07-01T00:00:00.000Z
+          review_date: 2010-10-12T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2014-11-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19101-1:2014'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19101:2002 to ISO
+            19101-1:2014. Lineage source added as ISO 19101:2002.
+          release: '1'
+          terms:
+            - type: expression
+              designation: norme opératoire
+              normative_status: preferred
+        parents: []
+        timeCreated: 2002-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+deu:
+  id: 192
+  language_code: deu
+  notes:
+    - 'GDF, S-57, and DIGEST are examples of functional standards.'
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19101-1:2014'
+    clause: 4.1.17
+    link: 'https://www.iso.org/standard/59164.html'
+  lineage_source: 'ISO 19101:2002'
+  lineage_source_similarity: '1'
+  date_accepted: 2002-07-01T00:00:00.000Z
+  review_date: 2010-10-12T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2014-11-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19101-1:2014'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19101:2002 to ISO 19101-1:2014.
+    Lineage source added as ISO 19101:2002.
+  release: '1'
+  terms:
+    - type: expression
+      designation: Fachstandard
+      normative_status: preferred
+  _revisions:
+    current: e57459
+    tree:
+      e57459:
+        object:
+          id: 192
+          language_code: deu
+          notes:
+            - 'GDF, S-57, and DIGEST are examples of functional standards.'
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19101-1:2014'
+            clause: 4.1.17
+            link: 'https://www.iso.org/standard/59164.html'
+          lineage_source: 'ISO 19101:2002'
+          lineage_source_similarity: '1'
+          date_accepted: 2002-07-01T00:00:00.000Z
+          review_date: 2010-10-12T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2014-11-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19101-1:2014'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19101:2002 to ISO
+            19101-1:2014. Lineage source added as ISO 19101:2002.
+          release: '1'
+          terms:
+            - type: expression
+              designation: Fachstandard
+              normative_status: preferred
+        parents: []
+        timeCreated: 2002-07-01T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+kor:
+  id: 192
+  definition: 국제적 데이터 생산자나 데이터 사용자 커뮤니티가 현재 사용하고 있는 지리 정보 표준
+  language_code: kor
+  notes:
+    - 'GDF, S-57, DIGEST가 사실상 표준의 보기이다.'
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19101-1:2014'
+    clause: 4.1.17
+    link: 'https://www.iso.org/standard/59164.html'
+  lineage_source: 'ISO 19101:2002'
+  lineage_source_similarity: '1'
+  date_accepted: 2008-12-30T00:00:00.000Z
+  review_date: 2010-10-12T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2014-11-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19101-1:2014'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19101:2002 to ISO 19101-1:2014.
+    Lineage source added as ISO 19101:2002.
+  release: '1'
+  terms:
+    - type: expression
+      designation: 사실상 표준
+      normative_status: preferred
+  _revisions:
+    current: 78a434
+    tree:
+      78a434:
+        object:
+          id: 192
+          definition: 국제적 데이터 생산자나 데이터 사용자 커뮤니티가 현재 사용하고 있는 지리 정보 표준
+          language_code: kor
+          notes:
+            - 'GDF, S-57, DIGEST가 사실상 표준의 보기이다.'
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19101-1:2014'
+            clause: 4.1.17
+            link: 'https://www.iso.org/standard/59164.html'
+          lineage_source: 'ISO 19101:2002'
+          lineage_source_similarity: '1'
+          date_accepted: 2008-12-30T00:00:00.000Z
+          review_date: 2010-10-12T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2014-11-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19101-1:2014'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19101:2002 to ISO
+            19101-1:2014. Lineage source added as ISO 19101:2002.
+          release: '1'
+          terms:
+            - type: expression
+              designation: 사실상 표준
+              normative_status: preferred
+        parents: []
+        timeCreated: 2008-12-30T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 192
+  definition: >-
+    существующий стандарт на географическую информацию, активно используемый
+    международным сообществом производителей и потребителей данных
+  language_code: rus
+  notes:
+    - 'Примерами функциональных стандартов являются GDF, S-57 и DIGEST'
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19101-1:2014'
+    clause: 4.1.17
+    link: 'https://www.iso.org/standard/59164.html'
+  lineage_source: 'перевод ИСО 19101-1:2014'
+  lineage_source_similarity: '1'
+  date_accepted: 2002-07-01T00:00:00.000Z
+  review_date: 2010-10-12T00:00:00.000Z
+  review_status: ''
+  review_decision: ''
+  review_decision_date: 2014-11-01T00:00:00.000Z
+  review_decision_event: 'Публикация ИСО19101-1:2014'
+  review_decision_notes: >-
+    Авторитетная ссылка изменена с ISO 19101: 2002 на ISO 19101-1: 2014.
+    Источник происхождения добавлен как ISO 19101: 2002.
+  release: '1'
+  terms:
+    - type: expression
+      designation: функциональный стандарт
+      normative_status: preferred
+  _revisions:
+    current: d2a65c
+    tree:
+      d2a65c:
+        object:
+          id: 192
+          definition: >-
+            существующий стандарт на географическую информацию, активно
+            используемый международным сообществом производителей и потребителей
+            данных
+          language_code: rus
+          notes:
+            - 'Примерами функциональных стандартов являются GDF, S-57 и DIGEST'
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19101-1:2014'
+            clause: 4.1.17
+            link: 'https://www.iso.org/standard/59164.html'
+          lineage_source: 'перевод ИСО 19101-1:2014'
+          lineage_source_similarity: '1'
+          date_accepted: 2002-07-01T00:00:00.000Z
+          review_date: 2010-10-12T00:00:00.000Z
+          review_status: ''
+          review_decision: ''
+          review_decision_date: 2014-11-01T00:00:00.000Z
+          review_decision_event: 'Публикация ИСО19101-1:2014'
+          review_decision_notes: >-
+            Авторитетная ссылка изменена с ISO 19101: 2002 на ISO 19101-1: 2014.
+            Источник происхождения добавлен как ISO 19101: 2002.
+          release: '1'
+          terms:
+            - type: expression
+              designation: функциональный стандарт
+              normative_status: preferred
+        parents: []
+        timeCreated: 2002-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 192
+  definition: >-
+    norma existente de información geográfica, en uso activo por una comunidad
+    internacional de productores de datos y usuarios de datos
+  language_code: spa
+  notes:
+    - 'GDF, S-57 y DIGEST son ejemplos de normas funcionales.'
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19101-1:2014'
+    clause: 4.1.17
+    link: 'https://www.iso.org/standard/59164.html'
+  lineage_source: 'ISO 19101:2002'
+  lineage_source_similarity: '1'
+  date_accepted: 2002-07-01T00:00:00.000Z
+  review_date: 2010-10-12T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2014-11-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19101-1:2014'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19101:2002 to ISO 19101-1:2014.
+    Lineage source added as ISO 19101:2002.
+  release: '1'
+  terms:
+    - type: expression
+      designation: norma funcional
+      normative_status: preferred
+  _revisions:
+    current: 311c70
+    tree:
+      311c70:
+        object:
+          id: 192
+          definition: >-
+            norma existente de información geográfica, en uso activo por una
+            comunidad internacional de productores de datos y usuarios de datos
+          language_code: spa
+          notes:
+            - 'GDF, S-57 y DIGEST son ejemplos de normas funcionales.'
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19101-1:2014'
+            clause: 4.1.17
+            link: 'https://www.iso.org/standard/59164.html'
+          lineage_source: 'ISO 19101:2002'
+          lineage_source_similarity: '1'
+          date_accepted: 2002-07-01T00:00:00.000Z
+          review_date: 2010-10-12T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2014-11-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19101-1:2014'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19101:2002 to ISO
+            19101-1:2014. Lineage source added as ISO 19101:2002.
+          release: '1'
+          terms:
+            - type: expression
+              designation: norma funcional
+              normative_status: preferred
+        parents: []
+        timeCreated: 2002-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+swe:
+  id: 192
+  definition: >-
+    befintlig geodatastandard, aktivt använd av en internationell gemenskap av
+    producenter och användare av data
+  country_code: swe
+  language_code: swe
+  notes:
+    - 'GDF, S-57, and DIGEST are examples of functional standards.'
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19101-1:2014'
+    clause: 4.1.17
+    link: 'https://www.iso.org/standard/59164.html'
+  lineage_source: 'ISO 19101:2002'
+  lineage_source_similarity: '1'
+  date_accepted: 2002-07-01T00:00:00.000Z
+  review_date: 2010-10-12T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2014-11-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19101-1:2014'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19101:2002 to ISO 19101-1:2014.
+    Lineage source added as ISO 19101:2002.
+  release: '1'
+  terms:
+    - type: expression
+      designation: använd geodatastandard
+      normative_status: preferred
+  _revisions:
+    current: dc4ce3
+    tree:
+      dc4ce3:
+        object:
+          id: 192
+          definition: >-
+            befintlig geodatastandard, aktivt använd av en internationell
+            gemenskap av producenter och användare av data
+          country_code: swe
+          language_code: swe
+          notes:
+            - 'GDF, S-57, and DIGEST are examples of functional standards.'
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19101-1:2014'
+            clause: 4.1.17
+            link: 'https://www.iso.org/standard/59164.html'
+          lineage_source: 'ISO 19101:2002'
+          lineage_source_similarity: '1'
+          date_accepted: 2002-07-01T00:00:00.000Z
+          review_date: 2010-10-12T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2014-11-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19101-1:2014'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19101:2002 to ISO
+            19101-1:2014. Lineage source added as ISO 19101:2002.
+          release: '1'
+          terms:
+            - type: expression
+              designation: använd geodatastandard
+              normative_status: preferred
+        parents: []
+        timeCreated: 2002-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

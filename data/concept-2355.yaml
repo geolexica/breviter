@@ -1,0 +1,70 @@
+term: coordinate tuple
+termid: 2355
+eng:
+  id: 2355
+  definition: tuple composed of coordinates
+  language_code: eng
+  notes:
+    - >-
+      The number of coordinates in the coordinate tuple equals the dimension of
+      the coordinate system; the order of coordinates in the coordinate tuple is
+      identical to the order of the axes of the coordinate system.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19111:2019'
+    clause: '(E), 3.1.13'
+    link: 'https://www.iso.org/standard/74039.html'
+  date_accepted: 2019-01-31T00:00:00.000Z
+  review_date: 2019-01-31T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2019-01-31T00:00:00.000Z
+  review_decision_event: 'Publication of document ISO 19111:2019(E)'
+  review_decision_notes: 'This entry supersedes the entry for coordinate tuple in ISO 19111:2007(E)'
+  release: '5'
+  terms:
+    - type: expression
+      designation: coordinate tuple
+      normative_status: preferred
+  _revisions:
+    current: b7b21a
+    tree:
+      b7b21a:
+        object:
+          id: 2355
+          definition: tuple composed of coordinates
+          language_code: eng
+          notes:
+            - >-
+              The number of coordinates in the coordinate tuple equals the
+              dimension of the coordinate system; the order of coordinates in
+              the coordinate tuple is identical to the order of the axes of the
+              coordinate system.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19111:2019'
+            clause: '(E), 3.1.13'
+            link: 'https://www.iso.org/standard/74039.html'
+          date_accepted: 2019-01-31T00:00:00.000Z
+          review_date: 2019-01-31T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2019-01-31T00:00:00.000Z
+          review_decision_event: 'Publication of document ISO 19111:2019(E)'
+          review_decision_notes: >-
+            This entry supersedes the entry for coordinate tuple in ISO
+            19111:2007(E)
+          release: '5'
+          terms:
+            - type: expression
+              designation: coordinate tuple
+              normative_status: preferred
+        parents: []
+        timeCreated: 2019-01-31T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

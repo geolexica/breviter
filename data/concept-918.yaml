@@ -1,0 +1,260 @@
+term: matrix
+termid: 918
+eng:
+  id: 918
+  definition: rectangular array of numbers
+  language_code: eng
+  notes:
+    - A matrix is a mathematical term
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO/TS 19129:2009'
+    link: 'https://www.iso.org/standard/43041.html'
+  date_accepted: 2009-04-01T00:00:00.000Z
+  release: '2'
+  terms:
+    - type: expression
+      designation: matrix
+      normative_status: preferred
+  _revisions:
+    current: 8b0464
+    tree:
+      8b0464:
+        object:
+          id: 918
+          definition: rectangular array of numbers
+          language_code: eng
+          notes:
+            - A matrix is a mathematical term
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO/TS 19129:2009'
+            link: 'https://www.iso.org/standard/43041.html'
+          date_accepted: 2009-04-01T00:00:00.000Z
+          release: '2'
+          terms:
+            - type: expression
+              designation: matrix
+              normative_status: preferred
+        parents: []
+        timeCreated: 2009-04-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+ara:
+  id: 918
+  definition: نسق مستطيل من الارقام
+  language_code: ara
+  notes:
+    - المصفوفة مصطلح خاص بعلم الرياضيات.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO/TS 19129:2009'
+    link: 'https://www.iso.org/standard/43041.html'
+  date_accepted: 2009-04-01T00:00:00.000Z
+  release: '2'
+  terms:
+    - type: expression
+      designation: مصفوفة
+      normative_status: preferred
+  _revisions:
+    current: 9541c3
+    tree:
+      9541c3:
+        object:
+          id: 918
+          definition: نسق مستطيل من الارقام
+          language_code: ara
+          notes:
+            - المصفوفة مصطلح خاص بعلم الرياضيات.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO/TS 19129:2009'
+            link: 'https://www.iso.org/standard/43041.html'
+          date_accepted: 2009-04-01T00:00:00.000Z
+          release: '2'
+          terms:
+            - type: expression
+              designation: مصفوفة
+              normative_status: preferred
+        parents: []
+        timeCreated: 2009-04-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+deu:
+  id: 918
+  language_code: deu
+  notes:
+    - A matrix is a mathematical term
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO/TS 19129:2009'
+    link: 'https://www.iso.org/standard/43041.html'
+  date_accepted: 2009-04-01T00:00:00.000Z
+  release: '2'
+  terms:
+    - type: expression
+      designation: Matrix
+      normative_status: preferred
+  _revisions:
+    current: bc1287
+    tree:
+      bc1287:
+        object:
+          id: 918
+          language_code: deu
+          notes:
+            - A matrix is a mathematical term
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO/TS 19129:2009'
+            link: 'https://www.iso.org/standard/43041.html'
+          date_accepted: 2009-04-01T00:00:00.000Z
+          release: '2'
+          terms:
+            - type: expression
+              designation: Matrix
+              normative_status: preferred
+        parents: []
+        timeCreated: 2009-04-01T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+kor:
+  id: 918
+  definition: 숫자들을 사각내에 배열한 것
+  language_code: kor
+  notes:
+    - A matrix is a mathematical term
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO/TS 19129:2009'
+    link: 'https://www.iso.org/standard/43041.html'
+  date_accepted: 2009-04-01T00:00:00.000Z
+  release: '2'
+  terms:
+    - type: expression
+      designation: 행렬
+      normative_status: preferred
+  _revisions:
+    current: '534327'
+    tree:
+      '534327':
+        object:
+          id: 918
+          definition: 숫자들을 사각내에 배열한 것
+          language_code: kor
+          notes:
+            - A matrix is a mathematical term
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO/TS 19129:2009'
+            link: 'https://www.iso.org/standard/43041.html'
+          date_accepted: 2009-04-01T00:00:00.000Z
+          release: '2'
+          terms:
+            - type: expression
+              designation: 행렬
+              normative_status: preferred
+        parents: []
+        timeCreated: 2009-04-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 918
+  definition: прямоугольный массив чисел
+  language_code: rus
+  notes:
+    - матрица - математический термин
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO/TS 19129:2009'
+    link: 'https://www.iso.org/standard/43041.html'
+  lineage_source: 'перевод ИСО/ТС 19129:2009'
+  date_accepted: 2009-04-01T00:00:00.000Z
+  release: '2'
+  terms:
+    - type: expression
+      designation: матрица
+      normative_status: preferred
+  _revisions:
+    current: a7311a
+    tree:
+      a7311a:
+        object:
+          id: 918
+          definition: прямоугольный массив чисел
+          language_code: rus
+          notes:
+            - матрица - математический термин
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO/TS 19129:2009'
+            link: 'https://www.iso.org/standard/43041.html'
+          lineage_source: 'перевод ИСО/ТС 19129:2009'
+          date_accepted: 2009-04-01T00:00:00.000Z
+          release: '2'
+          terms:
+            - type: expression
+              designation: матрица
+              normative_status: preferred
+        parents: []
+        timeCreated: 2009-04-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 918
+  definition: arreglo rectangular de números
+  language_code: spa
+  notes:
+    - Una matriz es un término matemático
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO/TS 19129:2009'
+    link: 'https://www.iso.org/standard/43041.html'
+  date_accepted: 2009-04-01T00:00:00.000Z
+  release: '2'
+  terms:
+    - type: expression
+      designation: matriz
+      normative_status: preferred
+  _revisions:
+    current: f2d799
+    tree:
+      f2d799:
+        object:
+          id: 918
+          definition: arreglo rectangular de números
+          language_code: spa
+          notes:
+            - Una matriz es un término matemático
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO/TS 19129:2009'
+            link: 'https://www.iso.org/standard/43041.html'
+          date_accepted: 2009-04-01T00:00:00.000Z
+          release: '2'
+          terms:
+            - type: expression
+              designation: matriz
+              normative_status: preferred
+        parents: []
+        timeCreated: 2009-04-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

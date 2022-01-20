@@ -1,0 +1,798 @@
+term: actor <UML>
+termid: 9
+eng:
+  id: 9
+  definition: >-
+    coherent set of roles that users of use cases play when interacting with
+    these use cases
+  language_code: eng
+  notes:
+    - >-
+      An actor may be considered to play a separate role with regard to each use
+      case with which it communicates.
+  examples: []
+  entry_status: retired
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO/IEC 19501:2005 '
+    clause: (Adapted from)
+    link: 'https://www.iso.org/standard/32620.html'
+  lineage_source: 'ISO/TS 19103:2005'
+  lineage_source_similarity: 1
+  date_accepted: 2005-07-15T00:00:00.000Z
+  date_amended: 2015-12-01T00:00:00.000Z
+  review_date: 2009-01-14T00:00:00.000Z
+  review_status: final
+  review_type: retirement
+  review_decision: accepted
+  review_decision_date: 2015-12-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19103:2015'
+  review_decision_notes: 'The entry has been omitted from the superseding standard  (ISO 19103:2015).'
+  release: '-1'
+  terms:
+    - type: expression
+      designation: actor <UML>
+      normative_status: null
+  _revisions:
+    current: 3c0e25
+    tree:
+      3c0e25:
+        object:
+          id: 9
+          definition: >-
+            coherent set of roles that users of use cases play when interacting
+            with these use cases
+          language_code: eng
+          notes:
+            - >-
+              An actor may be considered to play a separate role with regard to
+              each use case with which it communicates.
+          examples: []
+          entry_status: retired
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO/IEC 19501:2005 '
+            clause: (Adapted from)
+            link: 'https://www.iso.org/standard/32620.html'
+          lineage_source: 'ISO/TS 19103:2005'
+          lineage_source_similarity: 1
+          date_accepted: 2005-07-15T00:00:00.000Z
+          date_amended: 2015-12-01T00:00:00.000Z
+          review_date: 2009-01-14T00:00:00.000Z
+          review_status: final
+          review_type: retirement
+          review_decision: accepted
+          review_decision_date: 2015-12-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19103:2015'
+          review_decision_notes: >-
+            The entry has been omitted from the superseding standard  (ISO
+            19103:2015).
+          release: '-1'
+          terms:
+            - type: expression
+              designation: actor <UML>
+              normative_status: null
+        parents: []
+        timeCreated: 2005-07-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+ara:
+  id: 9
+  definition: >-
+    مجموعة أدوار مترابطة منطقيا يقوم بها مستخدمو أدوات النمذجة عند التفاعل معها
+    .
+  language_code: ara
+  notes:
+    - >-
+      يمكن النظر إلى الفاعل أو العامل " أكْتور " على أنه يستطيع القيام بدور
+      منفصل فيما يخص كل حالة استخدام يتواصل معها
+  examples: []
+  entry_status: retired
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO/IEC 19501:2005 '
+    clause: (Adapted from)
+    link: 'https://www.iso.org/standard/32620.html'
+  lineage_source: 'ISO/TS 19103:2005'
+  lineage_source_similarity: 1
+  date_accepted: 2005-07-15T00:00:00.000Z
+  date_amended: 2015-12-01T00:00:00.000Z
+  review_date: 2009-01-14T00:00:00.000Z
+  review_status: final
+  review_type: retirement
+  review_decision: accepted
+  review_decision_date: 2015-12-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19103:2015'
+  review_decision_notes: 'The entry has been omitted from the superseding standard  (ISO 19103:2015).'
+  release: '-1'
+  terms:
+    - type: expression
+      designation: لغة "الممثل" UML
+      normative_status: null
+  _revisions:
+    current: 0dbbd9
+    tree:
+      0dbbd9:
+        object:
+          id: 9
+          definition: >-
+            مجموعة أدوار مترابطة منطقيا يقوم بها مستخدمو أدوات النمذجة عند
+            التفاعل معها .
+          language_code: ara
+          notes:
+            - >-
+              يمكن النظر إلى الفاعل أو العامل " أكْتور " على أنه يستطيع القيام
+              بدور منفصل فيما يخص كل حالة استخدام يتواصل معها
+          examples: []
+          entry_status: retired
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO/IEC 19501:2005 '
+            clause: (Adapted from)
+            link: 'https://www.iso.org/standard/32620.html'
+          lineage_source: 'ISO/TS 19103:2005'
+          lineage_source_similarity: 1
+          date_accepted: 2005-07-15T00:00:00.000Z
+          date_amended: 2015-12-01T00:00:00.000Z
+          review_date: 2009-01-14T00:00:00.000Z
+          review_status: final
+          review_type: retirement
+          review_decision: accepted
+          review_decision_date: 2015-12-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19103:2015'
+          review_decision_notes: >-
+            The entry has been omitted from the superseding standard  (ISO
+            19103:2015).
+          release: '-1'
+          terms:
+            - type: expression
+              designation: لغة "الممثل" UML
+              normative_status: null
+        parents: []
+        timeCreated: 2005-07-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+zho:
+  id: 9
+  definition: <UML>当用例的用户与这些用例交互时，所扮演的相关角色的集合。
+  language_code: zho
+  notes:
+    - 在每个用例的交互中，参与者可扮演不同的角色。
+  examples: []
+  entry_status: retired
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO/IEC 19501:2005 '
+    clause: (Adapted from)
+    link: 'https://www.iso.org/standard/32620.html'
+  lineage_source: 'ISO/TS 19103:2005'
+  lineage_source_similarity: 1
+  date_accepted: 2005-07-15T00:00:00.000Z
+  date_amended: 2015-12-01T00:00:00.000Z
+  review_date: 2009-01-14T00:00:00.000Z
+  review_status: final
+  review_type: retirement
+  review_decision: accepted
+  review_decision_date: 2015-12-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19103:2015'
+  review_decision_notes: 'The entry has been omitted from the superseding standard  (ISO 19103:2015).'
+  release: '-1'
+  terms:
+    - type: expression
+      designation: 参与者<UML>
+      normative_status: null
+  _revisions:
+    current: a70877
+    tree:
+      a70877:
+        object:
+          id: 9
+          definition: <UML>当用例的用户与这些用例交互时，所扮演的相关角色的集合。
+          language_code: zho
+          notes:
+            - 在每个用例的交互中，参与者可扮演不同的角色。
+          examples: []
+          entry_status: retired
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO/IEC 19501:2005 '
+            clause: (Adapted from)
+            link: 'https://www.iso.org/standard/32620.html'
+          lineage_source: 'ISO/TS 19103:2005'
+          lineage_source_similarity: 1
+          date_accepted: 2005-07-15T00:00:00.000Z
+          date_amended: 2015-12-01T00:00:00.000Z
+          review_date: 2009-01-14T00:00:00.000Z
+          review_status: final
+          review_type: retirement
+          review_decision: accepted
+          review_decision_date: 2015-12-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19103:2015'
+          review_decision_notes: >-
+            The entry has been omitted from the superseding standard  (ISO
+            19103:2015).
+          release: '-1'
+          terms:
+            - type: expression
+              designation: 参与者<UML>
+              normative_status: null
+        parents: []
+        timeCreated: 2005-07-15T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+dan:
+  id: 9
+  definition: >-
+    sammenhængende sæt af roller, som brugere af use cases spiller i forhold til
+    disse use cases
+  language_code: dan
+  notes:
+    - >-
+      En aktør kan anses for at spille en forskellig rolle i hver use case, som
+      vedkommende er med i.
+  examples: []
+  entry_status: retired
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO/IEC 19501:2005 '
+    clause: (Adapted from)
+    link: 'https://www.iso.org/standard/32620.html'
+  lineage_source: 'ISO/TS 19103:2005'
+  lineage_source_similarity: 1
+  date_accepted: 2005-07-15T00:00:00.000Z
+  date_amended: 2015-12-01T00:00:00.000Z
+  review_date: 2009-01-14T00:00:00.000Z
+  review_status: final
+  review_type: retirement
+  review_decision: accepted
+  review_decision_date: 2015-12-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19103:2015'
+  review_decision_notes: 'The entry has been omitted from the superseding standard  (ISO 19103:2015).'
+  release: '-1'
+  terms:
+    - type: expression
+      designation: aktør <UML>
+      normative_status: null
+  _revisions:
+    current: c24dc8
+    tree:
+      c24dc8:
+        object:
+          id: 9
+          definition: >-
+            sammenhængende sæt af roller, som brugere af use cases spiller i
+            forhold til disse use cases
+          language_code: dan
+          notes:
+            - >-
+              En aktør kan anses for at spille en forskellig rolle i hver use
+              case, som vedkommende er med i.
+          examples: []
+          entry_status: retired
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO/IEC 19501:2005 '
+            clause: (Adapted from)
+            link: 'https://www.iso.org/standard/32620.html'
+          lineage_source: 'ISO/TS 19103:2005'
+          lineage_source_similarity: 1
+          date_accepted: 2005-07-15T00:00:00.000Z
+          date_amended: 2015-12-01T00:00:00.000Z
+          review_date: 2009-01-14T00:00:00.000Z
+          review_status: final
+          review_type: retirement
+          review_decision: accepted
+          review_decision_date: 2015-12-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19103:2015'
+          review_decision_notes: >-
+            The entry has been omitted from the superseding standard  (ISO
+            19103:2015).
+          release: '-1'
+          terms:
+            - type: expression
+              designation: aktør <UML>
+              normative_status: null
+        parents: []
+        timeCreated: 2005-07-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+fin:
+  id: 9
+  definition: 'yhtenäinen joukko rooleja, joita käyttäjillä on käyttötapausten toiminnoissa'
+  language_code: fin
+  notes:
+    - Toimijalla voi olla eri rooleja suhteessa kuhunkin käyttötapaukseen.
+  examples: []
+  entry_status: retired
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO/IEC 19501:2005 '
+    clause: (Adapted from)
+    link: 'https://www.iso.org/standard/32620.html'
+  lineage_source: 'ISO/TS 19103:2005'
+  lineage_source_similarity: 1
+  date_accepted: 2005-07-15T00:00:00.000Z
+  date_amended: 2015-12-01T00:00:00.000Z
+  review_date: 2009-01-14T00:00:00.000Z
+  review_status: final
+  review_type: retirement
+  review_decision: accepted
+  review_decision_date: 2015-12-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19103:2015'
+  review_decision_notes: 'The entry has been omitted from the superseding standard  (ISO 19103:2015).'
+  release: '-1'
+  terms:
+    - type: expression
+      designation: toimija <UML>
+      normative_status: null
+  _revisions:
+    current: af49ab
+    tree:
+      af49ab:
+        object:
+          id: 9
+          definition: >-
+            yhtenäinen joukko rooleja, joita käyttäjillä on käyttötapausten
+            toiminnoissa
+          language_code: fin
+          notes:
+            - >-
+              Toimijalla voi olla eri rooleja suhteessa kuhunkin
+              käyttötapaukseen.
+          examples: []
+          entry_status: retired
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO/IEC 19501:2005 '
+            clause: (Adapted from)
+            link: 'https://www.iso.org/standard/32620.html'
+          lineage_source: 'ISO/TS 19103:2005'
+          lineage_source_similarity: 1
+          date_accepted: 2005-07-15T00:00:00.000Z
+          date_amended: 2015-12-01T00:00:00.000Z
+          review_date: 2009-01-14T00:00:00.000Z
+          review_status: final
+          review_type: retirement
+          review_decision: accepted
+          review_decision_date: 2015-12-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19103:2015'
+          review_decision_notes: >-
+            The entry has been omitted from the superseding standard  (ISO
+            19103:2015).
+          release: '-1'
+          terms:
+            - type: expression
+              designation: toimija <UML>
+              normative_status: null
+        parents: []
+        timeCreated: 2005-07-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+fra:
+  id: 9
+  definition: >-
+    ensemble cohérent de rôles que les utilisateurs de cas d'utilisation jouent
+    en interagissant avec ces cas d'utilisation
+  language_code: fra
+  notes: []
+  examples: []
+  entry_status: retired
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO/IEC 19501:2005 '
+    clause: (Adapted from)
+    link: 'https://www.iso.org/standard/32620.html'
+  lineage_source: 'ISO/TS 19103:2005'
+  lineage_source_similarity: 1
+  date_accepted: 2005-07-15T00:00:00.000Z
+  date_amended: 2015-12-01T00:00:00.000Z
+  review_date: 2009-01-14T00:00:00.000Z
+  review_status: final
+  review_type: retirement
+  review_decision: accepted
+  review_decision_date: 2015-12-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19103:2015'
+  review_decision_notes: 'The entry has been omitted from the superseding standard  (ISO 19103:2015).'
+  release: '-1'
+  terms:
+    - type: expression
+      designation: acteur <UML>
+      normative_status: null
+  _revisions:
+    current: 84d574
+    tree:
+      84d574:
+        object:
+          id: 9
+          definition: >-
+            ensemble cohérent de rôles que les utilisateurs de cas d'utilisation
+            jouent en interagissant avec ces cas d'utilisation
+          language_code: fra
+          notes: []
+          examples: []
+          entry_status: retired
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO/IEC 19501:2005 '
+            clause: (Adapted from)
+            link: 'https://www.iso.org/standard/32620.html'
+          lineage_source: 'ISO/TS 19103:2005'
+          lineage_source_similarity: 1
+          date_accepted: 2005-07-15T00:00:00.000Z
+          date_amended: 2015-12-01T00:00:00.000Z
+          review_date: 2009-01-14T00:00:00.000Z
+          review_status: final
+          review_type: retirement
+          review_decision: accepted
+          review_decision_date: 2015-12-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19103:2015'
+          review_decision_notes: >-
+            The entry has been omitted from the superseding standard  (ISO
+            19103:2015).
+          release: '-1'
+          terms:
+            - type: expression
+              designation: acteur <UML>
+              normative_status: null
+        parents: []
+        timeCreated: 2005-07-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+deu:
+  id: 9
+  language_code: deu
+  notes:
+    - >-
+      An actor may be considered to play a separate role with regard to each use
+      case with which it communicates.
+  examples: []
+  entry_status: retired
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO/IEC 19501:2005 '
+    clause: (Adapted from)
+    link: 'https://www.iso.org/standard/32620.html'
+  lineage_source: 'ISO/TS 19103:2005'
+  lineage_source_similarity: 1
+  date_accepted: 2005-07-15T00:00:00.000Z
+  date_amended: 2015-12-01T00:00:00.000Z
+  review_date: 2009-01-14T00:00:00.000Z
+  review_status: final
+  review_type: retirement
+  review_decision: accepted
+  review_decision_date: 2015-12-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19103:2015'
+  review_decision_notes: 'The entry has been omitted from the superseding standard  (ISO 19103:2015).'
+  release: '-1'
+  terms:
+    - type: expression
+      designation: Akteur <UML>
+      normative_status: null
+  _revisions:
+    current: ded04b
+    tree:
+      ded04b:
+        object:
+          id: 9
+          language_code: deu
+          notes:
+            - >-
+              An actor may be considered to play a separate role with regard to
+              each use case with which it communicates.
+          examples: []
+          entry_status: retired
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO/IEC 19501:2005 '
+            clause: (Adapted from)
+            link: 'https://www.iso.org/standard/32620.html'
+          lineage_source: 'ISO/TS 19103:2005'
+          lineage_source_similarity: 1
+          date_accepted: 2005-07-15T00:00:00.000Z
+          date_amended: 2015-12-01T00:00:00.000Z
+          review_date: 2009-01-14T00:00:00.000Z
+          review_status: final
+          review_type: retirement
+          review_decision: accepted
+          review_decision_date: 2015-12-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19103:2015'
+          review_decision_notes: >-
+            The entry has been omitted from the superseding standard  (ISO
+            19103:2015).
+          release: '-1'
+          terms:
+            - type: expression
+              designation: Akteur <UML>
+              normative_status: null
+        parents: []
+        timeCreated: 2005-07-15T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+kor:
+  id: 9
+  definition: '유즈 케이스와 상호 작용 시, 그 유즈 케이스의 사용자가 수행하는 역할의 집합'
+  language_code: kor
+  notes:
+    - 행위자는 유즈 케이스 별로 별도의 역할을 수행하는 것으로 정의될 수 있다.
+  examples: []
+  entry_status: retired
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO/IEC 19501:2005 '
+    clause: (Adapted from)
+    link: 'https://www.iso.org/standard/32620.html'
+  lineage_source: 'ISO/TS 19103:2005'
+  lineage_source_similarity: 1
+  date_accepted: 2005-07-15T00:00:00.000Z
+  date_amended: 2015-12-01T00:00:00.000Z
+  review_date: 2009-01-14T00:00:00.000Z
+  review_status: final
+  review_type: retirement
+  review_decision: accepted
+  review_decision_date: 2015-12-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19103:2015'
+  review_decision_notes: 'The entry has been omitted from the superseding standard  (ISO 19103:2015).'
+  release: '-1'
+  terms:
+    - type: expression
+      designation: 행위자 <UML>
+      normative_status: null
+  _revisions:
+    current: 36023e
+    tree:
+      36023e:
+        object:
+          id: 9
+          definition: '유즈 케이스와 상호 작용 시, 그 유즈 케이스의 사용자가 수행하는 역할의 집합'
+          language_code: kor
+          notes:
+            - 행위자는 유즈 케이스 별로 별도의 역할을 수행하는 것으로 정의될 수 있다.
+          examples: []
+          entry_status: retired
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO/IEC 19501:2005 '
+            clause: (Adapted from)
+            link: 'https://www.iso.org/standard/32620.html'
+          lineage_source: 'ISO/TS 19103:2005'
+          lineage_source_similarity: 1
+          date_accepted: 2005-07-15T00:00:00.000Z
+          date_amended: 2015-12-01T00:00:00.000Z
+          review_date: 2009-01-14T00:00:00.000Z
+          review_status: final
+          review_type: retirement
+          review_decision: accepted
+          review_decision_date: 2015-12-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19103:2015'
+          review_decision_notes: >-
+            The entry has been omitted from the superseding standard  (ISO
+            19103:2015).
+          release: '-1'
+          terms:
+            - type: expression
+              designation: 행위자 <UML>
+              normative_status: null
+        parents: []
+        timeCreated: 2005-07-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 9
+  definition: >-
+    множество логически связанных  ролей, выполняемых пользователями вариантов
+    использования при взаимодействии с  ними
+  language_code: rus
+  notes:
+    - >-
+      Предполагается, что действующее лицо может играть особую роль по отношению
+      к каждому варианту использования, с которым оно взаимодействует
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO/IEC 19501:2005 '
+    clause: (Adapted from)
+    link: 'https://www.iso.org/standard/32620.html'
+  lineage_source: Internet
+  date_accepted: 2005-07-15T00:00:00.000Z
+  terms:
+    - type: expression
+      designation: действующее лицо <UML>
+      normative_status: preferred
+  _revisions:
+    current: 3f020f
+    tree:
+      3f020f:
+        object:
+          id: 9
+          definition: >-
+            множество логически связанных  ролей, выполняемых пользователями
+            вариантов использования при взаимодействии с  ними
+          language_code: rus
+          notes:
+            - >-
+              Предполагается, что действующее лицо может играть особую роль по
+              отношению к каждому варианту использования, с которым оно
+              взаимодействует
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO/IEC 19501:2005 '
+            clause: (Adapted from)
+            link: 'https://www.iso.org/standard/32620.html'
+          lineage_source: Internet
+          date_accepted: 2005-07-15T00:00:00.000Z
+          terms:
+            - type: expression
+              designation: действующее лицо <UML>
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-07-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 9
+  definition: >-
+    conjunto coherente de roles que los usuarios de unos casos de uso juegan
+    cuando interaccionan con esos casos de uso
+  language_code: spa
+  notes:
+    - >-
+      Un actor puede considerarse que juega un papel separado con respecto a
+      cada caso de uso con el cuál se comunica.
+  examples: []
+  entry_status: retired
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO/IEC 19501:2005 '
+    clause: (Adapted from)
+    link: 'https://www.iso.org/standard/32620.html'
+  lineage_source: 'ISO/TS 19103:2005'
+  lineage_source_similarity: 1
+  date_accepted: 2005-07-15T00:00:00.000Z
+  date_amended: 2015-12-01T00:00:00.000Z
+  review_date: 2009-01-14T00:00:00.000Z
+  review_status: final
+  review_type: retirement
+  review_decision: accepted
+  review_decision_date: 2015-12-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19103:2015'
+  review_decision_notes: 'The entry has been omitted from the superseding standard  (ISO 19103:2015).'
+  release: '-1'
+  terms:
+    - type: expression
+      designation: actor <UML>
+      normative_status: null
+  _revisions:
+    current: d55e80
+    tree:
+      d55e80:
+        object:
+          id: 9
+          definition: >-
+            conjunto coherente de roles que los usuarios de unos casos de uso
+            juegan cuando interaccionan con esos casos de uso
+          language_code: spa
+          notes:
+            - >-
+              Un actor puede considerarse que juega un papel separado con
+              respecto a cada caso de uso con el cuál se comunica.
+          examples: []
+          entry_status: retired
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO/IEC 19501:2005 '
+            clause: (Adapted from)
+            link: 'https://www.iso.org/standard/32620.html'
+          lineage_source: 'ISO/TS 19103:2005'
+          lineage_source_similarity: 1
+          date_accepted: 2005-07-15T00:00:00.000Z
+          date_amended: 2015-12-01T00:00:00.000Z
+          review_date: 2009-01-14T00:00:00.000Z
+          review_status: final
+          review_type: retirement
+          review_decision: accepted
+          review_decision_date: 2015-12-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19103:2015'
+          review_decision_notes: >-
+            The entry has been omitted from the superseding standard  (ISO
+            19103:2015).
+          release: '-1'
+          terms:
+            - type: expression
+              designation: actor <UML>
+              normative_status: null
+        parents: []
+        timeCreated: 2005-07-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+swe:
+  id: 9
+  definition: >-
+    något utanför ett system som växelverkar med systemet genom att delta i ett
+    användningsfall
+  country_code: swe
+  language_code: swe
+  notes:
+    - >-
+      Aktörer kan i verkligheten vara människor (till exempel användare av
+      systemet), andra datorsystem eller yttre händelser.
+  examples: []
+  entry_status: retired
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO/IEC 19501:2005 '
+    clause: (Adapted from)
+    link: 'https://www.iso.org/standard/32620.html'
+  lineage_source: 'ISO/TS 19103:2005'
+  lineage_source_similarity: 1
+  date_accepted: 2005-07-15T00:00:00.000Z
+  date_amended: 2015-12-01T00:00:00.000Z
+  review_date: 2009-01-14T00:00:00.000Z
+  review_status: final
+  review_type: retirement
+  review_decision: accepted
+  review_decision_date: 2015-12-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19103:2015'
+  review_decision_notes: 'The entry has been omitted from the superseding standard  (ISO 19103:2015).'
+  release: '-1'
+  terms:
+    - type: expression
+      designation: aktör <UML>
+      normative_status: null
+  _revisions:
+    current: 99a7dc
+    tree:
+      99a7dc:
+        object:
+          id: 9
+          definition: >-
+            något utanför ett system som växelverkar med systemet genom att
+            delta i ett användningsfall
+          country_code: swe
+          language_code: swe
+          notes:
+            - >-
+              Aktörer kan i verkligheten vara människor (till exempel användare
+              av systemet), andra datorsystem eller yttre händelser.
+          examples: []
+          entry_status: retired
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO/IEC 19501:2005 '
+            clause: (Adapted from)
+            link: 'https://www.iso.org/standard/32620.html'
+          lineage_source: 'ISO/TS 19103:2005'
+          lineage_source_similarity: 1
+          date_accepted: 2005-07-15T00:00:00.000Z
+          date_amended: 2015-12-01T00:00:00.000Z
+          review_date: 2009-01-14T00:00:00.000Z
+          review_status: final
+          review_type: retirement
+          review_decision: accepted
+          review_decision_date: 2015-12-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19103:2015'
+          review_decision_notes: >-
+            The entry has been omitted from the superseding standard  (ISO
+            19103:2015).
+          release: '-1'
+          terms:
+            - type: expression
+              designation: aktör <UML>
+              normative_status: null
+        parents: []
+        timeCreated: 2005-07-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

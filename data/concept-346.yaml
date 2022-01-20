@@ -1,0 +1,735 @@
+term: portrayal specification
+termid: 346
+eng:
+  id: 346
+  definition: collection of operations applied to the feature instance to portray it
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: retired
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19117:2005'
+    clause: '4.18'
+    link: 'https://www.iso.org/standard/40395.html'
+  lineage_source: ''
+  lineage_source_similarity: 0
+  date_accepted: 2005-06-01T00:00:00.000Z
+  date_amended: 2012-12-15T00:00:00.000Z
+  review_date: 2012-12-15T00:00:00.000Z
+  review_status: final
+  review_type: retirement
+  review_decision: accepted
+  review_decision_date: 2012-12-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19117:2012'
+  review_decision_notes: 'The entry has been omitted from the superseding standard  (ISO 19117:2012).'
+  release: '-1'
+  terms:
+    - type: expression
+      designation: portrayal specification
+      normative_status: null
+  _revisions:
+    current: 2d8ea2
+    tree:
+      2d8ea2:
+        object:
+          id: 346
+          definition: >-
+            collection of operations applied to the feature instance to portray
+            it
+          language_code: eng
+          notes: []
+          examples: []
+          entry_status: retired
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19117:2005'
+            clause: '4.18'
+            link: 'https://www.iso.org/standard/40395.html'
+          lineage_source: ''
+          lineage_source_similarity: 0
+          date_accepted: 2005-06-01T00:00:00.000Z
+          date_amended: 2012-12-15T00:00:00.000Z
+          review_date: 2012-12-15T00:00:00.000Z
+          review_status: final
+          review_type: retirement
+          review_decision: accepted
+          review_decision_date: 2012-12-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19117:2012'
+          review_decision_notes: >-
+            The entry has been omitted from the superseding standard  (ISO
+            19117:2012).
+          release: '-1'
+          terms:
+            - type: expression
+              designation: portrayal specification
+              normative_status: null
+        parents: []
+        timeCreated: 2005-06-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+ara:
+  id: 346
+  definition: مجموعة عمليات تطبق على نموذج المعلم لعرضه
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: retired
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19117:2005'
+    clause: '4.18'
+    link: 'https://www.iso.org/standard/40395.html'
+  date_accepted: 2005-06-01T00:00:00.000Z
+  date_amended: 2012-12-15T00:00:00.000Z
+  review_date: 2012-12-15T00:00:00.000Z
+  review_status: final
+  review_type: retirement
+  review_decision: accepted
+  review_decision_date: 2012-12-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19117:2012'
+  review_decision_notes: 'The entry has been omitted from the superseding standard  (ISO 19117:2012).'
+  release: '-1'
+  terms:
+    - type: expression
+      designation: مواصفات العرض
+      normative_status: null
+  _revisions:
+    current: cbf351
+    tree:
+      cbf351:
+        object:
+          id: 346
+          definition: مجموعة عمليات تطبق على نموذج المعلم لعرضه
+          language_code: ara
+          notes: []
+          examples: []
+          entry_status: retired
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19117:2005'
+            clause: '4.18'
+            link: 'https://www.iso.org/standard/40395.html'
+          date_accepted: 2005-06-01T00:00:00.000Z
+          date_amended: 2012-12-15T00:00:00.000Z
+          review_date: 2012-12-15T00:00:00.000Z
+          review_status: final
+          review_type: retirement
+          review_decision: accepted
+          review_decision_date: 2012-12-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19117:2012'
+          review_decision_notes: >-
+            The entry has been omitted from the superseding standard  (ISO
+            19117:2012).
+          release: '-1'
+          terms:
+            - type: expression
+              designation: مواصفات العرض
+              normative_status: null
+        parents: []
+        timeCreated: 2005-06-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+zho:
+  id: 346
+  definition: 适用于要素实例图示表达的操作集合。
+  language_code: zho
+  notes: []
+  examples: []
+  entry_status: retired
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19117:2005'
+    clause: '4.18'
+    link: 'https://www.iso.org/standard/40395.html'
+  lineage_source: ''
+  date_accepted: 2005-06-01T00:00:00.000Z
+  date_amended: 2012-12-15T00:00:00.000Z
+  review_date: 2012-12-15T00:00:00.000Z
+  review_status: final
+  review_type: retirement
+  review_decision: accepted
+  review_decision_date: 2012-12-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19117:2012'
+  review_decision_notes: 'The entry has been omitted from the superseding standard  (ISO 19117:2012).'
+  release: '-1'
+  terms:
+    - type: expression
+      designation: 图示表达规范
+      normative_status: null
+  _revisions:
+    current: 5acddc
+    tree:
+      5acddc:
+        object:
+          id: 346
+          definition: 适用于要素实例图示表达的操作集合。
+          language_code: zho
+          notes: []
+          examples: []
+          entry_status: retired
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19117:2005'
+            clause: '4.18'
+            link: 'https://www.iso.org/standard/40395.html'
+          lineage_source: ''
+          date_accepted: 2005-06-01T00:00:00.000Z
+          date_amended: 2012-12-15T00:00:00.000Z
+          review_date: 2012-12-15T00:00:00.000Z
+          review_status: final
+          review_type: retirement
+          review_decision: accepted
+          review_decision_date: 2012-12-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19117:2012'
+          review_decision_notes: >-
+            The entry has been omitted from the superseding standard  (ISO
+            19117:2012).
+          release: '-1'
+          terms:
+            - type: expression
+              designation: 图示表达规范
+              normative_status: null
+        parents: []
+        timeCreated: 2005-06-01T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+fin:
+  id: 346
+  definition: kohteen ilmentymän esittämiseen sovellettavien toimintojen kokoelma
+  language_code: fin
+  notes: []
+  examples: []
+  entry_status: retired
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19117:2005'
+    clause: '4.18'
+    link: 'https://www.iso.org/standard/40395.html'
+  lineage_source: ''
+  date_accepted: 2005-06-01T00:00:00.000Z
+  date_amended: 2012-12-15T00:00:00.000Z
+  review_date: 2012-12-15T00:00:00.000Z
+  review_status: final
+  review_type: retirement
+  review_decision: accepted
+  review_decision_date: 2012-12-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19117:2012'
+  review_decision_notes: 'The entry has been omitted from the superseding standard  (ISO 19117:2012).'
+  release: '-1'
+  terms:
+    - type: expression
+      designation: esitystapamäärittely
+      normative_status: null
+  _revisions:
+    current: '329649'
+    tree:
+      '329649':
+        object:
+          id: 346
+          definition: kohteen ilmentymän esittämiseen sovellettavien toimintojen kokoelma
+          language_code: fin
+          notes: []
+          examples: []
+          entry_status: retired
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19117:2005'
+            clause: '4.18'
+            link: 'https://www.iso.org/standard/40395.html'
+          lineage_source: ''
+          date_accepted: 2005-06-01T00:00:00.000Z
+          date_amended: 2012-12-15T00:00:00.000Z
+          review_date: 2012-12-15T00:00:00.000Z
+          review_status: final
+          review_type: retirement
+          review_decision: accepted
+          review_decision_date: 2012-12-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19117:2012'
+          review_decision_notes: >-
+            The entry has been omitted from the superseding standard  (ISO
+            19117:2012).
+          release: '-1'
+          terms:
+            - type: expression
+              designation: esitystapamäärittely
+              normative_status: null
+        parents: []
+        timeCreated: 2005-06-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+fra:
+  id: 346
+  definition: >-
+    collection d'opérations appliquées à une instance d'entité pour le
+    représenter
+  language_code: fra
+  notes: []
+  examples: []
+  entry_status: retired
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19117:2005'
+    clause: '4.18'
+    link: 'https://www.iso.org/standard/40395.html'
+  lineage_source: ''
+  date_accepted: 2005-06-01T00:00:00.000Z
+  date_amended: 2012-12-15T00:00:00.000Z
+  review_date: 2012-12-15T00:00:00.000Z
+  review_status: final
+  review_type: retirement
+  review_decision: accepted
+  review_decision_date: 2012-12-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19117:2012'
+  review_decision_notes: 'The entry has been omitted from the superseding standard  (ISO 19117:2012).'
+  release: '-1'
+  terms:
+    - type: expression
+      designation: spécification de représentation
+      normative_status: null
+  _revisions:
+    current: be6276
+    tree:
+      be6276:
+        object:
+          id: 346
+          definition: >-
+            collection d'opérations appliquées à une instance d'entité pour le
+            représenter
+          language_code: fra
+          notes: []
+          examples: []
+          entry_status: retired
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19117:2005'
+            clause: '4.18'
+            link: 'https://www.iso.org/standard/40395.html'
+          lineage_source: ''
+          date_accepted: 2005-06-01T00:00:00.000Z
+          date_amended: 2012-12-15T00:00:00.000Z
+          review_date: 2012-12-15T00:00:00.000Z
+          review_status: final
+          review_type: retirement
+          review_decision: accepted
+          review_decision_date: 2012-12-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19117:2012'
+          review_decision_notes: >-
+            The entry has been omitted from the superseding standard  (ISO
+            19117:2012).
+          release: '-1'
+          terms:
+            - type: expression
+              designation: spécification de représentation
+              normative_status: null
+        parents: []
+        timeCreated: 2005-06-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+deu:
+  id: 346
+  definition: Sammlung von Operationen zur Darstellung einer Feature-Instanz
+  language_code: deu
+  notes: []
+  examples: []
+  entry_status: retired
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19117:2005'
+    clause: '4.18'
+    link: 'https://www.iso.org/standard/40395.html'
+  lineage_source: ''
+  date_accepted: 2005-06-01T00:00:00.000Z
+  date_amended: 2012-12-15T00:00:00.000Z
+  review_date: 2012-12-15T00:00:00.000Z
+  review_status: final
+  review_type: retirement
+  review_decision: accepted
+  review_decision_date: 2012-12-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19117:2012'
+  review_decision_notes: 'The entry has been omitted from the superseding standard  (ISO 19117:2012).'
+  release: '-1'
+  terms:
+    - type: expression
+      designation: Darstellungsspezifikation
+      normative_status: null
+  _revisions:
+    current: e69cd4
+    tree:
+      e69cd4:
+        object:
+          id: 346
+          definition: Sammlung von Operationen zur Darstellung einer Feature-Instanz
+          language_code: deu
+          notes: []
+          examples: []
+          entry_status: retired
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19117:2005'
+            clause: '4.18'
+            link: 'https://www.iso.org/standard/40395.html'
+          lineage_source: ''
+          date_accepted: 2005-06-01T00:00:00.000Z
+          date_amended: 2012-12-15T00:00:00.000Z
+          review_date: 2012-12-15T00:00:00.000Z
+          review_status: final
+          review_type: retirement
+          review_decision: accepted
+          review_decision_date: 2012-12-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19117:2012'
+          review_decision_notes: >-
+            The entry has been omitted from the superseding standard  (ISO
+            19117:2012).
+          release: '-1'
+          terms:
+            - type: expression
+              designation: Darstellungsspezifikation
+              normative_status: null
+        parents: []
+        timeCreated: 2005-06-01T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+kor:
+  id: 346
+  definition: 피처 인스턴스의 묘화에 사용되는 연산의 모음
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: retired
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19117:2005'
+    clause: '4.18'
+    link: 'https://www.iso.org/standard/40395.html'
+  lineage_source: ''
+  date_accepted: 2006-05-01T00:00:00.000Z
+  date_amended: 2012-12-15T00:00:00.000Z
+  review_date: 2012-12-15T00:00:00.000Z
+  review_status: final
+  review_type: retirement
+  review_decision: accepted
+  review_decision_date: 2012-12-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19117:2012'
+  review_decision_notes: 'The entry has been omitted from the superseding standard  (ISO 19117:2012).'
+  release: '-1'
+  terms:
+    - type: expression
+      designation: 묘화 사양
+      normative_status: null
+  _revisions:
+    current: 98232d
+    tree:
+      98232d:
+        object:
+          id: 346
+          definition: 피처 인스턴스의 묘화에 사용되는 연산의 모음
+          language_code: kor
+          notes: []
+          examples: []
+          entry_status: retired
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19117:2005'
+            clause: '4.18'
+            link: 'https://www.iso.org/standard/40395.html'
+          lineage_source: ''
+          date_accepted: 2006-05-01T00:00:00.000Z
+          date_amended: 2012-12-15T00:00:00.000Z
+          review_date: 2012-12-15T00:00:00.000Z
+          review_status: final
+          review_type: retirement
+          review_decision: accepted
+          review_decision_date: 2012-12-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19117:2012'
+          review_decision_notes: >-
+            The entry has been omitted from the superseding standard  (ISO
+            19117:2012).
+          release: '-1'
+          terms:
+            - type: expression
+              designation: 묘화 사양
+              normative_status: null
+        parents: []
+        timeCreated: 2006-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+pol:
+  id: 346
+  definition: kolekcja operacji stosowanych do instancji obiektu w celu przedstawienia jej
+  language_code: pol
+  notes: []
+  examples: []
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19117:2005'
+    clause: '4.18'
+    link: 'https://www.iso.org/standard/40395.html'
+  lineage_source: ''
+  date_accepted: 2005-06-01T00:00:00.000Z
+  date_amended: 2012-12-15T00:00:00.000Z
+  review_date: 2012-12-15T00:00:00.000Z
+  review_status: final
+  review_type: retirement
+  review_decision: accepted
+  review_decision_date: 2012-12-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19117:2012'
+  review_decision_notes: 'The entry has been omitted from the superseding standard  (ISO 19117:2012).'
+  release: '-1'
+  terms:
+    - type: expression
+      designation: specyfikacja prezentacji
+      normative_status: null
+  _revisions:
+    current: 2b743d
+    tree:
+      2b743d:
+        object:
+          id: 346
+          definition: >-
+            kolekcja operacji stosowanych do instancji obiektu w celu
+            przedstawienia jej
+          language_code: pol
+          notes: []
+          examples: []
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19117:2005'
+            clause: '4.18'
+            link: 'https://www.iso.org/standard/40395.html'
+          lineage_source: ''
+          date_accepted: 2005-06-01T00:00:00.000Z
+          date_amended: 2012-12-15T00:00:00.000Z
+          review_date: 2012-12-15T00:00:00.000Z
+          review_status: final
+          review_type: retirement
+          review_decision: accepted
+          review_decision_date: 2012-12-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19117:2012'
+          review_decision_notes: >-
+            The entry has been omitted from the superseding standard  (ISO
+            19117:2012).
+          release: '-1'
+          terms:
+            - type: expression
+              designation: specyfikacja prezentacji
+              normative_status: null
+        parents: []
+        timeCreated: 2005-06-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 346
+  definition: >-
+    совокупность операций, применимых к экземпляру пространственного объекта при
+    его графическом отображении
+  language_code: rus
+  notes: []
+  examples: []
+  entry_status: изъятый
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19117:2005'
+    clause: '4.18'
+    link: 'https://www.iso.org/standard/40395.html'
+  lineage_source: ''
+  date_accepted: 2005-06-01T00:00:00.000Z
+  date_amended: 2012-12-15T00:00:00.000Z
+  review_date: 2012-12-15T00:00:00.000Z
+  review_status: ''
+  review_type: ''
+  review_decision: ''
+  review_decision_date: 2012-12-15T00:00:00.000Z
+  review_decision_event: 'Публикация ИСО 19117:2012'
+  review_decision_notes: 'Эта запись была опущена из заменяющего стандарта (ISO 19117: 2012).'
+  release: '-1'
+  terms:
+    - type: expression
+      designation: спецификация графического отображения
+      normative_status: null
+  _revisions:
+    current: 0e01fa
+    tree:
+      0e01fa:
+        object:
+          id: 346
+          definition: >-
+            совокупность операций, применимых к экземпляру пространственного
+            объекта при его графическом отображении
+          language_code: rus
+          notes: []
+          examples: []
+          entry_status: изъятый
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19117:2005'
+            clause: '4.18'
+            link: 'https://www.iso.org/standard/40395.html'
+          lineage_source: ''
+          date_accepted: 2005-06-01T00:00:00.000Z
+          date_amended: 2012-12-15T00:00:00.000Z
+          review_date: 2012-12-15T00:00:00.000Z
+          review_status: ''
+          review_type: ''
+          review_decision: ''
+          review_decision_date: 2012-12-15T00:00:00.000Z
+          review_decision_event: 'Публикация ИСО 19117:2012'
+          review_decision_notes: 'Эта запись была опущена из заменяющего стандарта (ISO 19117: 2012).'
+          release: '-1'
+          terms:
+            - type: expression
+              designation: спецификация графического отображения
+              normative_status: null
+        parents: []
+        timeCreated: 2005-06-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 346
+  definition: >-
+    colección de operaciones aplicadas para representar la instancia del objeto
+    geográfico
+  language_code: spa
+  notes: []
+  examples: []
+  entry_status: retired
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19117:2005'
+    clause: '4.18'
+    link: 'https://www.iso.org/standard/40395.html'
+  lineage_source: ''
+  date_accepted: 2005-06-01T00:00:00.000Z
+  date_amended: 2012-12-15T00:00:00.000Z
+  review_date: 2012-12-15T00:00:00.000Z
+  review_status: final
+  review_type: retirement
+  review_decision: accepted
+  review_decision_date: 2012-12-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19117:2012'
+  review_decision_notes: 'The entry has been omitted from the superseding standard  (ISO 19117:2012).'
+  release: '-1'
+  terms:
+    - type: expression
+      designation: especificación de representación
+      normative_status: null
+  _revisions:
+    current: 1af10b
+    tree:
+      1af10b:
+        object:
+          id: 346
+          definition: >-
+            colección de operaciones aplicadas para representar la instancia del
+            objeto geográfico
+          language_code: spa
+          notes: []
+          examples: []
+          entry_status: retired
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19117:2005'
+            clause: '4.18'
+            link: 'https://www.iso.org/standard/40395.html'
+          lineage_source: ''
+          date_accepted: 2005-06-01T00:00:00.000Z
+          date_amended: 2012-12-15T00:00:00.000Z
+          review_date: 2012-12-15T00:00:00.000Z
+          review_status: final
+          review_type: retirement
+          review_decision: accepted
+          review_decision_date: 2012-12-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19117:2012'
+          review_decision_notes: >-
+            The entry has been omitted from the superseding standard  (ISO
+            19117:2012).
+          release: '-1'
+          terms:
+            - type: expression
+              designation: especificación de representación
+              normative_status: null
+        parents: []
+        timeCreated: 2005-06-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+swe:
+  id: 346
+  definition: collection of operations applied to the feature instance to portray it
+  country_code: swe
+  language_code: swe
+  notes: []
+  examples: []
+  entry_status: retired
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19117:2005'
+    clause: '4.18'
+    link: 'https://www.iso.org/standard/40395.html'
+  lineage_source: ''
+  lineage_source_similarity: 0
+  date_accepted: 2005-06-01T00:00:00.000Z
+  date_amended: 2012-12-15T00:00:00.000Z
+  review_date: 2012-12-15T00:00:00.000Z
+  review_status: final
+  review_type: retirement
+  review_decision: accepted
+  review_decision_date: 2012-12-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19117:2012'
+  review_decision_notes: 'The entry has been omitted from the superseding standard  (ISO 19117:2012).'
+  release: '-1'
+  terms:
+    - type: expression
+      designation: visualiseringsspecifikation
+      normative_status: null
+  _revisions:
+    current: '684328'
+    tree:
+      '684328':
+        object:
+          id: 346
+          definition: >-
+            collection of operations applied to the feature instance to portray
+            it
+          country_code: swe
+          language_code: swe
+          notes: []
+          examples: []
+          entry_status: retired
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19117:2005'
+            clause: '4.18'
+            link: 'https://www.iso.org/standard/40395.html'
+          lineage_source: ''
+          lineage_source_similarity: 0
+          date_accepted: 2005-06-01T00:00:00.000Z
+          date_amended: 2012-12-15T00:00:00.000Z
+          review_date: 2012-12-15T00:00:00.000Z
+          review_status: final
+          review_type: retirement
+          review_decision: accepted
+          review_decision_date: 2012-12-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19117:2012'
+          review_decision_notes: >-
+            The entry has been omitted from the superseding standard  (ISO
+            19117:2012).
+          release: '-1'
+          terms:
+            - type: expression
+              designation: visualiseringsspecifikation
+              normative_status: null
+        parents: []
+        timeCreated: 2005-06-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

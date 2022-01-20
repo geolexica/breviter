@@ -1,0 +1,247 @@
+term: Place Identifier application
+termid: 1338
+eng:
+  id: 1338
+  abbrev: PI application
+  definition: >-
+    application providing services that use Place Identifiers to end users or
+    other applications
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19155:2012'
+    clause: '4.10'
+    link: 'https://www.iso.org/standard/32573.html'
+  date_accepted: 2012-11-01T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: Place Identifier application
+      normative_status: preferred
+  _revisions:
+    current: defb30
+    tree:
+      defb30:
+        object:
+          id: 1338
+          abbrev: PI application
+          definition: >-
+            application providing services that use Place Identifiers to end
+            users or other applications
+          language_code: eng
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19155:2012'
+            clause: '4.10'
+            link: 'https://www.iso.org/standard/32573.html'
+          date_accepted: 2012-11-01T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: Place Identifier application
+              normative_status: preferred
+        parents: []
+        timeCreated: 2012-11-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+kor:
+  id: 1338
+  definition: 최종 사용자 또는 기타 어플리케이션에 PI를 사용하는 서비스를 제공하는 어플리케이션
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19155:2012'
+    clause: '4.10'
+    link: 'https://www.iso.org/standard/32573.html'
+  date_accepted: 2012-11-01T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: 장소 식별자 적용
+      normative_status: preferred
+  _revisions:
+    current: f73cb2
+    tree:
+      f73cb2:
+        object:
+          id: 1338
+          definition: 최종 사용자 또는 기타 어플리케이션에 PI를 사용하는 서비스를 제공하는 어플리케이션
+          language_code: kor
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19155:2012'
+            clause: '4.10'
+            link: 'https://www.iso.org/standard/32573.html'
+          date_accepted: 2012-11-01T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: 장소 식별자 적용
+              normative_status: preferred
+        parents: []
+        timeCreated: 2012-11-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 1338
+  abbrev: PI application
+  definition: >-
+    приложение, предоставляющее для конечных пользователей или других приложений
+    сервисы, использующие идентификаторы мест
+  language_code: rus
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19155:2012'
+    clause: '4.10'
+    link: 'https://www.iso.org/standard/32573.html'
+  lineage_source: 'ISO 19155:2012'
+  date_accepted: 2012-11-01T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: приложение Идентификатора Места
+      normative_status: preferred
+  _revisions:
+    current: a7a549
+    tree:
+      a7a549:
+        object:
+          id: 1338
+          abbrev: PI application
+          definition: >-
+            приложение, предоставляющее для конечных пользователей или других
+            приложений сервисы, использующие идентификаторы мест
+          language_code: rus
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19155:2012'
+            clause: '4.10'
+            link: 'https://www.iso.org/standard/32573.html'
+          lineage_source: 'ISO 19155:2012'
+          date_accepted: 2012-11-01T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: приложение Идентификатора Места
+              normative_status: preferred
+        parents: []
+        timeCreated: 2012-11-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 1338
+  abbrev: PI application
+  definition: >-
+    aplicación que proporciona servicios que utilizan Identificadores de lugar
+    para usuarios finales o para otras aplicaciones
+  language_code: spa
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19155:2012'
+    clause: '4.10'
+    link: 'https://www.iso.org/standard/32573.html'
+  date_accepted: 2012-11-01T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: aplicación de identificación de lugares
+      normative_status: preferred
+  _revisions:
+    current: efdb3c
+    tree:
+      efdb3c:
+        object:
+          id: 1338
+          abbrev: PI application
+          definition: >-
+            aplicación que proporciona servicios que utilizan Identificadores de
+            lugar para usuarios finales o para otras aplicaciones
+          language_code: spa
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19155:2012'
+            clause: '4.10'
+            link: 'https://www.iso.org/standard/32573.html'
+          date_accepted: 2012-11-01T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: aplicación de identificación de lugares
+              normative_status: preferred
+        parents: []
+        timeCreated: 2012-11-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+swe:
+  id: 1338
+  abbrev: PI application
+  definition: >-
+    tillämpning som, till slutanvändare eller andra tillämpningar,
+    tillhandahåller tjänster som använder PI-referenser
+  country_code: swe
+  language_code: swe
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19155:2012'
+    clause: '4.10'
+    link: 'https://www.iso.org/standard/32573.html'
+  lineage_source: (Type reference to national language document)
+  date_accepted: 2012-11-01T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: PI-tillämpning
+      normative_status: preferred
+  _revisions:
+    current: 0a1654
+    tree:
+      0a1654:
+        object:
+          id: 1338
+          abbrev: PI application
+          definition: >-
+            tillämpning som, till slutanvändare eller andra tillämpningar,
+            tillhandahåller tjänster som använder PI-referenser
+          country_code: swe
+          language_code: swe
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19155:2012'
+            clause: '4.10'
+            link: 'https://www.iso.org/standard/32573.html'
+          lineage_source: (Type reference to national language document)
+          date_accepted: 2012-11-01T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: PI-tillämpning
+              normative_status: preferred
+        parents: []
+        timeCreated: 2012-11-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

@@ -1,0 +1,136 @@
+term: facility
+termid: 1515
+eng:
+  id: 1515
+  definition: physical installation or physical area that may be accessed and used
+  language_code: eng
+  notes:
+    - >-
+      Such facilities may be available on-board transport means during the
+      transport, at arrivals to and at departures from a transfer node, and at
+      transfer nodes.
+  examples:
+    - 'Elevators, restaurant areas, waiting areas, seats, toilets, shops.'
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19147:2015'
+    clause: '3.5'
+    link: 'https://www.iso.org/standard/44874.html'
+  date_accepted: 2015-06-15T00:00:00.000Z
+  review_date: 2009-06-20T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2015-06-15T00:00:00.000Z
+  review_decision_event: Normal ISO processing
+  review_decision_notes: 'Publication of document ISO 19147:2015(E)'
+  release: '4'
+  terms:
+    - type: expression
+      designation: facility
+      normative_status: preferred
+  _revisions:
+    current: fc72c1
+    tree:
+      fc72c1:
+        object:
+          id: 1515
+          definition: physical installation or physical area that may be accessed and used
+          language_code: eng
+          notes:
+            - >-
+              Such facilities may be available on-board transport means during
+              the transport, at arrivals to and at departures from a transfer
+              node, and at transfer nodes.
+          examples:
+            - 'Elevators, restaurant areas, waiting areas, seats, toilets, shops.'
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19147:2015'
+            clause: '3.5'
+            link: 'https://www.iso.org/standard/44874.html'
+          date_accepted: 2015-06-15T00:00:00.000Z
+          review_date: 2009-06-20T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2015-06-15T00:00:00.000Z
+          review_decision_event: Normal ISO processing
+          review_decision_notes: 'Publication of document ISO 19147:2015(E)'
+          release: '4'
+          terms:
+            - type: expression
+              designation: facility
+              normative_status: preferred
+        parents: []
+        timeCreated: 2015-06-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 1515
+  definition: construcción física o área física a la que se puede acceder y usar
+  language_code: spa
+  notes:
+    - >-
+      Dichas instalaciones pueden estar disponibles a bordo de los medios de
+      transporte durante el transporte, en las llegadas y en las salidas de un
+      nodo de conexión, y en los nodos de transbordo.
+  examples:
+    - >-
+      Ascensores, áreas de restaurantes, salas de espera, asientos, sanitarios
+      tiendas.
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19147:2015'
+    clause: '3.5'
+    link: 'https://www.iso.org/standard/44874.html'
+  date_accepted: 2015-06-15T00:00:00.000Z
+  review_date: 2009-06-20T00:00:00.000Z
+  review_status: final
+  review_decision: ''
+  review_decision_date: 2015-06-15T00:00:00.000Z
+  review_decision_event: Normal ISO processing
+  review_decision_notes: 'Publication of document ISO 19147:2015(E)'
+  release: '4'
+  terms:
+    - type: expression
+      designation: instalación
+      normative_status: preferred
+  _revisions:
+    current: 7ef880
+    tree:
+      7ef880:
+        object:
+          id: 1515
+          definition: construcción física o área física a la que se puede acceder y usar
+          language_code: spa
+          notes:
+            - >-
+              Dichas instalaciones pueden estar disponibles a bordo de los
+              medios de transporte durante el transporte, en las llegadas y en
+              las salidas de un nodo de conexión, y en los nodos de transbordo.
+          examples:
+            - >-
+              Ascensores, áreas de restaurantes, salas de espera, asientos,
+              sanitarios tiendas.
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19147:2015'
+            clause: '3.5'
+            link: 'https://www.iso.org/standard/44874.html'
+          date_accepted: 2015-06-15T00:00:00.000Z
+          review_date: 2009-06-20T00:00:00.000Z
+          review_status: final
+          review_decision: ''
+          review_decision_date: 2015-06-15T00:00:00.000Z
+          review_decision_event: Normal ISO processing
+          review_decision_notes: 'Publication of document ISO 19147:2015(E)'
+          release: '4'
+          terms:
+            - type: expression
+              designation: instalación
+              normative_status: preferred
+        parents: []
+        timeCreated: 2015-06-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

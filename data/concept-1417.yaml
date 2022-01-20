@@ -1,0 +1,279 @@
+term: single beam SONAR
+termid: 1417
+eng:
+  id: 1417
+  definition: >-
+    type of SONAR that produces one narrow SONAR beam directly beneath the
+    transducer/receiver and receives a return echo from the closest object
+  language_code: eng
+  notes:
+    - >-
+      Single beam sonar is commonly called a single beam echosounder (abbr:
+      SBES).
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO/TS 19130-2:2014'
+    clause: '4.70'
+    link: 'https://www.iso.org/standard/56113.html'
+  date_accepted: 2014-01-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: single beam SONAR
+      normative_status: preferred
+  _revisions:
+    current: b37e74
+    tree:
+      b37e74:
+        object:
+          id: 1417
+          definition: >-
+            type of SONAR that produces one narrow SONAR beam directly beneath
+            the transducer/receiver and receives a return echo from the closest
+            object
+          language_code: eng
+          notes:
+            - >-
+              Single beam sonar is commonly called a single beam echosounder
+              (abbr: SBES).
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO/TS 19130-2:2014'
+            clause: '4.70'
+            link: 'https://www.iso.org/standard/56113.html'
+          date_accepted: 2014-01-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: single beam SONAR
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-01-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+kor:
+  id: 1417
+  definition: 변환기/수신기 하단으로 직접적으로 협소한 단일 소나빔을 생성하고 가장 근접한 객체로부터 회신되는 울림을 수신하는 소나의 한 유형
+  language_code: kor
+  notes:
+    - >-
+      Single beam sonar is commonly called a single beam echosounder (abbr:
+      SBES).
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO/TS 19130-2:2014'
+    clause: '4.70'
+    link: 'https://www.iso.org/standard/56113.html'
+  date_accepted: 2014-01-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: 단일빔 소나
+      normative_status: preferred
+  _revisions:
+    current: 3a0f48
+    tree:
+      3a0f48:
+        object:
+          id: 1417
+          definition: >-
+            변환기/수신기 하단으로 직접적으로 협소한 단일 소나빔을 생성하고 가장 근접한 객체로부터 회신되는 울림을 수신하는 소나의 한
+            유형
+          language_code: kor
+          notes:
+            - >-
+              Single beam sonar is commonly called a single beam echosounder
+              (abbr: SBES).
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO/TS 19130-2:2014'
+            clause: '4.70'
+            link: 'https://www.iso.org/standard/56113.html'
+          date_accepted: 2014-01-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: 단일빔 소나
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-01-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 1417
+  definition: >-
+    Тип SONAR, который производит один узкий луч SONAR непосредственно вниз от
+    источника /приемника и получает ответное эхо от ближайшего объекта
+  language_code: rus
+  notes:
+    - >-
+      Single beam sonar is commonly called a single beam echosounder (abbr:
+
+      Сонар одиночного луча  обычно называют эхолотом одиночного луча
+      (сокр:SBES).
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO/TS 19130-2:2014'
+    clause: '4.70'
+    link: 'https://www.iso.org/standard/56113.html'
+  lineage_source: 'ISO/TS 19130-2:2014'
+  date_accepted: 2014-01-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: однолучевой SONAR
+      normative_status: preferred
+  _revisions:
+    current: f2c5fb
+    tree:
+      f2c5fb:
+        object:
+          id: 1417
+          definition: >-
+            Тип SONAR, который производит один узкий луч SONAR непосредственно
+            вниз от источника /приемника и получает ответное эхо от ближайшего
+            объекта
+          language_code: rus
+          notes:
+            - >-
+              Single beam sonar is commonly called a single beam echosounder
+              (abbr:
+
+              Сонар одиночного луча  обычно называют эхолотом одиночного луча
+              (сокр:SBES).
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO/TS 19130-2:2014'
+            clause: '4.70'
+            link: 'https://www.iso.org/standard/56113.html'
+          lineage_source: 'ISO/TS 19130-2:2014'
+          date_accepted: 2014-01-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: однолучевой SONAR
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-01-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 1417
+  definition: >-
+    tipo de sónar que produce un haz de sonar estrecho directamente debajo del
+    transductor/receptor y recibe un eco de retorno desde el objeto más cercano
+  language_code: spa
+  notes:
+    - >-
+      El haz único sonar se llama comunmente ecosonda de haz único (Single Beam
+      Echo Sounder: SBES)
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO/TS 19130-2:2014'
+    clause: '4.70'
+    link: 'https://www.iso.org/standard/56113.html'
+  date_accepted: 2014-01-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: sónar de haz único
+      normative_status: preferred
+  _revisions:
+    current: 89ff41
+    tree:
+      89ff41:
+        object:
+          id: 1417
+          definition: >-
+            tipo de sónar que produce un haz de sonar estrecho directamente
+            debajo del transductor/receptor y recibe un eco de retorno desde el
+            objeto más cercano
+          language_code: spa
+          notes:
+            - >-
+              El haz único sonar se llama comunmente ecosonda de haz único
+              (Single Beam Echo Sounder: SBES)
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO/TS 19130-2:2014'
+            clause: '4.70'
+            link: 'https://www.iso.org/standard/56113.html'
+          date_accepted: 2014-01-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: sónar de haz único
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-01-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+swe:
+  id: 1417
+  definition: >-
+    typ av SONAR med begränsad ljudkägla inom vilket reflekterande ljudpuls
+    registreras
+  country_code: swe
+  language_code: swe
+  notes:
+    - >-
+      Single beam sonar is commonly called a single beam echosounder (abbr:
+      SBES).
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO/TS 19130-2:2014'
+    clause: '4.70'
+    link: 'https://www.iso.org/standard/56113.html'
+  lineage_source: (Type reference to national language document)
+  date_accepted: 2014-01-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: enkelstråligt ekolod
+      normative_status: preferred
+  _revisions:
+    current: a969be
+    tree:
+      a969be:
+        object:
+          id: 1417
+          definition: >-
+            typ av SONAR med begränsad ljudkägla inom vilket reflekterande
+            ljudpuls registreras
+          country_code: swe
+          language_code: swe
+          notes:
+            - >-
+              Single beam sonar is commonly called a single beam echosounder
+              (abbr: SBES).
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO/TS 19130-2:2014'
+            clause: '4.70'
+            link: 'https://www.iso.org/standard/56113.html'
+          lineage_source: (Type reference to national language document)
+          date_accepted: 2014-01-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: enkelstråligt ekolod
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-01-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

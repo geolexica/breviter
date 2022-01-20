@@ -1,0 +1,138 @@
+term: looks
+termid: 2100
+eng:
+  id: 2100
+  definition: >-
+    groups of signal samples in a SAR processor that splits the full synthetic
+    aperture into several subapertures, each representing an independent look of
+    the identical scene
+  language_code: eng
+  notes:
+    - >-
+      The resulting image formed by incoherent summing of these looks is
+      characterized by reduced speckle and degraded spatial resolution.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO/TS 19163-1:2016'
+    clause: '4.13'
+    link: 'https://www.iso.org/standard/32581.html'
+  date_accepted: 2016-01-15T00:00:00.000Z
+  review_date: 2014-08-15T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2016-01-15T00:00:00.000Z
+  review_decision_event: Normal ISO processing
+  review_decision_notes: 'Publication of document ISO/TS 19163-1:2016(E)'
+  release: '4'
+  terms:
+    - type: expression
+      designation: looks
+      normative_status: preferred
+  _revisions:
+    current: f80044
+    tree:
+      f80044:
+        object:
+          id: 2100
+          definition: >-
+            groups of signal samples in a SAR processor that splits the full
+            synthetic aperture into several subapertures, each representing an
+            independent look of the identical scene
+          language_code: eng
+          notes:
+            - >-
+              The resulting image formed by incoherent summing of these looks is
+              characterized by reduced speckle and degraded spatial resolution.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO/TS 19163-1:2016'
+            clause: '4.13'
+            link: 'https://www.iso.org/standard/32581.html'
+          date_accepted: 2016-01-15T00:00:00.000Z
+          review_date: 2014-08-15T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2016-01-15T00:00:00.000Z
+          review_decision_event: Normal ISO processing
+          review_decision_notes: 'Publication of document ISO/TS 19163-1:2016(E)'
+          release: '4'
+          terms:
+            - type: expression
+              designation: looks
+              normative_status: preferred
+        parents: []
+        timeCreated: 2016-01-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 2100
+  definition: >-
+    grupos de muestras de señales en un procesador SAR que dividen la apertura
+    sintética completa en varias subaperturas, cada una de las cuales representa
+    una vista independiente de la misma escena
+  language_code: spa
+  notes:
+    - >-
+      La imagen resultante formada por la suma incoherente de estas vistas se
+      caracteriza por una reducción del ruido granular y una resolución espacial
+      degradada.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO/TS 19163-1:2016'
+    clause: '4.13'
+    link: 'https://www.iso.org/standard/32581.html'
+  date_accepted: 2016-01-15T00:00:00.000Z
+  review_date: 2014-08-15T00:00:00.000Z
+  review_status: final
+  review_decision: ''
+  review_decision_date: 2016-01-15T00:00:00.000Z
+  review_decision_event: Normal ISO processing
+  review_decision_notes: 'Publication of document ISO/TS 19163-1:2016(E)'
+  release: '4'
+  terms:
+    - type: expression
+      designation: vistas
+      normative_status: preferred
+  _revisions:
+    current: 8fbce9
+    tree:
+      8fbce9:
+        object:
+          id: 2100
+          definition: >-
+            grupos de muestras de señales en un procesador SAR que dividen la
+            apertura sintética completa en varias subaperturas, cada una de las
+            cuales representa una vista independiente de la misma escena
+          language_code: spa
+          notes:
+            - >-
+              La imagen resultante formada por la suma incoherente de estas
+              vistas se caracteriza por una reducción del ruido granular y una
+              resolución espacial degradada.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO/TS 19163-1:2016'
+            clause: '4.13'
+            link: 'https://www.iso.org/standard/32581.html'
+          date_accepted: 2016-01-15T00:00:00.000Z
+          review_date: 2014-08-15T00:00:00.000Z
+          review_status: final
+          review_decision: ''
+          review_decision_date: 2016-01-15T00:00:00.000Z
+          review_decision_event: Normal ISO processing
+          review_decision_notes: 'Publication of document ISO/TS 19163-1:2016(E)'
+          release: '4'
+          terms:
+            - type: expression
+              designation: vistas
+              normative_status: preferred
+        parents: []
+        timeCreated: 2016-01-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

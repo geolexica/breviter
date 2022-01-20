@@ -1,0 +1,469 @@
+term: characteristic
+termid: 875
+eng:
+  id: 875
+  definition: abstraction of a property of an object or of a set of objects
+  language_code: eng
+  notes:
+    - Characteristics are used for describing concepts.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 1087-1:2000'
+    clause: 3.2.4
+    link: 'https://www.iso.org/standard/20057.html'
+  lineage_source: 'ISO 19146:2010(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2010-11-01T00:00:00.000Z
+  review_date: 2018-06-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2018-06-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19146:2018(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 1087-1:2000 to ISO 1087-1:2000,
+    3.2.4. Lineage source added as ISO 19146:2010(E)
+  release: '2'
+  terms:
+    - type: expression
+      designation: characteristic
+      normative_status: preferred
+  _revisions:
+    current: 21c4be
+    tree:
+      21c4be:
+        object:
+          id: 875
+          definition: abstraction of a property of an object or of a set of objects
+          language_code: eng
+          notes:
+            - Characteristics are used for describing concepts.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 1087-1:2000'
+            clause: 3.2.4
+            link: 'https://www.iso.org/standard/20057.html'
+          lineage_source: 'ISO 19146:2010(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2010-11-01T00:00:00.000Z
+          review_date: 2018-06-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2018-06-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19146:2018(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 1087-1:2000 to ISO
+            1087-1:2000, 3.2.4. Lineage source added as ISO 19146:2010(E)
+          release: '2'
+          terms:
+            - type: expression
+              designation: characteristic
+              normative_status: preferred
+        parents: []
+        timeCreated: 2010-11-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+ara:
+  id: 875
+  definition: خاصية مجردة لكائن او مجموعة من الكائنات
+  language_code: ara
+  notes:
+    - >-
+      تستخدم الخواص المميِّزة في وصف المفاهيم
+      والتصورات                                                                                                                             
+      .
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 1087-1:2000'
+    clause: 3.2.4
+    link: 'https://www.iso.org/standard/20057.html'
+  lineage_source: 'ISO 19146:2010(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2010-11-01T00:00:00.000Z
+  review_date: 2018-06-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2018-06-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19146:2018(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 1087-1:2000 to ISO 1087-1:2000,
+    3.2.4. Lineage source added as ISO 19146:2010(E)
+  release: '2'
+  terms:
+    - type: expression
+      designation: ميزة
+      normative_status: preferred
+  _revisions:
+    current: 26b81e
+    tree:
+      26b81e:
+        object:
+          id: 875
+          definition: خاصية مجردة لكائن او مجموعة من الكائنات
+          language_code: ara
+          notes:
+            - >-
+              تستخدم الخواص المميِّزة في وصف المفاهيم
+              والتصورات                                                                                                                             
+              .
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 1087-1:2000'
+            clause: 3.2.4
+            link: 'https://www.iso.org/standard/20057.html'
+          lineage_source: 'ISO 19146:2010(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2010-11-01T00:00:00.000Z
+          review_date: 2018-06-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2018-06-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19146:2018(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 1087-1:2000 to ISO
+            1087-1:2000, 3.2.4. Lineage source added as ISO 19146:2010(E)
+          release: '2'
+          terms:
+            - type: expression
+              designation: ميزة
+              normative_status: preferred
+        parents: []
+        timeCreated: 2010-11-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+deu:
+  id: 875
+  language_code: deu
+  notes:
+    - Characteristics are used for describing concepts.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 1087-1:2000'
+    clause: 3.2.4
+    link: 'https://www.iso.org/standard/20057.html'
+  lineage_source: 'ISO 19146:2010(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2010-11-01T00:00:00.000Z
+  review_date: 2018-06-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2018-06-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19146:2018(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 1087-1:2000 to ISO 1087-1:2000,
+    3.2.4. Lineage source added as ISO 19146:2010(E)
+  release: '2'
+  terms:
+    - type: expression
+      designation: Merkmal
+      normative_status: preferred
+  _revisions:
+    current: 1b2b10
+    tree:
+      1b2b10:
+        object:
+          id: 875
+          language_code: deu
+          notes:
+            - Characteristics are used for describing concepts.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 1087-1:2000'
+            clause: 3.2.4
+            link: 'https://www.iso.org/standard/20057.html'
+          lineage_source: 'ISO 19146:2010(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2010-11-01T00:00:00.000Z
+          review_date: 2018-06-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2018-06-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19146:2018(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 1087-1:2000 to ISO
+            1087-1:2000, 3.2.4. Lineage source added as ISO 19146:2010(E)
+          release: '2'
+          terms:
+            - type: expression
+              designation: Merkmal
+              normative_status: preferred
+        parents: []
+        timeCreated: 2010-11-01T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+kor:
+  id: 875
+  definition: 개체 집합 또는 개체의 속성에 대한 추상화
+  language_code: kor
+  notes:
+    - Characteristics are used for describing concepts.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 1087-1:2000'
+    clause: 3.2.4
+    link: 'https://www.iso.org/standard/20057.html'
+  lineage_source: 'ISO 19146:2010(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2010-11-01T00:00:00.000Z
+  review_date: 2018-06-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2018-06-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19146:2018(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 1087-1:2000 to ISO 1087-1:2000,
+    3.2.4. Lineage source added as ISO 19146:2010(E)
+  release: '2'
+  terms:
+    - type: expression
+      designation: 특성
+      normative_status: preferred
+  _revisions:
+    current: '9303e6'
+    tree:
+      '9303e6':
+        object:
+          id: 875
+          definition: 개체 집합 또는 개체의 속성에 대한 추상화
+          language_code: kor
+          notes:
+            - Characteristics are used for describing concepts.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 1087-1:2000'
+            clause: 3.2.4
+            link: 'https://www.iso.org/standard/20057.html'
+          lineage_source: 'ISO 19146:2010(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2010-11-01T00:00:00.000Z
+          review_date: 2018-06-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2018-06-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19146:2018(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 1087-1:2000 to ISO
+            1087-1:2000, 3.2.4. Lineage source added as ISO 19146:2010(E)
+          release: '2'
+          terms:
+            - type: expression
+              designation: 특성
+              normative_status: preferred
+        parents: []
+        timeCreated: 2010-11-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 875
+  definition: Абстракция свойства объекта или набора объектов
+  language_code: rus
+  notes:
+    - .Характеристики используются для описания понятий
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 1087-1:2000'
+    clause: 3.2.4
+    link: 'https://www.iso.org/standard/20057.html'
+  lineage_source: 'ISO 19146:2010(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2010-11-01T00:00:00.000Z
+  review_date: 2018-06-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2018-06-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19146:2018(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 1087-1:2000 to ISO 1087-1:2000,
+    3.2.4. Lineage source added as ISO 19146:2010(E)
+  release: '2'
+  terms:
+    - type: expression
+      designation: характеристика
+      normative_status: preferred
+  _revisions:
+    current: da3ee2
+    tree:
+      da3ee2:
+        object:
+          id: 875
+          definition: Абстракция свойства объекта или набора объектов
+          language_code: rus
+          notes:
+            - .Характеристики используются для описания понятий
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 1087-1:2000'
+            clause: 3.2.4
+            link: 'https://www.iso.org/standard/20057.html'
+          lineage_source: 'ISO 19146:2010(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2010-11-01T00:00:00.000Z
+          review_date: 2018-06-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2018-06-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19146:2018(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 1087-1:2000 to ISO
+            1087-1:2000, 3.2.4. Lineage source added as ISO 19146:2010(E)
+          release: '2'
+          terms:
+            - type: expression
+              designation: характеристика
+              normative_status: preferred
+        parents: []
+        timeCreated: 2010-11-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 875
+  definition: abstracción de una propiedad de un objeto o de un conjunto de objetos
+  language_code: spa
+  notes:
+    - Las características sirven para definir los conceptos.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 1087-1:2000'
+    clause: 3.2.4
+    link: 'https://www.iso.org/standard/20057.html'
+  lineage_source: 'ISO 19146:2010(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2010-11-01T00:00:00.000Z
+  review_date: 2018-06-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2018-06-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19146:2018(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 1087-1:2000 to ISO 1087-1:2000,
+    3.2.4. Lineage source added as ISO 19146:2010(E)
+  release: '2'
+  terms:
+    - type: expression
+      designation: característica
+      normative_status: preferred
+  _revisions:
+    current: 293ca8
+    tree:
+      293ca8:
+        object:
+          id: 875
+          definition: >-
+            abstracción de una propiedad de un objeto o de un conjunto de
+            objetos
+          language_code: spa
+          notes:
+            - Las características sirven para definir los conceptos.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 1087-1:2000'
+            clause: 3.2.4
+            link: 'https://www.iso.org/standard/20057.html'
+          lineage_source: 'ISO 19146:2010(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2010-11-01T00:00:00.000Z
+          review_date: 2018-06-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2018-06-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19146:2018(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 1087-1:2000 to ISO
+            1087-1:2000, 3.2.4. Lineage source added as ISO 19146:2010(E)
+          release: '2'
+          terms:
+            - type: expression
+              designation: característica
+              normative_status: preferred
+        parents: []
+        timeCreated: 2010-11-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+swe:
+  id: 875
+  definition: >-
+    abstraktion av en egenskap hos en viss referent eller hos en grupp av
+    referenter
+  country_code: swe
+  language_code: swe
+  notes:
+    - Characteristics are used for describing concepts.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 1087-1:2000'
+    clause: 3.2.4
+    link: 'https://www.iso.org/standard/20057.html'
+  lineage_source: 'ISO 19146:2010(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2010-11-01T00:00:00.000Z
+  review_date: 2018-06-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2018-06-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19146:2018(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 1087-1:2000 to ISO 1087-1:2000,
+    3.2.4. Lineage source added as ISO 19146:2010(E)
+  release: '2'
+  terms:
+    - type: expression
+      designation: kännetecken
+      normative_status: preferred
+  _revisions:
+    current: 4b2fb0
+    tree:
+      4b2fb0:
+        object:
+          id: 875
+          definition: >-
+            abstraktion av en egenskap hos en viss referent eller hos en grupp
+            av referenter
+          country_code: swe
+          language_code: swe
+          notes:
+            - Characteristics are used for describing concepts.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 1087-1:2000'
+            clause: 3.2.4
+            link: 'https://www.iso.org/standard/20057.html'
+          lineage_source: 'ISO 19146:2010(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2010-11-01T00:00:00.000Z
+          review_date: 2018-06-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2018-06-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19146:2018(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 1087-1:2000 to ISO
+            1087-1:2000, 3.2.4. Lineage source added as ISO 19146:2010(E)
+          release: '2'
+          terms:
+            - type: expression
+              designation: kännetecken
+              normative_status: preferred
+        parents: []
+        timeCreated: 2010-11-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

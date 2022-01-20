@@ -1,0 +1,660 @@
+term: quality schema
+termid: 360
+eng:
+  id: 360
+  definition: conceptual schema defining aspects of quality for geographic data
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19101-1:2014'
+    clause: 4.1.29
+    link: 'https://www.iso.org/standard/59164.html'
+  lineage_source: 'ISO 19101:2002'
+  lineage_source_similarity: 1
+  date_accepted: 2002-07-01T00:00:00.000Z
+  review_date: 2014-11-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2014-11-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19101-1:2014'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19101:2002 to ISO 19101-1:2014.
+    Lineage source added as ISO 19101:2002.
+  release: '1'
+  terms:
+    - type: expression
+      designation: quality schema
+      normative_status: preferred
+  _revisions:
+    current: 2baa39
+    tree:
+      2baa39:
+        object:
+          id: 360
+          definition: conceptual schema defining aspects of quality for geographic data
+          language_code: eng
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19101-1:2014'
+            clause: 4.1.29
+            link: 'https://www.iso.org/standard/59164.html'
+          lineage_source: 'ISO 19101:2002'
+          lineage_source_similarity: 1
+          date_accepted: 2002-07-01T00:00:00.000Z
+          review_date: 2014-11-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2014-11-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19101-1:2014'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19101:2002 to ISO
+            19101-1:2014. Lineage source added as ISO 19101:2002.
+          release: '1'
+          terms:
+            - type: expression
+              designation: quality schema
+              normative_status: preferred
+        parents: []
+        timeCreated: 2002-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+ara:
+  id: 360
+  definition: مخطط تصويري يحدد جوانب الجودة للبيانات الجغرافية
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19101-1:2014'
+    clause: 4.1.29
+    link: 'https://www.iso.org/standard/59164.html'
+  lineage_source: 'ISO 19101:2002'
+  lineage_source_similarity: 1
+  date_accepted: 2002-07-01T00:00:00.000Z
+  review_date: 2014-11-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2014-11-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19101-1:2014'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19101:2002 to ISO 19101-1:2014.
+    Lineage source added as ISO 19101:2002.
+  release: '1'
+  terms:
+    - type: expression
+      designation: مخطط الجودة
+      normative_status: preferred
+  _revisions:
+    current: 6b2b11
+    tree:
+      6b2b11:
+        object:
+          id: 360
+          definition: مخطط تصويري يحدد جوانب الجودة للبيانات الجغرافية
+          language_code: ara
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19101-1:2014'
+            clause: 4.1.29
+            link: 'https://www.iso.org/standard/59164.html'
+          lineage_source: 'ISO 19101:2002'
+          lineage_source_similarity: 1
+          date_accepted: 2002-07-01T00:00:00.000Z
+          review_date: 2014-11-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2014-11-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19101-1:2014'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19101:2002 to ISO
+            19101-1:2014. Lineage source added as ISO 19101:2002.
+          release: '1'
+          terms:
+            - type: expression
+              designation: مخطط الجودة
+              normative_status: preferred
+        parents: []
+        timeCreated: 2002-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+zho:
+  id: 360
+  definition: 定义地理数据质量内容的概念模式。
+  language_code: zho
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19101-1:2014'
+    clause: 4.1.29
+    link: 'https://www.iso.org/standard/59164.html'
+  lineage_source: 'ISO 19101:2002'
+  lineage_source_similarity: 1
+  date_accepted: 2002-07-01T00:00:00.000Z
+  review_date: 2014-11-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2014-11-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19101-1:2014'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19101:2002 to ISO 19101-1:2014.
+    Lineage source added as ISO 19101:2002.
+  release: '1'
+  terms:
+    - type: expression
+      designation: 质量模式
+      normative_status: preferred
+  _revisions:
+    current: 36ed6e
+    tree:
+      36ed6e:
+        object:
+          id: 360
+          definition: 定义地理数据质量内容的概念模式。
+          language_code: zho
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19101-1:2014'
+            clause: 4.1.29
+            link: 'https://www.iso.org/standard/59164.html'
+          lineage_source: 'ISO 19101:2002'
+          lineage_source_similarity: 1
+          date_accepted: 2002-07-01T00:00:00.000Z
+          review_date: 2014-11-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2014-11-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19101-1:2014'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19101:2002 to ISO
+            19101-1:2014. Lineage source added as ISO 19101:2002.
+          release: '1'
+          terms:
+            - type: expression
+              designation: 质量模式
+              normative_status: preferred
+        parents: []
+        timeCreated: 2002-07-01T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+fin:
+  id: 360
+  definition: paikkatiedon laatunäkökohtia kuvaava käsiteskeema
+  language_code: fin
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19101-1:2014'
+    clause: 4.1.29
+    link: 'https://www.iso.org/standard/59164.html'
+  lineage_source: 'ISO 19101:2002'
+  lineage_source_similarity: 1
+  date_accepted: 2002-07-01T00:00:00.000Z
+  review_date: 2014-11-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2014-11-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19101-1:2014'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19101:2002 to ISO 19101-1:2014.
+    Lineage source added as ISO 19101:2002.
+  release: '1'
+  terms:
+    - type: expression
+      designation: laatuskeema
+      normative_status: preferred
+  _revisions:
+    current: 3bae5b
+    tree:
+      3bae5b:
+        object:
+          id: 360
+          definition: paikkatiedon laatunäkökohtia kuvaava käsiteskeema
+          language_code: fin
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19101-1:2014'
+            clause: 4.1.29
+            link: 'https://www.iso.org/standard/59164.html'
+          lineage_source: 'ISO 19101:2002'
+          lineage_source_similarity: 1
+          date_accepted: 2002-07-01T00:00:00.000Z
+          review_date: 2014-11-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2014-11-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19101-1:2014'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19101:2002 to ISO
+            19101-1:2014. Lineage source added as ISO 19101:2002.
+          release: '1'
+          terms:
+            - type: expression
+              designation: laatuskeema
+              normative_status: preferred
+        parents: []
+        timeCreated: 2002-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+fra:
+  id: 360
+  definition: schéma conceptuel définissant les aspects qualité des données géographiques
+  language_code: fra
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19101-1:2014'
+    clause: 4.1.29
+    link: 'https://www.iso.org/standard/59164.html'
+  lineage_source: 'ISO 19101:2002'
+  lineage_source_similarity: 1
+  date_accepted: 2002-07-01T00:00:00.000Z
+  review_date: 2014-11-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2014-11-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19101-1:2014'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19101:2002 to ISO 19101-1:2014.
+    Lineage source added as ISO 19101:2002.
+  release: '1'
+  terms:
+    - type: expression
+      designation: schéma qualité
+      normative_status: preferred
+  _revisions:
+    current: 6cd644
+    tree:
+      6cd644:
+        object:
+          id: 360
+          definition: >-
+            schéma conceptuel définissant les aspects qualité des données
+            géographiques
+          language_code: fra
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19101-1:2014'
+            clause: 4.1.29
+            link: 'https://www.iso.org/standard/59164.html'
+          lineage_source: 'ISO 19101:2002'
+          lineage_source_similarity: 1
+          date_accepted: 2002-07-01T00:00:00.000Z
+          review_date: 2014-11-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2014-11-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19101-1:2014'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19101:2002 to ISO
+            19101-1:2014. Lineage source added as ISO 19101:2002.
+          release: '1'
+          terms:
+            - type: expression
+              designation: schéma qualité
+              normative_status: preferred
+        parents: []
+        timeCreated: 2002-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+deu:
+  id: 360
+  language_code: deu
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19101-1:2014'
+    clause: 4.1.29
+    link: 'https://www.iso.org/standard/59164.html'
+  lineage_source: 'ISO 19101:2002'
+  lineage_source_similarity: 1
+  date_accepted: 2002-07-01T00:00:00.000Z
+  review_date: 2014-11-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2014-11-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19101-1:2014'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19101:2002 to ISO 19101-1:2014.
+    Lineage source added as ISO 19101:2002.
+  release: '1'
+  terms:
+    - type: expression
+      designation: Qualitätsschema
+      normative_status: preferred
+  _revisions:
+    current: 5b4699
+    tree:
+      5b4699:
+        object:
+          id: 360
+          language_code: deu
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19101-1:2014'
+            clause: 4.1.29
+            link: 'https://www.iso.org/standard/59164.html'
+          lineage_source: 'ISO 19101:2002'
+          lineage_source_similarity: 1
+          date_accepted: 2002-07-01T00:00:00.000Z
+          review_date: 2014-11-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2014-11-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19101-1:2014'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19101:2002 to ISO
+            19101-1:2014. Lineage source added as ISO 19101:2002.
+          release: '1'
+          terms:
+            - type: expression
+              designation: Qualitätsschema
+              normative_status: preferred
+        parents: []
+        timeCreated: 2002-07-01T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+kor:
+  id: 360
+  definition: 지리 데이터의 품질 측면을 정의하는 개념적 스키마
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19101-1:2014'
+    clause: 4.1.29
+    link: 'https://www.iso.org/standard/59164.html'
+  lineage_source: 'ISO 19101:2002'
+  lineage_source_similarity: 1
+  date_accepted: 2008-12-30T00:00:00.000Z
+  review_date: 2014-11-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2014-11-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19101-1:2014'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19101:2002 to ISO 19101-1:2014.
+    Lineage source added as ISO 19101:2002.
+  release: '1'
+  terms:
+    - type: expression
+      designation: 품질 스키마
+      normative_status: preferred
+  _revisions:
+    current: 932cc0
+    tree:
+      932cc0:
+        object:
+          id: 360
+          definition: 지리 데이터의 품질 측면을 정의하는 개념적 스키마
+          language_code: kor
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19101-1:2014'
+            clause: 4.1.29
+            link: 'https://www.iso.org/standard/59164.html'
+          lineage_source: 'ISO 19101:2002'
+          lineage_source_similarity: 1
+          date_accepted: 2008-12-30T00:00:00.000Z
+          review_date: 2014-11-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2014-11-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19101-1:2014'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19101:2002 to ISO
+            19101-1:2014. Lineage source added as ISO 19101:2002.
+          release: '1'
+          terms:
+            - type: expression
+              designation: 품질 스키마
+              normative_status: preferred
+        parents: []
+        timeCreated: 2008-12-30T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 360
+  definition: >-
+    концептуальная схема, определяющая аспекты, связанные с качеством
+    пространственных    данных
+  language_code: rus
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19101-1:2014'
+    clause: 4.1.29
+    link: 'https://www.iso.org/standard/59164.html'
+  lineage_source: 'перевод ИСО 19101-1:2014,'
+  lineage_source_similarity: 1
+  date_accepted: 2002-07-01T00:00:00.000Z
+  review_date: 2014-11-01T00:00:00.000Z
+  review_status: ''
+  review_decision: ''
+  review_decision_date: 2014-11-01T00:00:00.000Z
+  review_decision_event: 'Публикация ИСО19101-1:2014'
+  review_decision_notes: >-
+    Авторитетная ссылка изменена с ISO 19101: 2002 на ISO 19101-1: 2014.
+    Источник происхождения добавлен как ISO 19101: 2002.
+  release: '1'
+  terms:
+    - type: expression
+      designation: схема качества
+      normative_status: preferred
+  _revisions:
+    current: 189a34
+    tree:
+      189a34:
+        object:
+          id: 360
+          definition: >-
+            концептуальная схема, определяющая аспекты, связанные с качеством
+            пространственных    данных
+          language_code: rus
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19101-1:2014'
+            clause: 4.1.29
+            link: 'https://www.iso.org/standard/59164.html'
+          lineage_source: 'перевод ИСО 19101-1:2014,'
+          lineage_source_similarity: 1
+          date_accepted: 2002-07-01T00:00:00.000Z
+          review_date: 2014-11-01T00:00:00.000Z
+          review_status: ''
+          review_decision: ''
+          review_decision_date: 2014-11-01T00:00:00.000Z
+          review_decision_event: 'Публикация ИСО19101-1:2014'
+          review_decision_notes: >-
+            Авторитетная ссылка изменена с ISO 19101: 2002 на ISO 19101-1: 2014.
+            Источник происхождения добавлен как ISO 19101: 2002.
+          release: '1'
+          terms:
+            - type: expression
+              designation: схема качества
+              normative_status: preferred
+        parents: []
+        timeCreated: 2002-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 360
+  definition: esquema conceptual que define aspectos de calidad de datos geográficos
+  language_code: spa
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19101-1:2014'
+    clause: 4.1.29
+    link: 'https://www.iso.org/standard/59164.html'
+  lineage_source: 'ISO 19101:2002'
+  lineage_source_similarity: 1
+  date_accepted: 2002-07-01T00:00:00.000Z
+  review_date: 2014-11-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2014-11-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19101-1:2014'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19101:2002 to ISO 19101-1:2014.
+    Lineage source added as ISO 19101:2002.
+  release: '1'
+  terms:
+    - type: expression
+      designation: esquema de calidad
+      normative_status: preferred
+  _revisions:
+    current: 185d27
+    tree:
+      185d27:
+        object:
+          id: 360
+          definition: >-
+            esquema conceptual que define aspectos de calidad de datos
+            geográficos
+          language_code: spa
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19101-1:2014'
+            clause: 4.1.29
+            link: 'https://www.iso.org/standard/59164.html'
+          lineage_source: 'ISO 19101:2002'
+          lineage_source_similarity: 1
+          date_accepted: 2002-07-01T00:00:00.000Z
+          review_date: 2014-11-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2014-11-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19101-1:2014'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19101:2002 to ISO
+            19101-1:2014. Lineage source added as ISO 19101:2002.
+          release: '1'
+          terms:
+            - type: expression
+              designation: esquema de calidad
+              normative_status: preferred
+        parents: []
+        timeCreated: 2002-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+swe:
+  id: 360
+  definition: begreppsschema som definierar kvalitetsaspekter hos geodata
+  country_code: swe
+  language_code: swe
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19101-1:2014'
+    clause: 4.1.29
+    link: 'https://www.iso.org/standard/59164.html'
+  lineage_source: 'ISO 19101:2002'
+  lineage_source_similarity: 1
+  date_accepted: 2002-07-01T00:00:00.000Z
+  review_date: 2014-11-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2014-11-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19101-1:2014'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19101:2002 to ISO 19101-1:2014.
+    Lineage source added as ISO 19101:2002.
+  release: '1'
+  terms:
+    - type: expression
+      designation: geodatakvalitetsschema
+      normative_status: preferred
+  _revisions:
+    current: 74ca8b
+    tree:
+      74ca8b:
+        object:
+          id: 360
+          definition: begreppsschema som definierar kvalitetsaspekter hos geodata
+          country_code: swe
+          language_code: swe
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19101-1:2014'
+            clause: 4.1.29
+            link: 'https://www.iso.org/standard/59164.html'
+          lineage_source: 'ISO 19101:2002'
+          lineage_source_similarity: 1
+          date_accepted: 2002-07-01T00:00:00.000Z
+          review_date: 2014-11-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2014-11-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19101-1:2014'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19101:2002 to ISO
+            19101-1:2014. Lineage source added as ISO 19101:2002.
+          release: '1'
+          terms:
+            - type: expression
+              designation: geodatakvalitetsschema
+              normative_status: preferred
+        parents: []
+        timeCreated: 2002-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

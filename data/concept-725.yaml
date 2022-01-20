@@ -1,0 +1,885 @@
+term: composition <UML>
+termid: 725
+eng:
+  id: 725
+  definition: >-
+    form of aggregation which requires that a part instance be included in at
+    most one composite at a time, and that the composite object is responsible
+    for the creation and destruction of the parts
+  language_code: eng
+  notes:
+    - >-
+      Parts with non-fixed multiplicity may be created after the composite
+      itself, but once created they live and die with it (i.e., they share
+      lifetimes). Such parts can also be explicitly removed before the death of
+      the composite. Composition may be recursive. Synonym: composite
+      aggregation.
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: ISO/IEC 19501
+    link: 'https://www.iso.org/standard/32620.html'
+  lineage_source: 'ISO/TS 19103:2005 ,4.2.10'
+  lineage_source_similarity: 1
+  date_accepted: 2005-07-15T00:00:00.000Z
+  date_amended: 2015-07-01T00:00:00.000Z
+  review_date: 2009-01-14T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2015-12-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19103:2015'
+  review_decision_notes: >-
+    The entry has been superseded. An entry with a revised definition has been
+    published in ISO 19103:2015
+  release: '-1'
+  terms:
+    - type: expression
+      designation: composition <UML>
+      normative_status: null
+  _revisions:
+    current: bcfdf1
+    tree:
+      bcfdf1:
+        object:
+          id: 725
+          definition: >-
+            form of aggregation which requires that a part instance be included
+            in at most one composite at a time, and that the composite object is
+            responsible for the creation and destruction of the parts
+          language_code: eng
+          notes:
+            - >-
+              Parts with non-fixed multiplicity may be created after the
+              composite itself, but once created they live and die with it
+              (i.e., they share lifetimes). Such parts can also be explicitly
+              removed before the death of the composite. Composition may be
+              recursive. Synonym: composite aggregation.
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: ISO/IEC 19501
+            link: 'https://www.iso.org/standard/32620.html'
+          lineage_source: 'ISO/TS 19103:2005 ,4.2.10'
+          lineage_source_similarity: 1
+          date_accepted: 2005-07-15T00:00:00.000Z
+          date_amended: 2015-07-01T00:00:00.000Z
+          review_date: 2009-01-14T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2015-12-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19103:2015'
+          review_decision_notes: >-
+            The entry has been superseded. An entry with a revised definition
+            has been published in ISO 19103:2015
+          release: '-1'
+          terms:
+            - type: expression
+              designation: composition <UML>
+              normative_status: null
+        parents: []
+        timeCreated: 2005-07-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+ara:
+  id: 725
+  definition: >-
+    شكل من أشكال التجميع الذي يتطلب تضمين جزء مثيل في مركب واحد على الأكثر في
+    وقت واحد وهذا الكائي المركب هو مسئولاً عن إنشاء وتدمير الأجزاء المكوِّنة له
+  language_code: ara
+  notes:
+    - >-
+      يمكن إنشاء أجزاء متعددة تعددا غير ثابت على نمط المركَّب نفسه , ولكن ما أن
+      يتم إنشاء هذه الأجزاء حتى ترتبط حياتها بالمركب الأصل (أي أن مدة حياتها
+      وحياته تكون واحدة). ويمكن لهذه الأجزاء أن تزال بشكل واضح وصريح قبل أن يموت
+      المركب. التركيب قد يكون قادراً على تكرار نفسه بشكل ذاتي. المرادف اللغوي:
+      تجميع المركب.
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: ISO/IEC 19501
+    link: 'https://www.iso.org/standard/32620.html'
+  lineage_source: 'ISO/TS 19103:2005 ,4.2.10'
+  lineage_source_similarity: 1
+  date_accepted: 2005-07-15T00:00:00.000Z
+  date_amended: 2015-07-01T00:00:00.000Z
+  review_date: 2009-01-14T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2015-12-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19103:2015'
+  review_decision_notes: >-
+    The entry has been superseded. An entry with a revised definition has been
+    published in ISO 19103:2015
+  release: '-1'
+  terms:
+    - type: expression
+      designation: تكوين <UML>
+      normative_status: null
+  _revisions:
+    current: '9363e3'
+    tree:
+      '9363e3':
+        object:
+          id: 725
+          definition: >-
+            شكل من أشكال التجميع الذي يتطلب تضمين جزء مثيل في مركب واحد على
+            الأكثر في وقت واحد وهذا الكائي المركب هو مسئولاً عن إنشاء وتدمير
+            الأجزاء المكوِّنة له
+          language_code: ara
+          notes:
+            - >-
+              يمكن إنشاء أجزاء متعددة تعددا غير ثابت على نمط المركَّب نفسه ,
+              ولكن ما أن يتم إنشاء هذه الأجزاء حتى ترتبط حياتها بالمركب الأصل
+              (أي أن مدة حياتها وحياته تكون واحدة). ويمكن لهذه الأجزاء أن تزال
+              بشكل واضح وصريح قبل أن يموت المركب. التركيب قد يكون قادراً على
+              تكرار نفسه بشكل ذاتي. المرادف اللغوي: تجميع المركب.
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: ISO/IEC 19501
+            link: 'https://www.iso.org/standard/32620.html'
+          lineage_source: 'ISO/TS 19103:2005 ,4.2.10'
+          lineage_source_similarity: 1
+          date_accepted: 2005-07-15T00:00:00.000Z
+          date_amended: 2015-07-01T00:00:00.000Z
+          review_date: 2009-01-14T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2015-12-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19103:2015'
+          review_decision_notes: >-
+            The entry has been superseded. An entry with a revised definition
+            has been published in ISO 19103:2015
+          release: '-1'
+          terms:
+            - type: expression
+              designation: تكوين <UML>
+              normative_status: null
+        parents: []
+        timeCreated: 2005-07-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+zho:
+  id: 725
+  definition: 一种聚合形式，要求其组成成分的实例最多在聚合中出现一次。组合对象负责其组成成分的构造和析构。
+  language_code: zho
+  notes:
+    - >-
+      组合本身可以创建多重性的组成成分，但是一旦创建后，其组成成分随其存在和消失（也就是，他们共享生存期）。这样的组成成分在该聚合消失前，还可以显式地移走。聚合可以是递归的。同义词：聚合聚集。
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: ISO/IEC 19501
+    link: 'https://www.iso.org/standard/32620.html'
+  lineage_source: 'ISO/TS 19103:2005 ,4.2.10'
+  lineage_source_similarity: 1
+  date_accepted: 2005-07-15T00:00:00.000Z
+  date_amended: 2015-07-01T00:00:00.000Z
+  review_date: 2009-01-14T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2015-12-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19103:2015'
+  review_decision_notes: >-
+    The entry has been superseded. An entry with a revised definition has been
+    published in ISO 19103:2015
+  release: '-1'
+  terms:
+    - type: expression
+      designation: 组合<UML>
+      normative_status: null
+  _revisions:
+    current: e4b23e
+    tree:
+      e4b23e:
+        object:
+          id: 725
+          definition: 一种聚合形式，要求其组成成分的实例最多在聚合中出现一次。组合对象负责其组成成分的构造和析构。
+          language_code: zho
+          notes:
+            - >-
+              组合本身可以创建多重性的组成成分，但是一旦创建后，其组成成分随其存在和消失（也就是，他们共享生存期）。这样的组成成分在该聚合消失前，还可以显式地移走。聚合可以是递归的。同义词：聚合聚集。
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: ISO/IEC 19501
+            link: 'https://www.iso.org/standard/32620.html'
+          lineage_source: 'ISO/TS 19103:2005 ,4.2.10'
+          lineage_source_similarity: 1
+          date_accepted: 2005-07-15T00:00:00.000Z
+          date_amended: 2015-07-01T00:00:00.000Z
+          review_date: 2009-01-14T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2015-12-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19103:2015'
+          review_decision_notes: >-
+            The entry has been superseded. An entry with a revised definition
+            has been published in ISO 19103:2015
+          release: '-1'
+          terms:
+            - type: expression
+              designation: 组合<UML>
+              normative_status: null
+        parents: []
+        timeCreated: 2005-07-15T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+dan:
+  id: 725
+  definition: >-
+    form for aggregering, der kræver, at en del indgår i højst én helhed ad
+    gangen, og at helheden er ansvarlig for at delene skabes og/eller
+    forsvinder. Med andre ord lever og dør delene sammen med helheden.
+  language_code: dan
+  notes:
+    - >-
+      Dele med ikke-fast multiplicitet kan skabes efter selve helheden, men når
+      de er skabt, lever og dør de med den (dvs. de har samme levetid). Sådanne
+      dele kan også fjernes eksplicit, inden helheden dør. Sammensætning kan
+      være rekursiv. Synonym: sammensat aggregering.
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: ISO/IEC 19501
+    link: 'https://www.iso.org/standard/32620.html'
+  lineage_source: 'ISO/TS 19103:2005 ,4.2.10'
+  lineage_source_similarity: 1
+  date_accepted: 2005-07-15T00:00:00.000Z
+  date_amended: 2015-07-01T00:00:00.000Z
+  review_date: 2009-01-14T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2015-12-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19103:2015'
+  review_decision_notes: >-
+    The entry has been superseded. An entry with a revised definition has been
+    published in ISO 19103:2015
+  release: '-1'
+  terms:
+    - type: expression
+      designation: sammensætning <UML>
+      normative_status: null
+  _revisions:
+    current: 0def9f
+    tree:
+      0def9f:
+        object:
+          id: 725
+          definition: >-
+            form for aggregering, der kræver, at en del indgår i højst én helhed
+            ad gangen, og at helheden er ansvarlig for at delene skabes og/eller
+            forsvinder. Med andre ord lever og dør delene sammen med helheden.
+          language_code: dan
+          notes:
+            - >-
+              Dele med ikke-fast multiplicitet kan skabes efter selve helheden,
+              men når de er skabt, lever og dør de med den (dvs. de har samme
+              levetid). Sådanne dele kan også fjernes eksplicit, inden helheden
+              dør. Sammensætning kan være rekursiv. Synonym: sammensat
+              aggregering.
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: ISO/IEC 19501
+            link: 'https://www.iso.org/standard/32620.html'
+          lineage_source: 'ISO/TS 19103:2005 ,4.2.10'
+          lineage_source_similarity: 1
+          date_accepted: 2005-07-15T00:00:00.000Z
+          date_amended: 2015-07-01T00:00:00.000Z
+          review_date: 2009-01-14T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2015-12-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19103:2015'
+          review_decision_notes: >-
+            The entry has been superseded. An entry with a revised definition
+            has been published in ISO 19103:2015
+          release: '-1'
+          terms:
+            - type: expression
+              designation: sammensætning <UML>
+              normative_status: null
+        parents: []
+        timeCreated: 2005-07-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+fin:
+  id: 725
+  definition: >-
+    koosteen muoto, jossa osailmentymä voi sisältyä enintään yhteen
+    komposiittiin kerrallaan ja jossa komposiittiobjekti on vastuussa osiensa
+    luomisesta ja tuhoamisesta
+  language_code: fin
+  notes:
+    - >-
+      Osia, joiden kerrannaisuutta ei ole kiinnitetty, voidaan luoda komposiitin
+      jälkeen, mutta sen jälkeen kun osat on luotu, ne elävät ja kuolevat
+      komposiitin kanssa (osilla ja komposiitilla on sama elinikä).
+      Edellämainitun kaltaisia osia voi myös eksplisiittisesti poistaa ennen
+      komposiitin kuolemaa. Vahva kooste voi olla rekursiivinen. Englannin
+      kielessä termin composition synonyymi on termi composite aggregation.
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: ISO/IEC 19501
+    link: 'https://www.iso.org/standard/32620.html'
+  lineage_source: 'ISO/TS 19103:2005 ,4.2.10'
+  lineage_source_similarity: 1
+  date_accepted: 2005-07-15T00:00:00.000Z
+  date_amended: 2015-07-01T00:00:00.000Z
+  review_date: 2009-01-14T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2015-12-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19103:2015'
+  review_decision_notes: >-
+    The entry has been superseded. An entry with a revised definition has been
+    published in ISO 19103:2015
+  release: '-1'
+  terms:
+    - type: expression
+      designation: vahva kooste <UML>
+      normative_status: null
+    - designation: kompositio <UML>
+      type: expression
+  _revisions:
+    current: c9cc52
+    tree:
+      c9cc52:
+        object:
+          id: 725
+          definition: >-
+            koosteen muoto, jossa osailmentymä voi sisältyä enintään yhteen
+            komposiittiin kerrallaan ja jossa komposiittiobjekti on vastuussa
+            osiensa luomisesta ja tuhoamisesta
+          language_code: fin
+          notes:
+            - >-
+              Osia, joiden kerrannaisuutta ei ole kiinnitetty, voidaan luoda
+              komposiitin jälkeen, mutta sen jälkeen kun osat on luotu, ne
+              elävät ja kuolevat komposiitin kanssa (osilla ja komposiitilla on
+              sama elinikä). Edellämainitun kaltaisia osia voi myös
+              eksplisiittisesti poistaa ennen komposiitin kuolemaa. Vahva kooste
+              voi olla rekursiivinen. Englannin kielessä termin composition
+              synonyymi on termi composite aggregation.
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: ISO/IEC 19501
+            link: 'https://www.iso.org/standard/32620.html'
+          lineage_source: 'ISO/TS 19103:2005 ,4.2.10'
+          lineage_source_similarity: 1
+          date_accepted: 2005-07-15T00:00:00.000Z
+          date_amended: 2015-07-01T00:00:00.000Z
+          review_date: 2009-01-14T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2015-12-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19103:2015'
+          review_decision_notes: >-
+            The entry has been superseded. An entry with a revised definition
+            has been published in ISO 19103:2015
+          release: '-1'
+          terms:
+            - type: expression
+              designation: vahva kooste <UML>
+              normative_status: null
+            - designation: kompositio <UML>
+              type: expression
+        parents: []
+        timeCreated: 2005-07-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+fra:
+  id: 725
+  definition: >-
+    forme d'agrégation exigeant qu'une instance composante soit incluse dans au
+    plus un composite à la fois, et que l'objet composite soit responsable de la
+    création et de la destruction des instances composantes
+  language_code: fra
+  notes: []
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: ISO/IEC 19501
+    link: 'https://www.iso.org/standard/32620.html'
+  lineage_source: 'ISO/TS 19103:2005 ,4.2.10'
+  lineage_source_similarity: 1
+  date_accepted: 2005-07-15T00:00:00.000Z
+  date_amended: 2015-07-01T00:00:00.000Z
+  review_date: 2009-01-14T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2015-12-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19103:2015'
+  review_decision_notes: >-
+    The entry has been superseded. An entry with a revised definition has been
+    published in ISO 19103:2015
+  release: '-1'
+  terms:
+    - type: expression
+      designation: composition <UML>
+      normative_status: null
+  _revisions:
+    current: 8a4218
+    tree:
+      8a4218:
+        object:
+          id: 725
+          definition: >-
+            forme d'agrégation exigeant qu'une instance composante soit incluse
+            dans au plus un composite à la fois, et que l'objet composite soit
+            responsable de la création et de la destruction des instances
+            composantes
+          language_code: fra
+          notes: []
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: ISO/IEC 19501
+            link: 'https://www.iso.org/standard/32620.html'
+          lineage_source: 'ISO/TS 19103:2005 ,4.2.10'
+          lineage_source_similarity: 1
+          date_accepted: 2005-07-15T00:00:00.000Z
+          date_amended: 2015-07-01T00:00:00.000Z
+          review_date: 2009-01-14T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2015-12-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19103:2015'
+          review_decision_notes: >-
+            The entry has been superseded. An entry with a revised definition
+            has been published in ISO 19103:2015
+          release: '-1'
+          terms:
+            - type: expression
+              designation: composition <UML>
+              normative_status: null
+        parents: []
+        timeCreated: 2005-07-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+deu:
+  id: 725
+  language_code: deu
+  notes:
+    - >-
+      Parts with non-fixed multiplicity may be created after the composite
+      itself, but once created they live and die with it (i.e., they share
+      lifetimes). Such parts can also be explicitly removed before the death of
+      the composite. Composition may be recursive. Synonym: composite
+      aggregation.
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: ISO/IEC 19501
+    link: 'https://www.iso.org/standard/32620.html'
+  lineage_source: 'ISO/TS 19103:2005 ,4.2.10'
+  lineage_source_similarity: 1
+  date_accepted: 2005-07-15T00:00:00.000Z
+  date_amended: 2015-07-01T00:00:00.000Z
+  review_date: 2009-01-14T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2015-12-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19103:2015'
+  review_decision_notes: >-
+    The entry has been superseded. An entry with a revised definition has been
+    published in ISO 19103:2015
+  release: '-1'
+  terms:
+    - type: expression
+      designation: Komposition <UML>
+      normative_status: null
+  _revisions:
+    current: 26379a
+    tree:
+      26379a:
+        object:
+          id: 725
+          language_code: deu
+          notes:
+            - >-
+              Parts with non-fixed multiplicity may be created after the
+              composite itself, but once created they live and die with it
+              (i.e., they share lifetimes). Such parts can also be explicitly
+              removed before the death of the composite. Composition may be
+              recursive. Synonym: composite aggregation.
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: ISO/IEC 19501
+            link: 'https://www.iso.org/standard/32620.html'
+          lineage_source: 'ISO/TS 19103:2005 ,4.2.10'
+          lineage_source_similarity: 1
+          date_accepted: 2005-07-15T00:00:00.000Z
+          date_amended: 2015-07-01T00:00:00.000Z
+          review_date: 2009-01-14T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2015-12-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19103:2015'
+          review_decision_notes: >-
+            The entry has been superseded. An entry with a revised definition
+            has been published in ISO 19103:2015
+          release: '-1'
+          terms:
+            - type: expression
+              designation: Komposition <UML>
+              normative_status: null
+        parents: []
+        timeCreated: 2005-07-15T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+kor:
+  id: 725
+  definition: '부분 인스턴스는 동시에 하나의 합성에 포함되며, 합성 객체가 부분들의 생성, 제거에 대한 책임을 갖는 집합 연관의 형태'
+  language_code: kor
+  notes:
+    - >-
+      합성 이후 정해지지 않은 다중성이 추가 생성될 수 있지만, 한번 생성된 부분들은 합성과 생명 주기를 같이한다. 물론 이러한 부분들은
+      합성 연관이 해체되기 전, 명시적으로 제거할 수 있다. 합성은 순환적일 수 있다. 동의어: 합성 연관
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: ISO/IEC 19501
+    link: 'https://www.iso.org/standard/32620.html'
+  lineage_source: 'ISO/TS 19103:2005 ,4.2.10'
+  lineage_source_similarity: 1
+  date_accepted: 2005-07-15T00:00:00.000Z
+  date_amended: 2015-07-01T00:00:00.000Z
+  review_date: 2009-01-14T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2015-12-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19103:2015'
+  review_decision_notes: >-
+    The entry has been superseded. An entry with a revised definition has been
+    published in ISO 19103:2015
+  release: '-1'
+  terms:
+    - type: expression
+      designation: 합성 <UML>
+      normative_status: null
+  _revisions:
+    current: 45873e
+    tree:
+      45873e:
+        object:
+          id: 725
+          definition: '부분 인스턴스는 동시에 하나의 합성에 포함되며, 합성 객체가 부분들의 생성, 제거에 대한 책임을 갖는 집합 연관의 형태'
+          language_code: kor
+          notes:
+            - >-
+              합성 이후 정해지지 않은 다중성이 추가 생성될 수 있지만, 한번 생성된 부분들은 합성과 생명 주기를 같이한다. 물론
+              이러한 부분들은 합성 연관이 해체되기 전, 명시적으로 제거할 수 있다. 합성은 순환적일 수 있다. 동의어: 합성 연관
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: ISO/IEC 19501
+            link: 'https://www.iso.org/standard/32620.html'
+          lineage_source: 'ISO/TS 19103:2005 ,4.2.10'
+          lineage_source_similarity: 1
+          date_accepted: 2005-07-15T00:00:00.000Z
+          date_amended: 2015-07-01T00:00:00.000Z
+          review_date: 2009-01-14T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2015-12-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19103:2015'
+          review_decision_notes: >-
+            The entry has been superseded. An entry with a revised definition
+            has been published in ISO 19103:2015
+          release: '-1'
+          terms:
+            - type: expression
+              designation: 합성 <UML>
+              normative_status: null
+        parents: []
+        timeCreated: 2005-07-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 725
+  definition: >-
+    форма агрегации, при которой экземпляр – часть в любой момент входит не
+    более, чем в один композит, причем, композит отвечает за создание и
+    уничтожение этой части
+  language_code: rus
+  notes:
+    - >-
+      Части с нефиксированной множественностью могут быть созданы и после самого
+      композита, однако,  будучи созданными,  живут и умирают вместе с ним
+      (иными словами,   имеют общий жизненный цикл). Такие части могут также
+      быть удалены еще до смерти композиции. Композиция может быть рекурсивной.
+      См.  термины «агрегация»,   «композиция»
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: ISO/IEC 19501
+    link: 'https://www.iso.org/standard/32620.html'
+  lineage_source: 'ISO/TS 19103:2005 ,4.2.10'
+  lineage_source_similarity: 1
+  date_accepted: 2005-07-15T00:00:00.000Z
+  review_date: 2009-08-31T00:00:00.000Z
+  review_status: ''
+  review_type: ''
+  release: '1'
+  terms:
+    - type: expression
+      designation: композиция <UML>
+      normative_status: preferred
+  _revisions:
+    current: 5ab1ef
+    tree:
+      5ab1ef:
+        object:
+          id: 725
+          definition: >-
+            форма агрегации, при которой экземпляр – часть в любой момент входит
+            не более, чем в один композит, причем, композит отвечает за создание
+            и уничтожение этой части
+          language_code: rus
+          notes:
+            - >-
+              Части с нефиксированной множественностью могут быть созданы и
+              после самого композита, однако,  будучи созданными,  живут и
+              умирают вместе с ним (иными словами,   имеют общий жизненный
+              цикл). Такие части могут также быть удалены еще до смерти
+              композиции. Композиция может быть рекурсивной. См.  термины
+              «агрегация»,   «композиция»
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: ISO/IEC 19501
+            link: 'https://www.iso.org/standard/32620.html'
+          lineage_source: 'ISO/TS 19103:2005 ,4.2.10'
+          lineage_source_similarity: 1
+          date_accepted: 2005-07-15T00:00:00.000Z
+          review_date: 2009-08-31T00:00:00.000Z
+          review_status: ''
+          review_type: ''
+          release: '1'
+          terms:
+            - type: expression
+              designation: композиция <UML>
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-07-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 725
+  definition: >-
+    forma de agregación que requiere que una instancia componente sea incluida
+    como mucho en un compuesto al mismo tiempo y que el objeto compuesto sea
+    responsable de la creación y destrucción de las partes
+  language_code: spa
+  notes:
+    - >-
+      Las partes que no tienen una multiplicidad fija deben crearse depués de la
+      composición misma, pero una vez creadas viven y mueren con ella (es decir,
+      comparten ciclos de vida). Dichas partes también pueden eliminarse
+      explicitamente antes de la muerte del compuesto. La composición puede ser
+      recursiva. Sinónimo: agregación composición.
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: ISO/IEC 19501
+    link: 'https://www.iso.org/standard/32620.html'
+  lineage_source: 'ISO/TS 19103:2005 ,4.2.10'
+  lineage_source_similarity: 1
+  date_accepted: 2005-07-15T00:00:00.000Z
+  date_amended: 2015-07-01T00:00:00.000Z
+  review_date: 2009-01-14T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2015-12-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19103:2015'
+  review_decision_notes: >-
+    The entry has been superseded. An entry with a revised definition has been
+    published in ISO 19103:2015
+  release: '-1'
+  terms:
+    - type: expression
+      designation: composición <UML>
+      normative_status: null
+  _revisions:
+    current: b05046
+    tree:
+      b05046:
+        object:
+          id: 725
+          definition: >-
+            forma de agregación que requiere que una instancia componente sea
+            incluida como mucho en un compuesto al mismo tiempo y que el objeto
+            compuesto sea responsable de la creación y destrucción de las partes
+          language_code: spa
+          notes:
+            - >-
+              Las partes que no tienen una multiplicidad fija deben crearse
+              depués de la composición misma, pero una vez creadas viven y
+              mueren con ella (es decir, comparten ciclos de vida). Dichas
+              partes también pueden eliminarse explicitamente antes de la muerte
+              del compuesto. La composición puede ser recursiva. Sinónimo:
+              agregación composición.
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: ISO/IEC 19501
+            link: 'https://www.iso.org/standard/32620.html'
+          lineage_source: 'ISO/TS 19103:2005 ,4.2.10'
+          lineage_source_similarity: 1
+          date_accepted: 2005-07-15T00:00:00.000Z
+          date_amended: 2015-07-01T00:00:00.000Z
+          review_date: 2009-01-14T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2015-12-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19103:2015'
+          review_decision_notes: >-
+            The entry has been superseded. An entry with a revised definition
+            has been published in ISO 19103:2015
+          release: '-1'
+          terms:
+            - type: expression
+              designation: composición <UML>
+              normative_status: null
+        parents: []
+        timeCreated: 2005-07-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+swe:
+  id: 725
+  definition: >-
+    form of aggregation which requires that a part instance be included in at
+    most one composite at a time, and that the composite object is responsible
+    for the creation and destruction of the parts
+  language_code: swe
+  notes:
+    - >-
+      Parts with non-fixed multiplicity may be created after the composite
+      itself, but once created they live and die with it (i.e., they share
+      lifetimes). Such parts can also be explicitly removed before the death of
+      the composite. Composition may be recursive. Synonym: composite
+      aggregation.
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: ISO/IEC 19501
+    link: 'https://www.iso.org/standard/32620.html'
+  lineage_source: 'ISO/TS 19103:2005 ,4.2.10'
+  lineage_source_similarity: 1
+  date_accepted: 2005-07-15T00:00:00.000Z
+  date_amended: 2015-07-01T00:00:00.000Z
+  review_date: 2009-01-14T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2015-12-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19103:2015'
+  review_decision_notes: >-
+    The entry has been superseded. An entry with a revised definition has been
+    published in ISO 19103:2015
+  release: '-1'
+  terms:
+    - type: expression
+      designation: composition <UML>
+      normative_status: null
+  _revisions:
+    current: aa5de3
+    tree:
+      aa5de3:
+        object:
+          id: 725
+          definition: >-
+            form of aggregation which requires that a part instance be included
+            in at most one composite at a time, and that the composite object is
+            responsible for the creation and destruction of the parts
+          language_code: swe
+          notes:
+            - >-
+              Parts with non-fixed multiplicity may be created after the
+              composite itself, but once created they live and die with it
+              (i.e., they share lifetimes). Such parts can also be explicitly
+              removed before the death of the composite. Composition may be
+              recursive. Synonym: composite aggregation.
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: ISO/IEC 19501
+            link: 'https://www.iso.org/standard/32620.html'
+          lineage_source: 'ISO/TS 19103:2005 ,4.2.10'
+          lineage_source_similarity: 1
+          date_accepted: 2005-07-15T00:00:00.000Z
+          date_amended: 2015-07-01T00:00:00.000Z
+          review_date: 2009-01-14T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2015-12-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19103:2015'
+          review_decision_notes: >-
+            The entry has been superseded. An entry with a revised definition
+            has been published in ISO 19103:2015
+          release: '-1'
+          terms:
+            - type: expression
+              designation: composition <UML>
+              normative_status: null
+        parents: []
+        timeCreated: 2005-07-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

@@ -1,0 +1,81 @@
+term: greatest lower bound <mathematics>
+termid: 2236
+eng:
+  id: 2236
+  abbrev: glb <mathematics>
+  definition: >-
+    largest element smaller than or equal to all elements of a set contained in
+    an ordered domain <<math>>
+  language_code: eng
+  notes:
+    - >-
+      `[AA a in A => min(A) <= a] => [AA b in [(b in [AA a in A => b <=a] =>
+      [min(A) >= b]]` Any number is a lower bound of `O/` considered as a set of
+      numbers, because any given number is less than any number in `O/` (an
+      admitted vacuous statement since there is no number in `O/`, but true
+      nonetheless). This means that the `min(O/)` must be greater than any
+      number; this `+oo`.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19107:2019'
+    clause: '(E), 3.63'
+    link: 'https://www.iso.org/standard/66175.html'
+  date_accepted: 2019-12-02T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: Normal ISO processing
+  review_decision_notes: 'Publication of document ISO 19107:2019(E)'
+  release: '5'
+  terms:
+    - type: expression
+      designation: greatest lower bound <mathematics>
+      normative_status: admitted
+    - designation: minimum <mathematics>
+      type: expression
+  _revisions:
+    current: 531c6b
+    tree:
+      531c6b:
+        object:
+          id: 2236
+          abbrev: glb <mathematics>
+          definition: >-
+            largest element smaller than or equal to all elements of a set
+            contained in an ordered domain <<math>>
+          language_code: eng
+          notes:
+            - >-
+              `[AA a in A => min(A) <= a] => [AA b in [(b in [AA a in A => b
+              <=a] => [min(A) >= b]]` Any number is a lower bound of `O/`
+              considered as a set of numbers, because any given number is less
+              than any number in `O/` (an admitted vacuous statement since there
+              is no number in `O/`, but true nonetheless). This means that the
+              `min(O/)` must be greater than any number; this `+oo`.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19107:2019'
+            clause: '(E), 3.63'
+            link: 'https://www.iso.org/standard/66175.html'
+          date_accepted: 2019-12-02T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: Normal ISO processing
+          review_decision_notes: 'Publication of document ISO 19107:2019(E)'
+          release: '5'
+          terms:
+            - type: expression
+              designation: greatest lower bound <mathematics>
+              normative_status: admitted
+            - designation: minimum <mathematics>
+              type: expression
+        parents: []
+        timeCreated: 2019-12-02T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

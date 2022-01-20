@@ -1,0 +1,540 @@
+term: valid time
+termid: 487
+eng:
+  id: 487
+  definition: time when a fact is true in the abstracted reality
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'Jensen et al. '
+    clause: (1994)
+  lineage_source: 'ISO 19108:2002'
+  lineage_source_similarity: 1
+  date_accepted: 2002-09-01T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: valid time
+      normative_status: preferred
+  _revisions:
+    current: 420b08
+    tree:
+      420b08:
+        object:
+          id: 487
+          definition: time when a fact is true in the abstracted reality
+          language_code: eng
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'Jensen et al. '
+            clause: (1994)
+          lineage_source: 'ISO 19108:2002'
+          lineage_source_similarity: 1
+          date_accepted: 2002-09-01T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: valid time
+              normative_status: preferred
+        parents: []
+        timeCreated: 2002-09-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+ara:
+  id: 487
+  definition: الوقت الذي تكون فيه حقيقة ما صحيحة في الواقع المجرد
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'Jensen et al. '
+    clause: (1994)
+  date_accepted: 2002-09-01T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: وقت الصلاحية
+      normative_status: preferred
+  _revisions:
+    current: 9a0dda
+    tree:
+      9a0dda:
+        object:
+          id: 487
+          definition: الوقت الذي تكون فيه حقيقة ما صحيحة في الواقع المجرد
+          language_code: ara
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'Jensen et al. '
+            clause: (1994)
+          date_accepted: 2002-09-01T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: وقت الصلاحية
+              normative_status: preferred
+        parents: []
+        timeCreated: 2002-09-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+zho:
+  id: 487
+  definition: 在抽象世界中，事实为“真”的时间。
+  language_code: zho
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'Jensen et al. '
+    clause: (1994)
+  date_accepted: 2002-09-01T00:00:00.000Z
+  terms:
+    - type: expression
+      designation: 有效时间
+      normative_status: preferred
+  _revisions:
+    current: 595af1
+    tree:
+      595af1:
+        object:
+          id: 487
+          definition: 在抽象世界中，事实为“真”的时间。
+          language_code: zho
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'Jensen et al. '
+            clause: (1994)
+          date_accepted: 2002-09-01T00:00:00.000Z
+          terms:
+            - type: expression
+              designation: 有效时间
+              normative_status: preferred
+        parents: []
+        timeCreated: 2002-09-01T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+fin:
+  id: 487
+  definition: 'aika, jolloin seikka on tosi abstrahoidussa todellisuudessa'
+  language_code: fin
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'Jensen et al. '
+    clause: (1994)
+  lineage_source: Internet
+  date_accepted: 2002-09-01T00:00:00.000Z
+  terms:
+    - type: expression
+      designation: voimassaoloaika
+      normative_status: preferred
+  _revisions:
+    current: 8127ba
+    tree:
+      8127ba:
+        object:
+          id: 487
+          definition: 'aika, jolloin seikka on tosi abstrahoidussa todellisuudessa'
+          language_code: fin
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'Jensen et al. '
+            clause: (1994)
+          lineage_source: Internet
+          date_accepted: 2002-09-01T00:00:00.000Z
+          terms:
+            - type: expression
+              designation: voimassaoloaika
+              normative_status: preferred
+        parents: []
+        timeCreated: 2002-09-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+fra:
+  id: 487
+  definition: moment auquel un fait est vrai dans la réalité abstraite
+  language_code: fra
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'Jensen et al. '
+    clause: (1994)
+  lineage_source: ISO 19108
+  lineage_source_similarity: 1
+  date_accepted: 2002-09-01T00:00:00.000Z
+  terms:
+    - type: expression
+      designation: temps valide
+      normative_status: preferred
+  _revisions:
+    current: c458d0
+    tree:
+      c458d0:
+        object:
+          id: 487
+          definition: moment auquel un fait est vrai dans la réalité abstraite
+          language_code: fra
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'Jensen et al. '
+            clause: (1994)
+          lineage_source: ISO 19108
+          lineage_source_similarity: 1
+          date_accepted: 2002-09-01T00:00:00.000Z
+          terms:
+            - type: expression
+              designation: temps valide
+              normative_status: preferred
+        parents: []
+        timeCreated: 2002-09-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+deu:
+  id: 487
+  definition: 'Zeit, zu der eine Gegebenheit in der abstrakten Realität vorliegt'
+  language_code: deu
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'Jensen et al. '
+    clause: (1994)
+  date_accepted: 2002-09-01T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: gültige Zeit
+      normative_status: preferred
+  _revisions:
+    current: 156b54
+    tree:
+      156b54:
+        object:
+          id: 487
+          definition: 'Zeit, zu der eine Gegebenheit in der abstrakten Realität vorliegt'
+          language_code: deu
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'Jensen et al. '
+            clause: (1994)
+          date_accepted: 2002-09-01T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: gültige Zeit
+              normative_status: preferred
+        parents: []
+        timeCreated: 2002-09-01T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+jpn:
+  id: 487
+  definition: 'ある事実が抽象化した現実の中で真となっている時間[Jensenなど(1994)]。'
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'Jensen et al. '
+    clause: (1994)
+  lineage_source: JIS X 7108
+  date_accepted: 2002-09-01T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: 有効時間
+      normative_status: preferred
+  _revisions:
+    current: 2905f7
+    tree:
+      2905f7:
+        object:
+          id: 487
+          definition: 'ある事実が抽象化した現実の中で真となっている時間[Jensenなど(1994)]。'
+          language_code: jpn
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'Jensen et al. '
+            clause: (1994)
+          lineage_source: JIS X 7108
+          date_accepted: 2002-09-01T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: 有効時間
+              normative_status: preferred
+        parents: []
+        timeCreated: 2002-09-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+kor:
+  id: 487
+  definition: 한 정보가 추상화된 현실 속에서 "참"이 되는 시간
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'Jensen et al. '
+    clause: (1994)
+  lineage_source: KS X ISO 19104
+  date_accepted: 2008-12-19T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: 유효시간
+      normative_status: preferred
+  _revisions:
+    current: 6f59e6
+    tree:
+      6f59e6:
+        object:
+          id: 487
+          definition: 한 정보가 추상화된 현실 속에서 "참"이 되는 시간
+          language_code: kor
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'Jensen et al. '
+            clause: (1994)
+          lineage_source: KS X ISO 19104
+          date_accepted: 2008-12-19T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: 유효시간
+              normative_status: preferred
+        parents: []
+        timeCreated: 2008-12-19T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+msa:
+  id: 487
+  definition: >-
+    waktu masa yg benar atau pasti yang telah ditetapkan atau dirancang utk
+    pelaksanaan
+  language_code: msa
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'Jensen et al. '
+    clause: (1994)
+  lineage_source: ISO 19108;2002
+  lineage_source_similarity: 1
+  date_accepted: 2002-09-01T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: masa sah
+      normative_status: preferred
+  _revisions:
+    current: 70c739
+    tree:
+      70c739:
+        object:
+          id: 487
+          definition: >-
+            waktu masa yg benar atau pasti yang telah ditetapkan atau dirancang
+            utk pelaksanaan
+          language_code: msa
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'Jensen et al. '
+            clause: (1994)
+          lineage_source: ISO 19108;2002
+          lineage_source_similarity: 1
+          date_accepted: 2002-09-01T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: masa sah
+              normative_status: preferred
+        parents: []
+        timeCreated: 2002-09-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 487
+  definition: >-
+    время,  в течение которого  данный факт является истинным в моделируемой
+    реальности
+  language_code: rus
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'Jensen et al. '
+    clause: (1994)
+  lineage_source: Internet
+  date_accepted: 2002-09-01T00:00:00.000Z
+  terms:
+    - type: expression
+      designation: действительное время
+      normative_status: preferred
+  _revisions:
+    current: 7dc444
+    tree:
+      7dc444:
+        object:
+          id: 487
+          definition: >-
+            время,  в течение которого  данный факт является истинным в
+            моделируемой реальности
+          language_code: rus
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'Jensen et al. '
+            clause: (1994)
+          lineage_source: Internet
+          date_accepted: 2002-09-01T00:00:00.000Z
+          terms:
+            - type: expression
+              designation: действительное время
+              normative_status: preferred
+        parents: []
+        timeCreated: 2002-09-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 487
+  definition: tiempo durante el cual un hecho es verdadero en la realidad
+  language_code: spa
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'Jensen et al. '
+    clause: (1994)
+  date_accepted: 2002-09-01T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: tiempo válido
+      normative_status: preferred
+  _revisions:
+    current: 8b4c43
+    tree:
+      8b4c43:
+        object:
+          id: 487
+          definition: tiempo durante el cual un hecho es verdadero en la realidad
+          language_code: spa
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'Jensen et al. '
+            clause: (1994)
+          date_accepted: 2002-09-01T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: tiempo válido
+              normative_status: preferred
+        parents: []
+        timeCreated: 2002-09-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+swe:
+  id: 487
+  definition: tidsintervall under vilket något är korrekt eller giltigt
+  country_code: swe
+  language_code: swe
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'Jensen et al. '
+    clause: (1994)
+  lineage_source: 'ISO 19108:2002'
+  lineage_source_similarity: 1
+  date_accepted: 2002-09-01T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: giltighetstid
+      normative_status: preferred
+  _revisions:
+    current: 0f4d60
+    tree:
+      0f4d60:
+        object:
+          id: 487
+          definition: tidsintervall under vilket något är korrekt eller giltigt
+          country_code: swe
+          language_code: swe
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'Jensen et al. '
+            clause: (1994)
+          lineage_source: 'ISO 19108:2002'
+          lineage_source_similarity: 1
+          date_accepted: 2002-09-01T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: giltighetstid
+              normative_status: preferred
+        parents: []
+        timeCreated: 2002-09-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

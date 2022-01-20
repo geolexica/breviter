@@ -1,0 +1,973 @@
+term: coordinate reference system
+termid: 703
+eng:
+  id: 703
+  definition: coordinate system that is related to an object by a datum
+  language_code: eng
+  notes:
+    - 'For geodetic and vertical datums, the object will be the Earth.'
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19111:2019'
+    clause: '(E), 3.1.9'
+    link: 'https://www.iso.org/standard/74039.html'
+  lineage_source: 'ISO 19111:2007(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2007-07-01T00:00:00.000Z
+  review_date: 2019-01-31T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-01-31T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19111:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19111:2007 to ISO 19111:2019(E),
+    3.1.9. Lineage source added as ISO 19111:2007(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: coordinate reference system
+      normative_status: preferred
+  _revisions:
+    current: 9780de
+    tree:
+      9780de:
+        object:
+          id: 703
+          definition: coordinate system that is related to an object by a datum
+          language_code: eng
+          notes:
+            - 'For geodetic and vertical datums, the object will be the Earth.'
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19111:2019'
+            clause: '(E), 3.1.9'
+            link: 'https://www.iso.org/standard/74039.html'
+          lineage_source: 'ISO 19111:2007(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2007-07-01T00:00:00.000Z
+          review_date: 2019-01-31T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-01-31T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19111:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19111:2007 to ISO
+            19111:2019(E), 3.1.9. Lineage source added as ISO 19111:2007(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: coordinate reference system
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+ara:
+  id: 703
+  definition: نظام إحداثيات مرتبطبمعلم معين من خلال مرجع للإسناد
+  language_code: ara
+  notes:
+    - بالنسبة لمراجع الإسناد الجيوديسية والرأسية يكون المعلم هو كوكب الأرض.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19111:2019'
+    clause: '(E), 3.1.9'
+    link: 'https://www.iso.org/standard/74039.html'
+  lineage_source: 'ISO 19111:2007(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2007-07-01T00:00:00.000Z
+  review_date: 2019-01-31T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-01-31T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19111:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19111:2007 to ISO 19111:2019(E),
+    3.1.9. Lineage source added as ISO 19111:2007(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: نظام إحداثيات مرجعي
+      normative_status: preferred
+  _revisions:
+    current: e20d71
+    tree:
+      e20d71:
+        object:
+          id: 703
+          definition: نظام إحداثيات مرتبطبمعلم معين من خلال مرجع للإسناد
+          language_code: ara
+          notes:
+            - >-
+              بالنسبة لمراجع الإسناد الجيوديسية والرأسية يكون المعلم هو كوكب
+              الأرض.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19111:2019'
+            clause: '(E), 3.1.9'
+            link: 'https://www.iso.org/standard/74039.html'
+          lineage_source: 'ISO 19111:2007(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2007-07-01T00:00:00.000Z
+          review_date: 2019-01-31T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-01-31T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19111:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19111:2007 to ISO
+            19111:2019(E), 3.1.9. Lineage source added as ISO 19111:2007(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: نظام إحداثيات مرجعي
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+zho:
+  id: 703
+  definition: 通过基准与现实世界相关联的坐标系
+  language_code: zho
+  notes:
+    - 对大地基准和高程基准而言，对象是地球。
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19111:2019'
+    clause: '(E), 3.1.9'
+    link: 'https://www.iso.org/standard/74039.html'
+  lineage_source: 'ISO 19111:2007(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2007-07-01T00:00:00.000Z
+  review_date: 2019-01-31T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-01-31T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19111:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19111:2007 to ISO 19111:2019(E),
+    3.1.9. Lineage source added as ISO 19111:2007(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: 坐标参照系
+      normative_status: preferred
+  _revisions:
+    current: 07b0bf
+    tree:
+      07b0bf:
+        object:
+          id: 703
+          definition: 通过基准与现实世界相关联的坐标系
+          language_code: zho
+          notes:
+            - 对大地基准和高程基准而言，对象是地球。
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19111:2019'
+            clause: '(E), 3.1.9'
+            link: 'https://www.iso.org/standard/74039.html'
+          lineage_source: 'ISO 19111:2007(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2007-07-01T00:00:00.000Z
+          review_date: 2019-01-31T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-01-31T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19111:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19111:2007 to ISO
+            19111:2019(E), 3.1.9. Lineage source added as ISO 19111:2007(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: 坐标参照系
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-07-01T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+dan:
+  id: 703
+  definition: 'koordinatsystem, der er relateret til et datum i den virkelige verden'
+  language_code: dan
+  notes:
+    - >-
+      For geodætiske og vertikale datummer vil koordinatsystemet blive relateret
+      til jorden.
+  examples: []
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19111:2019'
+    clause: '(E), 3.1.9'
+    link: 'https://www.iso.org/standard/74039.html'
+  lineage_source: 'ISO 19111:2007(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2007-07-01T00:00:00.000Z
+  review_date: 2019-01-31T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-01-31T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19111:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19111:2007 to ISO 19111:2019(E),
+    3.1.9. Lineage source added as ISO 19111:2007(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: koordinatreferencesystem
+      normative_status: null
+  _revisions:
+    current: 6c06e6
+    tree:
+      6c06e6:
+        object:
+          id: 703
+          definition: >-
+            koordinatsystem, der er relateret til et datum i den virkelige
+            verden
+          language_code: dan
+          notes:
+            - >-
+              For geodætiske og vertikale datummer vil koordinatsystemet blive
+              relateret til jorden.
+          examples: []
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19111:2019'
+            clause: '(E), 3.1.9'
+            link: 'https://www.iso.org/standard/74039.html'
+          lineage_source: 'ISO 19111:2007(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2007-07-01T00:00:00.000Z
+          review_date: 2019-01-31T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-01-31T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19111:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19111:2007 to ISO
+            19111:2019(E), 3.1.9. Lineage source added as ISO 19111:2007(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: koordinatreferencesystem
+              normative_status: null
+        parents: []
+        timeCreated: 2007-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+nld:
+  id: 703
+  definition: coördinaatsysteem dat aan een object is gerelateerd door een datum
+  language_code: nld
+  notes:
+    - Voor geodetische en verticale datums is het object de aarde.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19111:2019'
+    clause: '(E), 3.1.9'
+    link: 'https://www.iso.org/standard/74039.html'
+  lineage_source: 'ISO 19111:2007(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2007-07-01T00:00:00.000Z
+  review_date: 2019-01-31T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-01-31T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19111:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19111:2007 to ISO 19111:2019(E),
+    3.1.9. Lineage source added as ISO 19111:2007(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: coördinaatreferentiesysteem
+      normative_status: preferred
+  _revisions:
+    current: 85f1d7
+    tree:
+      85f1d7:
+        object:
+          id: 703
+          definition: coördinaatsysteem dat aan een object is gerelateerd door een datum
+          language_code: nld
+          notes:
+            - Voor geodetische en verticale datums is het object de aarde.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19111:2019'
+            clause: '(E), 3.1.9'
+            link: 'https://www.iso.org/standard/74039.html'
+          lineage_source: 'ISO 19111:2007(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2007-07-01T00:00:00.000Z
+          review_date: 2019-01-31T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-01-31T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19111:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19111:2007 to ISO
+            19111:2019(E), 3.1.9. Lineage source added as ISO 19111:2007(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: coördinaatreferentiesysteem
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-07-01T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+fin:
+  id: 703
+  definition: >-
+    järjestelmä, joka muodostuu datumin avulla reaalimaailmaan kiinnitetystä
+    koordinaatistosta
+  language_code: fin
+  notes:
+    - >-
+      Geodeettisen datumin ja korkeusdatumin tapauksissa sijainti ilmaistaan
+      Maan suhteen.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19111:2019'
+    clause: '(E), 3.1.9'
+    link: 'https://www.iso.org/standard/74039.html'
+  lineage_source: 'ISO 19111:2007(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2007-07-01T00:00:00.000Z
+  review_date: 2019-01-31T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-01-31T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19111:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19111:2007 to ISO 19111:2019(E),
+    3.1.9. Lineage source added as ISO 19111:2007(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: koordinaattijärjestelmä
+      normative_status: preferred
+  _revisions:
+    current: 4c9a5e
+    tree:
+      4c9a5e:
+        object:
+          id: 703
+          definition: >-
+            järjestelmä, joka muodostuu datumin avulla reaalimaailmaan
+            kiinnitetystä koordinaatistosta
+          language_code: fin
+          notes:
+            - >-
+              Geodeettisen datumin ja korkeusdatumin tapauksissa sijainti
+              ilmaistaan Maan suhteen.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19111:2019'
+            clause: '(E), 3.1.9'
+            link: 'https://www.iso.org/standard/74039.html'
+          lineage_source: 'ISO 19111:2007(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2007-07-01T00:00:00.000Z
+          review_date: 2019-01-31T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-01-31T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19111:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19111:2007 to ISO
+            19111:2019(E), 3.1.9. Lineage source added as ISO 19111:2007(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: koordinaattijärjestelmä
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+fra:
+  id: 703
+  definition: Système de coordonnées attaché à un objet relativement à un référentiel
+  language_code: fra
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19111:2019'
+    clause: '(E), 3.1.9'
+    link: 'https://www.iso.org/standard/74039.html'
+  lineage_source: 'ISO 19111:2007(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2007-07-01T00:00:00.000Z
+  review_date: 2019-01-31T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-01-31T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19111:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19111:2007 to ISO 19111:2019(E),
+    3.1.9. Lineage source added as ISO 19111:2007(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: système de coordonnées de référence
+      normative_status: preferred
+  _revisions:
+    current: fba4f6
+    tree:
+      fba4f6:
+        object:
+          id: 703
+          definition: >-
+            Système de coordonnées attaché à un objet relativement à un
+            référentiel
+          language_code: fra
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19111:2019'
+            clause: '(E), 3.1.9'
+            link: 'https://www.iso.org/standard/74039.html'
+          lineage_source: 'ISO 19111:2007(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2007-07-01T00:00:00.000Z
+          review_date: 2019-01-31T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-01-31T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19111:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19111:2007 to ISO
+            19111:2019(E), 3.1.9. Lineage source added as ISO 19111:2007(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: système de coordonnées de référence
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+deu:
+  id: 703
+  definition: 'Koordinatensystem, das durch ein Datum auf ein Objekt bezogen ist'
+  language_code: deu
+  notes:
+    - 'For geodetic and vertical datums, the object will be the Earth.'
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19111:2019'
+    clause: '(E), 3.1.9'
+    link: 'https://www.iso.org/standard/74039.html'
+  lineage_source: 'ISO 19111:2007(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2007-07-01T00:00:00.000Z
+  review_date: 2019-01-31T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-01-31T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19111:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19111:2007 to ISO 19111:2019(E),
+    3.1.9. Lineage source added as ISO 19111:2007(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: Koordinatenreferenzsystem
+      normative_status: preferred
+  _revisions:
+    current: '7290e5'
+    tree:
+      '7290e5':
+        object:
+          id: 703
+          definition: 'Koordinatensystem, das durch ein Datum auf ein Objekt bezogen ist'
+          language_code: deu
+          notes:
+            - 'For geodetic and vertical datums, the object will be the Earth.'
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19111:2019'
+            clause: '(E), 3.1.9'
+            link: 'https://www.iso.org/standard/74039.html'
+          lineage_source: 'ISO 19111:2007(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2007-07-01T00:00:00.000Z
+          review_date: 2019-01-31T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-01-31T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19111:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19111:2007 to ISO
+            19111:2019(E), 3.1.9. Lineage source added as ISO 19111:2007(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: Koordinatenreferenzsystem
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-07-01T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+kor:
+  id: 703
+  definition: 데이텀에 의해 객체와 관련된 좌표 체계
+  language_code: kor
+  notes:
+    - '측지 원점 및 수직 데이텀의 경우, "객체"는 지구이다.'
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19111:2019'
+    clause: '(E), 3.1.9'
+    link: 'https://www.iso.org/standard/74039.html'
+  lineage_source: 'ISO 19111:2007(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2007-07-01T00:00:00.000Z
+  review_date: 2019-01-31T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-01-31T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19111:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19111:2007 to ISO 19111:2019(E),
+    3.1.9. Lineage source added as ISO 19111:2007(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: 좌표 참조 체계
+      normative_status: preferred
+  _revisions:
+    current: d760af
+    tree:
+      d760af:
+        object:
+          id: 703
+          definition: 데이텀에 의해 객체와 관련된 좌표 체계
+          language_code: kor
+          notes:
+            - '측지 원점 및 수직 데이텀의 경우, "객체"는 지구이다.'
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19111:2019'
+            clause: '(E), 3.1.9'
+            link: 'https://www.iso.org/standard/74039.html'
+          lineage_source: 'ISO 19111:2007(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2007-07-01T00:00:00.000Z
+          review_date: 2019-01-31T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-01-31T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19111:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19111:2007 to ISO
+            19111:2019(E), 3.1.9. Lineage source added as ISO 19111:2007(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: 좌표 참조 체계
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+msa:
+  id: 703
+  definition: >-
+    Titik kedudukan dalam sistem grafik yang menggunakan rujukan sudut dan jarak
+    dari satu titik pusat sebagai cara untuk menentukan kedudukan titik
+  language_code: msa
+  notes:
+    - 'For geodetic and vertical datums, the object will be the Earth.'
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19111:2019'
+    clause: '(E), 3.1.9'
+    link: 'https://www.iso.org/standard/74039.html'
+  lineage_source: 'ISO 19111:2007(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2007-07-01T00:00:00.000Z
+  review_date: 2019-01-31T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-01-31T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19111:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19111:2007 to ISO 19111:2019(E),
+    3.1.9. Lineage source added as ISO 19111:2007(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: sistem rujukan koordinat
+      normative_status: preferred
+  _revisions:
+    current: bea839
+    tree:
+      bea839:
+        object:
+          id: 703
+          definition: >-
+            Titik kedudukan dalam sistem grafik yang menggunakan rujukan sudut
+            dan jarak dari satu titik pusat sebagai cara untuk menentukan
+            kedudukan titik
+          language_code: msa
+          notes:
+            - 'For geodetic and vertical datums, the object will be the Earth.'
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19111:2019'
+            clause: '(E), 3.1.9'
+            link: 'https://www.iso.org/standard/74039.html'
+          lineage_source: 'ISO 19111:2007(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2007-07-01T00:00:00.000Z
+          review_date: 2019-01-31T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-01-31T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19111:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19111:2007 to ISO
+            19111:2019(E), 3.1.9. Lineage source added as ISO 19111:2007(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: sistem rujukan koordinat
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+pol:
+  id: 703
+  definition: >-
+    układ współrzędnych powiązany ze światem rzeczywistym poprzez układ
+    odniesienia
+  language_code: pol
+  notes:
+    - Dla geodezyjnego i pionowego ukladu odniesienia obiektem jezt Ziemia.
+  examples: []
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19111:2019'
+    clause: '(E), 3.1.9'
+    link: 'https://www.iso.org/standard/74039.html'
+  lineage_source: 'ISO 19111:2007(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2007-07-01T00:00:00.000Z
+  review_date: 2019-01-31T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-01-31T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19111:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19111:2007 to ISO 19111:2019(E),
+    3.1.9. Lineage source added as ISO 19111:2007(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: system odniesienia oparty na współrzędnych
+      normative_status: preferred
+  _revisions:
+    current: d6a894
+    tree:
+      d6a894:
+        object:
+          id: 703
+          definition: >-
+            układ współrzędnych powiązany ze światem rzeczywistym poprzez układ
+            odniesienia
+          language_code: pol
+          notes:
+            - >-
+              Dla geodezyjnego i pionowego ukladu odniesienia obiektem jezt
+              Ziemia.
+          examples: []
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19111:2019'
+            clause: '(E), 3.1.9'
+            link: 'https://www.iso.org/standard/74039.html'
+          lineage_source: 'ISO 19111:2007(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2007-07-01T00:00:00.000Z
+          review_date: 2019-01-31T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-01-31T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19111:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19111:2007 to ISO
+            19111:2019(E), 3.1.9. Lineage source added as ISO 19111:2007(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: system odniesienia oparty na współrzędnych
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 703
+  definition: 'система координат, связанная с объектом исходными датами'
+  language_code: rus
+  notes:
+    - Для геодезических и вертикальных дат объектом является Земля
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19111:2019'
+    clause: '(E), 3.1.9'
+    link: 'https://www.iso.org/standard/74039.html'
+  lineage_source: 'ISO 19111:2007(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2007-07-01T00:00:00.000Z
+  review_date: 2019-01-31T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-01-31T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19111:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19111:2007 to ISO 19111:2019(E),
+    3.1.9. Lineage source added as ISO 19111:2007(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: координатная система отсчета
+      normative_status: preferred
+  _revisions:
+    current: 45676a
+    tree:
+      45676a:
+        object:
+          id: 703
+          definition: 'система координат, связанная с объектом исходными датами'
+          language_code: rus
+          notes:
+            - Для геодезических и вертикальных дат объектом является Земля
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19111:2019'
+            clause: '(E), 3.1.9'
+            link: 'https://www.iso.org/standard/74039.html'
+          lineage_source: 'ISO 19111:2007(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2007-07-01T00:00:00.000Z
+          review_date: 2019-01-31T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-01-31T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19111:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19111:2007 to ISO
+            19111:2019(E), 3.1.9. Lineage source added as ISO 19111:2007(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: координатная система отсчета
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 703
+  definition: >-
+    sistema de coordenadas que está relacionado con un objeto a través de un
+    datum
+  language_code: spa
+  notes:
+    - 'Para datums geodésicos y verticales, el objeto es la Tierra.'
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19111:2019'
+    clause: '(E), 3.1.9'
+    link: 'https://www.iso.org/standard/74039.html'
+  lineage_source: 'ISO 19111:2007(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2007-07-01T00:00:00.000Z
+  review_date: 2019-01-31T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-01-31T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19111:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19111:2007 to ISO 19111:2019(E),
+    3.1.9. Lineage source added as ISO 19111:2007(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: sistema de referencia de coordenadas
+      normative_status: preferred
+  _revisions:
+    current: '215694'
+    tree:
+      '215694':
+        object:
+          id: 703
+          definition: >-
+            sistema de coordenadas que está relacionado con un objeto a través
+            de un datum
+          language_code: spa
+          notes:
+            - 'Para datums geodésicos y verticales, el objeto es la Tierra.'
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19111:2019'
+            clause: '(E), 3.1.9'
+            link: 'https://www.iso.org/standard/74039.html'
+          lineage_source: 'ISO 19111:2007(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2007-07-01T00:00:00.000Z
+          review_date: 2019-01-31T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-01-31T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19111:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19111:2007 to ISO
+            19111:2019(E), 3.1.9. Lineage source added as ISO 19111:2007(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: sistema de referencia de coordenadas
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+swe:
+  id: 703
+  definition: >-
+    koordinatsystem knutet till ett referenssystem som är baserat på ett
+    geodetiskt datum
+  country_code: swe
+  language_code: swe
+  notes:
+    - 'For geodetic and vertical datums, the object will be the Earth.'
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19111:2019'
+    clause: '(E), 3.1.9'
+    link: 'https://www.iso.org/standard/74039.html'
+  lineage_source: 'ISO 19111:2007(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2007-07-01T00:00:00.000Z
+  review_date: 2019-01-31T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-01-31T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19111:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19111:2007 to ISO 19111:2019(E),
+    3.1.9. Lineage source added as ISO 19111:2007(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: koordinatbaserat referenssystem
+      normative_status: preferred
+  _revisions:
+    current: 43699d
+    tree:
+      43699d:
+        object:
+          id: 703
+          definition: >-
+            koordinatsystem knutet till ett referenssystem som är baserat på ett
+            geodetiskt datum
+          country_code: swe
+          language_code: swe
+          notes:
+            - 'For geodetic and vertical datums, the object will be the Earth.'
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19111:2019'
+            clause: '(E), 3.1.9'
+            link: 'https://www.iso.org/standard/74039.html'
+          lineage_source: 'ISO 19111:2007(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2007-07-01T00:00:00.000Z
+          review_date: 2019-01-31T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-01-31T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19111:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19111:2007 to ISO
+            19111:2019(E), 3.1.9. Lineage source added as ISO 19111:2007(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: koordinatbaserat referenssystem
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

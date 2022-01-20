@@ -1,0 +1,641 @@
+term: capability test
+termid: 35
+eng:
+  id: 35
+  definition: >-
+    test designed to determine whether an IUT conforms to a particular
+    characteristic of an International Standard as described in the test purpose
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19105:2000'
+    link: 'https://www.iso.org/standard/26010.html'
+  date_accepted: 2000-12-15T00:00:00.000Z
+  review_date: 2019-07-05T00:00:00.000Z
+  review_status: pending
+  review_type: retirement
+  release: '1'
+  terms:
+    - type: expression
+      designation: capability test
+      normative_status: preferred
+  _revisions:
+    current: 8fb646
+    tree:
+      8fb646:
+        object:
+          id: 35
+          definition: >-
+            test designed to determine whether an IUT conforms to a particular
+            characteristic of an International Standard as described in the test
+            purpose
+          language_code: eng
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19105:2000'
+            link: 'https://www.iso.org/standard/26010.html'
+          date_accepted: 2000-12-15T00:00:00.000Z
+          review_date: 2019-07-05T00:00:00.000Z
+          review_status: pending
+          review_type: retirement
+          release: '1'
+          terms:
+            - type: expression
+              designation: capability test
+              normative_status: preferred
+        parents: []
+        timeCreated: 2000-12-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+ara:
+  id: 35
+  definition: >-
+    اختبار صُمم لتحديد ما إذا كان التنفيذ تحت ظروف الاختبار في حالة معينة مطابقا
+    لخاصية محددة لمقياس دولي ما بحسب الوصف الوارد في الغرض من إجراء الاختبار
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19105:2000'
+    link: 'https://www.iso.org/standard/26010.html'
+  date_accepted: 2000-12-15T00:00:00.000Z
+  review_date: 2019-07-05T00:00:00.000Z
+  review_status: pending
+  review_type: retirement
+  release: '1'
+  terms:
+    - type: expression
+      designation: اختبار القدرة
+      normative_status: preferred
+  _revisions:
+    current: 050dc8
+    tree:
+      050dc8:
+        object:
+          id: 35
+          definition: >-
+            اختبار صُمم لتحديد ما إذا كان التنفيذ تحت ظروف الاختبار في حالة
+            معينة مطابقا لخاصية محددة لمقياس دولي ما بحسب الوصف الوارد في الغرض
+            من إجراء الاختبار
+          language_code: ara
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19105:2000'
+            link: 'https://www.iso.org/standard/26010.html'
+          date_accepted: 2000-12-15T00:00:00.000Z
+          review_date: 2019-07-05T00:00:00.000Z
+          review_status: pending
+          review_type: retirement
+          release: '1'
+          terms:
+            - type: expression
+              designation: اختبار القدرة
+              normative_status: preferred
+        parents: []
+        timeCreated: 2000-12-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+zho:
+  id: 35
+  definition: 为确定被测实现（IUT)是否符合测试目的所描述的标准的特性而设计的测试。
+  language_code: zho
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19105:2000'
+    link: 'https://www.iso.org/standard/26010.html'
+  date_accepted: 2000-12-15T00:00:00.000Z
+  review_date: 2019-07-05T00:00:00.000Z
+  review_status: pending
+  review_type: retirement
+  release: '1'
+  terms:
+    - type: expression
+      designation: 能力测试
+      normative_status: preferred
+  _revisions:
+    current: 97ea04
+    tree:
+      97ea04:
+        object:
+          id: 35
+          definition: 为确定被测实现（IUT)是否符合测试目的所描述的标准的特性而设计的测试。
+          language_code: zho
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19105:2000'
+            link: 'https://www.iso.org/standard/26010.html'
+          date_accepted: 2000-12-15T00:00:00.000Z
+          review_date: 2019-07-05T00:00:00.000Z
+          review_status: pending
+          review_type: retirement
+          release: '1'
+          terms:
+            - type: expression
+              designation: 能力测试
+              normative_status: preferred
+        parents: []
+        timeCreated: 2000-12-15T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+dan:
+  id: 35
+  definition: >-
+    test, der er udviklet med henblik på at afgøre, om en IUT (Implementation
+    Under Test) opfylder kravene til en bestemt egenskab i en international
+    standard som beskrevet i testformålet
+  language_code: dan
+  notes: []
+  examples: []
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19105:2000'
+    link: 'https://www.iso.org/standard/26010.html'
+  date_accepted: 2000-12-15T00:00:00.000Z
+  review_date: 2019-07-05T00:00:00.000Z
+  review_status: pending
+  review_type: retirement
+  release: '1'
+  terms:
+    - type: expression
+      designation: egnethedstest
+      normative_status: null
+  _revisions:
+    current: c7bf76
+    tree:
+      c7bf76:
+        object:
+          id: 35
+          definition: >-
+            test, der er udviklet med henblik på at afgøre, om en IUT
+            (Implementation Under Test) opfylder kravene til en bestemt egenskab
+            i en international standard som beskrevet i testformålet
+          language_code: dan
+          notes: []
+          examples: []
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19105:2000'
+            link: 'https://www.iso.org/standard/26010.html'
+          date_accepted: 2000-12-15T00:00:00.000Z
+          review_date: 2019-07-05T00:00:00.000Z
+          review_status: pending
+          review_type: retirement
+          release: '1'
+          terms:
+            - type: expression
+              designation: egnethedstest
+              normative_status: null
+        parents: []
+        timeCreated: 2000-12-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+fin:
+  id: 35
+  definition: >-
+    testi, jonka tarkoituksena on määrittää, onko testattavana oleva toteutus
+    (Implementation Under Test, IUT) kansainvälisen standardin tietyn
+    vaatimuksen mukainen siten kuin testin tarkoituksessa on kuvattu
+  language_code: fin
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19105:2000'
+    link: 'https://www.iso.org/standard/26010.html'
+  date_accepted: 2000-12-15T00:00:00.000Z
+  review_date: 2019-07-05T00:00:00.000Z
+  review_status: pending
+  review_type: retirement
+  release: '1'
+  terms:
+    - type: expression
+      designation: kelpoisuustesti
+      normative_status: preferred
+  _revisions:
+    current: c83c5f
+    tree:
+      c83c5f:
+        object:
+          id: 35
+          definition: >-
+            testi, jonka tarkoituksena on määrittää, onko testattavana oleva
+            toteutus (Implementation Under Test, IUT) kansainvälisen standardin
+            tietyn vaatimuksen mukainen siten kuin testin tarkoituksessa on
+            kuvattu
+          language_code: fin
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19105:2000'
+            link: 'https://www.iso.org/standard/26010.html'
+          date_accepted: 2000-12-15T00:00:00.000Z
+          review_date: 2019-07-05T00:00:00.000Z
+          review_status: pending
+          review_type: retirement
+          release: '1'
+          terms:
+            - type: expression
+              designation: kelpoisuustesti
+              normative_status: preferred
+        parents: []
+        timeCreated: 2000-12-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+fra:
+  id: 35
+  definition: >-
+    test destiné à déterminer si une implémentation soumise à test est conforme
+    à une caractéristique particulière d'une norme internationale, tel que
+    décrit dans l'objet du test
+  language_code: fra
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19105:2000'
+    link: 'https://www.iso.org/standard/26010.html'
+  date_accepted: 2000-12-15T00:00:00.000Z
+  review_date: 2019-07-05T00:00:00.000Z
+  review_status: pending
+  review_type: retirement
+  release: '1'
+  terms:
+    - type: expression
+      designation: test fonctionnel
+      normative_status: preferred
+  _revisions:
+    current: 4c44a7
+    tree:
+      4c44a7:
+        object:
+          id: 35
+          definition: >-
+            test destiné à déterminer si une implémentation soumise à test est
+            conforme à une caractéristique particulière d'une norme
+            internationale, tel que décrit dans l'objet du test
+          language_code: fra
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19105:2000'
+            link: 'https://www.iso.org/standard/26010.html'
+          date_accepted: 2000-12-15T00:00:00.000Z
+          review_date: 2019-07-05T00:00:00.000Z
+          review_status: pending
+          review_type: retirement
+          release: '1'
+          terms:
+            - type: expression
+              designation: test fonctionnel
+              normative_status: preferred
+        parents: []
+        timeCreated: 2000-12-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+deu:
+  id: 35
+  language_code: deu
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19105:2000'
+    link: 'https://www.iso.org/standard/26010.html'
+  date_accepted: 2000-12-15T00:00:00.000Z
+  review_date: 2019-07-05T00:00:00.000Z
+  review_status: pending
+  review_type: retirement
+  release: '1'
+  terms:
+    - type: expression
+      designation: Fähigkeitstest
+      normative_status: preferred
+  _revisions:
+    current: b04ce1
+    tree:
+      b04ce1:
+        object:
+          id: 35
+          language_code: deu
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19105:2000'
+            link: 'https://www.iso.org/standard/26010.html'
+          date_accepted: 2000-12-15T00:00:00.000Z
+          review_date: 2019-07-05T00:00:00.000Z
+          review_status: pending
+          review_type: retirement
+          release: '1'
+          terms:
+            - type: expression
+              designation: Fähigkeitstest
+              normative_status: preferred
+        parents: []
+        timeCreated: 2000-12-15T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+jpn:
+  id: 35
+  definition: '試験対象(IUT:implementation under test)が試験目的の記述どおりに規格の特定の性質に適合するかどうかを決定するための試験。'
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19105:2000'
+    link: 'https://www.iso.org/standard/26010.html'
+  date_accepted: 2000-12-15T00:00:00.000Z
+  review_date: 2019-07-05T00:00:00.000Z
+  review_status: pending
+  review_type: retirement
+  release: '1'
+  terms:
+    - type: expression
+      designation: 機能試験
+      normative_status: preferred
+  _revisions:
+    current: 5564a7
+    tree:
+      5564a7:
+        object:
+          id: 35
+          definition: >-
+            試験対象(IUT:implementation under
+            test)が試験目的の記述どおりに規格の特定の性質に適合するかどうかを決定するための試験。
+          language_code: jpn
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19105:2000'
+            link: 'https://www.iso.org/standard/26010.html'
+          date_accepted: 2000-12-15T00:00:00.000Z
+          review_date: 2019-07-05T00:00:00.000Z
+          review_status: pending
+          review_type: retirement
+          release: '1'
+          terms:
+            - type: expression
+              designation: 機能試験
+              normative_status: preferred
+        parents: []
+        timeCreated: 2000-12-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+kor:
+  id: 35
+  definition: >-
+    시험용 구현(IUT: Implementation under test)이 시험 목적에 기술된 바와 같이 표준 표준의 특정한 특성을
+    따르는지를 판단하기 위해 설계된 시험
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19105:2000'
+    link: 'https://www.iso.org/standard/26010.html'
+  date_accepted: 2000-12-15T00:00:00.000Z
+  review_date: 2019-07-05T00:00:00.000Z
+  review_status: pending
+  review_type: retirement
+  release: '1'
+  terms:
+    - type: expression
+      designation: 기능 시험
+      normative_status: preferred
+  _revisions:
+    current: 674ee1
+    tree:
+      674ee1:
+        object:
+          id: 35
+          definition: >-
+            시험용 구현(IUT: Implementation under test)이 시험 목적에 기술된 바와 같이 표준 표준의 특정한
+            특성을 따르는지를 판단하기 위해 설계된 시험
+          language_code: kor
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19105:2000'
+            link: 'https://www.iso.org/standard/26010.html'
+          date_accepted: 2000-12-15T00:00:00.000Z
+          review_date: 2019-07-05T00:00:00.000Z
+          review_status: pending
+          review_type: retirement
+          release: '1'
+          terms:
+            - type: expression
+              designation: 기능 시험
+              normative_status: preferred
+        parents: []
+        timeCreated: 2000-12-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 35
+  definition: >-
+    тест, призванный установить, обладает ли объект проверки конкретным
+    свойством, которое предусмотрено международным стандартом и объявлено целью
+    тестирования
+  language_code: rus
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19105:2000'
+    link: 'https://www.iso.org/standard/26010.html'
+  date_accepted: 2000-12-15T00:00:00.000Z
+  review_date: 2019-07-05T00:00:00.000Z
+  review_status: pending
+  review_type: retirement
+  release: '1'
+  terms:
+    - type: expression
+      designation: тест на функциональное соответствие
+      normative_status: preferred
+  _revisions:
+    current: 82628e
+    tree:
+      82628e:
+        object:
+          id: 35
+          definition: >-
+            тест, призванный установить, обладает ли объект проверки конкретным
+            свойством, которое предусмотрено международным стандартом и
+            объявлено целью тестирования
+          language_code: rus
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19105:2000'
+            link: 'https://www.iso.org/standard/26010.html'
+          date_accepted: 2000-12-15T00:00:00.000Z
+          review_date: 2019-07-05T00:00:00.000Z
+          review_status: pending
+          review_type: retirement
+          release: '1'
+          terms:
+            - type: expression
+              designation: тест на функциональное соответствие
+              normative_status: preferred
+        parents: []
+        timeCreated: 2000-12-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 35
+  definition: >-
+    prueba diseñada para determinar si un IUT es conforme a una característica
+    particular de una norma internacional tal y como se describe en el propósito
+    de la prueba
+  language_code: spa
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19105:2000'
+    link: 'https://www.iso.org/standard/26010.html'
+  date_accepted: 2000-12-15T00:00:00.000Z
+  review_date: 2019-07-05T00:00:00.000Z
+  review_status: pending
+  review_type: retirement
+  release: '1'
+  terms:
+    - type: expression
+      designation: prueba de capacidad
+      normative_status: preferred
+  _revisions:
+    current: eed073
+    tree:
+      eed073:
+        object:
+          id: 35
+          definition: >-
+            prueba diseñada para determinar si un IUT es conforme a una
+            característica particular de una norma internacional tal y como se
+            describe en el propósito de la prueba
+          language_code: spa
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19105:2000'
+            link: 'https://www.iso.org/standard/26010.html'
+          date_accepted: 2000-12-15T00:00:00.000Z
+          review_date: 2019-07-05T00:00:00.000Z
+          review_status: pending
+          review_type: retirement
+          release: '1'
+          terms:
+            - type: expression
+              designation: prueba de capacidad
+              normative_status: preferred
+        parents: []
+        timeCreated: 2000-12-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+swe:
+  id: 35
+  definition: >-
+    test som är framtagen för att avgöra om en implementering av en standard
+    överensstämmer med en viss egenskap hos standarden och i enlighet med
+    testens syfte
+  country_code: swe
+  language_code: swe
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19105:2000'
+    link: 'https://www.iso.org/standard/26010.html'
+  date_accepted: 2000-12-15T00:00:00.000Z
+  review_date: 2019-07-05T00:00:00.000Z
+  review_status: pending
+  review_type: retirement
+  release: '1'
+  terms:
+    - type: expression
+      designation: duglighetstest
+      normative_status: preferred
+  _revisions:
+    current: 3ac934
+    tree:
+      3ac934:
+        object:
+          id: 35
+          definition: >-
+            test som är framtagen för att avgöra om en implementering av en
+            standard överensstämmer med en viss egenskap hos standarden och i
+            enlighet med testens syfte
+          country_code: swe
+          language_code: swe
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19105:2000'
+            link: 'https://www.iso.org/standard/26010.html'
+          date_accepted: 2000-12-15T00:00:00.000Z
+          review_date: 2019-07-05T00:00:00.000Z
+          review_status: pending
+          review_type: retirement
+          release: '1'
+          terms:
+            - type: expression
+              designation: duglighetstest
+              normative_status: preferred
+        parents: []
+        timeCreated: 2000-12-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

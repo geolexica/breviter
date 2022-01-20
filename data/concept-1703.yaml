@@ -1,0 +1,155 @@
+term: locale
+termid: 1703
+eng:
+  id: 1703
+  definition: >-
+    definition of the subset of a user’s environment that depends on language
+    and cultural conventions
+  language_code: eng
+  notes:
+    - >-
+      In computing, a locale is a set of parameters that defines the user’s
+      language, country and any special variant preferences that the user wants
+      to see in their user interface. Usually, a locale identifier consists of
+      at least a language identifier and a region identifier.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO/IEC/IEEE 9945:2009'
+    clause: >-
+      3.211, modified — The notes given in  for this entry have been omitted.
+      Note 1 to entry has been added.
+    link: 'https://www.iso.org/standard/50516.html'
+  lineage_source: 'ISO 19160-1:2015, 4.12'
+  date_accepted: 2015-12-15T00:00:00.000Z
+  review_date: 2012-02-27T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2015-12-15T00:00:00.000Z
+  review_decision_event: Normal ISO processing
+  review_decision_notes: 'Publication of document ISO 19160-1:2015(E)'
+  release: '4'
+  terms:
+    - type: expression
+      designation: locale
+      normative_status: preferred
+  _revisions:
+    current: 5a1e6f
+    tree:
+      5a1e6f:
+        object:
+          id: 1703
+          definition: >-
+            definition of the subset of a user’s environment that depends on
+            language and cultural conventions
+          language_code: eng
+          notes:
+            - >-
+              In computing, a locale is a set of parameters that defines the
+              user’s language, country and any special variant preferences that
+              the user wants to see in their user interface. Usually, a locale
+              identifier consists of at least a language identifier and a region
+              identifier.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO/IEC/IEEE 9945:2009'
+            clause: >-
+              3.211, modified — The notes given in  for this entry have been
+              omitted. Note 1 to entry has been added.
+            link: 'https://www.iso.org/standard/50516.html'
+          lineage_source: 'ISO 19160-1:2015, 4.12'
+          date_accepted: 2015-12-15T00:00:00.000Z
+          review_date: 2012-02-27T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2015-12-15T00:00:00.000Z
+          review_decision_event: Normal ISO processing
+          review_decision_notes: 'Publication of document ISO 19160-1:2015(E)'
+          release: '4'
+          terms:
+            - type: expression
+              designation: locale
+              normative_status: preferred
+        parents: []
+        timeCreated: 2015-12-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 1703
+  definition: >-
+    definición del subconjunto de un entorno de usuario que depende del idioma y
+    de convenciones culturales
+  language_code: spa
+  notes:
+    - >-
+      En informática, un contexto es un conjunto de parámetros que define el
+      idioma del usuario, el país y las preferencias variantes especiales que el
+      usuario quiere ver en la interfaz de usuario. Normalmente, un contexto de
+      escenario consiste al menos en un identificador de idioma y un
+      identificador de región.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO/IEC/IEEE 9945:2009'
+    clause: >-
+      3.211, modified — The notes given in  for this entry have been omitted.
+      Note 1 to entry has been added.
+    link: 'https://www.iso.org/standard/50516.html'
+  lineage_source: 'ISO 19160-1:2015, 4.12'
+  date_accepted: 2015-12-15T00:00:00.000Z
+  review_date: 2012-02-27T00:00:00.000Z
+  review_status: final
+  review_decision: ''
+  review_decision_date: 2015-12-15T00:00:00.000Z
+  review_decision_event: Normal ISO processing
+  review_decision_notes: 'Publication of document ISO 19160-1:2015(E)'
+  release: '4'
+  terms:
+    - type: expression
+      designation: contexto
+      normative_status: preferred
+  _revisions:
+    current: 4179a9
+    tree:
+      4179a9:
+        object:
+          id: 1703
+          definition: >-
+            definición del subconjunto de un entorno de usuario que depende del
+            idioma y de convenciones culturales
+          language_code: spa
+          notes:
+            - >-
+              En informática, un contexto es un conjunto de parámetros que
+              define el idioma del usuario, el país y las preferencias variantes
+              especiales que el usuario quiere ver en la interfaz de usuario.
+              Normalmente, un contexto de escenario consiste al menos en un
+              identificador de idioma y un identificador de región.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO/IEC/IEEE 9945:2009'
+            clause: >-
+              3.211, modified — The notes given in  for this entry have been
+              omitted. Note 1 to entry has been added.
+            link: 'https://www.iso.org/standard/50516.html'
+          lineage_source: 'ISO 19160-1:2015, 4.12'
+          date_accepted: 2015-12-15T00:00:00.000Z
+          review_date: 2012-02-27T00:00:00.000Z
+          review_status: final
+          review_decision: ''
+          review_decision_date: 2015-12-15T00:00:00.000Z
+          review_decision_event: Normal ISO processing
+          review_decision_notes: 'Publication of document ISO 19160-1:2015(E)'
+          release: '4'
+          terms:
+            - type: expression
+              designation: contexto
+              normative_status: preferred
+        parents: []
+        timeCreated: 2015-12-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

@@ -1,0 +1,231 @@
+term: party member
+termid: 1310
+eng:
+  id: 1310
+  definition: party registered and identified as a constituent of a group party
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19152:2012'
+    clause: 4.1.14
+    link: 'https://www.iso.org/standard/51206.html'
+  date_accepted: 2012-12-01T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: party member
+      normative_status: preferred
+  _revisions:
+    current: 4a685a
+    tree:
+      4a685a:
+        object:
+          id: 1310
+          definition: party registered and identified as a constituent of a group party
+          language_code: eng
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19152:2012'
+            clause: 4.1.14
+            link: 'https://www.iso.org/standard/51206.html'
+          date_accepted: 2012-12-01T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: party member
+              normative_status: preferred
+        parents: []
+        timeCreated: 2012-12-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+kor:
+  id: 1310
+  definition: 단체 관계자의 구성원으로 등록되고 밝혀진 관계자
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19152:2012'
+    clause: 4.1.14
+    link: 'https://www.iso.org/standard/51206.html'
+  date_accepted: 2012-12-01T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: 관계자 구성원
+      normative_status: preferred
+  _revisions:
+    current: e2b020
+    tree:
+      e2b020:
+        object:
+          id: 1310
+          definition: 단체 관계자의 구성원으로 등록되고 밝혀진 관계자
+          language_code: kor
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19152:2012'
+            clause: 4.1.14
+            link: 'https://www.iso.org/standard/51206.html'
+          date_accepted: 2012-12-01T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: 관계자 구성원
+              normative_status: preferred
+        parents: []
+        timeCreated: 2012-12-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 1310
+  definition: >-
+    сторона, зарегистрированная и идентифицированная как составная часть группы
+    сторон
+  language_code: rus
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19152:2012'
+    clause: 4.1.14
+    link: 'https://www.iso.org/standard/51206.html'
+  lineage_source: 'ISO 19152:2012'
+  date_accepted: 2012-12-01T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: участник
+      normative_status: preferred
+  _revisions:
+    current: c5ef94
+    tree:
+      c5ef94:
+        object:
+          id: 1310
+          definition: >-
+            сторона, зарегистрированная и идентифицированная как составная часть
+            группы сторон
+          language_code: rus
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19152:2012'
+            clause: 4.1.14
+            link: 'https://www.iso.org/standard/51206.html'
+          lineage_source: 'ISO 19152:2012'
+          date_accepted: 2012-12-01T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: участник
+              normative_status: preferred
+        parents: []
+        timeCreated: 2012-12-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 1310
+  definition: parte registrada e identificada como constituyente de una parte colectiva
+  language_code: spa
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19152:2012'
+    clause: 4.1.14
+    link: 'https://www.iso.org/standard/51206.html'
+  date_accepted: 2012-12-01T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: parte miembro
+      normative_status: preferred
+  _revisions:
+    current: 73caea
+    tree:
+      73caea:
+        object:
+          id: 1310
+          definition: >-
+            parte registrada e identificada como constituyente de una parte
+            colectiva
+          language_code: spa
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19152:2012'
+            clause: 4.1.14
+            link: 'https://www.iso.org/standard/51206.html'
+          date_accepted: 2012-12-01T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: parte miembro
+              normative_status: preferred
+        parents: []
+        timeCreated: 2012-12-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+swe:
+  id: 1310
+  definition: part som registrerats och identifierats som tillhörig en viss gruppart
+  country_code: swe
+  language_code: swe
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19152:2012'
+    clause: 4.1.14
+    link: 'https://www.iso.org/standard/51206.html'
+  lineage_source: (Type reference to national language document)
+  date_accepted: 2012-12-01T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: partsmedlem
+      normative_status: preferred
+  _revisions:
+    current: b4ff76
+    tree:
+      b4ff76:
+        object:
+          id: 1310
+          definition: >-
+            part som registrerats och identifierats som tillhörig en viss
+            gruppart
+          country_code: swe
+          language_code: swe
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19152:2012'
+            clause: 4.1.14
+            link: 'https://www.iso.org/standard/51206.html'
+          lineage_source: (Type reference to national language document)
+          date_accepted: 2012-12-01T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: partsmedlem
+              normative_status: preferred
+        parents: []
+        timeCreated: 2012-12-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

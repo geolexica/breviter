@@ -1,0 +1,884 @@
+term: datum
+termid: 704
+eng:
+  id: 704
+  definition: >-
+    parameter or set of parameters that define the position of the origin, the
+    scale, and the orientation of a coordinate system
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19111:2007'
+    link: 'https://www.iso.org/standard/41126.html'
+  date_accepted: 2007-07-01T00:00:00.000Z
+  date_amended: 2019-01-31T00:00:00.000Z
+  review_date: 2019-01-31T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2019-01-31T00:00:00.000Z
+  review_decision_event: 'Publication of document ISO 19111:2019(E)'
+  review_decision_notes: 'This entry is superseded by the entry for datum in ISO 19111:2019(E)'
+  release: '-1'
+  terms:
+    - type: expression
+      designation: datum
+      normative_status: null
+  _revisions:
+    current: '325946'
+    tree:
+      '325946':
+        object:
+          id: 704
+          definition: >-
+            parameter or set of parameters that define the position of the
+            origin, the scale, and the orientation of a coordinate system
+          language_code: eng
+          notes: []
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19111:2007'
+            link: 'https://www.iso.org/standard/41126.html'
+          date_accepted: 2007-07-01T00:00:00.000Z
+          date_amended: 2019-01-31T00:00:00.000Z
+          review_date: 2019-01-31T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2019-01-31T00:00:00.000Z
+          review_decision_event: 'Publication of document ISO 19111:2019(E)'
+          review_decision_notes: 'This entry is superseded by the entry for datum in ISO 19111:2019(E)'
+          release: '-1'
+          terms:
+            - type: expression
+              designation: datum
+              normative_status: null
+        parents: []
+        timeCreated: 2007-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+ara:
+  id: 704
+  definition: متغير  أو مجموعة متغيرات تحدد موقع أصل ومقياس واتجاه نظام إحداثيات ما
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19111:2007'
+    link: 'https://www.iso.org/standard/41126.html'
+  date_accepted: 2007-07-01T00:00:00.000Z
+  date_amended: 2019-01-31T00:00:00.000Z
+  review_date: 2019-01-31T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2019-01-31T00:00:00.000Z
+  review_decision_event: 'Publication of document ISO 19111:2019(E)'
+  review_decision_notes: 'This entry is superseded by the entry for datum in ISO 19111:2019(E)'
+  release: '-1'
+  terms:
+    - type: expression
+      designation: مرجع إسناد
+      normative_status: null
+  _revisions:
+    current: 389ab9
+    tree:
+      389ab9:
+        object:
+          id: 704
+          definition: >-
+            متغير  أو مجموعة متغيرات تحدد موقع أصل ومقياس واتجاه نظام إحداثيات
+            ما
+          language_code: ara
+          notes: []
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19111:2007'
+            link: 'https://www.iso.org/standard/41126.html'
+          date_accepted: 2007-07-01T00:00:00.000Z
+          date_amended: 2019-01-31T00:00:00.000Z
+          review_date: 2019-01-31T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2019-01-31T00:00:00.000Z
+          review_decision_event: 'Publication of document ISO 19111:2019(E)'
+          review_decision_notes: 'This entry is superseded by the entry for datum in ISO 19111:2019(E)'
+          release: '-1'
+          terms:
+            - type: expression
+              designation: مرجع إسناد
+              normative_status: null
+        parents: []
+        timeCreated: 2007-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+zho:
+  id: 704
+  definition: 由参数或参数集合定义的坐标系的原点位置、比例尺和定向。
+  language_code: zho
+  notes: []
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19111:2007'
+    link: 'https://www.iso.org/standard/41126.html'
+  date_accepted: 2007-07-01T00:00:00.000Z
+  date_amended: 2019-01-31T00:00:00.000Z
+  review_date: 2019-01-31T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2019-01-31T00:00:00.000Z
+  review_decision_event: 'Publication of document ISO 19111:2019(E)'
+  review_decision_notes: 'This entry is superseded by the entry for datum in ISO 19111:2019(E)'
+  release: '-1'
+  terms:
+    - type: expression
+      designation: 基准
+      normative_status: null
+  _revisions:
+    current: af7a07
+    tree:
+      af7a07:
+        object:
+          id: 704
+          definition: 由参数或参数集合定义的坐标系的原点位置、比例尺和定向。
+          language_code: zho
+          notes: []
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19111:2007'
+            link: 'https://www.iso.org/standard/41126.html'
+          date_accepted: 2007-07-01T00:00:00.000Z
+          date_amended: 2019-01-31T00:00:00.000Z
+          review_date: 2019-01-31T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2019-01-31T00:00:00.000Z
+          review_decision_event: 'Publication of document ISO 19111:2019(E)'
+          review_decision_notes: 'This entry is superseded by the entry for datum in ISO 19111:2019(E)'
+          release: '-1'
+          terms:
+            - type: expression
+              designation: 基准
+              normative_status: null
+        parents: []
+        timeCreated: 2007-07-01T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+dan:
+  id: 704
+  definition: >-
+    parameter eller sæt af parametre, der tjener som reference eller grundlag
+    for beregning af andre parametre
+  language_code: dan
+  notes:
+    - >-
+      Et datum definerer positionen af nulpunkt, målestok og orientering af
+      akserne i et koordinatsystem.
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19111:2007'
+    link: 'https://www.iso.org/standard/41126.html'
+  date_accepted: 2007-07-01T00:00:00.000Z
+  date_amended: 2019-01-31T00:00:00.000Z
+  review_date: 2019-01-31T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2019-01-31T00:00:00.000Z
+  review_decision_event: 'Publication of document ISO 19111:2019(E)'
+  review_decision_notes: 'This entry is superseded by the entry for datum in ISO 19111:2019(E)'
+  release: '-1'
+  terms:
+    - type: expression
+      designation: datum
+      normative_status: null
+  _revisions:
+    current: 3068dd
+    tree:
+      3068dd:
+        object:
+          id: 704
+          definition: >-
+            parameter eller sæt af parametre, der tjener som reference eller
+            grundlag for beregning af andre parametre
+          language_code: dan
+          notes:
+            - >-
+              Et datum definerer positionen af nulpunkt, målestok og orientering
+              af akserne i et koordinatsystem.
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19111:2007'
+            link: 'https://www.iso.org/standard/41126.html'
+          date_accepted: 2007-07-01T00:00:00.000Z
+          date_amended: 2019-01-31T00:00:00.000Z
+          review_date: 2019-01-31T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2019-01-31T00:00:00.000Z
+          review_decision_event: 'Publication of document ISO 19111:2019(E)'
+          review_decision_notes: 'This entry is superseded by the entry for datum in ISO 19111:2019(E)'
+          release: '-1'
+          terms:
+            - type: expression
+              designation: datum
+              normative_status: null
+        parents: []
+        timeCreated: 2007-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+nld:
+  id: 704
+  definition: >-
+    parameter of set van parameters voor het definiëren van het nulpunt, de
+    schaal en de oriëntatie van een coördinaatsysteem
+  language_code: nld
+  notes: []
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19111:2007'
+    link: 'https://www.iso.org/standard/41126.html'
+  date_accepted: 2007-07-01T00:00:00.000Z
+  date_amended: 2019-01-31T00:00:00.000Z
+  review_date: 2019-01-31T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2019-01-31T00:00:00.000Z
+  review_decision_event: 'Publication of document ISO 19111:2019(E)'
+  review_decision_notes: 'This entry is superseded by the entry for datum in ISO 19111:2019(E)'
+  release: '-1'
+  terms:
+    - type: expression
+      designation: datum
+      normative_status: null
+  _revisions:
+    current: 15f027
+    tree:
+      15f027:
+        object:
+          id: 704
+          definition: >-
+            parameter of set van parameters voor het definiëren van het nulpunt,
+            de schaal en de oriëntatie van een coördinaatsysteem
+          language_code: nld
+          notes: []
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19111:2007'
+            link: 'https://www.iso.org/standard/41126.html'
+          date_accepted: 2007-07-01T00:00:00.000Z
+          date_amended: 2019-01-31T00:00:00.000Z
+          review_date: 2019-01-31T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2019-01-31T00:00:00.000Z
+          review_decision_event: 'Publication of document ISO 19111:2019(E)'
+          review_decision_notes: 'This entry is superseded by the entry for datum in ISO 19111:2019(E)'
+          release: '-1'
+          terms:
+            - type: expression
+              designation: datum
+              normative_status: null
+        parents: []
+        timeCreated: 2007-07-01T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+fin:
+  id: 704
+  definition: >-
+    parametri tai parametrijoukko, joka määrittelee koordinaatiston origon,
+    mittakaavan ja orientaation
+  language_code: fin
+  notes: []
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19111:2007'
+    link: 'https://www.iso.org/standard/41126.html'
+  date_accepted: 2007-07-01T00:00:00.000Z
+  date_amended: 2019-01-31T00:00:00.000Z
+  review_date: 2019-01-31T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2019-01-31T00:00:00.000Z
+  review_decision_event: 'Publication of document ISO 19111:2019(E)'
+  review_decision_notes: 'This entry is superseded by the entry for datum in ISO 19111:2019(E)'
+  release: '-1'
+  terms:
+    - type: expression
+      designation: datumi
+      normative_status: null
+  _revisions:
+    current: 16dfff
+    tree:
+      16dfff:
+        object:
+          id: 704
+          definition: >-
+            parametri tai parametrijoukko, joka määrittelee koordinaatiston
+            origon, mittakaavan ja orientaation
+          language_code: fin
+          notes: []
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19111:2007'
+            link: 'https://www.iso.org/standard/41126.html'
+          date_accepted: 2007-07-01T00:00:00.000Z
+          date_amended: 2019-01-31T00:00:00.000Z
+          review_date: 2019-01-31T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2019-01-31T00:00:00.000Z
+          review_decision_event: 'Publication of document ISO 19111:2019(E)'
+          review_decision_notes: 'This entry is superseded by the entry for datum in ISO 19111:2019(E)'
+          release: '-1'
+          terms:
+            - type: expression
+              designation: datumi
+              normative_status: null
+        parents: []
+        timeCreated: 2007-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+fra:
+  id: 704
+  definition: >-
+    paramètre ou ensemble de paramètres définissant la position de l'origine,
+    l'échelle et l'orientation d'un système de coordonnées
+  language_code: fra
+  notes:
+    - 'Alternative: datum'
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19111:2007'
+    link: 'https://www.iso.org/standard/41126.html'
+  date_accepted: 2007-07-01T00:00:00.000Z
+  date_amended: 2019-01-31T00:00:00.000Z
+  review_date: 2019-01-31T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2019-01-31T00:00:00.000Z
+  review_decision_event: 'Publication of document ISO 19111:2019(E)'
+  review_decision_notes: 'This entry is superseded by the entry for datum in ISO 19111:2019(E)'
+  release: '-1'
+  terms:
+    - type: expression
+      designation: référentiel
+      normative_status: null
+  _revisions:
+    current: 503a48
+    tree:
+      503a48:
+        object:
+          id: 704
+          definition: >-
+            paramètre ou ensemble de paramètres définissant la position de
+            l'origine, l'échelle et l'orientation d'un système de coordonnées
+          language_code: fra
+          notes:
+            - 'Alternative: datum'
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19111:2007'
+            link: 'https://www.iso.org/standard/41126.html'
+          date_accepted: 2007-07-01T00:00:00.000Z
+          date_amended: 2019-01-31T00:00:00.000Z
+          review_date: 2019-01-31T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2019-01-31T00:00:00.000Z
+          review_decision_event: 'Publication of document ISO 19111:2019(E)'
+          review_decision_notes: 'This entry is superseded by the entry for datum in ISO 19111:2019(E)'
+          release: '-1'
+          terms:
+            - type: expression
+              designation: référentiel
+              normative_status: null
+        parents: []
+        timeCreated: 2007-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+deu:
+  id: 704
+  definition: >-
+    ein oder mehrere Parameter, die die Position des Ursprungs, den Maßstab und
+    die Orientierung eines Koordinatensystems definieren
+  language_code: deu
+  notes: []
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19111:2007'
+    link: 'https://www.iso.org/standard/41126.html'
+  date_accepted: 2007-07-01T00:00:00.000Z
+  date_amended: 2019-01-31T00:00:00.000Z
+  review_date: 2019-01-31T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2019-01-31T00:00:00.000Z
+  review_decision_event: 'Publication of document ISO 19111:2019(E)'
+  review_decision_notes: 'This entry is superseded by the entry for datum in ISO 19111:2019(E)'
+  release: '-1'
+  terms:
+    - type: expression
+      designation: 'Datum (Plural: Datume)'
+      normative_status: null
+  _revisions:
+    current: 1873b3
+    tree:
+      1873b3:
+        object:
+          id: 704
+          definition: >-
+            ein oder mehrere Parameter, die die Position des Ursprungs, den
+            Maßstab und die Orientierung eines Koordinatensystems definieren
+          language_code: deu
+          notes: []
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19111:2007'
+            link: 'https://www.iso.org/standard/41126.html'
+          date_accepted: 2007-07-01T00:00:00.000Z
+          date_amended: 2019-01-31T00:00:00.000Z
+          review_date: 2019-01-31T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2019-01-31T00:00:00.000Z
+          review_decision_event: 'Publication of document ISO 19111:2019(E)'
+          review_decision_notes: 'This entry is superseded by the entry for datum in ISO 19111:2019(E)'
+          release: '-1'
+          terms:
+            - type: expression
+              designation: 'Datum (Plural: Datume)'
+              normative_status: null
+        parents: []
+        timeCreated: 2007-07-01T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+kor:
+  id: 704
+  definition: '좌표 체계의 기점, 축척, 방향을 정의하는 매개 변수 또는 매개 변수의 집합'
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19111:2007'
+    link: 'https://www.iso.org/standard/41126.html'
+  date_accepted: 2007-07-01T00:00:00.000Z
+  date_amended: 2019-01-31T00:00:00.000Z
+  review_date: 2019-01-31T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2019-01-31T00:00:00.000Z
+  review_decision_event: 'Publication of document ISO 19111:2019(E)'
+  review_decision_notes: 'This entry is superseded by the entry for datum in ISO 19111:2019(E)'
+  release: '-1'
+  terms:
+    - type: expression
+      designation: 데이텀
+      normative_status: null
+  _revisions:
+    current: f3292d
+    tree:
+      f3292d:
+        object:
+          id: 704
+          definition: '좌표 체계의 기점, 축척, 방향을 정의하는 매개 변수 또는 매개 변수의 집합'
+          language_code: kor
+          notes: []
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19111:2007'
+            link: 'https://www.iso.org/standard/41126.html'
+          date_accepted: 2007-07-01T00:00:00.000Z
+          date_amended: 2019-01-31T00:00:00.000Z
+          review_date: 2019-01-31T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2019-01-31T00:00:00.000Z
+          review_decision_event: 'Publication of document ISO 19111:2019(E)'
+          review_decision_notes: 'This entry is superseded by the entry for datum in ISO 19111:2019(E)'
+          release: '-1'
+          terms:
+            - type: expression
+              designation: 데이텀
+              normative_status: null
+        parents: []
+        timeCreated: 2007-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+msa:
+  id: 704
+  definition: >-
+    Tanda kekal, semula jadi atau buatan di suatu titik yang diketahui ketinggi-
+    annya daripada suatu datum tertentu yang diterima.
+  language_code: msa
+  notes: []
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19111:2007'
+    link: 'https://www.iso.org/standard/41126.html'
+  date_accepted: 2007-07-01T00:00:00.000Z
+  date_amended: 2019-01-31T00:00:00.000Z
+  review_date: 2019-01-31T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2019-01-31T00:00:00.000Z
+  review_decision_event: 'Publication of document ISO 19111:2019(E)'
+  review_decision_notes: 'This entry is superseded by the entry for datum in ISO 19111:2019(E)'
+  release: '-1'
+  terms:
+    - type: expression
+      designation: datum
+      normative_status: null
+  _revisions:
+    current: 0593ef
+    tree:
+      0593ef:
+        object:
+          id: 704
+          definition: >-
+            Tanda kekal, semula jadi atau buatan di suatu titik yang diketahui
+            ketinggi- annya daripada suatu datum tertentu yang diterima.
+          language_code: msa
+          notes: []
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19111:2007'
+            link: 'https://www.iso.org/standard/41126.html'
+          date_accepted: 2007-07-01T00:00:00.000Z
+          date_amended: 2019-01-31T00:00:00.000Z
+          review_date: 2019-01-31T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2019-01-31T00:00:00.000Z
+          review_decision_event: 'Publication of document ISO 19111:2019(E)'
+          review_decision_notes: 'This entry is superseded by the entry for datum in ISO 19111:2019(E)'
+          release: '-1'
+          terms:
+            - type: expression
+              designation: datum
+              normative_status: null
+        parents: []
+        timeCreated: 2007-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+pol:
+  id: 704
+  definition: >-
+    parametr lub zbiór parametrów definiujące położenie początku układu, skalę i
+    orientację układu współrzędnych
+  language_code: pol
+  notes: []
+  examples: []
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19111:2007'
+    link: 'https://www.iso.org/standard/41126.html'
+  date_accepted: 2007-07-01T00:00:00.000Z
+  date_amended: 2019-01-31T00:00:00.000Z
+  review_date: 2019-01-31T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2019-01-31T00:00:00.000Z
+  review_decision_event: 'Publication of document ISO 19111:2019(E)'
+  review_decision_notes: 'This entry is superseded by the entry for datum in ISO 19111:2019(E)'
+  release: '-1'
+  terms:
+    - type: expression
+      designation: układ odniesienia
+      normative_status: null
+  _revisions:
+    current: 930fea
+    tree:
+      930fea:
+        object:
+          id: 704
+          definition: >-
+            parametr lub zbiór parametrów definiujące położenie początku układu,
+            skalę i orientację układu współrzędnych
+          language_code: pol
+          notes: []
+          examples: []
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19111:2007'
+            link: 'https://www.iso.org/standard/41126.html'
+          date_accepted: 2007-07-01T00:00:00.000Z
+          date_amended: 2019-01-31T00:00:00.000Z
+          review_date: 2019-01-31T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2019-01-31T00:00:00.000Z
+          review_decision_event: 'Publication of document ISO 19111:2019(E)'
+          review_decision_notes: 'This entry is superseded by the entry for datum in ISO 19111:2019(E)'
+          release: '-1'
+          terms:
+            - type: expression
+              designation: układ odniesienia
+              normative_status: null
+        parents: []
+        timeCreated: 2007-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 704
+  definition: 'термин, обобщающий геодезические, высотные и местные даты'
+  language_code: rus
+  notes:
+    - >-
+      Даты определяют положение начала, масштаб и ориентировку осей системы
+      координат по отношению к Земле
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19111:2007'
+    link: 'https://www.iso.org/standard/41126.html'
+  date_accepted: 2007-07-01T00:00:00.000Z
+  date_amended: 2019-01-31T00:00:00.000Z
+  review_date: 2019-01-31T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2019-01-31T00:00:00.000Z
+  review_decision_event: 'Publication of document ISO 19111:2019(E)'
+  review_decision_notes: 'This entry is superseded by the entry for datum in ISO 19111:2019(E)'
+  release: '-1'
+  terms:
+    - type: expression
+      designation: исходные даты
+      normative_status: null
+  _revisions:
+    current: 601b4d
+    tree:
+      601b4d:
+        object:
+          id: 704
+          definition: 'термин, обобщающий геодезические, высотные и местные даты'
+          language_code: rus
+          notes:
+            - >-
+              Даты определяют положение начала, масштаб и ориентировку осей
+              системы координат по отношению к Земле
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19111:2007'
+            link: 'https://www.iso.org/standard/41126.html'
+          date_accepted: 2007-07-01T00:00:00.000Z
+          date_amended: 2019-01-31T00:00:00.000Z
+          review_date: 2019-01-31T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2019-01-31T00:00:00.000Z
+          review_decision_event: 'Publication of document ISO 19111:2019(E)'
+          review_decision_notes: 'This entry is superseded by the entry for datum in ISO 19111:2019(E)'
+          release: '-1'
+          terms:
+            - type: expression
+              designation: исходные даты
+              normative_status: null
+        parents: []
+        timeCreated: 2007-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 704
+  definition: >-
+    parámetro o conjunto de parámetros que definen la posición del origen, la
+    escala y la orientación de un sistema de coordenadas
+  language_code: spa
+  notes: []
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19111:2007'
+    link: 'https://www.iso.org/standard/41126.html'
+  date_accepted: 2007-07-01T00:00:00.000Z
+  date_amended: 2019-01-31T00:00:00.000Z
+  review_date: 2019-01-31T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2019-01-31T00:00:00.000Z
+  review_decision_event: 'Publication of document ISO 19111:2019(E)'
+  review_decision_notes: 'This entry is superseded by the entry for datum in ISO 19111:2019(E)'
+  release: '-1'
+  terms:
+    - type: expression
+      designation: datum
+      normative_status: null
+  _revisions:
+    current: 427a87
+    tree:
+      427a87:
+        object:
+          id: 704
+          definition: >-
+            parámetro o conjunto de parámetros que definen la posición del
+            origen, la escala y la orientación de un sistema de coordenadas
+          language_code: spa
+          notes: []
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19111:2007'
+            link: 'https://www.iso.org/standard/41126.html'
+          date_accepted: 2007-07-01T00:00:00.000Z
+          date_amended: 2019-01-31T00:00:00.000Z
+          review_date: 2019-01-31T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2019-01-31T00:00:00.000Z
+          review_decision_event: 'Publication of document ISO 19111:2019(E)'
+          review_decision_notes: 'This entry is superseded by the entry for datum in ISO 19111:2019(E)'
+          release: '-1'
+          terms:
+            - type: expression
+              designation: datum
+              normative_status: null
+        parents: []
+        timeCreated: 2007-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+swe:
+  id: 704
+  definition: >-
+    en parameter eller en uppsättning parametrar som definierar ett
+    referenssystems origo, skala och orientering
+  country_code: swe
+  language_code: swe
+  notes: []
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19111:2007'
+    link: 'https://www.iso.org/standard/41126.html'
+  date_accepted: 2007-07-01T00:00:00.000Z
+  date_amended: 2019-01-31T00:00:00.000Z
+  review_date: 2019-01-31T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2019-01-31T00:00:00.000Z
+  review_decision_event: 'Publication of document ISO 19111:2019(E)'
+  review_decision_notes: 'This entry is superseded by the entry for datum in ISO 19111:2019(E)'
+  release: '-1'
+  terms:
+    - type: expression
+      designation: datum
+      normative_status: null
+  _revisions:
+    current: fda064
+    tree:
+      fda064:
+        object:
+          id: 704
+          definition: >-
+            en parameter eller en uppsättning parametrar som definierar ett
+            referenssystems origo, skala och orientering
+          country_code: swe
+          language_code: swe
+          notes: []
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19111:2007'
+            link: 'https://www.iso.org/standard/41126.html'
+          date_accepted: 2007-07-01T00:00:00.000Z
+          date_amended: 2019-01-31T00:00:00.000Z
+          review_date: 2019-01-31T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2019-01-31T00:00:00.000Z
+          review_decision_event: 'Publication of document ISO 19111:2019(E)'
+          review_decision_notes: 'This entry is superseded by the entry for datum in ISO 19111:2019(E)'
+          release: '-1'
+          terms:
+            - type: expression
+              designation: datum
+              normative_status: null
+        parents: []
+        timeCreated: 2007-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

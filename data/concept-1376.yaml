@@ -1,0 +1,160 @@
+term: grid coordinate reference system
+termid: 1376
+eng:
+  id: 1376
+  abbrev: grid CRS
+  definition: >-
+    coordinate reference system for the positions in a grid that uses a defined
+    coordinate system congruent with the coordinate system described by the
+    GridEnvelope and axisLabels of gml:GridType
+  language_code: eng
+  notes:
+    - >-
+      A grid CRS uses a defined coordinate system with the same grid point
+      positions and origin as the GridEnvelope, with the same axisLabels, but
+      need not define any limits on the grid size. This coordinate system is
+      sometimes called the internal grid coordinate system.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19136-2:2015'
+    clause: 4.2.1
+    link: 'https://www.iso.org/standard/61585.html'
+  date_accepted: 2015-08-01T00:00:00.000Z
+  review_date: 2011-07-11T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2015-08-01T00:00:00.000Z
+  review_decision_event: Normal ISO processing
+  review_decision_notes: 'Publication of document ISO 19136-2:2015(E)'
+  release: '4'
+  terms:
+    - type: expression
+      designation: grid coordinate reference system
+      normative_status: preferred
+  _revisions:
+    current: 5185f6
+    tree:
+      5185f6:
+        object:
+          id: 1376
+          abbrev: grid CRS
+          definition: >-
+            coordinate reference system for the positions in a grid that uses a
+            defined coordinate system congruent with the coordinate system
+            described by the GridEnvelope and axisLabels of gml:GridType
+          language_code: eng
+          notes:
+            - >-
+              A grid CRS uses a defined coordinate system with the same grid
+              point positions and origin as the GridEnvelope, with the same
+              axisLabels, but need not define any limits on the grid size. This
+              coordinate system is sometimes called the internal grid coordinate
+              system.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19136-2:2015'
+            clause: 4.2.1
+            link: 'https://www.iso.org/standard/61585.html'
+          date_accepted: 2015-08-01T00:00:00.000Z
+          review_date: 2011-07-11T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2015-08-01T00:00:00.000Z
+          review_decision_event: Normal ISO processing
+          review_decision_notes: 'Publication of document ISO 19136-2:2015(E)'
+          release: '4'
+          terms:
+            - type: expression
+              designation: grid coordinate reference system
+              normative_status: preferred
+        parents: []
+        timeCreated: 2015-08-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 1376
+  abbrev: |-
+    SRC malla
+    SRC grilla
+  definition: >-
+    sistema de referencia de coordenadas para las posiciones en una malla que
+    utiliza un sistema de coordenadas definido en congruencia con el sistema de
+    coordenadas descrito por el GridEnvelope y el axisLabels de gml:GridType
+  language_code: spa
+  notes:
+    - >-
+      Un SRC malla utiliza un sistema de coordenadas definido con las mismas
+      posiciones de malla puntuales y origen que GridEnvelope, con las mismas
+      axisLabels, pero no necesita definir ningún límite en el tamaño de la
+      malla. Este sistema de coordenadas a veces se denomina sistema de
+      coordenadas malla interno.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19136-2:2015'
+    clause: 4.2.1
+    link: 'https://www.iso.org/standard/61585.html'
+  date_accepted: 2015-08-01T00:00:00.000Z
+  review_date: 2011-07-11T00:00:00.000Z
+  review_status: final
+  review_decision: ''
+  review_decision_date: 2015-08-01T00:00:00.000Z
+  review_decision_event: Normal ISO processing
+  review_decision_notes: 'Publication of document ISO 19136-2:2015(E)'
+  release: '4'
+  terms:
+    - type: expression
+      designation: >-
+        sistema de referencia de coordenadas malla / sistema de referencia de
+        coordenadas grilla
+      normative_status: preferred
+  _revisions:
+    current: 80282d
+    tree:
+      80282d:
+        object:
+          id: 1376
+          abbrev: |-
+            SRC malla
+            SRC grilla
+          definition: >-
+            sistema de referencia de coordenadas para las posiciones en una
+            malla que utiliza un sistema de coordenadas definido en congruencia
+            con el sistema de coordenadas descrito por el GridEnvelope y el
+            axisLabels de gml:GridType
+          language_code: spa
+          notes:
+            - >-
+              Un SRC malla utiliza un sistema de coordenadas definido con las
+              mismas posiciones de malla puntuales y origen que GridEnvelope,
+              con las mismas axisLabels, pero no necesita definir ningún límite
+              en el tamaño de la malla. Este sistema de coordenadas a veces se
+              denomina sistema de coordenadas malla interno.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19136-2:2015'
+            clause: 4.2.1
+            link: 'https://www.iso.org/standard/61585.html'
+          date_accepted: 2015-08-01T00:00:00.000Z
+          review_date: 2011-07-11T00:00:00.000Z
+          review_status: final
+          review_decision: ''
+          review_decision_date: 2015-08-01T00:00:00.000Z
+          review_decision_event: Normal ISO processing
+          review_decision_notes: 'Publication of document ISO 19136-2:2015(E)'
+          release: '4'
+          terms:
+            - type: expression
+              designation: >-
+                sistema de referencia de coordenadas malla / sistema de
+                referencia de coordenadas grilla
+              normative_status: preferred
+        parents: []
+        timeCreated: 2015-08-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

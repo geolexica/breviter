@@ -1,0 +1,78 @@
+term: terrestrial reference system
+termid: 2379
+eng:
+  id: 2379
+  abbrev: TRS
+  definition: >-
+    set of conventions defining the origin, scale, orientation and time
+    evolution of a spatial reference system co-rotating with the Earth in its
+    diurnal motion in space
+  language_code: eng
+  notes:
+    - >-
+      The abstract concept of a TRS is realised through a terrestrial reference
+      frame that usually consists of a set of physical points with precisely
+      determined coordinates and optionally their rates of change. In this
+      document terrestrial reference frame is included within the geodetic
+      reference frame element of the data model.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19111:2019'
+    clause: '(E), 3.1.66'
+    link: 'https://www.iso.org/standard/74039.html'
+  date_accepted: 2019-01-31T00:00:00.000Z
+  review_date: 2019-01-31T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-01-31T00:00:00.000Z
+  review_decision_event: Normal ISO processing
+  review_decision_notes: 'Publication of document ISO 19111:2019(E)'
+  release: '5'
+  terms:
+    - type: expression
+      designation: terrestrial reference system
+      normative_status: preferred
+  _revisions:
+    current: cc30f9
+    tree:
+      cc30f9:
+        object:
+          id: 2379
+          abbrev: TRS
+          definition: >-
+            set of conventions defining the origin, scale, orientation and time
+            evolution of a spatial reference system co-rotating with the Earth
+            in its diurnal motion in space
+          language_code: eng
+          notes:
+            - >-
+              The abstract concept of a TRS is realised through a terrestrial
+              reference frame that usually consists of a set of physical points
+              with precisely determined coordinates and optionally their rates
+              of change. In this document terrestrial reference frame is
+              included within the geodetic reference frame element of the data
+              model.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19111:2019'
+            clause: '(E), 3.1.66'
+            link: 'https://www.iso.org/standard/74039.html'
+          date_accepted: 2019-01-31T00:00:00.000Z
+          review_date: 2019-01-31T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-01-31T00:00:00.000Z
+          review_decision_event: Normal ISO processing
+          review_decision_notes: 'Publication of document ISO 19111:2019(E)'
+          release: '5'
+          terms:
+            - type: expression
+              designation: terrestrial reference system
+              normative_status: preferred
+        parents: []
+        timeCreated: 2019-01-31T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

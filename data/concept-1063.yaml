@@ -1,0 +1,260 @@
+term: domain feature
+termid: 1063
+eng:
+  id: 1063
+  definition: feature of a type defined within a particular application domain
+  language_code: eng
+  notes:
+    - >-
+      This may be contrasted with observations and sampling features, which are
+      features of types defined for cross-domain purposes.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19156:2011'
+    clause: '4.4'
+    link: 'https://www.iso.org/standard/32574.html'
+  date_accepted: 2011-12-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: domain feature
+      normative_status: preferred
+  _revisions:
+    current: 1bf2ae
+    tree:
+      1bf2ae:
+        object:
+          id: 1063
+          definition: feature of a type defined within a particular application domain
+          language_code: eng
+          notes:
+            - >-
+              This may be contrasted with observations and sampling features,
+              which are features of types defined for cross-domain purposes.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19156:2011'
+            clause: '4.4'
+            link: 'https://www.iso.org/standard/32574.html'
+          date_accepted: 2011-12-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: domain feature
+              normative_status: preferred
+        parents: []
+        timeCreated: 2011-12-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+kor:
+  id: 1063
+  definition: 특정 적용 영역내 정의된 유형의 지형지물
+  language_code: kor
+  notes:
+    - >-
+      This may be contrasted with observations and sampling features, which are
+      features of types defined for cross-domain purposes.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19156:2011'
+    clause: '4.4'
+    link: 'https://www.iso.org/standard/32574.html'
+  date_accepted: 2011-12-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: 영역 특징
+      normative_status: preferred
+  _revisions:
+    current: 8683aa
+    tree:
+      8683aa:
+        object:
+          id: 1063
+          definition: 특정 적용 영역내 정의된 유형의 지형지물
+          language_code: kor
+          notes:
+            - >-
+              This may be contrasted with observations and sampling features,
+              which are features of types defined for cross-domain purposes.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19156:2011'
+            clause: '4.4'
+            link: 'https://www.iso.org/standard/32574.html'
+          date_accepted: 2011-12-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: 영역 특징
+              normative_status: preferred
+        parents: []
+        timeCreated: 2011-12-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 1063
+  definition: 'объект типа, определенного внутри домена конкретного приложения'
+  language_code: rus
+  notes:
+    - >-
+      Это можно противопоставить наблюдениям и признакам выборки, которые
+      являются признаками типов, определенных для междоменных целей.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19156:2011'
+    clause: '4.4'
+    link: 'https://www.iso.org/standard/32574.html'
+  lineage_source: 'ISO 19156:2011'
+  date_accepted: 2011-12-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: объект домена
+      normative_status: preferred
+  _revisions:
+    current: 2dbbec
+    tree:
+      2dbbec:
+        object:
+          id: 1063
+          definition: 'объект типа, определенного внутри домена конкретного приложения'
+          language_code: rus
+          notes:
+            - >-
+              Это можно противопоставить наблюдениям и признакам выборки,
+              которые являются признаками типов, определенных для междоменных
+              целей.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19156:2011'
+            clause: '4.4'
+            link: 'https://www.iso.org/standard/32574.html'
+          lineage_source: 'ISO 19156:2011'
+          date_accepted: 2011-12-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: объект домена
+              normative_status: preferred
+        parents: []
+        timeCreated: 2011-12-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 1063
+  definition: >-
+    objeto geográfico de un tipo definido dentro de un dominio de aplicación
+    particular
+  language_code: spa
+  notes:
+    - >-
+      Contrasta con observaciones y objetos geográficos de muestreo, que son
+      objetos geográficos de tipos definidos para propósitos de dominios
+      cruzados
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19156:2011'
+    clause: '4.4'
+    link: 'https://www.iso.org/standard/32574.html'
+  date_accepted: 2011-12-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: objeto geográfico de dominio
+      normative_status: preferred
+  _revisions:
+    current: a4cdf0
+    tree:
+      a4cdf0:
+        object:
+          id: 1063
+          definition: >-
+            objeto geográfico de un tipo definido dentro de un dominio de
+            aplicación particular
+          language_code: spa
+          notes:
+            - >-
+              Contrasta con observaciones y objetos geográficos de muestreo, que
+              son objetos geográficos de tipos definidos para propósitos de
+              dominios cruzados
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19156:2011'
+            clause: '4.4'
+            link: 'https://www.iso.org/standard/32574.html'
+          date_accepted: 2011-12-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: objeto geográfico de dominio
+              normative_status: preferred
+        parents: []
+        timeCreated: 2011-12-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+swe:
+  id: 1063
+  definition: objekt vars objekttyp tillhör ett visst tillämpningsområde
+  country_code: swe
+  language_code: swe
+  notes:
+    - >-
+      This may be contrasted with observations and sampling features, which are
+      features of types defined for cross-domain purposes.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19156:2011'
+    clause: '4.4'
+    link: 'https://www.iso.org/standard/32574.html'
+  lineage_source: (Type reference to national language document)
+  date_accepted: 2011-12-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: temaobjekt
+      normative_status: preferred
+  _revisions:
+    current: 7804c8
+    tree:
+      7804c8:
+        object:
+          id: 1063
+          definition: objekt vars objekttyp tillhör ett visst tillämpningsområde
+          country_code: swe
+          language_code: swe
+          notes:
+            - >-
+              This may be contrasted with observations and sampling features,
+              which are features of types defined for cross-domain purposes.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19156:2011'
+            clause: '4.4'
+            link: 'https://www.iso.org/standard/32574.html'
+          lineage_source: (Type reference to national language document)
+          date_accepted: 2011-12-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: temaobjekt
+              normative_status: preferred
+        parents: []
+        timeCreated: 2011-12-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

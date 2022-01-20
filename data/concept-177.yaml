@@ -1,0 +1,888 @@
+term: feature operation
+termid: 177
+eng:
+  id: 177
+  definition: operation that every instance of a feature type may perform
+  language_code: eng
+  notes:
+    - Sometimes feature operations provide a basis for feature type definition.
+  examples:
+    - >-
+      A feature operation upon a 'dam' is to raise the dam.  The results of this
+      operation are to raise the height of the 'dam' and the level of water in a
+      'reservoir'.
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19110:2016'
+    clause: '3.7'
+    link: 'https://www.iso.org/standard/57303.html'
+  lineage_source: 'ISO 19101:2002'
+  lineage_source_similarity: 1
+  date_accepted: 2002-07-01T00:00:00.000Z
+  review_date: 2012-01-27T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2016-12-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19110:2016'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19110:2005 to ISO 19110:2016, 3.7.
+    Lineage source added as ISO 19101:2002
+  release: '1'
+  terms:
+    - type: expression
+      designation: feature operation
+      normative_status: preferred
+  _revisions:
+    current: 2831c5
+    tree:
+      2831c5:
+        object:
+          id: 177
+          definition: operation that every instance of a feature type may perform
+          language_code: eng
+          notes:
+            - >-
+              Sometimes feature operations provide a basis for feature type
+              definition.
+          examples:
+            - >-
+              A feature operation upon a 'dam' is to raise the dam.  The results
+              of this operation are to raise the height of the 'dam' and the
+              level of water in a 'reservoir'.
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19110:2016'
+            clause: '3.7'
+            link: 'https://www.iso.org/standard/57303.html'
+          lineage_source: 'ISO 19101:2002'
+          lineage_source_similarity: 1
+          date_accepted: 2002-07-01T00:00:00.000Z
+          review_date: 2012-01-27T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2016-12-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19110:2016'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19110:2005 to ISO
+            19110:2016, 3.7. Lineage source added as ISO 19101:2002
+          release: '1'
+          terms:
+            - type: expression
+              designation: feature operation
+              normative_status: preferred
+        parents: []
+        timeCreated: 2002-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+ara:
+  id: 177
+  definition: عملية يمكن أن يقوم بها كل حاله تمثل أي نوع من انواع المعالم
+  language_code: ara
+  notes:
+    - عمليات المعالم تكون في بعض الأحيان الأساس الذي يبنى عليه تعريف نوع المعلم.
+  examples:
+    - >-
+      تنفيذ عملية معلم على "سد" يعني تعلية هذا السد. ونتائج هذه العملية هي زيادة
+      ارتفاع السد وارتفاع منسوب المياه في بحيرة السد.
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19110:2016'
+    clause: '3.7'
+    link: 'https://www.iso.org/standard/57303.html'
+  lineage_source: 'ISO 19101:2002'
+  lineage_source_similarity: 1
+  date_accepted: 2002-07-01T00:00:00.000Z
+  review_date: 2012-01-27T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2016-12-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19110:2016'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19110:2005 to ISO 19110:2016, 3.7.
+    Lineage source added as ISO 19101:2002
+  release: '1'
+  terms:
+    - type: expression
+      designation: تشغيل المعلم
+      normative_status: preferred
+  _revisions:
+    current: fd7233
+    tree:
+      fd7233:
+        object:
+          id: 177
+          definition: عملية يمكن أن يقوم بها كل حاله تمثل أي نوع من انواع المعالم
+          language_code: ara
+          notes:
+            - >-
+              عمليات المعالم تكون في بعض الأحيان الأساس الذي يبنى عليه تعريف نوع
+              المعلم.
+          examples:
+            - >-
+              تنفيذ عملية معلم على "سد" يعني تعلية هذا السد. ونتائج هذه العملية
+              هي زيادة ارتفاع السد وارتفاع منسوب المياه في بحيرة السد.
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19110:2016'
+            clause: '3.7'
+            link: 'https://www.iso.org/standard/57303.html'
+          lineage_source: 'ISO 19101:2002'
+          lineage_source_similarity: 1
+          date_accepted: 2002-07-01T00:00:00.000Z
+          review_date: 2012-01-27T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2016-12-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19110:2016'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19110:2005 to ISO
+            19110:2016, 3.7. Lineage source added as ISO 19101:2002
+          release: '1'
+          terms:
+            - type: expression
+              designation: تشغيل المعلم
+              normative_status: preferred
+        parents: []
+        timeCreated: 2002-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+zho:
+  id: 177
+  definition: 要素类型的每个实例可执行的操作。
+  language_code: zho
+  notes:
+    - 有时，要素操作为要素类型定义提供基础。
+  examples:
+    - 要素类型为“堤坝”的一个操作是升高堤坝。操作的结果是提高”堤坝”的高度和水库的水位。
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19110:2016'
+    clause: '3.7'
+    link: 'https://www.iso.org/standard/57303.html'
+  lineage_source: 'ISO 19101:2002'
+  lineage_source_similarity: 1
+  date_accepted: 2002-07-01T00:00:00.000Z
+  review_date: 2012-01-27T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2016-12-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19110:2016'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19110:2005 to ISO 19110:2016, 3.7.
+    Lineage source added as ISO 19101:2002
+  release: '1'
+  terms:
+    - type: expression
+      designation: 要素操作
+      normative_status: preferred
+  _revisions:
+    current: aa78c9
+    tree:
+      aa78c9:
+        object:
+          id: 177
+          definition: 要素类型的每个实例可执行的操作。
+          language_code: zho
+          notes:
+            - 有时，要素操作为要素类型定义提供基础。
+          examples:
+            - 要素类型为“堤坝”的一个操作是升高堤坝。操作的结果是提高”堤坝”的高度和水库的水位。
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19110:2016'
+            clause: '3.7'
+            link: 'https://www.iso.org/standard/57303.html'
+          lineage_source: 'ISO 19101:2002'
+          lineage_source_similarity: 1
+          date_accepted: 2002-07-01T00:00:00.000Z
+          review_date: 2012-01-27T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2016-12-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19110:2016'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19110:2005 to ISO
+            19110:2016, 3.7. Lineage source added as ISO 19101:2002
+          release: '1'
+          terms:
+            - type: expression
+              designation: 要素操作
+              normative_status: preferred
+        parents: []
+        timeCreated: 2002-07-01T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+dan:
+  id: 177
+  definition: 'operation, som hver instans af en featuretype kan udføre'
+  language_code: dan
+  notes:
+    - >-
+      Nogle gange danner featureoperationer grundlag for definitionen af en
+      featuretype.
+  examples:
+    - >-
+      En featureoperation på en "dæmning" er at hæve dæmingen.  Resultatet af
+      denne operation er at hæve "dæmningens" højde og vandstanden i et
+      "reservoir".
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19110:2016'
+    clause: '3.7'
+    link: 'https://www.iso.org/standard/57303.html'
+  lineage_source: 'ISO 19101:2002'
+  lineage_source_similarity: 1
+  date_accepted: 2002-07-01T00:00:00.000Z
+  review_date: 2012-01-27T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2016-12-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19110:2016'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19110:2005 to ISO 19110:2016, 3.7.
+    Lineage source added as ISO 19101:2002
+  release: '1'
+  terms:
+    - type: expression
+      designation: featureoperation
+      normative_status: null
+  _revisions:
+    current: 2087f8
+    tree:
+      2087f8:
+        object:
+          id: 177
+          definition: 'operation, som hver instans af en featuretype kan udføre'
+          language_code: dan
+          notes:
+            - >-
+              Nogle gange danner featureoperationer grundlag for definitionen af
+              en featuretype.
+          examples:
+            - >-
+              En featureoperation på en "dæmning" er at hæve dæmingen. 
+              Resultatet af denne operation er at hæve "dæmningens" højde og
+              vandstanden i et "reservoir".
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19110:2016'
+            clause: '3.7'
+            link: 'https://www.iso.org/standard/57303.html'
+          lineage_source: 'ISO 19101:2002'
+          lineage_source_similarity: 1
+          date_accepted: 2002-07-01T00:00:00.000Z
+          review_date: 2012-01-27T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2016-12-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19110:2016'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19110:2005 to ISO
+            19110:2016, 3.7. Lineage source added as ISO 19101:2002
+          release: '1'
+          terms:
+            - type: expression
+              designation: featureoperation
+              normative_status: null
+        parents: []
+        timeCreated: 2002-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+fin:
+  id: 177
+  definition: 'toiminto, jonka kohdetyypin jokainen ilmentymä voi suorittaa'
+  language_code: fin
+  notes:
+    - Joskus kohdetyyppitoiminto voi olla pohjana kohdetyypin määrittelylle.
+  examples:
+    - >-
+      Kohteeseen pato liittyvä kohdetyyppitoiminto on padon sulkeminen.
+      Toiminnon tuloksena on pato-kohteen korkeuden kohoaminen ja patoallas
+      -kohteen vedenpinnan nousu.
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19110:2016'
+    clause: '3.7'
+    link: 'https://www.iso.org/standard/57303.html'
+  lineage_source: 'ISO 19101:2002'
+  lineage_source_similarity: 1
+  date_accepted: 2002-07-01T00:00:00.000Z
+  review_date: 2012-01-27T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2016-12-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19110:2016'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19110:2005 to ISO 19110:2016, 3.7.
+    Lineage source added as ISO 19101:2002
+  release: '1'
+  terms:
+    - type: expression
+      designation: kohdetyyppitoiminto
+      normative_status: preferred
+  _revisions:
+    current: '879687'
+    tree:
+      '879687':
+        object:
+          id: 177
+          definition: 'toiminto, jonka kohdetyypin jokainen ilmentymä voi suorittaa'
+          language_code: fin
+          notes:
+            - >-
+              Joskus kohdetyyppitoiminto voi olla pohjana kohdetyypin
+              määrittelylle.
+          examples:
+            - >-
+              Kohteeseen pato liittyvä kohdetyyppitoiminto on padon sulkeminen.
+              Toiminnon tuloksena on pato-kohteen korkeuden kohoaminen ja
+              patoallas -kohteen vedenpinnan nousu.
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19110:2016'
+            clause: '3.7'
+            link: 'https://www.iso.org/standard/57303.html'
+          lineage_source: 'ISO 19101:2002'
+          lineage_source_similarity: 1
+          date_accepted: 2002-07-01T00:00:00.000Z
+          review_date: 2012-01-27T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2016-12-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19110:2016'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19110:2005 to ISO
+            19110:2016, 3.7. Lineage source added as ISO 19101:2002
+          release: '1'
+          terms:
+            - type: expression
+              designation: kohdetyyppitoiminto
+              normative_status: preferred
+        parents: []
+        timeCreated: 2002-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+fra:
+  id: 177
+  definition: opération que chaque instance d'un type d'entité peut exécuter
+  language_code: fra
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19110:2016'
+    clause: '3.7'
+    link: 'https://www.iso.org/standard/57303.html'
+  lineage_source: 'ISO 19101:2002'
+  lineage_source_similarity: 1
+  date_accepted: 2002-07-01T00:00:00.000Z
+  review_date: 2012-01-27T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2016-12-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19110:2016'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19110:2005 to ISO 19110:2016, 3.7.
+    Lineage source added as ISO 19101:2002
+  release: '1'
+  terms:
+    - type: expression
+      designation: opération sur entité
+      normative_status: preferred
+  _revisions:
+    current: a5f214
+    tree:
+      a5f214:
+        object:
+          id: 177
+          definition: opération que chaque instance d'un type d'entité peut exécuter
+          language_code: fra
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19110:2016'
+            clause: '3.7'
+            link: 'https://www.iso.org/standard/57303.html'
+          lineage_source: 'ISO 19101:2002'
+          lineage_source_similarity: 1
+          date_accepted: 2002-07-01T00:00:00.000Z
+          review_date: 2012-01-27T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2016-12-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19110:2016'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19110:2005 to ISO
+            19110:2016, 3.7. Lineage source added as ISO 19101:2002
+          release: '1'
+          terms:
+            - type: expression
+              designation: opération sur entité
+              normative_status: preferred
+        parents: []
+        timeCreated: 2002-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+deu:
+  id: 177
+  definition: 'Operation, die jede Instanz einer Feature-Klasse ausführen kann'
+  language_code: deu
+  notes:
+    - Sometimes feature operations provide a basis for feature type definition.
+  examples:
+    - >-
+      A feature operation upon a 'dam' is to raise the dam.  The results of this
+      operation are to raise the height of the 'dam' and the level of water in a
+      'reservoir'.
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19110:2016'
+    clause: '3.7'
+    link: 'https://www.iso.org/standard/57303.html'
+  lineage_source: 'ISO 19101:2002'
+  lineage_source_similarity: 1
+  date_accepted: 2002-07-01T00:00:00.000Z
+  review_date: 2012-01-27T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2016-12-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19110:2016'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19110:2005 to ISO 19110:2016, 3.7.
+    Lineage source added as ISO 19101:2002
+  release: '1'
+  terms:
+    - type: expression
+      designation: Feature-Operation
+      normative_status: preferred
+  _revisions:
+    current: e532f4
+    tree:
+      e532f4:
+        object:
+          id: 177
+          definition: 'Operation, die jede Instanz einer Feature-Klasse ausführen kann'
+          language_code: deu
+          notes:
+            - >-
+              Sometimes feature operations provide a basis for feature type
+              definition.
+          examples:
+            - >-
+              A feature operation upon a 'dam' is to raise the dam.  The results
+              of this operation are to raise the height of the 'dam' and the
+              level of water in a 'reservoir'.
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19110:2016'
+            clause: '3.7'
+            link: 'https://www.iso.org/standard/57303.html'
+          lineage_source: 'ISO 19101:2002'
+          lineage_source_similarity: 1
+          date_accepted: 2002-07-01T00:00:00.000Z
+          review_date: 2012-01-27T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2016-12-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19110:2016'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19110:2005 to ISO
+            19110:2016, 3.7. Lineage source added as ISO 19101:2002
+          release: '1'
+          terms:
+            - type: expression
+              designation: Feature-Operation
+              normative_status: preferred
+        parents: []
+        timeCreated: 2002-07-01T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+kor:
+  id: 177
+  definition: 피처 유형에 해당하는 모든 인스턴스에서 실행 가능한 연산
+  language_code: kor
+  notes:
+    - 종종 피처 연산은 피처 유형의 정의를 위한 기초를 제공한다.
+  examples:
+    - '"댐"에 대한 피처 연산은 댐을 높이는 것이다. 이 연산 결과 "댐"의 높이와 "저수지"의 수위가 올라간다.'
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19110:2016'
+    clause: '3.7'
+    link: 'https://www.iso.org/standard/57303.html'
+  lineage_source: 'ISO 19101:2002'
+  lineage_source_similarity: 1
+  date_accepted: 2002-07-01T00:00:00.000Z
+  review_date: 2012-01-27T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2016-12-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19110:2016'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19110:2005 to ISO 19110:2016, 3.7.
+    Lineage source added as ISO 19101:2002
+  release: '1'
+  terms:
+    - type: expression
+      designation: 지형지물 연산
+      normative_status: preferred
+    - designation: 피처 연산
+      type: expression
+  _revisions:
+    current: bee01b
+    tree:
+      bee01b:
+        object:
+          id: 177
+          definition: 피처 유형에 해당하는 모든 인스턴스에서 실행 가능한 연산
+          language_code: kor
+          notes:
+            - 종종 피처 연산은 피처 유형의 정의를 위한 기초를 제공한다.
+          examples:
+            - '"댐"에 대한 피처 연산은 댐을 높이는 것이다. 이 연산 결과 "댐"의 높이와 "저수지"의 수위가 올라간다.'
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19110:2016'
+            clause: '3.7'
+            link: 'https://www.iso.org/standard/57303.html'
+          lineage_source: 'ISO 19101:2002'
+          lineage_source_similarity: 1
+          date_accepted: 2002-07-01T00:00:00.000Z
+          review_date: 2012-01-27T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2016-12-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19110:2016'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19110:2005 to ISO
+            19110:2016, 3.7. Lineage source added as ISO 19101:2002
+          release: '1'
+          terms:
+            - type: expression
+              designation: 지형지물 연산
+              normative_status: preferred
+            - designation: 피처 연산
+              type: expression
+        parents: []
+        timeCreated: 2002-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+pol:
+  id: 177
+  definition: 'operacja, którą może wykonać dowolna instancja typu obiektu (4.1)'
+  language_code: pol
+  notes:
+    - >-
+      W niektórych przypadkach operacje obiektów mogą dawać podstawę do
+      definiowania typów obiektów.
+  examples:
+    - >-
+      Operacją obiektu na obiekcie 'tama' jest podniesienie tamy. Wynikiem tej
+      operacji jest wzrost wysokości 'tamy' oraz wzrost poziomu wody w
+      'zbiorniku wodnym'.
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19110:2016'
+    clause: '3.7'
+    link: 'https://www.iso.org/standard/57303.html'
+  lineage_source: 'ISO 19101:2002'
+  lineage_source_similarity: 1
+  date_accepted: 2002-07-01T00:00:00.000Z
+  review_date: 2012-01-27T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2016-12-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19110:2016'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19110:2005 to ISO 19110:2016, 3.7.
+    Lineage source added as ISO 19101:2002
+  release: '1'
+  terms:
+    - type: expression
+      designation: operacja obiektu
+      normative_status: preferred
+  _revisions:
+    current: 1071f8
+    tree:
+      1071f8:
+        object:
+          id: 177
+          definition: 'operacja, którą może wykonać dowolna instancja typu obiektu (4.1)'
+          language_code: pol
+          notes:
+            - >-
+              W niektórych przypadkach operacje obiektów mogą dawać podstawę do
+              definiowania typów obiektów.
+          examples:
+            - >-
+              Operacją obiektu na obiekcie 'tama' jest podniesienie tamy.
+              Wynikiem tej operacji jest wzrost wysokości 'tamy' oraz wzrost
+              poziomu wody w 'zbiorniku wodnym'.
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19110:2016'
+            clause: '3.7'
+            link: 'https://www.iso.org/standard/57303.html'
+          lineage_source: 'ISO 19101:2002'
+          lineage_source_similarity: 1
+          date_accepted: 2002-07-01T00:00:00.000Z
+          review_date: 2012-01-27T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2016-12-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19110:2016'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19110:2005 to ISO
+            19110:2016, 3.7. Lineage source added as ISO 19101:2002
+          release: '1'
+          terms:
+            - type: expression
+              designation: operacja obiektu
+              normative_status: preferred
+        parents: []
+        timeCreated: 2002-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 177
+  definition: >-
+    операция, которую может выполнить любой экземпляр некоторого типа
+    пространственных объектов
+  language_code: rus
+  notes:
+    - >-
+      Иногда операции пространственного объекта обеспечивают основу для
+      определения типа объекта
+  examples:
+    - >-
+      Операция объекта над дамбой - поднятие дамбы. Результатом операции
+      является  повышение высоты дамбы и уровня воды в водохранилище
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19110:2005'
+    link: 'https://www.iso.org/standard/39965.html'
+  lineage_source: Internet
+  date_accepted: 2002-07-01T00:00:00.000Z
+  terms:
+    - type: expression
+      designation: операция  пространственного объекта
+      normative_status: preferred
+  _revisions:
+    current: '334474'
+    tree:
+      '334474':
+        object:
+          id: 177
+          definition: >-
+            операция, которую может выполнить любой экземпляр некоторого типа
+            пространственных объектов
+          language_code: rus
+          notes:
+            - >-
+              Иногда операции пространственного объекта обеспечивают основу для
+              определения типа объекта
+          examples:
+            - >-
+              Операция объекта над дамбой - поднятие дамбы. Результатом операции
+              является  повышение высоты дамбы и уровня воды в водохранилище
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19110:2005'
+            link: 'https://www.iso.org/standard/39965.html'
+          lineage_source: Internet
+          date_accepted: 2002-07-01T00:00:00.000Z
+          terms:
+            - type: expression
+              designation: операция  пространственного объекта
+              normative_status: preferred
+        parents: []
+        timeCreated: 2002-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 177
+  definition: operación que cada instancia de un tipo de objeto geográfico puede realizar
+  language_code: spa
+  notes:
+    - >-
+      Algunas veces las operaciones de objeto geográfico proporcionan una base
+      para la definición de tipo de objeto geográfico.
+  examples:
+    - >-
+      Una operación de objeto geográfico sobre el objeto geográfico "presa" es
+      elevar la presa. El resultado de esta operación es elevar la altura de la
+      presa y el nivel del agua en un "embalse".
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19110:2016'
+    clause: '3.7'
+    link: 'https://www.iso.org/standard/57303.html'
+  lineage_source: 'ISO 19101:2002'
+  lineage_source_similarity: 1
+  date_accepted: 2002-07-01T00:00:00.000Z
+  review_date: 2012-01-27T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2016-12-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19110:2016'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19110:2005 to ISO 19110:2016, 3.7.
+    Lineage source added as ISO 19101:2002
+  release: '1'
+  terms:
+    - type: expression
+      designation: operación de objeto geográfico
+      normative_status: preferred
+  _revisions:
+    current: 5f1460
+    tree:
+      5f1460:
+        object:
+          id: 177
+          definition: >-
+            operación que cada instancia de un tipo de objeto geográfico puede
+            realizar
+          language_code: spa
+          notes:
+            - >-
+              Algunas veces las operaciones de objeto geográfico proporcionan
+              una base para la definición de tipo de objeto geográfico.
+          examples:
+            - >-
+              Una operación de objeto geográfico sobre el objeto geográfico
+              "presa" es elevar la presa. El resultado de esta operación es
+              elevar la altura de la presa y el nivel del agua en un "embalse".
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19110:2016'
+            clause: '3.7'
+            link: 'https://www.iso.org/standard/57303.html'
+          lineage_source: 'ISO 19101:2002'
+          lineage_source_similarity: 1
+          date_accepted: 2002-07-01T00:00:00.000Z
+          review_date: 2012-01-27T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2016-12-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19110:2016'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19110:2005 to ISO
+            19110:2016, 3.7. Lineage source added as ISO 19101:2002
+          release: '1'
+          terms:
+            - type: expression
+              designation: operación de objeto geográfico
+              normative_status: preferred
+        parents: []
+        timeCreated: 2002-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+swe:
+  id: 177
+  definition: operation som påverkar och/eller utvärderar ett objekt
+  country_code: swe
+  language_code: swe
+  notes:
+    - Sometimes feature operations provide a basis for feature type definition.
+  examples:
+    - >-
+      A feature operation upon a 'dam' is to raise the dam.  The results of this
+      operation are to raise the height of the 'dam' and the level of water in a
+      'reservoir'.
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19110:2016'
+    clause: '3.7'
+    link: 'https://www.iso.org/standard/57303.html'
+  lineage_source: 'ISO 19101:2002'
+  lineage_source_similarity: 1
+  date_accepted: 2002-07-01T00:00:00.000Z
+  review_date: 2012-01-27T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2016-12-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19110:2016'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19110:2005 to ISO 19110:2016, 3.7.
+    Lineage source added as ISO 19101:2002
+  release: '1'
+  terms:
+    - type: expression
+      designation: objektoperation
+      normative_status: preferred
+  _revisions:
+    current: 98d0c7
+    tree:
+      98d0c7:
+        object:
+          id: 177
+          definition: operation som påverkar och/eller utvärderar ett objekt
+          country_code: swe
+          language_code: swe
+          notes:
+            - >-
+              Sometimes feature operations provide a basis for feature type
+              definition.
+          examples:
+            - >-
+              A feature operation upon a 'dam' is to raise the dam.  The results
+              of this operation are to raise the height of the 'dam' and the
+              level of water in a 'reservoir'.
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19110:2016'
+            clause: '3.7'
+            link: 'https://www.iso.org/standard/57303.html'
+          lineage_source: 'ISO 19101:2002'
+          lineage_source_similarity: 1
+          date_accepted: 2002-07-01T00:00:00.000Z
+          review_date: 2012-01-27T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2016-12-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19110:2016'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19110:2005 to ISO
+            19110:2016, 3.7. Lineage source added as ISO 19101:2002
+          release: '1'
+          terms:
+            - type: expression
+              designation: objektoperation
+              normative_status: preferred
+        parents: []
+        timeCreated: 2002-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

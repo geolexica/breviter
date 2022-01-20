@@ -1,0 +1,908 @@
+term: buffer
+termid: 30
+eng:
+  id: 30
+  definition: >-
+    geometric object that contains all direct positions whose distance from a
+    specified geometric object is less than or equal to a given distance
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19107:2003'
+    link: 'https://www.iso.org/standard/26012.html'
+  date_accepted: 2003-05-01T00:00:00.000Z
+  date_amended: 2019-12-02T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: 'Publication of document ISO 19107:2019(E)'
+  review_decision_notes: 'This entry is superseded by the entry for buffer in ISO 19107:2019(E)'
+  release: '-1'
+  terms:
+    - type: expression
+      designation: buffer
+      normative_status: null
+  _revisions:
+    current: 2260b7
+    tree:
+      2260b7:
+        object:
+          id: 30
+          definition: >-
+            geometric object that contains all direct positions whose distance
+            from a specified geometric object is less than or equal to a given
+            distance
+          language_code: eng
+          notes: []
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19107:2003'
+            link: 'https://www.iso.org/standard/26012.html'
+          date_accepted: 2003-05-01T00:00:00.000Z
+          date_amended: 2019-12-02T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: 'Publication of document ISO 19107:2019(E)'
+          review_decision_notes: >-
+            This entry is superseded by the entry for buffer in ISO
+            19107:2019(E)
+          release: '-1'
+          terms:
+            - type: expression
+              designation: buffer
+              normative_status: null
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+ara:
+  id: 30
+  definition: >-
+    كيان هندسي يحتوي على جميع المواضع المباشرة التي تكون في نطاق يبعد عن كيان
+    محدد مسافة محددة
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19107:2003'
+    link: 'https://www.iso.org/standard/26012.html'
+  date_accepted: 2003-05-01T00:00:00.000Z
+  date_amended: 2019-12-02T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: 'Publication of document ISO 19107:2019(E)'
+  review_decision_notes: 'This entry is superseded by the entry for buffer in ISO 19107:2019(E)'
+  release: '-1'
+  terms:
+    - type: expression
+      designation: نطاق
+      normative_status: null
+  _revisions:
+    current: 7e21d1
+    tree:
+      7e21d1:
+        object:
+          id: 30
+          definition: >-
+            كيان هندسي يحتوي على جميع المواضع المباشرة التي تكون في نطاق يبعد عن
+            كيان محدد مسافة محددة
+          language_code: ara
+          notes: []
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19107:2003'
+            link: 'https://www.iso.org/standard/26012.html'
+          date_accepted: 2003-05-01T00:00:00.000Z
+          date_amended: 2019-12-02T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: 'Publication of document ISO 19107:2019(E)'
+          review_decision_notes: >-
+            This entry is superseded by the entry for buffer in ISO
+            19107:2019(E)
+          release: '-1'
+          terms:
+            - type: expression
+              designation: نطاق
+              normative_status: null
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+zho:
+  id: 30
+  definition: 包含距一个指定几何对象的距离都小于或等于一个给定值的所有直接位置的几何对象。
+  language_code: zho
+  notes: []
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19107:2003'
+    link: 'https://www.iso.org/standard/26012.html'
+  date_accepted: 2003-05-01T00:00:00.000Z
+  date_amended: 2019-12-02T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: 'Publication of document ISO 19107:2019(E)'
+  review_decision_notes: 'This entry is superseded by the entry for buffer in ISO 19107:2019(E)'
+  release: '-1'
+  terms:
+    - type: expression
+      designation: 缓冲区
+      normative_status: null
+  _revisions:
+    current: 5dc7ef
+    tree:
+      5dc7ef:
+        object:
+          id: 30
+          definition: 包含距一个指定几何对象的距离都小于或等于一个给定值的所有直接位置的几何对象。
+          language_code: zho
+          notes: []
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19107:2003'
+            link: 'https://www.iso.org/standard/26012.html'
+          date_accepted: 2003-05-01T00:00:00.000Z
+          date_amended: 2019-12-02T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: 'Publication of document ISO 19107:2019(E)'
+          review_decision_notes: >-
+            This entry is superseded by the entry for buffer in ISO
+            19107:2019(E)
+          release: '-1'
+          terms:
+            - type: expression
+              designation: 缓冲区
+              normative_status: null
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+dan:
+  id: 30
+  definition: >-
+    geometrisk objekt, der indeholder alle de direkte positioner, hvis afstand
+    fra et specificeret geometrisk objekt er mindre end eller lig med en given
+    afstand
+  language_code: dan
+  notes: []
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19107:2003'
+    link: 'https://www.iso.org/standard/26012.html'
+  date_accepted: 2003-05-01T00:00:00.000Z
+  date_amended: 2019-12-02T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: 'Publication of document ISO 19107:2019(E)'
+  review_decision_notes: 'This entry is superseded by the entry for buffer in ISO 19107:2019(E)'
+  release: '-1'
+  terms:
+    - type: expression
+      designation: buffer
+      normative_status: null
+  _revisions:
+    current: b4f1e1
+    tree:
+      b4f1e1:
+        object:
+          id: 30
+          definition: >-
+            geometrisk objekt, der indeholder alle de direkte positioner, hvis
+            afstand fra et specificeret geometrisk objekt er mindre end eller
+            lig med en given afstand
+          language_code: dan
+          notes: []
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19107:2003'
+            link: 'https://www.iso.org/standard/26012.html'
+          date_accepted: 2003-05-01T00:00:00.000Z
+          date_amended: 2019-12-02T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: 'Publication of document ISO 19107:2019(E)'
+          review_decision_notes: >-
+            This entry is superseded by the entry for buffer in ISO
+            19107:2019(E)
+          release: '-1'
+          terms:
+            - type: expression
+              designation: buffer
+              normative_status: null
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+fin:
+  id: 30
+  definition: >-
+    geometrinen objekti, joka sisältää kaikki pisteet, joiden etäisyys annetusta
+    geometrisestä objektista on pienempi tai yhtä suuri kuin tietty etäisyys
+  language_code: fin
+  notes: []
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19107:2003'
+    link: 'https://www.iso.org/standard/26012.html'
+  date_accepted: 2003-05-01T00:00:00.000Z
+  date_amended: 2019-12-02T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: 'Publication of document ISO 19107:2019(E)'
+  review_decision_notes: 'This entry is superseded by the entry for buffer in ISO 19107:2019(E)'
+  release: '-1'
+  terms:
+    - type: expression
+      designation: vyöhyke
+      normative_status: null
+  _revisions:
+    current: 6867fc
+    tree:
+      6867fc:
+        object:
+          id: 30
+          definition: >-
+            geometrinen objekti, joka sisältää kaikki pisteet, joiden etäisyys
+            annetusta geometrisestä objektista on pienempi tai yhtä suuri kuin
+            tietty etäisyys
+          language_code: fin
+          notes: []
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19107:2003'
+            link: 'https://www.iso.org/standard/26012.html'
+          date_accepted: 2003-05-01T00:00:00.000Z
+          date_amended: 2019-12-02T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: 'Publication of document ISO 19107:2019(E)'
+          review_decision_notes: >-
+            This entry is superseded by the entry for buffer in ISO
+            19107:2019(E)
+          release: '-1'
+          terms:
+            - type: expression
+              designation: vyöhyke
+              normative_status: null
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+fra:
+  id: 30
+  definition: >-
+    objet géométrique contenant toutes les positions directes dont la distance à
+    un objet géométrique spécifié est inférieure ou égale à une distance donnée
+  language_code: fra
+  notes: []
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19107:2003'
+    link: 'https://www.iso.org/standard/26012.html'
+  date_accepted: 2003-05-01T00:00:00.000Z
+  date_amended: 2019-12-02T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: 'Publication of document ISO 19107:2019(E)'
+  review_decision_notes: 'This entry is superseded by the entry for buffer in ISO 19107:2019(E)'
+  release: '-1'
+  terms:
+    - type: expression
+      designation: tampon (buffer)
+      normative_status: null
+  _revisions:
+    current: a7a4bc
+    tree:
+      a7a4bc:
+        object:
+          id: 30
+          definition: >-
+            objet géométrique contenant toutes les positions directes dont la
+            distance à un objet géométrique spécifié est inférieure ou égale à
+            une distance donnée
+          language_code: fra
+          notes: []
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19107:2003'
+            link: 'https://www.iso.org/standard/26012.html'
+          date_accepted: 2003-05-01T00:00:00.000Z
+          date_amended: 2019-12-02T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: 'Publication of document ISO 19107:2019(E)'
+          review_decision_notes: >-
+            This entry is superseded by the entry for buffer in ISO
+            19107:2019(E)
+          release: '-1'
+          terms:
+            - type: expression
+              designation: tampon (buffer)
+              normative_status: null
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+deu:
+  id: 30
+  language_code: deu
+  notes: []
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19107:2003'
+    link: 'https://www.iso.org/standard/26012.html'
+  date_accepted: 2003-05-01T00:00:00.000Z
+  date_amended: 2019-12-02T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: 'Publication of document ISO 19107:2019(E)'
+  review_decision_notes: 'This entry is superseded by the entry for buffer in ISO 19107:2019(E)'
+  release: '-1'
+  terms:
+    - type: expression
+      designation: Puffer
+      normative_status: null
+  _revisions:
+    current: 4dfb91
+    tree:
+      4dfb91:
+        object:
+          id: 30
+          language_code: deu
+          notes: []
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19107:2003'
+            link: 'https://www.iso.org/standard/26012.html'
+          date_accepted: 2003-05-01T00:00:00.000Z
+          date_amended: 2019-12-02T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: 'Publication of document ISO 19107:2019(E)'
+          review_decision_notes: >-
+            This entry is superseded by the entry for buffer in ISO
+            19107:2019(E)
+          release: '-1'
+          terms:
+            - type: expression
+              designation: Puffer
+              normative_status: null
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+jpn:
+  id: 30
+  definition: 指定された幾何オブジェクトから与えられた距離以内のすべての直接位置を含む幾何オブジェクト。
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19107:2003'
+    link: 'https://www.iso.org/standard/26012.html'
+  date_accepted: 2003-05-01T00:00:00.000Z
+  date_amended: 2019-12-02T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: 'Publication of document ISO 19107:2019(E)'
+  review_decision_notes: 'This entry is superseded by the entry for buffer in ISO 19107:2019(E)'
+  release: '-1'
+  terms:
+    - type: expression
+      designation: バッファ
+      normative_status: null
+  _revisions:
+    current: 3d2257
+    tree:
+      3d2257:
+        object:
+          id: 30
+          definition: 指定された幾何オブジェクトから与えられた距離以内のすべての直接位置を含む幾何オブジェクト。
+          language_code: jpn
+          notes: []
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19107:2003'
+            link: 'https://www.iso.org/standard/26012.html'
+          date_accepted: 2003-05-01T00:00:00.000Z
+          date_amended: 2019-12-02T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: 'Publication of document ISO 19107:2019(E)'
+          review_decision_notes: >-
+            This entry is superseded by the entry for buffer in ISO
+            19107:2019(E)
+          release: '-1'
+          terms:
+            - type: expression
+              designation: バッファ
+              normative_status: null
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+kor:
+  id: 30
+  definition: 지정된 기하 객체로부터 주어진 거리 이내의 모든 직접 위치를 포함하는 기하 객체
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19107:2003'
+    link: 'https://www.iso.org/standard/26012.html'
+  date_accepted: 2003-05-01T00:00:00.000Z
+  date_amended: 2019-12-02T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: 'Publication of document ISO 19107:2019(E)'
+  review_decision_notes: 'This entry is superseded by the entry for buffer in ISO 19107:2019(E)'
+  release: '-1'
+  terms:
+    - type: expression
+      designation: 영향 범위
+      normative_status: null
+    - designation: 버퍼
+      type: expression
+  _revisions:
+    current: 5ee25d
+    tree:
+      5ee25d:
+        object:
+          id: 30
+          definition: 지정된 기하 객체로부터 주어진 거리 이내의 모든 직접 위치를 포함하는 기하 객체
+          language_code: kor
+          notes: []
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19107:2003'
+            link: 'https://www.iso.org/standard/26012.html'
+          date_accepted: 2003-05-01T00:00:00.000Z
+          date_amended: 2019-12-02T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: 'Publication of document ISO 19107:2019(E)'
+          review_decision_notes: >-
+            This entry is superseded by the entry for buffer in ISO
+            19107:2019(E)
+          release: '-1'
+          terms:
+            - type: expression
+              designation: 영향 범위
+              normative_status: null
+            - designation: 버퍼
+              type: expression
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+msa:
+  id: 30
+  definition: >-
+    Kawasan dalam ingatan utama yang telah dikhaskan untuk memegang data yang
+    masih belum dapat dipindahkan kepada cakera
+  language_code: msa
+  notes: []
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19107:2003'
+    link: 'https://www.iso.org/standard/26012.html'
+  date_accepted: 2003-05-01T00:00:00.000Z
+  date_amended: 2019-12-02T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: 'Publication of document ISO 19107:2019(E)'
+  review_decision_notes: 'This entry is superseded by the entry for buffer in ISO 19107:2019(E)'
+  release: '-1'
+  terms:
+    - type: expression
+      designation: penampan
+      normative_status: null
+  _revisions:
+    current: e03025
+    tree:
+      e03025:
+        object:
+          id: 30
+          definition: >-
+            Kawasan dalam ingatan utama yang telah dikhaskan untuk memegang data
+            yang masih belum dapat dipindahkan kepada cakera
+          language_code: msa
+          notes: []
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19107:2003'
+            link: 'https://www.iso.org/standard/26012.html'
+          date_accepted: 2003-05-01T00:00:00.000Z
+          date_amended: 2019-12-02T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: 'Publication of document ISO 19107:2019(E)'
+          review_decision_notes: >-
+            This entry is superseded by the entry for buffer in ISO
+            19107:2019(E)
+          release: '-1'
+          terms:
+            - type: expression
+              designation: penampan
+              normative_status: null
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+pol:
+  id: 30
+  definition: >-
+    obiekt geometryczny zawierający wszystkie położenia bezpośrednie, których
+    odległość od określonego obiektu geometrycznego jest równa danej odległości
+    lub mniejsza
+  language_code: pol
+  notes: []
+  examples: []
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19107:2003'
+    link: 'https://www.iso.org/standard/26012.html'
+  date_accepted: 2003-05-01T00:00:00.000Z
+  date_amended: 2019-12-02T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: 'Publication of document ISO 19107:2019(E)'
+  review_decision_notes: 'This entry is superseded by the entry for buffer in ISO 19107:2019(E)'
+  release: '-1'
+  terms:
+    - type: expression
+      designation: bufor
+      normative_status: null
+  _revisions:
+    current: dcf371
+    tree:
+      dcf371:
+        object:
+          id: 30
+          definition: >-
+            obiekt geometryczny zawierający wszystkie położenia bezpośrednie,
+            których odległość od określonego obiektu geometrycznego jest równa
+            danej odległości lub mniejsza
+          language_code: pol
+          notes: []
+          examples: []
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19107:2003'
+            link: 'https://www.iso.org/standard/26012.html'
+          date_accepted: 2003-05-01T00:00:00.000Z
+          date_amended: 2019-12-02T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: 'Publication of document ISO 19107:2019(E)'
+          review_decision_notes: >-
+            This entry is superseded by the entry for buffer in ISO
+            19107:2019(E)
+          release: '-1'
+          terms:
+            - type: expression
+              designation: bufor
+              normative_status: null
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 30
+  definition: >-
+    геометрический объект, содержащий все точки, расстояния от которых до
+    заданного геометрического объекта меньше или равны заданной величине
+  language_code: rus
+  notes: []
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19107:2003'
+    link: 'https://www.iso.org/standard/26012.html'
+  date_accepted: 2003-05-01T00:00:00.000Z
+  date_amended: 2019-12-02T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: 'Publication of document ISO 19107:2019(E)'
+  review_decision_notes: 'This entry is superseded by the entry for buffer in ISO 19107:2019(E)'
+  release: '-1'
+  terms:
+    - type: expression
+      designation: 'буферная зона [буфер]'
+      normative_status: null
+  _revisions:
+    current: '44e030'
+    tree:
+      '44e030':
+        object:
+          id: 30
+          definition: >-
+            геометрический объект, содержащий все точки, расстояния от которых
+            до заданного геометрического объекта меньше или равны заданной
+            величине
+          language_code: rus
+          notes: []
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19107:2003'
+            link: 'https://www.iso.org/standard/26012.html'
+          date_accepted: 2003-05-01T00:00:00.000Z
+          date_amended: 2019-12-02T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: 'Publication of document ISO 19107:2019(E)'
+          review_decision_notes: >-
+            This entry is superseded by the entry for buffer in ISO
+            19107:2019(E)
+          release: '-1'
+          terms:
+            - type: expression
+              designation: 'буферная зона [буфер]'
+              normative_status: null
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 30
+  definition: >-
+    objeto geométrico que contiene todas las posiciones directas cuyas
+    distancias a un objeto geométrico específico son menores o iguales que una
+    distancia dada
+  language_code: spa
+  notes: []
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19107:2003'
+    link: 'https://www.iso.org/standard/26012.html'
+  date_accepted: 2003-05-01T00:00:00.000Z
+  date_amended: 2019-12-02T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: 'Publication of document ISO 19107:2019(E)'
+  review_decision_notes: 'This entry is superseded by the entry for buffer in ISO 19107:2019(E)'
+  release: '-1'
+  terms:
+    - type: expression
+      designation: buffer
+      normative_status: null
+  _revisions:
+    current: '1e5347'
+    tree:
+      '1e5347':
+        object:
+          id: 30
+          definition: >-
+            objeto geométrico que contiene todas las posiciones directas cuyas
+            distancias a un objeto geométrico específico son menores o iguales
+            que una distancia dada
+          language_code: spa
+          notes: []
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19107:2003'
+            link: 'https://www.iso.org/standard/26012.html'
+          date_accepted: 2003-05-01T00:00:00.000Z
+          date_amended: 2019-12-02T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: 'Publication of document ISO 19107:2019(E)'
+          review_decision_notes: >-
+            This entry is superseded by the entry for buffer in ISO
+            19107:2019(E)
+          release: '-1'
+          terms:
+            - type: expression
+              designation: buffer
+              normative_status: null
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+swe:
+  id: 30
+  definition: >-
+    område vars gränser befinner sig på givna avstånd från ett utvalt
+    geografiskt objekt
+  country_code: swe
+  language_code: swe
+  notes: []
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19107:2003'
+    link: 'https://www.iso.org/standard/26012.html'
+  date_accepted: 2003-05-01T00:00:00.000Z
+  date_amended: 2019-12-02T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: 'Publication of document ISO 19107:2019(E)'
+  review_decision_notes: 'This entry is superseded by the entry for buffer in ISO 19107:2019(E)'
+  release: '-1'
+  terms:
+    - type: expression
+      designation: buffertzon
+      normative_status: null
+  _revisions:
+    current: 3913d6
+    tree:
+      3913d6:
+        object:
+          id: 30
+          definition: >-
+            område vars gränser befinner sig på givna avstånd från ett utvalt
+            geografiskt objekt
+          country_code: swe
+          language_code: swe
+          notes: []
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19107:2003'
+            link: 'https://www.iso.org/standard/26012.html'
+          date_accepted: 2003-05-01T00:00:00.000Z
+          date_amended: 2019-12-02T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: 'Publication of document ISO 19107:2019(E)'
+          review_decision_notes: >-
+            This entry is superseded by the entry for buffer in ISO
+            19107:2019(E)
+          release: '-1'
+          terms:
+            - type: expression
+              designation: buffertzon
+              normative_status: null
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

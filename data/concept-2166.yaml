@@ -1,0 +1,67 @@
+term: geometric set <geometry>
+termid: 2166
+eng:
+  id: 2166
+  definition: set of points
+  language_code: eng
+  notes:
+    - >-
+      This set in most cases is infinite, except where the set consists of a
+      list of point locations. Curves, surfaces and volumes being continuous are
+      infinite sets of points. Some systems will define 'degenerate' curves,
+      which are actually points.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19107:2019'
+    clause: '(E), 3.53'
+    link: 'https://www.iso.org/standard/66175.html'
+  date_accepted: 2019-12-02T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: Normal ISO processing
+  review_decision_notes: 'Publication of document ISO 19107:2019(E)'
+  release: '5'
+  terms:
+    - type: expression
+      designation: geometric set <geometry>
+      normative_status: preferred
+  _revisions:
+    current: 9740cf
+    tree:
+      9740cf:
+        object:
+          id: 2166
+          definition: set of points
+          language_code: eng
+          notes:
+            - >-
+              This set in most cases is infinite, except where the set consists
+              of a list of point locations. Curves, surfaces and volumes being
+              continuous are infinite sets of points. Some systems will define
+              'degenerate' curves, which are actually points.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19107:2019'
+            clause: '(E), 3.53'
+            link: 'https://www.iso.org/standard/66175.html'
+          date_accepted: 2019-12-02T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: Normal ISO processing
+          review_decision_notes: 'Publication of document ISO 19107:2019(E)'
+          release: '5'
+          terms:
+            - type: expression
+              designation: geometric set <geometry>
+              normative_status: preferred
+        parents: []
+        timeCreated: 2019-12-02T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

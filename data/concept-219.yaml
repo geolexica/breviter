@@ -1,0 +1,712 @@
+term: geometry property <GML>
+termid: 219
+eng:
+  id: 219
+  definition: >-
+    property of a GML feature that describes some aspect of the geometry of the
+    feature.
+  language_code: eng
+  notes:
+    - >-
+      The geometry property name is the role of the geometry in relation to the
+      feature.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19136-1:2020'
+    clause: '(E), 3.1.33'
+    link: 'https://www.iso.org/standard/75676.html'
+  lineage_source: 'ISO 19136:2007(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2007-09-01T00:00:00.000Z
+  review_date: 2020-01-09T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2020-01-09T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19136-1:2020(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19136:2007 to ISO 19136-1:2020(E),
+    3.1.33. Lineage source added as ISO 19136:2007(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: geometry property <GML>
+      normative_status: preferred
+  _revisions:
+    current: b1f565
+    tree:
+      b1f565:
+        object:
+          id: 219
+          definition: >-
+            property of a GML feature that describes some aspect of the geometry
+            of the feature.
+          language_code: eng
+          notes:
+            - >-
+              The geometry property name is the role of the geometry in relation
+              to the feature.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19136-1:2020'
+            clause: '(E), 3.1.33'
+            link: 'https://www.iso.org/standard/75676.html'
+          lineage_source: 'ISO 19136:2007(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2007-09-01T00:00:00.000Z
+          review_date: 2020-01-09T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2020-01-09T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19136-1:2020(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19136:2007 to ISO
+            19136-1:2020(E), 3.1.33. Lineage source added as ISO 19136:2007(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: geometry property <GML>
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-09-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+ara:
+  id: 219
+  definition: خاصية معلم GML تصف بعض الجوانب الهندسية للمعلم
+  language_code: ara
+  notes:
+    - اسم الخاصية الهندسية هو دور الهندسة فيما يتعلق بالمعلم.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19136-1:2020'
+    clause: '(E), 3.1.33'
+    link: 'https://www.iso.org/standard/75676.html'
+  lineage_source: 'ISO 19136:2007(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2007-09-01T00:00:00.000Z
+  review_date: 2020-01-09T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2020-01-09T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19136-1:2020(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19136:2007 to ISO 19136-1:2020(E),
+    3.1.33. Lineage source added as ISO 19136:2007(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: الخاصية الهندسية > GML <
+      normative_status: preferred
+  _revisions:
+    current: 4ac5e9
+    tree:
+      4ac5e9:
+        object:
+          id: 219
+          definition: خاصية معلم GML تصف بعض الجوانب الهندسية للمعلم
+          language_code: ara
+          notes:
+            - اسم الخاصية الهندسية هو دور الهندسة فيما يتعلق بالمعلم.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19136-1:2020'
+            clause: '(E), 3.1.33'
+            link: 'https://www.iso.org/standard/75676.html'
+          lineage_source: 'ISO 19136:2007(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2007-09-01T00:00:00.000Z
+          review_date: 2020-01-09T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2020-01-09T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19136-1:2020(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19136:2007 to ISO
+            19136-1:2020(E), 3.1.33. Lineage source added as ISO 19136:2007(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: الخاصية الهندسية > GML <
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-09-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+zho:
+  id: 219
+  definition: <GML>GML要素的特性，描述了要素的某些几何特征。
+  language_code: zho
+  notes:
+    - 几何特性的名称是与要素相连的几何角色。
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19136-1:2020'
+    clause: '(E), 3.1.33'
+    link: 'https://www.iso.org/standard/75676.html'
+  lineage_source: 'ISO 19136:2007(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2007-09-01T00:00:00.000Z
+  review_date: 2020-01-09T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2020-01-09T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19136-1:2020(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19136:2007 to ISO 19136-1:2020(E),
+    3.1.33. Lineage source added as ISO 19136:2007(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: 几何特性
+      normative_status: preferred
+  _revisions:
+    current: '563092'
+    tree:
+      '563092':
+        object:
+          id: 219
+          definition: <GML>GML要素的特性，描述了要素的某些几何特征。
+          language_code: zho
+          notes:
+            - 几何特性的名称是与要素相连的几何角色。
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19136-1:2020'
+            clause: '(E), 3.1.33'
+            link: 'https://www.iso.org/standard/75676.html'
+          lineage_source: 'ISO 19136:2007(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2007-09-01T00:00:00.000Z
+          review_date: 2020-01-09T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2020-01-09T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19136-1:2020(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19136:2007 to ISO
+            19136-1:2020(E), 3.1.33. Lineage source added as ISO 19136:2007(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: 几何特性
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-09-01T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+dan:
+  id: 219
+  definition: >-
+    meridian, der går igennem positionen Airy Transit Circle i Royal Observatory
+    Greenwich i Storbritannien
+  language_code: dan
+  notes:
+    - >-
+      De fleste geodætiske datummer anvender Greenwich-meridianen som
+      nulmeridian. Dens nøjagtige position er lidt forskellig for forskellige
+      datummer.
+  examples: []
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19136-1:2020'
+    clause: '(E), 3.1.33'
+    link: 'https://www.iso.org/standard/75676.html'
+  lineage_source: 'ISO 19136:2007(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2007-09-01T00:00:00.000Z
+  review_date: 2020-01-09T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2020-01-09T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19136-1:2020(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19136:2007 to ISO 19136-1:2020(E),
+    3.1.33. Lineage source added as ISO 19136:2007(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: Greenwich-meridian
+      normative_status: null
+  _revisions:
+    current: e9aea9
+    tree:
+      e9aea9:
+        object:
+          id: 219
+          definition: >-
+            meridian, der går igennem positionen Airy Transit Circle i Royal
+            Observatory Greenwich i Storbritannien
+          language_code: dan
+          notes:
+            - >-
+              De fleste geodætiske datummer anvender Greenwich-meridianen som
+              nulmeridian. Dens nøjagtige position er lidt forskellig for
+              forskellige datummer.
+          examples: []
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19136-1:2020'
+            clause: '(E), 3.1.33'
+            link: 'https://www.iso.org/standard/75676.html'
+          lineage_source: 'ISO 19136:2007(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2007-09-01T00:00:00.000Z
+          review_date: 2020-01-09T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2020-01-09T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19136-1:2020(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19136:2007 to ISO
+            19136-1:2020(E), 3.1.33. Lineage source added as ISO 19136:2007(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: Greenwich-meridian
+              normative_status: null
+        parents: []
+        timeCreated: 2007-09-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+fin:
+  id: 219
+  definition: 'GML-kohteen ominaisuus, joka kuvaa kohteen geometrian jotakin näkökulmaa'
+  language_code: fin
+  notes:
+    - Geometriaominaisuuden nimi on geometrian rooli suhteessa kohteeseen.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19136-1:2020'
+    clause: '(E), 3.1.33'
+    link: 'https://www.iso.org/standard/75676.html'
+  lineage_source: 'ISO 19136:2007(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2007-09-01T00:00:00.000Z
+  review_date: 2020-01-09T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2020-01-09T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19136-1:2020(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19136:2007 to ISO 19136-1:2020(E),
+    3.1.33. Lineage source added as ISO 19136:2007(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: geometriaominaisuus <GML>
+      normative_status: preferred
+  _revisions:
+    current: 7770a6
+    tree:
+      7770a6:
+        object:
+          id: 219
+          definition: >-
+            GML-kohteen ominaisuus, joka kuvaa kohteen geometrian jotakin
+            näkökulmaa
+          language_code: fin
+          notes:
+            - >-
+              Geometriaominaisuuden nimi on geometrian rooli suhteessa
+              kohteeseen.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19136-1:2020'
+            clause: '(E), 3.1.33'
+            link: 'https://www.iso.org/standard/75676.html'
+          lineage_source: 'ISO 19136:2007(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2007-09-01T00:00:00.000Z
+          review_date: 2020-01-09T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2020-01-09T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19136-1:2020(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19136:2007 to ISO
+            19136-1:2020(E), 3.1.33. Lineage source added as ISO 19136:2007(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: geometriaominaisuus <GML>
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-09-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+fra:
+  id: 219
+  definition: propriété d'un objet GML décrivant des aspects géométriques de l'entité
+  language_code: fra
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19136-1:2020'
+    clause: '(E), 3.1.33'
+    link: 'https://www.iso.org/standard/75676.html'
+  lineage_source: 'ISO 19136:2007(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2007-09-01T00:00:00.000Z
+  review_date: 2020-01-09T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2020-01-09T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19136-1:2020(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19136:2007 to ISO 19136-1:2020(E),
+    3.1.33. Lineage source added as ISO 19136:2007(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: propriété géométrique <GML>
+      normative_status: preferred
+  _revisions:
+    current: f1ee32
+    tree:
+      f1ee32:
+        object:
+          id: 219
+          definition: >-
+            propriété d'un objet GML décrivant des aspects géométriques de
+            l'entité
+          language_code: fra
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19136-1:2020'
+            clause: '(E), 3.1.33'
+            link: 'https://www.iso.org/standard/75676.html'
+          lineage_source: 'ISO 19136:2007(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2007-09-01T00:00:00.000Z
+          review_date: 2020-01-09T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2020-01-09T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19136-1:2020(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19136:2007 to ISO
+            19136-1:2020(E), 3.1.33. Lineage source added as ISO 19136:2007(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: propriété géométrique <GML>
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-09-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+deu:
+  id: 219
+  definition: >-
+    Eigenschaft eines GML-Features, das einen Geometrieaspekt des Features
+    beschreibt
+  language_code: deu
+  notes:
+    - >-
+      The geometry property name is the role of the geometry in relation to the
+      feature.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19136-1:2020'
+    clause: '(E), 3.1.33'
+    link: 'https://www.iso.org/standard/75676.html'
+  lineage_source: 'ISO 19136:2007(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2007-09-01T00:00:00.000Z
+  review_date: 2020-01-09T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2020-01-09T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19136-1:2020(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19136:2007 to ISO 19136-1:2020(E),
+    3.1.33. Lineage source added as ISO 19136:2007(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: Geometrieeigenschaft <GML>
+      normative_status: preferred
+  _revisions:
+    current: f83136
+    tree:
+      f83136:
+        object:
+          id: 219
+          definition: >-
+            Eigenschaft eines GML-Features, das einen Geometrieaspekt des
+            Features beschreibt
+          language_code: deu
+          notes:
+            - >-
+              The geometry property name is the role of the geometry in relation
+              to the feature.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19136-1:2020'
+            clause: '(E), 3.1.33'
+            link: 'https://www.iso.org/standard/75676.html'
+          lineage_source: 'ISO 19136:2007(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2007-09-01T00:00:00.000Z
+          review_date: 2020-01-09T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2020-01-09T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19136-1:2020(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19136:2007 to ISO
+            19136-1:2020(E), 3.1.33. Lineage source added as ISO 19136:2007(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: Geometrieeigenschaft <GML>
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-09-01T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+kor:
+  id: 219
+  definition: 지리 피처의 기하 현상을 기술하는 GML 피처의 특성
+  language_code: kor
+  notes:
+    - 기하 특성 명칭은 피처에 관한 기하의 역할이다.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19136-1:2020'
+    clause: '(E), 3.1.33'
+    link: 'https://www.iso.org/standard/75676.html'
+  lineage_source: 'ISO 19136:2007(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2007-09-01T00:00:00.000Z
+  review_date: 2020-01-09T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2020-01-09T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19136-1:2020(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19136:2007 to ISO 19136-1:2020(E),
+    3.1.33. Lineage source added as ISO 19136:2007(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: 기하 특성 <GML>
+      normative_status: preferred
+  _revisions:
+    current: 3fe6aa
+    tree:
+      3fe6aa:
+        object:
+          id: 219
+          definition: 지리 피처의 기하 현상을 기술하는 GML 피처의 특성
+          language_code: kor
+          notes:
+            - 기하 특성 명칭은 피처에 관한 기하의 역할이다.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19136-1:2020'
+            clause: '(E), 3.1.33'
+            link: 'https://www.iso.org/standard/75676.html'
+          lineage_source: 'ISO 19136:2007(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2007-09-01T00:00:00.000Z
+          review_date: 2020-01-09T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2020-01-09T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19136-1:2020(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19136:2007 to ISO
+            19136-1:2020(E), 3.1.33. Lineage source added as ISO 19136:2007(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: 기하 특성 <GML>
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-09-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 219
+  definition: >-
+    свойство пространственного объекта в GML, описывающее его некоторую
+    геометрическую характеристику
+  language_code: rus
+  notes:
+    - Имя свойства отражает вид геометрической характеристики объекта
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19136-1:2020'
+    clause: '(E), 3.1.33'
+    link: 'https://www.iso.org/standard/75676.html'
+  lineage_source: 'ISO 19136:2007(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2007-09-01T00:00:00.000Z
+  review_date: 2020-01-09T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2020-01-09T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19136-1:2020(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19136:2007 to ISO 19136-1:2020(E),
+    3.1.33. Lineage source added as ISO 19136:2007(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: геометрическое свойство <GML>
+      normative_status: preferred
+  _revisions:
+    current: '971399'
+    tree:
+      '971399':
+        object:
+          id: 219
+          definition: >-
+            свойство пространственного объекта в GML, описывающее его некоторую
+            геометрическую характеристику
+          language_code: rus
+          notes:
+            - Имя свойства отражает вид геометрической характеристики объекта
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19136-1:2020'
+            clause: '(E), 3.1.33'
+            link: 'https://www.iso.org/standard/75676.html'
+          lineage_source: 'ISO 19136:2007(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2007-09-01T00:00:00.000Z
+          review_date: 2020-01-09T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2020-01-09T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19136-1:2020(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19136:2007 to ISO
+            19136-1:2020(E), 3.1.33. Lineage source added as ISO 19136:2007(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: геометрическое свойство <GML>
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-09-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 219
+  definition: >-
+    propiedad de un objeto geográfico GML que describe algún aspecto de la
+    geometría del objeto geográfico
+  language_code: spa
+  notes:
+    - >-
+      El nombre de la propiedad geométrica es el rol de la geometría en relación
+      al objeto geográfico.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19136-1:2020'
+    clause: '(E), 3.1.33'
+    link: 'https://www.iso.org/standard/75676.html'
+  lineage_source: 'ISO 19136:2007(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2007-09-01T00:00:00.000Z
+  review_date: 2020-01-09T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2020-01-09T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19136-1:2020(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19136:2007 to ISO 19136-1:2020(E),
+    3.1.33. Lineage source added as ISO 19136:2007(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: propiedad geométrica <GML>
+      normative_status: preferred
+  _revisions:
+    current: fafc4d
+    tree:
+      fafc4d:
+        object:
+          id: 219
+          definition: >-
+            propiedad de un objeto geográfico GML que describe algún aspecto de
+            la geometría del objeto geográfico
+          language_code: spa
+          notes:
+            - >-
+              El nombre de la propiedad geométrica es el rol de la geometría en
+              relación al objeto geográfico.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19136-1:2020'
+            clause: '(E), 3.1.33'
+            link: 'https://www.iso.org/standard/75676.html'
+          lineage_source: 'ISO 19136:2007(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2007-09-01T00:00:00.000Z
+          review_date: 2020-01-09T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2020-01-09T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19136-1:2020(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19136:2007 to ISO
+            19136-1:2020(E), 3.1.33. Lineage source added as ISO 19136:2007(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: propiedad geométrica <GML>
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-09-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

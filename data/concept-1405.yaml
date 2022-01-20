@@ -1,0 +1,239 @@
+term: passive SONAR
+termid: 1405
+eng:
+  id: 1405
+  definition: >-
+    type of passive sensor that only receives sound waves from external sources
+    and does not transmit any sound waves
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO/TS 19130-2:2014'
+    clause: '4.47'
+    link: 'https://www.iso.org/standard/56113.html'
+  date_accepted: 2014-01-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: passive SONAR
+      normative_status: preferred
+  _revisions:
+    current: f736de
+    tree:
+      f736de:
+        object:
+          id: 1405
+          definition: >-
+            type of passive sensor that only receives sound waves from external
+            sources and does not transmit any sound waves
+          language_code: eng
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO/TS 19130-2:2014'
+            clause: '4.47'
+            link: 'https://www.iso.org/standard/56113.html'
+          date_accepted: 2014-01-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: passive SONAR
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-01-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+kor:
+  id: 1405
+  definition: 외부로부터 음파를 수신하지만 전송하지는 않는 수동적 센서의 유형
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO/TS 19130-2:2014'
+    clause: '4.47'
+    link: 'https://www.iso.org/standard/56113.html'
+  date_accepted: 2014-01-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: 수동형 소나
+      normative_status: preferred
+  _revisions:
+    current: 35c98f
+    tree:
+      35c98f:
+        object:
+          id: 1405
+          definition: 외부로부터 음파를 수신하지만 전송하지는 않는 수동적 센서의 유형
+          language_code: kor
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO/TS 19130-2:2014'
+            clause: '4.47'
+            link: 'https://www.iso.org/standard/56113.html'
+          date_accepted: 2014-01-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: 수동형 소나
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-01-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 1405
+  definition: >-
+    тип пассивного датчика, который только принимает звуковые волны от внешних
+    источников и никаких звуковых волн не передает
+  language_code: rus
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO/TS 19130-2:2014'
+    clause: '4.47'
+    link: 'https://www.iso.org/standard/56113.html'
+  lineage_source: 'ISO/TS 19130-2:2014'
+  date_accepted: 2014-01-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: пассивный SONAR
+      normative_status: preferred
+  _revisions:
+    current: 8ab145
+    tree:
+      8ab145:
+        object:
+          id: 1405
+          definition: >-
+            тип пассивного датчика, который только принимает звуковые волны от
+            внешних источников и никаких звуковых волн не передает
+          language_code: rus
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO/TS 19130-2:2014'
+            clause: '4.47'
+            link: 'https://www.iso.org/standard/56113.html'
+          lineage_source: 'ISO/TS 19130-2:2014'
+          date_accepted: 2014-01-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: пассивный SONAR
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-01-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 1405
+  definition: >-
+    tipo de sensor sonar que sólo recibe ondas de sonido desde fuentes externas
+    sin transmitir ninguna señal
+  language_code: spa
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO/TS 19130-2:2014'
+    clause: '4.47'
+    link: 'https://www.iso.org/standard/56113.html'
+  date_accepted: 2014-01-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: sonar pasivo
+      normative_status: preferred
+  _revisions:
+    current: 3e498a
+    tree:
+      3e498a:
+        object:
+          id: 1405
+          definition: >-
+            tipo de sensor sonar que sólo recibe ondas de sonido desde fuentes
+            externas sin transmitir ninguna señal
+          language_code: spa
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO/TS 19130-2:2014'
+            clause: '4.47'
+            link: 'https://www.iso.org/standard/56113.html'
+          date_accepted: 2014-01-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: sonar pasivo
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-01-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+swe:
+  id: 1405
+  definition: >-
+    typ av SONAR som endast lyssnar och registrerar inkommande pulser från andra
+    källor
+  country_code: swe
+  language_code: swe
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO/TS 19130-2:2014'
+    clause: '4.47'
+    link: 'https://www.iso.org/standard/56113.html'
+  lineage_source: (Type reference to national language document)
+  date_accepted: 2014-01-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: passiv SONAR
+      normative_status: preferred
+  _revisions:
+    current: ca1565
+    tree:
+      ca1565:
+        object:
+          id: 1405
+          definition: >-
+            typ av SONAR som endast lyssnar och registrerar inkommande pulser
+            från andra källor
+          country_code: swe
+          language_code: swe
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO/TS 19130-2:2014'
+            clause: '4.47'
+            link: 'https://www.iso.org/standard/56113.html'
+          lineage_source: (Type reference to national language document)
+          date_accepted: 2014-01-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: passiv SONAR
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-01-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

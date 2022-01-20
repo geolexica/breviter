@@ -1,0 +1,560 @@
+term: candidate route
+termid: 34
+eng:
+  id: 34
+  definition: >-
+    any route that satisfies all constraints of the routing request with the
+    possible exception of optimality of the cost function
+  language_code: eng
+  notes:
+    - >-
+      Navigation is the process of finding the candidate route that optimizes a
+      chosen cost function.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19133:2005'
+    link: 'https://www.iso.org/standard/32551.html'
+  date_accepted: 2005-10-15T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: candidate route
+      normative_status: preferred
+  _revisions:
+    current: ade0a3
+    tree:
+      ade0a3:
+        object:
+          id: 34
+          definition: >-
+            any route that satisfies all constraints of the routing request with
+            the possible exception of optimality of the cost function
+          language_code: eng
+          notes:
+            - >-
+              Navigation is the process of finding the candidate route that
+              optimizes a chosen cost function.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19133:2005'
+            link: 'https://www.iso.org/standard/32551.html'
+          date_accepted: 2005-10-15T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: candidate route
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-10-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+ara:
+  id: 34
+  definition: >-
+    أي مسلك يكون مستوفيا لجميع القيود المشمولة في طلب تحديد مسلك أو مسار مع
+    احتمال استثناء أفضلية دالة التكلفة
+  language_code: ara
+  notes:
+    - >-
+      الملاحة هي عملية إيجاد المسار المرشح الذي يعطي أفضل النتائج بناء على دالة
+      تكلفة مختارة
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19133:2005'
+    link: 'https://www.iso.org/standard/32551.html'
+  date_accepted: 2005-10-15T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: مسلك مرشح
+      normative_status: preferred
+  _revisions:
+    current: ca3a69
+    tree:
+      ca3a69:
+        object:
+          id: 34
+          definition: >-
+            أي مسلك يكون مستوفيا لجميع القيود المشمولة في طلب تحديد مسلك أو مسار
+            مع احتمال استثناء أفضلية دالة التكلفة
+          language_code: ara
+          notes:
+            - >-
+              الملاحة هي عملية إيجاد المسار المرشح الذي يعطي أفضل النتائج بناء
+              على دالة تكلفة مختارة
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19133:2005'
+            link: 'https://www.iso.org/standard/32551.html'
+          date_accepted: 2005-10-15T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: مسلك مرشح
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-10-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+zho:
+  id: 34
+  definition: 除了成本函数最优路径之外，还包含任何可满足路径请求的所有限制条件的路径。
+  language_code: zho
+  notes:
+    - 导航就是在备选路径中寻找最优化成本函数的过程。
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19133:2005'
+    link: 'https://www.iso.org/standard/32551.html'
+  date_accepted: 2005-10-15T00:00:00.000Z
+  terms:
+    - type: expression
+      designation: 候选路径
+      normative_status: preferred
+  _revisions:
+    current: 3992ff
+    tree:
+      3992ff:
+        object:
+          id: 34
+          definition: 除了成本函数最优路径之外，还包含任何可满足路径请求的所有限制条件的路径。
+          language_code: zho
+          notes:
+            - 导航就是在备选路径中寻找最优化成本函数的过程。
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19133:2005'
+            link: 'https://www.iso.org/standard/32551.html'
+          date_accepted: 2005-10-15T00:00:00.000Z
+          terms:
+            - type: expression
+              designation: 候选路径
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-10-15T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+dan:
+  id: 34
+  definition: >-
+    enhver rute, der opfylder alle betingelser i ruteforespørgslen, dog evt. med
+    undtagelse af optimering af omkostningsfunktionen
+  language_code: dan
+  notes:
+    - >-
+      Navigation er den proces, der anvendes til at finde det ruteforslag, der
+      optimerer den valgte omkostningsfunktion.
+  examples: []
+  authoritative_source:
+    ref: 'ISO 19133:2005'
+    link: 'https://www.iso.org/standard/32551.html'
+  date_accepted: 2005-10-15T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: ruteforslag
+      normative_status: null
+  _revisions:
+    current: 0543c8
+    tree:
+      0543c8:
+        object:
+          id: 34
+          definition: >-
+            enhver rute, der opfylder alle betingelser i ruteforespørgslen, dog
+            evt. med undtagelse af optimering af omkostningsfunktionen
+          language_code: dan
+          notes:
+            - >-
+              Navigation er den proces, der anvendes til at finde det
+              ruteforslag, der optimerer den valgte omkostningsfunktion.
+          examples: []
+          authoritative_source:
+            ref: 'ISO 19133:2005'
+            link: 'https://www.iso.org/standard/32551.html'
+          date_accepted: 2005-10-15T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: ruteforslag
+              normative_status: null
+        parents: []
+        timeCreated: 2005-10-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+fin:
+  id: 34
+  definition: >-
+    reitti, joka täyttää kaikki reitinhakupyynnön ehdot mahdollisesti
+    lukuunottamatta kustannusten optimointitoimintoa
+  language_code: fin
+  notes:
+    - >-
+      Navigoinnissa pyritään löytämään reittiehdokas, joka parhaiten täyttää
+      valitun kustannusten optimointifunktion ehdot.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19133:2005'
+    link: 'https://www.iso.org/standard/32551.html'
+  lineage_source: 'Ei lähdettä, käännetty'
+  date_accepted: 2005-10-15T00:00:00.000Z
+  terms:
+    - type: expression
+      designation: reittiehdokas
+      normative_status: preferred
+  _revisions:
+    current: f838be
+    tree:
+      f838be:
+        object:
+          id: 34
+          definition: >-
+            reitti, joka täyttää kaikki reitinhakupyynnön ehdot mahdollisesti
+            lukuunottamatta kustannusten optimointitoimintoa
+          language_code: fin
+          notes:
+            - >-
+              Navigoinnissa pyritään löytämään reittiehdokas, joka parhaiten
+              täyttää valitun kustannusten optimointifunktion ehdot.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19133:2005'
+            link: 'https://www.iso.org/standard/32551.html'
+          lineage_source: 'Ei lähdettä, käännetty'
+          date_accepted: 2005-10-15T00:00:00.000Z
+          terms:
+            - type: expression
+              designation: reittiehdokas
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-10-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+fra:
+  id: 34
+  definition: >-
+    itinéraire satisfaisant toutes les contraintes d'une requête de routage à
+    l'exception possible de l'optimalité de la fonction de coût
+  language_code: fra
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: ISO 19133
+    link: 'https://www.iso.org/standard/32551.html'
+  lineage_source: ''
+  date_accepted: 2005-10-15T00:00:00.000Z
+  review_decision_event: ''
+  terms:
+    - type: expression
+      designation: itinéraire candidat
+      normative_status: preferred
+  _revisions:
+    current: d801c0
+    tree:
+      d801c0:
+        object:
+          id: 34
+          definition: >-
+            itinéraire satisfaisant toutes les contraintes d'une requête de
+            routage à l'exception possible de l'optimalité de la fonction de
+            coût
+          language_code: fra
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: ISO 19133
+            link: 'https://www.iso.org/standard/32551.html'
+          lineage_source: ''
+          date_accepted: 2005-10-15T00:00:00.000Z
+          review_decision_event: ''
+          terms:
+            - type: expression
+              designation: itinéraire candidat
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-10-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+deu:
+  id: 34
+  language_code: deu
+  notes:
+    - >-
+      Navigation is the process of finding the candidate route that optimizes a
+      chosen cost function.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19133:2005'
+    link: 'https://www.iso.org/standard/32551.html'
+  date_accepted: 2005-10-15T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: mögliche Route
+      normative_status: preferred
+  _revisions:
+    current: e5a998
+    tree:
+      e5a998:
+        object:
+          id: 34
+          language_code: deu
+          notes:
+            - >-
+              Navigation is the process of finding the candidate route that
+              optimizes a chosen cost function.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19133:2005'
+            link: 'https://www.iso.org/standard/32551.html'
+          date_accepted: 2005-10-15T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: mögliche Route
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-10-15T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+kor:
+  id: 34
+  definition: 라우팅 요청의 제약 조건에 대하여 최적화된 비용 함수를 만족시키는 경로
+  language_code: kor
+  notes:
+    - 내비게이션은 선택된 비용 함수를 최적화하는 후보 경로를 찾는 과정이다.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19133:2005'
+    link: 'https://www.iso.org/standard/32551.html'
+  lineage_source: KS X ISO 19133
+  date_accepted: 2006-12-01T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: 후보 경로
+      normative_status: preferred
+  _revisions:
+    current: 0bd5b8
+    tree:
+      0bd5b8:
+        object:
+          id: 34
+          definition: 라우팅 요청의 제약 조건에 대하여 최적화된 비용 함수를 만족시키는 경로
+          language_code: kor
+          notes:
+            - 내비게이션은 선택된 비용 함수를 최적화하는 후보 경로를 찾는 과정이다.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19133:2005'
+            link: 'https://www.iso.org/standard/32551.html'
+          lineage_source: KS X ISO 19133
+          date_accepted: 2006-12-01T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: 후보 경로
+              normative_status: preferred
+        parents: []
+        timeCreated: 2006-12-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 34
+  definition: >-
+    любой из маршрутов, удовлетворяющий всем ограничениям из запроса, за
+    исключением, возможно, требования на минимум функции  стоимости
+  language_code: rus
+  notes:
+    - >-
+      Навигация – это процесс нахождения варианта маршрута, который оптимизирует
+      выбранную  функцию стоимости
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19133:2005'
+    link: 'https://www.iso.org/standard/32551.html'
+  lineage_source: Internet
+  date_accepted: 2005-10-15T00:00:00.000Z
+  terms:
+    - type: expression
+      designation: вариант маршрута
+      normative_status: preferred
+  _revisions:
+    current: '870e65'
+    tree:
+      '870e65':
+        object:
+          id: 34
+          definition: >-
+            любой из маршрутов, удовлетворяющий всем ограничениям из запроса, за
+            исключением, возможно, требования на минимум функции  стоимости
+          language_code: rus
+          notes:
+            - >-
+              Навигация – это процесс нахождения варианта маршрута, который
+              оптимизирует выбранную  функцию стоимости
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19133:2005'
+            link: 'https://www.iso.org/standard/32551.html'
+          lineage_source: Internet
+          date_accepted: 2005-10-15T00:00:00.000Z
+          terms:
+            - type: expression
+              designation: вариант маршрута
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-10-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 34
+  definition: >-
+    cualquier ruta que satisfaga todas las restricciones de una petición de
+    enrutamiento con la posible excepción de la optimización de la función de
+    costo
+  language_code: spa
+  notes:
+    - >-
+      Navegación es el proceso de encontrar la ruta candidata que optimice la
+      función de coste requerida.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19133:2005'
+    link: 'https://www.iso.org/standard/32551.html'
+  date_accepted: 2005-10-15T00:00:00.000Z
+  review_decision_event: ''
+  release: '1'
+  terms:
+    - type: expression
+      designation: ruta candidata
+      normative_status: preferred
+  _revisions:
+    current: 68ba80
+    tree:
+      68ba80:
+        object:
+          id: 34
+          definition: >-
+            cualquier ruta que satisfaga todas las restricciones de una petición
+            de enrutamiento con la posible excepción de la optimización de la
+            función de costo
+          language_code: spa
+          notes:
+            - >-
+              Navegación es el proceso de encontrar la ruta candidata que
+              optimice la función de coste requerida.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19133:2005'
+            link: 'https://www.iso.org/standard/32551.html'
+          date_accepted: 2005-10-15T00:00:00.000Z
+          review_decision_event: ''
+          release: '1'
+          terms:
+            - type: expression
+              designation: ruta candidata
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-10-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+swe:
+  id: 34
+  definition: >-
+    varje rutt som uppfyller kraven i ruttförfrågan, eventuellt frånsett
+    kostnadsoptimering
+  country_code: swe
+  language_code: swe
+  notes:
+    - >-
+      Navigation is the process of finding the candidate route that optimizes a
+      chosen cost function.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19133:2005'
+    link: 'https://www.iso.org/standard/32551.html'
+  lineage_source: (Type reference to national language document)
+  date_accepted: 2005-10-15T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: ruttkandidat
+      normative_status: preferred
+  _revisions:
+    current: 56ddd8
+    tree:
+      56ddd8:
+        object:
+          id: 34
+          definition: >-
+            varje rutt som uppfyller kraven i ruttförfrågan, eventuellt frånsett
+            kostnadsoptimering
+          country_code: swe
+          language_code: swe
+          notes:
+            - >-
+              Navigation is the process of finding the candidate route that
+              optimizes a chosen cost function.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19133:2005'
+            link: 'https://www.iso.org/standard/32551.html'
+          lineage_source: (Type reference to national language document)
+          date_accepted: 2005-10-15T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: ruttkandidat
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-10-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

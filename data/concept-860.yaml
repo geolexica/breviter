@@ -1,0 +1,611 @@
+term: imagery
+termid: 860
+eng:
+  id: 860
+  definition: >-
+    representation of phenomena as images produced by electronic and/or optical
+    techniques
+  language_code: eng
+  notes:
+    - >-
+      In this Technical Specification, it is assumed that the phenomena have
+      been sensed or detected by one or more devices such as radar, cameras,
+      photometers, and infrared and multispectral scanners
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19101-2:2018'
+    clause: '(E), 3.14'
+    link: 'https://www.iso.org/standard/69325.html'
+  lineage_source: 'ISO/TS 19101-2:2008(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2008-06-01T00:00:00.000Z
+  review_date: 2018-05-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2018-05-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19101-2:2018(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO/TS 19101-2:2008 to ISO
+    19101-2:2018(E), 3.14. Lineage source added as ISO/TS 19101-2:2008(E)
+  release: '2'
+  terms:
+    - type: expression
+      designation: imagery
+      normative_status: preferred
+  _revisions:
+    current: 545c77
+    tree:
+      545c77:
+        object:
+          id: 860
+          definition: >-
+            representation of phenomena as images produced by electronic and/or
+            optical techniques
+          language_code: eng
+          notes:
+            - >-
+              In this Technical Specification, it is assumed that the phenomena
+              have been sensed or detected by one or more devices such as radar,
+              cameras, photometers, and infrared and multispectral scanners
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19101-2:2018'
+            clause: '(E), 3.14'
+            link: 'https://www.iso.org/standard/69325.html'
+          lineage_source: 'ISO/TS 19101-2:2008(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2008-06-01T00:00:00.000Z
+          review_date: 2018-05-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2018-05-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19101-2:2018(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO/TS 19101-2:2008 to ISO
+            19101-2:2018(E), 3.14. Lineage source added as ISO/TS
+            19101-2:2008(E)
+          release: '2'
+          terms:
+            - type: expression
+              designation: imagery
+              normative_status: preferred
+        parents: []
+        timeCreated: 2008-06-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+ara:
+  id: 860
+  definition: تمثيل لظاهره كصور منتجة بطرق إلكترونبة أو بصرية او كلاهما
+  language_code: ara
+  notes:
+    - >-
+      في هذه المواصفة الفنية يفترض أن الظواهر المذكورة تم تحسسها أو الكشف عنها
+      بواسطة جهاز واحد أو أكثر مثل الرادار ، وكاميرات التصوير ، والفوتومتر
+      وأجهزة المسح الضوئي العاملة بالأشعة تحت الحمراء والمتعددة الأطياف.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19101-2:2018'
+    clause: '(E), 3.14'
+    link: 'https://www.iso.org/standard/69325.html'
+  lineage_source: 'ISO/TS 19101-2:2008(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2008-06-01T00:00:00.000Z
+  review_date: 2018-05-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2018-05-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19101-2:2018(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO/TS 19101-2:2008 to ISO
+    19101-2:2018(E), 3.14. Lineage source added as ISO/TS 19101-2:2008(E)
+  release: '2'
+  terms:
+    - type: expression
+      designation: صور
+      normative_status: preferred
+  _revisions:
+    current: bba640
+    tree:
+      bba640:
+        object:
+          id: 860
+          definition: تمثيل لظاهره كصور منتجة بطرق إلكترونبة أو بصرية او كلاهما
+          language_code: ara
+          notes:
+            - >-
+              في هذه المواصفة الفنية يفترض أن الظواهر المذكورة تم تحسسها أو
+              الكشف عنها بواسطة جهاز واحد أو أكثر مثل الرادار ، وكاميرات التصوير
+              ، والفوتومتر وأجهزة المسح الضوئي العاملة بالأشعة تحت الحمراء
+              والمتعددة الأطياف.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19101-2:2018'
+            clause: '(E), 3.14'
+            link: 'https://www.iso.org/standard/69325.html'
+          lineage_source: 'ISO/TS 19101-2:2008(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2008-06-01T00:00:00.000Z
+          review_date: 2018-05-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2018-05-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19101-2:2018(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO/TS 19101-2:2008 to ISO
+            19101-2:2018(E), 3.14. Lineage source added as ISO/TS
+            19101-2:2008(E)
+          release: '2'
+          terms:
+            - type: expression
+              designation: صور
+              normative_status: preferred
+        parents: []
+        timeCreated: 2008-06-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+deu:
+  id: 860
+  definition: Darstellung von Gegebenheiten auf digitalen oder analogen Bildern
+  language_code: deu
+  notes:
+    - >-
+      In this Technical Specification, it is assumed that the phenomena have
+      been sensed or detected by one or more devices such as radar, cameras,
+      photometers, and infrared and multispectral scanners
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19101-2:2018'
+    clause: '(E), 3.14'
+    link: 'https://www.iso.org/standard/69325.html'
+  lineage_source: 'ISO/TS 19101-2:2008(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2008-06-01T00:00:00.000Z
+  review_date: 2018-05-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2018-05-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19101-2:2018(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO/TS 19101-2:2008 to ISO
+    19101-2:2018(E), 3.14. Lineage source added as ISO/TS 19101-2:2008(E)
+  release: '2'
+  terms:
+    - type: expression
+      designation: Bildwesen
+      normative_status: preferred
+  _revisions:
+    current: a2948a
+    tree:
+      a2948a:
+        object:
+          id: 860
+          definition: Darstellung von Gegebenheiten auf digitalen oder analogen Bildern
+          language_code: deu
+          notes:
+            - >-
+              In this Technical Specification, it is assumed that the phenomena
+              have been sensed or detected by one or more devices such as radar,
+              cameras, photometers, and infrared and multispectral scanners
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19101-2:2018'
+            clause: '(E), 3.14'
+            link: 'https://www.iso.org/standard/69325.html'
+          lineage_source: 'ISO/TS 19101-2:2008(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2008-06-01T00:00:00.000Z
+          review_date: 2018-05-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2018-05-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19101-2:2018(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO/TS 19101-2:2008 to ISO
+            19101-2:2018(E), 3.14. Lineage source added as ISO/TS
+            19101-2:2008(E)
+          release: '2'
+          terms:
+            - type: expression
+              designation: Bildwesen
+              normative_status: preferred
+        parents: []
+        timeCreated: 2008-06-01T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+kor:
+  id: 860
+  definition: 전자 또는 광학 기술을 이용하여 생성된 이미지 현상을 표현한 것
+  language_code: kor
+  notes:
+    - >-
+      In this Technical Specification, it is assumed that the phenomena have
+      been sensed or detected by one or more devices such as radar, cameras,
+      photometers, and infrared and multispectral scanners
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19101-2:2018'
+    clause: '(E), 3.14'
+    link: 'https://www.iso.org/standard/69325.html'
+  lineage_source: 'ISO/TS 19101-2:2008(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2008-06-01T00:00:00.000Z
+  review_date: 2018-05-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2018-05-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19101-2:2018(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO/TS 19101-2:2008 to ISO
+    19101-2:2018(E), 3.14. Lineage source added as ISO/TS 19101-2:2008(E)
+  release: '2'
+  terms:
+    - type: expression
+      designation: 화상
+      normative_status: preferred
+  _revisions:
+    current: b18121
+    tree:
+      b18121:
+        object:
+          id: 860
+          definition: 전자 또는 광학 기술을 이용하여 생성된 이미지 현상을 표현한 것
+          language_code: kor
+          notes:
+            - >-
+              In this Technical Specification, it is assumed that the phenomena
+              have been sensed or detected by one or more devices such as radar,
+              cameras, photometers, and infrared and multispectral scanners
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19101-2:2018'
+            clause: '(E), 3.14'
+            link: 'https://www.iso.org/standard/69325.html'
+          lineage_source: 'ISO/TS 19101-2:2008(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2008-06-01T00:00:00.000Z
+          review_date: 2018-05-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2018-05-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19101-2:2018(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO/TS 19101-2:2008 to ISO
+            19101-2:2018(E), 3.14. Lineage source added as ISO/TS
+            19101-2:2008(E)
+          release: '2'
+          terms:
+            - type: expression
+              designation: 화상
+              normative_status: preferred
+        parents: []
+        timeCreated: 2008-06-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+msa:
+  id: 860
+  definition: >-
+    perwakilan fenomena sebagai imej yang dihasilkan oleh teknik elektronik dan 
+    atau optikal
+  language_code: msa
+  notes:
+    - >-
+      In this Technical Specification, it is assumed that the phenomena have
+      been sensed or detected by one or more devices such as radar, cameras,
+      photometers, and infrared and multispectral scanners
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19101-2:2018'
+    clause: '(E), 3.14'
+    link: 'https://www.iso.org/standard/69325.html'
+  lineage_source: 'ISO/TS 19101-2:2008(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2008-06-01T00:00:00.000Z
+  review_date: 2018-05-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2018-05-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19101-2:2018(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO/TS 19101-2:2008 to ISO
+    19101-2:2018(E), 3.14. Lineage source added as ISO/TS 19101-2:2008(E)
+  release: '2'
+  terms:
+    - type: expression
+      designation: imejan
+      normative_status: preferred
+  _revisions:
+    current: ca1209
+    tree:
+      ca1209:
+        object:
+          id: 860
+          definition: >-
+            perwakilan fenomena sebagai imej yang dihasilkan oleh teknik
+            elektronik dan  atau optikal
+          language_code: msa
+          notes:
+            - >-
+              In this Technical Specification, it is assumed that the phenomena
+              have been sensed or detected by one or more devices such as radar,
+              cameras, photometers, and infrared and multispectral scanners
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19101-2:2018'
+            clause: '(E), 3.14'
+            link: 'https://www.iso.org/standard/69325.html'
+          lineage_source: 'ISO/TS 19101-2:2008(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2008-06-01T00:00:00.000Z
+          review_date: 2018-05-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2018-05-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19101-2:2018(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO/TS 19101-2:2008 to ISO
+            19101-2:2018(E), 3.14. Lineage source added as ISO/TS
+            19101-2:2008(E)
+          release: '2'
+          terms:
+            - type: expression
+              designation: imejan
+              normative_status: preferred
+        parents: []
+        timeCreated: 2008-06-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 860
+  definition: >-
+    представление явлений в виде  изображений, выполненное электронными и/или
+    оптическими методами
+  language_code: rus
+  notes:
+    - >-
+      In this Technical Specification, it is assumed that the phenomena have
+      been sensed or detected by one or more devices such as radar, cameras,
+      photometers, and infrared and multispectral scanners
+
+      : в настоящей технической спецификации предполагается, что эти явления
+      были обнаружены  одним или несколькими устройствами, такими, как радар,
+      камеры, фотометры и инфракрасные и мультиспектральные сканеры
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19101-2:2018'
+    clause: '(E), 3.14'
+    link: 'https://www.iso.org/standard/69325.html'
+  lineage_source: 'ISO/TS 19101-2:2008(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2008-06-01T00:00:00.000Z
+  review_date: 2018-05-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2018-05-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19101-2:2018(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO/TS 19101-2:2008 to ISO
+    19101-2:2018(E), 3.14. Lineage source added as ISO/TS 19101-2:2008(E)
+  release: '2'
+  terms:
+    - type: expression
+      designation: изображения
+      normative_status: preferred
+  _revisions:
+    current: '7e2453'
+    tree:
+      '7e2453':
+        object:
+          id: 860
+          definition: >-
+            представление явлений в виде  изображений, выполненное электронными
+            и/или оптическими методами
+          language_code: rus
+          notes:
+            - >-
+              In this Technical Specification, it is assumed that the phenomena
+              have been sensed or detected by one or more devices such as radar,
+              cameras, photometers, and infrared and multispectral scanners
+
+              : в настоящей технической спецификации предполагается, что эти
+              явления были обнаружены  одним или несколькими устройствами,
+              такими, как радар, камеры, фотометры и инфракрасные и
+              мультиспектральные сканеры
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19101-2:2018'
+            clause: '(E), 3.14'
+            link: 'https://www.iso.org/standard/69325.html'
+          lineage_source: 'ISO/TS 19101-2:2008(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2008-06-01T00:00:00.000Z
+          review_date: 2018-05-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2018-05-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19101-2:2018(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO/TS 19101-2:2008 to ISO
+            19101-2:2018(E), 3.14. Lineage source added as ISO/TS
+            19101-2:2008(E)
+          release: '2'
+          terms:
+            - type: expression
+              designation: изображения
+              normative_status: preferred
+        parents: []
+        timeCreated: 2008-06-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 860
+  definition: >-
+    representación de fenómenos mediante imágenes producidas por técnicas
+    electrónicas u ópticas
+  language_code: spa
+  notes:
+    - >-
+      En esta especificación técnica, se supone que los fenómenos han sido
+      percibidos o detectados por uno o más dispositivos, tales como radares,
+      cámaras, fotómetros y escáneres de infrarrojos o multiespectrales.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19101-2:2018'
+    clause: '(E), 3.14'
+    link: 'https://www.iso.org/standard/69325.html'
+  lineage_source: 'ISO/TS 19101-2:2008(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2008-06-01T00:00:00.000Z
+  review_date: 2018-05-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2018-05-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19101-2:2018(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO/TS 19101-2:2008 to ISO
+    19101-2:2018(E), 3.14. Lineage source added as ISO/TS 19101-2:2008(E)
+  release: '2'
+  terms:
+    - type: expression
+      designation: producción de imágenes
+      normative_status: preferred
+  _revisions:
+    current: '194160'
+    tree:
+      '194160':
+        object:
+          id: 860
+          definition: >-
+            representación de fenómenos mediante imágenes producidas por
+            técnicas electrónicas u ópticas
+          language_code: spa
+          notes:
+            - >-
+              En esta especificación técnica, se supone que los fenómenos han
+              sido percibidos o detectados por uno o más dispositivos, tales
+              como radares, cámaras, fotómetros y escáneres de infrarrojos o
+              multiespectrales.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19101-2:2018'
+            clause: '(E), 3.14'
+            link: 'https://www.iso.org/standard/69325.html'
+          lineage_source: 'ISO/TS 19101-2:2008(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2008-06-01T00:00:00.000Z
+          review_date: 2018-05-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2018-05-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19101-2:2018(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO/TS 19101-2:2008 to ISO
+            19101-2:2018(E), 3.14. Lineage source added as ISO/TS
+            19101-2:2008(E)
+          release: '2'
+          terms:
+            - type: expression
+              designation: producción de imágenes
+              normative_status: preferred
+        parents: []
+        timeCreated: 2008-06-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+swe:
+  id: 860
+  definition: >-
+    representation av företeelser som bilder framställda med elektroniska
+    och/eller optiska metoder
+  country_code: swe
+  language_code: swe
+  notes:
+    - >-
+      In this Technical Specification, it is assumed that the phenomena have
+      been sensed or detected by one or more devices such as radar, cameras,
+      photometers, and infrared and multispectral scanners
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19101-2:2018'
+    clause: '(E), 3.14'
+    link: 'https://www.iso.org/standard/69325.html'
+  lineage_source: 'ISO/TS 19101-2:2008(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2008-06-01T00:00:00.000Z
+  review_date: 2018-05-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2018-05-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19101-2:2018(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO/TS 19101-2:2008 to ISO
+    19101-2:2018(E), 3.14. Lineage source added as ISO/TS 19101-2:2008(E)
+  release: '2'
+  terms:
+    - type: expression
+      designation: avbildning
+      normative_status: preferred
+  _revisions:
+    current: 1fe548
+    tree:
+      1fe548:
+        object:
+          id: 860
+          definition: >-
+            representation av företeelser som bilder framställda med
+            elektroniska och/eller optiska metoder
+          country_code: swe
+          language_code: swe
+          notes:
+            - >-
+              In this Technical Specification, it is assumed that the phenomena
+              have been sensed or detected by one or more devices such as radar,
+              cameras, photometers, and infrared and multispectral scanners
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19101-2:2018'
+            clause: '(E), 3.14'
+            link: 'https://www.iso.org/standard/69325.html'
+          lineage_source: 'ISO/TS 19101-2:2008(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2008-06-01T00:00:00.000Z
+          review_date: 2018-05-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2018-05-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19101-2:2018(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO/TS 19101-2:2008 to ISO
+            19101-2:2018(E), 3.14. Lineage source added as ISO/TS
+            19101-2:2008(E)
+          release: '2'
+          terms:
+            - type: expression
+              designation: avbildning
+              normative_status: preferred
+        parents: []
+        timeCreated: 2008-06-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

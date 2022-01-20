@@ -1,0 +1,281 @@
+term: source
+termid: 1574
+eng:
+  id: 1574
+  definition: >-
+    document providing legal and/or administrative facts on which the land
+    administration (LA) object [right, restriction, responsibility, basic
+    administrative unit, party, or spatial unit] is based
+  language_code: eng
+  notes:
+    - >-
+      Any kind of document may be added as a source according to ISO 19115:2003,
+      B.3.2.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19152:2012'
+    clause: 4.1.21
+    link: 'https://www.iso.org/standard/51206.html'
+  date_accepted: 2012-12-01T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: source
+      normative_status: preferred
+  _revisions:
+    current: 55d901
+    tree:
+      55d901:
+        object:
+          id: 1574
+          definition: >-
+            document providing legal and/or administrative facts on which the
+            land administration (LA) object [right, restriction, responsibility,
+            basic administrative unit, party, or spatial unit] is based
+          language_code: eng
+          notes:
+            - >-
+              Any kind of document may be added as a source according to ISO
+              19115:2003, B.3.2.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19152:2012'
+            clause: 4.1.21
+            link: 'https://www.iso.org/standard/51206.html'
+          date_accepted: 2012-12-01T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: source
+              normative_status: preferred
+        parents: []
+        timeCreated: 2012-12-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+kor:
+  id: 1574
+  definition: '토지관리(LA) 객체(권리, 제약, 책임, 기본 관리 단위, 관계자 또는 공간 단위)가 기반한 법적, 행정적 사실을 제공하는 문서'
+  language_code: kor
+  notes:
+    - >-
+      Any kind of document may be added as a source according to ISO 19115:2003,
+      B.3.2.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19152:2012'
+    clause: 4.1.21
+    link: 'https://www.iso.org/standard/51206.html'
+  date_accepted: 2012-12-01T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: 요소
+      normative_status: preferred
+  _revisions:
+    current: 3a6f70
+    tree:
+      3a6f70:
+        object:
+          id: 1574
+          definition: >-
+            토지관리(LA) 객체(권리, 제약, 책임, 기본 관리 단위, 관계자 또는 공간 단위)가 기반한 법적, 행정적 사실을
+            제공하는 문서
+          language_code: kor
+          notes:
+            - >-
+              Any kind of document may be added as a source according to ISO
+              19115:2003, B.3.2.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19152:2012'
+            clause: 4.1.21
+            link: 'https://www.iso.org/standard/51206.html'
+          date_accepted: 2012-12-01T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: 요소
+              normative_status: preferred
+        parents: []
+        timeCreated: 2012-12-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 1574
+  definition: >-
+    Документ, содержащий юридические и / или административные факты, на которых
+    основан объект земельного управления (LA)  [право, ограничение,
+    ответственность, базовая административная единица, субъект или
+    пространственная единица]
+  language_code: rus
+  notes:
+    - >-
+      Любой вид документа может быть добавлен в качестве источника в
+      соответствии с ИСО 19115:2003, B 3.2
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19152:2012'
+    clause: 4.1.21
+    link: 'https://www.iso.org/standard/51206.html'
+  lineage_source: 'ISO 19152:2012'
+  date_accepted: 2012-12-01T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: источник
+      normative_status: preferred
+  _revisions:
+    current: b09702
+    tree:
+      b09702:
+        object:
+          id: 1574
+          definition: >-
+            Документ, содержащий юридические и / или административные факты, на
+            которых основан объект земельного управления (LA)  [право,
+            ограничение, ответственность, базовая административная единица,
+            субъект или пространственная единица]
+          language_code: rus
+          notes:
+            - >-
+              Любой вид документа может быть добавлен в качестве источника в
+              соответствии с ИСО 19115:2003, B 3.2
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19152:2012'
+            clause: 4.1.21
+            link: 'https://www.iso.org/standard/51206.html'
+          lineage_source: 'ISO 19152:2012'
+          date_accepted: 2012-12-01T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: источник
+              normative_status: preferred
+        parents: []
+        timeCreated: 2012-12-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 1574
+  definition: >-
+    documento que proporciona hechos jurídicos o administrativos en los que se
+    basa el objeto de administración del territorio (Land Administration - LA)
+    (derecho, restricción, responsabilidad, unidad básica administrativa, parte 
+    o unidad espacial )
+  language_code: spa
+  notes:
+    - >-
+      Se puede añadir cualquier tipo de documento como fuente, de acuerdo con la
+      Norma ISO 19115:2003, apartado B.3.2
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19152:2012'
+    clause: 4.1.21
+    link: 'https://www.iso.org/standard/51206.html'
+  date_accepted: 2012-12-01T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: fuente
+      normative_status: preferred
+  _revisions:
+    current: da5e2d
+    tree:
+      da5e2d:
+        object:
+          id: 1574
+          definition: >-
+            documento que proporciona hechos jurídicos o administrativos en los
+            que se basa el objeto de administración del territorio (Land
+            Administration - LA) (derecho, restricción, responsabilidad, unidad
+            básica administrativa, parte  o unidad espacial )
+          language_code: spa
+          notes:
+            - >-
+              Se puede añadir cualquier tipo de documento como fuente, de
+              acuerdo con la Norma ISO 19115:2003, apartado B.3.2
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19152:2012'
+            clause: 4.1.21
+            link: 'https://www.iso.org/standard/51206.html'
+          date_accepted: 2012-12-01T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: fuente
+              normative_status: preferred
+        parents: []
+        timeCreated: 2012-12-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+swe:
+  id: 1574
+  definition: >-
+    dokument på vilket markreglering kan baseras och som anger rättsliga
+    och/eller administrativa omständigheter
+  country_code: swe
+  language_code: swe
+  notes:
+    - >-
+      Any kind of document may be added as a source according to ISO 19115:2003,
+      B.3.2.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19152:2012'
+    clause: 4.1.21
+    link: 'https://www.iso.org/standard/51206.html'
+  lineage_source: (Type reference to national language document)
+  date_accepted: 2012-12-01T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: markreglerande källhandling
+      normative_status: preferred
+  _revisions:
+    current: '854e97'
+    tree:
+      '854e97':
+        object:
+          id: 1574
+          definition: >-
+            dokument på vilket markreglering kan baseras och som anger rättsliga
+            och/eller administrativa omständigheter
+          country_code: swe
+          language_code: swe
+          notes:
+            - >-
+              Any kind of document may be added as a source according to ISO
+              19115:2003, B.3.2.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19152:2012'
+            clause: 4.1.21
+            link: 'https://www.iso.org/standard/51206.html'
+          lineage_source: (Type reference to national language document)
+          date_accepted: 2012-12-01T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: markreglerande källhandling
+              normative_status: preferred
+        parents: []
+        timeCreated: 2012-12-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

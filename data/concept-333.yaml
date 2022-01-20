@@ -1,0 +1,723 @@
+term: physical quantity
+termid: 333
+eng:
+  id: 333
+  definition: quantity used for the quantitative description of physical phenomena
+  language_code: eng
+  notes:
+    - >-
+      In GML a physical quantity is always a value described using a numeric
+      amount with a scale or using a scalar reference system.  Physical quantity
+      is a synonym for measure when the latter is used as a noun.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19136-1:2020'
+    clause: '(E), 3.1.46'
+    link: 'https://www.iso.org/standard/75676.html'
+  lineage_source: 'ISO 19136:2007(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2005-08-10T00:00:00.000Z
+  review_date: 2020-01-09T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2020-01-09T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19136-1:2020(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 31-0:1992 to ISO 19136-1:2020(E),
+    3.1.46. Lineage source added as ISO 19136:2007(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: physical quantity
+      normative_status: preferred
+  _revisions:
+    current: 340c30
+    tree:
+      340c30:
+        object:
+          id: 333
+          definition: quantity used for the quantitative description of physical phenomena
+          language_code: eng
+          notes:
+            - >-
+              In GML a physical quantity is always a value described using a
+              numeric amount with a scale or using a scalar reference system. 
+              Physical quantity is a synonym for measure when the latter is used
+              as a noun.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19136-1:2020'
+            clause: '(E), 3.1.46'
+            link: 'https://www.iso.org/standard/75676.html'
+          lineage_source: 'ISO 19136:2007(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2005-08-10T00:00:00.000Z
+          review_date: 2020-01-09T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2020-01-09T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19136-1:2020(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 31-0:1992 to ISO
+            19136-1:2020(E), 3.1.46. Lineage source added as ISO 19136:2007(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: physical quantity
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-08-10T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+ara:
+  id: 333
+  definition: كمية تستخدم في الوصف الكمي للظواهر الفعلية
+  language_code: ara
+  notes:
+    - >-
+      في لغةGML ، الكمية الطبيعية هي دائما قيمة توصف باستخدام كمية عددية بمقياس
+      أو باستخدام نظام مرجعي لكمية عددية. "الكمية الطبيعية" هي المرادف لكلمة
+      "قياس" حينما تستخدم هذه الأخيرة كاسم.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19136-1:2020'
+    clause: '(E), 3.1.46'
+    link: 'https://www.iso.org/standard/75676.html'
+  lineage_source: 'ISO 19136:2007(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2005-08-10T00:00:00.000Z
+  review_date: 2020-01-09T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2020-01-09T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19136-1:2020(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 31-0:1992 to ISO 19136-1:2020(E),
+    3.1.46. Lineage source added as ISO 19136:2007(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: الكمية الفعلية
+      normative_status: preferred
+  _revisions:
+    current: 1def10
+    tree:
+      1def10:
+        object:
+          id: 333
+          definition: كمية تستخدم في الوصف الكمي للظواهر الفعلية
+          language_code: ara
+          notes:
+            - >-
+              في لغةGML ، الكمية الطبيعية هي دائما قيمة توصف باستخدام كمية عددية
+              بمقياس أو باستخدام نظام مرجعي لكمية عددية. "الكمية الطبيعية" هي
+              المرادف لكلمة "قياس" حينما تستخدم هذه الأخيرة كاسم.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19136-1:2020'
+            clause: '(E), 3.1.46'
+            link: 'https://www.iso.org/standard/75676.html'
+          lineage_source: 'ISO 19136:2007(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2005-08-10T00:00:00.000Z
+          review_date: 2020-01-09T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2020-01-09T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19136-1:2020(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 31-0:1992 to ISO
+            19136-1:2020(E), 3.1.46. Lineage source added as ISO 19136:2007(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: الكمية الفعلية
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-08-10T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+zho:
+  id: 333
+  definition: 用于定量描述物理现象的量。
+  language_code: zho
+  notes:
+    - 在GML中，物理量总是使用带有量纲的数或使用标量参考系来描述的值。当测量作为名词使用时，物理量是其同义词。
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19136-1:2020'
+    clause: '(E), 3.1.46'
+    link: 'https://www.iso.org/standard/75676.html'
+  lineage_source: 'ISO 19136:2007(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2005-08-10T00:00:00.000Z
+  review_date: 2020-01-09T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2020-01-09T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19136-1:2020(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 31-0:1992 to ISO 19136-1:2020(E),
+    3.1.46. Lineage source added as ISO 19136:2007(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: 物理量
+      normative_status: preferred
+  _revisions:
+    current: e7e7e3
+    tree:
+      e7e7e3:
+        object:
+          id: 333
+          definition: 用于定量描述物理现象的量。
+          language_code: zho
+          notes:
+            - 在GML中，物理量总是使用带有量纲的数或使用标量参考系来描述的值。当测量作为名词使用时，物理量是其同义词。
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19136-1:2020'
+            clause: '(E), 3.1.46'
+            link: 'https://www.iso.org/standard/75676.html'
+          lineage_source: 'ISO 19136:2007(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2005-08-10T00:00:00.000Z
+          review_date: 2020-01-09T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2020-01-09T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19136-1:2020(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 31-0:1992 to ISO
+            19136-1:2020(E), 3.1.46. Lineage source added as ISO 19136:2007(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: 物理量
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-08-10T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+fin:
+  id: 333
+  definition: 'suure, jota käytetään fysikaalisten ilmiöiden määrälliseen kuvaamiseen'
+  language_code: fin
+  notes:
+    - >-
+      GML:ssä fysikaalinen suure on aina arvo, jota kuvataan käyttämällä
+      skaalattua numeerista määrää tai skalaarista vertausjärjestelmää.
+      Englannin kielessä termi physical quantity on termin measure synonyymi,
+      kun jälkimmäistä käytetään substantiivisesti.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19136-1:2020'
+    clause: '(E), 3.1.46'
+    link: 'https://www.iso.org/standard/75676.html'
+  lineage_source: 'ISO 19136:2007(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2005-08-10T00:00:00.000Z
+  review_date: 2020-01-09T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2020-01-09T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19136-1:2020(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 31-0:1992 to ISO 19136-1:2020(E),
+    3.1.46. Lineage source added as ISO 19136:2007(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: fysikaalinen suure
+      normative_status: preferred
+  _revisions:
+    current: 767ee6
+    tree:
+      767ee6:
+        object:
+          id: 333
+          definition: >-
+            suure, jota käytetään fysikaalisten ilmiöiden määrälliseen
+            kuvaamiseen
+          language_code: fin
+          notes:
+            - >-
+              GML:ssä fysikaalinen suure on aina arvo, jota kuvataan käyttämällä
+              skaalattua numeerista määrää tai skalaarista vertausjärjestelmää.
+              Englannin kielessä termi physical quantity on termin measure
+              synonyymi, kun jälkimmäistä käytetään substantiivisesti.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19136-1:2020'
+            clause: '(E), 3.1.46'
+            link: 'https://www.iso.org/standard/75676.html'
+          lineage_source: 'ISO 19136:2007(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2005-08-10T00:00:00.000Z
+          review_date: 2020-01-09T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2020-01-09T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19136-1:2020(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 31-0:1992 to ISO
+            19136-1:2020(E), 3.1.46. Lineage source added as ISO 19136:2007(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: fysikaalinen suure
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-08-10T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+fra:
+  id: 333
+  definition: quantité utilisée pour la description quantitative d'un phénomène physique
+  language_code: fra
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19136-1:2020'
+    clause: '(E), 3.1.46'
+    link: 'https://www.iso.org/standard/75676.html'
+  lineage_source: 'ISO 19136:2007(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2005-08-10T00:00:00.000Z
+  review_date: 2020-01-09T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2020-01-09T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19136-1:2020(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 31-0:1992 to ISO 19136-1:2020(E),
+    3.1.46. Lineage source added as ISO 19136:2007(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: quantité physique
+      normative_status: preferred
+  _revisions:
+    current: 08f774
+    tree:
+      08f774:
+        object:
+          id: 333
+          definition: >-
+            quantité utilisée pour la description quantitative d'un phénomène
+            physique
+          language_code: fra
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19136-1:2020'
+            clause: '(E), 3.1.46'
+            link: 'https://www.iso.org/standard/75676.html'
+          lineage_source: 'ISO 19136:2007(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2005-08-10T00:00:00.000Z
+          review_date: 2020-01-09T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2020-01-09T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19136-1:2020(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 31-0:1992 to ISO
+            19136-1:2020(E), 3.1.46. Lineage source added as ISO 19136:2007(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: quantité physique
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-08-10T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+deu:
+  id: 333
+  definition: >-
+    Menge, die zur quantitativen Beschreibung von physikalischen Phänomenen
+    benutzt wird
+  language_code: deu
+  notes:
+    - >-
+      In GML a physical quantity is always a value described using a numeric
+      amount with a scale or using a scalar reference system.  Physical quantity
+      is a synonym for measure when the latter is used as a noun.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19136-1:2020'
+    clause: '(E), 3.1.46'
+    link: 'https://www.iso.org/standard/75676.html'
+  lineage_source: 'ISO 19136:2007(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2005-08-10T00:00:00.000Z
+  review_date: 2020-01-09T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2020-01-09T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19136-1:2020(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 31-0:1992 to ISO 19136-1:2020(E),
+    3.1.46. Lineage source added as ISO 19136:2007(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: physikalische Menge
+      normative_status: preferred
+  _revisions:
+    current: d76d0a
+    tree:
+      d76d0a:
+        object:
+          id: 333
+          definition: >-
+            Menge, die zur quantitativen Beschreibung von physikalischen
+            Phänomenen benutzt wird
+          language_code: deu
+          notes:
+            - >-
+              In GML a physical quantity is always a value described using a
+              numeric amount with a scale or using a scalar reference system. 
+              Physical quantity is a synonym for measure when the latter is used
+              as a noun.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19136-1:2020'
+            clause: '(E), 3.1.46'
+            link: 'https://www.iso.org/standard/75676.html'
+          lineage_source: 'ISO 19136:2007(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2005-08-10T00:00:00.000Z
+          review_date: 2020-01-09T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2020-01-09T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19136-1:2020(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 31-0:1992 to ISO
+            19136-1:2020(E), 3.1.46. Lineage source added as ISO 19136:2007(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: physikalische Menge
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-08-10T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+kor:
+  id: 333
+  definition: 물리적 현상들의 양을 설명하는 데 사용되는 양
+  language_code: kor
+  notes:
+    - >-
+      GML에서 물리량은 언제나 축척이나 스케일러 참조 체계를 이용하여 계산된 총수 값으로 기술된다. 명사로 사용할 경우, 물리량은 측정과
+      동일한 의미이다.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19136-1:2020'
+    clause: '(E), 3.1.46'
+    link: 'https://www.iso.org/standard/75676.html'
+  lineage_source: 'ISO 19136:2007(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2005-08-10T00:00:00.000Z
+  review_date: 2020-01-09T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2020-01-09T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19136-1:2020(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 31-0:1992 to ISO 19136-1:2020(E),
+    3.1.46. Lineage source added as ISO 19136:2007(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: 물리량
+      normative_status: preferred
+  _revisions:
+    current: f14a1e
+    tree:
+      f14a1e:
+        object:
+          id: 333
+          definition: 물리적 현상들의 양을 설명하는 데 사용되는 양
+          language_code: kor
+          notes:
+            - >-
+              GML에서 물리량은 언제나 축척이나 스케일러 참조 체계를 이용하여 계산된 총수 값으로 기술된다. 명사로 사용할 경우,
+              물리량은 측정과 동일한 의미이다.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19136-1:2020'
+            clause: '(E), 3.1.46'
+            link: 'https://www.iso.org/standard/75676.html'
+          lineage_source: 'ISO 19136:2007(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2005-08-10T00:00:00.000Z
+          review_date: 2020-01-09T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2020-01-09T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19136-1:2020(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 31-0:1992 to ISO
+            19136-1:2020(E), 3.1.46. Lineage source added as ISO 19136:2007(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: 물리량
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-08-10T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+msa:
+  id: 333
+  definition: >-
+    kuantiti yang digunakan untuk menjelaskan secara kuantitatif fenomena
+    fizikal
+  language_code: msa
+  notes:
+    - >-
+      In GML a physical quantity is always a value described using a numeric
+      amount with a scale or using a scalar reference system.  Physical quantity
+      is a synonym for measure when the latter is used as a noun.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19136-1:2020'
+    clause: '(E), 3.1.46'
+    link: 'https://www.iso.org/standard/75676.html'
+  lineage_source: 'ISO 19136:2007(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2005-08-10T00:00:00.000Z
+  review_date: 2020-01-09T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2020-01-09T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19136-1:2020(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 31-0:1992 to ISO 19136-1:2020(E),
+    3.1.46. Lineage source added as ISO 19136:2007(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: kuantiti fizikal
+      normative_status: preferred
+  _revisions:
+    current: c8d590
+    tree:
+      c8d590:
+        object:
+          id: 333
+          definition: >-
+            kuantiti yang digunakan untuk menjelaskan secara kuantitatif
+            fenomena fizikal
+          language_code: msa
+          notes:
+            - >-
+              In GML a physical quantity is always a value described using a
+              numeric amount with a scale or using a scalar reference system. 
+              Physical quantity is a synonym for measure when the latter is used
+              as a noun.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19136-1:2020'
+            clause: '(E), 3.1.46'
+            link: 'https://www.iso.org/standard/75676.html'
+          lineage_source: 'ISO 19136:2007(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2005-08-10T00:00:00.000Z
+          review_date: 2020-01-09T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2020-01-09T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19136-1:2020(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 31-0:1992 to ISO
+            19136-1:2020(E), 3.1.46. Lineage source added as ISO 19136:2007(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: kuantiti fizikal
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-08-10T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 333
+  definition: 'величина, используемая для количественного описания физических явлений'
+  language_code: rus
+  notes:
+    - >-
+      В GML  физическая величина – это всегда значение, описываемое  с
+      использованием числовой величины и масштаба шкалы или скалярной системы
+      отсчета. Термин «физическая величина» является синонимом меры,  когда она
+      представлена в единственном числе
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19136-1:2020'
+    clause: '(E), 3.1.46'
+    link: 'https://www.iso.org/standard/75676.html'
+  lineage_source: 'ISO 19136:2007(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2005-08-10T00:00:00.000Z
+  review_date: 2020-01-09T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2020-01-09T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19136-1:2020(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 31-0:1992 to ISO 19136-1:2020(E),
+    3.1.46. Lineage source added as ISO 19136:2007(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: физическая величина
+      normative_status: preferred
+  _revisions:
+    current: c6150e
+    tree:
+      c6150e:
+        object:
+          id: 333
+          definition: >-
+            величина, используемая для количественного описания физических
+            явлений
+          language_code: rus
+          notes:
+            - >-
+              В GML  физическая величина – это всегда значение, описываемое  с
+              использованием числовой величины и масштаба шкалы или скалярной
+              системы отсчета. Термин «физическая величина» является синонимом
+              меры,  когда она представлена в единственном числе
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19136-1:2020'
+            clause: '(E), 3.1.46'
+            link: 'https://www.iso.org/standard/75676.html'
+          lineage_source: 'ISO 19136:2007(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2005-08-10T00:00:00.000Z
+          review_date: 2020-01-09T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2020-01-09T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19136-1:2020(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 31-0:1992 to ISO
+            19136-1:2020(E), 3.1.46. Lineage source added as ISO 19136:2007(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: физическая величина
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-08-10T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 333
+  definition: >-
+    cantidad usada para la descripción cuantitativa de un objeto geográfico
+    físico
+  language_code: spa
+  notes:
+    - >-
+      En GML una cantidad física es siempre un valor descrito usando una
+      cantidad numérica con una escala o usando un sistema de referencia
+      escalar. Cantidad física es un sinónimo de medida cuando ésta última se
+      usa como un nombre.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19136-1:2020'
+    clause: '(E), 3.1.46'
+    link: 'https://www.iso.org/standard/75676.html'
+  lineage_source: 'ISO 19136:2007(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2005-08-10T00:00:00.000Z
+  review_date: 2020-01-09T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2020-01-09T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19136-1:2020(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 31-0:1992 to ISO 19136-1:2020(E),
+    3.1.46. Lineage source added as ISO 19136:2007(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: cantidad física
+      normative_status: preferred
+  _revisions:
+    current: d1f56b
+    tree:
+      d1f56b:
+        object:
+          id: 333
+          definition: >-
+            cantidad usada para la descripción cuantitativa de un objeto
+            geográfico físico
+          language_code: spa
+          notes:
+            - >-
+              En GML una cantidad física es siempre un valor descrito usando una
+              cantidad numérica con una escala o usando un sistema de referencia
+              escalar. Cantidad física es un sinónimo de medida cuando ésta
+              última se usa como un nombre.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19136-1:2020'
+            clause: '(E), 3.1.46'
+            link: 'https://www.iso.org/standard/75676.html'
+          lineage_source: 'ISO 19136:2007(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2005-08-10T00:00:00.000Z
+          review_date: 2020-01-09T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2020-01-09T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19136-1:2020(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 31-0:1992 to ISO
+            19136-1:2020(E), 3.1.46. Lineage source added as ISO 19136:2007(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: cantidad física
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-08-10T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

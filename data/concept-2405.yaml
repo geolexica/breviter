@@ -1,0 +1,73 @@
+term: reference ellipsoid
+termid: 2405
+eng:
+  id: 2405
+  definition: >-
+    geometric reference surface embedded in 3D Euclidean space formed by an
+    ellipse that is rotated about a main axis
+  language_code: eng
+  notes:
+    - >-
+      For the Earth the ellipsoid is bi-axial with rotation about the polar
+      axis. This results in an oblate ellipsoid with the midpoint of the foci
+      located at the nominal centre of the Earth.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19111:2019'
+    clause: '(E), 3.1.22'
+    link: 'https://www.iso.org/standard/74039.html'
+  date_accepted: 2019-01-31T00:00:00.000Z
+  review_date: 2019-01-31T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-01-31T00:00:00.000Z
+  review_decision_event: Normal ISO processing
+  review_decision_notes: 'Publication of document ISO 19111:2019(E)'
+  release: '5'
+  terms:
+    - type: expression
+      designation: reference ellipsoid
+      normative_status: admitted
+    - designation: ellipsoid <geodesy>
+      type: expression
+  _revisions:
+    current: b89b6d
+    tree:
+      b89b6d:
+        object:
+          id: 2405
+          definition: >-
+            geometric reference surface embedded in 3D Euclidean space formed by
+            an ellipse that is rotated about a main axis
+          language_code: eng
+          notes:
+            - >-
+              For the Earth the ellipsoid is bi-axial with rotation about the
+              polar axis. This results in an oblate ellipsoid with the midpoint
+              of the foci located at the nominal centre of the Earth.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19111:2019'
+            clause: '(E), 3.1.22'
+            link: 'https://www.iso.org/standard/74039.html'
+          date_accepted: 2019-01-31T00:00:00.000Z
+          review_date: 2019-01-31T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-01-31T00:00:00.000Z
+          review_decision_event: Normal ISO processing
+          review_decision_notes: 'Publication of document ISO 19111:2019(E)'
+          release: '5'
+          terms:
+            - type: expression
+              designation: reference ellipsoid
+              normative_status: admitted
+            - designation: ellipsoid <geodesy>
+              type: expression
+        parents: []
+        timeCreated: 2019-01-31T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

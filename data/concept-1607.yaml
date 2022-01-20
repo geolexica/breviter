@@ -1,0 +1,433 @@
+term: measurement accuracy
+termid: 1607
+eng:
+  id: 1607
+  definition: >-
+    closeness of agreement between a test result or measurement result and the
+    true value
+  language_code: eng
+  notes:
+    - >-
+      The concept "measurement accuracy" is not a quantity and is not given a
+      numerical quantity value. A measurement is said to be more accurate when
+      it offers a smaller measurement error.
+    - >-
+      The term "measurement accuracy" should not be used for measurement
+      trueness and the term measurement precision should not be used for
+      "measurement accuracy", which, however, is related to both these concepts.
+    - >-
+      "Measurement accuracy" is sometimes understood as closeness of agreement
+      between measured quantity values that are being attributed to the
+      measurand.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO/TS 19159-1:2014'
+    clause: '4.17'
+    link: 'https://www.iso.org/standard/60080.html'
+  lineage_source: >-
+    ISO 6709:2008, 4.1, modified – The preferred term is "measurement accuracy"
+    rather than "accuracy" and Notes 1 to 3 have been added.
+  lineage_source_similarity: 1
+  date_accepted: 2014-07-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: measurement accuracy
+      normative_status: preferred
+    - designation: accuracy of measurement
+      type: expression
+    - designation: accuracy
+      type: expression
+  _revisions:
+    current: e6c4e6
+    tree:
+      e6c4e6:
+        object:
+          id: 1607
+          definition: >-
+            closeness of agreement between a test result or measurement result
+            and the true value
+          language_code: eng
+          notes:
+            - >-
+              The concept "measurement accuracy" is not a quantity and is not
+              given a numerical quantity value. A measurement is said to be more
+              accurate when it offers a smaller measurement error.
+            - >-
+              The term "measurement accuracy" should not be used for measurement
+              trueness and the term measurement precision should not be used for
+              "measurement accuracy", which, however, is related to both these
+              concepts.
+            - >-
+              "Measurement accuracy" is sometimes understood as closeness of
+              agreement between measured quantity values that are being
+              attributed to the measurand.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO/TS 19159-1:2014'
+            clause: '4.17'
+            link: 'https://www.iso.org/standard/60080.html'
+          lineage_source: >-
+            ISO 6709:2008, 4.1, modified – The preferred term is "measurement
+            accuracy" rather than "accuracy" and Notes 1 to 3 have been added.
+          lineage_source_similarity: 1
+          date_accepted: 2014-07-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: measurement accuracy
+              normative_status: preferred
+            - designation: accuracy of measurement
+              type: expression
+            - designation: accuracy
+              type: expression
+        parents: []
+        timeCreated: 2014-07-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+kor:
+  id: 1607
+  definition: 측정결과와 참값 또는 시험결과 사이의 근사치
+  language_code: kor
+  notes:
+    - >-
+      The concept "measurement accuracy" is not a quantity and is not given a
+      numerical quantity value. A measurement is said to be more accurate when
+      it offers a smaller measurement error.
+    - >-
+      The term "measurement accuracy" should not be used for measurement
+      trueness and the term measurement precision should not be used for
+      "measurement accuracy", which, however, is related to both these concepts.
+    - >-
+      "Measurement accuracy" is sometimes understood as closeness of agreement
+      between measured quantity values that are being attributed to the
+      measurand.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO/TS 19159-1:2014'
+    clause: '4.17'
+    link: 'https://www.iso.org/standard/60080.html'
+  lineage_source: >-
+    ISO 6709:2008, 4.1, modified – The preferred term is "measurement accuracy"
+    rather than "accuracy" and Notes 1 to 3 have been added.
+  lineage_source_similarity: 1
+  date_accepted: 2014-07-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: 측정 정확성
+      normative_status: preferred
+    - designation: accuracy of measurement
+      type: expression
+    - designation: accuracy
+      type: expression
+  _revisions:
+    current: 7f1c00
+    tree:
+      7f1c00:
+        object:
+          id: 1607
+          definition: 측정결과와 참값 또는 시험결과 사이의 근사치
+          language_code: kor
+          notes:
+            - >-
+              The concept "measurement accuracy" is not a quantity and is not
+              given a numerical quantity value. A measurement is said to be more
+              accurate when it offers a smaller measurement error.
+            - >-
+              The term "measurement accuracy" should not be used for measurement
+              trueness and the term measurement precision should not be used for
+              "measurement accuracy", which, however, is related to both these
+              concepts.
+            - >-
+              "Measurement accuracy" is sometimes understood as closeness of
+              agreement between measured quantity values that are being
+              attributed to the measurand.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO/TS 19159-1:2014'
+            clause: '4.17'
+            link: 'https://www.iso.org/standard/60080.html'
+          lineage_source: >-
+            ISO 6709:2008, 4.1, modified – The preferred term is "measurement
+            accuracy" rather than "accuracy" and Notes 1 to 3 have been added.
+          lineage_source_similarity: 1
+          date_accepted: 2014-07-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: 측정 정확성
+              normative_status: preferred
+            - designation: accuracy of measurement
+              type: expression
+            - designation: accuracy
+              type: expression
+        parents: []
+        timeCreated: 2014-07-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+msa:
+  id: 1607
+  definition: ketepatan dalam pengukuran
+  language_code: msa
+  notes:
+    - >-
+      The concept "measurement accuracy" is not a quantity and is not given a
+      numerical quantity value. A measurement is said to be more accurate when
+      it offers a smaller measurement error.
+    - >-
+      The term "measurement accuracy" should not be used for measurement
+      trueness and the term measurement precision should not be used for
+      "measurement accuracy", which, however, is related to both these concepts.
+    - >-
+      "Measurement accuracy" is sometimes understood as closeness of agreement
+      between measured quantity values that are being attributed to the
+      measurand.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO/TS 19159-1:2014'
+    clause: '4.17'
+    link: 'https://www.iso.org/standard/60080.html'
+  lineage_source: >-
+    ISO 6709:2008, 4.1, modified – The preferred term is "measurement accuracy"
+    rather than "accuracy" and Notes 1 to 3 have been added.
+  lineage_source_similarity: 1
+  date_accepted: 2014-07-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: ketepatan ukuran
+      normative_status: preferred
+    - designation: accuracy of measurement
+      type: expression
+    - designation: accuracy
+      type: expression
+  _revisions:
+    current: c4f8ad
+    tree:
+      c4f8ad:
+        object:
+          id: 1607
+          definition: ketepatan dalam pengukuran
+          language_code: msa
+          notes:
+            - >-
+              The concept "measurement accuracy" is not a quantity and is not
+              given a numerical quantity value. A measurement is said to be more
+              accurate when it offers a smaller measurement error.
+            - >-
+              The term "measurement accuracy" should not be used for measurement
+              trueness and the term measurement precision should not be used for
+              "measurement accuracy", which, however, is related to both these
+              concepts.
+            - >-
+              "Measurement accuracy" is sometimes understood as closeness of
+              agreement between measured quantity values that are being
+              attributed to the measurand.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO/TS 19159-1:2014'
+            clause: '4.17'
+            link: 'https://www.iso.org/standard/60080.html'
+          lineage_source: >-
+            ISO 6709:2008, 4.1, modified – The preferred term is "measurement
+            accuracy" rather than "accuracy" and Notes 1 to 3 have been added.
+          lineage_source_similarity: 1
+          date_accepted: 2014-07-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: ketepatan ukuran
+              normative_status: preferred
+            - designation: accuracy of measurement
+              type: expression
+            - designation: accuracy
+              type: expression
+        parents: []
+        timeCreated: 2014-07-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 1607
+  definition: близость измеренного значения к истинному значению измеряемой величины
+  language_code: rus
+  notes:
+    - >-
+      Понятие "точность измерений" не является величиной и ей не может быть
+      присвоено числовое значение величины. Считается, что измерений является
+      более точным, если оно имеет меньшую погрешность измерения.
+    - >-
+      Термин "точность измерений" не следует использовать для обозначения
+      правильности измерений, а термин "прецизионность измерений" - для
+      обозначения точности измерений, хотя она имеет связь с двумя этими
+      понятиями.
+    - >-
+      Под "точностью измерений" иногла понимают близость между значениями
+      величины, приписываемыми измеряемой величине.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO/TS 19159-1:2014'
+    clause: '4.17'
+    link: 'https://www.iso.org/standard/60080.html'
+  lineage_source: >-
+    ISO 6709:2008, 4.1, modified – The preferred term is "measurement accuracy"
+    rather than "accuracy" and Notes 1 to 3 have been added.
+  lineage_source_similarity: 1
+  date_accepted: 2014-07-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: точность (результата) измерения
+      normative_status: preferred
+    - designation: точность измерения
+      type: expression
+    - designation: точность
+      type: expression
+  _revisions:
+    current: a29ec1
+    tree:
+      a29ec1:
+        object:
+          id: 1607
+          definition: >-
+            близость измеренного значения к истинному значению измеряемой
+            величины
+          language_code: rus
+          notes:
+            - >-
+              Понятие "точность измерений" не является величиной и ей не может
+              быть присвоено числовое значение величины. Считается, что
+              измерений является более точным, если оно имеет меньшую
+              погрешность измерения.
+            - >-
+              Термин "точность измерений" не следует использовать для
+              обозначения правильности измерений, а термин "прецизионность
+              измерений" - для обозначения точности измерений, хотя она имеет
+              связь с двумя этими понятиями.
+            - >-
+              Под "точностью измерений" иногла понимают близость между
+              значениями величины, приписываемыми измеряемой величине.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO/TS 19159-1:2014'
+            clause: '4.17'
+            link: 'https://www.iso.org/standard/60080.html'
+          lineage_source: >-
+            ISO 6709:2008, 4.1, modified – The preferred term is "measurement
+            accuracy" rather than "accuracy" and Notes 1 to 3 have been added.
+          lineage_source_similarity: 1
+          date_accepted: 2014-07-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: точность (результата) измерения
+              normative_status: preferred
+            - designation: точность измерения
+              type: expression
+            - designation: точность
+              type: expression
+        parents: []
+        timeCreated: 2014-07-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 1607
+  definition: >-
+    nivel de concordancia entre el resultado de un test de medida y la medida
+    real
+  language_code: spa
+  notes:
+    - >-
+      El concepto de " exactitud de la medida " no es una cantidad y no se le da
+      un valor numérico. Una medición se dice que es más exacta cuando se ofrece
+      un error de la medida más pequeño.
+    - >-
+      El término "exactitud de la medida" no debe utilizarse para la veracidad
+      de la medición y el término precisión de la medida no debe utilizarse para
+      " exactitud de la medida", que, sin embargo , si se relaciona con ambos
+      conceptos.
+    - >-
+      la "exactitud de la medida" a veces se entiende con el grado de
+      concordancia entre las cantidades de los valores medidos que se han
+      atribuido al mensurando.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO/TS 19159-1:2014'
+    clause: '4.17'
+    link: 'https://www.iso.org/standard/60080.html'
+  lineage_source: >-
+    ISO 6709:2008, 4.1, modified – The preferred term is "measurement accuracy"
+    rather than "accuracy" and Notes 1 to 3 have been added.
+  lineage_source_similarity: 1
+  date_accepted: 2014-07-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: exactitud de una medición
+      normative_status: preferred
+    - designation: exactitud de la medida
+      type: expression
+    - designation: exactitud
+      type: expression
+  _revisions:
+    current: 0acb3b
+    tree:
+      0acb3b:
+        object:
+          id: 1607
+          definition: >-
+            nivel de concordancia entre el resultado de un test de medida y la
+            medida real
+          language_code: spa
+          notes:
+            - >-
+              El concepto de " exactitud de la medida " no es una cantidad y no
+              se le da un valor numérico. Una medición se dice que es más exacta
+              cuando se ofrece un error de la medida más pequeño.
+            - >-
+              El término "exactitud de la medida" no debe utilizarse para la
+              veracidad de la medición y el término precisión de la medida no
+              debe utilizarse para " exactitud de la medida", que, sin embargo ,
+              si se relaciona con ambos conceptos.
+            - >-
+              la "exactitud de la medida" a veces se entiende con el grado de
+              concordancia entre las cantidades de los valores medidos que se
+              han atribuido al mensurando.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO/TS 19159-1:2014'
+            clause: '4.17'
+            link: 'https://www.iso.org/standard/60080.html'
+          lineage_source: >-
+            ISO 6709:2008, 4.1, modified – The preferred term is "measurement
+            accuracy" rather than "accuracy" and Notes 1 to 3 have been added.
+          lineage_source_similarity: 1
+          date_accepted: 2014-07-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: exactitud de una medición
+              normative_status: preferred
+            - designation: exactitud de la medida
+              type: expression
+            - designation: exactitud
+              type: expression
+        parents: []
+        timeCreated: 2014-07-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

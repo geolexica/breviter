@@ -1,0 +1,514 @@
+term: geometry value object
+termid: 757
+eng:
+  id: 757
+  definition: object composed of a set of geometry value pairs
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19123:2005'
+    link: 'https://www.iso.org/standard/40121.html'
+  date_accepted: 2005-08-15T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: geometry value object
+      normative_status: preferred
+  _revisions:
+    current: 4db1d6
+    tree:
+      4db1d6:
+        object:
+          id: 757
+          definition: object composed of a set of geometry value pairs
+          language_code: eng
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19123:2005'
+            link: 'https://www.iso.org/standard/40121.html'
+          date_accepted: 2005-08-15T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: geometry value object
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-08-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+ara:
+  id: 757
+  definition: كائن مؤلف من مجموعة أزواج ذات قيم هندسية
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19123:2005'
+    link: 'https://www.iso.org/standard/40121.html'
+  date_accepted: 2005-08-15T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: كائن ذو قيمة هندسية
+      normative_status: preferred
+  _revisions:
+    current: 6bccdc
+    tree:
+      6bccdc:
+        object:
+          id: 757
+          definition: كائن مؤلف من مجموعة أزواج ذات قيم هندسية
+          language_code: ara
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19123:2005'
+            link: 'https://www.iso.org/standard/40121.html'
+          date_accepted: 2005-08-15T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: كائن ذو قيمة هندسية
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-08-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+zho:
+  id: 757
+  definition: 由一组几何数值对组成的对象。
+  language_code: zho
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19123:2005'
+    link: 'https://www.iso.org/standard/40121.html'
+  date_accepted: 2005-08-15T00:00:00.000Z
+  terms:
+    - type: expression
+      designation: 几何值对象
+      normative_status: preferred
+  _revisions:
+    current: 43c5ce
+    tree:
+      43c5ce:
+        object:
+          id: 757
+          definition: 由一组几何数值对组成的对象。
+          language_code: zho
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19123:2005'
+            link: 'https://www.iso.org/standard/40121.html'
+          date_accepted: 2005-08-15T00:00:00.000Z
+          terms:
+            - type: expression
+              designation: 几何值对象
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-08-15T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+dan:
+  id: 757
+  definition: objekt sammensat af et sæt af geometriske værdipar
+  language_code: dan
+  notes: []
+  examples: []
+  authoritative_source:
+    ref: 'ISO 19123:2005'
+    link: 'https://www.iso.org/standard/40121.html'
+  date_accepted: 2005-08-15T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: geometrisk værdiobjekt
+      normative_status: null
+  _revisions:
+    current: 1f1e12
+    tree:
+      1f1e12:
+        object:
+          id: 757
+          definition: objekt sammensat af et sæt af geometriske værdipar
+          language_code: dan
+          notes: []
+          examples: []
+          authoritative_source:
+            ref: 'ISO 19123:2005'
+            link: 'https://www.iso.org/standard/40121.html'
+          date_accepted: 2005-08-15T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: geometrisk værdiobjekt
+              normative_status: null
+        parents: []
+        timeCreated: 2005-08-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+fin:
+  id: 757
+  definition: 'objekti, joka koostuu joukosta geometria-arvopareja'
+  language_code: fin
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19123:2005'
+    link: 'https://www.iso.org/standard/40121.html'
+  lineage_source: 'Ei lähdettä, käännetty'
+  date_accepted: 2005-08-15T00:00:00.000Z
+  terms:
+    - type: expression
+      designation: geometria-arvo-objekti
+      normative_status: preferred
+  _revisions:
+    current: 905cb9
+    tree:
+      905cb9:
+        object:
+          id: 757
+          definition: 'objekti, joka koostuu joukosta geometria-arvopareja'
+          language_code: fin
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19123:2005'
+            link: 'https://www.iso.org/standard/40121.html'
+          lineage_source: 'Ei lähdettä, käännetty'
+          date_accepted: 2005-08-15T00:00:00.000Z
+          terms:
+            - type: expression
+              designation: geometria-arvo-objekti
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-08-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+fra:
+  id: 757
+  definition: objet composé d'un ensemble de paires géométrie - valeur
+  language_code: fra
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: ISO 19123
+    link: 'https://www.iso.org/standard/40121.html'
+  lineage_source: ''
+  date_accepted: 2005-08-15T00:00:00.000Z
+  terms:
+    - type: expression
+      designation: objet géométrie - valeur
+      normative_status: preferred
+  _revisions:
+    current: 520dfa
+    tree:
+      520dfa:
+        object:
+          id: 757
+          definition: objet composé d'un ensemble de paires géométrie - valeur
+          language_code: fra
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: ISO 19123
+            link: 'https://www.iso.org/standard/40121.html'
+          lineage_source: ''
+          date_accepted: 2005-08-15T00:00:00.000Z
+          terms:
+            - type: expression
+              designation: objet géométrie - valeur
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-08-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+deu:
+  id: 757
+  language_code: deu
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19123:2005'
+    link: 'https://www.iso.org/standard/40121.html'
+  date_accepted: 2005-08-15T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: geometrisches Werteobjekt
+      normative_status: preferred
+  _revisions:
+    current: '197275'
+    tree:
+      '197275':
+        object:
+          id: 757
+          language_code: deu
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19123:2005'
+            link: 'https://www.iso.org/standard/40121.html'
+          date_accepted: 2005-08-15T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: geometrisches Werteobjekt
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-08-15T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+kor:
+  id: 757
+  definition: 기하 값 쌍의 집합으로 구성된 객체
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19123:2005'
+    link: 'https://www.iso.org/standard/40121.html'
+  lineage_source: KS X ISO 19123
+  date_accepted: 2007-11-01T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: 기하 값 객체
+      normative_status: preferred
+  _revisions:
+    current: 2f2093
+    tree:
+      2f2093:
+        object:
+          id: 757
+          definition: 기하 값 쌍의 집합으로 구성된 객체
+          language_code: kor
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19123:2005'
+            link: 'https://www.iso.org/standard/40121.html'
+          lineage_source: KS X ISO 19123
+          date_accepted: 2007-11-01T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: 기하 값 객체
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-11-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+pol:
+  id: 757
+  definition: obiekt złożony ze zbioru par wartości geometrii
+  language_code: pol
+  notes: []
+  examples: []
+  authoritative_source:
+    ref: 'ISO 19123:2005'
+    link: 'https://www.iso.org/standard/40121.html'
+  lineage_source: PN-EN ISO 19123
+  date_accepted: 2005-08-15T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: obiekt wartości geometrii
+      normative_status: preferred
+  _revisions:
+    current: 0186a0
+    tree:
+      0186a0:
+        object:
+          id: 757
+          definition: obiekt złożony ze zbioru par wartości geometrii
+          language_code: pol
+          notes: []
+          examples: []
+          authoritative_source:
+            ref: 'ISO 19123:2005'
+            link: 'https://www.iso.org/standard/40121.html'
+          lineage_source: PN-EN ISO 19123
+          date_accepted: 2005-08-15T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: obiekt wartości geometrii
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-08-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 757
+  definition: 'объект,  составленный из пар «геометрический элемент – значение»'
+  language_code: rus
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19123:2005'
+    link: 'https://www.iso.org/standard/40121.html'
+  lineage_source: Internet
+  date_accepted: 2005-08-15T00:00:00.000Z
+  terms:
+    - type: expression
+      designation: объект «геометрия -значение»
+      normative_status: preferred
+  _revisions:
+    current: 74df4a
+    tree:
+      74df4a:
+        object:
+          id: 757
+          definition: 'объект,  составленный из пар «геометрический элемент – значение»'
+          language_code: rus
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19123:2005'
+            link: 'https://www.iso.org/standard/40121.html'
+          lineage_source: Internet
+          date_accepted: 2005-08-15T00:00:00.000Z
+          terms:
+            - type: expression
+              designation: объект «геометрия -значение»
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-08-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 757
+  definition: objeto compuesto de un conjunto de pares de valores geométricos
+  language_code: spa
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19123:2005'
+    link: 'https://www.iso.org/standard/40121.html'
+  date_accepted: 2005-08-15T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: objeto valor geométrico
+      normative_status: preferred
+  _revisions:
+    current: be1d20
+    tree:
+      be1d20:
+        object:
+          id: 757
+          definition: objeto compuesto de un conjunto de pares de valores geométricos
+          language_code: spa
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19123:2005'
+            link: 'https://www.iso.org/standard/40121.html'
+          date_accepted: 2005-08-15T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: objeto valor geométrico
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-08-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+swe:
+  id: 757
+  definition: samling av samhörande geometri-värdepar
+  country_code: swe
+  language_code: swe
+  notes:
+    - Ett exempel är en triangel i vars hörn marknivån har uppmätts.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19123:2005'
+    link: 'https://www.iso.org/standard/40121.html'
+  lineage_source: (Type reference to national language document)
+  date_accepted: 2005-08-15T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: geometri-värdeobjekt
+      normative_status: preferred
+  _revisions:
+    current: 9fcd6c
+    tree:
+      9fcd6c:
+        object:
+          id: 757
+          definition: samling av samhörande geometri-värdepar
+          country_code: swe
+          language_code: swe
+          notes:
+            - Ett exempel är en triangel i vars hörn marknivån har uppmätts.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19123:2005'
+            link: 'https://www.iso.org/standard/40121.html'
+          lineage_source: (Type reference to national language document)
+          date_accepted: 2005-08-15T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: geometri-värdeobjekt
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-08-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

@@ -1,0 +1,886 @@
+term: component <UML>
+termid: 724
+eng:
+  id: 724
+  definition: >-
+    modular, deployable, and replaceable part of a system that encapsulates
+    implementation and exposes a set of interfaces
+  language_code: eng
+  notes:
+    - >-
+      A component represents a physical piece of implementation of a system,
+      including software code (source, binary or executable) or equivalents such
+      as scripts or command files.
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: ISO/IEC 19501
+    link: 'https://www.iso.org/standard/32620.html'
+  lineage_source: 'ISO/TS 19103:2005 ,4.2.9'
+  lineage_source_similarity: 1
+  date_accepted: 2005-07-15T00:00:00.000Z
+  date_amended: 2015-12-01T00:00:00.000Z
+  review_date: 2009-01-14T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2015-12-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19103:2015'
+  review_decision_notes: >-
+    The entry has been superseded. An entry with a revised definition has been
+    published in ISO 19103:2015
+  release: '-1'
+  terms:
+    - type: expression
+      designation: component <UML>
+      normative_status: null
+  _revisions:
+    current: '67e775'
+    tree:
+      '67e775':
+        object:
+          id: 724
+          definition: >-
+            modular, deployable, and replaceable part of a system that
+            encapsulates implementation and exposes a set of interfaces
+          language_code: eng
+          notes:
+            - >-
+              A component represents a physical piece of implementation of a
+              system, including software code (source, binary or executable) or
+              equivalents such as scripts or command files.
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: ISO/IEC 19501
+            link: 'https://www.iso.org/standard/32620.html'
+          lineage_source: 'ISO/TS 19103:2005 ,4.2.9'
+          lineage_source_similarity: 1
+          date_accepted: 2005-07-15T00:00:00.000Z
+          date_amended: 2015-12-01T00:00:00.000Z
+          review_date: 2009-01-14T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2015-12-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19103:2015'
+          review_decision_notes: >-
+            The entry has been superseded. An entry with a revised definition
+            has been published in ISO 19103:2015
+          release: '-1'
+          terms:
+            - type: expression
+              designation: component <UML>
+              normative_status: null
+        parents: []
+        timeCreated: 2005-07-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+ara:
+  id: 724
+  definition: >-
+    جزء من نظام  قابل للاستعمال والاستبدال ويغلق عملية التنفيذ ويعض مجموعة من
+    الواجهات التطبيقية
+  language_code: ara
+  notes:
+    - >-
+      المكون يمثل جزءاً ملموساً من تنفيذ نظام ما بما في ذلك شفرة البرنامج (سواء
+      كانت مصدرية أو ثنائية أو قابلة للتنفيذ) أو ما يعادلها مثل النصوص الكتابية
+      أو ملفات الأوامر.
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: ISO/IEC 19501
+    link: 'https://www.iso.org/standard/32620.html'
+  lineage_source: 'ISO/TS 19103:2005 ,4.2.9'
+  lineage_source_similarity: 1
+  date_accepted: 2005-07-15T00:00:00.000Z
+  date_amended: 2015-12-01T00:00:00.000Z
+  review_date: 2009-01-14T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2015-12-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19103:2015'
+  review_decision_notes: >-
+    The entry has been superseded. An entry with a revised definition has been
+    published in ISO 19103:2015
+  release: '-1'
+  terms:
+    - type: expression
+      designation: مكوِّن <UML>
+      normative_status: null
+  _revisions:
+    current: 5f3d2f
+    tree:
+      5f3d2f:
+        object:
+          id: 724
+          definition: >-
+            جزء من نظام  قابل للاستعمال والاستبدال ويغلق عملية التنفيذ ويعض
+            مجموعة من الواجهات التطبيقية
+          language_code: ara
+          notes:
+            - >-
+              المكون يمثل جزءاً ملموساً من تنفيذ نظام ما بما في ذلك شفرة
+              البرنامج (سواء كانت مصدرية أو ثنائية أو قابلة للتنفيذ) أو ما
+              يعادلها مثل النصوص الكتابية أو ملفات الأوامر.
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: ISO/IEC 19501
+            link: 'https://www.iso.org/standard/32620.html'
+          lineage_source: 'ISO/TS 19103:2005 ,4.2.9'
+          lineage_source_similarity: 1
+          date_accepted: 2005-07-15T00:00:00.000Z
+          date_amended: 2015-12-01T00:00:00.000Z
+          review_date: 2009-01-14T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2015-12-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19103:2015'
+          review_decision_notes: >-
+            The entry has been superseded. An entry with a revised definition
+            has been published in ISO 19103:2015
+          release: '-1'
+          terms:
+            - type: expression
+              designation: مكوِّن <UML>
+              normative_status: null
+        parents: []
+        timeCreated: 2005-07-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+zho:
+  id: 724
+  definition: 系统的模块化的、可配制的、可替代的部分，它封装了实现，并提供一系列接口。
+  language_code: zho
+  notes:
+    - 组件表示一个系统物理实现的组分，包括软件代码（源、二进制或可执行的）、等效的脚本或命令文件。
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: ISO/IEC 19501
+    link: 'https://www.iso.org/standard/32620.html'
+  lineage_source: 'ISO/TS 19103:2005 ,4.2.9'
+  lineage_source_similarity: 1
+  date_accepted: 2005-07-15T00:00:00.000Z
+  date_amended: 2015-12-01T00:00:00.000Z
+  review_date: 2009-01-14T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2015-12-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19103:2015'
+  review_decision_notes: >-
+    The entry has been superseded. An entry with a revised definition has been
+    published in ISO 19103:2015
+  release: '-1'
+  terms:
+    - type: expression
+      designation: 组件<UML>
+      normative_status: null
+  _revisions:
+    current: '569011'
+    tree:
+      '569011':
+        object:
+          id: 724
+          definition: 系统的模块化的、可配制的、可替代的部分，它封装了实现，并提供一系列接口。
+          language_code: zho
+          notes:
+            - 组件表示一个系统物理实现的组分，包括软件代码（源、二进制或可执行的）、等效的脚本或命令文件。
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: ISO/IEC 19501
+            link: 'https://www.iso.org/standard/32620.html'
+          lineage_source: 'ISO/TS 19103:2005 ,4.2.9'
+          lineage_source_similarity: 1
+          date_accepted: 2005-07-15T00:00:00.000Z
+          date_amended: 2015-12-01T00:00:00.000Z
+          review_date: 2009-01-14T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2015-12-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19103:2015'
+          review_decision_notes: >-
+            The entry has been superseded. An entry with a revised definition
+            has been published in ISO 19103:2015
+          release: '-1'
+          terms:
+            - type: expression
+              designation: 组件<UML>
+              normative_status: null
+        parents: []
+        timeCreated: 2005-07-15T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+dan:
+  id: 724
+  definition: >-
+    modulær, umiddelbart brugbar og udskiftelig del af et system, der
+    sammenfatter implementering og som passer til  og realiserer et sæt
+    grænseflader
+  language_code: dan
+  notes:
+    - >-
+      En komponent repræsenterer en fysisk del af implementeringen af et system,
+      inkl. softwarekode (kilde, binær eller eksekverbar) eller tilsvarende
+      såsom scripts eller kommandofiler.
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: ISO/IEC 19501
+    link: 'https://www.iso.org/standard/32620.html'
+  lineage_source: 'ISO/TS 19103:2005 ,4.2.9'
+  lineage_source_similarity: 1
+  date_accepted: 2005-07-15T00:00:00.000Z
+  date_amended: 2015-12-01T00:00:00.000Z
+  review_date: 2009-01-14T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2015-12-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19103:2015'
+  review_decision_notes: >-
+    The entry has been superseded. An entry with a revised definition has been
+    published in ISO 19103:2015
+  release: '-1'
+  terms:
+    - type: expression
+      designation: komponent <UML>
+      normative_status: null
+  _revisions:
+    current: 0c788a
+    tree:
+      0c788a:
+        object:
+          id: 724
+          definition: >-
+            modulær, umiddelbart brugbar og udskiftelig del af et system, der
+            sammenfatter implementering og som passer til  og realiserer et sæt
+            grænseflader
+          language_code: dan
+          notes:
+            - >-
+              En komponent repræsenterer en fysisk del af implementeringen af et
+              system, inkl. softwarekode (kilde, binær eller eksekverbar) eller
+              tilsvarende såsom scripts eller kommandofiler.
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: ISO/IEC 19501
+            link: 'https://www.iso.org/standard/32620.html'
+          lineage_source: 'ISO/TS 19103:2005 ,4.2.9'
+          lineage_source_similarity: 1
+          date_accepted: 2005-07-15T00:00:00.000Z
+          date_amended: 2015-12-01T00:00:00.000Z
+          review_date: 2009-01-14T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2015-12-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19103:2015'
+          review_decision_notes: >-
+            The entry has been superseded. An entry with a revised definition
+            has been published in ISO 19103:2015
+          release: '-1'
+          terms:
+            - type: expression
+              designation: komponent <UML>
+              normative_status: null
+        parents: []
+        timeCreated: 2005-07-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+fin:
+  id: 724
+  definition: >-
+    moduuleista koostuva, sijoiteltavissa ja korvattavissa oleva järjestelmän
+    osa, joka kätkee toteutuksen ja paljastaa joukon rajapintoja
+  language_code: fin
+  notes:
+    - >-
+      Komponentti on järjestelmän fyysinen toteutusosa, sisältäen ohjelmakoodin
+      (lähdekoodi, binäärinen tai suorituskelpoinen koodi) tai vastaavan, kuten
+      komentosarjan tai komentotiedoston.
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: ISO/IEC 19501
+    link: 'https://www.iso.org/standard/32620.html'
+  lineage_source: 'ISO/TS 19103:2005 ,4.2.9'
+  lineage_source_similarity: 1
+  date_accepted: 2005-07-15T00:00:00.000Z
+  date_amended: 2015-12-01T00:00:00.000Z
+  review_date: 2009-01-14T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2015-12-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19103:2015'
+  review_decision_notes: >-
+    The entry has been superseded. An entry with a revised definition has been
+    published in ISO 19103:2015
+  release: '-1'
+  terms:
+    - type: expression
+      designation: komponentti <UML>
+      normative_status: null
+  _revisions:
+    current: 70b43c
+    tree:
+      70b43c:
+        object:
+          id: 724
+          definition: >-
+            moduuleista koostuva, sijoiteltavissa ja korvattavissa oleva
+            järjestelmän osa, joka kätkee toteutuksen ja paljastaa joukon
+            rajapintoja
+          language_code: fin
+          notes:
+            - >-
+              Komponentti on järjestelmän fyysinen toteutusosa, sisältäen
+              ohjelmakoodin (lähdekoodi, binäärinen tai suorituskelpoinen koodi)
+              tai vastaavan, kuten komentosarjan tai komentotiedoston.
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: ISO/IEC 19501
+            link: 'https://www.iso.org/standard/32620.html'
+          lineage_source: 'ISO/TS 19103:2005 ,4.2.9'
+          lineage_source_similarity: 1
+          date_accepted: 2005-07-15T00:00:00.000Z
+          date_amended: 2015-12-01T00:00:00.000Z
+          review_date: 2009-01-14T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2015-12-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19103:2015'
+          review_decision_notes: >-
+            The entry has been superseded. An entry with a revised definition
+            has been published in ISO 19103:2015
+          release: '-1'
+          terms:
+            - type: expression
+              designation: komponentti <UML>
+              normative_status: null
+        parents: []
+        timeCreated: 2005-07-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+fra:
+  id: 724
+  definition: >-
+    élément modulaire, déployable et remplaçable d'un système qui encapsule
+    l'implémentation et expose un ensemble d'interfaces
+  language_code: fra
+  notes: []
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: ISO/IEC 19501
+    link: 'https://www.iso.org/standard/32620.html'
+  lineage_source: 'ISO/TS 19103:2005 ,4.2.9'
+  lineage_source_similarity: 1
+  date_accepted: 2005-07-15T00:00:00.000Z
+  date_amended: 2015-12-01T00:00:00.000Z
+  review_date: 2009-01-14T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2015-12-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19103:2015'
+  review_decision_notes: >-
+    The entry has been superseded. An entry with a revised definition has been
+    published in ISO 19103:2015
+  release: '-1'
+  terms:
+    - type: expression
+      designation: composant <UML>
+      normative_status: null
+  _revisions:
+    current: 0e509e
+    tree:
+      0e509e:
+        object:
+          id: 724
+          definition: >-
+            élément modulaire, déployable et remplaçable d'un système qui
+            encapsule l'implémentation et expose un ensemble d'interfaces
+          language_code: fra
+          notes: []
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: ISO/IEC 19501
+            link: 'https://www.iso.org/standard/32620.html'
+          lineage_source: 'ISO/TS 19103:2005 ,4.2.9'
+          lineage_source_similarity: 1
+          date_accepted: 2005-07-15T00:00:00.000Z
+          date_amended: 2015-12-01T00:00:00.000Z
+          review_date: 2009-01-14T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2015-12-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19103:2015'
+          review_decision_notes: >-
+            The entry has been superseded. An entry with a revised definition
+            has been published in ISO 19103:2015
+          release: '-1'
+          terms:
+            - type: expression
+              designation: composant <UML>
+              normative_status: null
+        parents: []
+        timeCreated: 2005-07-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+deu:
+  id: 724
+  language_code: deu
+  notes:
+    - >-
+      A component represents a physical piece of implementation of a system,
+      including software code (source, binary or executable) or equivalents such
+      as scripts or command files.
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: ISO/IEC 19501
+    link: 'https://www.iso.org/standard/32620.html'
+  lineage_source: 'ISO/TS 19103:2005 ,4.2.9'
+  lineage_source_similarity: 1
+  date_accepted: 2005-07-15T00:00:00.000Z
+  date_amended: 2015-12-01T00:00:00.000Z
+  review_date: 2009-01-14T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2015-12-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19103:2015'
+  review_decision_notes: >-
+    The entry has been superseded. An entry with a revised definition has been
+    published in ISO 19103:2015
+  release: '-1'
+  terms:
+    - type: expression
+      designation: Komponente <UML>
+      normative_status: null
+  _revisions:
+    current: bc93fd
+    tree:
+      bc93fd:
+        object:
+          id: 724
+          language_code: deu
+          notes:
+            - >-
+              A component represents a physical piece of implementation of a
+              system, including software code (source, binary or executable) or
+              equivalents such as scripts or command files.
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: ISO/IEC 19501
+            link: 'https://www.iso.org/standard/32620.html'
+          lineage_source: 'ISO/TS 19103:2005 ,4.2.9'
+          lineage_source_similarity: 1
+          date_accepted: 2005-07-15T00:00:00.000Z
+          date_amended: 2015-12-01T00:00:00.000Z
+          review_date: 2009-01-14T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2015-12-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19103:2015'
+          review_decision_notes: >-
+            The entry has been superseded. An entry with a revised definition
+            has been published in ISO 19103:2015
+          release: '-1'
+          terms:
+            - type: expression
+              designation: Komponente <UML>
+              normative_status: null
+        parents: []
+        timeCreated: 2005-07-15T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+kor:
+  id: 724
+  definition: '내부 구현을 캡슐화하고 인터페이스의 집합을 노출시킨, 적용 및 교체가 가능한 모듈화된 시스템의 한 부분'
+  language_code: kor
+  notes:
+    - '컴포넌트는 소프트웨어 코드, 명령 파일 또는 스크립트 등을 포함하는 시스템의 물리적 구현 단위이다.'
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: ISO/IEC 19501
+    link: 'https://www.iso.org/standard/32620.html'
+  lineage_source: 'ISO/TS 19103:2005 ,4.2.9'
+  lineage_source_similarity: 1
+  date_accepted: 2005-07-15T00:00:00.000Z
+  date_amended: 2015-12-01T00:00:00.000Z
+  review_date: 2009-01-14T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2015-12-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19103:2015'
+  review_decision_notes: >-
+    The entry has been superseded. An entry with a revised definition has been
+    published in ISO 19103:2015
+  release: '-1'
+  terms:
+    - type: expression
+      designation: 컴포넌트 <UML>
+      normative_status: null
+  _revisions:
+    current: 872ca2
+    tree:
+      872ca2:
+        object:
+          id: 724
+          definition: '내부 구현을 캡슐화하고 인터페이스의 집합을 노출시킨, 적용 및 교체가 가능한 모듈화된 시스템의 한 부분'
+          language_code: kor
+          notes:
+            - '컴포넌트는 소프트웨어 코드, 명령 파일 또는 스크립트 등을 포함하는 시스템의 물리적 구현 단위이다.'
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: ISO/IEC 19501
+            link: 'https://www.iso.org/standard/32620.html'
+          lineage_source: 'ISO/TS 19103:2005 ,4.2.9'
+          lineage_source_similarity: 1
+          date_accepted: 2005-07-15T00:00:00.000Z
+          date_amended: 2015-12-01T00:00:00.000Z
+          review_date: 2009-01-14T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2015-12-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19103:2015'
+          review_decision_notes: >-
+            The entry has been superseded. An entry with a revised definition
+            has been published in ISO 19103:2015
+          release: '-1'
+          terms:
+            - type: expression
+              designation: 컴포넌트 <UML>
+              normative_status: null
+        parents: []
+        timeCreated: 2005-07-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+msa:
+  id: 724
+  definition: bahagian yg melengkapi atau yg mencukupkan sesuatu
+  language_code: msa
+  notes:
+    - >-
+      A component represents a physical piece of implementation of a system,
+      including software code (source, binary or executable) or equivalents such
+      as scripts or command files.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: ISO/IEC 19501
+    link: 'https://www.iso.org/standard/32620.html'
+  lineage_source: Pusat Rujukan Persuratan Melayu (DBP)
+  date_accepted: 2005-07-15T00:00:00.000Z
+  review_date: 2009-08-31T00:00:00.000Z
+  review_status: pending
+  review_type: supersession
+  release: '1'
+  terms:
+    - type: expression
+      designation: komponen
+      normative_status: preferred
+  _revisions:
+    current: 3d56cd
+    tree:
+      3d56cd:
+        object:
+          id: 724
+          definition: bahagian yg melengkapi atau yg mencukupkan sesuatu
+          language_code: msa
+          notes:
+            - >-
+              A component represents a physical piece of implementation of a
+              system, including software code (source, binary or executable) or
+              equivalents such as scripts or command files.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: ISO/IEC 19501
+            link: 'https://www.iso.org/standard/32620.html'
+          lineage_source: Pusat Rujukan Persuratan Melayu (DBP)
+          date_accepted: 2005-07-15T00:00:00.000Z
+          review_date: 2009-08-31T00:00:00.000Z
+          review_status: pending
+          review_type: supersession
+          release: '1'
+          terms:
+            - type: expression
+              designation: komponen
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-07-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 724
+  definition: >-
+    модульная, разворачиваемая и замещаемая часть системы, которая инкапсулирует
+    реализацию и предоставляет заданный набор интерфейсов
+  language_code: rus
+  notes:
+    - >-
+      Компонент представляет собой физическую часть реализации системы, включая
+      программный код (исходный, бинарный или выполнимый), или эквиваленты,
+      такие  как сценарии или командные файлы
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: ISO/IEC 19501
+    link: 'https://www.iso.org/standard/32620.html'
+  lineage_source: 'ISO/TS 19103:2005 ,4.2.9'
+  lineage_source_similarity: 1
+  date_accepted: 2005-07-15T00:00:00.000Z
+  review_date: 2009-08-31T00:00:00.000Z
+  review_status: ''
+  review_type: ''
+  release: '1'
+  terms:
+    - type: expression
+      designation: компонент<UML>
+      normative_status: preferred
+  _revisions:
+    current: d53163
+    tree:
+      d53163:
+        object:
+          id: 724
+          definition: >-
+            модульная, разворачиваемая и замещаемая часть системы, которая
+            инкапсулирует реализацию и предоставляет заданный набор интерфейсов
+          language_code: rus
+          notes:
+            - >-
+              Компонент представляет собой физическую часть реализации системы,
+              включая программный код (исходный, бинарный или выполнимый), или
+              эквиваленты, такие  как сценарии или командные файлы
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: ISO/IEC 19501
+            link: 'https://www.iso.org/standard/32620.html'
+          lineage_source: 'ISO/TS 19103:2005 ,4.2.9'
+          lineage_source_similarity: 1
+          date_accepted: 2005-07-15T00:00:00.000Z
+          review_date: 2009-08-31T00:00:00.000Z
+          review_status: ''
+          review_type: ''
+          release: '1'
+          terms:
+            - type: expression
+              designation: компонент<UML>
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-07-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 724
+  definition: >-
+    parte modular, desplegable y reemplazable de un sistema, que encapsula una
+    implementación y expone un conjunto de interfaces
+  language_code: spa
+  notes:
+    - >-
+      un componente representa una pieza física de implementación de un sistema,
+      incluyendo el software de código (fuente, binario o ejecutable) u otros
+      equivalentes como los scripts o ficheros de comandos.
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: ISO/IEC 19501
+    link: 'https://www.iso.org/standard/32620.html'
+  lineage_source: 'ISO/TS 19103:2005 ,4.2.9'
+  lineage_source_similarity: 1
+  date_accepted: 2005-07-15T00:00:00.000Z
+  date_amended: 2015-12-01T00:00:00.000Z
+  review_date: 2009-01-14T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2015-12-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19103:2015'
+  review_decision_notes: >-
+    The entry has been superseded. An entry with a revised definition has been
+    published in ISO 19103:2015
+  release: '-1'
+  terms:
+    - type: expression
+      designation: componente <UML>
+      normative_status: null
+  _revisions:
+    current: f77f5d
+    tree:
+      f77f5d:
+        object:
+          id: 724
+          definition: >-
+            parte modular, desplegable y reemplazable de un sistema, que
+            encapsula una implementación y expone un conjunto de interfaces
+          language_code: spa
+          notes:
+            - >-
+              un componente representa una pieza física de implementación de un
+              sistema, incluyendo el software de código (fuente, binario o
+              ejecutable) u otros equivalentes como los scripts o ficheros de
+              comandos.
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: ISO/IEC 19501
+            link: 'https://www.iso.org/standard/32620.html'
+          lineage_source: 'ISO/TS 19103:2005 ,4.2.9'
+          lineage_source_similarity: 1
+          date_accepted: 2005-07-15T00:00:00.000Z
+          date_amended: 2015-12-01T00:00:00.000Z
+          review_date: 2009-01-14T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2015-12-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19103:2015'
+          review_decision_notes: >-
+            The entry has been superseded. An entry with a revised definition
+            has been published in ISO 19103:2015
+          release: '-1'
+          terms:
+            - type: expression
+              designation: componente <UML>
+              normative_status: null
+        parents: []
+        timeCreated: 2005-07-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+swe:
+  id: 724
+  definition: >-
+    modular, deployable, and replaceable part of a system that encapsulates
+    implementation and exposes a set of interfaces
+  language_code: swe
+  notes:
+    - >-
+      A component represents a physical piece of implementation of a system,
+      including software code (source, binary or executable) or equivalents such
+      as scripts or command files.
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: ISO/IEC 19501
+    link: 'https://www.iso.org/standard/32620.html'
+  lineage_source: 'ISO/TS 19103:2005 ,4.2.9'
+  lineage_source_similarity: 1
+  date_accepted: 2005-07-15T00:00:00.000Z
+  date_amended: 2015-12-01T00:00:00.000Z
+  review_date: 2009-01-14T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2015-12-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19103:2015'
+  review_decision_notes: >-
+    The entry has been superseded. An entry with a revised definition has been
+    published in ISO 19103:2015
+  release: '-1'
+  terms:
+    - type: expression
+      designation: component <UML>
+      normative_status: null
+  _revisions:
+    current: 434bfd
+    tree:
+      434bfd:
+        object:
+          id: 724
+          definition: >-
+            modular, deployable, and replaceable part of a system that
+            encapsulates implementation and exposes a set of interfaces
+          language_code: swe
+          notes:
+            - >-
+              A component represents a physical piece of implementation of a
+              system, including software code (source, binary or executable) or
+              equivalents such as scripts or command files.
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: ISO/IEC 19501
+            link: 'https://www.iso.org/standard/32620.html'
+          lineage_source: 'ISO/TS 19103:2005 ,4.2.9'
+          lineage_source_similarity: 1
+          date_accepted: 2005-07-15T00:00:00.000Z
+          date_amended: 2015-12-01T00:00:00.000Z
+          review_date: 2009-01-14T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2015-12-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19103:2015'
+          review_decision_notes: >-
+            The entry has been superseded. An entry with a revised definition
+            has been published in ISO 19103:2015
+          release: '-1'
+          terms:
+            - type: expression
+              designation: component <UML>
+              normative_status: null
+        parents: []
+        timeCreated: 2005-07-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

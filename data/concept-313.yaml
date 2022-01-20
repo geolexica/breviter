@@ -1,0 +1,756 @@
+term: object <UML>
+termid: 313
+eng:
+  id: 313
+  definition: >-
+    entity with a well-defined boundary and identity that encapsulates state and
+    behaviour
+  language_code: eng
+  notes:
+    - >-
+      State is represented by attributes and relationships, behaviour is
+      represented by operations, methods, and state machines. An object is an
+      instance of a class. See: class, instance.
+  examples: []
+  entry_status: retired
+  authoritative_source:
+    ref: 'ISO/IEC 19501:2005 '
+    clause: (Adapted from)
+    link: 'https://www.iso.org/standard/32620.html'
+  lineage_source: 'ISO/TS 19103:2005'
+  lineage_source_similarity: 1
+  date_accepted: 2003-05-01T00:00:00.000Z
+  date_amended: 2015-12-01T00:00:00.000Z
+  review_date: 2009-01-14T00:00:00.000Z
+  review_status: final
+  review_type: retirement
+  review_decision: accepted
+  review_decision_date: 2015-12-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19103:2015'
+  review_decision_notes: >-
+    The entry has been omitted from the superseding standard  (ISO 19103:2015).
+    It has been replaced in that standard by the entry for "object" included in
+    ISO 19107:2003.
+  release: '-1'
+  terms:
+    - type: expression
+      designation: object <UML>
+      normative_status: null
+  _revisions:
+    current: f47576
+    tree:
+      f47576:
+        object:
+          id: 313
+          definition: >-
+            entity with a well-defined boundary and identity that encapsulates
+            state and behaviour
+          language_code: eng
+          notes:
+            - >-
+              State is represented by attributes and relationships, behaviour is
+              represented by operations, methods, and state machines. An object
+              is an instance of a class. See: class, instance.
+          examples: []
+          entry_status: retired
+          authoritative_source:
+            ref: 'ISO/IEC 19501:2005 '
+            clause: (Adapted from)
+            link: 'https://www.iso.org/standard/32620.html'
+          lineage_source: 'ISO/TS 19103:2005'
+          lineage_source_similarity: 1
+          date_accepted: 2003-05-01T00:00:00.000Z
+          date_amended: 2015-12-01T00:00:00.000Z
+          review_date: 2009-01-14T00:00:00.000Z
+          review_status: final
+          review_type: retirement
+          review_decision: accepted
+          review_decision_date: 2015-12-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19103:2015'
+          review_decision_notes: >-
+            The entry has been omitted from the superseding standard  (ISO
+            19103:2015). It has been replaced in that standard by the entry for
+            "object" included in ISO 19107:2003.
+          release: '-1'
+          terms:
+            - type: expression
+              designation: object <UML>
+              normative_status: null
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+ara:
+  id: 313
+  definition: كيان ذو حدود واضحة المعالم وهوية تنطوي على حالة وسلوك
+  language_code: ara
+  notes:
+    - >-
+      الحالة تمثلها البيانات الوصفية والعلاقات, أما السلوك أو التصرف فتمثله
+      العمليات, والطرق وآليات الحالة. الغرض أو الكيان هو عبارة عن مثال لفئة.
+      أنظر: فئة , مثال.
+  examples: []
+  entry_status: retired
+  authoritative_source:
+    ref: 'ISO/IEC 19501:2005 '
+    clause: (Adapted from)
+    link: 'https://www.iso.org/standard/32620.html'
+  lineage_source: 'ISO/TS 19103:2005'
+  lineage_source_similarity: 1
+  date_accepted: 2003-05-01T00:00:00.000Z
+  date_amended: 2015-12-01T00:00:00.000Z
+  review_date: 2009-01-14T00:00:00.000Z
+  review_status: final
+  review_type: retirement
+  review_decision: accepted
+  review_decision_date: 2015-12-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19103:2015'
+  review_decision_notes: >-
+    The entry has been omitted from the superseding standard  (ISO 19103:2015).
+    It has been replaced in that standard by the entry for "object" included in
+    ISO 19107:2003.
+  release: '-1'
+  terms:
+    - type: expression
+      designation: كائن <UML>
+      normative_status: null
+  _revisions:
+    current: bcf66b
+    tree:
+      bcf66b:
+        object:
+          id: 313
+          definition: كيان ذو حدود واضحة المعالم وهوية تنطوي على حالة وسلوك
+          language_code: ara
+          notes:
+            - >-
+              الحالة تمثلها البيانات الوصفية والعلاقات, أما السلوك أو التصرف
+              فتمثله العمليات, والطرق وآليات الحالة. الغرض أو الكيان هو عبارة عن
+              مثال لفئة. أنظر: فئة , مثال.
+          examples: []
+          entry_status: retired
+          authoritative_source:
+            ref: 'ISO/IEC 19501:2005 '
+            clause: (Adapted from)
+            link: 'https://www.iso.org/standard/32620.html'
+          lineage_source: 'ISO/TS 19103:2005'
+          lineage_source_similarity: 1
+          date_accepted: 2003-05-01T00:00:00.000Z
+          date_amended: 2015-12-01T00:00:00.000Z
+          review_date: 2009-01-14T00:00:00.000Z
+          review_status: final
+          review_type: retirement
+          review_decision: accepted
+          review_decision_date: 2015-12-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19103:2015'
+          review_decision_notes: >-
+            The entry has been omitted from the superseding standard  (ISO
+            19103:2015). It has been replaced in that standard by the entry for
+            "object" included in ISO 19107:2003.
+          release: '-1'
+          terms:
+            - type: expression
+              designation: كائن <UML>
+              normative_status: null
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+zho:
+  id: 313
+  definition: 标示观察结果物理量的数据类型。
+  language_code: zho
+  notes: []
+  examples: []
+  entry_status: retired
+  authoritative_source:
+    ref: 'ISO/IEC 19501:2005 '
+    clause: (Adapted from)
+    link: 'https://www.iso.org/standard/32620.html'
+  lineage_source: 'ISO/TS 19103:2005'
+  lineage_source_similarity: 1
+  date_accepted: 2003-05-01T00:00:00.000Z
+  date_amended: 2015-12-01T00:00:00.000Z
+  review_date: 2009-01-14T00:00:00.000Z
+  review_status: final
+  review_type: retirement
+  review_decision: accepted
+  review_decision_date: 2015-12-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19103:2015'
+  review_decision_notes: >-
+    The entry has been omitted from the superseding standard  (ISO 19103:2015).
+    It has been replaced in that standard by the entry for "object" included in
+    ISO 19107:2003.
+  release: '-1'
+  terms:
+    - type: expression
+      designation: 可观察类型
+      normative_status: null
+  _revisions:
+    current: 2a76b5
+    tree:
+      2a76b5:
+        object:
+          id: 313
+          definition: 标示观察结果物理量的数据类型。
+          language_code: zho
+          notes: []
+          examples: []
+          entry_status: retired
+          authoritative_source:
+            ref: 'ISO/IEC 19501:2005 '
+            clause: (Adapted from)
+            link: 'https://www.iso.org/standard/32620.html'
+          lineage_source: 'ISO/TS 19103:2005'
+          lineage_source_similarity: 1
+          date_accepted: 2003-05-01T00:00:00.000Z
+          date_amended: 2015-12-01T00:00:00.000Z
+          review_date: 2009-01-14T00:00:00.000Z
+          review_status: final
+          review_type: retirement
+          review_decision: accepted
+          review_decision_date: 2015-12-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19103:2015'
+          review_decision_notes: >-
+            The entry has been omitted from the superseding standard  (ISO
+            19103:2015). It has been replaced in that standard by the entry for
+            "object" included in ISO 19107:2003.
+          release: '-1'
+          terms:
+            - type: expression
+              designation: 可观察类型
+              normative_status: null
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+fin:
+  id: 313
+  definition: >-
+    kokonaisuus, jolla on hyvinmääritelty rajaus ja identiteetti, johon kuuluu
+    tila ja käyttäytyminen
+  language_code: fin
+  notes:
+    - >-
+      "Tila" viittaa attribuutteihin ja suhteisiin, "käyttäytyminen" taas
+      operaatioihin, menetelmiin ja tilakoneisiin. Objekti on luokan ilmentymä.
+      Katso: luokka, ilmentymä.
+  examples: []
+  entry_status: retired
+  authoritative_source:
+    ref: 'ISO/IEC 19501:2005 '
+    clause: (Adapted from)
+    link: 'https://www.iso.org/standard/32620.html'
+  lineage_source: 'ISO/TS 19103:2005'
+  lineage_source_similarity: 1
+  date_accepted: 2003-05-01T00:00:00.000Z
+  date_amended: 2015-12-01T00:00:00.000Z
+  review_date: 2009-01-14T00:00:00.000Z
+  review_status: final
+  review_type: retirement
+  review_decision: accepted
+  review_decision_date: 2015-12-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19103:2015'
+  review_decision_notes: >-
+    The entry has been omitted from the superseding standard  (ISO 19103:2015).
+    It has been replaced in that standard by the entry for "object" included in
+    ISO 19107:2003.
+  release: '-1'
+  terms:
+    - type: expression
+      designation: objekti <UML>
+      normative_status: null
+    - designation: olio
+      type: expression
+  _revisions:
+    current: a23b5b
+    tree:
+      a23b5b:
+        object:
+          id: 313
+          definition: >-
+            kokonaisuus, jolla on hyvinmääritelty rajaus ja identiteetti, johon
+            kuuluu tila ja käyttäytyminen
+          language_code: fin
+          notes:
+            - >-
+              "Tila" viittaa attribuutteihin ja suhteisiin, "käyttäytyminen"
+              taas operaatioihin, menetelmiin ja tilakoneisiin. Objekti on
+              luokan ilmentymä. Katso: luokka, ilmentymä.
+          examples: []
+          entry_status: retired
+          authoritative_source:
+            ref: 'ISO/IEC 19501:2005 '
+            clause: (Adapted from)
+            link: 'https://www.iso.org/standard/32620.html'
+          lineage_source: 'ISO/TS 19103:2005'
+          lineage_source_similarity: 1
+          date_accepted: 2003-05-01T00:00:00.000Z
+          date_amended: 2015-12-01T00:00:00.000Z
+          review_date: 2009-01-14T00:00:00.000Z
+          review_status: final
+          review_type: retirement
+          review_decision: accepted
+          review_decision_date: 2015-12-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19103:2015'
+          review_decision_notes: >-
+            The entry has been omitted from the superseding standard  (ISO
+            19103:2015). It has been replaced in that standard by the entry for
+            "object" included in ISO 19107:2003.
+          release: '-1'
+          terms:
+            - type: expression
+              designation: objekti <UML>
+              normative_status: null
+            - designation: olio
+              type: expression
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+fra:
+  id: 313
+  definition: >-
+    entité avec une frontière bien définie et une identité qui encapsule l'état
+    et le comportement
+  language_code: fra
+  notes: []
+  examples: []
+  entry_status: retired
+  authoritative_source:
+    ref: 'ISO/IEC 19501:2005 '
+    clause: (Adapted from)
+    link: 'https://www.iso.org/standard/32620.html'
+  lineage_source: 'ISO/TS 19103:2005'
+  lineage_source_similarity: 1
+  date_accepted: 2003-05-01T00:00:00.000Z
+  date_amended: 2015-12-01T00:00:00.000Z
+  review_date: 2009-01-14T00:00:00.000Z
+  review_status: final
+  review_type: retirement
+  review_decision: accepted
+  review_decision_date: 2015-12-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19103:2015'
+  review_decision_notes: >-
+    The entry has been omitted from the superseding standard  (ISO 19103:2015).
+    It has been replaced in that standard by the entry for "object" included in
+    ISO 19107:2003.
+  release: '-1'
+  terms:
+    - type: expression
+      designation: objet <UML>
+      normative_status: null
+  _revisions:
+    current: 6cff1a
+    tree:
+      6cff1a:
+        object:
+          id: 313
+          definition: >-
+            entité avec une frontière bien définie et une identité qui encapsule
+            l'état et le comportement
+          language_code: fra
+          notes: []
+          examples: []
+          entry_status: retired
+          authoritative_source:
+            ref: 'ISO/IEC 19501:2005 '
+            clause: (Adapted from)
+            link: 'https://www.iso.org/standard/32620.html'
+          lineage_source: 'ISO/TS 19103:2005'
+          lineage_source_similarity: 1
+          date_accepted: 2003-05-01T00:00:00.000Z
+          date_amended: 2015-12-01T00:00:00.000Z
+          review_date: 2009-01-14T00:00:00.000Z
+          review_status: final
+          review_type: retirement
+          review_decision: accepted
+          review_decision_date: 2015-12-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19103:2015'
+          review_decision_notes: >-
+            The entry has been omitted from the superseding standard  (ISO
+            19103:2015). It has been replaced in that standard by the entry for
+            "object" included in ISO 19107:2003.
+          release: '-1'
+          terms:
+            - type: expression
+              designation: objet <UML>
+              normative_status: null
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+deu:
+  id: 313
+  language_code: deu
+  notes:
+    - >-
+      State is represented by attributes and relationships, behaviour is
+      represented by operations, methods, and state machines. An object is an
+      instance of a class. See: class, instance.
+  examples: []
+  entry_status: retired
+  authoritative_source:
+    ref: 'ISO/IEC 19501:2005 '
+    clause: (Adapted from)
+    link: 'https://www.iso.org/standard/32620.html'
+  lineage_source: 'ISO/TS 19103:2005'
+  lineage_source_similarity: 1
+  date_accepted: 2003-05-01T00:00:00.000Z
+  date_amended: 2015-12-01T00:00:00.000Z
+  review_date: 2009-01-14T00:00:00.000Z
+  review_status: final
+  review_type: retirement
+  review_decision: accepted
+  review_decision_date: 2015-12-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19103:2015'
+  review_decision_notes: >-
+    The entry has been omitted from the superseding standard  (ISO 19103:2015).
+    It has been replaced in that standard by the entry for "object" included in
+    ISO 19107:2003.
+  release: '-1'
+  terms:
+    - type: expression
+      designation: Objekt <UML>
+      normative_status: null
+  _revisions:
+    current: b430b6
+    tree:
+      b430b6:
+        object:
+          id: 313
+          language_code: deu
+          notes:
+            - >-
+              State is represented by attributes and relationships, behaviour is
+              represented by operations, methods, and state machines. An object
+              is an instance of a class. See: class, instance.
+          examples: []
+          entry_status: retired
+          authoritative_source:
+            ref: 'ISO/IEC 19501:2005 '
+            clause: (Adapted from)
+            link: 'https://www.iso.org/standard/32620.html'
+          lineage_source: 'ISO/TS 19103:2005'
+          lineage_source_similarity: 1
+          date_accepted: 2003-05-01T00:00:00.000Z
+          date_amended: 2015-12-01T00:00:00.000Z
+          review_date: 2009-01-14T00:00:00.000Z
+          review_status: final
+          review_type: retirement
+          review_decision: accepted
+          review_decision_date: 2015-12-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19103:2015'
+          review_decision_notes: >-
+            The entry has been omitted from the superseding standard  (ISO
+            19103:2015). It has been replaced in that standard by the entry for
+            "object" included in ISO 19107:2003.
+          release: '-1'
+          terms:
+            - type: expression
+              designation: Objekt <UML>
+              normative_status: null
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+kor:
+  id: 313
+  definition: 상태와 행태를 캡슐화한 잘 정의된 경계와 식별특성을 갖는 개체
+  language_code: kor
+  notes:
+    - >-
+      상태는 속성과 관계에 의해 표현되고, 행태는 연산, 방법 그리고 상태 메커니즘을 통해 표현된다. 객체는 클래스의 인스턴스이다.
+      클래스, 인스턴스를 참조
+  examples: []
+  entry_status: retired
+  authoritative_source:
+    ref: 'ISO/IEC 19501:2005 '
+    clause: (Adapted from)
+    link: 'https://www.iso.org/standard/32620.html'
+  lineage_source: 'ISO/TS 19103:2005'
+  lineage_source_similarity: 1
+  date_accepted: 2003-05-01T00:00:00.000Z
+  date_amended: 2015-12-01T00:00:00.000Z
+  review_date: 2009-01-14T00:00:00.000Z
+  review_status: final
+  review_type: retirement
+  review_decision: accepted
+  review_decision_date: 2015-12-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19103:2015'
+  review_decision_notes: >-
+    The entry has been omitted from the superseding standard  (ISO 19103:2015).
+    It has been replaced in that standard by the entry for "object" included in
+    ISO 19107:2003.
+  release: '-1'
+  terms:
+    - type: expression
+      designation: 객체 <UML>
+      normative_status: null
+  _revisions:
+    current: 82edc1
+    tree:
+      82edc1:
+        object:
+          id: 313
+          definition: 상태와 행태를 캡슐화한 잘 정의된 경계와 식별특성을 갖는 개체
+          language_code: kor
+          notes:
+            - >-
+              상태는 속성과 관계에 의해 표현되고, 행태는 연산, 방법 그리고 상태 메커니즘을 통해 표현된다. 객체는 클래스의
+              인스턴스이다. 클래스, 인스턴스를 참조
+          examples: []
+          entry_status: retired
+          authoritative_source:
+            ref: 'ISO/IEC 19501:2005 '
+            clause: (Adapted from)
+            link: 'https://www.iso.org/standard/32620.html'
+          lineage_source: 'ISO/TS 19103:2005'
+          lineage_source_similarity: 1
+          date_accepted: 2003-05-01T00:00:00.000Z
+          date_amended: 2015-12-01T00:00:00.000Z
+          review_date: 2009-01-14T00:00:00.000Z
+          review_status: final
+          review_type: retirement
+          review_decision: accepted
+          review_decision_date: 2015-12-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19103:2015'
+          review_decision_notes: >-
+            The entry has been omitted from the superseding standard  (ISO
+            19103:2015). It has been replaced in that standard by the entry for
+            "object" included in ISO 19107:2003.
+          release: '-1'
+          terms:
+            - type: expression
+              designation: 객체 <UML>
+              normative_status: null
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 313
+  definition: >-
+    сущность с четко  определенными границами и индивидуальностью,
+    инкапсулирующая состояние и поведение
+  language_code: rus
+  notes:
+    - >-
+      Состояние описывается атрибутами и отношениями; поведение – операциями,
+      методами и конечными автоматами. Объект является экземпляром класса.
+
+      См. термины «класс», «экземпляр»
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO/IEC 19501:2005 '
+    clause: (Adapted from)
+    link: 'https://www.iso.org/standard/32620.html'
+  lineage_source: Internet
+  date_accepted: 2003-05-01T00:00:00.000Z
+  terms:
+    - type: expression
+      designation: объект <UML>
+      normative_status: preferred
+  _revisions:
+    current: 092819
+    tree:
+      092819:
+        object:
+          id: 313
+          definition: >-
+            сущность с четко  определенными границами и индивидуальностью,
+            инкапсулирующая состояние и поведение
+          language_code: rus
+          notes:
+            - >-
+              Состояние описывается атрибутами и отношениями; поведение –
+              операциями, методами и конечными автоматами. Объект является
+              экземпляром класса.
+
+              См. термины «класс», «экземпляр»
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO/IEC 19501:2005 '
+            clause: (Adapted from)
+            link: 'https://www.iso.org/standard/32620.html'
+          lineage_source: Internet
+          date_accepted: 2003-05-01T00:00:00.000Z
+          terms:
+            - type: expression
+              designation: объект <UML>
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 313
+  definition: >-
+    entidad con una frontera bien definida e identidad que encapsula estado y
+    comportamiento
+  language_code: spa
+  notes:
+    - >-
+      El estado se representa mediante atributos y relaciones, el comportamiento
+      se representa mediante operaciones, métodos y máquinas de estados. Un
+      objeto es una instancia de una clase. Véase: clase, instancia.
+  examples: []
+  entry_status: retired
+  authoritative_source:
+    ref: 'ISO/IEC 19501:2005 '
+    clause: (Adapted from)
+    link: 'https://www.iso.org/standard/32620.html'
+  lineage_source: 'ISO/TS 19103:2005'
+  lineage_source_similarity: 1
+  date_accepted: 2003-05-01T00:00:00.000Z
+  date_amended: 2015-12-01T00:00:00.000Z
+  review_date: 2009-01-14T00:00:00.000Z
+  review_status: final
+  review_type: retirement
+  review_decision: accepted
+  review_decision_date: 2015-12-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19103:2015'
+  review_decision_notes: >-
+    The entry has been omitted from the superseding standard  (ISO 19103:2015).
+    It has been replaced in that standard by the entry for "object" included in
+    ISO 19107:2003.
+  release: '-1'
+  terms:
+    - type: expression
+      designation: objeto <UML>
+      normative_status: null
+  _revisions:
+    current: bf3673
+    tree:
+      bf3673:
+        object:
+          id: 313
+          definition: >-
+            entidad con una frontera bien definida e identidad que encapsula
+            estado y comportamiento
+          language_code: spa
+          notes:
+            - >-
+              El estado se representa mediante atributos y relaciones, el
+              comportamiento se representa mediante operaciones, métodos y
+              máquinas de estados. Un objeto es una instancia de una clase.
+              Véase: clase, instancia.
+          examples: []
+          entry_status: retired
+          authoritative_source:
+            ref: 'ISO/IEC 19501:2005 '
+            clause: (Adapted from)
+            link: 'https://www.iso.org/standard/32620.html'
+          lineage_source: 'ISO/TS 19103:2005'
+          lineage_source_similarity: 1
+          date_accepted: 2003-05-01T00:00:00.000Z
+          date_amended: 2015-12-01T00:00:00.000Z
+          review_date: 2009-01-14T00:00:00.000Z
+          review_status: final
+          review_type: retirement
+          review_decision: accepted
+          review_decision_date: 2015-12-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19103:2015'
+          review_decision_notes: >-
+            The entry has been omitted from the superseding standard  (ISO
+            19103:2015). It has been replaced in that standard by the entry for
+            "object" included in ISO 19107:2003.
+          release: '-1'
+          terms:
+            - type: expression
+              designation: objeto <UML>
+              normative_status: null
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+swe:
+  id: 313
+  definition: UML-element som anger datauppgifter för en  instans av en klass
+  country_code: swe
+  language_code: swe
+  notes:
+    - >-
+      State is represented by attributes and relationships, behaviour is
+      represented by operations, methods, and state machines. An object is an
+      instance of a class. See: class, instance.
+  examples: []
+  entry_status: retired
+  authoritative_source:
+    ref: 'ISO/IEC 19501:2005 '
+    clause: (Adapted from)
+    link: 'https://www.iso.org/standard/32620.html'
+  lineage_source: 'ISO/TS 19103:2005'
+  lineage_source_similarity: 1
+  date_accepted: 2003-05-01T00:00:00.000Z
+  date_amended: 2015-12-01T00:00:00.000Z
+  review_date: 2009-01-14T00:00:00.000Z
+  review_status: final
+  review_type: retirement
+  review_decision: accepted
+  review_decision_date: 2015-12-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19103:2015'
+  review_decision_notes: >-
+    The entry has been omitted from the superseding standard  (ISO 19103:2015).
+    It has been replaced in that standard by the entry for "object" included in
+    ISO 19107:2003.
+  release: '-1'
+  terms:
+    - type: expression
+      designation: objekt <UML>
+      normative_status: null
+  _revisions:
+    current: 46bfbc
+    tree:
+      46bfbc:
+        object:
+          id: 313
+          definition: UML-element som anger datauppgifter för en  instans av en klass
+          country_code: swe
+          language_code: swe
+          notes:
+            - >-
+              State is represented by attributes and relationships, behaviour is
+              represented by operations, methods, and state machines. An object
+              is an instance of a class. See: class, instance.
+          examples: []
+          entry_status: retired
+          authoritative_source:
+            ref: 'ISO/IEC 19501:2005 '
+            clause: (Adapted from)
+            link: 'https://www.iso.org/standard/32620.html'
+          lineage_source: 'ISO/TS 19103:2005'
+          lineage_source_similarity: 1
+          date_accepted: 2003-05-01T00:00:00.000Z
+          date_amended: 2015-12-01T00:00:00.000Z
+          review_date: 2009-01-14T00:00:00.000Z
+          review_status: final
+          review_type: retirement
+          review_decision: accepted
+          review_decision_date: 2015-12-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19103:2015'
+          review_decision_notes: >-
+            The entry has been omitted from the superseding standard  (ISO
+            19103:2015). It has been replaced in that standard by the entry for
+            "object" included in ISO 19107:2003.
+          release: '-1'
+          terms:
+            - type: expression
+              designation: objekt <UML>
+              normative_status: null
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

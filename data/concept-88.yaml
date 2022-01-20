@@ -1,0 +1,1016 @@
+term: coordinate
+termid: 88
+eng:
+  id: 88
+  definition: >-
+    one of a sequence of n numbers designating the position of a point in
+    n-dimensional space
+  language_code: eng
+  notes:
+    - >-
+      In a coordinate reference system, the coordinate numbers are qualified by
+      units.
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19111:2007'
+    link: 'https://www.iso.org/standard/41126.html'
+  lineage_source: 'ISO 19111:2003'
+  lineage_source_similarity: 1
+  date_accepted: 2003-02-15T00:00:00.000Z
+  date_amended: 2019-01-31T00:00:00.000Z
+  review_date: 2019-01-31T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2019-01-31T00:00:00.000Z
+  review_decision_event: 'Publication of document ISO 19111:2019(E)'
+  review_decision_notes: 'This entry is superseded by the entry for coordinate in ISO 19111:2019(E)'
+  release: '-1'
+  terms:
+    - type: expression
+      designation: coordinate
+      normative_status: null
+  _revisions:
+    current: '986500'
+    tree:
+      '986500':
+        object:
+          id: 88
+          definition: >-
+            one of a sequence of n numbers designating the position of a point
+            in n-dimensional space
+          language_code: eng
+          notes:
+            - >-
+              In a coordinate reference system, the coordinate numbers are
+              qualified by units.
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19111:2007'
+            link: 'https://www.iso.org/standard/41126.html'
+          lineage_source: 'ISO 19111:2003'
+          lineage_source_similarity: 1
+          date_accepted: 2003-02-15T00:00:00.000Z
+          date_amended: 2019-01-31T00:00:00.000Z
+          review_date: 2019-01-31T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2019-01-31T00:00:00.000Z
+          review_decision_event: 'Publication of document ISO 19111:2019(E)'
+          review_decision_notes: >-
+            This entry is superseded by the entry for coordinate in ISO
+            19111:2019(E)
+          release: '-1'
+          terms:
+            - type: expression
+              designation: coordinate
+              normative_status: null
+        parents: []
+        timeCreated: 2003-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+ara:
+  id: 88
+  definition: واحد من سلسلة أعداد (ع) تحدد موقع نقطة في حيز مكاني أبعاده (ع)
+  language_code: ara
+  notes:
+    - في نظام الإحداثيات المرجعي توصف أعداد الإحداثيات بالوحدات.
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19111:2007'
+    link: 'https://www.iso.org/standard/41126.html'
+  lineage_source: 'ISO 19111:2003'
+  lineage_source_similarity: 1
+  date_accepted: 2003-02-15T00:00:00.000Z
+  date_amended: 2019-01-31T00:00:00.000Z
+  review_date: 2019-01-31T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2019-01-31T00:00:00.000Z
+  review_decision_event: 'Publication of document ISO 19111:2019(E)'
+  review_decision_notes: 'This entry is superseded by the entry for coordinate in ISO 19111:2019(E)'
+  release: '-1'
+  terms:
+    - type: expression
+      designation: إحداثي
+      normative_status: null
+  _revisions:
+    current: e27c80
+    tree:
+      e27c80:
+        object:
+          id: 88
+          definition: واحد من سلسلة أعداد (ع) تحدد موقع نقطة في حيز مكاني أبعاده (ع)
+          language_code: ara
+          notes:
+            - في نظام الإحداثيات المرجعي توصف أعداد الإحداثيات بالوحدات.
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19111:2007'
+            link: 'https://www.iso.org/standard/41126.html'
+          lineage_source: 'ISO 19111:2003'
+          lineage_source_similarity: 1
+          date_accepted: 2003-02-15T00:00:00.000Z
+          date_amended: 2019-01-31T00:00:00.000Z
+          review_date: 2019-01-31T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2019-01-31T00:00:00.000Z
+          review_decision_event: 'Publication of document ISO 19111:2019(E)'
+          review_decision_notes: >-
+            This entry is superseded by the entry for coordinate in ISO
+            19111:2019(E)
+          release: '-1'
+          terms:
+            - type: expression
+              designation: إحداثي
+              normative_status: null
+        parents: []
+        timeCreated: 2003-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+zho:
+  id: 88
+  definition: 表示一个点在n维空间中位置的n个数值组成的有序数之一。
+  language_code: zho
+  notes:
+    - '在一个坐标参照系中,坐标数值受限于单位。'
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19111:2007'
+    link: 'https://www.iso.org/standard/41126.html'
+  lineage_source: 'ISO 19111:2003'
+  lineage_source_similarity: 1
+  date_accepted: 2003-02-15T00:00:00.000Z
+  date_amended: 2019-01-31T00:00:00.000Z
+  review_date: 2019-01-31T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2019-01-31T00:00:00.000Z
+  review_decision_event: 'Publication of document ISO 19111:2019(E)'
+  review_decision_notes: 'This entry is superseded by the entry for coordinate in ISO 19111:2019(E)'
+  release: '-1'
+  terms:
+    - type: expression
+      designation: 坐标
+      normative_status: null
+  _revisions:
+    current: d8cafc
+    tree:
+      d8cafc:
+        object:
+          id: 88
+          definition: 表示一个点在n维空间中位置的n个数值组成的有序数之一。
+          language_code: zho
+          notes:
+            - '在一个坐标参照系中,坐标数值受限于单位。'
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19111:2007'
+            link: 'https://www.iso.org/standard/41126.html'
+          lineage_source: 'ISO 19111:2003'
+          lineage_source_similarity: 1
+          date_accepted: 2003-02-15T00:00:00.000Z
+          date_amended: 2019-01-31T00:00:00.000Z
+          review_date: 2019-01-31T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2019-01-31T00:00:00.000Z
+          review_decision_event: 'Publication of document ISO 19111:2019(E)'
+          review_decision_notes: >-
+            This entry is superseded by the entry for coordinate in ISO
+            19111:2019(E)
+          release: '-1'
+          terms:
+            - type: expression
+              designation: 坐标
+              normative_status: null
+        parents: []
+        timeCreated: 2003-02-15T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+dan:
+  id: 88
+  definition: >-
+    et af en sekvens af n tal, der betegner positionen af et punkt i det
+    n-dimensionale rum
+  language_code: dan
+  notes:
+    - I et koordinatsystem skal tallene bestemmes ved hjælp af enheder.
+    - >-
+      En koordinatoperation udføres på koordinater i et kildesystem, der
+      resulterer i koordinater i et målsystem.
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19111:2007'
+    link: 'https://www.iso.org/standard/41126.html'
+  lineage_source: 'ISO 19111:2003'
+  lineage_source_similarity: 1
+  date_accepted: 2003-02-15T00:00:00.000Z
+  date_amended: 2019-01-31T00:00:00.000Z
+  review_date: 2019-01-31T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2019-01-31T00:00:00.000Z
+  review_decision_event: 'Publication of document ISO 19111:2019(E)'
+  review_decision_notes: 'This entry is superseded by the entry for coordinate in ISO 19111:2019(E)'
+  release: '-1'
+  terms:
+    - type: expression
+      designation: koordinat
+      normative_status: null
+  _revisions:
+    current: 63929b
+    tree:
+      63929b:
+        object:
+          id: 88
+          definition: >-
+            et af en sekvens af n tal, der betegner positionen af et punkt i det
+            n-dimensionale rum
+          language_code: dan
+          notes:
+            - I et koordinatsystem skal tallene bestemmes ved hjælp af enheder.
+            - >-
+              En koordinatoperation udføres på koordinater i et kildesystem, der
+              resulterer i koordinater i et målsystem.
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19111:2007'
+            link: 'https://www.iso.org/standard/41126.html'
+          lineage_source: 'ISO 19111:2003'
+          lineage_source_similarity: 1
+          date_accepted: 2003-02-15T00:00:00.000Z
+          date_amended: 2019-01-31T00:00:00.000Z
+          review_date: 2019-01-31T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2019-01-31T00:00:00.000Z
+          review_decision_event: 'Publication of document ISO 19111:2019(E)'
+          review_decision_notes: >-
+            This entry is superseded by the entry for coordinate in ISO
+            19111:2019(E)
+          release: '-1'
+          terms:
+            - type: expression
+              designation: koordinat
+              normative_status: null
+        parents: []
+        timeCreated: 2003-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+nld:
+  id: 88
+  definition: >-
+    getal in een sequentie van n getallen om de positie van een punt in een
+    n-dimensionale ruimte te bepalen
+  language_code: nld
+  notes:
+    - >-
+      In een coördinaatreferentiesysteem worden de coördinaatwaarden
+      gekwalificeerd door eenheden.
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19111:2007'
+    link: 'https://www.iso.org/standard/41126.html'
+  lineage_source: 'ISO 19111:2003'
+  lineage_source_similarity: 1
+  date_accepted: 2003-02-15T00:00:00.000Z
+  date_amended: 2019-01-31T00:00:00.000Z
+  review_date: 2019-01-31T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2019-01-31T00:00:00.000Z
+  review_decision_event: 'Publication of document ISO 19111:2019(E)'
+  review_decision_notes: 'This entry is superseded by the entry for coordinate in ISO 19111:2019(E)'
+  release: '-1'
+  terms:
+    - type: expression
+      designation: coördinaat
+      normative_status: null
+    - designation: coordinate
+      type: expression
+  _revisions:
+    current: e60d92
+    tree:
+      e60d92:
+        object:
+          id: 88
+          definition: >-
+            getal in een sequentie van n getallen om de positie van een punt in
+            een n-dimensionale ruimte te bepalen
+          language_code: nld
+          notes:
+            - >-
+              In een coördinaatreferentiesysteem worden de coördinaatwaarden
+              gekwalificeerd door eenheden.
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19111:2007'
+            link: 'https://www.iso.org/standard/41126.html'
+          lineage_source: 'ISO 19111:2003'
+          lineage_source_similarity: 1
+          date_accepted: 2003-02-15T00:00:00.000Z
+          date_amended: 2019-01-31T00:00:00.000Z
+          review_date: 2019-01-31T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2019-01-31T00:00:00.000Z
+          review_decision_event: 'Publication of document ISO 19111:2019(E)'
+          review_decision_notes: >-
+            This entry is superseded by the entry for coordinate in ISO
+            19111:2019(E)
+          release: '-1'
+          terms:
+            - type: expression
+              designation: coördinaat
+              normative_status: null
+            - designation: coordinate
+              type: expression
+        parents: []
+        timeCreated: 2003-02-15T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+fin:
+  id: 88
+  definition: >-
+    kukin n:stä järjestetystä lukuarvosta, jotka määrittelevät pisteen sijainnin
+    valitussa n-ulotteisessa avaruudessa
+  language_code: fin
+  notes:
+    - Koordinaattijärjestelmässä koordinaatteihin on liitetty mittayksiköt.
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19111:2007'
+    link: 'https://www.iso.org/standard/41126.html'
+  lineage_source: 'ISO 19111:2003'
+  lineage_source_similarity: 1
+  date_accepted: 2003-02-15T00:00:00.000Z
+  date_amended: 2019-01-31T00:00:00.000Z
+  review_date: 2019-01-31T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2019-01-31T00:00:00.000Z
+  review_decision_event: 'Publication of document ISO 19111:2019(E)'
+  review_decision_notes: 'This entry is superseded by the entry for coordinate in ISO 19111:2019(E)'
+  release: '-1'
+  terms:
+    - type: expression
+      designation: koordinaatti
+      normative_status: null
+  _revisions:
+    current: 9c2dd2
+    tree:
+      9c2dd2:
+        object:
+          id: 88
+          definition: >-
+            kukin n:stä järjestetystä lukuarvosta, jotka määrittelevät pisteen
+            sijainnin valitussa n-ulotteisessa avaruudessa
+          language_code: fin
+          notes:
+            - >-
+              Koordinaattijärjestelmässä koordinaatteihin on liitetty
+              mittayksiköt.
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19111:2007'
+            link: 'https://www.iso.org/standard/41126.html'
+          lineage_source: 'ISO 19111:2003'
+          lineage_source_similarity: 1
+          date_accepted: 2003-02-15T00:00:00.000Z
+          date_amended: 2019-01-31T00:00:00.000Z
+          review_date: 2019-01-31T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2019-01-31T00:00:00.000Z
+          review_decision_event: 'Publication of document ISO 19111:2019(E)'
+          review_decision_notes: >-
+            This entry is superseded by the entry for coordinate in ISO
+            19111:2019(E)
+          release: '-1'
+          terms:
+            - type: expression
+              designation: koordinaatti
+              normative_status: null
+        parents: []
+        timeCreated: 2003-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+fra:
+  id: 88
+  definition: >-
+    élément d'un n-uplet désignant la position d'un point dans un espace de
+    dimension n
+  language_code: fra
+  notes: []
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19111:2007'
+    link: 'https://www.iso.org/standard/41126.html'
+  lineage_source: 'ISO 19111:2003'
+  lineage_source_similarity: 1
+  date_accepted: 2003-02-15T00:00:00.000Z
+  date_amended: 2019-01-31T00:00:00.000Z
+  review_date: 2019-01-31T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2019-01-31T00:00:00.000Z
+  review_decision_event: 'Publication of document ISO 19111:2019(E)'
+  review_decision_notes: 'This entry is superseded by the entry for coordinate in ISO 19111:2019(E)'
+  release: '-1'
+  terms:
+    - type: expression
+      designation: coordonnée
+      normative_status: null
+  _revisions:
+    current: cf496e
+    tree:
+      cf496e:
+        object:
+          id: 88
+          definition: >-
+            élément d'un n-uplet désignant la position d'un point dans un espace
+            de dimension n
+          language_code: fra
+          notes: []
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19111:2007'
+            link: 'https://www.iso.org/standard/41126.html'
+          lineage_source: 'ISO 19111:2003'
+          lineage_source_similarity: 1
+          date_accepted: 2003-02-15T00:00:00.000Z
+          date_amended: 2019-01-31T00:00:00.000Z
+          review_date: 2019-01-31T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2019-01-31T00:00:00.000Z
+          review_decision_event: 'Publication of document ISO 19111:2019(E)'
+          review_decision_notes: >-
+            This entry is superseded by the entry for coordinate in ISO
+            19111:2019(E)
+          release: '-1'
+          terms:
+            - type: expression
+              designation: coordonnée
+              normative_status: null
+        parents: []
+        timeCreated: 2003-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+deu:
+  id: 88
+  definition: >-
+    eine aus der Folge von n Zahlen, die die Position eines Punktes im
+    n-dimensionalen Raum beschreiben
+  language_code: deu
+  notes:
+    - >-
+      In a coordinate reference system, the coordinate numbers are qualified by
+      units.
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19111:2007'
+    link: 'https://www.iso.org/standard/41126.html'
+  lineage_source: 'ISO 19111:2003'
+  lineage_source_similarity: 1
+  date_accepted: 2003-02-15T00:00:00.000Z
+  date_amended: 2019-01-31T00:00:00.000Z
+  review_date: 2019-01-31T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2019-01-31T00:00:00.000Z
+  review_decision_event: 'Publication of document ISO 19111:2019(E)'
+  review_decision_notes: 'This entry is superseded by the entry for coordinate in ISO 19111:2019(E)'
+  release: '-1'
+  terms:
+    - type: expression
+      designation: Koordinate
+      normative_status: null
+  _revisions:
+    current: d26c38
+    tree:
+      d26c38:
+        object:
+          id: 88
+          definition: >-
+            eine aus der Folge von n Zahlen, die die Position eines Punktes im
+            n-dimensionalen Raum beschreiben
+          language_code: deu
+          notes:
+            - >-
+              In a coordinate reference system, the coordinate numbers are
+              qualified by units.
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19111:2007'
+            link: 'https://www.iso.org/standard/41126.html'
+          lineage_source: 'ISO 19111:2003'
+          lineage_source_similarity: 1
+          date_accepted: 2003-02-15T00:00:00.000Z
+          date_amended: 2019-01-31T00:00:00.000Z
+          review_date: 2019-01-31T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2019-01-31T00:00:00.000Z
+          review_decision_event: 'Publication of document ISO 19111:2019(E)'
+          review_decision_notes: >-
+            This entry is superseded by the entry for coordinate in ISO
+            19111:2019(E)
+          release: '-1'
+          terms:
+            - type: expression
+              designation: Koordinate
+              normative_status: null
+        parents: []
+        timeCreated: 2003-02-15T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+kor:
+  id: 88
+  definition: n차원의 공간에서 점의 위치를 표현하는 n개의 숫자 연속
+  language_code: kor
+  notes:
+    - 좌표 참조 체계에서 좌표를 나타내는 숫자는 적합한 단위를 사용해야 한다.
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19111:2007'
+    link: 'https://www.iso.org/standard/41126.html'
+  lineage_source: 'ISO 19111:2003'
+  lineage_source_similarity: 1
+  date_accepted: 2003-02-15T00:00:00.000Z
+  date_amended: 2019-01-31T00:00:00.000Z
+  review_date: 2019-01-31T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2019-01-31T00:00:00.000Z
+  review_decision_event: 'Publication of document ISO 19111:2019(E)'
+  review_decision_notes: 'This entry is superseded by the entry for coordinate in ISO 19111:2019(E)'
+  release: '-1'
+  terms:
+    - type: expression
+      designation: 좌표
+      normative_status: null
+  _revisions:
+    current: 0b942e
+    tree:
+      0b942e:
+        object:
+          id: 88
+          definition: n차원의 공간에서 점의 위치를 표현하는 n개의 숫자 연속
+          language_code: kor
+          notes:
+            - 좌표 참조 체계에서 좌표를 나타내는 숫자는 적합한 단위를 사용해야 한다.
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19111:2007'
+            link: 'https://www.iso.org/standard/41126.html'
+          lineage_source: 'ISO 19111:2003'
+          lineage_source_similarity: 1
+          date_accepted: 2003-02-15T00:00:00.000Z
+          date_amended: 2019-01-31T00:00:00.000Z
+          review_date: 2019-01-31T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2019-01-31T00:00:00.000Z
+          review_decision_event: 'Publication of document ISO 19111:2019(E)'
+          review_decision_notes: >-
+            This entry is superseded by the entry for coordinate in ISO
+            19111:2019(E)
+          release: '-1'
+          terms:
+            - type: expression
+              designation: 좌표
+              normative_status: null
+        parents: []
+        timeCreated: 2003-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+msa:
+  id: 88
+  definition: >-
+    pasangan nombor yg menentukan kedudukan sesuatu titik pd ruang yg ukurannya
+    diberikan
+  language_code: msa
+  notes:
+    - >-
+      In a coordinate reference system, the coordinate numbers are qualified by
+      units.
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19111:2007'
+    link: 'https://www.iso.org/standard/41126.html'
+  lineage_source: 'ISO 19111:2003'
+  lineage_source_similarity: 1
+  date_accepted: 2003-02-15T00:00:00.000Z
+  date_amended: 2019-01-31T00:00:00.000Z
+  review_date: 2019-01-31T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2019-01-31T00:00:00.000Z
+  review_decision_event: 'Publication of document ISO 19111:2019(E)'
+  review_decision_notes: 'This entry is superseded by the entry for coordinate in ISO 19111:2019(E)'
+  release: '-1'
+  terms:
+    - type: expression
+      designation: koordinat
+      normative_status: null
+  _revisions:
+    current: e079d4
+    tree:
+      e079d4:
+        object:
+          id: 88
+          definition: >-
+            pasangan nombor yg menentukan kedudukan sesuatu titik pd ruang yg
+            ukurannya diberikan
+          language_code: msa
+          notes:
+            - >-
+              In a coordinate reference system, the coordinate numbers are
+              qualified by units.
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19111:2007'
+            link: 'https://www.iso.org/standard/41126.html'
+          lineage_source: 'ISO 19111:2003'
+          lineage_source_similarity: 1
+          date_accepted: 2003-02-15T00:00:00.000Z
+          date_amended: 2019-01-31T00:00:00.000Z
+          review_date: 2019-01-31T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2019-01-31T00:00:00.000Z
+          review_decision_event: 'Publication of document ISO 19111:2019(E)'
+          review_decision_notes: >-
+            This entry is superseded by the entry for coordinate in ISO
+            19111:2019(E)
+          release: '-1'
+          terms:
+            - type: expression
+              designation: koordinat
+              normative_status: null
+        parents: []
+        timeCreated: 2003-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+pol:
+  id: 88
+  definition: >-
+    jedna liczba z sekwencji n liczb oznaczających pozycję punktu w przestrzeni
+    n-wymiarowej
+  language_code: pol
+  notes:
+    - W systemie odniesienia liczby te są oznaczone jednostkami.
+  examples: []
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19111:2007'
+    link: 'https://www.iso.org/standard/41126.html'
+  lineage_source: 'ISO 19111:2003'
+  lineage_source_similarity: 1
+  date_accepted: 2003-02-15T00:00:00.000Z
+  date_amended: 2019-01-31T00:00:00.000Z
+  review_date: 2019-01-31T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2019-01-31T00:00:00.000Z
+  review_decision_event: 'Publication of document ISO 19111:2019(E)'
+  review_decision_notes: 'This entry is superseded by the entry for coordinate in ISO 19111:2019(E)'
+  release: '-1'
+  terms:
+    - type: expression
+      designation: współrzędna
+      normative_status: null
+  _revisions:
+    current: '958479'
+    tree:
+      '958479':
+        object:
+          id: 88
+          definition: >-
+            jedna liczba z sekwencji n liczb oznaczających pozycję punktu w
+            przestrzeni n-wymiarowej
+          language_code: pol
+          notes:
+            - W systemie odniesienia liczby te są oznaczone jednostkami.
+          examples: []
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19111:2007'
+            link: 'https://www.iso.org/standard/41126.html'
+          lineage_source: 'ISO 19111:2003'
+          lineage_source_similarity: 1
+          date_accepted: 2003-02-15T00:00:00.000Z
+          date_amended: 2019-01-31T00:00:00.000Z
+          review_date: 2019-01-31T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2019-01-31T00:00:00.000Z
+          review_decision_event: 'Publication of document ISO 19111:2019(E)'
+          review_decision_notes: >-
+            This entry is superseded by the entry for coordinate in ISO
+            19111:2019(E)
+          release: '-1'
+          terms:
+            - type: expression
+              designation: współrzędna
+              normative_status: null
+        parents: []
+        timeCreated: 2003-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 88
+  definition: >-
+    число из упорядоченного набора N чисел, описывающих положение пункта в
+    N-мерном пространстве
+  language_code: rus
+  notes: []
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19111:2007'
+    link: 'https://www.iso.org/standard/41126.html'
+  lineage_source: 'ISO 19111:2003'
+  lineage_source_similarity: 1
+  date_accepted: 2003-02-15T00:00:00.000Z
+  date_amended: 2019-01-31T00:00:00.000Z
+  review_date: 2019-01-31T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2019-01-31T00:00:00.000Z
+  review_decision_event: 'Publication of document ISO 19111:2019(E)'
+  review_decision_notes: 'This entry is superseded by the entry for coordinate in ISO 19111:2019(E)'
+  release: '-1'
+  terms:
+    - type: expression
+      designation: координата
+      normative_status: null
+  _revisions:
+    current: 9b6efd
+    tree:
+      9b6efd:
+        object:
+          id: 88
+          definition: >-
+            число из упорядоченного набора N чисел, описывающих положение пункта
+            в N-мерном пространстве
+          language_code: rus
+          notes: []
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19111:2007'
+            link: 'https://www.iso.org/standard/41126.html'
+          lineage_source: 'ISO 19111:2003'
+          lineage_source_similarity: 1
+          date_accepted: 2003-02-15T00:00:00.000Z
+          date_amended: 2019-01-31T00:00:00.000Z
+          review_date: 2019-01-31T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2019-01-31T00:00:00.000Z
+          review_decision_event: 'Publication of document ISO 19111:2019(E)'
+          review_decision_notes: >-
+            This entry is superseded by the entry for coordinate in ISO
+            19111:2019(E)
+          release: '-1'
+          terms:
+            - type: expression
+              designation: координата
+              normative_status: null
+        parents: []
+        timeCreated: 2003-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 88
+  definition: >-
+    cualquiera de los n números de una secuencia que designa la posición de un
+    punto en un sistema n-dimensional
+  language_code: spa
+  notes:
+    - >-
+      En un sistema de referencia de coordenadas, los números de las coordenadas
+      están calificados con unidades.
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19111:2007'
+    link: 'https://www.iso.org/standard/41126.html'
+  lineage_source: 'ISO 19111:2003'
+  lineage_source_similarity: 1
+  date_accepted: 2003-02-15T00:00:00.000Z
+  date_amended: 2019-01-31T00:00:00.000Z
+  review_date: 2019-01-31T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2019-01-31T00:00:00.000Z
+  review_decision_event: 'Publication of document ISO 19111:2019(E)'
+  review_decision_notes: 'This entry is superseded by the entry for coordinate in ISO 19111:2019(E)'
+  release: '-1'
+  terms:
+    - type: expression
+      designation: coordenada
+      normative_status: null
+  _revisions:
+    current: 3b178d
+    tree:
+      3b178d:
+        object:
+          id: 88
+          definition: >-
+            cualquiera de los n números de una secuencia que designa la posición
+            de un punto en un sistema n-dimensional
+          language_code: spa
+          notes:
+            - >-
+              En un sistema de referencia de coordenadas, los números de las
+              coordenadas están calificados con unidades.
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19111:2007'
+            link: 'https://www.iso.org/standard/41126.html'
+          lineage_source: 'ISO 19111:2003'
+          lineage_source_similarity: 1
+          date_accepted: 2003-02-15T00:00:00.000Z
+          date_amended: 2019-01-31T00:00:00.000Z
+          review_date: 2019-01-31T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2019-01-31T00:00:00.000Z
+          review_decision_event: 'Publication of document ISO 19111:2019(E)'
+          review_decision_notes: >-
+            This entry is superseded by the entry for coordinate in ISO
+            19111:2019(E)
+          release: '-1'
+          terms:
+            - type: expression
+              designation: coordenada
+              normative_status: null
+        parents: []
+        timeCreated: 2003-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+swe:
+  id: 88
+  definition: >-
+    ett av de n tal som tillsammans anger en punkts läge i ett n-dimesionellt
+    rum
+  country_code: swe
+  language_code: swe
+  notes:
+    - >-
+      In a coordinate reference system, the coordinate numbers are qualified by
+      units.
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19111:2007'
+    link: 'https://www.iso.org/standard/41126.html'
+  lineage_source: 'ISO 19111:2003'
+  lineage_source_similarity: 1
+  date_accepted: 2003-02-15T00:00:00.000Z
+  date_amended: 2019-01-31T00:00:00.000Z
+  review_date: 2019-01-31T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2019-01-31T00:00:00.000Z
+  review_decision_event: 'Publication of document ISO 19111:2019(E)'
+  review_decision_notes: 'This entry is superseded by the entry for coordinate in ISO 19111:2019(E)'
+  release: '-1'
+  terms:
+    - type: expression
+      designation: koordinat
+      normative_status: null
+  _revisions:
+    current: 8142a0
+    tree:
+      8142a0:
+        object:
+          id: 88
+          definition: >-
+            ett av de n tal som tillsammans anger en punkts läge i ett
+            n-dimesionellt rum
+          country_code: swe
+          language_code: swe
+          notes:
+            - >-
+              In a coordinate reference system, the coordinate numbers are
+              qualified by units.
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19111:2007'
+            link: 'https://www.iso.org/standard/41126.html'
+          lineage_source: 'ISO 19111:2003'
+          lineage_source_similarity: 1
+          date_accepted: 2003-02-15T00:00:00.000Z
+          date_amended: 2019-01-31T00:00:00.000Z
+          review_date: 2019-01-31T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2019-01-31T00:00:00.000Z
+          review_decision_event: 'Publication of document ISO 19111:2019(E)'
+          review_decision_notes: >-
+            This entry is superseded by the entry for coordinate in ISO
+            19111:2019(E)
+          release: '-1'
+          terms:
+            - type: expression
+              designation: koordinat
+              normative_status: null
+        parents: []
+        timeCreated: 2003-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

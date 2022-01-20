@@ -1,0 +1,63 @@
+term: positioning process
+termid: 2452
+eng:
+  id: 2452
+  definition: >-
+    computational process that determines, directly from measurements, the
+    geodetic coordinates of points (absolute positioning), or that derives
+    geodetic coordinates of points from previously determined geodetic
+    coordinates (relative positioning)
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: '19161-1:2020'
+    clause: '(E), 3.3'
+  date_accepted: 2020-01-24T00:00:00.000Z
+  review_date: 2020-01-24T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2020-01-24T00:00:00.000Z
+  review_decision_event: Normal ISO processing
+  review_decision_notes: 'Publication of document 19161-1:2020(E)'
+  release: '5'
+  terms:
+    - type: expression
+      designation: positioning process
+      normative_status: preferred
+  _revisions:
+    current: 5e0cc6
+    tree:
+      5e0cc6:
+        object:
+          id: 2452
+          definition: >-
+            computational process that determines, directly from measurements,
+            the geodetic coordinates of points (absolute positioning), or that
+            derives geodetic coordinates of points from previously determined
+            geodetic coordinates (relative positioning)
+          language_code: eng
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: '19161-1:2020'
+            clause: '(E), 3.3'
+          date_accepted: 2020-01-24T00:00:00.000Z
+          review_date: 2020-01-24T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2020-01-24T00:00:00.000Z
+          review_decision_event: Normal ISO processing
+          review_decision_notes: 'Publication of document 19161-1:2020(E)'
+          release: '5'
+          terms:
+            - type: expression
+              designation: positioning process
+              normative_status: preferred
+        parents: []
+        timeCreated: 2020-01-24T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

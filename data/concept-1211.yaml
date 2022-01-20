@@ -1,0 +1,220 @@
+term: authorization
+termid: 1211
+eng:
+  id: 1211
+  definition: >-
+    determination whether a subject is allowed to have the specified types of
+    access to a particular resource
+  language_code: eng
+  notes:
+    - >-
+      Usually, authorization is in the context of authentication. Once a subject
+      is authenticated, it can be authorized to perform different types of
+      access.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19153:2014'
+    clause: '4.5'
+    link: 'https://www.iso.org/standard/32571.html'
+  date_accepted: 2014-02-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: authorization
+      normative_status: preferred
+  _revisions:
+    current: 3833c3
+    tree:
+      3833c3:
+        object:
+          id: 1211
+          definition: >-
+            determination whether a subject is allowed to have the specified
+            types of access to a particular resource
+          language_code: eng
+          notes:
+            - >-
+              Usually, authorization is in the context of authentication. Once a
+              subject is authenticated, it can be authorized to perform
+              different types of access.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19153:2014'
+            clause: '4.5'
+            link: 'https://www.iso.org/standard/32571.html'
+          date_accepted: 2014-02-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: authorization
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+kor:
+  id: 1211
+  definition: 어떤 대상이 특정 자원에 대한 명시적 권한을 부여받을 지에 대해 결정하는 것
+  language_code: kor
+  notes:
+    - >-
+      Usually, authorization is in the context of authentication. Once a subject
+      is authenticated, it can be authorized to perform different types of
+      access.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19153:2014'
+    clause: '4.5'
+    link: 'https://www.iso.org/standard/32571.html'
+  date_accepted: 2014-02-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: 인가
+      normative_status: preferred
+  _revisions:
+    current: e58bf7
+    tree:
+      e58bf7:
+        object:
+          id: 1211
+          definition: 어떤 대상이 특정 자원에 대한 명시적 권한을 부여받을 지에 대해 결정하는 것
+          language_code: kor
+          notes:
+            - >-
+              Usually, authorization is in the context of authentication. Once a
+              subject is authenticated, it can be authorized to perform
+              different types of access.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19153:2014'
+            clause: '4.5'
+            link: 'https://www.iso.org/standard/32571.html'
+          date_accepted: 2014-02-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: 인가
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 1211
+  definition: >-
+    определение того, разрешено ли субъекту иметь указанные типы доступа к
+    определенному ресурсу
+  language_code: rus
+  notes:
+    - >-
+      Как правило, авторизация выполняется в контексте аутентификации (4.4). Как
+      только объект аутентифицирован, ему может быть разрешено выполнять
+      различные типы доступа
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19153:2014'
+    clause: '4.5'
+    link: 'https://www.iso.org/standard/32571.html'
+  lineage_source: 'перевод ИСО 19153:2014'
+  date_accepted: 2014-02-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: авторизация
+      normative_status: preferred
+  _revisions:
+    current: 2d29a9
+    tree:
+      2d29a9:
+        object:
+          id: 1211
+          definition: >-
+            определение того, разрешено ли субъекту иметь указанные типы доступа
+            к определенному ресурсу
+          language_code: rus
+          notes:
+            - >-
+              Как правило, авторизация выполняется в контексте аутентификации
+              (4.4). Как только объект аутентифицирован, ему может быть
+              разрешено выполнять различные типы доступа
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19153:2014'
+            clause: '4.5'
+            link: 'https://www.iso.org/standard/32571.html'
+          lineage_source: 'перевод ИСО 19153:2014'
+          date_accepted: 2014-02-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: авторизация
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 1211
+  definition: >-
+    determinación de si a un sujeto se le permiten o no unos determinados tipos
+    de acceso a un recurso particular
+  language_code: spa
+  notes:
+    - >-
+      Normalmente una autorización se da en el contexto de una autenticación.
+      Una vez que un sujeto es autenticado pede ser autorizado a efectuar
+      diferentes tipos de acceso.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19153:2014'
+    clause: '4.5'
+    link: 'https://www.iso.org/standard/32571.html'
+  date_accepted: 2014-02-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: autorización
+      normative_status: preferred
+  _revisions:
+    current: e39149
+    tree:
+      e39149:
+        object:
+          id: 1211
+          definition: >-
+            determinación de si a un sujeto se le permiten o no unos
+            determinados tipos de acceso a un recurso particular
+          language_code: spa
+          notes:
+            - >-
+              Normalmente una autorización se da en el contexto de una
+              autenticación. Una vez que un sujeto es autenticado pede ser
+              autorizado a efectuar diferentes tipos de acceso.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19153:2014'
+            clause: '4.5'
+            link: 'https://www.iso.org/standard/32571.html'
+          date_accepted: 2014-02-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: autorización
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

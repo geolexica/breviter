@@ -1,0 +1,313 @@
+term: information system
+termid: 1344
+eng:
+  id: 1344
+  definition: >-
+    information processing system, together with associated organizational
+    resources such as human, technical, and financial resources, that provides
+    and distributes information
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO/IEC 2382-1:1993'
+    clause: 01.01.22
+    link: 'https://www.iso.org/standard/7229.html'
+  lineage_source: 'ISO 19101-1:2014, 4.1.23'
+  lineage_source_similarity: 1
+  date_accepted: 2014-11-01T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: information system
+      normative_status: preferred
+  _revisions:
+    current: 66daa4
+    tree:
+      66daa4:
+        object:
+          id: 1344
+          definition: >-
+            information processing system, together with associated
+            organizational resources such as human, technical, and financial
+            resources, that provides and distributes information
+          language_code: eng
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO/IEC 2382-1:1993'
+            clause: 01.01.22
+            link: 'https://www.iso.org/standard/7229.html'
+          lineage_source: 'ISO 19101-1:2014, 4.1.23'
+          lineage_source_similarity: 1
+          date_accepted: 2014-11-01T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: information system
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-11-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+kor:
+  id: 1344
+  definition: '인간, 기술, 금융 자원과 같은 연관된 조직 자원과 함께 정보를 제공 및 배포하는 정보처리시스템'
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO/IEC 2382-1:1993'
+    clause: 01.01.22
+    link: 'https://www.iso.org/standard/7229.html'
+  lineage_source: 'ISO 19101-1:2014, 4.1.23'
+  lineage_source_similarity: 1
+  date_accepted: 2014-11-01T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: 정보 시스템
+      normative_status: preferred
+  _revisions:
+    current: bd53a9
+    tree:
+      bd53a9:
+        object:
+          id: 1344
+          definition: '인간, 기술, 금융 자원과 같은 연관된 조직 자원과 함께 정보를 제공 및 배포하는 정보처리시스템'
+          language_code: kor
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO/IEC 2382-1:1993'
+            clause: 01.01.22
+            link: 'https://www.iso.org/standard/7229.html'
+          lineage_source: 'ISO 19101-1:2014, 4.1.23'
+          lineage_source_similarity: 1
+          date_accepted: 2014-11-01T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: 정보 시스템
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-11-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+msa:
+  id: 1344
+  definition: >-
+    Sistem yang berkaitan dengan pengumpulan, pemasukan, penyimpanan,
+    pemprosesan, pengeluaran, dan penyebaran maklumat.
+  language_code: msa
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO/IEC 2382-1:1993'
+    clause: 01.01.22
+    link: 'https://www.iso.org/standard/7229.html'
+  lineage_source: Pusat Rujukan Persuratan Melayu (DBP)
+  date_accepted: 2014-11-01T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: sistem maklumat
+      normative_status: preferred
+  _revisions:
+    current: 7e4fba
+    tree:
+      7e4fba:
+        object:
+          id: 1344
+          definition: >-
+            Sistem yang berkaitan dengan pengumpulan, pemasukan, penyimpanan,
+            pemprosesan, pengeluaran, dan penyebaran maklumat.
+          language_code: msa
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO/IEC 2382-1:1993'
+            clause: 01.01.22
+            link: 'https://www.iso.org/standard/7229.html'
+          lineage_source: Pusat Rujukan Persuratan Melayu (DBP)
+          date_accepted: 2014-11-01T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: sistem maklumat
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-11-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 1344
+  definition: >-
+    система обработки информации вместе с соответствующими организационными
+    ресурсами, такими как человеческие, технические и финансовые ресурсы,
+    которая предоставляет и распространяет информацию
+  language_code: rus
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO/IEC 2382-1:1993'
+    clause: 01.01.22
+    link: 'https://www.iso.org/standard/7229.html'
+  lineage_source: 'перевод ИСО 19101-1:2014,'
+  lineage_source_similarity: 1
+  date_accepted: 2014-11-01T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: информационная система
+      normative_status: preferred
+  _revisions:
+    current: bb5856
+    tree:
+      bb5856:
+        object:
+          id: 1344
+          definition: >-
+            система обработки информации вместе с соответствующими
+            организационными ресурсами, такими как человеческие, технические и
+            финансовые ресурсы, которая предоставляет и распространяет
+            информацию
+          language_code: rus
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO/IEC 2382-1:1993'
+            clause: 01.01.22
+            link: 'https://www.iso.org/standard/7229.html'
+          lineage_source: 'перевод ИСО 19101-1:2014,'
+          lineage_source_similarity: 1
+          date_accepted: 2014-11-01T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: информационная система
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-11-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 1344
+  definition: >-
+    sistema de procesamiento de información, junto con los recursos
+    organizativos asociados, tales como, los recursos humanos, técnicos y
+    financieros, que proporcionan y distribuyen la información
+  language_code: spa
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO/IEC 2382-1:1993'
+    clause: 01.01.22
+    link: 'https://www.iso.org/standard/7229.html'
+  lineage_source: 'ISO 19101-1:2014, 4.1.23'
+  lineage_source_similarity: 1
+  date_accepted: 2014-11-01T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: sistema de información
+      normative_status: preferred
+  _revisions:
+    current: 5a2e7c
+    tree:
+      5a2e7c:
+        object:
+          id: 1344
+          definition: >-
+            sistema de procesamiento de información, junto con los recursos
+            organizativos asociados, tales como, los recursos humanos, técnicos
+            y financieros, que proporcionan y distribuyen la información
+          language_code: spa
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO/IEC 2382-1:1993'
+            clause: 01.01.22
+            link: 'https://www.iso.org/standard/7229.html'
+          lineage_source: 'ISO 19101-1:2014, 4.1.23'
+          lineage_source_similarity: 1
+          date_accepted: 2014-11-01T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: sistema de información
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-11-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+swe:
+  id: 1344
+  definition: >-
+    system för bearbetning av information och som, med tillhörande
+    organisationella resurser såsom mänskliga, tekniska och finansiella
+    resurser, tillhandahåller och distribuerar information
+  country_code: swe
+  language_code: swe
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO/IEC 2382-1:1993'
+    clause: 01.01.22
+    link: 'https://www.iso.org/standard/7229.html'
+  lineage_source: 'ISO 19101-1:2014, 4.1.23'
+  lineage_source_similarity: 1
+  date_accepted: 2014-11-01T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: informationssystem
+      normative_status: preferred
+  _revisions:
+    current: bec2cb
+    tree:
+      bec2cb:
+        object:
+          id: 1344
+          definition: >-
+            system för bearbetning av information och som, med tillhörande
+            organisationella resurser såsom mänskliga, tekniska och finansiella
+            resurser, tillhandahåller och distribuerar information
+          country_code: swe
+          language_code: swe
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO/IEC 2382-1:1993'
+            clause: 01.01.22
+            link: 'https://www.iso.org/standard/7229.html'
+          lineage_source: 'ISO 19101-1:2014, 4.1.23'
+          lineage_source_similarity: 1
+          date_accepted: 2014-11-01T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: informationssystem
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-11-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

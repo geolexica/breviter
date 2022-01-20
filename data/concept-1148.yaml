@@ -1,0 +1,141 @@
+term: dependency <UML>
+termid: 1148
+eng:
+  id: 1148
+  definition: >-
+    relationship that signifies that a single or a set of model elements
+    requires other model elements for their specification or implementation
+  language_code: eng
+  notes:
+    - >-
+      This means that the complete semantics of the depending elements is either
+      semantically or structurally dependent on the definition of the supplier
+      element(s).
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: UML 2
+  lineage_source: 'ISO 19103:2015, 4.15'
+  date_accepted: 2015-12-01T00:00:00.000Z
+  review_date: 2009-01-14T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2015-12-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19103:2015'
+  review_decision_notes: 'This entry supersedes the entry for "dependency <UML>" in ISO/TS 19103:2005'
+  release: '4'
+  terms:
+    - type: expression
+      designation: dependency <UML>
+      normative_status: preferred
+  _revisions:
+    current: 398cc6
+    tree:
+      398cc6:
+        object:
+          id: 1148
+          definition: >-
+            relationship that signifies that a single or a set of model elements
+            requires other model elements for their specification or
+            implementation
+          language_code: eng
+          notes:
+            - >-
+              This means that the complete semantics of the depending elements
+              is either semantically or structurally dependent on the definition
+              of the supplier element(s).
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: UML 2
+          lineage_source: 'ISO 19103:2015, 4.15'
+          date_accepted: 2015-12-01T00:00:00.000Z
+          review_date: 2009-01-14T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2015-12-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19103:2015'
+          review_decision_notes: >-
+            This entry supersedes the entry for "dependency <UML>" in ISO/TS
+            19103:2005
+          release: '4'
+          terms:
+            - type: expression
+              designation: dependency <UML>
+              normative_status: preferred
+        parents: []
+        timeCreated: 2015-12-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 1148
+  definition: >-
+    relación que significa que un elemento o un conjunto de elementos de un
+    modelo requiere otros elementos del modelo para su especificación o
+    implementación
+  language_code: spa
+  notes:
+    - >-
+      Esto significa que la semántica completa de los elementos dependientes es
+      semántica o estructuralmente dependiente de la definición de los elementos
+      del proveedor.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: UML 2
+  lineage_source: 'ISO 19103:2015, 4.15'
+  date_accepted: 2015-12-01T00:00:00.000Z
+  review_date: 2009-01-14T00:00:00.000Z
+  review_status: final
+  review_decision: ''
+  review_decision_date: 2015-12-01T00:00:00.000Z
+  review_decision_event: 'Publicación de ISO 19103:2015'
+  review_decision_notes: >-
+    Esta entrada terminológica sustituye a "dependency <UML>" en la
+    Especificación Técnica ISO/TS 19103:2005
+  release: '4'
+  terms:
+    - type: expression
+      designation: dependencia <UML>
+      normative_status: preferred
+  _revisions:
+    current: '16e267'
+    tree:
+      '16e267':
+        object:
+          id: 1148
+          definition: >-
+            relación que significa que un elemento o un conjunto de elementos de
+            un modelo requiere otros elementos del modelo para su especificación
+            o implementación
+          language_code: spa
+          notes:
+            - >-
+              Esto significa que la semántica completa de los elementos
+              dependientes es semántica o estructuralmente dependiente de la
+              definición de los elementos del proveedor.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: UML 2
+          lineage_source: 'ISO 19103:2015, 4.15'
+          date_accepted: 2015-12-01T00:00:00.000Z
+          review_date: 2009-01-14T00:00:00.000Z
+          review_status: final
+          review_decision: ''
+          review_decision_date: 2015-12-01T00:00:00.000Z
+          review_decision_event: 'Publicación de ISO 19103:2015'
+          review_decision_notes: >-
+            Esta entrada terminológica sustituye a "dependency <UML>" en la
+            Especificación Técnica ISO/TS 19103:2005
+          release: '4'
+          terms:
+            - type: expression
+              designation: dependencia <UML>
+              normative_status: preferred
+        parents: []
+        timeCreated: 2015-12-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

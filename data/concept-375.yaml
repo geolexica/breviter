@@ -1,0 +1,806 @@
+term: registry
+termid: 375
+eng:
+  id: 375
+  definition: information system on which a register is maintained
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19135-1:2015'
+    clause: 4.1.13
+    link: 'https://www.iso.org/standard/54721.html'
+  lineage_source: 'ISO 19135:2005'
+  date_accepted: 2005-10-15T00:00:00.000Z
+  review_date: 2010-10-19T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2015-10-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19135-1:2015'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO/IEC 11179-3:2003 (Adapted from) to
+    ISO 19135-1:2015, 4.1.13. Lineage source added as ISO 19135:2005
+  release: '1'
+  terms:
+    - type: expression
+      designation: registry
+      normative_status: preferred
+  _revisions:
+    current: '761498'
+    tree:
+      '761498':
+        object:
+          id: 375
+          definition: information system on which a register is maintained
+          language_code: eng
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19135-1:2015'
+            clause: 4.1.13
+            link: 'https://www.iso.org/standard/54721.html'
+          lineage_source: 'ISO 19135:2005'
+          date_accepted: 2005-10-15T00:00:00.000Z
+          review_date: 2010-10-19T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2015-10-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19135-1:2015'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO/IEC 11179-3:2003 (Adapted
+            from) to ISO 19135-1:2015, 4.1.13. Lineage source added as ISO
+            19135:2005
+          release: '1'
+          terms:
+            - type: expression
+              designation: registry
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-10-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+ara:
+  id: 375
+  definition: نظام معلومات يحفظ به السجل
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19135-1:2015'
+    clause: 4.1.13
+    link: 'https://www.iso.org/standard/54721.html'
+  lineage_source: 'ISO 19135:2005'
+  date_accepted: 2005-10-15T00:00:00.000Z
+  review_date: 2010-10-19T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2015-10-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19135-1:2015'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO/IEC 11179-3:2003 (Adapted from) to
+    ISO 19135-1:2015, 4.1.13. Lineage source added as ISO 19135:2005
+  release: '1'
+  terms:
+    - type: expression
+      designation: نظام سجلات
+      normative_status: preferred
+  _revisions:
+    current: 95c11a
+    tree:
+      95c11a:
+        object:
+          id: 375
+          definition: نظام معلومات يحفظ به السجل
+          language_code: ara
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19135-1:2015'
+            clause: 4.1.13
+            link: 'https://www.iso.org/standard/54721.html'
+          lineage_source: 'ISO 19135:2005'
+          date_accepted: 2005-10-15T00:00:00.000Z
+          review_date: 2010-10-19T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2015-10-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19135-1:2015'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO/IEC 11179-3:2003 (Adapted
+            from) to ISO 19135-1:2015, 4.1.13. Lineage source added as ISO
+            19135:2005
+          release: '1'
+          terms:
+            - type: expression
+              designation: نظام سجلات
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-10-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+zho:
+  id: 375
+  definition: 维护注册表的信息系统。
+  language_code: zho
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19135-1:2015'
+    clause: 4.1.13
+    link: 'https://www.iso.org/standard/54721.html'
+  lineage_source: 'ISO 19135:2005'
+  date_accepted: 2005-10-15T00:00:00.000Z
+  review_date: 2010-10-19T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2015-10-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19135-1:2015'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO/IEC 11179-3:2003 (Adapted from) to
+    ISO 19135-1:2015, 4.1.13. Lineage source added as ISO 19135:2005
+  release: '1'
+  terms:
+    - type: expression
+      designation: 注册系统
+      normative_status: preferred
+  _revisions:
+    current: fa3250
+    tree:
+      fa3250:
+        object:
+          id: 375
+          definition: 维护注册表的信息系统。
+          language_code: zho
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19135-1:2015'
+            clause: 4.1.13
+            link: 'https://www.iso.org/standard/54721.html'
+          lineage_source: 'ISO 19135:2005'
+          date_accepted: 2005-10-15T00:00:00.000Z
+          review_date: 2010-10-19T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2015-10-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19135-1:2015'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO/IEC 11179-3:2003 (Adapted
+            from) to ISO 19135-1:2015, 4.1.13. Lineage source added as ISO
+            19135:2005
+          release: '1'
+          terms:
+            - type: expression
+              designation: 注册系统
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-10-15T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+nld:
+  id: 375
+  definition: information systeem waarin een een register wordt onderhouden
+  language_code: nld
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19135-1:2015'
+    clause: 4.1.13
+    link: 'https://www.iso.org/standard/54721.html'
+  lineage_source: 'ISO 19135:2005'
+  date_accepted: 2005-10-15T00:00:00.000Z
+  review_date: 2010-10-19T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2015-10-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19135-1:2015'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO/IEC 11179-3:2003 (Adapted from) to
+    ISO 19135-1:2015, 4.1.13. Lineage source added as ISO 19135:2005
+  release: '1'
+  terms:
+    - type: expression
+      designation: register
+      normative_status: preferred
+  _revisions:
+    current: 4ca146
+    tree:
+      4ca146:
+        object:
+          id: 375
+          definition: information systeem waarin een een register wordt onderhouden
+          language_code: nld
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19135-1:2015'
+            clause: 4.1.13
+            link: 'https://www.iso.org/standard/54721.html'
+          lineage_source: 'ISO 19135:2005'
+          date_accepted: 2005-10-15T00:00:00.000Z
+          review_date: 2010-10-19T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2015-10-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19135-1:2015'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO/IEC 11179-3:2003 (Adapted
+            from) to ISO 19135-1:2015, 4.1.13. Lineage source added as ISO
+            19135:2005
+          release: '1'
+          terms:
+            - type: expression
+              designation: register
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-10-15T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+fin:
+  id: 375
+  definition: 'tietojärjestelmä, jossa rekisteriä ylläpidetään'
+  language_code: fin
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19135-1:2015'
+    clause: 4.1.13
+    link: 'https://www.iso.org/standard/54721.html'
+  lineage_source: 'ISO 19135:2005'
+  date_accepted: 2005-10-15T00:00:00.000Z
+  review_date: 2010-10-19T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2015-10-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19135-1:2015'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO/IEC 11179-3:2003 (Adapted from) to
+    ISO 19135-1:2015, 4.1.13. Lineage source added as ISO 19135:2005
+  release: '1'
+  terms:
+    - type: expression
+      designation: rekisterijärjestelmä
+      normative_status: preferred
+  _revisions:
+    current: de8585
+    tree:
+      de8585:
+        object:
+          id: 375
+          definition: 'tietojärjestelmä, jossa rekisteriä ylläpidetään'
+          language_code: fin
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19135-1:2015'
+            clause: 4.1.13
+            link: 'https://www.iso.org/standard/54721.html'
+          lineage_source: 'ISO 19135:2005'
+          date_accepted: 2005-10-15T00:00:00.000Z
+          review_date: 2010-10-19T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2015-10-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19135-1:2015'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO/IEC 11179-3:2003 (Adapted
+            from) to ISO 19135-1:2015, 4.1.13. Lineage source added as ISO
+            19135:2005
+          release: '1'
+          terms:
+            - type: expression
+              designation: rekisterijärjestelmä
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-10-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+fra:
+  id: 375
+  definition: système d'information sur lequel est maintenu un registre
+  language_code: fra
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19135-1:2015'
+    clause: 4.1.13
+    link: 'https://www.iso.org/standard/54721.html'
+  lineage_source: 'ISO 19135:2005'
+  date_accepted: 2005-10-15T00:00:00.000Z
+  review_date: 2010-10-19T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2015-10-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19135-1:2015'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO/IEC 11179-3:2003 (Adapted from) to
+    ISO 19135-1:2015, 4.1.13. Lineage source added as ISO 19135:2005
+  release: '1'
+  terms:
+    - type: expression
+      designation: registre (système)
+      normative_status: preferred
+  _revisions:
+    current: e7492b
+    tree:
+      e7492b:
+        object:
+          id: 375
+          definition: système d'information sur lequel est maintenu un registre
+          language_code: fra
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19135-1:2015'
+            clause: 4.1.13
+            link: 'https://www.iso.org/standard/54721.html'
+          lineage_source: 'ISO 19135:2005'
+          date_accepted: 2005-10-15T00:00:00.000Z
+          review_date: 2010-10-19T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2015-10-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19135-1:2015'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO/IEC 11179-3:2003 (Adapted
+            from) to ISO 19135-1:2015, 4.1.13. Lineage source added as ISO
+            19135:2005
+          release: '1'
+          terms:
+            - type: expression
+              designation: registre (système)
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-10-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+deu:
+  id: 375
+  definition: 'Informationssystem, mit dem ein Register gepflegt wird'
+  language_code: deu
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19135-1:2015'
+    clause: 4.1.13
+    link: 'https://www.iso.org/standard/54721.html'
+  lineage_source: 'ISO 19135:2005'
+  date_accepted: 2005-10-15T00:00:00.000Z
+  review_date: 2010-10-19T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2015-10-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19135-1:2015'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO/IEC 11179-3:2003 (Adapted from) to
+    ISO 19135-1:2015, 4.1.13. Lineage source added as ISO 19135:2005
+  release: '1'
+  terms:
+    - type: expression
+      designation: Registry
+      normative_status: preferred
+  _revisions:
+    current: aa8b5c
+    tree:
+      aa8b5c:
+        object:
+          id: 375
+          definition: 'Informationssystem, mit dem ein Register gepflegt wird'
+          language_code: deu
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19135-1:2015'
+            clause: 4.1.13
+            link: 'https://www.iso.org/standard/54721.html'
+          lineage_source: 'ISO 19135:2005'
+          date_accepted: 2005-10-15T00:00:00.000Z
+          review_date: 2010-10-19T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2015-10-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19135-1:2015'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO/IEC 11179-3:2003 (Adapted
+            from) to ISO 19135-1:2015, 4.1.13. Lineage source added as ISO
+            19135:2005
+          release: '1'
+          terms:
+            - type: expression
+              designation: Registry
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-10-15T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+kor:
+  id: 375
+  definition: '등록물을 유지, 관리하는 정보 시스템'
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19135-1:2015'
+    clause: 4.1.13
+    link: 'https://www.iso.org/standard/54721.html'
+  lineage_source: 'ISO 19135:2005'
+  date_accepted: 2005-10-15T00:00:00.000Z
+  review_date: 2010-10-19T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2015-10-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19135-1:2015'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO/IEC 11179-3:2003 (Adapted from) to
+    ISO 19135-1:2015, 4.1.13. Lineage source added as ISO 19135:2005
+  release: '1'
+  terms:
+    - type: expression
+      designation: 등록소
+      normative_status: preferred
+    - designation: 레지스트리
+      type: expression
+  _revisions:
+    current: e3ff98
+    tree:
+      e3ff98:
+        object:
+          id: 375
+          definition: '등록물을 유지, 관리하는 정보 시스템'
+          language_code: kor
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19135-1:2015'
+            clause: 4.1.13
+            link: 'https://www.iso.org/standard/54721.html'
+          lineage_source: 'ISO 19135:2005'
+          date_accepted: 2005-10-15T00:00:00.000Z
+          review_date: 2010-10-19T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2015-10-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19135-1:2015'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO/IEC 11179-3:2003 (Adapted
+            from) to ISO 19135-1:2015, 4.1.13. Lineage source added as ISO
+            19135:2005
+          release: '1'
+          terms:
+            - type: expression
+              designation: 등록소
+              normative_status: preferred
+            - designation: 레지스트리
+              type: expression
+        parents: []
+        timeCreated: 2005-10-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+msa:
+  id: 375
+  definition: Sistem maklumat di mana suatu daftar dikekalkan.
+  language_code: msa
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO/IEC 11179-3:2003 '
+    clause: (Adapted from)
+    link: 'https://www.iso.org/standard/31367.html'
+  lineage_source: 'ISO 19135:2005'
+  lineage_source_similarity: 1
+  date_accepted: 2005-10-15T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: daftar/ daftaran
+      normative_status: preferred
+  _revisions:
+    current: 4399d5
+    tree:
+      4399d5:
+        object:
+          id: 375
+          definition: Sistem maklumat di mana suatu daftar dikekalkan.
+          language_code: msa
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO/IEC 11179-3:2003 '
+            clause: (Adapted from)
+            link: 'https://www.iso.org/standard/31367.html'
+          lineage_source: 'ISO 19135:2005'
+          lineage_source_similarity: 1
+          date_accepted: 2005-10-15T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: daftar/ daftaran
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-10-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+pol:
+  id: 375
+  definition: 'system informacyjny, w którym utrzymywany jest rejestr'
+  language_code: pol
+  notes:
+    - '[zaadaptowano z ISO/IEC 11179-3:2003]'
+  examples: []
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19135-1:2015'
+    clause: 4.1.13
+    link: 'https://www.iso.org/standard/54721.html'
+  lineage_source: 'ISO 19135:2005'
+  date_accepted: 2005-10-15T00:00:00.000Z
+  review_date: 2010-10-19T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2015-10-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19135-1:2015'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO/IEC 11179-3:2003 (Adapted from) to
+    ISO 19135-1:2015, 4.1.13. Lineage source added as ISO 19135:2005
+  release: '1'
+  terms:
+    - type: expression
+      designation: system rejestracji
+      normative_status: preferred
+  _revisions:
+    current: 10f17c
+    tree:
+      10f17c:
+        object:
+          id: 375
+          definition: 'system informacyjny, w którym utrzymywany jest rejestr'
+          language_code: pol
+          notes:
+            - '[zaadaptowano z ISO/IEC 11179-3:2003]'
+          examples: []
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19135-1:2015'
+            clause: 4.1.13
+            link: 'https://www.iso.org/standard/54721.html'
+          lineage_source: 'ISO 19135:2005'
+          date_accepted: 2005-10-15T00:00:00.000Z
+          review_date: 2010-10-19T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2015-10-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19135-1:2015'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO/IEC 11179-3:2003 (Adapted
+            from) to ISO 19135-1:2015, 4.1.13. Lineage source added as ISO
+            19135:2005
+          release: '1'
+          terms:
+            - type: expression
+              designation: system rejestracji
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-10-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 375
+  definition: 'информационная система, поддерживающая ведение реестра'
+  language_code: rus
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO/IEC 11179-3:2003 '
+    clause: (Adapted from)
+    link: 'https://www.iso.org/standard/31367.html'
+  lineage_source: Internet
+  date_accepted: 2005-10-15T00:00:00.000Z
+  terms:
+    - type: expression
+      designation: служба регистрации
+      normative_status: preferred
+  _revisions:
+    current: 6b90a9
+    tree:
+      6b90a9:
+        object:
+          id: 375
+          definition: 'информационная система, поддерживающая ведение реестра'
+          language_code: rus
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO/IEC 11179-3:2003 '
+            clause: (Adapted from)
+            link: 'https://www.iso.org/standard/31367.html'
+          lineage_source: Internet
+          date_accepted: 2005-10-15T00:00:00.000Z
+          terms:
+            - type: expression
+              designation: служба регистрации
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-10-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 375
+  definition: sistema de información en el que se mantiene un registro
+  language_code: spa
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19135-1:2015'
+    clause: 4.1.13
+    link: 'https://www.iso.org/standard/54721.html'
+  lineage_source: 'ISO 19135:2005'
+  date_accepted: 2005-10-15T00:00:00.000Z
+  review_date: 2010-10-19T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2015-10-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19135-1:2015'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO/IEC 11179-3:2003 (Adapted from) to
+    ISO 19135-1:2015, 4.1.13. Lineage source added as ISO 19135:2005
+  release: '1'
+  terms:
+    - type: expression
+      designation: sistema del registro
+      normative_status: preferred
+  _revisions:
+    current: '413501'
+    tree:
+      '413501':
+        object:
+          id: 375
+          definition: sistema de información en el que se mantiene un registro
+          language_code: spa
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19135-1:2015'
+            clause: 4.1.13
+            link: 'https://www.iso.org/standard/54721.html'
+          lineage_source: 'ISO 19135:2005'
+          date_accepted: 2005-10-15T00:00:00.000Z
+          review_date: 2010-10-19T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2015-10-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19135-1:2015'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO/IEC 11179-3:2003 (Adapted
+            from) to ISO 19135-1:2015, 4.1.13. Lineage source added as ISO
+            19135:2005
+          release: '1'
+          terms:
+            - type: expression
+              designation: sistema del registro
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-10-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+swe:
+  id: 375
+  definition: system för ett eller flera register
+  country_code: swe
+  language_code: swe
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19135-1:2015'
+    clause: 4.1.13
+    link: 'https://www.iso.org/standard/54721.html'
+  lineage_source: 'ISO 19135:2005'
+  date_accepted: 2005-10-15T00:00:00.000Z
+  review_date: 2010-10-19T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2015-10-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19135-1:2015'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO/IEC 11179-3:2003 (Adapted from) to
+    ISO 19135-1:2015, 4.1.13. Lineage source added as ISO 19135:2005
+  release: '1'
+  terms:
+    - type: expression
+      designation: registersystem
+      normative_status: preferred
+  _revisions:
+    current: f38b77
+    tree:
+      f38b77:
+        object:
+          id: 375
+          definition: system för ett eller flera register
+          country_code: swe
+          language_code: swe
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19135-1:2015'
+            clause: 4.1.13
+            link: 'https://www.iso.org/standard/54721.html'
+          lineage_source: 'ISO 19135:2005'
+          date_accepted: 2005-10-15T00:00:00.000Z
+          review_date: 2010-10-19T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2015-10-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19135-1:2015'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO/IEC 11179-3:2003 (Adapted
+            from) to ISO 19135-1:2015, 4.1.13. Lineage source added as ISO
+            19135:2005
+          release: '1'
+          terms:
+            - type: expression
+              designation: registersystem
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-10-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

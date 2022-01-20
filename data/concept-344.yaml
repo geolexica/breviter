@@ -1,0 +1,768 @@
+term: portrayal rule
+termid: 344
+eng:
+  id: 344
+  definition: >-
+    rule that is applied to the feature to determine what portrayal
+    specification to use
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: retired
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19117:2005'
+    clause: '4.16'
+    link: 'https://www.iso.org/standard/40395.html'
+  lineage_source: ''
+  lineage_source_similarity: 0
+  date_accepted: 2005-06-01T00:00:00.000Z
+  date_amended: 2012-12-15T00:00:00.000Z
+  review_date: 2009-11-25T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2012-12-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19117:2012'
+  review_decision_notes: >-
+    The entry has been superseded. An entry with a revised definition has been
+    published in ISO 19117:2012
+  release: '-1'
+  terms:
+    - type: expression
+      designation: portrayal rule
+      normative_status: null
+  _revisions:
+    current: 2a4e08
+    tree:
+      2a4e08:
+        object:
+          id: 344
+          definition: >-
+            rule that is applied to the feature to determine what portrayal
+            specification to use
+          language_code: eng
+          notes: []
+          examples: []
+          entry_status: retired
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19117:2005'
+            clause: '4.16'
+            link: 'https://www.iso.org/standard/40395.html'
+          lineage_source: ''
+          lineage_source_similarity: 0
+          date_accepted: 2005-06-01T00:00:00.000Z
+          date_amended: 2012-12-15T00:00:00.000Z
+          review_date: 2009-11-25T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2012-12-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19117:2012'
+          review_decision_notes: >-
+            The entry has been superseded. An entry with a revised definition
+            has been published in ISO 19117:2012
+          release: '-1'
+          terms:
+            - type: expression
+              designation: portrayal rule
+              normative_status: null
+        parents: []
+        timeCreated: 2005-06-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+ara:
+  id: 344
+  definition: قاعدة تطبق على المعلم لتحديد مواصفات العرض التي يمكن استعمالها
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: retired
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19117:2005'
+    clause: '4.16'
+    link: 'https://www.iso.org/standard/40395.html'
+  date_accepted: 2005-06-01T00:00:00.000Z
+  date_amended: 2012-12-15T00:00:00.000Z
+  review_date: 2009-11-25T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2012-12-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19117:2012'
+  review_decision_notes: >-
+    The entry has been superseded. An entry with a revised definition has been
+    published in ISO 19117:2012
+  release: '-1'
+  terms:
+    - type: expression
+      designation: قاعدة العرض
+      normative_status: null
+  _revisions:
+    current: a06601
+    tree:
+      a06601:
+        object:
+          id: 344
+          definition: قاعدة تطبق على المعلم لتحديد مواصفات العرض التي يمكن استعمالها
+          language_code: ara
+          notes: []
+          examples: []
+          entry_status: retired
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19117:2005'
+            clause: '4.16'
+            link: 'https://www.iso.org/standard/40395.html'
+          date_accepted: 2005-06-01T00:00:00.000Z
+          date_amended: 2012-12-15T00:00:00.000Z
+          review_date: 2009-11-25T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2012-12-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19117:2012'
+          review_decision_notes: >-
+            The entry has been superseded. An entry with a revised definition
+            has been published in ISO 19117:2012
+          release: '-1'
+          terms:
+            - type: expression
+              designation: قاعدة العرض
+              normative_status: null
+        parents: []
+        timeCreated: 2005-06-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+zho:
+  id: 344
+  definition: 确定使用要素图示表达规范的规则。
+  language_code: zho
+  notes: []
+  examples: []
+  entry_status: retired
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19117:2005'
+    clause: '4.16'
+    link: 'https://www.iso.org/standard/40395.html'
+  lineage_source: ''
+  date_accepted: 2005-06-01T00:00:00.000Z
+  date_amended: 2012-12-15T00:00:00.000Z
+  review_date: 2009-11-25T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2012-12-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19117:2012'
+  review_decision_notes: >-
+    The entry has been superseded. An entry with a revised definition has been
+    published in ISO 19117:2012
+  release: '-1'
+  terms:
+    - type: expression
+      designation: 图示表达规则
+      normative_status: null
+  _revisions:
+    current: 6bdeb9
+    tree:
+      6bdeb9:
+        object:
+          id: 344
+          definition: 确定使用要素图示表达规范的规则。
+          language_code: zho
+          notes: []
+          examples: []
+          entry_status: retired
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19117:2005'
+            clause: '4.16'
+            link: 'https://www.iso.org/standard/40395.html'
+          lineage_source: ''
+          date_accepted: 2005-06-01T00:00:00.000Z
+          date_amended: 2012-12-15T00:00:00.000Z
+          review_date: 2009-11-25T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2012-12-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19117:2012'
+          review_decision_notes: >-
+            The entry has been superseded. An entry with a revised definition
+            has been published in ISO 19117:2012
+          release: '-1'
+          terms:
+            - type: expression
+              designation: 图示表达规则
+              normative_status: null
+        parents: []
+        timeCreated: 2005-06-01T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+fin:
+  id: 344
+  definition: 'ohjeet, jotka määrittelevät kuinka paikkatiedon esittäminen toteutetaan'
+  language_code: fin
+  notes: []
+  examples: []
+  entry_status: retired
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19117:2005'
+    clause: '4.16'
+    link: 'https://www.iso.org/standard/40395.html'
+  lineage_source: ''
+  date_accepted: 2005-06-01T00:00:00.000Z
+  date_amended: 2012-12-15T00:00:00.000Z
+  review_date: 2009-11-25T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2012-12-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19117:2012'
+  review_decision_notes: >-
+    The entry has been superseded. An entry with a revised definition has been
+    published in ISO 19117:2012
+  release: '-1'
+  terms:
+    - type: expression
+      designation: esitystapasääntö
+      normative_status: null
+  _revisions:
+    current: e3e96e
+    tree:
+      e3e96e:
+        object:
+          id: 344
+          definition: >-
+            ohjeet, jotka määrittelevät kuinka paikkatiedon esittäminen
+            toteutetaan
+          language_code: fin
+          notes: []
+          examples: []
+          entry_status: retired
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19117:2005'
+            clause: '4.16'
+            link: 'https://www.iso.org/standard/40395.html'
+          lineage_source: ''
+          date_accepted: 2005-06-01T00:00:00.000Z
+          date_amended: 2012-12-15T00:00:00.000Z
+          review_date: 2009-11-25T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2012-12-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19117:2012'
+          review_decision_notes: >-
+            The entry has been superseded. An entry with a revised definition
+            has been published in ISO 19117:2012
+          release: '-1'
+          terms:
+            - type: expression
+              designation: esitystapasääntö
+              normative_status: null
+        parents: []
+        timeCreated: 2005-06-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+fra:
+  id: 344
+  definition: >-
+    règle appliquée à l'objet pour déterminer quelle spécification de
+    représentation doit être utilisée
+  language_code: fra
+  notes: []
+  examples: []
+  entry_status: retired
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19117:2005'
+    clause: '4.16'
+    link: 'https://www.iso.org/standard/40395.html'
+  lineage_source: ''
+  date_accepted: 2005-06-01T00:00:00.000Z
+  date_amended: 2012-12-15T00:00:00.000Z
+  review_date: 2009-11-25T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2012-12-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19117:2012'
+  review_decision_notes: >-
+    The entry has been superseded. An entry with a revised definition has been
+    published in ISO 19117:2012
+  release: '-1'
+  terms:
+    - type: expression
+      designation: règle de représentation
+      normative_status: null
+  _revisions:
+    current: 813a04
+    tree:
+      813a04:
+        object:
+          id: 344
+          definition: >-
+            règle appliquée à l'objet pour déterminer quelle spécification de
+            représentation doit être utilisée
+          language_code: fra
+          notes: []
+          examples: []
+          entry_status: retired
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19117:2005'
+            clause: '4.16'
+            link: 'https://www.iso.org/standard/40395.html'
+          lineage_source: ''
+          date_accepted: 2005-06-01T00:00:00.000Z
+          date_amended: 2012-12-15T00:00:00.000Z
+          review_date: 2009-11-25T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2012-12-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19117:2012'
+          review_decision_notes: >-
+            The entry has been superseded. An entry with a revised definition
+            has been published in ISO 19117:2012
+          release: '-1'
+          terms:
+            - type: expression
+              designation: règle de représentation
+              normative_status: null
+        parents: []
+        timeCreated: 2005-06-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+deu:
+  id: 344
+  definition: >-
+    Regel, die auf ein Feature angewendet wird, um festzulegen, welche
+    Darstellungsspezifikation verwendet wird
+  language_code: deu
+  notes: []
+  examples: []
+  entry_status: retired
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19117:2005'
+    clause: '4.16'
+    link: 'https://www.iso.org/standard/40395.html'
+  lineage_source: ''
+  date_accepted: 2005-06-01T00:00:00.000Z
+  date_amended: 2012-12-15T00:00:00.000Z
+  review_date: 2009-11-25T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2012-12-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19117:2012'
+  review_decision_notes: >-
+    The entry has been superseded. An entry with a revised definition has been
+    published in ISO 19117:2012
+  release: '-1'
+  terms:
+    - type: expression
+      designation: Darstellungsregel
+      normative_status: null
+  _revisions:
+    current: '979533'
+    tree:
+      '979533':
+        object:
+          id: 344
+          definition: >-
+            Regel, die auf ein Feature angewendet wird, um festzulegen, welche
+            Darstellungsspezifikation verwendet wird
+          language_code: deu
+          notes: []
+          examples: []
+          entry_status: retired
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19117:2005'
+            clause: '4.16'
+            link: 'https://www.iso.org/standard/40395.html'
+          lineage_source: ''
+          date_accepted: 2005-06-01T00:00:00.000Z
+          date_amended: 2012-12-15T00:00:00.000Z
+          review_date: 2009-11-25T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2012-12-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19117:2012'
+          review_decision_notes: >-
+            The entry has been superseded. An entry with a revised definition
+            has been published in ISO 19117:2012
+          release: '-1'
+          terms:
+            - type: expression
+              designation: Darstellungsregel
+              normative_status: null
+        parents: []
+        timeCreated: 2005-06-01T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+kor:
+  id: 344
+  definition: 피처에 어떤 묘화 사양을 적용할지에 대한 규칙
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: retired
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19117:2005'
+    clause: '4.16'
+    link: 'https://www.iso.org/standard/40395.html'
+  lineage_source: ''
+  date_accepted: 2006-05-01T00:00:00.000Z
+  date_amended: 2012-12-15T00:00:00.000Z
+  review_date: 2009-11-25T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2012-12-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19117:2012'
+  review_decision_notes: >-
+    The entry has been superseded. An entry with a revised definition has been
+    published in ISO 19117:2012
+  release: '-1'
+  terms:
+    - type: expression
+      designation: 묘화 규칙
+      normative_status: null
+  _revisions:
+    current: c53c6f
+    tree:
+      c53c6f:
+        object:
+          id: 344
+          definition: 피처에 어떤 묘화 사양을 적용할지에 대한 규칙
+          language_code: kor
+          notes: []
+          examples: []
+          entry_status: retired
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19117:2005'
+            clause: '4.16'
+            link: 'https://www.iso.org/standard/40395.html'
+          lineage_source: ''
+          date_accepted: 2006-05-01T00:00:00.000Z
+          date_amended: 2012-12-15T00:00:00.000Z
+          review_date: 2009-11-25T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2012-12-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19117:2012'
+          review_decision_notes: >-
+            The entry has been superseded. An entry with a revised definition
+            has been published in ISO 19117:2012
+          release: '-1'
+          terms:
+            - type: expression
+              designation: 묘화 규칙
+              normative_status: null
+        parents: []
+        timeCreated: 2006-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+pol:
+  id: 344
+  definition: >-
+    reguła stosowana do obiektu w celu określenia, której specyfikacji
+    prezentacji należy użyć
+  language_code: pol
+  notes: []
+  examples: []
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19117:2005'
+    clause: '4.16'
+    link: 'https://www.iso.org/standard/40395.html'
+  lineage_source: ''
+  date_accepted: 2005-06-01T00:00:00.000Z
+  date_amended: 2012-12-15T00:00:00.000Z
+  review_date: 2009-11-25T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2012-12-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19117:2012'
+  review_decision_notes: >-
+    The entry has been superseded. An entry with a revised definition has been
+    published in ISO 19117:2012
+  release: '-1'
+  terms:
+    - type: expression
+      designation: reguła prezentacji
+      normative_status: null
+  _revisions:
+    current: 14dc29
+    tree:
+      14dc29:
+        object:
+          id: 344
+          definition: >-
+            reguła stosowana do obiektu w celu określenia, której specyfikacji
+            prezentacji należy użyć
+          language_code: pol
+          notes: []
+          examples: []
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19117:2005'
+            clause: '4.16'
+            link: 'https://www.iso.org/standard/40395.html'
+          lineage_source: ''
+          date_accepted: 2005-06-01T00:00:00.000Z
+          date_amended: 2012-12-15T00:00:00.000Z
+          review_date: 2009-11-25T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2012-12-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19117:2012'
+          review_decision_notes: >-
+            The entry has been superseded. An entry with a revised definition
+            has been published in ISO 19117:2012
+          release: '-1'
+          terms:
+            - type: expression
+              designation: reguła prezentacji
+              normative_status: null
+        parents: []
+        timeCreated: 2005-06-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 344
+  definition: >-
+    правило, применяемое к пространственному объекту и позволяющее определить,
+    какую именно спецификацию графического отображения следует использовать
+  language_code: rus
+  notes: []
+  examples: []
+  entry_status: изъятый
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19117:2005'
+    clause: '4.16'
+    link: 'https://www.iso.org/standard/40395.html'
+  lineage_source: ''
+  date_accepted: 2005-06-01T00:00:00.000Z
+  date_amended: 2012-12-15T00:00:00.000Z
+  review_date: 2009-11-25T00:00:00.000Z
+  review_status: ''
+  review_type: ''
+  review_decision: ''
+  review_decision_date: 2012-12-15T00:00:00.000Z
+  review_decision_event: 'Публикация ИСО 19117:2012'
+  review_decision_notes: >-
+    Запись была заменена. Запись с пересмотренным определением была опубликована
+    в ISO 19117:2012
+  release: '-1'
+  terms:
+    - type: expression
+      designation: правило графического отображения
+      normative_status: null
+  _revisions:
+    current: 03554e
+    tree:
+      03554e:
+        object:
+          id: 344
+          definition: >-
+            правило, применяемое к пространственному объекту и позволяющее
+            определить, какую именно спецификацию графического отображения
+            следует использовать
+          language_code: rus
+          notes: []
+          examples: []
+          entry_status: изъятый
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19117:2005'
+            clause: '4.16'
+            link: 'https://www.iso.org/standard/40395.html'
+          lineage_source: ''
+          date_accepted: 2005-06-01T00:00:00.000Z
+          date_amended: 2012-12-15T00:00:00.000Z
+          review_date: 2009-11-25T00:00:00.000Z
+          review_status: ''
+          review_type: ''
+          review_decision: ''
+          review_decision_date: 2012-12-15T00:00:00.000Z
+          review_decision_event: 'Публикация ИСО 19117:2012'
+          review_decision_notes: >-
+            Запись была заменена. Запись с пересмотренным определением была
+            опубликована в ISO 19117:2012
+          release: '-1'
+          terms:
+            - type: expression
+              designation: правило графического отображения
+              normative_status: null
+        parents: []
+        timeCreated: 2005-06-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 344
+  definition: >-
+    regla que se aplica a un objeto geográfico para determinar qué
+    especificación de representación se utiliza
+  language_code: spa
+  notes: []
+  examples: []
+  entry_status: retired
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19117:2005'
+    clause: '4.16'
+    link: 'https://www.iso.org/standard/40395.html'
+  lineage_source: ''
+  date_accepted: 2005-06-01T00:00:00.000Z
+  date_amended: 2012-12-15T00:00:00.000Z
+  review_date: 2009-11-25T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2012-12-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19117:2012'
+  review_decision_notes: >-
+    The entry has been superseded. An entry with a revised definition has been
+    published in ISO 19117:2012
+  release: '-1'
+  terms:
+    - type: expression
+      designation: regla de representación
+      normative_status: null
+  _revisions:
+    current: 10ec4c
+    tree:
+      10ec4c:
+        object:
+          id: 344
+          definition: >-
+            regla que se aplica a un objeto geográfico para determinar qué
+            especificación de representación se utiliza
+          language_code: spa
+          notes: []
+          examples: []
+          entry_status: retired
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19117:2005'
+            clause: '4.16'
+            link: 'https://www.iso.org/standard/40395.html'
+          lineage_source: ''
+          date_accepted: 2005-06-01T00:00:00.000Z
+          date_amended: 2012-12-15T00:00:00.000Z
+          review_date: 2009-11-25T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2012-12-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19117:2012'
+          review_decision_notes: >-
+            The entry has been superseded. An entry with a revised definition
+            has been published in ISO 19117:2012
+          release: '-1'
+          terms:
+            - type: expression
+              designation: regla de representación
+              normative_status: null
+        parents: []
+        timeCreated: 2005-06-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+swe:
+  id: 344
+  definition: regel som avgör på vilket sätt data ska åskådliggöras
+  country_code: swe
+  language_code: swe
+  notes: []
+  examples: []
+  entry_status: retired
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19117:2005'
+    clause: '4.16'
+    link: 'https://www.iso.org/standard/40395.html'
+  lineage_source: ''
+  lineage_source_similarity: 0
+  date_accepted: 2005-06-01T00:00:00.000Z
+  date_amended: 2012-12-15T00:00:00.000Z
+  review_date: 2009-11-25T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2012-12-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19117:2012'
+  review_decision_notes: >-
+    The entry has been superseded. An entry with a revised definition has been
+    published in ISO 19117:2012
+  release: '-1'
+  terms:
+    - type: expression
+      designation: visualiseringsregel
+      normative_status: null
+  _revisions:
+    current: acc119
+    tree:
+      acc119:
+        object:
+          id: 344
+          definition: regel som avgör på vilket sätt data ska åskådliggöras
+          country_code: swe
+          language_code: swe
+          notes: []
+          examples: []
+          entry_status: retired
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19117:2005'
+            clause: '4.16'
+            link: 'https://www.iso.org/standard/40395.html'
+          lineage_source: ''
+          lineage_source_similarity: 0
+          date_accepted: 2005-06-01T00:00:00.000Z
+          date_amended: 2012-12-15T00:00:00.000Z
+          review_date: 2009-11-25T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2012-12-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19117:2012'
+          review_decision_notes: >-
+            The entry has been superseded. An entry with a revised definition
+            has been published in ISO 19117:2012
+          release: '-1'
+          terms:
+            - type: expression
+              designation: visualiseringsregel
+              normative_status: null
+        parents: []
+        timeCreated: 2005-06-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

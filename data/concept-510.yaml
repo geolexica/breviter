@@ -1,0 +1,787 @@
+term: supersession
+termid: 510
+eng:
+  id: 510
+  definition: replacement of a register item by one or more new items
+  language_code: eng
+  notes:
+    - The status of the replaced item changes from "valid" to "superseded."
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19135:2005'
+    clause: 4.1.18
+    link: 'https://www.iso.org/standard/32553.html'
+  lineage_source: ''
+  lineage_source_similarity: 0
+  date_accepted: 2005-10-15T00:00:00.000Z
+  date_amended: 2015-10-01T00:00:00.000Z
+  review_date: 2010-10-19T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2015-10-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19135-1:2015'
+  review_decision_notes: >-
+    The entry has been superseded. An entry with a revised definition has been
+    published in ISO 19135-1:2015
+  release: '-1'
+  terms:
+    - type: expression
+      designation: supersession
+      normative_status: null
+  _revisions:
+    current: 45c025
+    tree:
+      45c025:
+        object:
+          id: 510
+          definition: replacement of a register item by one or more new items
+          language_code: eng
+          notes:
+            - >-
+              The status of the replaced item changes from "valid" to
+              "superseded."
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19135:2005'
+            clause: 4.1.18
+            link: 'https://www.iso.org/standard/32553.html'
+          lineage_source: ''
+          lineage_source_similarity: 0
+          date_accepted: 2005-10-15T00:00:00.000Z
+          date_amended: 2015-10-01T00:00:00.000Z
+          review_date: 2010-10-19T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2015-10-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19135-1:2015'
+          review_decision_notes: >-
+            The entry has been superseded. An entry with a revised definition
+            has been published in ISO 19135-1:2015
+          release: '-1'
+          terms:
+            - type: expression
+              designation: supersession
+              normative_status: null
+        parents: []
+        timeCreated: 2005-10-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+ara:
+  id: 510
+  definition: استبدال بند مدرج في سجل ببند آخر جديد أو أكثر
+  language_code: ara
+  notes:
+    - تتغير وضعية البند المستبدل من بند " فعال " إلى بند "منسوخ".
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19135:2005'
+    clause: 4.1.18
+    link: 'https://www.iso.org/standard/32553.html'
+  lineage_source: ''
+  lineage_source_similarity: 0
+  date_accepted: 2005-10-15T00:00:00.000Z
+  date_amended: 2015-10-01T00:00:00.000Z
+  review_date: 2010-10-19T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2015-10-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19135-1:2015'
+  review_decision_notes: >-
+    The entry has been superseded. An entry with a revised definition has been
+    published in ISO 19135-1:2015
+  release: '-1'
+  terms:
+    - type: expression
+      designation: إحلال
+      normative_status: null
+  _revisions:
+    current: b409f4
+    tree:
+      b409f4:
+        object:
+          id: 510
+          definition: استبدال بند مدرج في سجل ببند آخر جديد أو أكثر
+          language_code: ara
+          notes:
+            - تتغير وضعية البند المستبدل من بند " فعال " إلى بند "منسوخ".
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19135:2005'
+            clause: 4.1.18
+            link: 'https://www.iso.org/standard/32553.html'
+          lineage_source: ''
+          lineage_source_similarity: 0
+          date_accepted: 2005-10-15T00:00:00.000Z
+          date_amended: 2015-10-01T00:00:00.000Z
+          review_date: 2010-10-19T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2015-10-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19135-1:2015'
+          review_decision_notes: >-
+            The entry has been superseded. An entry with a revised definition
+            has been published in ISO 19135-1:2015
+          release: '-1'
+          terms:
+            - type: expression
+              designation: إحلال
+              normative_status: null
+        parents: []
+        timeCreated: 2005-10-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+zho:
+  id: 510
+  definition: 用一个或多个新注册项置换某一注册项。
+  language_code: zho
+  notes:
+    - 被置换项目的状态由“有效”变为“被取代”。
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19135:2005'
+    clause: 4.1.18
+    link: 'https://www.iso.org/standard/32553.html'
+  lineage_source: ''
+  lineage_source_similarity: 0
+  date_accepted: 2005-10-15T00:00:00.000Z
+  date_amended: 2015-10-01T00:00:00.000Z
+  review_date: 2010-10-19T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2015-10-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19135-1:2015'
+  review_decision_notes: >-
+    The entry has been superseded. An entry with a revised definition has been
+    published in ISO 19135-1:2015
+  release: '-1'
+  terms:
+    - type: expression
+      designation: 取代
+      normative_status: null
+  _revisions:
+    current: f38cd3
+    tree:
+      f38cd3:
+        object:
+          id: 510
+          definition: 用一个或多个新注册项置换某一注册项。
+          language_code: zho
+          notes:
+            - 被置换项目的状态由“有效”变为“被取代”。
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19135:2005'
+            clause: 4.1.18
+            link: 'https://www.iso.org/standard/32553.html'
+          lineage_source: ''
+          lineage_source_similarity: 0
+          date_accepted: 2005-10-15T00:00:00.000Z
+          date_amended: 2015-10-01T00:00:00.000Z
+          review_date: 2010-10-19T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2015-10-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19135-1:2015'
+          review_decision_notes: >-
+            The entry has been superseded. An entry with a revised definition
+            has been published in ISO 19135-1:2015
+          release: '-1'
+          terms:
+            - type: expression
+              designation: 取代
+              normative_status: null
+        parents: []
+        timeCreated: 2005-10-15T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+fin:
+  id: 510
+  definition: >-
+    yhden tai useamman uuden rekisterielementin ottaminen rekisterielementin
+    tilalle
+  language_code: fin
+  notes:
+    - >-
+      Korvatun rekisterielementin tila muuttuu kelpoisesta (valid) korvatuksi
+      (superseded).
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19135:2005'
+    clause: 4.1.18
+    link: 'https://www.iso.org/standard/32553.html'
+  lineage_source: ''
+  lineage_source_similarity: 0
+  date_accepted: 2005-10-15T00:00:00.000Z
+  date_amended: 2015-10-01T00:00:00.000Z
+  review_date: 2010-10-19T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2015-10-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19135-1:2015'
+  review_decision_notes: >-
+    The entry has been superseded. An entry with a revised definition has been
+    published in ISO 19135-1:2015
+  release: '-1'
+  terms:
+    - type: expression
+      designation: korvaaminen
+      normative_status: null
+  _revisions:
+    current: 1c84aa
+    tree:
+      1c84aa:
+        object:
+          id: 510
+          definition: >-
+            yhden tai useamman uuden rekisterielementin ottaminen
+            rekisterielementin tilalle
+          language_code: fin
+          notes:
+            - >-
+              Korvatun rekisterielementin tila muuttuu kelpoisesta (valid)
+              korvatuksi (superseded).
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19135:2005'
+            clause: 4.1.18
+            link: 'https://www.iso.org/standard/32553.html'
+          lineage_source: ''
+          lineage_source_similarity: 0
+          date_accepted: 2005-10-15T00:00:00.000Z
+          date_amended: 2015-10-01T00:00:00.000Z
+          review_date: 2010-10-19T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2015-10-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19135-1:2015'
+          review_decision_notes: >-
+            The entry has been superseded. An entry with a revised definition
+            has been published in ISO 19135-1:2015
+          release: '-1'
+          terms:
+            - type: expression
+              designation: korvaaminen
+              normative_status: null
+        parents: []
+        timeCreated: 2005-10-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+fra:
+  id: 510
+  definition: remplacement d'une entrée de registre par une ou plusieurs entrées nouvelles
+  language_code: fra
+  notes: []
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19135:2005'
+    clause: 4.1.18
+    link: 'https://www.iso.org/standard/32553.html'
+  lineage_source: ''
+  lineage_source_similarity: 0
+  date_accepted: 2005-10-15T00:00:00.000Z
+  date_amended: 2015-10-01T00:00:00.000Z
+  review_date: 2010-10-19T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2015-10-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19135-1:2015'
+  review_decision_notes: >-
+    The entry has been superseded. An entry with a revised definition has been
+    published in ISO 19135-1:2015
+  release: '-1'
+  terms:
+    - type: expression
+      designation: remplacement (supplantation)
+      normative_status: null
+  _revisions:
+    current: '68e582'
+    tree:
+      '68e582':
+        object:
+          id: 510
+          definition: >-
+            remplacement d'une entrée de registre par une ou plusieurs entrées
+            nouvelles
+          language_code: fra
+          notes: []
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19135:2005'
+            clause: 4.1.18
+            link: 'https://www.iso.org/standard/32553.html'
+          lineage_source: ''
+          lineage_source_similarity: 0
+          date_accepted: 2005-10-15T00:00:00.000Z
+          date_amended: 2015-10-01T00:00:00.000Z
+          review_date: 2010-10-19T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2015-10-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19135-1:2015'
+          review_decision_notes: >-
+            The entry has been superseded. An entry with a revised definition
+            has been published in ISO 19135-1:2015
+          release: '-1'
+          terms:
+            - type: expression
+              designation: remplacement (supplantation)
+              normative_status: null
+        parents: []
+        timeCreated: 2005-10-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+deu:
+  id: 510
+  definition: Austausch eines Registereintrags durch einen oder mehrere neue Einträge
+  language_code: deu
+  notes:
+    - The status of the replaced item changes from "valid" to "superseded."
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19135:2005'
+    clause: 4.1.18
+    link: 'https://www.iso.org/standard/32553.html'
+  lineage_source: ''
+  lineage_source_similarity: 0
+  date_accepted: 2005-10-15T00:00:00.000Z
+  date_amended: 2015-10-01T00:00:00.000Z
+  review_date: 2010-10-19T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2015-10-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19135-1:2015'
+  review_decision_notes: >-
+    The entry has been superseded. An entry with a revised definition has been
+    published in ISO 19135-1:2015
+  release: '-1'
+  terms:
+    - type: expression
+      designation: Ersatz
+      normative_status: null
+  _revisions:
+    current: 40f30b
+    tree:
+      40f30b:
+        object:
+          id: 510
+          definition: >-
+            Austausch eines Registereintrags durch einen oder mehrere neue
+            Einträge
+          language_code: deu
+          notes:
+            - >-
+              The status of the replaced item changes from "valid" to
+              "superseded."
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19135:2005'
+            clause: 4.1.18
+            link: 'https://www.iso.org/standard/32553.html'
+          lineage_source: ''
+          lineage_source_similarity: 0
+          date_accepted: 2005-10-15T00:00:00.000Z
+          date_amended: 2015-10-01T00:00:00.000Z
+          review_date: 2010-10-19T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2015-10-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19135-1:2015'
+          review_decision_notes: >-
+            The entry has been superseded. An entry with a revised definition
+            has been published in ISO 19135-1:2015
+          release: '-1'
+          terms:
+            - type: expression
+              designation: Ersatz
+              normative_status: null
+        parents: []
+        timeCreated: 2005-10-15T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+kor:
+  id: 510
+  definition: 하나 이상의 새로운 항목에 의한 등록물 항목의 대체
+  language_code: kor
+  notes:
+    - 대체된 아이템의 상태가 "유효"에서 "교체"로 바뀐다.
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19135:2005'
+    clause: 4.1.18
+    link: 'https://www.iso.org/standard/32553.html'
+  lineage_source: ''
+  lineage_source_similarity: 0
+  date_accepted: 2005-10-15T00:00:00.000Z
+  date_amended: 2015-10-01T00:00:00.000Z
+  review_date: 2010-10-19T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2015-10-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19135-1:2015'
+  review_decision_notes: >-
+    The entry has been superseded. An entry with a revised definition has been
+    published in ISO 19135-1:2015
+  release: '-1'
+  terms:
+    - type: expression
+      designation: 교체
+      normative_status: null
+  _revisions:
+    current: baac5f
+    tree:
+      baac5f:
+        object:
+          id: 510
+          definition: 하나 이상의 새로운 항목에 의한 등록물 항목의 대체
+          language_code: kor
+          notes:
+            - 대체된 아이템의 상태가 "유효"에서 "교체"로 바뀐다.
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19135:2005'
+            clause: 4.1.18
+            link: 'https://www.iso.org/standard/32553.html'
+          lineage_source: ''
+          lineage_source_similarity: 0
+          date_accepted: 2005-10-15T00:00:00.000Z
+          date_amended: 2015-10-01T00:00:00.000Z
+          review_date: 2010-10-19T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2015-10-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19135-1:2015'
+          review_decision_notes: >-
+            The entry has been superseded. An entry with a revised definition
+            has been published in ISO 19135-1:2015
+          release: '-1'
+          terms:
+            - type: expression
+              designation: 교체
+              normative_status: null
+        parents: []
+        timeCreated: 2005-10-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+pol:
+  id: 510
+  definition: zastąpienie pozycji rejestru co najmniej jedną nową pozycją
+  language_code: pol
+  notes:
+    - Status zastąpionej pozycji zmienia się z „valid” na „superseded”.
+  examples: []
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19135:2005'
+    clause: 4.1.18
+    link: 'https://www.iso.org/standard/32553.html'
+  lineage_source: ''
+  lineage_source_similarity: 0
+  date_accepted: 2005-10-15T00:00:00.000Z
+  date_amended: 2015-10-01T00:00:00.000Z
+  review_date: 2010-10-19T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2015-10-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19135-1:2015'
+  review_decision_notes: >-
+    The entry has been superseded. An entry with a revised definition has been
+    published in ISO 19135-1:2015
+  release: '-1'
+  terms:
+    - type: expression
+      designation: zastępowanie
+      normative_status: null
+  _revisions:
+    current: 5d29c4
+    tree:
+      5d29c4:
+        object:
+          id: 510
+          definition: zastąpienie pozycji rejestru co najmniej jedną nową pozycją
+          language_code: pol
+          notes:
+            - Status zastąpionej pozycji zmienia się z „valid” na „superseded”.
+          examples: []
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19135:2005'
+            clause: 4.1.18
+            link: 'https://www.iso.org/standard/32553.html'
+          lineage_source: ''
+          lineage_source_similarity: 0
+          date_accepted: 2005-10-15T00:00:00.000Z
+          date_amended: 2015-10-01T00:00:00.000Z
+          review_date: 2010-10-19T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2015-10-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19135-1:2015'
+          review_decision_notes: >-
+            The entry has been superseded. An entry with a revised definition
+            has been published in ISO 19135-1:2015
+          release: '-1'
+          terms:
+            - type: expression
+              designation: zastępowanie
+              normative_status: null
+        parents: []
+        timeCreated: 2005-10-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 510
+  definition: замена единицы учета в реестре на одну или несколько новых единиц
+  language_code: rus
+  notes:
+    - >-
+      Статус замененной единицы учета изменяется от "действительный" до
+      "устаревший"
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19135:2005'
+    clause: 4.1.18
+    link: 'https://www.iso.org/standard/32553.html'
+  lineage_source: ''
+  date_accepted: 2005-10-15T00:00:00.000Z
+  review_date: 2010-10-19T00:00:00.000Z
+  review_status: ''
+  review_type: ''
+  release: '1'
+  terms:
+    - type: expression
+      designation: замещение
+      normative_status: preferred
+  _revisions:
+    current: 41c44f
+    tree:
+      41c44f:
+        object:
+          id: 510
+          definition: замена единицы учета в реестре на одну или несколько новых единиц
+          language_code: rus
+          notes:
+            - >-
+              Статус замененной единицы учета изменяется от "действительный" до
+              "устаревший"
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19135:2005'
+            clause: 4.1.18
+            link: 'https://www.iso.org/standard/32553.html'
+          lineage_source: ''
+          date_accepted: 2005-10-15T00:00:00.000Z
+          review_date: 2010-10-19T00:00:00.000Z
+          review_status: ''
+          review_type: ''
+          release: '1'
+          terms:
+            - type: expression
+              designation: замещение
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-10-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 510
+  definition: sustitución de un ítem del registro por uno o más ítems nuevos
+  language_code: spa
+  notes:
+    - El status del item reemplazado cambia de "válido" a "sustituido"
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19135:2005'
+    clause: 4.1.18
+    link: 'https://www.iso.org/standard/32553.html'
+  lineage_source: ''
+  lineage_source_similarity: 0
+  date_accepted: 2005-10-15T00:00:00.000Z
+  date_amended: 2015-10-01T00:00:00.000Z
+  review_date: 2010-10-19T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2015-10-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19135-1:2015'
+  review_decision_notes: >-
+    The entry has been superseded. An entry with a revised definition has been
+    published in ISO 19135-1:2015
+  release: '-1'
+  terms:
+    - type: expression
+      designation: reemplazo
+      normative_status: null
+  _revisions:
+    current: 9938f5
+    tree:
+      9938f5:
+        object:
+          id: 510
+          definition: sustitución de un ítem del registro por uno o más ítems nuevos
+          language_code: spa
+          notes:
+            - El status del item reemplazado cambia de "válido" a "sustituido"
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19135:2005'
+            clause: 4.1.18
+            link: 'https://www.iso.org/standard/32553.html'
+          lineage_source: ''
+          lineage_source_similarity: 0
+          date_accepted: 2005-10-15T00:00:00.000Z
+          date_amended: 2015-10-01T00:00:00.000Z
+          review_date: 2010-10-19T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2015-10-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19135-1:2015'
+          review_decision_notes: >-
+            The entry has been superseded. An entry with a revised definition
+            has been published in ISO 19135-1:2015
+          release: '-1'
+          terms:
+            - type: expression
+              designation: reemplazo
+              normative_status: null
+        parents: []
+        timeCreated: 2005-10-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+swe:
+  id: 510
+  definition: sätta i stället för något som tas bort
+  country_code: swe
+  language_code: swe
+  notes:
+    - The status of the replaced item changes from "valid" to "superseded."
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19135:2005'
+    clause: 4.1.18
+    link: 'https://www.iso.org/standard/32553.html'
+  lineage_source: ''
+  lineage_source_similarity: 0
+  date_accepted: 2005-10-15T00:00:00.000Z
+  date_amended: 2015-10-01T00:00:00.000Z
+  review_date: 2010-10-19T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2015-10-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19135-1:2015'
+  review_decision_notes: >-
+    The entry has been superseded. An entry with a revised definition has been
+    published in ISO 19135-1:2015
+  release: '-1'
+  terms:
+    - type: expression
+      designation: ersättning
+      normative_status: null
+  _revisions:
+    current: 7ded46
+    tree:
+      7ded46:
+        object:
+          id: 510
+          definition: sätta i stället för något som tas bort
+          country_code: swe
+          language_code: swe
+          notes:
+            - >-
+              The status of the replaced item changes from "valid" to
+              "superseded."
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19135:2005'
+            clause: 4.1.18
+            link: 'https://www.iso.org/standard/32553.html'
+          lineage_source: ''
+          lineage_source_similarity: 0
+          date_accepted: 2005-10-15T00:00:00.000Z
+          date_amended: 2015-10-01T00:00:00.000Z
+          review_date: 2010-10-19T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2015-10-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19135-1:2015'
+          review_decision_notes: >-
+            The entry has been superseded. An entry with a revised definition
+            has been published in ISO 19135-1:2015
+          release: '-1'
+          terms:
+            - type: expression
+              designation: ersättning
+              normative_status: null
+        parents: []
+        timeCreated: 2005-10-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

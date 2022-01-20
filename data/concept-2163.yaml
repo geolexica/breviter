@@ -1,0 +1,78 @@
+term: 'geometric dimension <geometry, topology>'
+termid: 2163
+eng:
+  id: 2163
+  definition: "largest number n such that each point in a set of points can be associated with a subset that has that point in its interior and is topologically isomorphic to \U0001D53Cn, Euclidean n-space"
+  language_code: eng
+  notes:
+    - >-
+      Curves, because they are continuous images of a portion of the real line,
+      have geometric dimension 1. Surfaces cannot always be mapped to `RR^2` in
+      their entirety, but around each point position, a small neighborhood can
+      be found that resembles (under continuous functions) the interior of the
+      unit circle in `RR^2`, and are therefore 2-dimensional. In this document,
+      most surfaces (instances of Surface) are mapped to portions of `RR^2` by
+      their defining interpolation mechanisms.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19107:2019'
+    clause: '(E), 3.48'
+    link: 'https://www.iso.org/standard/66175.html'
+  date_accepted: 2019-12-02T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: 'Publication of document ISO 19107:2019(E)'
+  review_decision_notes: 'This entry supersedes the entry for geometric dimension in ISO 19107:2003(E)'
+  release: '5'
+  terms:
+    - type: expression
+      designation: 'geometric dimension <geometry, topology>'
+      normative_status: preferred
+  _revisions:
+    current: 49feb8
+    tree:
+      49feb8:
+        object:
+          id: 2163
+          definition: "largest number n such that each point in a set of points can be associated with a subset that has that point in its interior and is topologically isomorphic to \U0001D53Cn, Euclidean n-space"
+          language_code: eng
+          notes:
+            - >-
+              Curves, because they are continuous images of a portion of the
+              real line, have geometric dimension 1. Surfaces cannot always be
+              mapped to `RR^2` in their entirety, but around each point
+              position, a small neighborhood can be found that resembles (under
+              continuous functions) the interior of the unit circle in `RR^2`,
+              and are therefore 2-dimensional. In this document, most surfaces
+              (instances of Surface) are mapped to portions of `RR^2` by their
+              defining interpolation mechanisms.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19107:2019'
+            clause: '(E), 3.48'
+            link: 'https://www.iso.org/standard/66175.html'
+          date_accepted: 2019-12-02T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: 'Publication of document ISO 19107:2019(E)'
+          review_decision_notes: >-
+            This entry supersedes the entry for geometric dimension in ISO
+            19107:2003(E)
+          release: '5'
+          terms:
+            - type: expression
+              designation: 'geometric dimension <geometry, topology>'
+              normative_status: preferred
+        parents: []
+        timeCreated: 2019-12-02T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

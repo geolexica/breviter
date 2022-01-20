@@ -1,0 +1,624 @@
+term: temporal coordinate system
+termid: 446
+eng:
+  id: 446
+  definition: >-
+    temporal reference system based on an interval scale on which distance is
+    measured as a multiple of a single unit of time
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19108:2002'
+    link: 'https://www.iso.org/standard/26013.html'
+  date_accepted: 2002-09-01T00:00:00.000Z
+  review_date: 2018-04-09T00:00:00.000Z
+  review_status: pending
+  review_type: supersession
+  release: '1'
+  terms:
+    - type: expression
+      designation: temporal coordinate system
+      normative_status: preferred
+  _revisions:
+    current: 0e65e4
+    tree:
+      0e65e4:
+        object:
+          id: 446
+          definition: >-
+            temporal reference system based on an interval scale on which
+            distance is measured as a multiple of a single unit of time
+          language_code: eng
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19108:2002'
+            link: 'https://www.iso.org/standard/26013.html'
+          date_accepted: 2002-09-01T00:00:00.000Z
+          review_date: 2018-04-09T00:00:00.000Z
+          review_status: pending
+          review_type: supersession
+          release: '1'
+          terms:
+            - type: expression
+              designation: temporal coordinate system
+              normative_status: preferred
+        parents: []
+        timeCreated: 2002-09-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+ara:
+  id: 446
+  definition: >-
+    نظام مرجعي زمني مبني على مقياس زمني تقاس عليه المسافة باعتبارها من مضاعفات
+    وحدة زمنية واحدة
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19108:2002'
+    link: 'https://www.iso.org/standard/26013.html'
+  date_accepted: 2002-09-01T00:00:00.000Z
+  review_date: 2018-04-09T00:00:00.000Z
+  review_status: pending
+  review_type: supersession
+  release: '1'
+  terms:
+    - type: expression
+      designation: نظام إحداثيات زمني
+      normative_status: preferred
+  _revisions:
+    current: d0629c
+    tree:
+      d0629c:
+        object:
+          id: 446
+          definition: >-
+            نظام مرجعي زمني مبني على مقياس زمني تقاس عليه المسافة باعتبارها من
+            مضاعفات وحدة زمنية واحدة
+          language_code: ara
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19108:2002'
+            link: 'https://www.iso.org/standard/26013.html'
+          date_accepted: 2002-09-01T00:00:00.000Z
+          review_date: 2018-04-09T00:00:00.000Z
+          review_status: pending
+          review_type: supersession
+          release: '1'
+          terms:
+            - type: expression
+              designation: نظام إحداثيات زمني
+              normative_status: preferred
+        parents: []
+        timeCreated: 2002-09-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+zho:
+  id: 446
+  definition: 基于间隔标度的时间参照系，在间隔标度上的距离是以1个时间单位的倍数度量的。
+  language_code: zho
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19108:2002'
+    link: 'https://www.iso.org/standard/26013.html'
+  date_accepted: 2002-09-01T00:00:00.000Z
+  review_date: 2018-04-09T00:00:00.000Z
+  review_status: pending
+  review_type: supersession
+  release: '1'
+  terms:
+    - type: expression
+      designation: 时间坐标系
+      normative_status: preferred
+  _revisions:
+    current: d352f2
+    tree:
+      d352f2:
+        object:
+          id: 446
+          definition: 基于间隔标度的时间参照系，在间隔标度上的距离是以1个时间单位的倍数度量的。
+          language_code: zho
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19108:2002'
+            link: 'https://www.iso.org/standard/26013.html'
+          date_accepted: 2002-09-01T00:00:00.000Z
+          review_date: 2018-04-09T00:00:00.000Z
+          review_status: pending
+          review_type: supersession
+          release: '1'
+          terms:
+            - type: expression
+              designation: 时间坐标系
+              normative_status: preferred
+        parents: []
+        timeCreated: 2002-09-01T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+fin:
+  id: 446
+  definition: >-
+    ajan vertausjärjestelmä, joka perustuu intervalliasteikkoon, jossa etäisyys
+    mitataan ajan kerrannaisyksikköinä
+  language_code: fin
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19108:2002'
+    link: 'https://www.iso.org/standard/26013.html'
+  date_accepted: 2002-09-01T00:00:00.000Z
+  review_date: 2018-04-09T00:00:00.000Z
+  review_status: pending
+  review_type: supersession
+  release: '1'
+  terms:
+    - type: expression
+      designation: aikakoordinaatisto
+      normative_status: preferred
+  _revisions:
+    current: e88c69
+    tree:
+      e88c69:
+        object:
+          id: 446
+          definition: >-
+            ajan vertausjärjestelmä, joka perustuu intervalliasteikkoon, jossa
+            etäisyys mitataan ajan kerrannaisyksikköinä
+          language_code: fin
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19108:2002'
+            link: 'https://www.iso.org/standard/26013.html'
+          date_accepted: 2002-09-01T00:00:00.000Z
+          review_date: 2018-04-09T00:00:00.000Z
+          review_status: pending
+          review_type: supersession
+          release: '1'
+          terms:
+            - type: expression
+              designation: aikakoordinaatisto
+              normative_status: preferred
+        parents: []
+        timeCreated: 2002-09-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+fra:
+  id: 446
+  definition: >-
+    système de référence temporel basé sur une échelle d'intervalle sur laquelle
+    la distance est mesurée comme un multiple d'une seule unité de temps
+  language_code: fra
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19108:2002'
+    link: 'https://www.iso.org/standard/26013.html'
+  date_accepted: 2002-09-01T00:00:00.000Z
+  review_date: 2018-04-09T00:00:00.000Z
+  review_status: pending
+  review_type: supersession
+  release: '1'
+  terms:
+    - type: expression
+      designation: système de coordonnées temporel
+      normative_status: preferred
+  _revisions:
+    current: 69820f
+    tree:
+      69820f:
+        object:
+          id: 446
+          definition: >-
+            système de référence temporel basé sur une échelle d'intervalle sur
+            laquelle la distance est mesurée comme un multiple d'une seule unité
+            de temps
+          language_code: fra
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19108:2002'
+            link: 'https://www.iso.org/standard/26013.html'
+          date_accepted: 2002-09-01T00:00:00.000Z
+          review_date: 2018-04-09T00:00:00.000Z
+          review_status: pending
+          review_type: supersession
+          release: '1'
+          terms:
+            - type: expression
+              designation: système de coordonnées temporel
+              normative_status: preferred
+        parents: []
+        timeCreated: 2002-09-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+deu:
+  id: 446
+  language_code: deu
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19108:2002'
+    link: 'https://www.iso.org/standard/26013.html'
+  date_accepted: 2002-09-01T00:00:00.000Z
+  review_date: 2018-04-09T00:00:00.000Z
+  review_status: pending
+  review_type: supersession
+  release: '1'
+  terms:
+    - type: expression
+      designation: zeitbezogenes Koordinatensystem
+      normative_status: preferred
+  _revisions:
+    current: f331a4
+    tree:
+      f331a4:
+        object:
+          id: 446
+          language_code: deu
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19108:2002'
+            link: 'https://www.iso.org/standard/26013.html'
+          date_accepted: 2002-09-01T00:00:00.000Z
+          review_date: 2018-04-09T00:00:00.000Z
+          review_status: pending
+          review_type: supersession
+          release: '1'
+          terms:
+            - type: expression
+              designation: zeitbezogenes Koordinatensystem
+              normative_status: preferred
+        parents: []
+        timeCreated: 2002-09-01T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+jpn:
+  id: 446
+  definition: 単一の時間単位の倍数として距離を測定する間隔尺度を基礎とする時間参照系。
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19108:2002'
+    link: 'https://www.iso.org/standard/26013.html'
+  date_accepted: 2002-09-01T00:00:00.000Z
+  review_date: 2018-04-09T00:00:00.000Z
+  review_status: pending
+  review_type: supersession
+  release: '1'
+  terms:
+    - type: expression
+      designation: 時間座標系
+      normative_status: preferred
+  _revisions:
+    current: d0681c
+    tree:
+      d0681c:
+        object:
+          id: 446
+          definition: 単一の時間単位の倍数として距離を測定する間隔尺度を基礎とする時間参照系。
+          language_code: jpn
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19108:2002'
+            link: 'https://www.iso.org/standard/26013.html'
+          date_accepted: 2002-09-01T00:00:00.000Z
+          review_date: 2018-04-09T00:00:00.000Z
+          review_status: pending
+          review_type: supersession
+          release: '1'
+          terms:
+            - type: expression
+              designation: 時間座標系
+              normative_status: preferred
+        parents: []
+        timeCreated: 2002-09-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+kor:
+  id: 446
+  definition: 단일 시간 단위로 측정된 길이를 통해 정의된 간격 척도를 기초로 하는 시간 참조 체계
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19108:2002'
+    link: 'https://www.iso.org/standard/26013.html'
+  date_accepted: 2002-09-01T00:00:00.000Z
+  review_date: 2018-04-09T00:00:00.000Z
+  review_status: pending
+  review_type: supersession
+  release: '1'
+  terms:
+    - type: expression
+      designation: 시간좌표계
+      normative_status: preferred
+  _revisions:
+    current: a081ed
+    tree:
+      a081ed:
+        object:
+          id: 446
+          definition: 단일 시간 단위로 측정된 길이를 통해 정의된 간격 척도를 기초로 하는 시간 참조 체계
+          language_code: kor
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19108:2002'
+            link: 'https://www.iso.org/standard/26013.html'
+          date_accepted: 2002-09-01T00:00:00.000Z
+          review_date: 2018-04-09T00:00:00.000Z
+          review_status: pending
+          review_type: supersession
+          release: '1'
+          terms:
+            - type: expression
+              designation: 시간좌표계
+              normative_status: preferred
+        parents: []
+        timeCreated: 2002-09-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+pol:
+  id: 446
+  definition: >-
+    czasowy system odniesienia oparty na skali interwałowej, w której odległość
+    jest mierzona jako wielokrotność jednostki czasu
+  language_code: pol
+  notes: []
+  examples: []
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19108:2002'
+    link: 'https://www.iso.org/standard/26013.html'
+  date_accepted: 2002-09-01T00:00:00.000Z
+  review_date: 2018-04-09T00:00:00.000Z
+  review_status: pending
+  review_type: supersession
+  release: '1'
+  terms:
+    - type: expression
+      designation: układ współrzędnych czasowych
+      normative_status: preferred
+  _revisions:
+    current: 3547b3
+    tree:
+      3547b3:
+        object:
+          id: 446
+          definition: >-
+            czasowy system odniesienia oparty na skali interwałowej, w której
+            odległość jest mierzona jako wielokrotność jednostki czasu
+          language_code: pol
+          notes: []
+          examples: []
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19108:2002'
+            link: 'https://www.iso.org/standard/26013.html'
+          date_accepted: 2002-09-01T00:00:00.000Z
+          review_date: 2018-04-09T00:00:00.000Z
+          review_status: pending
+          review_type: supersession
+          release: '1'
+          terms:
+            - type: expression
+              designation: układ współrzędnych czasowych
+              normative_status: preferred
+        parents: []
+        timeCreated: 2002-09-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 446
+  definition: >-
+    система регистрации времени, основанная на интервальной шкале, на которой
+    промежуток времени измеряется как величина, кратная общей единице измерения
+    времени
+  language_code: rus
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19108:2002'
+    link: 'https://www.iso.org/standard/26013.html'
+  date_accepted: 2002-09-01T00:00:00.000Z
+  review_date: 2018-04-09T00:00:00.000Z
+  review_status: pending
+  review_type: supersession
+  release: '1'
+  terms:
+    - type: expression
+      designation: система временных координат
+      normative_status: preferred
+  _revisions:
+    current: 56c7d0
+    tree:
+      56c7d0:
+        object:
+          id: 446
+          definition: >-
+            система регистрации времени, основанная на интервальной шкале, на
+            которой промежуток времени измеряется как величина, кратная общей
+            единице измерения времени
+          language_code: rus
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19108:2002'
+            link: 'https://www.iso.org/standard/26013.html'
+          date_accepted: 2002-09-01T00:00:00.000Z
+          review_date: 2018-04-09T00:00:00.000Z
+          review_status: pending
+          review_type: supersession
+          release: '1'
+          terms:
+            - type: expression
+              designation: система временных координат
+              normative_status: preferred
+        parents: []
+        timeCreated: 2002-09-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 446
+  definition: >-
+    sistema de referencia temporal basado en una escala de intervalo en la que
+    se mide la distancia como múltiplo de una unidad temporal única
+  language_code: spa
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19108:2002'
+    link: 'https://www.iso.org/standard/26013.html'
+  date_accepted: 2002-09-01T00:00:00.000Z
+  review_date: 2018-04-09T00:00:00.000Z
+  review_status: pending
+  review_type: supersession
+  release: '1'
+  terms:
+    - type: expression
+      designation: sistema de coordenadas temporales
+      normative_status: preferred
+  _revisions:
+    current: 77d638
+    tree:
+      77d638:
+        object:
+          id: 446
+          definition: >-
+            sistema de referencia temporal basado en una escala de intervalo en
+            la que se mide la distancia como múltiplo de una unidad temporal
+            única
+          language_code: spa
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19108:2002'
+            link: 'https://www.iso.org/standard/26013.html'
+          date_accepted: 2002-09-01T00:00:00.000Z
+          review_date: 2018-04-09T00:00:00.000Z
+          review_status: pending
+          review_type: supersession
+          release: '1'
+          terms:
+            - type: expression
+              designation: sistema de coordenadas temporales
+              normative_status: preferred
+        parents: []
+        timeCreated: 2002-09-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+swe:
+  id: 446
+  definition: >-
+    temporalt referenssystem bestående av en intervallskala och där tid anges
+    som en koordinat
+  country_code: swe
+  language_code: swe
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19108:2002'
+    link: 'https://www.iso.org/standard/26013.html'
+  date_accepted: 2002-09-01T00:00:00.000Z
+  review_date: 2018-04-09T00:00:00.000Z
+  review_status: pending
+  review_type: supersession
+  release: '1'
+  terms:
+    - type: expression
+      designation: temporalt koordinatsystem
+      normative_status: preferred
+  _revisions:
+    current: '1972e3'
+    tree:
+      '1972e3':
+        object:
+          id: 446
+          definition: >-
+            temporalt referenssystem bestående av en intervallskala och där tid
+            anges som en koordinat
+          country_code: swe
+          language_code: swe
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19108:2002'
+            link: 'https://www.iso.org/standard/26013.html'
+          date_accepted: 2002-09-01T00:00:00.000Z
+          review_date: 2018-04-09T00:00:00.000Z
+          review_status: pending
+          review_type: supersession
+          release: '1'
+          terms:
+            - type: expression
+              designation: temporalt koordinatsystem
+              normative_status: preferred
+        parents: []
+        timeCreated: 2002-09-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

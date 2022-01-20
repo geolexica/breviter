@@ -1,0 +1,535 @@
+term: zero meridian
+termid: 505
+eng:
+  id: 505
+  definition: meridian from which the longitudes of other meridians are quantified
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19111:2007'
+    link: 'https://www.iso.org/standard/41126.html'
+  lineage_source: 'ISO 19111:2003'
+  lineage_source_similarity: 1
+  date_accepted: 2003-02-15T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: zero meridian
+      normative_status: admitted
+    - designation: prime meridian
+      type: expression
+  _revisions:
+    current: 0362b8
+    tree:
+      0362b8:
+        object:
+          id: 505
+          definition: meridian from which the longitudes of other meridians are quantified
+          language_code: eng
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19111:2007'
+            link: 'https://www.iso.org/standard/41126.html'
+          lineage_source: 'ISO 19111:2003'
+          lineage_source_similarity: 1
+          date_accepted: 2003-02-15T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: zero meridian
+              normative_status: admitted
+            - designation: prime meridian
+              type: expression
+        parents: []
+        timeCreated: 2003-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+ara:
+  id: 505
+  definition: خط الطول الذي تحسب قيم جميع خطوط الطول الأخرى ابتداءً منه
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19111:2007'
+    link: 'https://www.iso.org/standard/41126.html'
+  date_accepted: 2003-02-15T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: خط الطول صفر
+      normative_status: admitted
+    - designation: prime meridian
+      type: expression
+  _revisions:
+    current: 069b84
+    tree:
+      069b84:
+        object:
+          id: 505
+          definition: خط الطول الذي تحسب قيم جميع خطوط الطول الأخرى ابتداءً منه
+          language_code: ara
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19111:2007'
+            link: 'https://www.iso.org/standard/41126.html'
+          date_accepted: 2003-02-15T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: خط الطول صفر
+              normative_status: admitted
+            - designation: prime meridian
+              type: expression
+        parents: []
+        timeCreated: 2003-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+zho:
+  id: 505
+  definition: 以此起算，确定其他子午线经度的子午线。
+  language_code: zho
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19111:2007'
+    link: 'https://www.iso.org/standard/41126.html'
+  date_accepted: 2003-02-15T00:00:00.000Z
+  terms:
+    - type: expression
+      designation: 零子午线
+      normative_status: admitted
+    - designation: prime meridian
+      type: expression
+  _revisions:
+    current: a4a43c
+    tree:
+      a4a43c:
+        object:
+          id: 505
+          definition: 以此起算，确定其他子午线经度的子午线。
+          language_code: zho
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19111:2007'
+            link: 'https://www.iso.org/standard/41126.html'
+          date_accepted: 2003-02-15T00:00:00.000Z
+          terms:
+            - type: expression
+              designation: 零子午线
+              normative_status: admitted
+            - designation: prime meridian
+              type: expression
+        parents: []
+        timeCreated: 2003-02-15T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+nld:
+  id: 505
+  definition: >-
+    meridiaan waarvandaan de lengtegraden van de overige meridianen worden
+    bepaald
+  language_code: nld
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19111:2007'
+    link: 'https://www.iso.org/standard/41126.html'
+  date_accepted: 2003-02-15T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: nulmeridiaan
+      normative_status: admitted
+    - designation: nul meridiaan
+      type: expression
+  _revisions:
+    current: '188262'
+    tree:
+      '188262':
+        object:
+          id: 505
+          definition: >-
+            meridiaan waarvandaan de lengtegraden van de overige meridianen
+            worden bepaald
+          language_code: nld
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19111:2007'
+            link: 'https://www.iso.org/standard/41126.html'
+          date_accepted: 2003-02-15T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: nulmeridiaan
+              normative_status: admitted
+            - designation: nul meridiaan
+              type: expression
+        parents: []
+        timeCreated: 2003-02-15T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+fin:
+  id: 505
+  definition: 'pituuspiiri, jonka suhteen muiden pituuspiirien pituusasteet määritetään'
+  language_code: fin
+  notes:
+    - 'Pituuspiiri, jonka suhteen muiden pituuspiirien pituusasteet ilmaistaan.'
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19111:2007'
+    link: 'https://www.iso.org/standard/41126.html'
+  lineage_source: 'Sanastokeskus TSK: Geoinformatiikan sanasto (TSK 42), 2011'
+  date_accepted: 2003-02-15T00:00:00.000Z
+  terms:
+    - type: expression
+      designation: nollameridiaani
+      normative_status: preferred
+    - designation: nollapituuspiiri; Greenwichin meridiaani
+      type: expression
+  _revisions:
+    current: 61f837
+    tree:
+      61f837:
+        object:
+          id: 505
+          definition: >-
+            pituuspiiri, jonka suhteen muiden pituuspiirien pituusasteet
+            määritetään
+          language_code: fin
+          notes:
+            - >-
+              Pituuspiiri, jonka suhteen muiden pituuspiirien pituusasteet
+              ilmaistaan.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19111:2007'
+            link: 'https://www.iso.org/standard/41126.html'
+          lineage_source: 'Sanastokeskus TSK: Geoinformatiikan sanasto (TSK 42), 2011'
+          date_accepted: 2003-02-15T00:00:00.000Z
+          terms:
+            - type: expression
+              designation: nollameridiaani
+              normative_status: preferred
+            - designation: nollapituuspiiri; Greenwichin meridiaani
+              type: expression
+        parents: []
+        timeCreated: 2003-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+fra:
+  id: 505
+  definition: méridien à partir duquel les longitudes des autres méridiens sont mesurées
+  language_code: fra
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: ISO 19111
+    link: 'https://www.iso.org/standard/74039.html'
+  lineage_source: 'ISO 19111:2003'
+  lineage_source_similarity: 1
+  date_accepted: 2003-02-15T00:00:00.000Z
+  terms:
+    - type: expression
+      designation: méridien origine
+      normative_status: admitted
+    - designation: prime meridian
+      type: expression
+  _revisions:
+    current: a251f8
+    tree:
+      a251f8:
+        object:
+          id: 505
+          definition: >-
+            méridien à partir duquel les longitudes des autres méridiens sont
+            mesurées
+          language_code: fra
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: ISO 19111
+            link: 'https://www.iso.org/standard/74039.html'
+          lineage_source: 'ISO 19111:2003'
+          lineage_source_similarity: 1
+          date_accepted: 2003-02-15T00:00:00.000Z
+          terms:
+            - type: expression
+              designation: méridien origine
+              normative_status: admitted
+            - designation: prime meridian
+              type: expression
+        parents: []
+        timeCreated: 2003-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+kor:
+  id: 505
+  definition: '본초 자오선, 다른 자오선의 경도 정량화에 사용되는 기준 자오선'
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19111:2007'
+    link: 'https://www.iso.org/standard/41126.html'
+  lineage_source: KS X ISO 19111
+  date_accepted: 2007-11-01T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: 0도 자오선
+      normative_status: admitted
+  _revisions:
+    current: 55e86a
+    tree:
+      55e86a:
+        object:
+          id: 505
+          definition: '본초 자오선, 다른 자오선의 경도 정량화에 사용되는 기준 자오선'
+          language_code: kor
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19111:2007'
+            link: 'https://www.iso.org/standard/41126.html'
+          lineage_source: KS X ISO 19111
+          date_accepted: 2007-11-01T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: 0도 자오선
+              normative_status: admitted
+        parents: []
+        timeCreated: 2007-11-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+msa:
+  id: 505
+  language_code: msa
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19111:2007'
+    link: 'https://www.iso.org/standard/41126.html'
+  lineage_source: 'Istilah ukur dan Pemetaan (DBP, 1992)'
+  date_accepted: 2003-02-15T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: meridian sifar
+      normative_status: admitted
+    - designation: prime meridian
+      type: expression
+  _revisions:
+    current: e467ae
+    tree:
+      e467ae:
+        object:
+          id: 505
+          language_code: msa
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19111:2007'
+            link: 'https://www.iso.org/standard/41126.html'
+          lineage_source: 'Istilah ukur dan Pemetaan (DBP, 1992)'
+          date_accepted: 2003-02-15T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: meridian sifar
+              normative_status: admitted
+            - designation: prime meridian
+              type: expression
+        parents: []
+        timeCreated: 2003-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+pol:
+  id: 505
+  definition: 'południk, względem którego oblicza się długości geodezyjne innych południków'
+  language_code: pol
+  notes: []
+  examples: []
+  authoritative_source:
+    ref: 'ISO 19111:2007'
+    link: 'https://www.iso.org/standard/41126.html'
+  lineage_source: PN-EN ISO 19111
+  date_accepted: 2003-02-15T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: 'południk poczatkowy,             południk zerowy'
+      normative_status: admitted
+    - designation: pierwszy (początkowy) południk
+      type: expression
+  _revisions:
+    current: 921abb
+    tree:
+      921abb:
+        object:
+          id: 505
+          definition: >-
+            południk, względem którego oblicza się długości geodezyjne innych
+            południków
+          language_code: pol
+          notes: []
+          examples: []
+          authoritative_source:
+            ref: 'ISO 19111:2007'
+            link: 'https://www.iso.org/standard/41126.html'
+          lineage_source: PN-EN ISO 19111
+          date_accepted: 2003-02-15T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: 'południk poczatkowy,             południk zerowy'
+              normative_status: admitted
+            - designation: pierwszy (początkowy) południk
+              type: expression
+        parents: []
+        timeCreated: 2003-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 505
+  definition: 'меридиан, от которого отсчитывают долготы или другие меридианы'
+  language_code: rus
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19111:2007'
+    link: 'https://www.iso.org/standard/41126.html'
+  lineage_source: Internet
+  date_accepted: 2003-02-15T00:00:00.000Z
+  terms:
+    - type: expression
+      designation: нулевой меридиан
+      normative_status: admitted
+    - designation: главный меридиан
+      type: expression
+  _revisions:
+    current: 934a95
+    tree:
+      934a95:
+        object:
+          id: 505
+          definition: 'меридиан, от которого отсчитывают долготы или другие меридианы'
+          language_code: rus
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19111:2007'
+            link: 'https://www.iso.org/standard/41126.html'
+          lineage_source: Internet
+          date_accepted: 2003-02-15T00:00:00.000Z
+          terms:
+            - type: expression
+              designation: нулевой меридиан
+              normative_status: admitted
+            - designation: главный меридиан
+              type: expression
+        parents: []
+        timeCreated: 2003-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 505
+  definition: >-
+    meridiano desde el cual se cuantifican las longitudes de los otros
+    meridianos
+  language_code: spa
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19111:2007'
+    link: 'https://www.iso.org/standard/41126.html'
+  date_accepted: 2003-02-15T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: meridiano cero
+      normative_status: admitted
+    - designation: meridiano principal
+      type: expression
+  _revisions:
+    current: cb3ae0
+    tree:
+      cb3ae0:
+        object:
+          id: 505
+          definition: >-
+            meridiano desde el cual se cuantifican las longitudes de los otros
+            meridianos
+          language_code: spa
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19111:2007'
+            link: 'https://www.iso.org/standard/41126.html'
+          date_accepted: 2003-02-15T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: meridiano cero
+              normative_status: admitted
+            - designation: meridiano principal
+              type: expression
+        parents: []
+        timeCreated: 2003-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

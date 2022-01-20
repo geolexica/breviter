@@ -1,0 +1,124 @@
+term: real world effect
+termid: 1683
+eng:
+  id: 1683
+  definition: >-
+    actual result of using a service, rather than merely the capability offered
+    by a service provider
+  language_code: eng
+  notes:
+    - See 8.3 for a discussion of service.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: OASIS RAF
+    clause: 3.2.3
+  lineage_source: 'ISO 19119:2016, 4.1.11'
+  date_accepted: 2016-01-15T00:00:00.000Z
+  review_date: 2012-08-11T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2016-01-15T00:00:00.000Z
+  review_decision_event: Normal ISO processing
+  review_decision_notes: 'Publication of document ISO 19119:2016(E)'
+  release: '4'
+  terms:
+    - type: expression
+      designation: real world effect
+      normative_status: preferred
+  _revisions:
+    current: 7c6383
+    tree:
+      7c6383:
+        object:
+          id: 1683
+          definition: >-
+            actual result of using a service, rather than merely the capability
+            offered by a service provider
+          language_code: eng
+          notes:
+            - See 8.3 for a discussion of service.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: OASIS RAF
+            clause: 3.2.3
+          lineage_source: 'ISO 19119:2016, 4.1.11'
+          date_accepted: 2016-01-15T00:00:00.000Z
+          review_date: 2012-08-11T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2016-01-15T00:00:00.000Z
+          review_decision_event: Normal ISO processing
+          review_decision_notes: 'Publication of document ISO 19119:2016(E)'
+          release: '4'
+          terms:
+            - type: expression
+              designation: real world effect
+              normative_status: preferred
+        parents: []
+        timeCreated: 2016-01-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 1683
+  definition: >-
+    resultado real del uso de un servicio, más allá de la mera capacidad
+    ofrecida por el proveedor del servicio
+  language_code: spa
+  notes:
+    - Veáse el apartado 8.3 para una discusión sobre el servicio
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: OASIS RAF
+    clause: 3.2.3
+  lineage_source: 'ISO 19119:2016, 4.1.11'
+  date_accepted: 2016-01-15T00:00:00.000Z
+  review_date: 2012-08-11T00:00:00.000Z
+  review_status: final
+  review_decision: ''
+  review_decision_date: 2016-01-15T00:00:00.000Z
+  review_decision_event: Normal ISO processing
+  review_decision_notes: 'Publication of document ISO 19119:2016(E)'
+  release: '4'
+  terms:
+    - type: expression
+      designation: efecto en el mundo real
+      normative_status: preferred
+  _revisions:
+    current: 07ee33
+    tree:
+      07ee33:
+        object:
+          id: 1683
+          definition: >-
+            resultado real del uso de un servicio, más allá de la mera capacidad
+            ofrecida por el proveedor del servicio
+          language_code: spa
+          notes:
+            - Veáse el apartado 8.3 para una discusión sobre el servicio
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: OASIS RAF
+            clause: 3.2.3
+          lineage_source: 'ISO 19119:2016, 4.1.11'
+          date_accepted: 2016-01-15T00:00:00.000Z
+          review_date: 2012-08-11T00:00:00.000Z
+          review_status: final
+          review_decision: ''
+          review_decision_date: 2016-01-15T00:00:00.000Z
+          review_decision_event: Normal ISO processing
+          review_decision_notes: 'Publication of document ISO 19119:2016(E)'
+          release: '4'
+          terms:
+            - type: expression
+              designation: efecto en el mundo real
+              normative_status: preferred
+        parents: []
+        timeCreated: 2016-01-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

@@ -1,0 +1,467 @@
+term: simple feature
+termid: 412
+eng:
+  id: 412
+  definition: >-
+    feature restricted to 2D geometry with linear interpolation between
+    vertices, having both spatial and non spatial attributes
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19125-1:2004'
+    link: 'https://www.iso.org/standard/40114.html'
+  date_accepted: 2004-08-01T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: simple feature
+      normative_status: preferred
+  _revisions:
+    current: d6a7ad
+    tree:
+      d6a7ad:
+        object:
+          id: 412
+          definition: >-
+            feature restricted to 2D geometry with linear interpolation between
+            vertices, having both spatial and non spatial attributes
+          language_code: eng
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19125-1:2004'
+            link: 'https://www.iso.org/standard/40114.html'
+          date_accepted: 2004-08-01T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: simple feature
+              normative_status: preferred
+        parents: []
+        timeCreated: 2004-08-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+ara:
+  id: 412
+  definition: >-
+    معلم يقتصر على تركيبة هندسية ثنائية البعد مع استيفاء طولي  للخطوط بين رؤوس
+    المضلعات ، وله خواص مكانية وغير مكانية
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19125-1:2004'
+    link: 'https://www.iso.org/standard/40114.html'
+  date_accepted: 2004-08-01T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: معلم بسيط
+      normative_status: preferred
+  _revisions:
+    current: 786adc
+    tree:
+      786adc:
+        object:
+          id: 412
+          definition: >-
+            معلم يقتصر على تركيبة هندسية ثنائية البعد مع استيفاء طولي  للخطوط
+            بين رؤوس المضلعات ، وله خواص مكانية وغير مكانية
+          language_code: ara
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19125-1:2004'
+            link: 'https://www.iso.org/standard/40114.html'
+          date_accepted: 2004-08-01T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: معلم بسيط
+              normative_status: preferred
+        parents: []
+        timeCreated: 2004-08-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+zho:
+  id: 412
+  definition: 限制于可在顶点间进行线性插值的二维几何要素，同时具有空间和非空间属性。
+  language_code: zho
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19125-1:2004'
+    link: 'https://www.iso.org/standard/40114.html'
+  date_accepted: 2004-08-01T00:00:00.000Z
+  terms:
+    - type: expression
+      designation: 简单要素
+      normative_status: preferred
+  _revisions:
+    current: 2cb01b
+    tree:
+      2cb01b:
+        object:
+          id: 412
+          definition: 限制于可在顶点间进行线性插值的二维几何要素，同时具有空间和非空间属性。
+          language_code: zho
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19125-1:2004'
+            link: 'https://www.iso.org/standard/40114.html'
+          date_accepted: 2004-08-01T00:00:00.000Z
+          terms:
+            - type: expression
+              designation: 简单要素
+              normative_status: preferred
+        parents: []
+        timeCreated: 2004-08-01T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+fin:
+  id: 412
+  definition: 'kohde, jonka osilla on lineaarinen interpolaatio'
+  language_code: fin
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'OGC Simple Feature Access - Part 1: Common Architecture'
+  lineage_source: Maanmittauslaitos
+  date_accepted: 2013-07-03T00:00:00.000Z
+  terms:
+    - type: expression
+      designation: yksinkertainen kohde
+      normative_status: preferred
+  _revisions:
+    current: c5b4f3
+    tree:
+      c5b4f3:
+        object:
+          id: 412
+          definition: 'kohde, jonka osilla on lineaarinen interpolaatio'
+          language_code: fin
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'OGC Simple Feature Access - Part 1: Common Architecture'
+          lineage_source: Maanmittauslaitos
+          date_accepted: 2013-07-03T00:00:00.000Z
+          terms:
+            - type: expression
+              designation: yksinkertainen kohde
+              normative_status: preferred
+        parents: []
+        timeCreated: 2013-07-03T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+fra:
+  id: 412
+  definition: >-
+    entité limitée à des géométries 2D avec interpolation linéaire entre les
+    sommets, ayant à la fois des attributs spatiaux et non spatiaux
+  language_code: fra
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: ISO 19125-1
+    link: 'https://www.iso.org/standard/40114.html'
+  lineage_source: ''
+  date_accepted: 2004-08-01T00:00:00.000Z
+  terms:
+    - type: expression
+      designation: entité simple
+      normative_status: preferred
+  _revisions:
+    current: 878f65
+    tree:
+      878f65:
+        object:
+          id: 412
+          definition: >-
+            entité limitée à des géométries 2D avec interpolation linéaire entre
+            les sommets, ayant à la fois des attributs spatiaux et non spatiaux
+          language_code: fra
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: ISO 19125-1
+            link: 'https://www.iso.org/standard/40114.html'
+          lineage_source: ''
+          date_accepted: 2004-08-01T00:00:00.000Z
+          terms:
+            - type: expression
+              designation: entité simple
+              normative_status: preferred
+        parents: []
+        timeCreated: 2004-08-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+kor:
+  id: 412
+  definition: '공간 속성, 비공간 속성을 모두 갖는 정점들 간의 선형 보간에 의해 2차원 기하로 제한된 피처'
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19125-1:2004'
+    link: 'https://www.iso.org/standard/40114.html'
+  lineage_source: KS X ISO 19125-1
+  date_accepted: 2007-11-01T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: 단순 지형지물
+      normative_status: preferred
+    - designation: 단순 피처
+      type: expression
+  _revisions:
+    current: aacf26
+    tree:
+      aacf26:
+        object:
+          id: 412
+          definition: '공간 속성, 비공간 속성을 모두 갖는 정점들 간의 선형 보간에 의해 2차원 기하로 제한된 피처'
+          language_code: kor
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19125-1:2004'
+            link: 'https://www.iso.org/standard/40114.html'
+          lineage_source: KS X ISO 19125-1
+          date_accepted: 2007-11-01T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: 단순 지형지물
+              normative_status: preferred
+            - designation: 단순 피처
+              type: expression
+        parents: []
+        timeCreated: 2007-11-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+pol:
+  id: 412
+  definition: >-
+    obiekt (4.11) ograniczony do geometrii 2-wymiarowej,określony metodą
+    liniowej interpolacji między wierzchołkami, mający zarówno przestrzenne, jak
+    i nieprzestrzenne atrybuty
+  language_code: pol
+  notes: []
+  examples: []
+  authoritative_source:
+    ref: 'ISO 19125-1:2004'
+    link: 'https://www.iso.org/standard/40114.html'
+  lineage_source: PN-EN ISO 19125-1
+  date_accepted: 2004-08-01T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: prosty obiekt
+      normative_status: preferred
+  _revisions:
+    current: cae33e
+    tree:
+      cae33e:
+        object:
+          id: 412
+          definition: >-
+            obiekt (4.11) ograniczony do geometrii 2-wymiarowej,określony metodą
+            liniowej interpolacji między wierzchołkami, mający zarówno
+            przestrzenne, jak i nieprzestrzenne atrybuty
+          language_code: pol
+          notes: []
+          examples: []
+          authoritative_source:
+            ref: 'ISO 19125-1:2004'
+            link: 'https://www.iso.org/standard/40114.html'
+          lineage_source: PN-EN ISO 19125-1
+          date_accepted: 2004-08-01T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: prosty obiekt
+              normative_status: preferred
+        parents: []
+        timeCreated: 2004-08-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 412
+  definition: >-
+    не более, чем двумерный объект с линейной интерполяцией между вершинами,
+    обладающий пространственными и непространственными атрибутами
+  language_code: rus
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19125-1:2004'
+    link: 'https://www.iso.org/standard/40114.html'
+  lineage_source: Internet
+  date_accepted: 2004-08-01T00:00:00.000Z
+  terms:
+    - type: expression
+      designation: простой (пространственный) объект
+      normative_status: preferred
+  _revisions:
+    current: e12b5d
+    tree:
+      e12b5d:
+        object:
+          id: 412
+          definition: >-
+            не более, чем двумерный объект с линейной интерполяцией между
+            вершинами, обладающий пространственными и непространственными
+            атрибутами
+          language_code: rus
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19125-1:2004'
+            link: 'https://www.iso.org/standard/40114.html'
+          lineage_source: Internet
+          date_accepted: 2004-08-01T00:00:00.000Z
+          terms:
+            - type: expression
+              designation: простой (пространственный) объект
+              normative_status: preferred
+        parents: []
+        timeCreated: 2004-08-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 412
+  definition: >-
+    objeto geográfico restringido a una geometría 2D con inerpolación lineal
+    entre vértices, que tiene tanto atributos espaciales como no espaciales
+  language_code: spa
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19125-1:2004'
+    link: 'https://www.iso.org/standard/40114.html'
+  date_accepted: 2004-08-01T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: objeto geográfico simple
+      normative_status: preferred
+  _revisions:
+    current: e66e4d
+    tree:
+      e66e4d:
+        object:
+          id: 412
+          definition: >-
+            objeto geográfico restringido a una geometría 2D con inerpolación
+            lineal entre vértices, que tiene tanto atributos espaciales como no
+            espaciales
+          language_code: spa
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19125-1:2004'
+            link: 'https://www.iso.org/standard/40114.html'
+          date_accepted: 2004-08-01T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: objeto geográfico simple
+              normative_status: preferred
+        parents: []
+        timeCreated: 2004-08-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+swe:
+  id: 412
+  definition: >-
+    objekttyp begränsad till tvådimensionell geometri med linjär interpolation
+    mellan hörnpunkter, och som har både rumsliga och icke-rumsliga attribut
+  country_code: swe
+  language_code: swe
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19125-1:2004'
+    link: 'https://www.iso.org/standard/40114.html'
+  lineage_source: (Type reference to national language document)
+  date_accepted: 2004-08-01T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: geometriskt enkel objekttyp
+      normative_status: preferred
+  _revisions:
+    current: d5d8d9
+    tree:
+      d5d8d9:
+        object:
+          id: 412
+          definition: >-
+            objekttyp begränsad till tvådimensionell geometri med linjär
+            interpolation mellan hörnpunkter, och som har både rumsliga och
+            icke-rumsliga attribut
+          country_code: swe
+          language_code: swe
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19125-1:2004'
+            link: 'https://www.iso.org/standard/40114.html'
+          lineage_source: (Type reference to national language document)
+          date_accepted: 2004-08-01T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: geometriskt enkel objekttyp
+              normative_status: preferred
+        parents: []
+        timeCreated: 2004-08-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

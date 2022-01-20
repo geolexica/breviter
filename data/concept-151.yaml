@@ -1,0 +1,786 @@
+term: encoding
+termid: 151
+eng:
+  id: 151
+  definition: conversion of data into a series of codes
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19118:2011'
+    clause: '4.13'
+    link: 'https://www.iso.org/standard/44212.html'
+  lineage_source: 'ISO 19118:2005'
+  lineage_source_similarity: 1
+  date_accepted: 2005-07-15T00:00:00.000Z
+  review_date: 2007-01-23T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2011-10-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19118:2011'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19118:2005 to ISO 19118:2011.
+    Lineage source added as ISO 19118:2005.
+  release: '1'
+  terms:
+    - type: expression
+      designation: encoding
+      normative_status: preferred
+  _revisions:
+    current: e1b452
+    tree:
+      e1b452:
+        object:
+          id: 151
+          definition: conversion of data into a series of codes
+          language_code: eng
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19118:2011'
+            clause: '4.13'
+            link: 'https://www.iso.org/standard/44212.html'
+          lineage_source: 'ISO 19118:2005'
+          lineage_source_similarity: 1
+          date_accepted: 2005-07-15T00:00:00.000Z
+          review_date: 2007-01-23T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2011-10-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19118:2011'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19118:2005 to ISO
+            19118:2011. Lineage source added as ISO 19118:2005.
+          release: '1'
+          terms:
+            - type: expression
+              designation: encoding
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-07-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+ara:
+  id: 151
+  definition: تحويل البيانات إلى سلسلة من الرموز
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19118:2011'
+    clause: '4.13'
+    link: 'https://www.iso.org/standard/44212.html'
+  lineage_source: 'ISO 19118:2005'
+  lineage_source_similarity: 1
+  date_accepted: 2005-07-15T00:00:00.000Z
+  review_date: 2007-01-23T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2011-10-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19118:2011'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19118:2005 to ISO 19118:2011.
+    Lineage source added as ISO 19118:2005.
+  release: '1'
+  terms:
+    - type: expression
+      designation: التشفير
+      normative_status: preferred
+  _revisions:
+    current: 8b0c28
+    tree:
+      8b0c28:
+        object:
+          id: 151
+          definition: تحويل البيانات إلى سلسلة من الرموز
+          language_code: ara
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19118:2011'
+            clause: '4.13'
+            link: 'https://www.iso.org/standard/44212.html'
+          lineage_source: 'ISO 19118:2005'
+          lineage_source_similarity: 1
+          date_accepted: 2005-07-15T00:00:00.000Z
+          review_date: 2007-01-23T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2011-10-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19118:2011'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19118:2005 to ISO
+            19118:2011. Lineage source added as ISO 19118:2005.
+          release: '1'
+          terms:
+            - type: expression
+              designation: التشفير
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-07-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+zho:
+  id: 151
+  definition: 数据到一系列代码的转换。
+  language_code: zho
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19118:2011'
+    clause: '4.13'
+    link: 'https://www.iso.org/standard/44212.html'
+  lineage_source: 'ISO 19118:2005'
+  lineage_source_similarity: 1
+  date_accepted: 2005-07-15T00:00:00.000Z
+  review_date: 2007-01-23T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2011-10-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19118:2011'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19118:2005 to ISO 19118:2011.
+    Lineage source added as ISO 19118:2005.
+  release: '1'
+  terms:
+    - type: expression
+      designation: 编码
+      normative_status: preferred
+  _revisions:
+    current: 51ac13
+    tree:
+      51ac13:
+        object:
+          id: 151
+          definition: 数据到一系列代码的转换。
+          language_code: zho
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19118:2011'
+            clause: '4.13'
+            link: 'https://www.iso.org/standard/44212.html'
+          lineage_source: 'ISO 19118:2005'
+          lineage_source_similarity: 1
+          date_accepted: 2005-07-15T00:00:00.000Z
+          review_date: 2007-01-23T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2011-10-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19118:2011'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19118:2005 to ISO
+            19118:2011. Lineage source added as ISO 19118:2005.
+          release: '1'
+          terms:
+            - type: expression
+              designation: 编码
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-07-15T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+dan:
+  id: 151
+  definition: konvertering af data til en række koder
+  language_code: dan
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19118:2011'
+    clause: '4.13'
+    link: 'https://www.iso.org/standard/44212.html'
+  lineage_source: 'ISO 19118:2005'
+  lineage_source_similarity: 1
+  date_accepted: 2005-07-15T00:00:00.000Z
+  review_date: 2007-01-23T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2011-10-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19118:2011'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19118:2005 to ISO 19118:2011.
+    Lineage source added as ISO 19118:2005.
+  release: '1'
+  terms:
+    - type: expression
+      designation: kodning
+      normative_status: preferred
+  _revisions:
+    current: 0373d7
+    tree:
+      0373d7:
+        object:
+          id: 151
+          definition: konvertering af data til en række koder
+          language_code: dan
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19118:2011'
+            clause: '4.13'
+            link: 'https://www.iso.org/standard/44212.html'
+          lineage_source: 'ISO 19118:2005'
+          lineage_source_similarity: 1
+          date_accepted: 2005-07-15T00:00:00.000Z
+          review_date: 2007-01-23T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2011-10-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19118:2011'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19118:2005 to ISO
+            19118:2011. Lineage source added as ISO 19118:2005.
+          release: '1'
+          terms:
+            - type: expression
+              designation: kodning
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-07-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+fin:
+  id: 151
+  definition: tiedon muuttaminen toiseen esitysmuotoon tiedonsiirtoa varten
+  language_code: fin
+  notes:
+    - Tieto muunnetaan sarjaksi koodeja.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19118:2011'
+    clause: '4.13'
+    link: 'https://www.iso.org/standard/44212.html'
+  lineage_source: 'ISO 19118:2005'
+  lineage_source_similarity: 1
+  date_accepted: 2005-07-15T00:00:00.000Z
+  review_date: 2007-01-23T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2011-10-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19118:2011'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19118:2005 to ISO 19118:2011.
+    Lineage source added as ISO 19118:2005.
+  release: '1'
+  terms:
+    - type: expression
+      designation: koodaus
+      normative_status: preferred
+  _revisions:
+    current: 1f1cc2
+    tree:
+      1f1cc2:
+        object:
+          id: 151
+          definition: tiedon muuttaminen toiseen esitysmuotoon tiedonsiirtoa varten
+          language_code: fin
+          notes:
+            - Tieto muunnetaan sarjaksi koodeja.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19118:2011'
+            clause: '4.13'
+            link: 'https://www.iso.org/standard/44212.html'
+          lineage_source: 'ISO 19118:2005'
+          lineage_source_similarity: 1
+          date_accepted: 2005-07-15T00:00:00.000Z
+          review_date: 2007-01-23T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2011-10-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19118:2011'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19118:2005 to ISO
+            19118:2011. Lineage source added as ISO 19118:2005.
+          release: '1'
+          terms:
+            - type: expression
+              designation: koodaus
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-07-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+fra:
+  id: 151
+  definition: conversion d'une donnée en une série de codes
+  language_code: fra
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19118:2011'
+    clause: '4.13'
+    link: 'https://www.iso.org/standard/44212.html'
+  lineage_source: 'ISO 19118:2005'
+  lineage_source_similarity: 1
+  date_accepted: 2005-07-15T00:00:00.000Z
+  review_date: 2007-01-23T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2011-10-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19118:2011'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19118:2005 to ISO 19118:2011.
+    Lineage source added as ISO 19118:2005.
+  release: '1'
+  terms:
+    - type: expression
+      designation: codage
+      normative_status: preferred
+  _revisions:
+    current: 4522bc
+    tree:
+      4522bc:
+        object:
+          id: 151
+          definition: conversion d'une donnée en une série de codes
+          language_code: fra
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19118:2011'
+            clause: '4.13'
+            link: 'https://www.iso.org/standard/44212.html'
+          lineage_source: 'ISO 19118:2005'
+          lineage_source_similarity: 1
+          date_accepted: 2005-07-15T00:00:00.000Z
+          review_date: 2007-01-23T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2011-10-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19118:2011'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19118:2005 to ISO
+            19118:2011. Lineage source added as ISO 19118:2005.
+          release: '1'
+          terms:
+            - type: expression
+              designation: codage
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-07-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+deu:
+  id: 151
+  definition: Konvertierung von Daten in eine Reihe von Codes
+  language_code: deu
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19118:2011'
+    clause: '4.13'
+    link: 'https://www.iso.org/standard/44212.html'
+  lineage_source: 'ISO 19118:2005'
+  lineage_source_similarity: 1
+  date_accepted: 2005-07-15T00:00:00.000Z
+  review_date: 2007-01-23T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2011-10-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19118:2011'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19118:2005 to ISO 19118:2011.
+    Lineage source added as ISO 19118:2005.
+  release: '1'
+  terms:
+    - type: expression
+      designation: Kodierung
+      normative_status: preferred
+  _revisions:
+    current: 74c544
+    tree:
+      74c544:
+        object:
+          id: 151
+          definition: Konvertierung von Daten in eine Reihe von Codes
+          language_code: deu
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19118:2011'
+            clause: '4.13'
+            link: 'https://www.iso.org/standard/44212.html'
+          lineage_source: 'ISO 19118:2005'
+          lineage_source_similarity: 1
+          date_accepted: 2005-07-15T00:00:00.000Z
+          review_date: 2007-01-23T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2011-10-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19118:2011'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19118:2005 to ISO
+            19118:2011. Lineage source added as ISO 19118:2005.
+          release: '1'
+          terms:
+            - type: expression
+              designation: Kodierung
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-07-15T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+kor:
+  id: 151
+  definition: 데이터를 일련의 코드로 전환하는 것
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19118:2011'
+    clause: '4.13'
+    link: 'https://www.iso.org/standard/44212.html'
+  lineage_source: 'ISO 19118:2005'
+  lineage_source_similarity: 1
+  date_accepted: 2008-12-30T00:00:00.000Z
+  review_date: 2007-01-23T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2011-10-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19118:2011'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19118:2005 to ISO 19118:2011.
+    Lineage source added as ISO 19118:2005.
+  release: '1'
+  terms:
+    - type: expression
+      designation: 부호화
+      normative_status: preferred
+    - designation: 인코딩
+      type: expression
+  _revisions:
+    current: a3c5ba
+    tree:
+      a3c5ba:
+        object:
+          id: 151
+          definition: 데이터를 일련의 코드로 전환하는 것
+          language_code: kor
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19118:2011'
+            clause: '4.13'
+            link: 'https://www.iso.org/standard/44212.html'
+          lineage_source: 'ISO 19118:2005'
+          lineage_source_similarity: 1
+          date_accepted: 2008-12-30T00:00:00.000Z
+          review_date: 2007-01-23T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2011-10-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19118:2011'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19118:2005 to ISO
+            19118:2011. Lineage source added as ISO 19118:2005.
+          release: '1'
+          terms:
+            - type: expression
+              designation: 부호화
+              normative_status: preferred
+            - designation: 인코딩
+              type: expression
+        parents: []
+        timeCreated: 2008-12-30T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+msa:
+  id: 151
+  language_code: msa
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19118:2011'
+    clause: '4.13'
+    link: 'https://www.iso.org/standard/44212.html'
+  lineage_source: Pusat Rujukan Persuratan Melayu (DBP)
+  date_accepted: 2005-07-15T00:00:00.000Z
+  review_date: 2007-01-23T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2011-10-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19118:2011'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19118:2005 to ISO 19118:2011.
+    Lineage source added as ISO 19118:2005.
+  release: '1'
+  terms:
+    - type: expression
+      designation: pengekodan
+      normative_status: preferred
+  _revisions:
+    current: 026aa8
+    tree:
+      026aa8:
+        object:
+          id: 151
+          language_code: msa
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19118:2011'
+            clause: '4.13'
+            link: 'https://www.iso.org/standard/44212.html'
+          lineage_source: Pusat Rujukan Persuratan Melayu (DBP)
+          date_accepted: 2005-07-15T00:00:00.000Z
+          review_date: 2007-01-23T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2011-10-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19118:2011'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19118:2005 to ISO
+            19118:2011. Lineage source added as ISO 19118:2005.
+          release: '1'
+          terms:
+            - type: expression
+              designation: pengekodan
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-07-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 151
+  definition: преобразование данных в последовательность кодов
+  language_code: rus
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19118:2011'
+    clause: '4.13'
+    link: 'https://www.iso.org/standard/44212.html'
+  lineage_source: 'ISO 19118:2005'
+  lineage_source_similarity: 1
+  date_accepted: 2005-07-15T00:00:00.000Z
+  review_date: 2007-01-23T00:00:00.000Z
+  review_status: ''
+  review_decision: ''
+  review_decision_date: 2011-10-15T00:00:00.000Z
+  review_decision_event: 'Публикация ИСО19118:2011'
+  review_decision_notes: >-
+    Авторитетная ссылка изменена с ISO 19118:2005 на ISO 19118: 2011. Источник
+    происхождения добавлен как ISO 19118: 2005.
+  release: '1'
+  terms:
+    - type: expression
+      designation: кодирование
+      normative_status: preferred
+  _revisions:
+    current: 7406c7
+    tree:
+      7406c7:
+        object:
+          id: 151
+          definition: преобразование данных в последовательность кодов
+          language_code: rus
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19118:2011'
+            clause: '4.13'
+            link: 'https://www.iso.org/standard/44212.html'
+          lineage_source: 'ISO 19118:2005'
+          lineage_source_similarity: 1
+          date_accepted: 2005-07-15T00:00:00.000Z
+          review_date: 2007-01-23T00:00:00.000Z
+          review_status: ''
+          review_decision: ''
+          review_decision_date: 2011-10-15T00:00:00.000Z
+          review_decision_event: 'Публикация ИСО19118:2011'
+          review_decision_notes: >-
+            Авторитетная ссылка изменена с ISO 19118:2005 на ISO 19118: 2011.
+            Источник происхождения добавлен как ISO 19118: 2005.
+          release: '1'
+          terms:
+            - type: expression
+              designation: кодирование
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-07-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 151
+  definition: conversión de datos a una serie de códigos
+  language_code: spa
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19118:2011'
+    clause: '4.13'
+    link: 'https://www.iso.org/standard/44212.html'
+  lineage_source: 'ISO 19118:2005'
+  lineage_source_similarity: 1
+  date_accepted: 2005-07-15T00:00:00.000Z
+  review_date: 2007-01-23T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2011-10-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19118:2011'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19118:2005 to ISO 19118:2011.
+    Lineage source added as ISO 19118:2005.
+  release: '1'
+  terms:
+    - type: expression
+      designation: codificación
+      normative_status: preferred
+  _revisions:
+    current: '469718'
+    tree:
+      '469718':
+        object:
+          id: 151
+          definition: conversión de datos a una serie de códigos
+          language_code: spa
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19118:2011'
+            clause: '4.13'
+            link: 'https://www.iso.org/standard/44212.html'
+          lineage_source: 'ISO 19118:2005'
+          lineage_source_similarity: 1
+          date_accepted: 2005-07-15T00:00:00.000Z
+          review_date: 2007-01-23T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2011-10-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19118:2011'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19118:2005 to ISO
+            19118:2011. Lineage source added as ISO 19118:2005.
+          release: '1'
+          terms:
+            - type: expression
+              designation: codificación
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-07-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+swe:
+  id: 151
+  definition: översättning av data till en sekvens av koder
+  country_code: swe
+  language_code: swe
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19118:2011'
+    clause: '4.13'
+    link: 'https://www.iso.org/standard/44212.html'
+  lineage_source: 'ISO 19118:2005'
+  lineage_source_similarity: 1
+  date_accepted: 2005-07-15T00:00:00.000Z
+  review_date: 2007-01-23T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2011-10-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19118:2011'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19118:2005 to ISO 19118:2011.
+    Lineage source added as ISO 19118:2005.
+  release: '1'
+  terms:
+    - type: expression
+      designation: kodning
+      normative_status: preferred
+  _revisions:
+    current: a51a45
+    tree:
+      a51a45:
+        object:
+          id: 151
+          definition: översättning av data till en sekvens av koder
+          country_code: swe
+          language_code: swe
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19118:2011'
+            clause: '4.13'
+            link: 'https://www.iso.org/standard/44212.html'
+          lineage_source: 'ISO 19118:2005'
+          lineage_source_similarity: 1
+          date_accepted: 2005-07-15T00:00:00.000Z
+          review_date: 2007-01-23T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2011-10-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19118:2011'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19118:2005 to ISO
+            19118:2011. Lineage source added as ISO 19118:2005.
+          release: '1'
+          terms:
+            - type: expression
+              designation: kodning
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-07-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

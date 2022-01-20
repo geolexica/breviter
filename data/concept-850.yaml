@@ -1,0 +1,335 @@
+term: classifier
+termid: 850
+eng:
+  id: 850
+  definition: definition used to assign objects to legend classes
+  language_code: eng
+  notes:
+    - >-
+      Classifiers can be defined algorithmically or according to a set of
+      classification system specific rules.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19144-1:2009'
+    link: 'https://www.iso.org/standard/32562.html'
+  date_accepted: 2009-08-15T00:00:00.000Z
+  release: '2'
+  terms:
+    - type: expression
+      designation: classifier
+      normative_status: preferred
+  _revisions:
+    current: ea0ad2
+    tree:
+      ea0ad2:
+        object:
+          id: 850
+          definition: definition used to assign objects to legend classes
+          language_code: eng
+          notes:
+            - >-
+              Classifiers can be defined algorithmically or according to a set
+              of classification system specific rules.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19144-1:2009'
+            link: 'https://www.iso.org/standard/32562.html'
+          date_accepted: 2009-08-15T00:00:00.000Z
+          release: '2'
+          terms:
+            - type: expression
+              designation: classifier
+              normative_status: preferred
+        parents: []
+        timeCreated: 2009-08-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+ara:
+  id: 850
+  definition: تعريف يستخدم لتعيين  الكائنات في فئات مفهرسة
+  language_code: ara
+  notes:
+    - يمكن تعريف المصنفات خوارزميا أو وفقا لمجموعة قواعد محددة في نظام للتصنيف
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19144-1:2009'
+    link: 'https://www.iso.org/standard/32562.html'
+  date_accepted: 2009-08-15T00:00:00.000Z
+  release: '2'
+  terms:
+    - type: expression
+      designation: مصنِّف
+      normative_status: preferred
+  _revisions:
+    current: f96153
+    tree:
+      f96153:
+        object:
+          id: 850
+          definition: تعريف يستخدم لتعيين  الكائنات في فئات مفهرسة
+          language_code: ara
+          notes:
+            - >-
+              يمكن تعريف المصنفات خوارزميا أو وفقا لمجموعة قواعد محددة في نظام
+              للتصنيف
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19144-1:2009'
+            link: 'https://www.iso.org/standard/32562.html'
+          date_accepted: 2009-08-15T00:00:00.000Z
+          release: '2'
+          terms:
+            - type: expression
+              designation: مصنِّف
+              normative_status: preferred
+        parents: []
+        timeCreated: 2009-08-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+deu:
+  id: 850
+  language_code: deu
+  notes:
+    - >-
+      Classifiers can be defined algorithmically or according to a set of
+      classification system specific rules.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19144-1:2009'
+    link: 'https://www.iso.org/standard/32562.html'
+  date_accepted: 2009-08-15T00:00:00.000Z
+  release: '2'
+  terms:
+    - type: expression
+      designation: Klassifikator
+      normative_status: preferred
+  _revisions:
+    current: d41cf8
+    tree:
+      d41cf8:
+        object:
+          id: 850
+          language_code: deu
+          notes:
+            - >-
+              Classifiers can be defined algorithmically or according to a set
+              of classification system specific rules.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19144-1:2009'
+            link: 'https://www.iso.org/standard/32562.html'
+          date_accepted: 2009-08-15T00:00:00.000Z
+          release: '2'
+          terms:
+            - type: expression
+              designation: Klassifikator
+              normative_status: preferred
+        parents: []
+        timeCreated: 2009-08-15T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+kor:
+  id: 850
+  definition: 클래스 범례에 개체 할당을 위해 사용된 정의
+  language_code: kor
+  notes:
+    - >-
+      Classifiers can be defined algorithmically or according to a set of
+      classification system specific rules.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19144-1:2009'
+    link: 'https://www.iso.org/standard/32562.html'
+  date_accepted: 2009-08-15T00:00:00.000Z
+  release: '2'
+  terms:
+    - type: expression
+      designation: 분류자
+      normative_status: preferred
+  _revisions:
+    current: f28ed8
+    tree:
+      f28ed8:
+        object:
+          id: 850
+          definition: 클래스 범례에 개체 할당을 위해 사용된 정의
+          language_code: kor
+          notes:
+            - >-
+              Classifiers can be defined algorithmically or according to a set
+              of classification system specific rules.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19144-1:2009'
+            link: 'https://www.iso.org/standard/32562.html'
+          date_accepted: 2009-08-15T00:00:00.000Z
+          release: '2'
+          terms:
+            - type: expression
+              designation: 분류자
+              normative_status: preferred
+        parents: []
+        timeCreated: 2009-08-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 850
+  definition: 'определение, используемое для назначения объектов классам легенды'
+  language_code: rus
+  notes:
+    - >-
+      Классификаторы могут быть определены алгоритмически или в соответствии с
+      набором правил системы классификации.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19144-1:2009'
+    link: 'https://www.iso.org/standard/32562.html'
+  lineage_source: 'ISO 19144-1:2009'
+  date_accepted: 2009-08-15T00:00:00.000Z
+  release: '2'
+  terms:
+    - type: expression
+      designation: классификатор
+      normative_status: preferred
+  _revisions:
+    current: 9733ee
+    tree:
+      9733ee:
+        object:
+          id: 850
+          definition: 'определение, используемое для назначения объектов классам легенды'
+          language_code: rus
+          notes:
+            - >-
+              Классификаторы могут быть определены алгоритмически или в
+              соответствии с набором правил системы классификации.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19144-1:2009'
+            link: 'https://www.iso.org/standard/32562.html'
+          lineage_source: 'ISO 19144-1:2009'
+          date_accepted: 2009-08-15T00:00:00.000Z
+          release: '2'
+          terms:
+            - type: expression
+              designation: классификатор
+              normative_status: preferred
+        parents: []
+        timeCreated: 2009-08-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 850
+  definition: definicion usada para asignar objetos a las clases de leyenda
+  language_code: spa
+  notes:
+    - >-
+      Los clasificadores se pueden definir algorítmicamente o según un conjunto
+      de reglas especificas de sistemas de clasificación.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19144-1:2009'
+    link: 'https://www.iso.org/standard/32562.html'
+  date_accepted: 2009-08-15T00:00:00.000Z
+  release: '2'
+  terms:
+    - type: expression
+      designation: clasificador
+      normative_status: preferred
+  _revisions:
+    current: 10fe11
+    tree:
+      10fe11:
+        object:
+          id: 850
+          definition: definicion usada para asignar objetos a las clases de leyenda
+          language_code: spa
+          notes:
+            - >-
+              Los clasificadores se pueden definir algorítmicamente o según un
+              conjunto de reglas especificas de sistemas de clasificación.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19144-1:2009'
+            link: 'https://www.iso.org/standard/32562.html'
+          date_accepted: 2009-08-15T00:00:00.000Z
+          release: '2'
+          terms:
+            - type: expression
+              designation: clasificador
+              normative_status: preferred
+        parents: []
+        timeCreated: 2009-08-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+swe:
+  id: 850
+  definition: definition som används för att tilldela objekt till en indelningsklas
+  country_code: swe
+  language_code: swe
+  notes:
+    - >-
+      Classifiers can be defined algorithmically or according to a set of
+      classification system specific rules.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19144-1:2009'
+    link: 'https://www.iso.org/standard/32562.html'
+  lineage_source: (Type reference to national language document)
+  date_accepted: 2009-08-15T00:00:00.000Z
+  release: '2'
+  terms:
+    - type: expression
+      designation: klassificeringsdefinition
+      normative_status: preferred
+  _revisions:
+    current: f827a4
+    tree:
+      f827a4:
+        object:
+          id: 850
+          definition: >-
+            definition som används för att tilldela objekt till en
+            indelningsklas
+          country_code: swe
+          language_code: swe
+          notes:
+            - >-
+              Classifiers can be defined algorithmically or according to a set
+              of classification system specific rules.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19144-1:2009'
+            link: 'https://www.iso.org/standard/32562.html'
+          lineage_source: (Type reference to national language document)
+          date_accepted: 2009-08-15T00:00:00.000Z
+          release: '2'
+          terms:
+            - type: expression
+              designation: klassificeringsdefinition
+              normative_status: preferred
+        parents: []
+        timeCreated: 2009-08-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

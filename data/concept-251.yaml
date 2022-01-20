@@ -1,0 +1,779 @@
+term: interface
+termid: 251
+eng:
+  id: 251
+  definition: named set of operations that characterize the behaviour of an entity
+  language_code: eng
+  notes:
+    - 'See 7.2 [of ISO 19119] for a discussion of interface'
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19119:2016'
+    clause: 4.1.8
+    link: 'https://www.iso.org/standard/59221.html'
+  lineage_source: 'ISO 19119:2005, 4.2'
+  lineage_source_similarity: 1
+  date_accepted: 2005-02-15T00:00:00.000Z
+  review_date: 2012-08-11T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2016-01-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19119:2016'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19119:2005 to ISO 19119:2016,
+    4.1.8. Lineage source added as ISO 19119:2005, 4.2
+  release: '1'
+  terms:
+    - type: expression
+      designation: interface
+      normative_status: preferred
+  _revisions:
+    current: 14e9f8
+    tree:
+      14e9f8:
+        object:
+          id: 251
+          definition: named set of operations that characterize the behaviour of an entity
+          language_code: eng
+          notes:
+            - 'See 7.2 [of ISO 19119] for a discussion of interface'
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19119:2016'
+            clause: 4.1.8
+            link: 'https://www.iso.org/standard/59221.html'
+          lineage_source: 'ISO 19119:2005, 4.2'
+          lineage_source_similarity: 1
+          date_accepted: 2005-02-15T00:00:00.000Z
+          review_date: 2012-08-11T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2016-01-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19119:2016'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19119:2005 to ISO
+            19119:2016, 4.1.8. Lineage source added as ISO 19119:2005, 4.2
+          release: '1'
+          terms:
+            - type: expression
+              designation: interface
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+ara:
+  id: 251
+  definition: اسم لمجموعة عمليات تميز سلوك كيان معين
+  language_code: ara
+  notes:
+    - 'انظر الفقرة 7-2 [من مقياس آيزو 19119] التي تتعلق ببحث ومناقشة الواجهة.'
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19119:2016'
+    clause: 4.1.8
+    link: 'https://www.iso.org/standard/59221.html'
+  lineage_source: 'ISO 19119:2005, 4.2'
+  lineage_source_similarity: 1
+  date_accepted: 2005-02-15T00:00:00.000Z
+  review_date: 2012-08-11T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2016-01-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19119:2016'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19119:2005 to ISO 19119:2016,
+    4.1.8. Lineage source added as ISO 19119:2005, 4.2
+  release: '1'
+  terms:
+    - type: expression
+      designation: واجهة
+      normative_status: preferred
+  _revisions:
+    current: e9b115
+    tree:
+      e9b115:
+        object:
+          id: 251
+          definition: اسم لمجموعة عمليات تميز سلوك كيان معين
+          language_code: ara
+          notes:
+            - >-
+              انظر الفقرة 7-2 [من مقياس آيزو 19119] التي تتعلق ببحث ومناقشة
+              الواجهة.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19119:2016'
+            clause: 4.1.8
+            link: 'https://www.iso.org/standard/59221.html'
+          lineage_source: 'ISO 19119:2005, 4.2'
+          lineage_source_similarity: 1
+          date_accepted: 2005-02-15T00:00:00.000Z
+          review_date: 2012-08-11T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2016-01-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19119:2016'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19119:2005 to ISO
+            19119:2016, 4.1.8. Lineage source added as ISO 19119:2005, 4.2
+          release: '1'
+          terms:
+            - type: expression
+              designation: واجهة
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+zho:
+  id: 251
+  definition: 描述实体行为的命名操作集合。
+  language_code: zho
+  notes:
+    - 见ISO 19119 中7.2条中对接口的讨论。
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19119:2016'
+    clause: 4.1.8
+    link: 'https://www.iso.org/standard/59221.html'
+  lineage_source: 'ISO 19119:2005, 4.2'
+  lineage_source_similarity: 1
+  date_accepted: 2005-02-15T00:00:00.000Z
+  review_date: 2012-08-11T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2016-01-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19119:2016'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19119:2005 to ISO 19119:2016,
+    4.1.8. Lineage source added as ISO 19119:2005, 4.2
+  release: '1'
+  terms:
+    - type: expression
+      designation: 接口
+      normative_status: preferred
+  _revisions:
+    current: fb7e4f
+    tree:
+      fb7e4f:
+        object:
+          id: 251
+          definition: 描述实体行为的命名操作集合。
+          language_code: zho
+          notes:
+            - 见ISO 19119 中7.2条中对接口的讨论。
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19119:2016'
+            clause: 4.1.8
+            link: 'https://www.iso.org/standard/59221.html'
+          lineage_source: 'ISO 19119:2005, 4.2'
+          lineage_source_similarity: 1
+          date_accepted: 2005-02-15T00:00:00.000Z
+          review_date: 2012-08-11T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2016-01-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19119:2016'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19119:2005 to ISO
+            19119:2016, 4.1.8. Lineage source added as ISO 19119:2005, 4.2
+          release: '1'
+          terms:
+            - type: expression
+              designation: 接口
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-02-15T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+fin:
+  id: 251
+  definition: >-
+    sovittu käytäntö tai liittymäpinta, jonka kautta on mahdollista siirtää
+    tietoja laitteiden tai sovellusten välillä tai sovelluksen ja käyttäjän
+    välillä
+  language_code: fin
+  notes:
+    - >-
+      Katso lisätietoja rajapinnan käsitteestä [ISO 19119 -standardin] kohdasta
+      7.2.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19119:2016'
+    clause: 4.1.8
+    link: 'https://www.iso.org/standard/59221.html'
+  lineage_source: 'ISO 19119:2005, 4.2'
+  lineage_source_similarity: 1
+  date_accepted: 2005-02-15T00:00:00.000Z
+  review_date: 2012-08-11T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2016-01-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19119:2016'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19119:2005 to ISO 19119:2016,
+    4.1.8. Lineage source added as ISO 19119:2005, 4.2
+  release: '1'
+  terms:
+    - type: expression
+      designation: rajapinta
+      normative_status: preferred
+    - designation: liittymä; liitäntä
+      type: expression
+  _revisions:
+    current: 970b2e
+    tree:
+      970b2e:
+        object:
+          id: 251
+          definition: >-
+            sovittu käytäntö tai liittymäpinta, jonka kautta on mahdollista
+            siirtää tietoja laitteiden tai sovellusten välillä tai sovelluksen
+            ja käyttäjän välillä
+          language_code: fin
+          notes:
+            - >-
+              Katso lisätietoja rajapinnan käsitteestä [ISO 19119 -standardin]
+              kohdasta 7.2.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19119:2016'
+            clause: 4.1.8
+            link: 'https://www.iso.org/standard/59221.html'
+          lineage_source: 'ISO 19119:2005, 4.2'
+          lineage_source_similarity: 1
+          date_accepted: 2005-02-15T00:00:00.000Z
+          review_date: 2012-08-11T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2016-01-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19119:2016'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19119:2005 to ISO
+            19119:2016, 4.1.8. Lineage source added as ISO 19119:2005, 4.2
+          release: '1'
+          terms:
+            - type: expression
+              designation: rajapinta
+              normative_status: preferred
+            - designation: liittymä; liitäntä
+              type: expression
+        parents: []
+        timeCreated: 2005-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+fra:
+  id: 251
+  definition: jeu nommé d'opérations caractérisant le comportement d'une entité
+  language_code: fra
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19119:2016'
+    clause: 4.1.8
+    link: 'https://www.iso.org/standard/59221.html'
+  lineage_source: 'ISO 19119:2005, 4.2'
+  lineage_source_similarity: 1
+  date_accepted: 2005-02-15T00:00:00.000Z
+  review_date: 2012-08-11T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2016-01-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19119:2016'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19119:2005 to ISO 19119:2016,
+    4.1.8. Lineage source added as ISO 19119:2005, 4.2
+  release: '1'
+  terms:
+    - type: expression
+      designation: interface
+      normative_status: preferred
+  _revisions:
+    current: b93736
+    tree:
+      b93736:
+        object:
+          id: 251
+          definition: jeu nommé d'opérations caractérisant le comportement d'une entité
+          language_code: fra
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19119:2016'
+            clause: 4.1.8
+            link: 'https://www.iso.org/standard/59221.html'
+          lineage_source: 'ISO 19119:2005, 4.2'
+          lineage_source_similarity: 1
+          date_accepted: 2005-02-15T00:00:00.000Z
+          review_date: 2012-08-11T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2016-01-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19119:2016'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19119:2005 to ISO
+            19119:2016, 4.1.8. Lineage source added as ISO 19119:2005, 4.2
+          release: '1'
+          terms:
+            - type: expression
+              designation: interface
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+deu:
+  id: 251
+  definition: >-
+    benannte Menge von Operationen, die das Verhalten einer Entität
+    charakterisieren
+  language_code: deu
+  notes:
+    - 'See 7.2 [of ISO 19119] for a discussion of interface'
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19119:2016'
+    clause: 4.1.8
+    link: 'https://www.iso.org/standard/59221.html'
+  lineage_source: 'ISO 19119:2005, 4.2'
+  lineage_source_similarity: 1
+  date_accepted: 2005-02-15T00:00:00.000Z
+  review_date: 2012-08-11T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2016-01-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19119:2016'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19119:2005 to ISO 19119:2016,
+    4.1.8. Lineage source added as ISO 19119:2005, 4.2
+  release: '1'
+  terms:
+    - type: expression
+      designation: Schnittstelle
+      normative_status: preferred
+  _revisions:
+    current: 5243c6
+    tree:
+      5243c6:
+        object:
+          id: 251
+          definition: >-
+            benannte Menge von Operationen, die das Verhalten einer Entität
+            charakterisieren
+          language_code: deu
+          notes:
+            - 'See 7.2 [of ISO 19119] for a discussion of interface'
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19119:2016'
+            clause: 4.1.8
+            link: 'https://www.iso.org/standard/59221.html'
+          lineage_source: 'ISO 19119:2005, 4.2'
+          lineage_source_similarity: 1
+          date_accepted: 2005-02-15T00:00:00.000Z
+          review_date: 2012-08-11T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2016-01-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19119:2016'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19119:2005 to ISO
+            19119:2016, 4.1.8. Lineage source added as ISO 19119:2005, 4.2
+          release: '1'
+          terms:
+            - type: expression
+              designation: Schnittstelle
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-02-15T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+kor:
+  id: 251
+  definition: 개체의 행태에 대한 특성을 기술하는 명명된 연산 집합
+  language_code: kor
+  notes:
+    - 인터페이스에 관한 논의는 KS X ISO 19119의 7.2를 참조하라.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19119:2016'
+    clause: 4.1.8
+    link: 'https://www.iso.org/standard/59221.html'
+  lineage_source: 'ISO 19119:2005, 4.2'
+  lineage_source_similarity: 1
+  date_accepted: 2005-02-15T00:00:00.000Z
+  review_date: 2012-08-11T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2016-01-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19119:2016'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19119:2005 to ISO 19119:2016,
+    4.1.8. Lineage source added as ISO 19119:2005, 4.2
+  release: '1'
+  terms:
+    - type: expression
+      designation: 인터페이스
+      normative_status: preferred
+  _revisions:
+    current: 840c1a
+    tree:
+      840c1a:
+        object:
+          id: 251
+          definition: 개체의 행태에 대한 특성을 기술하는 명명된 연산 집합
+          language_code: kor
+          notes:
+            - 인터페이스에 관한 논의는 KS X ISO 19119의 7.2를 참조하라.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19119:2016'
+            clause: 4.1.8
+            link: 'https://www.iso.org/standard/59221.html'
+          lineage_source: 'ISO 19119:2005, 4.2'
+          lineage_source_similarity: 1
+          date_accepted: 2005-02-15T00:00:00.000Z
+          review_date: 2012-08-11T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2016-01-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19119:2016'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19119:2005 to ISO
+            19119:2016, 4.1.8. Lineage source added as ISO 19119:2005, 4.2
+          release: '1'
+          terms:
+            - type: expression
+              designation: 인터페이스
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+msa:
+  id: 251
+  definition: >-
+    Bahagian yang menjadi sempadan di antara dua komponen, litar, peranti, atau
+    sistem. Bahagian ini menyambungkan peranti yang tidak sepadan untuk
+    membolehkan maklumat diserah atau diambil antara satu sama lain. Antara muka
+    boleh berbentuk mekanik, seperti permukaan perkakasan bersebelahan,
+    berbentuk elektrik, seperti titik penjelmaan aras isyarat, atau berbentuk
+    hubungan, seperti hubungan antara manusia dan mesin.
+  language_code: msa
+  notes:
+    - 'See 7.2 [of ISO 19119] for a discussion of interface'
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19119:2005'
+    link: 'https://www.iso.org/standard/39890.html'
+  lineage_source: Pusat Rujukan Persuratan Melayu (DBP)
+  date_accepted: 2005-02-15T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: antara muka
+      normative_status: preferred
+  _revisions:
+    current: 3398a8
+    tree:
+      3398a8:
+        object:
+          id: 251
+          definition: >-
+            Bahagian yang menjadi sempadan di antara dua komponen, litar,
+            peranti, atau sistem. Bahagian ini menyambungkan peranti yang tidak
+            sepadan untuk membolehkan maklumat diserah atau diambil antara satu
+            sama lain. Antara muka boleh berbentuk mekanik, seperti permukaan
+            perkakasan bersebelahan, berbentuk elektrik, seperti titik
+            penjelmaan aras isyarat, atau berbentuk hubungan, seperti hubungan
+            antara manusia dan mesin.
+          language_code: msa
+          notes:
+            - 'See 7.2 [of ISO 19119] for a discussion of interface'
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19119:2005'
+            link: 'https://www.iso.org/standard/39890.html'
+          lineage_source: Pusat Rujukan Persuratan Melayu (DBP)
+          date_accepted: 2005-02-15T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: antara muka
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+pol:
+  id: 251
+  definition: 'nazwany zbiór operacji (4.3), który charakteryzuje zachowanie jednostki'
+  language_code: pol
+  notes:
+    - 'Omówienie usługi, patrz 7.2.'
+  examples: []
+  authoritative_source:
+    ref: 'ISO 19119:2016'
+    clause: 4.1.8
+    link: 'https://www.iso.org/standard/59221.html'
+  lineage_source: 'ISO 19119:2005, 4.2'
+  lineage_source_similarity: 1
+  date_accepted: 2005-02-15T00:00:00.000Z
+  review_date: 2012-08-11T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2016-01-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19119:2016'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19119:2005 to ISO 19119:2016,
+    4.1.8. Lineage source added as ISO 19119:2005, 4.2
+  release: '1'
+  terms:
+    - type: expression
+      designation: interfejs
+      normative_status: preferred
+  _revisions:
+    current: 3c7345
+    tree:
+      3c7345:
+        object:
+          id: 251
+          definition: >-
+            nazwany zbiór operacji (4.3), który charakteryzuje zachowanie
+            jednostki
+          language_code: pol
+          notes:
+            - 'Omówienie usługi, patrz 7.2.'
+          examples: []
+          authoritative_source:
+            ref: 'ISO 19119:2016'
+            clause: 4.1.8
+            link: 'https://www.iso.org/standard/59221.html'
+          lineage_source: 'ISO 19119:2005, 4.2'
+          lineage_source_similarity: 1
+          date_accepted: 2005-02-15T00:00:00.000Z
+          review_date: 2012-08-11T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2016-01-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19119:2016'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19119:2005 to ISO
+            19119:2016, 4.1.8. Lineage source added as ISO 19119:2005, 4.2
+          release: '1'
+          terms:
+            - type: expression
+              designation: interfejs
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 251
+  definition: 'именованный набор операций, характеризующих поведение сущности'
+  language_code: rus
+  notes:
+    - См. 7.2  ISO 19119  для обсуждения интерфейса
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19119:2005'
+    link: 'https://www.iso.org/standard/39890.html'
+  lineage_source: Internet
+  date_accepted: 2005-02-15T00:00:00.000Z
+  terms:
+    - type: expression
+      designation: интерфейс
+      normative_status: preferred
+  _revisions:
+    current: b061ef
+    tree:
+      b061ef:
+        object:
+          id: 251
+          definition: 'именованный набор операций, характеризующих поведение сущности'
+          language_code: rus
+          notes:
+            - См. 7.2  ISO 19119  для обсуждения интерфейса
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19119:2005'
+            link: 'https://www.iso.org/standard/39890.html'
+          lineage_source: Internet
+          date_accepted: 2005-02-15T00:00:00.000Z
+          terms:
+            - type: expression
+              designation: интерфейс
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 251
+  definition: >-
+    conjunto nominado de operaciones que caracteriza el comportamiento de una
+    entidad
+  language_code: spa
+  notes:
+    - Véase el apartado 7.2 para una discusión de servicio.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19119:2016'
+    clause: 4.1.8
+    link: 'https://www.iso.org/standard/59221.html'
+  lineage_source: 'ISO 19119:2005, 4.2'
+  lineage_source_similarity: 1
+  date_accepted: 2005-02-15T00:00:00.000Z
+  review_date: 2012-08-11T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2016-01-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19119:2016'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19119:2005 to ISO 19119:2016,
+    4.1.8. Lineage source added as ISO 19119:2005, 4.2
+  release: '1'
+  terms:
+    - type: expression
+      designation: interfaz
+      normative_status: preferred
+  _revisions:
+    current: 6218fb
+    tree:
+      6218fb:
+        object:
+          id: 251
+          definition: >-
+            conjunto nominado de operaciones que caracteriza el comportamiento
+            de una entidad
+          language_code: spa
+          notes:
+            - Véase el apartado 7.2 para una discusión de servicio.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19119:2016'
+            clause: 4.1.8
+            link: 'https://www.iso.org/standard/59221.html'
+          lineage_source: 'ISO 19119:2005, 4.2'
+          lineage_source_similarity: 1
+          date_accepted: 2005-02-15T00:00:00.000Z
+          review_date: 2012-08-11T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2016-01-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19119:2016'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19119:2005 to ISO
+            19119:2016, 4.1.8. Lineage source added as ISO 19119:2005, 4.2
+          release: '1'
+          terms:
+            - type: expression
+              designation: interfaz
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+swe:
+  id: 251
+  definition: namngiven uppsättning operationer som kännetecknar hur något uppför sig
+  country_code: swe
+  language_code: swe
+  notes:
+    - 'See 7.2 [of ISO 19119] for a discussion of interface'
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19119:2016'
+    clause: 4.1.8
+    link: 'https://www.iso.org/standard/59221.html'
+  lineage_source: 'ISO 19119:2005, 4.2'
+  lineage_source_similarity: 1
+  date_accepted: 2005-02-15T00:00:00.000Z
+  review_date: 2012-08-11T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2016-01-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19119:2016'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19119:2005 to ISO 19119:2016,
+    4.1.8. Lineage source added as ISO 19119:2005, 4.2
+  release: '1'
+  terms:
+    - type: expression
+      designation: gränssnitt
+      normative_status: preferred
+  _revisions:
+    current: 2f6c58
+    tree:
+      2f6c58:
+        object:
+          id: 251
+          definition: >-
+            namngiven uppsättning operationer som kännetecknar hur något uppför
+            sig
+          country_code: swe
+          language_code: swe
+          notes:
+            - 'See 7.2 [of ISO 19119] for a discussion of interface'
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19119:2016'
+            clause: 4.1.8
+            link: 'https://www.iso.org/standard/59221.html'
+          lineage_source: 'ISO 19119:2005, 4.2'
+          lineage_source_similarity: 1
+          date_accepted: 2005-02-15T00:00:00.000Z
+          review_date: 2012-08-11T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2016-01-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19119:2016'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19119:2005 to ISO
+            19119:2016, 4.1.8. Lineage source added as ISO 19119:2005, 4.2
+          release: '1'
+          terms:
+            - type: expression
+              designation: gränssnitt
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

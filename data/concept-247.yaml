@@ -1,0 +1,605 @@
+term: instant
+termid: 247
+eng:
+  id: 247
+  definition: 0-dimensional geometric primitive representing position in time
+  language_code: eng
+  notes:
+    - 'The geometry of time is discussed in 5.2. [of ISO 19108:2002]'
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19108:2002'
+    link: 'https://www.iso.org/standard/26013.html'
+  date_accepted: 2002-09-01T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: instant
+      normative_status: preferred
+  _revisions:
+    current: 543cd0
+    tree:
+      543cd0:
+        object:
+          id: 247
+          definition: 0-dimensional geometric primitive representing position in time
+          language_code: eng
+          notes:
+            - 'The geometry of time is discussed in 5.2. [of ISO 19108:2002]'
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19108:2002'
+            link: 'https://www.iso.org/standard/26013.html'
+          date_accepted: 2002-09-01T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: instant
+              normative_status: preferred
+        parents: []
+        timeCreated: 2002-09-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+ara:
+  id: 247
+  definition: عنصر هندسي بسيط صفري الأبعاد يمثل حيزا زمنيا
+  language_code: ara
+  notes:
+    - 'أخضعت هندسة الوقت للبحث والمناقشة في الفقرة 5-2 [مقياس آيزو 19108: 2002].'
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19108:2002'
+    link: 'https://www.iso.org/standard/26013.html'
+  date_accepted: 2002-09-01T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: لحظة
+      normative_status: preferred
+  _revisions:
+    current: 1de1c7
+    tree:
+      1de1c7:
+        object:
+          id: 247
+          definition: عنصر هندسي بسيط صفري الأبعاد يمثل حيزا زمنيا
+          language_code: ara
+          notes:
+            - >-
+              أخضعت هندسة الوقت للبحث والمناقشة في الفقرة 5-2 [مقياس آيزو 19108:
+              2002].
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19108:2002'
+            link: 'https://www.iso.org/standard/26013.html'
+          date_accepted: 2002-09-01T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: لحظة
+              normative_status: preferred
+        parents: []
+        timeCreated: 2002-09-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+zho:
+  id: 247
+  definition: 表示时间位置的0维几何单形。
+  language_code: zho
+  notes:
+    - '时间几何在ISO 19108:2002 5.2阐述。'
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19108:2002'
+    link: 'https://www.iso.org/standard/26013.html'
+  date_accepted: 2002-09-01T00:00:00.000Z
+  terms:
+    - type: expression
+      designation: 时刻
+      normative_status: preferred
+  _revisions:
+    current: 5f75d0
+    tree:
+      5f75d0:
+        object:
+          id: 247
+          definition: 表示时间位置的0维几何单形。
+          language_code: zho
+          notes:
+            - '时间几何在ISO 19108:2002 5.2阐述。'
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19108:2002'
+            link: 'https://www.iso.org/standard/26013.html'
+          date_accepted: 2002-09-01T00:00:00.000Z
+          terms:
+            - type: expression
+              designation: 时刻
+              normative_status: preferred
+        parents: []
+        timeCreated: 2002-09-01T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+fin:
+  id: 247
+  definition: 'nollaulotteinen geometrinen primitiivi, joka vastaa sijaintia ajassa'
+  language_code: fin
+  notes:
+    - 'Ajan geometriaa käsitellään [ISO-standardin 19108;2002] kohdassa 5.2.'
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19108:2002'
+    link: 'https://www.iso.org/standard/26013.html'
+  lineage_source: 'Ei lähdettä, käännetty'
+  date_accepted: 2002-09-01T00:00:00.000Z
+  terms:
+    - type: expression
+      designation: aikapiste
+      normative_status: preferred
+  _revisions:
+    current: bdbee9
+    tree:
+      bdbee9:
+        object:
+          id: 247
+          definition: 'nollaulotteinen geometrinen primitiivi, joka vastaa sijaintia ajassa'
+          language_code: fin
+          notes:
+            - >-
+              Ajan geometriaa käsitellään [ISO-standardin 19108;2002] kohdassa
+              5.2.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19108:2002'
+            link: 'https://www.iso.org/standard/26013.html'
+          lineage_source: 'Ei lähdettä, käännetty'
+          date_accepted: 2002-09-01T00:00:00.000Z
+          terms:
+            - type: expression
+              designation: aikapiste
+              normative_status: preferred
+        parents: []
+        timeCreated: 2002-09-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+fra:
+  id: 247
+  definition: >-
+    primitive géométrique de dimension nulle représentant une position dans le
+    temps
+  language_code: fra
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: ISO 19108
+    link: 'https://www.iso.org/standard/26013.html'
+  lineage_source: ''
+  date_accepted: 2002-09-01T00:00:00.000Z
+  terms:
+    - type: expression
+      designation: instant
+      normative_status: preferred
+  _revisions:
+    current: e3dae1
+    tree:
+      e3dae1:
+        object:
+          id: 247
+          definition: >-
+            primitive géométrique de dimension nulle représentant une position
+            dans le temps
+          language_code: fra
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: ISO 19108
+            link: 'https://www.iso.org/standard/26013.html'
+          lineage_source: ''
+          date_accepted: 2002-09-01T00:00:00.000Z
+          terms:
+            - type: expression
+              designation: instant
+              normative_status: preferred
+        parents: []
+        timeCreated: 2002-09-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+deu:
+  id: 247
+  definition: >-
+    nulldimensionales geometrisches Primitiv, das eine zeitliche Position
+    darstellt
+  language_code: deu
+  notes:
+    - 'The geometry of time is discussed in 5.2. [of ISO 19108:2002]'
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19108:2002'
+    link: 'https://www.iso.org/standard/26013.html'
+  date_accepted: 2002-09-01T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: Zeitpunkt
+      normative_status: preferred
+  _revisions:
+    current: db8a3e
+    tree:
+      db8a3e:
+        object:
+          id: 247
+          definition: >-
+            nulldimensionales geometrisches Primitiv, das eine zeitliche
+            Position darstellt
+          language_code: deu
+          notes:
+            - 'The geometry of time is discussed in 5.2. [of ISO 19108:2002]'
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19108:2002'
+            link: 'https://www.iso.org/standard/26013.html'
+          date_accepted: 2002-09-01T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: Zeitpunkt
+              normative_status: preferred
+        parents: []
+        timeCreated: 2002-09-01T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+jpn:
+  id: 247
+  definition: 時間における位置を表現する零次元の幾何プリミティブ。
+  language_code: jpn
+  notes:
+    - 　時間の幾何については，5.2で取り上げる。
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19108:2002'
+    link: 'https://www.iso.org/standard/26013.html'
+  lineage_source: JIS X 7108
+  date_accepted: 2002-09-01T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: 瞬間
+      normative_status: preferred
+  _revisions:
+    current: 030aeb
+    tree:
+      030aeb:
+        object:
+          id: 247
+          definition: 時間における位置を表現する零次元の幾何プリミティブ。
+          language_code: jpn
+          notes:
+            - 　時間の幾何については，5.2で取り上げる。
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19108:2002'
+            link: 'https://www.iso.org/standard/26013.html'
+          lineage_source: JIS X 7108
+          date_accepted: 2002-09-01T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: 瞬間
+              normative_status: preferred
+        parents: []
+        timeCreated: 2002-09-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+kor:
+  id: 247
+  definition: 특정 시점의 위치를 나타내는 0차원의 기하 원시 객체
+  language_code: kor
+  notes:
+    - 시간의 기하는 KS X ISO 19108의 5.2절에서 기술되어 있다.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19108:2002'
+    link: 'https://www.iso.org/standard/26013.html'
+  lineage_source: KS X ISO 19108
+  date_accepted: 2007-11-01T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: 인스턴트
+      normative_status: preferred
+  _revisions:
+    current: '723215'
+    tree:
+      '723215':
+        object:
+          id: 247
+          definition: 특정 시점의 위치를 나타내는 0차원의 기하 원시 객체
+          language_code: kor
+          notes:
+            - 시간의 기하는 KS X ISO 19108의 5.2절에서 기술되어 있다.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19108:2002'
+            link: 'https://www.iso.org/standard/26013.html'
+          lineage_source: KS X ISO 19108
+          date_accepted: 2007-11-01T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: 인스턴트
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-11-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+msa:
+  id: 247
+  definition: Primitif geometri 0-dimensi mewakili kedudukan dalam masa
+  language_code: msa
+  notes:
+    - 'The geometry of time is discussed in 5.2. [of ISO 19108;2002]'
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19108:2002'
+    link: 'https://www.iso.org/standard/26013.html'
+  date_accepted: 2002-09-01T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: ketika
+      normative_status: preferred
+  _revisions:
+    current: 160b93
+    tree:
+      160b93:
+        object:
+          id: 247
+          definition: Primitif geometri 0-dimensi mewakili kedudukan dalam masa
+          language_code: msa
+          notes:
+            - 'The geometry of time is discussed in 5.2. [of ISO 19108;2002]'
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19108:2002'
+            link: 'https://www.iso.org/standard/26013.html'
+          date_accepted: 2002-09-01T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: ketika
+              normative_status: preferred
+        parents: []
+        timeCreated: 2002-09-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+pol:
+  id: 247
+  definition: 0-wymiarowy prosty element geometryczny reprezentujący położenie w czasie
+  language_code: pol
+  notes:
+    - Geometrię czasu omówiono w 5.2
+  examples: []
+  authoritative_source:
+    ref: 'ISO 19108:2002'
+    link: 'https://www.iso.org/standard/26013.html'
+  lineage_source: PN-EN ISO 19108
+  date_accepted: 2002-09-01T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: chwila
+      normative_status: preferred
+  _revisions:
+    current: 21f234
+    tree:
+      21f234:
+        object:
+          id: 247
+          definition: >-
+            0-wymiarowy prosty element geometryczny reprezentujący położenie w
+            czasie
+          language_code: pol
+          notes:
+            - Geometrię czasu omówiono w 5.2
+          examples: []
+          authoritative_source:
+            ref: 'ISO 19108:2002'
+            link: 'https://www.iso.org/standard/26013.html'
+          lineage_source: PN-EN ISO 19108
+          date_accepted: 2002-09-01T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: chwila
+              normative_status: preferred
+        parents: []
+        timeCreated: 2002-09-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 247
+  definition: 'нульмерный геометрический примитив,  представляющий положение  во  времени'
+  language_code: rus
+  notes:
+    - 'Геометрия времени описана в 5.2 ISO 19108:2002'
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19108:2002'
+    link: 'https://www.iso.org/standard/26013.html'
+  lineage_source: Internet
+  date_accepted: 2002-09-01T00:00:00.000Z
+  terms:
+    - type: expression
+      designation: момент
+      normative_status: preferred
+  _revisions:
+    current: 22c99e
+    tree:
+      22c99e:
+        object:
+          id: 247
+          definition: >-
+            нульмерный геометрический примитив,  представляющий положение  во 
+            времени
+          language_code: rus
+          notes:
+            - 'Геометрия времени описана в 5.2 ISO 19108:2002'
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19108:2002'
+            link: 'https://www.iso.org/standard/26013.html'
+          lineage_source: Internet
+          date_accepted: 2002-09-01T00:00:00.000Z
+          terms:
+            - type: expression
+              designation: момент
+              normative_status: preferred
+        parents: []
+        timeCreated: 2002-09-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 247
+  definition: primitiva geométrica de dimensión 0 que representa una posición en el tiempo
+  language_code: spa
+  notes:
+    - 'La geometría del tiempo se discute en el apartado 5.2. [of ISO 19108:2002]'
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19108:2002'
+    link: 'https://www.iso.org/standard/26013.html'
+  date_accepted: 2002-09-01T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: instante
+      normative_status: preferred
+  _revisions:
+    current: 16e1e1
+    tree:
+      16e1e1:
+        object:
+          id: 247
+          definition: >-
+            primitiva geométrica de dimensión 0 que representa una posición en
+            el tiempo
+          language_code: spa
+          notes:
+            - >-
+              La geometría del tiempo se discute en el apartado 5.2. [of ISO
+              19108:2002]
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19108:2002'
+            link: 'https://www.iso.org/standard/26013.html'
+          date_accepted: 2002-09-01T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: instante
+              normative_status: preferred
+        parents: []
+        timeCreated: 2002-09-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+swe:
+  id: 247
+  definition: 0-dimensionell geometrisk primitiv som representerar position i tid
+  country_code: swe
+  language_code: swe
+  notes:
+    - 'The geometry of time is discussed in 5.2. [of ISO 19108:2002]'
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19108:2002'
+    link: 'https://www.iso.org/standard/26013.html'
+  lineage_source: (Type reference to national language document)
+  date_accepted: 2002-09-01T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: tidpunkt
+      normative_status: preferred
+  _revisions:
+    current: fe5055
+    tree:
+      fe5055:
+        object:
+          id: 247
+          definition: 0-dimensionell geometrisk primitiv som representerar position i tid
+          country_code: swe
+          language_code: swe
+          notes:
+            - 'The geometry of time is discussed in 5.2. [of ISO 19108:2002]'
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19108:2002'
+            link: 'https://www.iso.org/standard/26013.html'
+          lineage_source: (Type reference to national language document)
+          date_accepted: 2002-09-01T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: tidpunkt
+              normative_status: preferred
+        parents: []
+        timeCreated: 2002-09-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

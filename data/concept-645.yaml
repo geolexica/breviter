@@ -1,0 +1,369 @@
+term: prism <one parameter set of geometries>
+termid: 645
+eng:
+  id: 645
+  definition: >-
+    set of points in the union of the geometries (or the union of the
+    trajectories) of a one parameter set of geometries
+  language_code: eng
+  notes:
+    - >-
+      This is a generalization of the concept of a geometric prism that is the
+      convex hull of two congruent polygons in 3D-space. Such polyhedrons can be
+      viewed as a foliation of congruent polygons.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19141:2008'
+    link: 'https://www.iso.org/standard/41445.html'
+  date_accepted: 2008-06-01T00:00:00.000Z
+  release: '2'
+  terms:
+    - type: expression
+      designation: prism <one parameter set of geometries>
+      normative_status: preferred
+  _revisions:
+    current: 23eb76
+    tree:
+      23eb76:
+        object:
+          id: 645
+          definition: >-
+            set of points in the union of the geometries (or the union of the
+            trajectories) of a one parameter set of geometries
+          language_code: eng
+          notes:
+            - >-
+              This is a generalization of the concept of a geometric prism that
+              is the convex hull of two congruent polygons in 3D-space. Such
+              polyhedrons can be viewed as a foliation of congruent polygons.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19141:2008'
+            link: 'https://www.iso.org/standard/41445.html'
+          date_accepted: 2008-06-01T00:00:00.000Z
+          release: '2'
+          terms:
+            - type: expression
+              designation: prism <one parameter set of geometries>
+              normative_status: preferred
+        parents: []
+        timeCreated: 2008-06-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+ara:
+  id: 645
+  definition: >-
+    مجموعة من النقاط في اتحاد الاشكال الهندسية (أو اتحاد المسارات)  لمجموعة من
+    الاشكال الهندسية ذات متغير واحد
+  language_code: ara
+  notes:
+    - >-
+      هذا تعميم لمفهوم موشور هندسي هو عبارة عن هيكل محدَّب لمضلعين متطابقين في
+      حيز ثلاثي الأبعاد. ومثل هذه الأشكال المتعددة الوجوه يمكن النظر إليها
+      باعتبارها تورقا لمضلعات متطابقة.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19141:2008'
+    link: 'https://www.iso.org/standard/41445.html'
+  date_accepted: 2008-06-01T00:00:00.000Z
+  release: '2'
+  terms:
+    - type: expression
+      designation: موشور < مجموعة من الاشكال الهندسية ذات متغير واحد >
+      normative_status: preferred
+  _revisions:
+    current: a60fed
+    tree:
+      a60fed:
+        object:
+          id: 645
+          definition: >-
+            مجموعة من النقاط في اتحاد الاشكال الهندسية (أو اتحاد المسارات) 
+            لمجموعة من الاشكال الهندسية ذات متغير واحد
+          language_code: ara
+          notes:
+            - >-
+              هذا تعميم لمفهوم موشور هندسي هو عبارة عن هيكل محدَّب لمضلعين
+              متطابقين في حيز ثلاثي الأبعاد. ومثل هذه الأشكال المتعددة الوجوه
+              يمكن النظر إليها باعتبارها تورقا لمضلعات متطابقة.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19141:2008'
+            link: 'https://www.iso.org/standard/41445.html'
+          date_accepted: 2008-06-01T00:00:00.000Z
+          release: '2'
+          terms:
+            - type: expression
+              designation: موشور < مجموعة من الاشكال الهندسية ذات متغير واحد >
+              normative_status: preferred
+        parents: []
+        timeCreated: 2008-06-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+deu:
+  id: 645
+  language_code: deu
+  notes:
+    - >-
+      This is a generalization of the concept of a geometric prism that is the
+      convex hull of two congruent polygons in 3D-space. Such polyhedrons can be
+      viewed as a foliation of congruent polygons.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19141:2008'
+    link: 'https://www.iso.org/standard/41445.html'
+  date_accepted: 2008-06-01T00:00:00.000Z
+  release: '2'
+  terms:
+    - type: expression
+      designation: Prisma <einparametrige Menge von Geometrien>
+      normative_status: preferred
+  _revisions:
+    current: b30a0a
+    tree:
+      b30a0a:
+        object:
+          id: 645
+          language_code: deu
+          notes:
+            - >-
+              This is a generalization of the concept of a geometric prism that
+              is the convex hull of two congruent polygons in 3D-space. Such
+              polyhedrons can be viewed as a foliation of congruent polygons.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19141:2008'
+            link: 'https://www.iso.org/standard/41445.html'
+          date_accepted: 2008-06-01T00:00:00.000Z
+          release: '2'
+          terms:
+            - type: expression
+              designation: Prisma <einparametrige Menge von Geometrien>
+              normative_status: preferred
+        parents: []
+        timeCreated: 2008-06-01T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+kor:
+  id: 645
+  definition: '한 매개변수내 기하학적 구조 집합의 기하학적 도형 집합, 궤적 집합 내의 점 집합'
+  language_code: kor
+  notes:
+    - >-
+      This is a generalization of the concept of a geometric prism that is the
+      convex hull of two congruent polygons in 3D-space. Such polyhedrons can be
+      viewed as a foliation of congruent polygons.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19141:2008'
+    link: 'https://www.iso.org/standard/41445.html'
+  date_accepted: 2008-06-01T00:00:00.000Z
+  release: '2'
+  terms:
+    - type: expression
+      designation: 프리즘
+      normative_status: preferred
+  _revisions:
+    current: d83a51
+    tree:
+      d83a51:
+        object:
+          id: 645
+          definition: '한 매개변수내 기하학적 구조 집합의 기하학적 도형 집합, 궤적 집합 내의 점 집합'
+          language_code: kor
+          notes:
+            - >-
+              This is a generalization of the concept of a geometric prism that
+              is the convex hull of two congruent polygons in 3D-space. Such
+              polyhedrons can be viewed as a foliation of congruent polygons.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19141:2008'
+            link: 'https://www.iso.org/standard/41445.html'
+          date_accepted: 2008-06-01T00:00:00.000Z
+          release: '2'
+          terms:
+            - type: expression
+              designation: 프리즘
+              normative_status: preferred
+        parents: []
+        timeCreated: 2008-06-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+msa:
+  id: 645
+  definition: >-
+    set titik dalam kesatuan geometri (atau kesatuan trajektori) bagi satu
+    parameter dalam set geometri
+  language_code: msa
+  notes:
+    - >-
+      This is a generalization of the concept of a geometric prism that is the
+      convex hull of two congruent polygons in 3D-space. Such polyhedrons can be
+      viewed as a foliation of congruent polygons.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19141:2008'
+    link: 'https://www.iso.org/standard/41445.html'
+  date_accepted: 2008-06-01T00:00:00.000Z
+  release: '2'
+  terms:
+    - type: expression
+      designation: prisma
+      normative_status: preferred
+  _revisions:
+    current: f3d7cd
+    tree:
+      f3d7cd:
+        object:
+          id: 645
+          definition: >-
+            set titik dalam kesatuan geometri (atau kesatuan trajektori) bagi
+            satu parameter dalam set geometri
+          language_code: msa
+          notes:
+            - >-
+              This is a generalization of the concept of a geometric prism that
+              is the convex hull of two congruent polygons in 3D-space. Such
+              polyhedrons can be viewed as a foliation of congruent polygons.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19141:2008'
+            link: 'https://www.iso.org/standard/41445.html'
+          date_accepted: 2008-06-01T00:00:00.000Z
+          release: '2'
+          terms:
+            - type: expression
+              designation: prisma
+              normative_status: preferred
+        parents: []
+        timeCreated: 2008-06-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 645
+  definition: >-
+    множество точек в объединении геометрий (или объединение траекторий) одного
+    набора параметров геометрии
+  language_code: rus
+  notes:
+    - >-
+      Это является обобщением концепции геометрической призмы, которая является
+      выпуклой оболочкой двух конгруэнтных многоугольников в трехмерном
+      пространстве. Подобные многогранники можно рассматривать, как расслоение
+      конгруэнтных многогранников.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19141:2008'
+    link: 'https://www.iso.org/standard/41445.html'
+  lineage_source: 'перевод ISO 19141:2008'
+  date_accepted: 2008-06-01T00:00:00.000Z
+  release: '2'
+  terms:
+    - type: expression
+      designation: призма <один набор параметров геометрии>
+      normative_status: preferred
+  _revisions:
+    current: 6f9f50
+    tree:
+      6f9f50:
+        object:
+          id: 645
+          definition: >-
+            множество точек в объединении геометрий (или объединение траекторий)
+            одного набора параметров геометрии
+          language_code: rus
+          notes:
+            - >-
+              Это является обобщением концепции геометрической призмы, которая
+              является выпуклой оболочкой двух конгруэнтных многоугольников в
+              трехмерном пространстве. Подобные многогранники можно
+              рассматривать, как расслоение конгруэнтных многогранников.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19141:2008'
+            link: 'https://www.iso.org/standard/41445.html'
+          lineage_source: 'перевод ISO 19141:2008'
+          date_accepted: 2008-06-01T00:00:00.000Z
+          release: '2'
+          terms:
+            - type: expression
+              designation: призма <один набор параметров геометрии>
+              normative_status: preferred
+        parents: []
+        timeCreated: 2008-06-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 645
+  definition: >-
+    conjunto de puntos en la unión de las geometrías (o la unión de las
+    trayectorias) de un conjunto de geometrías de un parámetro
+  language_code: spa
+  notes:
+    - >-
+      Esto es una generalización del concepto de prisma geométrico que es la
+      envolvente convexa de dos polígonos congruentes en un espacio
+      tri¬dimensional. Tales poliedros se pueden ver como la foliación de
+      polígonos congruentes.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19141:2008'
+    link: 'https://www.iso.org/standard/41445.html'
+  date_accepted: 2008-06-01T00:00:00.000Z
+  release: '2'
+  terms:
+    - type: expression
+      designation: prisma <conjunto de geometrías de un parámetro>
+      normative_status: preferred
+  _revisions:
+    current: 79c312
+    tree:
+      79c312:
+        object:
+          id: 645
+          definition: >-
+            conjunto de puntos en la unión de las geometrías (o la unión de las
+            trayectorias) de un conjunto de geometrías de un parámetro
+          language_code: spa
+          notes:
+            - >-
+              Esto es una generalización del concepto de prisma geométrico que
+              es la envolvente convexa de dos polígonos congruentes en un
+              espacio tri¬dimensional. Tales poliedros se pueden ver como la
+              foliación de polígonos congruentes.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19141:2008'
+            link: 'https://www.iso.org/standard/41445.html'
+          date_accepted: 2008-06-01T00:00:00.000Z
+          release: '2'
+          terms:
+            - type: expression
+              designation: prisma <conjunto de geometrías de un parámetro>
+              normative_status: preferred
+        parents: []
+        timeCreated: 2008-06-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

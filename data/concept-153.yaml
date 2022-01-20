@@ -1,0 +1,725 @@
+term: encoding service
+termid: 153
+eng:
+  id: 153
+  definition: software component that has an encoding rule implemented
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19118:2011'
+    clause: '4.15'
+    link: 'https://www.iso.org/standard/44212.html'
+  lineage_source: 'ISO 19118:2005'
+  lineage_source_similarity: 1
+  date_accepted: 2005-07-15T00:00:00.000Z
+  review_date: 2007-01-23T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2011-10-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19118:2011'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19118:2005 to ISO 19118:2011.
+    Lineage source added as ISO 19118:2005.
+  release: '1'
+  terms:
+    - type: expression
+      designation: encoding service
+      normative_status: preferred
+  _revisions:
+    current: 049714
+    tree:
+      049714:
+        object:
+          id: 153
+          definition: software component that has an encoding rule implemented
+          language_code: eng
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19118:2011'
+            clause: '4.15'
+            link: 'https://www.iso.org/standard/44212.html'
+          lineage_source: 'ISO 19118:2005'
+          lineage_source_similarity: 1
+          date_accepted: 2005-07-15T00:00:00.000Z
+          review_date: 2007-01-23T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2011-10-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19118:2011'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19118:2005 to ISO
+            19118:2011. Lineage source added as ISO 19118:2005.
+          release: '1'
+          terms:
+            - type: expression
+              designation: encoding service
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-07-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+ara:
+  id: 153
+  definition: مكون برمجي يحتوي على قاعدة ترميز منجزة
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19118:2011'
+    clause: '4.15'
+    link: 'https://www.iso.org/standard/44212.html'
+  lineage_source: 'ISO 19118:2005'
+  lineage_source_similarity: 1
+  date_accepted: 2005-07-15T00:00:00.000Z
+  review_date: 2007-01-23T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2011-10-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19118:2011'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19118:2005 to ISO 19118:2011.
+    Lineage source added as ISO 19118:2005.
+  release: '1'
+  terms:
+    - type: expression
+      designation: خدمة التشفير
+      normative_status: preferred
+  _revisions:
+    current: 5e7cb9
+    tree:
+      5e7cb9:
+        object:
+          id: 153
+          definition: مكون برمجي يحتوي على قاعدة ترميز منجزة
+          language_code: ara
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19118:2011'
+            clause: '4.15'
+            link: 'https://www.iso.org/standard/44212.html'
+          lineage_source: 'ISO 19118:2005'
+          lineage_source_similarity: 1
+          date_accepted: 2005-07-15T00:00:00.000Z
+          review_date: 2007-01-23T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2011-10-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19118:2011'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19118:2005 to ISO
+            19118:2011. Lineage source added as ISO 19118:2005.
+          release: '1'
+          terms:
+            - type: expression
+              designation: خدمة التشفير
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-07-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+zho:
+  id: 153
+  definition: 实现编码规则的软件组件。
+  language_code: zho
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19118:2011'
+    clause: '4.15'
+    link: 'https://www.iso.org/standard/44212.html'
+  lineage_source: 'ISO 19118:2005'
+  lineage_source_similarity: 1
+  date_accepted: 2005-07-15T00:00:00.000Z
+  review_date: 2007-01-23T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2011-10-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19118:2011'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19118:2005 to ISO 19118:2011.
+    Lineage source added as ISO 19118:2005.
+  release: '1'
+  terms:
+    - type: expression
+      designation: 编码服务
+      normative_status: preferred
+  _revisions:
+    current: 30f575
+    tree:
+      30f575:
+        object:
+          id: 153
+          definition: 实现编码规则的软件组件。
+          language_code: zho
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19118:2011'
+            clause: '4.15'
+            link: 'https://www.iso.org/standard/44212.html'
+          lineage_source: 'ISO 19118:2005'
+          lineage_source_similarity: 1
+          date_accepted: 2005-07-15T00:00:00.000Z
+          review_date: 2007-01-23T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2011-10-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19118:2011'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19118:2005 to ISO
+            19118:2011. Lineage source added as ISO 19118:2005.
+          release: '1'
+          terms:
+            - type: expression
+              designation: 编码服务
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-07-15T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+dan:
+  id: 153
+  definition: softwarekomponent med en implementeret kodningsregel
+  language_code: dan
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19118:2011'
+    clause: '4.15'
+    link: 'https://www.iso.org/standard/44212.html'
+  lineage_source: 'ISO 19118:2005'
+  lineage_source_similarity: 1
+  date_accepted: 2005-07-15T00:00:00.000Z
+  review_date: 2007-01-23T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2011-10-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19118:2011'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19118:2005 to ISO 19118:2011.
+    Lineage source added as ISO 19118:2005.
+  release: '1'
+  terms:
+    - type: expression
+      designation: kodningstjeneste
+      normative_status: preferred
+  _revisions:
+    current: '975e38'
+    tree:
+      '975e38':
+        object:
+          id: 153
+          definition: softwarekomponent med en implementeret kodningsregel
+          language_code: dan
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19118:2011'
+            clause: '4.15'
+            link: 'https://www.iso.org/standard/44212.html'
+          lineage_source: 'ISO 19118:2005'
+          lineage_source_similarity: 1
+          date_accepted: 2005-07-15T00:00:00.000Z
+          review_date: 2007-01-23T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2011-10-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19118:2011'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19118:2005 to ISO
+            19118:2011. Lineage source added as ISO 19118:2005.
+          release: '1'
+          terms:
+            - type: expression
+              designation: kodningstjeneste
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-07-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+fin:
+  id: 153
+  definition: 'ohjelmistokomponentti, johon koodaussääntö on implementoitu'
+  language_code: fin
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19118:2011'
+    clause: '4.15'
+    link: 'https://www.iso.org/standard/44212.html'
+  lineage_source: 'ISO 19118:2005'
+  lineage_source_similarity: 1
+  date_accepted: 2005-07-15T00:00:00.000Z
+  review_date: 2007-01-23T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2011-10-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19118:2011'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19118:2005 to ISO 19118:2011.
+    Lineage source added as ISO 19118:2005.
+  release: '1'
+  terms:
+    - type: expression
+      designation: koodauspalvelu
+      normative_status: preferred
+  _revisions:
+    current: 2a6766
+    tree:
+      2a6766:
+        object:
+          id: 153
+          definition: 'ohjelmistokomponentti, johon koodaussääntö on implementoitu'
+          language_code: fin
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19118:2011'
+            clause: '4.15'
+            link: 'https://www.iso.org/standard/44212.html'
+          lineage_source: 'ISO 19118:2005'
+          lineage_source_similarity: 1
+          date_accepted: 2005-07-15T00:00:00.000Z
+          review_date: 2007-01-23T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2011-10-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19118:2011'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19118:2005 to ISO
+            19118:2011. Lineage source added as ISO 19118:2005.
+          release: '1'
+          terms:
+            - type: expression
+              designation: koodauspalvelu
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-07-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+fra:
+  id: 153
+  definition: composant logiciel implémentant une règle de codage
+  language_code: fra
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19118:2011'
+    clause: '4.15'
+    link: 'https://www.iso.org/standard/44212.html'
+  lineage_source: 'ISO 19118:2005'
+  lineage_source_similarity: 1
+  date_accepted: 2005-07-15T00:00:00.000Z
+  review_date: 2007-01-23T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2011-10-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19118:2011'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19118:2005 to ISO 19118:2011.
+    Lineage source added as ISO 19118:2005.
+  release: '1'
+  terms:
+    - type: expression
+      designation: service de codage
+      normative_status: preferred
+  _revisions:
+    current: b6d301
+    tree:
+      b6d301:
+        object:
+          id: 153
+          definition: composant logiciel implémentant une règle de codage
+          language_code: fra
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19118:2011'
+            clause: '4.15'
+            link: 'https://www.iso.org/standard/44212.html'
+          lineage_source: 'ISO 19118:2005'
+          lineage_source_similarity: 1
+          date_accepted: 2005-07-15T00:00:00.000Z
+          review_date: 2007-01-23T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2011-10-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19118:2011'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19118:2005 to ISO
+            19118:2011. Lineage source added as ISO 19118:2005.
+          release: '1'
+          terms:
+            - type: expression
+              designation: service de codage
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-07-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+deu:
+  id: 153
+  language_code: deu
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19118:2011'
+    clause: '4.15'
+    link: 'https://www.iso.org/standard/44212.html'
+  lineage_source: 'ISO 19118:2005'
+  lineage_source_similarity: 1
+  date_accepted: 2005-07-15T00:00:00.000Z
+  review_date: 2007-01-23T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2011-10-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19118:2011'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19118:2005 to ISO 19118:2011.
+    Lineage source added as ISO 19118:2005.
+  release: '1'
+  terms:
+    - type: expression
+      designation: Kodierungssdienst
+      normative_status: preferred
+  _revisions:
+    current: dfbd1e
+    tree:
+      dfbd1e:
+        object:
+          id: 153
+          language_code: deu
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19118:2011'
+            clause: '4.15'
+            link: 'https://www.iso.org/standard/44212.html'
+          lineage_source: 'ISO 19118:2005'
+          lineage_source_similarity: 1
+          date_accepted: 2005-07-15T00:00:00.000Z
+          review_date: 2007-01-23T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2011-10-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19118:2011'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19118:2005 to ISO
+            19118:2011. Lineage source added as ISO 19118:2005.
+          release: '1'
+          terms:
+            - type: expression
+              designation: Kodierungssdienst
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-07-15T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+kor:
+  id: 153
+  definition: 부호화 규칙을 제공하는 소프트웨어 컴포넌트
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19118:2011'
+    clause: '4.15'
+    link: 'https://www.iso.org/standard/44212.html'
+  lineage_source: 'ISO 19118:2005'
+  lineage_source_similarity: 1
+  date_accepted: 2008-12-30T00:00:00.000Z
+  review_date: 2007-01-23T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2011-10-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19118:2011'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19118:2005 to ISO 19118:2011.
+    Lineage source added as ISO 19118:2005.
+  release: '1'
+  terms:
+    - type: expression
+      designation: 부호화 서비스
+      normative_status: preferred
+    - designation: 인코딩 서비스
+      type: expression
+  _revisions:
+    current: ffa595
+    tree:
+      ffa595:
+        object:
+          id: 153
+          definition: 부호화 규칙을 제공하는 소프트웨어 컴포넌트
+          language_code: kor
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19118:2011'
+            clause: '4.15'
+            link: 'https://www.iso.org/standard/44212.html'
+          lineage_source: 'ISO 19118:2005'
+          lineage_source_similarity: 1
+          date_accepted: 2008-12-30T00:00:00.000Z
+          review_date: 2007-01-23T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2011-10-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19118:2011'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19118:2005 to ISO
+            19118:2011. Lineage source added as ISO 19118:2005.
+          release: '1'
+          terms:
+            - type: expression
+              designation: 부호화 서비스
+              normative_status: preferred
+            - designation: 인코딩 서비스
+              type: expression
+        parents: []
+        timeCreated: 2008-12-30T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 153
+  definition: 'программный компонент, который реализует правило кодирования'
+  language_code: rus
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19118:2011'
+    clause: '4.15'
+    link: 'https://www.iso.org/standard/44212.html'
+  lineage_source: 'ISO 19118:2005'
+  lineage_source_similarity: 1
+  date_accepted: 2005-07-15T00:00:00.000Z
+  review_date: 2007-01-23T00:00:00.000Z
+  review_status: ''
+  review_decision: ''
+  review_decision_date: 2011-10-15T00:00:00.000Z
+  review_decision_event: 'Публикация ИСО19118:2011'
+  review_decision_notes: >-
+    Авторитетная ссылка изменена с ISO 19118:2005 на ISO 19118: 2011. Источник
+    происхождения добавлен как ISO 19118: 2005.
+  release: '1'
+  terms:
+    - type: expression
+      designation: 'сервис [служба] кодирования'
+      normative_status: preferred
+  _revisions:
+    current: fb0a43
+    tree:
+      fb0a43:
+        object:
+          id: 153
+          definition: 'программный компонент, который реализует правило кодирования'
+          language_code: rus
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19118:2011'
+            clause: '4.15'
+            link: 'https://www.iso.org/standard/44212.html'
+          lineage_source: 'ISO 19118:2005'
+          lineage_source_similarity: 1
+          date_accepted: 2005-07-15T00:00:00.000Z
+          review_date: 2007-01-23T00:00:00.000Z
+          review_status: ''
+          review_decision: ''
+          review_decision_date: 2011-10-15T00:00:00.000Z
+          review_decision_event: 'Публикация ИСО19118:2011'
+          review_decision_notes: >-
+            Авторитетная ссылка изменена с ISO 19118:2005 на ISO 19118: 2011.
+            Источник происхождения добавлен как ISO 19118: 2005.
+          release: '1'
+          terms:
+            - type: expression
+              designation: 'сервис [служба] кодирования'
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-07-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 153
+  definition: componente software que tiene una regla de codificación implementada
+  language_code: spa
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19118:2011'
+    clause: '4.15'
+    link: 'https://www.iso.org/standard/44212.html'
+  lineage_source: 'ISO 19118:2005'
+  lineage_source_similarity: 1
+  date_accepted: 2005-07-15T00:00:00.000Z
+  review_date: 2007-01-23T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2011-10-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19118:2011'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19118:2005 to ISO 19118:2011.
+    Lineage source added as ISO 19118:2005.
+  release: '1'
+  terms:
+    - type: expression
+      designation: servicio de codificación
+      normative_status: preferred
+  _revisions:
+    current: 6f0dbf
+    tree:
+      6f0dbf:
+        object:
+          id: 153
+          definition: componente software que tiene una regla de codificación implementada
+          language_code: spa
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19118:2011'
+            clause: '4.15'
+            link: 'https://www.iso.org/standard/44212.html'
+          lineage_source: 'ISO 19118:2005'
+          lineage_source_similarity: 1
+          date_accepted: 2005-07-15T00:00:00.000Z
+          review_date: 2007-01-23T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2011-10-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19118:2011'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19118:2005 to ISO
+            19118:2011. Lineage source added as ISO 19118:2005.
+          release: '1'
+          terms:
+            - type: expression
+              designation: servicio de codificación
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-07-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+swe:
+  id: 153
+  definition: >-
+    tjänst för tillämpning av kodningsregler och som tillhandahåller ett
+    gränssnitt för kodning och avkodning
+  country_code: swe
+  language_code: swe
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19118:2011'
+    clause: '4.15'
+    link: 'https://www.iso.org/standard/44212.html'
+  lineage_source: 'ISO 19118:2005'
+  lineage_source_similarity: 1
+  date_accepted: 2005-07-15T00:00:00.000Z
+  review_date: 2007-01-23T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2011-10-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19118:2011'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19118:2005 to ISO 19118:2011.
+    Lineage source added as ISO 19118:2005.
+  release: '1'
+  terms:
+    - type: expression
+      designation: kodningstjänst
+      normative_status: preferred
+  _revisions:
+    current: 4590d6
+    tree:
+      4590d6:
+        object:
+          id: 153
+          definition: >-
+            tjänst för tillämpning av kodningsregler och som tillhandahåller ett
+            gränssnitt för kodning och avkodning
+          country_code: swe
+          language_code: swe
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19118:2011'
+            clause: '4.15'
+            link: 'https://www.iso.org/standard/44212.html'
+          lineage_source: 'ISO 19118:2005'
+          lineage_source_similarity: 1
+          date_accepted: 2005-07-15T00:00:00.000Z
+          review_date: 2007-01-23T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2011-10-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19118:2011'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19118:2005 to ISO
+            19118:2011. Lineage source added as ISO 19118:2005.
+          release: '1'
+          terms:
+            - type: expression
+              designation: kodningstjänst
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-07-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

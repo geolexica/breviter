@@ -1,0 +1,845 @@
+term: polar coordinate system
+termid: 620
+eng:
+  id: 620
+  definition: >-
+    two-dimensional coordinate system in which position is specified by distance
+    and direction from the origin
+  language_code: eng
+  notes:
+    - 'For the three-dimensional case, see spherical coordinate system (4.44).'
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19111:2007'
+    link: 'https://www.iso.org/standard/41126.html'
+  date_accepted: 2007-07-01T00:00:00.000Z
+  date_amended: 2019-01-31T00:00:00.000Z
+  review_date: 2019-01-31T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2019-01-31T00:00:00.000Z
+  review_decision_event: 'Publication of document ISO 19111:2019(E)'
+  review_decision_notes: >-
+    This entry is superseded by the entry for polar coordinate system in ISO
+    19111:2019(E)
+  release: '-1'
+  terms:
+    - type: expression
+      designation: polar coordinate system
+      normative_status: null
+  _revisions:
+    current: 783e3e
+    tree:
+      783e3e:
+        object:
+          id: 620
+          definition: >-
+            two-dimensional coordinate system in which position is specified by
+            distance and direction from the origin
+          language_code: eng
+          notes:
+            - >-
+              For the three-dimensional case, see spherical coordinate system
+              (4.44).
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19111:2007'
+            link: 'https://www.iso.org/standard/41126.html'
+          date_accepted: 2007-07-01T00:00:00.000Z
+          date_amended: 2019-01-31T00:00:00.000Z
+          review_date: 2019-01-31T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2019-01-31T00:00:00.000Z
+          review_decision_event: 'Publication of document ISO 19111:2019(E)'
+          review_decision_notes: >-
+            This entry is superseded by the entry for polar coordinate system in
+            ISO 19111:2019(E)
+          release: '-1'
+          terms:
+            - type: expression
+              designation: polar coordinate system
+              normative_status: null
+        parents: []
+        timeCreated: 2007-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+ara:
+  id: 620
+  definition: >-
+    نظام إحداثيات ثنائي الأبعاد يحدد فيه الموقع بناء على المسافة والاتجاه من
+    نقطة البداية
+  language_code: ara
+  notes:
+    - 'بالنسبة للحالة الثلاثية الأبعاد , أنظر نظام الإحداثيات الكروية (4 -44)'
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19111:2007'
+    link: 'https://www.iso.org/standard/41126.html'
+  date_accepted: 2007-07-01T00:00:00.000Z
+  date_amended: 2019-01-31T00:00:00.000Z
+  review_date: 2019-01-31T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2019-01-31T00:00:00.000Z
+  review_decision_event: 'Publication of document ISO 19111:2019(E)'
+  review_decision_notes: >-
+    This entry is superseded by the entry for polar coordinate system in ISO
+    19111:2019(E)
+  release: '-1'
+  terms:
+    - type: expression
+      designation: نظام إحداثيات قطبي
+      normative_status: null
+  _revisions:
+    current: 0811bb
+    tree:
+      0811bb:
+        object:
+          id: 620
+          definition: >-
+            نظام إحداثيات ثنائي الأبعاد يحدد فيه الموقع بناء على المسافة
+            والاتجاه من نقطة البداية
+          language_code: ara
+          notes:
+            - >-
+              بالنسبة للحالة الثلاثية الأبعاد , أنظر نظام الإحداثيات الكروية (4
+              -44)
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19111:2007'
+            link: 'https://www.iso.org/standard/41126.html'
+          date_accepted: 2007-07-01T00:00:00.000Z
+          date_amended: 2019-01-31T00:00:00.000Z
+          review_date: 2019-01-31T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2019-01-31T00:00:00.000Z
+          review_decision_event: 'Publication of document ISO 19111:2019(E)'
+          review_decision_notes: >-
+            This entry is superseded by the entry for polar coordinate system in
+            ISO 19111:2019(E)
+          release: '-1'
+          terms:
+            - type: expression
+              designation: نظام إحداثيات قطبي
+              normative_status: null
+        parents: []
+        timeCreated: 2007-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+zho:
+  id: 620
+  definition: 用从起点起算的距离和方向表示位置的二维坐标系。
+  language_code: zho
+  notes:
+    - 在三维中也称为球面坐标系。
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19111:2007'
+    link: 'https://www.iso.org/standard/41126.html'
+  date_accepted: 2007-07-01T00:00:00.000Z
+  date_amended: 2019-01-31T00:00:00.000Z
+  review_date: 2019-01-31T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2019-01-31T00:00:00.000Z
+  review_decision_event: 'Publication of document ISO 19111:2019(E)'
+  review_decision_notes: >-
+    This entry is superseded by the entry for polar coordinate system in ISO
+    19111:2019(E)
+  release: '-1'
+  terms:
+    - type: expression
+      designation: 极坐标系
+      normative_status: null
+  _revisions:
+    current: 2306a4
+    tree:
+      2306a4:
+        object:
+          id: 620
+          definition: 用从起点起算的距离和方向表示位置的二维坐标系。
+          language_code: zho
+          notes:
+            - 在三维中也称为球面坐标系。
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19111:2007'
+            link: 'https://www.iso.org/standard/41126.html'
+          date_accepted: 2007-07-01T00:00:00.000Z
+          date_amended: 2019-01-31T00:00:00.000Z
+          review_date: 2019-01-31T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2019-01-31T00:00:00.000Z
+          review_decision_event: 'Publication of document ISO 19111:2019(E)'
+          review_decision_notes: >-
+            This entry is superseded by the entry for polar coordinate system in
+            ISO 19111:2019(E)
+          release: '-1'
+          terms:
+            - type: expression
+              designation: 极坐标系
+              normative_status: null
+        parents: []
+        timeCreated: 2007-07-01T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+nld:
+  id: 620
+  definition: >-
+    tweedimensionaal coördinaatsysteem waarbij de positie aangeduid wordt met
+    een afstand en richting vanaf het nulpunt
+  language_code: nld
+  notes:
+    - 'Voor het driedimensionale geval, zie het bol coördinaatsysteem (4.44).'
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19111:2007'
+    link: 'https://www.iso.org/standard/41126.html'
+  date_accepted: 2007-07-01T00:00:00.000Z
+  date_amended: 2019-01-31T00:00:00.000Z
+  review_date: 2019-01-31T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2019-01-31T00:00:00.000Z
+  review_decision_event: 'Publication of document ISO 19111:2019(E)'
+  review_decision_notes: >-
+    This entry is superseded by the entry for polar coordinate system in ISO
+    19111:2019(E)
+  release: '-1'
+  terms:
+    - type: expression
+      designation: polair coördinaatsysteem
+      normative_status: null
+  _revisions:
+    current: c5b368
+    tree:
+      c5b368:
+        object:
+          id: 620
+          definition: >-
+            tweedimensionaal coördinaatsysteem waarbij de positie aangeduid
+            wordt met een afstand en richting vanaf het nulpunt
+          language_code: nld
+          notes:
+            - >-
+              Voor het driedimensionale geval, zie het bol coördinaatsysteem
+              (4.44).
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19111:2007'
+            link: 'https://www.iso.org/standard/41126.html'
+          date_accepted: 2007-07-01T00:00:00.000Z
+          date_amended: 2019-01-31T00:00:00.000Z
+          review_date: 2019-01-31T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2019-01-31T00:00:00.000Z
+          review_decision_event: 'Publication of document ISO 19111:2019(E)'
+          review_decision_notes: >-
+            This entry is superseded by the entry for polar coordinate system in
+            ISO 19111:2019(E)
+          release: '-1'
+          terms:
+            - type: expression
+              designation: polair coördinaatsysteem
+              normative_status: null
+        parents: []
+        timeCreated: 2007-07-01T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+fin:
+  id: 620
+  definition: >-
+    kaksiulotteinen koordinaatisto, jossa sijainti ilmaistaan origosta
+    mitattavan kulman ja etäisyyden avulla
+  language_code: fin
+  notes:
+    - >-
+      Kolmiulotteisen koordinaatiston tapauksessa katso pallokoordinaatisto
+      (4.44).
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19111:2007'
+    link: 'https://www.iso.org/standard/41126.html'
+  date_accepted: 2007-07-01T00:00:00.000Z
+  date_amended: 2019-01-31T00:00:00.000Z
+  review_date: 2019-01-31T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2019-01-31T00:00:00.000Z
+  review_decision_event: 'Publication of document ISO 19111:2019(E)'
+  review_decision_notes: >-
+    This entry is superseded by the entry for polar coordinate system in ISO
+    19111:2019(E)
+  release: '-1'
+  terms:
+    - type: expression
+      designation: napakoordinaatisto
+      normative_status: null
+  _revisions:
+    current: 4edfb7
+    tree:
+      4edfb7:
+        object:
+          id: 620
+          definition: >-
+            kaksiulotteinen koordinaatisto, jossa sijainti ilmaistaan origosta
+            mitattavan kulman ja etäisyyden avulla
+          language_code: fin
+          notes:
+            - >-
+              Kolmiulotteisen koordinaatiston tapauksessa katso
+              pallokoordinaatisto (4.44).
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19111:2007'
+            link: 'https://www.iso.org/standard/41126.html'
+          date_accepted: 2007-07-01T00:00:00.000Z
+          date_amended: 2019-01-31T00:00:00.000Z
+          review_date: 2019-01-31T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2019-01-31T00:00:00.000Z
+          review_decision_event: 'Publication of document ISO 19111:2019(E)'
+          review_decision_notes: >-
+            This entry is superseded by the entry for polar coordinate system in
+            ISO 19111:2019(E)
+          release: '-1'
+          terms:
+            - type: expression
+              designation: napakoordinaatisto
+              normative_status: null
+        parents: []
+        timeCreated: 2007-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+fra:
+  id: 620
+  definition: >-
+    système de coordonnées bidimensionnel dans lequel la position est spécifiée
+    par la distance et la direction par rapport à l'origine
+  language_code: fra
+  notes: []
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19111:2007'
+    link: 'https://www.iso.org/standard/41126.html'
+  date_accepted: 2007-07-01T00:00:00.000Z
+  date_amended: 2019-01-31T00:00:00.000Z
+  review_date: 2019-01-31T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2019-01-31T00:00:00.000Z
+  review_decision_event: 'Publication of document ISO 19111:2019(E)'
+  review_decision_notes: >-
+    This entry is superseded by the entry for polar coordinate system in ISO
+    19111:2019(E)
+  release: '-1'
+  terms:
+    - type: expression
+      designation: système de coordonnées polaires
+      normative_status: null
+  _revisions:
+    current: 97c093
+    tree:
+      97c093:
+        object:
+          id: 620
+          definition: >-
+            système de coordonnées bidimensionnel dans lequel la position est
+            spécifiée par la distance et la direction par rapport à l'origine
+          language_code: fra
+          notes: []
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19111:2007'
+            link: 'https://www.iso.org/standard/41126.html'
+          date_accepted: 2007-07-01T00:00:00.000Z
+          date_amended: 2019-01-31T00:00:00.000Z
+          review_date: 2019-01-31T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2019-01-31T00:00:00.000Z
+          review_decision_event: 'Publication of document ISO 19111:2019(E)'
+          review_decision_notes: >-
+            This entry is superseded by the entry for polar coordinate system in
+            ISO 19111:2019(E)
+          release: '-1'
+          terms:
+            - type: expression
+              designation: système de coordonnées polaires
+              normative_status: null
+        parents: []
+        timeCreated: 2007-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+deu:
+  id: 620
+  definition: >-
+    zweidimensionales Koordinatensystem, in dem die Position durch eine
+    Entfernung und eine Richtung vom Koordinatenursprung aus angegeben wird
+  language_code: deu
+  notes:
+    - 'For the three-dimensional case, see spherical coordinate system (4.44).'
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19111:2007'
+    link: 'https://www.iso.org/standard/41126.html'
+  date_accepted: 2007-07-01T00:00:00.000Z
+  date_amended: 2019-01-31T00:00:00.000Z
+  review_date: 2019-01-31T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2019-01-31T00:00:00.000Z
+  review_decision_event: 'Publication of document ISO 19111:2019(E)'
+  review_decision_notes: >-
+    This entry is superseded by the entry for polar coordinate system in ISO
+    19111:2019(E)
+  release: '-1'
+  terms:
+    - type: expression
+      designation: polares Koordinatensystem
+      normative_status: null
+  _revisions:
+    current: bbad84
+    tree:
+      bbad84:
+        object:
+          id: 620
+          definition: >-
+            zweidimensionales Koordinatensystem, in dem die Position durch eine
+            Entfernung und eine Richtung vom Koordinatenursprung aus angegeben
+            wird
+          language_code: deu
+          notes:
+            - >-
+              For the three-dimensional case, see spherical coordinate system
+              (4.44).
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19111:2007'
+            link: 'https://www.iso.org/standard/41126.html'
+          date_accepted: 2007-07-01T00:00:00.000Z
+          date_amended: 2019-01-31T00:00:00.000Z
+          review_date: 2019-01-31T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2019-01-31T00:00:00.000Z
+          review_decision_event: 'Publication of document ISO 19111:2019(E)'
+          review_decision_notes: >-
+            This entry is superseded by the entry for polar coordinate system in
+            ISO 19111:2019(E)
+          release: '-1'
+          terms:
+            - type: expression
+              designation: polares Koordinatensystem
+              normative_status: null
+        parents: []
+        timeCreated: 2007-07-01T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+kor:
+  id: 620
+  definition: 원점으로부터 거리 및 방향으로 위치를 기술하는 2차원 좌표 체계
+  language_code: kor
+  notes:
+    - 차원의 경우 구면 좌표계를 참조
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19111:2007'
+    link: 'https://www.iso.org/standard/41126.html'
+  date_accepted: 2007-07-01T00:00:00.000Z
+  date_amended: 2019-01-31T00:00:00.000Z
+  review_date: 2019-01-31T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2019-01-31T00:00:00.000Z
+  review_decision_event: 'Publication of document ISO 19111:2019(E)'
+  review_decision_notes: >-
+    This entry is superseded by the entry for polar coordinate system in ISO
+    19111:2019(E)
+  release: '-1'
+  terms:
+    - type: expression
+      designation: 극 좌표계
+      normative_status: null
+  _revisions:
+    current: fa8a50
+    tree:
+      fa8a50:
+        object:
+          id: 620
+          definition: 원점으로부터 거리 및 방향으로 위치를 기술하는 2차원 좌표 체계
+          language_code: kor
+          notes:
+            - 차원의 경우 구면 좌표계를 참조
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19111:2007'
+            link: 'https://www.iso.org/standard/41126.html'
+          date_accepted: 2007-07-01T00:00:00.000Z
+          date_amended: 2019-01-31T00:00:00.000Z
+          review_date: 2019-01-31T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2019-01-31T00:00:00.000Z
+          review_decision_event: 'Publication of document ISO 19111:2019(E)'
+          review_decision_notes: >-
+            This entry is superseded by the entry for polar coordinate system in
+            ISO 19111:2019(E)
+          release: '-1'
+          terms:
+            - type: expression
+              designation: 극 좌표계
+              normative_status: null
+        parents: []
+        timeCreated: 2007-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+pol:
+  id: 620
+  definition: >-
+    dwuwymiarowy układ współrzędnych, w którym położenie jest określone poprzez
+    odległość i kierunek liczony od początku układu
+  language_code: pol
+  notes:
+    - >-
+      W układzie trójwymiarowym układ współrzędnych biegunowych jest nazywany
+      sferycznym układem współrzędnych (patrz 4.44).
+  examples: []
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19111:2007'
+    link: 'https://www.iso.org/standard/41126.html'
+  date_accepted: 2007-07-01T00:00:00.000Z
+  date_amended: 2019-01-31T00:00:00.000Z
+  review_date: 2019-01-31T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2019-01-31T00:00:00.000Z
+  review_decision_event: 'Publication of document ISO 19111:2019(E)'
+  review_decision_notes: >-
+    This entry is superseded by the entry for polar coordinate system in ISO
+    19111:2019(E)
+  release: '-1'
+  terms:
+    - type: expression
+      designation: układ współrzędnych biegunowych
+      normative_status: null
+  _revisions:
+    current: 4fc928
+    tree:
+      4fc928:
+        object:
+          id: 620
+          definition: >-
+            dwuwymiarowy układ współrzędnych, w którym położenie jest określone
+            poprzez odległość i kierunek liczony od początku układu
+          language_code: pol
+          notes:
+            - >-
+              W układzie trójwymiarowym układ współrzędnych biegunowych jest
+              nazywany sferycznym układem współrzędnych (patrz 4.44).
+          examples: []
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19111:2007'
+            link: 'https://www.iso.org/standard/41126.html'
+          date_accepted: 2007-07-01T00:00:00.000Z
+          date_amended: 2019-01-31T00:00:00.000Z
+          review_date: 2019-01-31T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2019-01-31T00:00:00.000Z
+          review_decision_event: 'Publication of document ISO 19111:2019(E)'
+          review_decision_notes: >-
+            This entry is superseded by the entry for polar coordinate system in
+            ISO 19111:2019(E)
+          release: '-1'
+          terms:
+            - type: expression
+              designation: układ współrzędnych biegunowych
+              normative_status: null
+        parents: []
+        timeCreated: 2007-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 620
+  definition: >-
+    система координат, в которой положение объекта задается расстоянием и
+    направлением от ее начала
+  language_code: rus
+  notes:
+    - Для трехмерного случая см. сферическую систему координат (4.44)
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19111:2007'
+    link: 'https://www.iso.org/standard/41126.html'
+  date_accepted: 2007-07-01T00:00:00.000Z
+  date_amended: 2019-01-31T00:00:00.000Z
+  review_date: 2019-01-31T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2019-01-31T00:00:00.000Z
+  review_decision_event: 'Publication of document ISO 19111:2019(E)'
+  review_decision_notes: >-
+    This entry is superseded by the entry for polar coordinate system in ISO
+    19111:2019(E)
+  release: '-1'
+  terms:
+    - type: expression
+      designation: полярная система координат
+      normative_status: null
+  _revisions:
+    current: fb4d34
+    tree:
+      fb4d34:
+        object:
+          id: 620
+          definition: >-
+            система координат, в которой положение объекта задается расстоянием
+            и направлением от ее начала
+          language_code: rus
+          notes:
+            - Для трехмерного случая см. сферическую систему координат (4.44)
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19111:2007'
+            link: 'https://www.iso.org/standard/41126.html'
+          date_accepted: 2007-07-01T00:00:00.000Z
+          date_amended: 2019-01-31T00:00:00.000Z
+          review_date: 2019-01-31T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2019-01-31T00:00:00.000Z
+          review_decision_event: 'Publication of document ISO 19111:2019(E)'
+          review_decision_notes: >-
+            This entry is superseded by the entry for polar coordinate system in
+            ISO 19111:2019(E)
+          release: '-1'
+          terms:
+            - type: expression
+              designation: полярная система координат
+              normative_status: null
+        parents: []
+        timeCreated: 2007-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 620
+  definition: >-
+    sistema de coordenadas bidimensional en el que la posición está especificada
+    por la dirección y la distancia desde el origen
+  language_code: spa
+  notes:
+    - >-
+      Para el caso tridimensional, véase sistema de coordenadas esféricas
+      (4.44).
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19111:2007'
+    link: 'https://www.iso.org/standard/41126.html'
+  date_accepted: 2007-07-01T00:00:00.000Z
+  date_amended: 2019-01-31T00:00:00.000Z
+  review_date: 2019-01-31T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2019-01-31T00:00:00.000Z
+  review_decision_event: 'Publication of document ISO 19111:2019(E)'
+  review_decision_notes: >-
+    This entry is superseded by the entry for polar coordinate system in ISO
+    19111:2019(E)
+  release: '-1'
+  terms:
+    - type: expression
+      designation: sistema de coordenadas polares
+      normative_status: null
+  _revisions:
+    current: c78b07
+    tree:
+      c78b07:
+        object:
+          id: 620
+          definition: >-
+            sistema de coordenadas bidimensional en el que la posición está
+            especificada por la dirección y la distancia desde el origen
+          language_code: spa
+          notes:
+            - >-
+              Para el caso tridimensional, véase sistema de coordenadas
+              esféricas (4.44).
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19111:2007'
+            link: 'https://www.iso.org/standard/41126.html'
+          date_accepted: 2007-07-01T00:00:00.000Z
+          date_amended: 2019-01-31T00:00:00.000Z
+          review_date: 2019-01-31T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2019-01-31T00:00:00.000Z
+          review_decision_event: 'Publication of document ISO 19111:2019(E)'
+          review_decision_notes: >-
+            This entry is superseded by the entry for polar coordinate system in
+            ISO 19111:2019(E)
+          release: '-1'
+          terms:
+            - type: expression
+              designation: sistema de coordenadas polares
+              normative_status: null
+        parents: []
+        timeCreated: 2007-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+swe:
+  id: 620
+  definition: >-
+    tvådimensionellt koordinatsystem där en punkts position anges som avståndet
+    från en fast punkt, polen, och vinkeln mellan en linje dragen från polen
+    till punkten och en given axel
+  country_code: swe
+  language_code: swe
+  notes:
+    - 'For the three-dimensional case, see spherical coordinate system (4.44).'
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19111:2007'
+    link: 'https://www.iso.org/standard/41126.html'
+  date_accepted: 2007-07-01T00:00:00.000Z
+  date_amended: 2019-01-31T00:00:00.000Z
+  review_date: 2019-01-31T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2019-01-31T00:00:00.000Z
+  review_decision_event: 'Publication of document ISO 19111:2019(E)'
+  review_decision_notes: >-
+    This entry is superseded by the entry for polar coordinate system in ISO
+    19111:2019(E)
+  release: '-1'
+  terms:
+    - type: expression
+      designation: polärt kooordinatsystem
+      normative_status: null
+  _revisions:
+    current: 850b05
+    tree:
+      850b05:
+        object:
+          id: 620
+          definition: >-
+            tvådimensionellt koordinatsystem där en punkts position anges som
+            avståndet från en fast punkt, polen, och vinkeln mellan en linje
+            dragen från polen till punkten och en given axel
+          country_code: swe
+          language_code: swe
+          notes:
+            - >-
+              For the three-dimensional case, see spherical coordinate system
+              (4.44).
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19111:2007'
+            link: 'https://www.iso.org/standard/41126.html'
+          date_accepted: 2007-07-01T00:00:00.000Z
+          date_amended: 2019-01-31T00:00:00.000Z
+          review_date: 2019-01-31T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2019-01-31T00:00:00.000Z
+          review_decision_event: 'Publication of document ISO 19111:2019(E)'
+          review_decision_notes: >-
+            This entry is superseded by the entry for polar coordinate system in
+            ISO 19111:2019(E)
+          release: '-1'
+          terms:
+            - type: expression
+              designation: polärt kooordinatsystem
+              normative_status: null
+        parents: []
+        timeCreated: 2007-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

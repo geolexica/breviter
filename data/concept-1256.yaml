@@ -1,0 +1,269 @@
+term: sufficient
+termid: 1256
+eng:
+  id: 1256
+  definition: capable of enforcing the requirements of a system
+  language_code: eng
+  notes:
+    - >-
+      A sufficient DRM system would have to be bypassed if an infringement would
+      be possible. Proof of sufficiency can be difficult because it can be
+      dependent on an "attack model", which describes the sorts of attacks to
+      which the system is immune.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19153:2014'
+    clause: '4.48'
+    link: 'https://www.iso.org/standard/32571.html'
+  date_accepted: 2014-02-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: sufficient
+      normative_status: preferred
+  _revisions:
+    current: 4b6551
+    tree:
+      4b6551:
+        object:
+          id: 1256
+          definition: capable of enforcing the requirements of a system
+          language_code: eng
+          notes:
+            - >-
+              A sufficient DRM system would have to be bypassed if an
+              infringement would be possible. Proof of sufficiency can be
+              difficult because it can be dependent on an "attack model", which
+              describes the sorts of attacks to which the system is immune.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19153:2014'
+            clause: '4.48'
+            link: 'https://www.iso.org/standard/32571.html'
+          date_accepted: 2014-02-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: sufficient
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+kor:
+  id: 1256
+  definition: 시스템 요구조건 수행에 충분한 것
+  language_code: kor
+  notes:
+    - >-
+      A sufficient DRM system would have to be bypassed if an infringement would
+      be possible. Proof of sufficiency can be difficult because it can be
+      dependent on an "attack model", which describes the sorts of attacks to
+      which the system is immune.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19153:2014'
+    clause: '4.48'
+    link: 'https://www.iso.org/standard/32571.html'
+  date_accepted: 2014-02-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: 충분한 것
+      normative_status: preferred
+  _revisions:
+    current: 041b8d
+    tree:
+      041b8d:
+        object:
+          id: 1256
+          definition: 시스템 요구조건 수행에 충분한 것
+          language_code: kor
+          notes:
+            - >-
+              A sufficient DRM system would have to be bypassed if an
+              infringement would be possible. Proof of sufficiency can be
+              difficult because it can be dependent on an "attack model", which
+              describes the sorts of attacks to which the system is immune.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19153:2014'
+            clause: '4.48'
+            link: 'https://www.iso.org/standard/32571.html'
+          date_accepted: 2014-02-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: 충분한 것
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+msa:
+  id: 1256
+  definition: mampu menguatkuasakan keperluan sistem
+  language_code: msa
+  notes:
+    - >-
+      A sufficient DRM system would have to be bypassed if an infringement would
+      be possible. Proof of sufficiency can be difficult because it can be
+      dependent on an "attack model", which describes the sorts of attacks to
+      which the system is immune.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19153:2014'
+    clause: '4.48'
+    link: 'https://www.iso.org/standard/32571.html'
+  date_accepted: 2014-02-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: mencukupi
+      normative_status: preferred
+  _revisions:
+    current: 78fbf2
+    tree:
+      78fbf2:
+        object:
+          id: 1256
+          definition: mampu menguatkuasakan keperluan sistem
+          language_code: msa
+          notes:
+            - >-
+              A sufficient DRM system would have to be bypassed if an
+              infringement would be possible. Proof of sufficiency can be
+              difficult because it can be dependent on an "attack model", which
+              describes the sorts of attacks to which the system is immune.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19153:2014'
+            clause: '4.48'
+            link: 'https://www.iso.org/standard/32571.html'
+          date_accepted: 2014-02-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: mencukupi
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 1256
+  definition: способный обеспечить соблюдение требований системы
+  language_code: rus
+  notes:
+    - >-
+      достаточную систему DRM придется  обходить, если нарушение будет возможно.
+      Доказательство достаточности может быть трудным, потому что оно может
+      зависеть от "модели атаки", которая описывает виды атак, к которым система
+      невосприимчива.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19153:2014'
+    clause: '4.48'
+    link: 'https://www.iso.org/standard/32571.html'
+  lineage_source: 'перевод ИСО 19153:2014'
+  date_accepted: 2014-02-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: достаточный
+      normative_status: preferred
+  _revisions:
+    current: 2a63ac
+    tree:
+      2a63ac:
+        object:
+          id: 1256
+          definition: способный обеспечить соблюдение требований системы
+          language_code: rus
+          notes:
+            - >-
+              достаточную систему DRM придется  обходить, если нарушение будет
+              возможно. Доказательство достаточности может быть трудным, потому
+              что оно может зависеть от "модели атаки", которая описывает виды
+              атак, к которым система невосприимчива.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19153:2014'
+            clause: '4.48'
+            link: 'https://www.iso.org/standard/32571.html'
+          lineage_source: 'перевод ИСО 19153:2014'
+          date_accepted: 2014-02-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: достаточный
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 1256
+  definition: capaz de satisfacer los requisitos de un sistema
+  language_code: spa
+  notes:
+    - >-
+      Debe puentearse un sistema DRM suficiente para que una vulneración sea
+      posible. Una prueba de suficiencia puede ser dificil porque puede ser
+      dependiente del "modelo de ataque", que describe la clase de ataques a los
+      que el sistema es inmune.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19153:2014'
+    clause: '4.48'
+    link: 'https://www.iso.org/standard/32571.html'
+  date_accepted: 2014-02-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: suficiente
+      normative_status: preferred
+  _revisions:
+    current: a9c1a4
+    tree:
+      a9c1a4:
+        object:
+          id: 1256
+          definition: capaz de satisfacer los requisitos de un sistema
+          language_code: spa
+          notes:
+            - >-
+              Debe puentearse un sistema DRM suficiente para que una vulneración
+              sea posible. Una prueba de suficiencia puede ser dificil porque
+              puede ser dependiente del "modelo de ataque", que describe la
+              clase de ataques a los que el sistema es inmune.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19153:2014'
+            clause: '4.48'
+            link: 'https://www.iso.org/standard/32571.html'
+          date_accepted: 2014-02-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: suficiente
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

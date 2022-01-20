@@ -1,0 +1,206 @@
+term: Sound Navigation And Ranging
+termid: 1569
+eng:
+  id: 1569
+  abbrev: SONAR
+  definition: sensor that uses sound navigation and ranging technology for sensing
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO/TS 19130-2:2014'
+    clause: '4.72'
+    link: 'https://www.iso.org/standard/56113.html'
+  date_accepted: 2014-01-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: Sound Navigation And Ranging
+      normative_status: admitted
+    - designation: SONAR
+      type: expression
+  _revisions:
+    current: 99d394
+    tree:
+      99d394:
+        object:
+          id: 1569
+          abbrev: SONAR
+          definition: sensor that uses sound navigation and ranging technology for sensing
+          language_code: eng
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO/TS 19130-2:2014'
+            clause: '4.72'
+            link: 'https://www.iso.org/standard/56113.html'
+          date_accepted: 2014-01-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: Sound Navigation And Ranging
+              normative_status: admitted
+            - designation: SONAR
+              type: expression
+        parents: []
+        timeCreated: 2014-01-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+kor:
+  id: 1569
+  definition: 탐지에 수중음파탐지기를 사용하는 센서
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO/TS 19130-2:2014'
+    clause: '4.72'
+    link: 'https://www.iso.org/standard/56113.html'
+  date_accepted: 2014-01-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: 소나
+      normative_status: admitted
+    - designation: SONAR
+      type: expression
+  _revisions:
+    current: 38d85f
+    tree:
+      38d85f:
+        object:
+          id: 1569
+          definition: 탐지에 수중음파탐지기를 사용하는 센서
+          language_code: kor
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO/TS 19130-2:2014'
+            clause: '4.72'
+            link: 'https://www.iso.org/standard/56113.html'
+          date_accepted: 2014-01-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: 소나
+              normative_status: admitted
+            - designation: SONAR
+              type: expression
+        parents: []
+        timeCreated: 2014-01-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 1569
+  abbrev: SONAR
+  definition: >-
+    датчик, который использует звуковую навигацию и технологию дальнометрии для
+    зондирования
+  language_code: rus
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO/TS 19130-2:2014'
+    clause: '4.72'
+    link: 'https://www.iso.org/standard/56113.html'
+  lineage_source: 'ISO/TS 19130-2:2014'
+  date_accepted: 2014-01-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: звуковая навигация и дальнометрия
+      normative_status: admitted
+    - designation: SONAR
+      type: expression
+  _revisions:
+    current: 3ae823
+    tree:
+      3ae823:
+        object:
+          id: 1569
+          abbrev: SONAR
+          definition: >-
+            датчик, который использует звуковую навигацию и технологию
+            дальнометрии для зондирования
+          language_code: rus
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO/TS 19130-2:2014'
+            clause: '4.72'
+            link: 'https://www.iso.org/standard/56113.html'
+          lineage_source: 'ISO/TS 19130-2:2014'
+          date_accepted: 2014-01-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: звуковая навигация и дальнометрия
+              normative_status: admitted
+            - designation: SONAR
+              type: expression
+        parents: []
+        timeCreated: 2014-01-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 1569
+  abbrev: SONAR
+  definition: >-
+    sensor que permite determinar la distancia de un objeto submarino a través
+    de la medición de la señal sonora
+  language_code: spa
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO/TS 19130-2:2014'
+    clause: '4.72'
+    link: 'https://www.iso.org/standard/56113.html'
+  date_accepted: 2014-01-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: Sound Navigation And Ranging
+      normative_status: admitted
+    - designation: sonar
+      type: expression
+  _revisions:
+    current: fab49f
+    tree:
+      fab49f:
+        object:
+          id: 1569
+          abbrev: SONAR
+          definition: >-
+            sensor que permite determinar la distancia de un objeto submarino a
+            través de la medición de la señal sonora
+          language_code: spa
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO/TS 19130-2:2014'
+            clause: '4.72'
+            link: 'https://www.iso.org/standard/56113.html'
+          date_accepted: 2014-01-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: Sound Navigation And Ranging
+              normative_status: admitted
+            - designation: sonar
+              type: expression
+        parents: []
+        timeCreated: 2014-01-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

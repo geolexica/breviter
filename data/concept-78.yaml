@@ -1,0 +1,996 @@
+term: connected
+termid: 78
+eng:
+  id: 78
+  definition: >-
+    property of a geometric object implying that any two direct positions on the
+    object can be placed on a curve that remains totally within the object
+  language_code: eng
+  notes:
+    - >-
+      A topological object is connected if and only if all its geometric
+      realizations are connected. This is not included as a definition because
+      it follows from a theorem of topology.
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19107:2003'
+    link: 'https://www.iso.org/standard/26012.html'
+  date_accepted: 2003-05-01T00:00:00.000Z
+  date_amended: 2019-12-02T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: 'Publication of document ISO 19107:2019(E)'
+  review_decision_notes: 'This entry is superseded by the entry for connected in ISO 19107:2019(E)'
+  release: '-1'
+  terms:
+    - type: expression
+      designation: connected
+      normative_status: null
+  _revisions:
+    current: 43a061
+    tree:
+      43a061:
+        object:
+          id: 78
+          definition: >-
+            property of a geometric object implying that any two direct
+            positions on the object can be placed on a curve that remains
+            totally within the object
+          language_code: eng
+          notes:
+            - >-
+              A topological object is connected if and only if all its geometric
+              realizations are connected. This is not included as a definition
+              because it follows from a theorem of topology.
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19107:2003'
+            link: 'https://www.iso.org/standard/26012.html'
+          date_accepted: 2003-05-01T00:00:00.000Z
+          date_amended: 2019-12-02T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: 'Publication of document ISO 19107:2019(E)'
+          review_decision_notes: >-
+            This entry is superseded by the entry for connected in ISO
+            19107:2019(E)
+          release: '-1'
+          terms:
+            - type: expression
+              designation: connected
+              normative_status: null
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+ara:
+  id: 78
+  definition: >-
+    خاصية كيان هندسي تتضمن أن أي موقعين مباشرين على الكيان المذكور يمكن وضعهما
+    على منحنى يظل بكامله داخل الكيان
+  language_code: ara
+  notes:
+    - >-
+      يكون الكيان الطوبولوجي موصولا فقط إذا كانت جميع شروط تحققه الهندسية
+      موصولة. ولم يتم إدراج هذه المعلومة باعتبارها تعريفاً لأنها مترتبة على
+      نظرية طوبولوجية
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19107:2003'
+    link: 'https://www.iso.org/standard/26012.html'
+  date_accepted: 2003-05-01T00:00:00.000Z
+  date_amended: 2019-12-02T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: 'Publication of document ISO 19107:2019(E)'
+  review_decision_notes: 'This entry is superseded by the entry for connected in ISO 19107:2019(E)'
+  release: '-1'
+  terms:
+    - type: expression
+      designation: متصل
+      normative_status: null
+  _revisions:
+    current: f59562
+    tree:
+      f59562:
+        object:
+          id: 78
+          definition: >-
+            خاصية كيان هندسي تتضمن أن أي موقعين مباشرين على الكيان المذكور يمكن
+            وضعهما على منحنى يظل بكامله داخل الكيان
+          language_code: ara
+          notes:
+            - >-
+              يكون الكيان الطوبولوجي موصولا فقط إذا كانت جميع شروط تحققه
+              الهندسية موصولة. ولم يتم إدراج هذه المعلومة باعتبارها تعريفاً
+              لأنها مترتبة على نظرية طوبولوجية
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19107:2003'
+            link: 'https://www.iso.org/standard/26012.html'
+          date_accepted: 2003-05-01T00:00:00.000Z
+          date_amended: 2019-12-02T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: 'Publication of document ISO 19107:2019(E)'
+          review_decision_notes: >-
+            This entry is superseded by the entry for connected in ISO
+            19107:2019(E)
+          release: '-1'
+          terms:
+            - type: expression
+              designation: متصل
+              normative_status: null
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+zho:
+  id: 78
+  definition: 几何对象的一种特性，指这个几何对象内的任何两个直接位置可以都位于完全在这个对象内的一条曲线上。
+  language_code: zho
+  notes:
+    - 当且仅当一个拓扑对象的所有几何实现是连通的，这个拓扑对象才是连通的。由于它源自拓扑法则，所以未写在定义内。
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19107:2003'
+    link: 'https://www.iso.org/standard/26012.html'
+  date_accepted: 2003-05-01T00:00:00.000Z
+  date_amended: 2019-12-02T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: 'Publication of document ISO 19107:2019(E)'
+  review_decision_notes: 'This entry is superseded by the entry for connected in ISO 19107:2019(E)'
+  release: '-1'
+  terms:
+    - type: expression
+      designation: 连通
+      normative_status: null
+  _revisions:
+    current: db3b2e
+    tree:
+      db3b2e:
+        object:
+          id: 78
+          definition: 几何对象的一种特性，指这个几何对象内的任何两个直接位置可以都位于完全在这个对象内的一条曲线上。
+          language_code: zho
+          notes:
+            - 当且仅当一个拓扑对象的所有几何实现是连通的，这个拓扑对象才是连通的。由于它源自拓扑法则，所以未写在定义内。
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19107:2003'
+            link: 'https://www.iso.org/standard/26012.html'
+          date_accepted: 2003-05-01T00:00:00.000Z
+          date_amended: 2019-12-02T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: 'Publication of document ISO 19107:2019(E)'
+          review_decision_notes: >-
+            This entry is superseded by the entry for connected in ISO
+            19107:2019(E)
+          release: '-1'
+          terms:
+            - type: expression
+              designation: 连通
+              normative_status: null
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+dan:
+  id: 78
+  definition: >-
+    egenskab ved et geometrisk objekt, som angiver, at enhver af to direkte
+    positioner på objektet kan placeres på en kurve, der forbliver helt inde i
+    objektet
+  language_code: dan
+  notes:
+    - >-
+      Et topologisk objekt er forbundet hvis og kun hvis alle dets geometriske
+      realiseringer er forbundet. Dette er ikke medtaget som en definition, da
+      det følger af en topologisk læresætning.
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19107:2003'
+    link: 'https://www.iso.org/standard/26012.html'
+  date_accepted: 2003-05-01T00:00:00.000Z
+  date_amended: 2019-12-02T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: 'Publication of document ISO 19107:2019(E)'
+  review_decision_notes: 'This entry is superseded by the entry for connected in ISO 19107:2019(E)'
+  release: '-1'
+  terms:
+    - type: expression
+      designation: forbundet
+      normative_status: null
+  _revisions:
+    current: ac4eb5
+    tree:
+      ac4eb5:
+        object:
+          id: 78
+          definition: >-
+            egenskab ved et geometrisk objekt, som angiver, at enhver af to
+            direkte positioner på objektet kan placeres på en kurve, der
+            forbliver helt inde i objektet
+          language_code: dan
+          notes:
+            - >-
+              Et topologisk objekt er forbundet hvis og kun hvis alle dets
+              geometriske realiseringer er forbundet. Dette er ikke medtaget som
+              en definition, da det følger af en topologisk læresætning.
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19107:2003'
+            link: 'https://www.iso.org/standard/26012.html'
+          date_accepted: 2003-05-01T00:00:00.000Z
+          date_amended: 2019-12-02T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: 'Publication of document ISO 19107:2019(E)'
+          review_decision_notes: >-
+            This entry is superseded by the entry for connected in ISO
+            19107:2019(E)
+          release: '-1'
+          terms:
+            - type: expression
+              designation: forbundet
+              normative_status: null
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+fin:
+  id: 78
+  definition: >-
+    geometrisen objektin ominaisuus, joka edellyttää, että mitkä hyvänsä kaksi
+    objektin pistettä voidaan sijoittaa käyrälle, joka on kokonaan objektin
+    sisällä
+  language_code: fin
+  notes:
+    - >-
+      Topologinen objekti on yhtenäinen, jos ja vain jos kaikki sen geometriset
+      ilmentymät ovat yhtenäisiä. Tätä ehtoa ei ole tässä yhteydessä otettu
+      käsitteen määritelmäksi, sillä se on seuraus eräästä topologian
+      teoreemasta.
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19107:2003'
+    link: 'https://www.iso.org/standard/26012.html'
+  date_accepted: 2003-05-01T00:00:00.000Z
+  date_amended: 2019-12-02T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: 'Publication of document ISO 19107:2019(E)'
+  review_decision_notes: 'This entry is superseded by the entry for connected in ISO 19107:2019(E)'
+  release: '-1'
+  terms:
+    - type: expression
+      designation: yhtenäinen
+      normative_status: null
+  _revisions:
+    current: '2e2257'
+    tree:
+      '2e2257':
+        object:
+          id: 78
+          definition: >-
+            geometrisen objektin ominaisuus, joka edellyttää, että mitkä hyvänsä
+            kaksi objektin pistettä voidaan sijoittaa käyrälle, joka on kokonaan
+            objektin sisällä
+          language_code: fin
+          notes:
+            - >-
+              Topologinen objekti on yhtenäinen, jos ja vain jos kaikki sen
+              geometriset ilmentymät ovat yhtenäisiä. Tätä ehtoa ei ole tässä
+              yhteydessä otettu käsitteen määritelmäksi, sillä se on seuraus
+              eräästä topologian teoreemasta.
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19107:2003'
+            link: 'https://www.iso.org/standard/26012.html'
+          date_accepted: 2003-05-01T00:00:00.000Z
+          date_amended: 2019-12-02T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: 'Publication of document ISO 19107:2019(E)'
+          review_decision_notes: >-
+            This entry is superseded by the entry for connected in ISO
+            19107:2019(E)
+          release: '-1'
+          terms:
+            - type: expression
+              designation: yhtenäinen
+              normative_status: null
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+fra:
+  id: 78
+  definition: >-
+    propriété d'un objet géométrique impliquant que tout couple de positions
+    directes de l'objet peut être placé sur une courbe restant totalement dans
+    l'objet
+  language_code: fra
+  notes: []
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19107:2003'
+    link: 'https://www.iso.org/standard/26012.html'
+  date_accepted: 2003-05-01T00:00:00.000Z
+  date_amended: 2019-12-02T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: 'Publication of document ISO 19107:2019(E)'
+  review_decision_notes: 'This entry is superseded by the entry for connected in ISO 19107:2019(E)'
+  release: '-1'
+  terms:
+    - type: expression
+      designation: connexe
+      normative_status: null
+  _revisions:
+    current: 07e891
+    tree:
+      07e891:
+        object:
+          id: 78
+          definition: >-
+            propriété d'un objet géométrique impliquant que tout couple de
+            positions directes de l'objet peut être placé sur une courbe restant
+            totalement dans l'objet
+          language_code: fra
+          notes: []
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19107:2003'
+            link: 'https://www.iso.org/standard/26012.html'
+          date_accepted: 2003-05-01T00:00:00.000Z
+          date_amended: 2019-12-02T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: 'Publication of document ISO 19107:2019(E)'
+          review_decision_notes: >-
+            This entry is superseded by the entry for connected in ISO
+            19107:2019(E)
+          release: '-1'
+          terms:
+            - type: expression
+              designation: connexe
+              normative_status: null
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+deu:
+  id: 78
+  language_code: deu
+  notes:
+    - >-
+      A topological object is connected if and only if all its geometric
+      realizations are connected. This is not included as a definition because
+      it follows from a theorem of topology.
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19107:2003'
+    link: 'https://www.iso.org/standard/26012.html'
+  date_accepted: 2003-05-01T00:00:00.000Z
+  date_amended: 2019-12-02T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: 'Publication of document ISO 19107:2019(E)'
+  review_decision_notes: 'This entry is superseded by the entry for connected in ISO 19107:2019(E)'
+  release: '-1'
+  terms:
+    - type: expression
+      designation: verbunden
+      normative_status: null
+  _revisions:
+    current: 3df68d
+    tree:
+      3df68d:
+        object:
+          id: 78
+          language_code: deu
+          notes:
+            - >-
+              A topological object is connected if and only if all its geometric
+              realizations are connected. This is not included as a definition
+              because it follows from a theorem of topology.
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19107:2003'
+            link: 'https://www.iso.org/standard/26012.html'
+          date_accepted: 2003-05-01T00:00:00.000Z
+          date_amended: 2019-12-02T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: 'Publication of document ISO 19107:2019(E)'
+          review_decision_notes: >-
+            This entry is superseded by the entry for connected in ISO
+            19107:2019(E)
+          release: '-1'
+          terms:
+            - type: expression
+              designation: verbunden
+              normative_status: null
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+jpn:
+  id: 78
+  definition: オブジェクトの任意の二つの直接位置がそのオブジェクト内に完全に含まれる曲線上に配置できることを意味する幾何オブジェクトの性質。
+  language_code: jpn
+  notes:
+    - 位相オブジェクトは，幾何実現が連結である場合にだけ，連結である。これは，位相幾何学の定理から導かれるので，定義には含まない。
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19107:2003'
+    link: 'https://www.iso.org/standard/26012.html'
+  date_accepted: 2003-05-01T00:00:00.000Z
+  date_amended: 2019-12-02T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: 'Publication of document ISO 19107:2019(E)'
+  review_decision_notes: 'This entry is superseded by the entry for connected in ISO 19107:2019(E)'
+  release: '-1'
+  terms:
+    - type: expression
+      designation: 連結
+      normative_status: null
+  _revisions:
+    current: '779749'
+    tree:
+      '779749':
+        object:
+          id: 78
+          definition: オブジェクトの任意の二つの直接位置がそのオブジェクト内に完全に含まれる曲線上に配置できることを意味する幾何オブジェクトの性質。
+          language_code: jpn
+          notes:
+            - 位相オブジェクトは，幾何実現が連結である場合にだけ，連結である。これは，位相幾何学の定理から導かれるので，定義には含まない。
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19107:2003'
+            link: 'https://www.iso.org/standard/26012.html'
+          date_accepted: 2003-05-01T00:00:00.000Z
+          date_amended: 2019-12-02T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: 'Publication of document ISO 19107:2019(E)'
+          review_decision_notes: >-
+            This entry is superseded by the entry for connected in ISO
+            19107:2019(E)
+          release: '-1'
+          terms:
+            - type: expression
+              designation: 連結
+              normative_status: null
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+kor:
+  id: 78
+  definition: 객체에서 임의의 두 개의 직접 위치가 그 객체 내부에 완전하게 포함되는 곡선상에 위치할 수 있는 것을 의미하는 기하 객체의 특성
+  language_code: kor
+  notes:
+    - >-
+      위상 객체는 기하 실현이 실제로 연결되어 있어야만 '연결되었다'라고 할 수 있다. 이는 위상학적 규칙을 따라야 하는 것으로 정의에
+      포함되지는 않는다.
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19107:2003'
+    link: 'https://www.iso.org/standard/26012.html'
+  date_accepted: 2003-05-01T00:00:00.000Z
+  date_amended: 2019-12-02T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: 'Publication of document ISO 19107:2019(E)'
+  review_decision_notes: 'This entry is superseded by the entry for connected in ISO 19107:2019(E)'
+  release: '-1'
+  terms:
+    - type: expression
+      designation: 연결
+      normative_status: null
+  _revisions:
+    current: '655879'
+    tree:
+      '655879':
+        object:
+          id: 78
+          definition: >-
+            객체에서 임의의 두 개의 직접 위치가 그 객체 내부에 완전하게 포함되는 곡선상에 위치할 수 있는 것을 의미하는 기하 객체의
+            특성
+          language_code: kor
+          notes:
+            - >-
+              위상 객체는 기하 실현이 실제로 연결되어 있어야만 '연결되었다'라고 할 수 있다. 이는 위상학적 규칙을 따라야 하는
+              것으로 정의에 포함되지는 않는다.
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19107:2003'
+            link: 'https://www.iso.org/standard/26012.html'
+          date_accepted: 2003-05-01T00:00:00.000Z
+          date_amended: 2019-12-02T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: 'Publication of document ISO 19107:2019(E)'
+          review_decision_notes: >-
+            This entry is superseded by the entry for connected in ISO
+            19107:2019(E)
+          release: '-1'
+          terms:
+            - type: expression
+              designation: 연결
+              normative_status: null
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+msa:
+  id: 78
+  language_code: msa
+  notes:
+    - >-
+      A topological object is connected if and only if all its geometric
+      realizations are connected. This is not included as a definition because
+      it follows from a theorem of topology.
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19107:2003'
+    link: 'https://www.iso.org/standard/26012.html'
+  date_accepted: 2003-05-01T00:00:00.000Z
+  date_amended: 2019-12-02T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: 'Publication of document ISO 19107:2019(E)'
+  review_decision_notes: 'This entry is superseded by the entry for connected in ISO 19107:2019(E)'
+  release: '-1'
+  terms:
+    - type: expression
+      designation: hubungan
+      normative_status: null
+  _revisions:
+    current: 175ab7
+    tree:
+      175ab7:
+        object:
+          id: 78
+          language_code: msa
+          notes:
+            - >-
+              A topological object is connected if and only if all its geometric
+              realizations are connected. This is not included as a definition
+              because it follows from a theorem of topology.
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19107:2003'
+            link: 'https://www.iso.org/standard/26012.html'
+          date_accepted: 2003-05-01T00:00:00.000Z
+          date_amended: 2019-12-02T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: 'Publication of document ISO 19107:2019(E)'
+          review_decision_notes: >-
+            This entry is superseded by the entry for connected in ISO
+            19107:2019(E)
+          release: '-1'
+          terms:
+            - type: expression
+              designation: hubungan
+              normative_status: null
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+pol:
+  id: 78
+  definition: >-
+    właściwość obiektu geometrycznego oznaczająca, że dowolne dwa położenia
+    bezpośrednie na tym obiekcie mogą być umieszczone na krzywej, która
+    całkowicie pozostaje wewnątrz tego obiektu
+  language_code: pol
+  notes:
+    - >-
+      Obiekt topologiczny jest spójny wtedy i tylko wtedy, gdy wszystkie jego
+      realizacje geometryczne są spójne. Zasada ta nie jest zawarta w definicji,
+      ponieważ wynika z teorii topologii.
+  examples: []
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19107:2003'
+    link: 'https://www.iso.org/standard/26012.html'
+  date_accepted: 2003-05-01T00:00:00.000Z
+  date_amended: 2019-12-02T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: 'Publication of document ISO 19107:2019(E)'
+  review_decision_notes: 'This entry is superseded by the entry for connected in ISO 19107:2019(E)'
+  release: '-1'
+  terms:
+    - type: expression
+      designation: spójny
+      normative_status: null
+  _revisions:
+    current: dc5ed7
+    tree:
+      dc5ed7:
+        object:
+          id: 78
+          definition: >-
+            właściwość obiektu geometrycznego oznaczająca, że dowolne dwa
+            położenia bezpośrednie na tym obiekcie mogą być umieszczone na
+            krzywej, która całkowicie pozostaje wewnątrz tego obiektu
+          language_code: pol
+          notes:
+            - >-
+              Obiekt topologiczny jest spójny wtedy i tylko wtedy, gdy wszystkie
+              jego realizacje geometryczne są spójne. Zasada ta nie jest zawarta
+              w definicji, ponieważ wynika z teorii topologii.
+          examples: []
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19107:2003'
+            link: 'https://www.iso.org/standard/26012.html'
+          date_accepted: 2003-05-01T00:00:00.000Z
+          date_amended: 2019-12-02T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: 'Publication of document ISO 19107:2019(E)'
+          review_decision_notes: >-
+            This entry is superseded by the entry for connected in ISO
+            19107:2019(E)
+          release: '-1'
+          terms:
+            - type: expression
+              designation: spójny
+              normative_status: null
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 78
+  definition: >-
+    свойство геометрического объекта, предполагающее, что любые две точки в
+    пределах объекта могут быть помещены на кривую, полностью лежащую внутри
+    этого объекта
+  language_code: rus
+  notes:
+    - >-
+      Топологический объект является связным тогда и только тогда, когда все его
+      геометрические реализации являются связными. Это положение не следует
+      считать определением, поскольку следует из теоремы топологии
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19107:2003'
+    link: 'https://www.iso.org/standard/26012.html'
+  date_accepted: 2003-05-01T00:00:00.000Z
+  date_amended: 2019-12-02T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: 'Publication of document ISO 19107:2019(E)'
+  review_decision_notes: 'This entry is superseded by the entry for connected in ISO 19107:2019(E)'
+  release: '-1'
+  terms:
+    - type: expression
+      designation: связный
+      normative_status: null
+  _revisions:
+    current: 09b2de
+    tree:
+      09b2de:
+        object:
+          id: 78
+          definition: >-
+            свойство геометрического объекта, предполагающее, что любые две
+            точки в пределах объекта могут быть помещены на кривую, полностью
+            лежащую внутри этого объекта
+          language_code: rus
+          notes:
+            - >-
+              Топологический объект является связным тогда и только тогда, когда
+              все его геометрические реализации являются связными. Это положение
+              не следует считать определением, поскольку следует из теоремы
+              топологии
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19107:2003'
+            link: 'https://www.iso.org/standard/26012.html'
+          date_accepted: 2003-05-01T00:00:00.000Z
+          date_amended: 2019-12-02T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: 'Publication of document ISO 19107:2019(E)'
+          review_decision_notes: >-
+            This entry is superseded by the entry for connected in ISO
+            19107:2019(E)
+          release: '-1'
+          terms:
+            - type: expression
+              designation: связный
+              normative_status: null
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 78
+  definition: >-
+    propiedad de un objeto geométrico que implica que cualesquiera dos
+    posiciones directas en el objeto pueden ser puestas sobre una curva que
+    permance totalmente dentro de ese objeto
+  language_code: spa
+  notes:
+    - >-
+      Un objeto topológico está conectado sí y sólo si todas sus realizaciones
+      geométricas están conectadas. Esto no se incluye como definición porque
+      procede de un teorema de topología.
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19107:2003'
+    link: 'https://www.iso.org/standard/26012.html'
+  date_accepted: 2003-05-01T00:00:00.000Z
+  date_amended: 2019-12-02T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: 'Publication of document ISO 19107:2019(E)'
+  review_decision_notes: 'This entry is superseded by the entry for connected in ISO 19107:2019(E)'
+  release: '-1'
+  terms:
+    - type: expression
+      designation: conectado
+      normative_status: null
+  _revisions:
+    current: aca903
+    tree:
+      aca903:
+        object:
+          id: 78
+          definition: >-
+            propiedad de un objeto geométrico que implica que cualesquiera dos
+            posiciones directas en el objeto pueden ser puestas sobre una curva
+            que permance totalmente dentro de ese objeto
+          language_code: spa
+          notes:
+            - >-
+              Un objeto topológico está conectado sí y sólo si todas sus
+              realizaciones geométricas están conectadas. Esto no se incluye
+              como definición porque procede de un teorema de topología.
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19107:2003'
+            link: 'https://www.iso.org/standard/26012.html'
+          date_accepted: 2003-05-01T00:00:00.000Z
+          date_amended: 2019-12-02T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: 'Publication of document ISO 19107:2019(E)'
+          review_decision_notes: >-
+            This entry is superseded by the entry for connected in ISO
+            19107:2019(E)
+          release: '-1'
+          terms:
+            - type: expression
+              designation: conectado
+              normative_status: null
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+swe:
+  id: 78
+  definition: >-
+    <inom geometri> sådan att en linje genom två  godtyckligt valda punkter hos
+    ett geometriskt objekt befinner sig inom objektet
+  country_code: swe
+  language_code: swe
+  notes:
+    - >-
+      A topological object is connected if and only if all its geometric
+      realizations are connected. This is not included as a definition because
+      it follows from a theorem of topology.
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19107:2003'
+    link: 'https://www.iso.org/standard/26012.html'
+  date_accepted: 2003-05-01T00:00:00.000Z
+  date_amended: 2019-12-02T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: 'Publication of document ISO 19107:2019(E)'
+  review_decision_notes: 'This entry is superseded by the entry for connected in ISO 19107:2019(E)'
+  release: '-1'
+  terms:
+    - type: expression
+      designation: sammanhängande
+      normative_status: null
+  _revisions:
+    current: f75b2b
+    tree:
+      f75b2b:
+        object:
+          id: 78
+          definition: >-
+            <inom geometri> sådan att en linje genom två  godtyckligt valda
+            punkter hos ett geometriskt objekt befinner sig inom objektet
+          country_code: swe
+          language_code: swe
+          notes:
+            - >-
+              A topological object is connected if and only if all its geometric
+              realizations are connected. This is not included as a definition
+              because it follows from a theorem of topology.
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19107:2003'
+            link: 'https://www.iso.org/standard/26012.html'
+          date_accepted: 2003-05-01T00:00:00.000Z
+          date_amended: 2019-12-02T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: 'Publication of document ISO 19107:2019(E)'
+          review_decision_notes: >-
+            This entry is superseded by the entry for connected in ISO
+            19107:2019(E)
+          release: '-1'
+          terms:
+            - type: expression
+              designation: sammanhängande
+              normative_status: null
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

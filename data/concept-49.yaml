@@ -1,0 +1,796 @@
+term: code
+termid: 49
+eng:
+  id: 49
+  definition: representation of a label according to a specified scheme
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19118:2011'
+    clause: '4.3'
+    link: 'https://www.iso.org/standard/44212.html'
+  lineage_source: 'ISO 19118:2005'
+  lineage_source_similarity: '1'
+  date_accepted: 2005-07-15T00:00:00.000Z
+  review_date: 2007-01-23T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2011-10-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19118:2011'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19118:2005 to ISO 19118:2011.
+    Lineage source added as ISO 19118:2005.
+  release: '1'
+  terms:
+    - type: expression
+      designation: code
+      normative_status: preferred
+  _revisions:
+    current: e3eb9e
+    tree:
+      e3eb9e:
+        object:
+          id: 49
+          definition: representation of a label according to a specified scheme
+          language_code: eng
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19118:2011'
+            clause: '4.3'
+            link: 'https://www.iso.org/standard/44212.html'
+          lineage_source: 'ISO 19118:2005'
+          lineage_source_similarity: '1'
+          date_accepted: 2005-07-15T00:00:00.000Z
+          review_date: 2007-01-23T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2011-10-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19118:2011'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19118:2005 to ISO
+            19118:2011. Lineage source added as ISO 19118:2005.
+          release: '1'
+          terms:
+            - type: expression
+              designation: code
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-07-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+ara:
+  id: 49
+  definition: تمثيل لعلامة مميزة وفقاً لمخطط محدد
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19118:2011'
+    clause: '4.3'
+    link: 'https://www.iso.org/standard/44212.html'
+  lineage_source: 'ISO 19118:2005'
+  lineage_source_similarity: '1'
+  date_accepted: 2005-07-15T00:00:00.000Z
+  review_date: 2007-01-23T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2011-10-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19118:2011'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19118:2005 to ISO 19118:2011.
+    Lineage source added as ISO 19118:2005.
+  release: '1'
+  terms:
+    - type: expression
+      designation: رمز
+      normative_status: preferred
+  _revisions:
+    current: 0253cf
+    tree:
+      0253cf:
+        object:
+          id: 49
+          definition: تمثيل لعلامة مميزة وفقاً لمخطط محدد
+          language_code: ara
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19118:2011'
+            clause: '4.3'
+            link: 'https://www.iso.org/standard/44212.html'
+          lineage_source: 'ISO 19118:2005'
+          lineage_source_similarity: '1'
+          date_accepted: 2005-07-15T00:00:00.000Z
+          review_date: 2007-01-23T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2011-10-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19118:2011'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19118:2005 to ISO
+            19118:2011. Lineage source added as ISO 19118:2005.
+          release: '1'
+          terms:
+            - type: expression
+              designation: رمز
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-07-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+zho:
+  id: 49
+  definition: 基于所定义模式的符号表示。
+  language_code: zho
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19118:2011'
+    clause: '4.3'
+    link: 'https://www.iso.org/standard/44212.html'
+  lineage_source: 'ISO 19118:2005'
+  lineage_source_similarity: '1'
+  date_accepted: 2005-07-15T00:00:00.000Z
+  review_date: 2007-01-23T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2011-10-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19118:2011'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19118:2005 to ISO 19118:2011.
+    Lineage source added as ISO 19118:2005.
+  release: '1'
+  terms:
+    - type: expression
+      designation: 代码
+      normative_status: preferred
+  _revisions:
+    current: 246cdf
+    tree:
+      246cdf:
+        object:
+          id: 49
+          definition: 基于所定义模式的符号表示。
+          language_code: zho
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19118:2011'
+            clause: '4.3'
+            link: 'https://www.iso.org/standard/44212.html'
+          lineage_source: 'ISO 19118:2005'
+          lineage_source_similarity: '1'
+          date_accepted: 2005-07-15T00:00:00.000Z
+          review_date: 2007-01-23T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2011-10-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19118:2011'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19118:2005 to ISO
+            19118:2011. Lineage source added as ISO 19118:2005.
+          release: '1'
+          terms:
+            - type: expression
+              designation: 代码
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-07-15T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+dan:
+  id: 49
+  definition: angivelse af et label ud fra en specificeret skema
+  language_code: dan
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19118:2011'
+    clause: '4.3'
+    link: 'https://www.iso.org/standard/44212.html'
+  lineage_source: 'ISO 19118:2005'
+  lineage_source_similarity: '1'
+  date_accepted: 2005-07-15T00:00:00.000Z
+  review_date: 2007-01-23T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2011-10-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19118:2011'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19118:2005 to ISO 19118:2011.
+    Lineage source added as ISO 19118:2005.
+  release: '1'
+  terms:
+    - type: expression
+      designation: kode
+      normative_status: preferred
+  _revisions:
+    current: 28bcfa
+    tree:
+      28bcfa:
+        object:
+          id: 49
+          definition: angivelse af et label ud fra en specificeret skema
+          language_code: dan
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19118:2011'
+            clause: '4.3'
+            link: 'https://www.iso.org/standard/44212.html'
+          lineage_source: 'ISO 19118:2005'
+          lineage_source_similarity: '1'
+          date_accepted: 2005-07-15T00:00:00.000Z
+          review_date: 2007-01-23T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2011-10-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19118:2011'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19118:2005 to ISO
+            19118:2011. Lineage source added as ISO 19118:2005.
+          release: '1'
+          terms:
+            - type: expression
+              designation: kode
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-07-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+fin:
+  id: 49
+  definition: tunnuksen esitys tietyn mallin mukaisesti
+  language_code: fin
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19118:2011'
+    clause: '4.3'
+    link: 'https://www.iso.org/standard/44212.html'
+  lineage_source: 'ISO 19118:2005'
+  lineage_source_similarity: '1'
+  date_accepted: 2005-07-15T00:00:00.000Z
+  review_date: 2007-01-23T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2011-10-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19118:2011'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19118:2005 to ISO 19118:2011.
+    Lineage source added as ISO 19118:2005.
+  release: '1'
+  terms:
+    - type: expression
+      designation: koodi
+      normative_status: preferred
+  _revisions:
+    current: 8b68be
+    tree:
+      8b68be:
+        object:
+          id: 49
+          definition: tunnuksen esitys tietyn mallin mukaisesti
+          language_code: fin
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19118:2011'
+            clause: '4.3'
+            link: 'https://www.iso.org/standard/44212.html'
+          lineage_source: 'ISO 19118:2005'
+          lineage_source_similarity: '1'
+          date_accepted: 2005-07-15T00:00:00.000Z
+          review_date: 2007-01-23T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2011-10-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19118:2011'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19118:2005 to ISO
+            19118:2011. Lineage source added as ISO 19118:2005.
+          release: '1'
+          terms:
+            - type: expression
+              designation: koodi
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-07-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+fra:
+  id: 49
+  definition: représentation d'un libellé selon une méthode spécifiée
+  language_code: fra
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19118:2011'
+    clause: '4.3'
+    link: 'https://www.iso.org/standard/44212.html'
+  lineage_source: 'ISO 19118:2005'
+  lineage_source_similarity: '1'
+  date_accepted: 2005-07-15T00:00:00.000Z
+  review_date: 2007-01-23T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2011-10-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19118:2011'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19118:2005 to ISO 19118:2011.
+    Lineage source added as ISO 19118:2005.
+  release: '1'
+  terms:
+    - type: expression
+      designation: code
+      normative_status: preferred
+  _revisions:
+    current: '7301e2'
+    tree:
+      '7301e2':
+        object:
+          id: 49
+          definition: représentation d'un libellé selon une méthode spécifiée
+          language_code: fra
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19118:2011'
+            clause: '4.3'
+            link: 'https://www.iso.org/standard/44212.html'
+          lineage_source: 'ISO 19118:2005'
+          lineage_source_similarity: '1'
+          date_accepted: 2005-07-15T00:00:00.000Z
+          review_date: 2007-01-23T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2011-10-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19118:2011'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19118:2005 to ISO
+            19118:2011. Lineage source added as ISO 19118:2005.
+          release: '1'
+          terms:
+            - type: expression
+              designation: code
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-07-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+deu:
+  id: 49
+  language_code: deu
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19118:2011'
+    clause: '4.3'
+    link: 'https://www.iso.org/standard/44212.html'
+  lineage_source: 'ISO 19118:2005'
+  lineage_source_similarity: '1'
+  date_accepted: 2005-07-15T00:00:00.000Z
+  review_date: 2007-01-23T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2011-10-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19118:2011'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19118:2005 to ISO 19118:2011.
+    Lineage source added as ISO 19118:2005.
+  release: '1'
+  terms:
+    - type: expression
+      designation: Code
+      normative_status: preferred
+  _revisions:
+    current: c4444e
+    tree:
+      c4444e:
+        object:
+          id: 49
+          language_code: deu
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19118:2011'
+            clause: '4.3'
+            link: 'https://www.iso.org/standard/44212.html'
+          lineage_source: 'ISO 19118:2005'
+          lineage_source_similarity: '1'
+          date_accepted: 2005-07-15T00:00:00.000Z
+          review_date: 2007-01-23T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2011-10-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19118:2011'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19118:2005 to ISO
+            19118:2011. Lineage source added as ISO 19118:2005.
+          release: '1'
+          terms:
+            - type: expression
+              designation: Code
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-07-15T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+kor:
+  id: 49
+  definition: 특정한 형식에 따른 라벨의 표현
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19118:2011'
+    clause: '4.3'
+    link: 'https://www.iso.org/standard/44212.html'
+  lineage_source: 'ISO 19118:2005'
+  lineage_source_similarity: '1'
+  date_accepted: 2008-12-30T00:00:00.000Z
+  review_date: 2007-01-23T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2011-10-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19118:2011'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19118:2005 to ISO 19118:2011.
+    Lineage source added as ISO 19118:2005.
+  release: '1'
+  terms:
+    - type: expression
+      designation: 코드
+      normative_status: preferred
+  _revisions:
+    current: 1223a6
+    tree:
+      1223a6:
+        object:
+          id: 49
+          definition: 특정한 형식에 따른 라벨의 표현
+          language_code: kor
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19118:2011'
+            clause: '4.3'
+            link: 'https://www.iso.org/standard/44212.html'
+          lineage_source: 'ISO 19118:2005'
+          lineage_source_similarity: '1'
+          date_accepted: 2008-12-30T00:00:00.000Z
+          review_date: 2007-01-23T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2011-10-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19118:2011'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19118:2005 to ISO
+            19118:2011. Lineage source added as ISO 19118:2005.
+          release: '1'
+          terms:
+            - type: expression
+              designation: 코드
+              normative_status: preferred
+        parents: []
+        timeCreated: 2008-12-30T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+msa:
+  id: 49
+  definition: >-
+    1. Set peraturan tertentu yang menunjukkan cara bagaimana data boleh
+    diwakili. 2. Peraturan dan resam yang menentukan bagaimana isyarat yang
+    mewakili data boleh dibentuk, dihantar, diterima, dan diproses dalam suatu
+    sistem perhubungan. 3. Bentuk berlambang yang mewakili data atau suruhan
+    atur cara komputer atau mikropemproses yang boleh diterima dan diproses oleh
+    mesin tersebut.
+  language_code: msa
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19118:2011'
+    clause: '4.3'
+    link: 'https://www.iso.org/standard/44212.html'
+  lineage_source: Pusat Rujukan Persuratan Melayu (DBP)
+  date_accepted: 2005-07-15T00:00:00.000Z
+  review_date: 2007-01-23T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2011-10-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19118:2011'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19118:2005 to ISO 19118:2011.
+    Lineage source added as ISO 19118:2005.
+  release: '1'
+  terms:
+    - type: expression
+      designation: kod
+      normative_status: preferred
+  _revisions:
+    current: e09b8a
+    tree:
+      e09b8a:
+        object:
+          id: 49
+          definition: >-
+            1. Set peraturan tertentu yang menunjukkan cara bagaimana data boleh
+            diwakili. 2. Peraturan dan resam yang menentukan bagaimana isyarat
+            yang mewakili data boleh dibentuk, dihantar, diterima, dan diproses
+            dalam suatu sistem perhubungan. 3. Bentuk berlambang yang mewakili
+            data atau suruhan atur cara komputer atau mikropemproses yang boleh
+            diterima dan diproses oleh mesin tersebut.
+          language_code: msa
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19118:2011'
+            clause: '4.3'
+            link: 'https://www.iso.org/standard/44212.html'
+          lineage_source: Pusat Rujukan Persuratan Melayu (DBP)
+          date_accepted: 2005-07-15T00:00:00.000Z
+          review_date: 2007-01-23T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2011-10-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19118:2011'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19118:2005 to ISO
+            19118:2011. Lineage source added as ISO 19118:2005.
+          release: '1'
+          terms:
+            - type: expression
+              designation: kod
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-07-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 49
+  definition: представление строки символов в соответствии со специфицированной схемой
+  language_code: rus
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19118:2011'
+    clause: '4.3'
+    link: 'https://www.iso.org/standard/44212.html'
+  lineage_source: 'ISO 19118:2005'
+  lineage_source_similarity: '1'
+  date_accepted: 2005-07-15T00:00:00.000Z
+  review_date: 2007-01-23T00:00:00.000Z
+  review_status: ''
+  review_decision: ''
+  review_decision_date: 2011-10-15T00:00:00.000Z
+  review_decision_event: 'Публикация ИСО19118:2011'
+  review_decision_notes: >-
+    Авторитетная ссылка изменена с ISO 19118:2005 на ISO 19118: 2011. Источник
+    происхождения добавлен как ISO 19118: 2005.
+  release: '1'
+  terms:
+    - type: expression
+      designation: код
+      normative_status: preferred
+  _revisions:
+    current: '136970'
+    tree:
+      '136970':
+        object:
+          id: 49
+          definition: >-
+            представление строки символов в соответствии со специфицированной
+            схемой
+          language_code: rus
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19118:2011'
+            clause: '4.3'
+            link: 'https://www.iso.org/standard/44212.html'
+          lineage_source: 'ISO 19118:2005'
+          lineage_source_similarity: '1'
+          date_accepted: 2005-07-15T00:00:00.000Z
+          review_date: 2007-01-23T00:00:00.000Z
+          review_status: ''
+          review_decision: ''
+          review_decision_date: 2011-10-15T00:00:00.000Z
+          review_decision_event: 'Публикация ИСО19118:2011'
+          review_decision_notes: >-
+            Авторитетная ссылка изменена с ISO 19118:2005 на ISO 19118: 2011.
+            Источник происхождения добавлен как ISO 19118: 2005.
+          release: '1'
+          terms:
+            - type: expression
+              designation: код
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-07-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 49
+  definition: representación de una etiqueta de acuerdo a un esquema determinado
+  language_code: spa
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19118:2011'
+    clause: '4.3'
+    link: 'https://www.iso.org/standard/44212.html'
+  lineage_source: 'ISO 19118:2005'
+  lineage_source_similarity: '1'
+  date_accepted: 2005-07-15T00:00:00.000Z
+  review_date: 2007-01-23T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2011-10-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19118:2011'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19118:2005 to ISO 19118:2011.
+    Lineage source added as ISO 19118:2005.
+  release: '1'
+  terms:
+    - type: expression
+      designation: código
+      normative_status: preferred
+  _revisions:
+    current: b5d869
+    tree:
+      b5d869:
+        object:
+          id: 49
+          definition: representación de una etiqueta de acuerdo a un esquema determinado
+          language_code: spa
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19118:2011'
+            clause: '4.3'
+            link: 'https://www.iso.org/standard/44212.html'
+          lineage_source: 'ISO 19118:2005'
+          lineage_source_similarity: '1'
+          date_accepted: 2005-07-15T00:00:00.000Z
+          review_date: 2007-01-23T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2011-10-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19118:2011'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19118:2005 to ISO
+            19118:2011. Lineage source added as ISO 19118:2005.
+          release: '1'
+          terms:
+            - type: expression
+              designation: código
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-07-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+swe:
+  id: 49
+  definition: data som skapats enligt bestämda regler och som inte kan tolkas direkt
+  country_code: swe
+  language_code: swe
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19118:2011'
+    clause: '4.3'
+    link: 'https://www.iso.org/standard/44212.html'
+  lineage_source: 'ISO 19118:2005'
+  lineage_source_similarity: '1'
+  date_accepted: 2005-07-15T00:00:00.000Z
+  review_date: 2007-01-23T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2011-10-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19118:2011'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19118:2005 to ISO 19118:2011.
+    Lineage source added as ISO 19118:2005.
+  release: '1'
+  terms:
+    - type: expression
+      designation: kod
+      normative_status: preferred
+  _revisions:
+    current: 164edf
+    tree:
+      164edf:
+        object:
+          id: 49
+          definition: >-
+            data som skapats enligt bestämda regler och som inte kan tolkas
+            direkt
+          country_code: swe
+          language_code: swe
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19118:2011'
+            clause: '4.3'
+            link: 'https://www.iso.org/standard/44212.html'
+          lineage_source: 'ISO 19118:2005'
+          lineage_source_similarity: '1'
+          date_accepted: 2005-07-15T00:00:00.000Z
+          review_date: 2007-01-23T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2011-10-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19118:2011'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19118:2005 to ISO
+            19118:2011. Lineage source added as ISO 19118:2005.
+          release: '1'
+          terms:
+            - type: expression
+              designation: kod
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-07-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

@@ -1,0 +1,524 @@
+term: vehicle classification
+termid: 493
+eng:
+  id: 493
+  definition: >-
+    type of vehicle, based on the nature of its construction or intended
+    purpose.
+  language_code: eng
+  notes:
+    - >-
+      Classifications based on construction include automobile, truck, bus,
+      bicycle, etc. Classifications based on purpose include taxi, emergency
+      vehicle, etc. Vehicle classification can be used to determine the
+      application of navigation constraints.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19133:2005'
+    link: 'https://www.iso.org/standard/32551.html'
+  date_accepted: 2005-10-15T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: vehicle classification
+      normative_status: preferred
+  _revisions:
+    current: c2b2b5
+    tree:
+      c2b2b5:
+        object:
+          id: 493
+          definition: >-
+            type of vehicle, based on the nature of its construction or intended
+            purpose.
+          language_code: eng
+          notes:
+            - >-
+              Classifications based on construction include automobile, truck,
+              bus, bicycle, etc. Classifications based on purpose include taxi,
+              emergency vehicle, etc. Vehicle classification can be used to
+              determine the application of navigation constraints.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19133:2005'
+            link: 'https://www.iso.org/standard/32551.html'
+          date_accepted: 2005-10-15T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: vehicle classification
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-10-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+ara:
+  id: 493
+  definition: نوع المركبة ، وذلك بناء على طبيعة تركيبتها أو الغرض المقصود منها
+  language_code: ara
+  notes:
+    - >-
+      التصنيفات المبنية على التركيب أو البنية تشمل مفردات مثل سيارة ، شاحنة ،
+      حافلة، دراجة هوائية .. وخلافة.
+
+      التطبيقات المبنية على الغرض تشمل مفردات مثل سيارة أجرة ، سيارة إسعاف ..
+      وخلافه. يمكن استخدام تصنيف المركبات الآلية لتحديد تطبيقات قيود الملاحة.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19133:2005'
+    link: 'https://www.iso.org/standard/32551.html'
+  date_accepted: 2005-10-15T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: تصنيف المركبة
+      normative_status: preferred
+  _revisions:
+    current: cff501
+    tree:
+      cff501:
+        object:
+          id: 493
+          definition: نوع المركبة ، وذلك بناء على طبيعة تركيبتها أو الغرض المقصود منها
+          language_code: ara
+          notes:
+            - >-
+              التصنيفات المبنية على التركيب أو البنية تشمل مفردات مثل سيارة ،
+              شاحنة ، حافلة، دراجة هوائية .. وخلافة.
+
+              التطبيقات المبنية على الغرض تشمل مفردات مثل سيارة أجرة ، سيارة
+              إسعاف .. وخلافه. يمكن استخدام تصنيف المركبات الآلية لتحديد تطبيقات
+              قيود الملاحة.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19133:2005'
+            link: 'https://www.iso.org/standard/32551.html'
+          date_accepted: 2005-10-15T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: تصنيف المركبة
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-10-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+zho:
+  id: 493
+  definition: 基于构造性质或设计用途的车辆类型。
+  language_code: zho
+  notes:
+    - 基于构造的分类包括汽车、卡车、公交车、自行车等。基于用途的分类包括出租车和救护车。车辆分类可应用于决定导航限制。
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19133:2005'
+    link: 'https://www.iso.org/standard/32551.html'
+  date_accepted: 2005-10-15T00:00:00.000Z
+  terms:
+    - type: expression
+      designation: 车辆分类
+      normative_status: preferred
+  _revisions:
+    current: d17137
+    tree:
+      d17137:
+        object:
+          id: 493
+          definition: 基于构造性质或设计用途的车辆类型。
+          language_code: zho
+          notes:
+            - 基于构造的分类包括汽车、卡车、公交车、自行车等。基于用途的分类包括出租车和救护车。车辆分类可应用于决定导航限制。
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19133:2005'
+            link: 'https://www.iso.org/standard/32551.html'
+          date_accepted: 2005-10-15T00:00:00.000Z
+          terms:
+            - type: expression
+              designation: 车辆分类
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-10-15T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+fin:
+  id: 493
+  definition: >-
+    ajoneuvotyyppi, jonka määrittely pohjautuu ajoneuvon rakenteeseen tai
+    käyttötarkoitukseen
+  language_code: fin
+  notes:
+    - >-
+      Rakenteeseen pohjautuvia luokituksia ovat henkilöauto, kuorma-auto, bussi,
+      polkupyörä jne. Käyttötarkoituksen pohjalta tehtyjä luokituksia ovat
+      taksi, hätäajoneuvo jne. Ajoneuvoluokitus voi vaikuttaa
+      navigaatiorajoitusten soveltamiseen.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19133:2005'
+    link: 'https://www.iso.org/standard/32551.html'
+  lineage_source: 'Ei lähdettä, käännetty'
+  date_accepted: 2005-10-15T00:00:00.000Z
+  terms:
+    - type: expression
+      designation: ajoneuvoluokitus
+      normative_status: preferred
+  _revisions:
+    current: 4cdf6c
+    tree:
+      4cdf6c:
+        object:
+          id: 493
+          definition: >-
+            ajoneuvotyyppi, jonka määrittely pohjautuu ajoneuvon rakenteeseen
+            tai käyttötarkoitukseen
+          language_code: fin
+          notes:
+            - >-
+              Rakenteeseen pohjautuvia luokituksia ovat henkilöauto,
+              kuorma-auto, bussi, polkupyörä jne. Käyttötarkoituksen pohjalta
+              tehtyjä luokituksia ovat taksi, hätäajoneuvo jne. Ajoneuvoluokitus
+              voi vaikuttaa navigaatiorajoitusten soveltamiseen.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19133:2005'
+            link: 'https://www.iso.org/standard/32551.html'
+          lineage_source: 'Ei lähdettä, käännetty'
+          date_accepted: 2005-10-15T00:00:00.000Z
+          terms:
+            - type: expression
+              designation: ajoneuvoluokitus
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-10-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+fra:
+  id: 493
+  definition: 'type de véhicule, basé sur la nature de sa construction ou son usage nominal'
+  language_code: fra
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: ISO 19133
+    link: 'https://www.iso.org/standard/32551.html'
+  lineage_source: ''
+  date_accepted: 2005-10-15T00:00:00.000Z
+  terms:
+    - type: expression
+      designation: classification de véhicule
+      normative_status: preferred
+  _revisions:
+    current: fc2ff2
+    tree:
+      fc2ff2:
+        object:
+          id: 493
+          definition: >-
+            type de véhicule, basé sur la nature de sa construction ou son usage
+            nominal
+          language_code: fra
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: ISO 19133
+            link: 'https://www.iso.org/standard/32551.html'
+          lineage_source: ''
+          date_accepted: 2005-10-15T00:00:00.000Z
+          terms:
+            - type: expression
+              designation: classification de véhicule
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-10-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+kor:
+  id: 493
+  definition: 의도된 목적 또는 구조 특성을 바탕으로한 차량의 유형
+  language_code: kor
+  notes:
+    - >-
+      구조를 바탕으로 한 분류로는 자동차, 트럭, 버스, 자전거 등이 있다. 목적을 바탕으로 한 분류에는 택시, 응급차량 등이 있다.
+      차종은 내비게이션  제약 조건을 고려한 응용의 결정에 사용될 수 있다.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19133:2005'
+    link: 'https://www.iso.org/standard/32551.html'
+  lineage_source: KS X ISO 19133
+  date_accepted: 2006-12-01T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: 차종
+      normative_status: preferred
+  _revisions:
+    current: 1ce535
+    tree:
+      1ce535:
+        object:
+          id: 493
+          definition: 의도된 목적 또는 구조 특성을 바탕으로한 차량의 유형
+          language_code: kor
+          notes:
+            - >-
+              구조를 바탕으로 한 분류로는 자동차, 트럭, 버스, 자전거 등이 있다. 목적을 바탕으로 한 분류에는 택시, 응급차량
+              등이 있다. 차종은 내비게이션  제약 조건을 고려한 응용의 결정에 사용될 수 있다.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19133:2005'
+            link: 'https://www.iso.org/standard/32551.html'
+          lineage_source: KS X ISO 19133
+          date_accepted: 2006-12-01T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: 차종
+              normative_status: preferred
+        parents: []
+        timeCreated: 2006-12-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+msa:
+  id: 493
+  definition: 'jenis kenderaan, berdasarkan jenis pembinaannya atau tujuan ia dibina'
+  language_code: msa
+  notes:
+    - >-
+      Classifications based on construction include automobile, truck, bus,
+      bicycle, etc. Classifications based on purpose include taxi, emergency
+      vehicle, etc. Vehicle classification can be used to determine the
+      application of navigation constraints.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19133:2005'
+    link: 'https://www.iso.org/standard/32551.html'
+  date_accepted: 2005-10-15T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: pengelasan kenderaan
+      normative_status: preferred
+  _revisions:
+    current: c99a74
+    tree:
+      c99a74:
+        object:
+          id: 493
+          definition: >-
+            jenis kenderaan, berdasarkan jenis pembinaannya atau tujuan ia
+            dibina
+          language_code: msa
+          notes:
+            - >-
+              Classifications based on construction include automobile, truck,
+              bus, bicycle, etc. Classifications based on purpose include taxi,
+              emergency vehicle, etc. Vehicle classification can be used to
+              determine the application of navigation constraints.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19133:2005'
+            link: 'https://www.iso.org/standard/32551.html'
+          date_accepted: 2005-10-15T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: pengelasan kenderaan
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-10-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 493
+  definition: >-
+    тип  транспортного средства, определяемый его конструктивными особенностями
+    и целевым назначением
+  language_code: rus
+  notes:
+    - >-
+      Классификации на основе конструктивных особенностей включают автомобиль, 
+      грузовой автомобиль, автобус, велосипед и т.п. Классификации по признаку
+      назначение включают такси, транспортные средства скорой помощи и т.п.
+      Классификацию транспортных средств можно использовать для определения
+      применения навигационных ограничений
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19133:2005'
+    link: 'https://www.iso.org/standard/32551.html'
+  lineage_source: Internet
+  date_accepted: 2005-10-15T00:00:00.000Z
+  terms:
+    - type: expression
+      designation: класс транспортного средства
+      normative_status: preferred
+  _revisions:
+    current: 0f2beb
+    tree:
+      0f2beb:
+        object:
+          id: 493
+          definition: >-
+            тип  транспортного средства, определяемый его конструктивными
+            особенностями и целевым назначением
+          language_code: rus
+          notes:
+            - >-
+              Классификации на основе конструктивных особенностей включают
+              автомобиль,  грузовой автомобиль, автобус, велосипед и т.п.
+              Классификации по признаку назначение включают такси, транспортные
+              средства скорой помощи и т.п. Классификацию транспортных средств
+              можно использовать для определения применения навигационных
+              ограничений
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19133:2005'
+            link: 'https://www.iso.org/standard/32551.html'
+          lineage_source: Internet
+          date_accepted: 2005-10-15T00:00:00.000Z
+          terms:
+            - type: expression
+              designation: класс транспортного средства
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-10-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 493
+  definition: 'tipo de vehículo, según la naturaleza de su fabricación o utilidad prevista'
+  language_code: spa
+  notes:
+    - >-
+      Las clasificaciones basadas en la fabricación incluyen automóviles,
+      camiones, autobuses, bicicletas, etc. Las clasificaciones basadas en su
+      propósito incluyen taxi, vehículos de emergencia, etc. Se puede usar la
+      clasificación del vehículo para determinar la aplicación de las
+      restric¬ciones de navegación.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19133:2005'
+    link: 'https://www.iso.org/standard/32551.html'
+  date_accepted: 2005-10-15T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: clasificación del vehículo
+      normative_status: preferred
+  _revisions:
+    current: f76127
+    tree:
+      f76127:
+        object:
+          id: 493
+          definition: >-
+            tipo de vehículo, según la naturaleza de su fabricación o utilidad
+            prevista
+          language_code: spa
+          notes:
+            - >-
+              Las clasificaciones basadas en la fabricación incluyen
+              automóviles, camiones, autobuses, bicicletas, etc. Las
+              clasificaciones basadas en su propósito incluyen taxi, vehículos
+              de emergencia, etc. Se puede usar la clasificación del vehículo
+              para determinar la aplicación de las restric¬ciones de navegación.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19133:2005'
+            link: 'https://www.iso.org/standard/32551.html'
+          date_accepted: 2005-10-15T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: clasificación del vehículo
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-10-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+swe:
+  id: 493
+  definition: |-
+    typ av fordon i enlighet med angivna
+    indelningskriterier
+  country_code: swe
+  language_code: swe
+  notes:
+    - >-
+      Classifications based on construction include automobile, truck, bus,
+      bicycle, etc. Classifications based on purpose include taxi, emergency
+      vehicle, etc. Vehicle classification can be used to determine the
+      application of navigation constraints.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19133:2005'
+    link: 'https://www.iso.org/standard/32551.html'
+  lineage_source: (Type reference to national language document)
+  date_accepted: 2005-10-15T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: fordonstyp
+      normative_status: preferred
+  _revisions:
+    current: 076693
+    tree:
+      076693:
+        object:
+          id: 493
+          definition: |-
+            typ av fordon i enlighet med angivna
+            indelningskriterier
+          country_code: swe
+          language_code: swe
+          notes:
+            - >-
+              Classifications based on construction include automobile, truck,
+              bus, bicycle, etc. Classifications based on purpose include taxi,
+              emergency vehicle, etc. Vehicle classification can be used to
+              determine the application of navigation constraints.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19133:2005'
+            link: 'https://www.iso.org/standard/32551.html'
+          lineage_source: (Type reference to national language document)
+          date_accepted: 2005-10-15T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: fordonstyp
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-10-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

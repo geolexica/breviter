@@ -1,0 +1,77 @@
+term: 'geometric realization <geometry, topology>'
+termid: 2384
+eng:
+  id: 2384
+  definition: >-
+    geometric complex where the geometric primitives are in a 1-to-1
+    correspondence to the topological primitives of a topological complex, such
+    that the boundary relations in the two complexes agree
+  language_code: eng
+  notes:
+    - >-
+      In such a realization, the topological primitives are considered to
+      represent the interiors of the corresponding geometric primitives even
+      though the primitives themselves are closed.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19107:2019'
+    clause: '(E), 3.51'
+    link: 'https://www.iso.org/standard/66175.html'
+  date_accepted: 2019-12-02T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: 'Publication of document ISO 19107:2019(E)'
+  review_decision_notes: >-
+    This entry supersedes the entry for geometric realization in ISO
+    19107:2003(E)
+  release: '5'
+  terms:
+    - type: expression
+      designation: 'geometric realization <geometry, topology>'
+      normative_status: preferred
+  _revisions:
+    current: e050bf
+    tree:
+      e050bf:
+        object:
+          id: 2384
+          definition: >-
+            geometric complex where the geometric primitives are in a 1-to-1
+            correspondence to the topological primitives of a topological
+            complex, such that the boundary relations in the two complexes agree
+          language_code: eng
+          notes:
+            - >-
+              In such a realization, the topological primitives are considered
+              to represent the interiors of the corresponding geometric
+              primitives even though the primitives themselves are closed.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19107:2019'
+            clause: '(E), 3.51'
+            link: 'https://www.iso.org/standard/66175.html'
+          date_accepted: 2019-12-02T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: 'Publication of document ISO 19107:2019(E)'
+          review_decision_notes: >-
+            This entry supersedes the entry for geometric realization in ISO
+            19107:2003(E)
+          release: '5'
+          terms:
+            - type: expression
+              designation: 'geometric realization <geometry, topology>'
+              normative_status: preferred
+        parents: []
+        timeCreated: 2019-12-02T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

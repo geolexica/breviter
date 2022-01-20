@@ -1,0 +1,223 @@
+term: quality assessment result
+termid: 1578
+eng:
+  id: 1578
+  definition: output of the quality assessment procedure
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO/TS 19158:2012'
+    clause: '4.6'
+    link: 'https://www.iso.org/standard/32576.html'
+  date_accepted: 2012-10-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: quality assessment result
+      normative_status: preferred
+  _revisions:
+    current: 86c8c8
+    tree:
+      86c8c8:
+        object:
+          id: 1578
+          definition: output of the quality assessment procedure
+          language_code: eng
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO/TS 19158:2012'
+            clause: '4.6'
+            link: 'https://www.iso.org/standard/32576.html'
+          date_accepted: 2012-10-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: quality assessment result
+              normative_status: preferred
+        parents: []
+        timeCreated: 2012-10-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+kor:
+  id: 1578
+  definition: 품질 측정 절차의 결과물
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO/TS 19158:2012'
+    clause: '4.6'
+    link: 'https://www.iso.org/standard/32576.html'
+  date_accepted: 2012-10-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: 품질평가결과
+      normative_status: preferred
+  _revisions:
+    current: 5776f3
+    tree:
+      5776f3:
+        object:
+          id: 1578
+          definition: 품질 측정 절차의 결과물
+          language_code: kor
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO/TS 19158:2012'
+            clause: '4.6'
+            link: 'https://www.iso.org/standard/32576.html'
+          date_accepted: 2012-10-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: 품질평가결과
+              normative_status: preferred
+        parents: []
+        timeCreated: 2012-10-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 1578
+  definition: выводы из процедуры оценки качества
+  language_code: rus
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO/TS 19158:2012'
+    clause: '4.6'
+    link: 'https://www.iso.org/standard/32576.html'
+  lineage_source: 'ISO/TS 19158:2012'
+  date_accepted: 2012-10-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: Результат оценки качества
+      normative_status: preferred
+  _revisions:
+    current: 3778a9
+    tree:
+      3778a9:
+        object:
+          id: 1578
+          definition: выводы из процедуры оценки качества
+          language_code: rus
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO/TS 19158:2012'
+            clause: '4.6'
+            link: 'https://www.iso.org/standard/32576.html'
+          lineage_source: 'ISO/TS 19158:2012'
+          date_accepted: 2012-10-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: Результат оценки качества
+              normative_status: preferred
+        parents: []
+        timeCreated: 2012-10-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 1578
+  definition: resultado de un procedimiento de determinación de la calidad
+  language_code: spa
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO/TS 19158:2012'
+    clause: '4.6'
+    link: 'https://www.iso.org/standard/32576.html'
+  date_accepted: 2012-10-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: resultado de una determinación de la calidad
+      normative_status: preferred
+  _revisions:
+    current: 87e3e7
+    tree:
+      87e3e7:
+        object:
+          id: 1578
+          definition: resultado de un procedimiento de determinación de la calidad
+          language_code: spa
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO/TS 19158:2012'
+            clause: '4.6'
+            link: 'https://www.iso.org/standard/32576.html'
+          date_accepted: 2012-10-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: resultado de una determinación de la calidad
+              normative_status: preferred
+        parents: []
+        timeCreated: 2012-10-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+swe:
+  id: 1578
+  definition: utfall av leveranskvalitetsbedömning
+  country_code: swe
+  language_code: swe
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO/TS 19158:2012'
+    clause: '4.6'
+    link: 'https://www.iso.org/standard/32576.html'
+  lineage_source: (Type reference to national language document)
+  date_accepted: 2012-10-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: utfall av leveranskvalitetsbedömning
+      normative_status: preferred
+  _revisions:
+    current: 62ccf7
+    tree:
+      62ccf7:
+        object:
+          id: 1578
+          definition: utfall av leveranskvalitetsbedömning
+          country_code: swe
+          language_code: swe
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO/TS 19158:2012'
+            clause: '4.6'
+            link: 'https://www.iso.org/standard/32576.html'
+          lineage_source: (Type reference to national language document)
+          date_accepted: 2012-10-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: utfall av leveranskvalitetsbedömning
+              normative_status: preferred
+        parents: []
+        timeCreated: 2012-10-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

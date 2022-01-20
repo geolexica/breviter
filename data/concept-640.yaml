@@ -1,0 +1,522 @@
+term: scene
+termid: 640
+eng:
+  id: 640
+  definition: >-
+    spectral radiances of a view of the natural world as measured from a
+    specified vantage point in space and at a specified time
+  language_code: eng
+  notes:
+    - >-
+      A scene may correspond to a remotely sensed view of the natural world or
+      to a computer-generated virtual scene simulating such a view
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 22028-1:2016'
+    clause: '3.35'
+    link: 'https://www.iso.org/standard/68761.html'
+  lineage_source: 'ISO/TS 19101-2:2008(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2008-06-01T00:00:00.000Z
+  review_date: 2018-05-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2018-05-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19101-2:2018(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 22028-1 (Derived from) to ISO
+    22028-1:2016, 3.35. Lineage source added as ISO/TS 19101-2:2008(E)
+  release: '2'
+  terms:
+    - type: expression
+      designation: scene
+      normative_status: preferred
+  _revisions:
+    current: f606ae
+    tree:
+      f606ae:
+        object:
+          id: 640
+          definition: >-
+            spectral radiances of a view of the natural world as measured from a
+            specified vantage point in space and at a specified time
+          language_code: eng
+          notes:
+            - >-
+              A scene may correspond to a remotely sensed view of the natural
+              world or to a computer-generated virtual scene simulating such a
+              view
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 22028-1:2016'
+            clause: '3.35'
+            link: 'https://www.iso.org/standard/68761.html'
+          lineage_source: 'ISO/TS 19101-2:2008(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2008-06-01T00:00:00.000Z
+          review_date: 2018-05-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2018-05-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19101-2:2018(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 22028-1 (Derived from) to
+            ISO 22028-1:2016, 3.35. Lineage source added as ISO/TS
+            19101-2:2008(E)
+          release: '2'
+          terms:
+            - type: expression
+              designation: scene
+              normative_status: preferred
+        parents: []
+        timeCreated: 2008-06-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+ara:
+  id: 640
+  definition: >-
+    إشعاعات طيفية لمشهد طبيعي كما يقاس من نقطة ذات أفضلية محددة في الفضاء وفي
+    وقت محدد
+  language_code: ara
+  notes:
+    - >-
+      المشهد قد يطابق مشهدا مصورا بالاستشعار عن بعد للعالم الطبيعي أو يكون
+      مطابقا لمشهد يتم إنتاجه بالكمبيوتر لتمثيل ذلك المشهد على طريقة المحاكاة.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 22028-1:2016'
+    clause: '3.35'
+    link: 'https://www.iso.org/standard/68761.html'
+  lineage_source: 'ISO/TS 19101-2:2008(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2008-06-01T00:00:00.000Z
+  review_date: 2018-05-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2018-05-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19101-2:2018(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 22028-1 (Derived from) to ISO
+    22028-1:2016, 3.35. Lineage source added as ISO/TS 19101-2:2008(E)
+  release: '2'
+  terms:
+    - type: expression
+      designation: مشهد
+      normative_status: preferred
+  _revisions:
+    current: 46c550
+    tree:
+      46c550:
+        object:
+          id: 640
+          definition: >-
+            إشعاعات طيفية لمشهد طبيعي كما يقاس من نقطة ذات أفضلية محددة في
+            الفضاء وفي وقت محدد
+          language_code: ara
+          notes:
+            - >-
+              المشهد قد يطابق مشهدا مصورا بالاستشعار عن بعد للعالم الطبيعي أو
+              يكون مطابقا لمشهد يتم إنتاجه بالكمبيوتر لتمثيل ذلك المشهد على
+              طريقة المحاكاة.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 22028-1:2016'
+            clause: '3.35'
+            link: 'https://www.iso.org/standard/68761.html'
+          lineage_source: 'ISO/TS 19101-2:2008(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2008-06-01T00:00:00.000Z
+          review_date: 2018-05-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2018-05-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19101-2:2018(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 22028-1 (Derived from) to
+            ISO 22028-1:2016, 3.35. Lineage source added as ISO/TS
+            19101-2:2008(E)
+          release: '2'
+          terms:
+            - type: expression
+              designation: مشهد
+              normative_status: preferred
+        parents: []
+        timeCreated: 2008-06-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+kor:
+  id: 640
+  definition: 특정 시공간의 특정 시점에서 측정된 자연계 분광 복사량 관측
+  language_code: kor
+  notes:
+    - >-
+      A scene may correspond to a remotely sensed view of the natural world or
+      to a computer-generated virtual scene simulating such a view
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 22028-1:2016'
+    clause: '3.35'
+    link: 'https://www.iso.org/standard/68761.html'
+  lineage_source: 'ISO/TS 19101-2:2008(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2008-06-01T00:00:00.000Z
+  review_date: 2018-05-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2018-05-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19101-2:2018(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 22028-1 (Derived from) to ISO
+    22028-1:2016, 3.35. Lineage source added as ISO/TS 19101-2:2008(E)
+  release: '2'
+  terms:
+    - type: expression
+      designation: 장면
+      normative_status: preferred
+  _revisions:
+    current: 1a3cc9
+    tree:
+      1a3cc9:
+        object:
+          id: 640
+          definition: 특정 시공간의 특정 시점에서 측정된 자연계 분광 복사량 관측
+          language_code: kor
+          notes:
+            - >-
+              A scene may correspond to a remotely sensed view of the natural
+              world or to a computer-generated virtual scene simulating such a
+              view
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 22028-1:2016'
+            clause: '3.35'
+            link: 'https://www.iso.org/standard/68761.html'
+          lineage_source: 'ISO/TS 19101-2:2008(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2008-06-01T00:00:00.000Z
+          review_date: 2018-05-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2018-05-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19101-2:2018(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 22028-1 (Derived from) to
+            ISO 22028-1:2016, 3.35. Lineage source added as ISO/TS
+            19101-2:2008(E)
+          release: '2'
+          terms:
+            - type: expression
+              designation: 장면
+              normative_status: preferred
+        parents: []
+        timeCreated: 2008-06-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+msa:
+  id: 640
+  language_code: msa
+  notes:
+    - >-
+      A scene may correspond to a remotely sensed view of the natural world or
+      to a computer-generated virtual scene simulating such a view
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 22028-1:2016'
+    clause: '3.35'
+    link: 'https://www.iso.org/standard/68761.html'
+  lineage_source: 'ISO/TS 19101-2:2008(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2008-06-01T00:00:00.000Z
+  review_date: 2018-05-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2018-05-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19101-2:2018(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 22028-1 (Derived from) to ISO
+    22028-1:2016, 3.35. Lineage source added as ISO/TS 19101-2:2008(E)
+  release: '2'
+  terms:
+    - type: expression
+      designation: 'adegan, pemandangan'
+      normative_status: preferred
+  _revisions:
+    current: daded7
+    tree:
+      daded7:
+        object:
+          id: 640
+          language_code: msa
+          notes:
+            - >-
+              A scene may correspond to a remotely sensed view of the natural
+              world or to a computer-generated virtual scene simulating such a
+              view
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 22028-1:2016'
+            clause: '3.35'
+            link: 'https://www.iso.org/standard/68761.html'
+          lineage_source: 'ISO/TS 19101-2:2008(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2008-06-01T00:00:00.000Z
+          review_date: 2018-05-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2018-05-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19101-2:2018(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 22028-1 (Derived from) to
+            ISO 22028-1:2016, 3.35. Lineage source added as ISO/TS
+            19101-2:2008(E)
+          release: '2'
+          terms:
+            - type: expression
+              designation: 'adegan, pemandangan'
+              normative_status: preferred
+        parents: []
+        timeCreated: 2008-06-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 640
+  definition: >-
+    спектральные излучения природного мира, измеренные с заданной точки
+    положения в пространстве и в заданное время
+  language_code: rus
+  notes:
+    - >-
+      Сцена может соответствовать дистанционно воспринимаемому виду
+      естественного мира или виртуальной, разработанной с помощью ЭВМ сцене,
+      имитирующей такой вид.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 22028-1:2016'
+    clause: '3.35'
+    link: 'https://www.iso.org/standard/68761.html'
+  lineage_source: 'ISO/TS 19101-2:2008(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2008-06-01T00:00:00.000Z
+  review_date: 2018-05-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2018-05-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19101-2:2018(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 22028-1 (Derived from) to ISO
+    22028-1:2016, 3.35. Lineage source added as ISO/TS 19101-2:2008(E)
+  release: '2'
+  terms:
+    - type: expression
+      designation: сцена
+      normative_status: preferred
+  _revisions:
+    current: 3c6308
+    tree:
+      3c6308:
+        object:
+          id: 640
+          definition: >-
+            спектральные излучения природного мира, измеренные с заданной точки
+            положения в пространстве и в заданное время
+          language_code: rus
+          notes:
+            - >-
+              Сцена может соответствовать дистанционно воспринимаемому виду
+              естественного мира или виртуальной, разработанной с помощью ЭВМ
+              сцене, имитирующей такой вид.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 22028-1:2016'
+            clause: '3.35'
+            link: 'https://www.iso.org/standard/68761.html'
+          lineage_source: 'ISO/TS 19101-2:2008(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2008-06-01T00:00:00.000Z
+          review_date: 2018-05-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2018-05-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19101-2:2018(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 22028-1 (Derived from) to
+            ISO 22028-1:2016, 3.35. Lineage source added as ISO/TS
+            19101-2:2008(E)
+          release: '2'
+          terms:
+            - type: expression
+              designation: сцена
+              normative_status: preferred
+        parents: []
+        timeCreated: 2008-06-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 640
+  definition: >-
+    radiancias espectrales de una vista del mundo natural medidas desde un punto
+    de vista específico en el espacio y en un momento determinado
+  language_code: spa
+  notes:
+    - >-
+      Una escena puede corresponder a una vista del mundo natural detectada
+      remotamente o a una escena virtual generada informáticamente que simula
+      esa vista
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 22028-1:2016'
+    clause: '3.35'
+    link: 'https://www.iso.org/standard/68761.html'
+  lineage_source: 'ISO/TS 19101-2:2008(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2008-06-01T00:00:00.000Z
+  review_date: 2018-05-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2018-05-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19101-2:2018(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 22028-1 (Derived from) to ISO
+    22028-1:2016, 3.35. Lineage source added as ISO/TS 19101-2:2008(E)
+  release: '2'
+  terms:
+    - type: expression
+      designation: escena
+      normative_status: preferred
+  _revisions:
+    current: 60b5ac
+    tree:
+      60b5ac:
+        object:
+          id: 640
+          definition: >-
+            radiancias espectrales de una vista del mundo natural medidas desde
+            un punto de vista específico en el espacio y en un momento
+            determinado
+          language_code: spa
+          notes:
+            - >-
+              Una escena puede corresponder a una vista del mundo natural
+              detectada remotamente o a una escena virtual generada
+              informáticamente que simula esa vista
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 22028-1:2016'
+            clause: '3.35'
+            link: 'https://www.iso.org/standard/68761.html'
+          lineage_source: 'ISO/TS 19101-2:2008(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2008-06-01T00:00:00.000Z
+          review_date: 2018-05-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2018-05-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19101-2:2018(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 22028-1 (Derived from) to
+            ISO 22028-1:2016, 3.35. Lineage source added as ISO/TS
+            19101-2:2008(E)
+          release: '2'
+          terms:
+            - type: expression
+              designation: escena
+              normative_status: preferred
+        parents: []
+        timeCreated: 2008-06-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+swe:
+  id: 640
+  definition: >-
+    spektral radians från ett utsnitt av verkligheten mätt från en
+    observationspunkt vid en viss tidpunkt
+  country_code: swe
+  language_code: swe
+  notes:
+    - >-
+      A scene may correspond to a remotely sensed view of the natural world or
+      to a computer-generated virtual scene simulating such a view
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 22028-1:2016'
+    clause: '3.35'
+    link: 'https://www.iso.org/standard/68761.html'
+  lineage_source: 'ISO/TS 19101-2:2008(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2008-06-01T00:00:00.000Z
+  review_date: 2018-05-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2018-05-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19101-2:2018(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 22028-1 (Derived from) to ISO
+    22028-1:2016, 3.35. Lineage source added as ISO/TS 19101-2:2008(E)
+  release: '2'
+  terms:
+    - type: expression
+      designation: scen
+      normative_status: preferred
+  _revisions:
+    current: 4392ef
+    tree:
+      4392ef:
+        object:
+          id: 640
+          definition: >-
+            spektral radians från ett utsnitt av verkligheten mätt från en
+            observationspunkt vid en viss tidpunkt
+          country_code: swe
+          language_code: swe
+          notes:
+            - >-
+              A scene may correspond to a remotely sensed view of the natural
+              world or to a computer-generated virtual scene simulating such a
+              view
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 22028-1:2016'
+            clause: '3.35'
+            link: 'https://www.iso.org/standard/68761.html'
+          lineage_source: 'ISO/TS 19101-2:2008(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2008-06-01T00:00:00.000Z
+          review_date: 2018-05-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2018-05-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19101-2:2018(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 22028-1 (Derived from) to
+            ISO 22028-1:2016, 3.35. Lineage source added as ISO/TS
+            19101-2:2008(E)
+          release: '2'
+          terms:
+            - type: expression
+              designation: scen
+              normative_status: preferred
+        parents: []
+        timeCreated: 2008-06-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

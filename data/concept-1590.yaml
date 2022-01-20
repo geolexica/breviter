@@ -1,0 +1,120 @@
+term: object property <OWL>
+termid: 1590
+eng:
+  id: 1590
+  definition: semantic association between a pair of individuals
+  language_code: eng
+  notes:
+    - >-
+      Object properties have sometimes been referred to as ‘abstract properties’
+      in Description Logic.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: OWL
+  lineage_source: 'ISO 19150-2:2015, 4.1.28'
+  date_accepted: 2015-07-01T00:00:00.000Z
+  review_date: 2012-05-25T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2015-07-01T00:00:00.000Z
+  review_decision_event: Normal ISO processing
+  review_decision_notes: 'Publication of document ISO 19150-2:2015(E)'
+  release: '4'
+  terms:
+    - type: expression
+      designation: object property <OWL>
+      normative_status: preferred
+  _revisions:
+    current: 03b932
+    tree:
+      03b932:
+        object:
+          id: 1590
+          definition: semantic association between a pair of individuals
+          language_code: eng
+          notes:
+            - >-
+              Object properties have sometimes been referred to as ‘abstract
+              properties’ in Description Logic.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: OWL
+          lineage_source: 'ISO 19150-2:2015, 4.1.28'
+          date_accepted: 2015-07-01T00:00:00.000Z
+          review_date: 2012-05-25T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2015-07-01T00:00:00.000Z
+          review_decision_event: Normal ISO processing
+          review_decision_notes: 'Publication of document ISO 19150-2:2015(E)'
+          release: '4'
+          terms:
+            - type: expression
+              designation: object property <OWL>
+              normative_status: preferred
+        parents: []
+        timeCreated: 2015-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 1590
+  definition: asociación semántica entre un par de individuos
+  language_code: spa
+  notes:
+    - >-
+      A los objetos propiedad a veces se les denomina como 'propiedades
+      abstractas" en Descripción Lógica.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: OWL
+  lineage_source: 'ISO 19150-2:2015, 4.1.28'
+  date_accepted: 2015-07-01T00:00:00.000Z
+  review_date: 2012-05-25T00:00:00.000Z
+  review_status: final
+  review_decision: ''
+  review_decision_date: 2015-07-01T00:00:00.000Z
+  review_decision_event: Normal ISO processing
+  review_decision_notes: 'Publication of document ISO 19150-2:2015(E)'
+  release: '4'
+  terms:
+    - type: expression
+      designation: propiedad de objeto <OWL>
+      normative_status: preferred
+  _revisions:
+    current: 0db07d
+    tree:
+      0db07d:
+        object:
+          id: 1590
+          definition: asociación semántica entre un par de individuos
+          language_code: spa
+          notes:
+            - >-
+              A los objetos propiedad a veces se les denomina como 'propiedades
+              abstractas" en Descripción Lógica.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: OWL
+          lineage_source: 'ISO 19150-2:2015, 4.1.28'
+          date_accepted: 2015-07-01T00:00:00.000Z
+          review_date: 2012-05-25T00:00:00.000Z
+          review_status: final
+          review_decision: ''
+          review_decision_date: 2015-07-01T00:00:00.000Z
+          review_decision_event: Normal ISO processing
+          review_decision_notes: 'Publication of document ISO 19150-2:2015(E)'
+          release: '4'
+          terms:
+            - type: expression
+              designation: propiedad de objeto <OWL>
+              normative_status: preferred
+        parents: []
+        timeCreated: 2015-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

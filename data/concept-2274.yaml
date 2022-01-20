@@ -1,0 +1,83 @@
+term: open archival information system
+termid: 2274
+eng:
+  id: 2274
+  abbrev: OAIS
+  definition: >-
+    archive, consisting of an organization, which may be part of a larger
+    organization, of people and systems, that has accepted the responsibility to
+    preserve information and make it available for a designated community
+  language_code: eng
+  notes:
+    - >-
+      An OAIS Archive meets a set of responsibilities that allows to be
+      distinguished from other uses of the term 'archive'. The term 'open' in
+      OAIS is used to imply that this recommendation and future related
+      recommendations and standards are developed in open forums, and it does
+      not imply that access to the archive is unrestricted.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 14721:2012'
+    clause: >-
+      1.7.2, modified — Supporting content has been relocated to Note 1 to
+      entry.
+    link: 'https://www.iso.org/standard/57284.html'
+  date_accepted: 2018-05-01T00:00:00.000Z
+  review_date: 2018-05-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2018-05-01T00:00:00.000Z
+  review_decision_event: Normal ISO processing
+  review_decision_notes: 'Publication of document ISO 19165-1:2018(E)'
+  release: '5'
+  terms:
+    - type: expression
+      designation: open archival information system
+      normative_status: preferred
+  _revisions:
+    current: fc499d
+    tree:
+      fc499d:
+        object:
+          id: 2274
+          abbrev: OAIS
+          definition: >-
+            archive, consisting of an organization, which may be part of a
+            larger organization, of people and systems, that has accepted the
+            responsibility to preserve information and make it available for a
+            designated community
+          language_code: eng
+          notes:
+            - >-
+              An OAIS Archive meets a set of responsibilities that allows to be
+              distinguished from other uses of the term 'archive'. The term
+              'open' in OAIS is used to imply that this recommendation and
+              future related recommendations and standards are developed in open
+              forums, and it does not imply that access to the archive is
+              unrestricted.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 14721:2012'
+            clause: >-
+              1.7.2, modified — Supporting content has been relocated to Note 1
+              to entry.
+            link: 'https://www.iso.org/standard/57284.html'
+          date_accepted: 2018-05-01T00:00:00.000Z
+          review_date: 2018-05-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2018-05-01T00:00:00.000Z
+          review_decision_event: Normal ISO processing
+          review_decision_notes: 'Publication of document ISO 19165-1:2018(E)'
+          release: '5'
+          terms:
+            - type: expression
+              designation: open archival information system
+              normative_status: preferred
+        parents: []
+        timeCreated: 2018-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

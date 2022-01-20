@@ -1,0 +1,266 @@
+term: lease
+termid: 1230
+eng:
+  id: 1230
+  definition: >-
+    allowing the resource to be made available for a fixed period of time then
+    returned
+  language_code: eng
+  notes:
+    - >-
+      During this period, the resource is only available to the lessee. Temporal
+      constraints are required for downstream use.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19153:2014'
+    clause: '4.24'
+    link: 'https://www.iso.org/standard/32571.html'
+  date_accepted: 2014-02-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: lease
+      normative_status: preferred
+  _revisions:
+    current: d09e79
+    tree:
+      d09e79:
+        object:
+          id: 1230
+          definition: >-
+            allowing the resource to be made available for a fixed period of
+            time then returned
+          language_code: eng
+          notes:
+            - >-
+              During this period, the resource is only available to the lessee.
+              Temporal constraints are required for downstream use.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19153:2014'
+            clause: '4.24'
+            link: 'https://www.iso.org/standard/32571.html'
+          date_accepted: 2014-02-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: lease
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+kor:
+  id: 1230
+  definition: 정해진 기간 동안 자원을 사용할 수 있도록 허가해 주고 추후 회수 받는 행위
+  language_code: kor
+  notes:
+    - >-
+      During this period, the resource is only available to the lessee. Temporal
+      constraints are required for downstream use.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19153:2014'
+    clause: '4.24'
+    link: 'https://www.iso.org/standard/32571.html'
+  date_accepted: 2014-02-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: 임대차 계약
+      normative_status: preferred
+  _revisions:
+    current: e2033f
+    tree:
+      e2033f:
+        object:
+          id: 1230
+          definition: 정해진 기간 동안 자원을 사용할 수 있도록 허가해 주고 추후 회수 받는 행위
+          language_code: kor
+          notes:
+            - >-
+              During this period, the resource is only available to the lessee.
+              Temporal constraints are required for downstream use.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19153:2014'
+            clause: '4.24'
+            link: 'https://www.iso.org/standard/32571.html'
+          date_accepted: 2014-02-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: 임대차 계약
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+msa:
+  id: 1230
+  definition: >-
+    membolehkan sumber itu tersedia untuk tempoh masa yang ditetapkan dan
+    kemudiannya dikembalikan
+  language_code: msa
+  notes:
+    - >-
+      During this period, the resource is only available to the lessee. Temporal
+      constraints are required for downstream use.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19153:2014'
+    clause: '4.24'
+    link: 'https://www.iso.org/standard/32571.html'
+  date_accepted: 2014-02-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: pajakan
+      normative_status: preferred
+  _revisions:
+    current: '124e56'
+    tree:
+      '124e56':
+        object:
+          id: 1230
+          definition: >-
+            membolehkan sumber itu tersedia untuk tempoh masa yang ditetapkan
+            dan kemudiannya dikembalikan
+          language_code: msa
+          notes:
+            - >-
+              During this period, the resource is only available to the lessee.
+              Temporal constraints are required for downstream use.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19153:2014'
+            clause: '4.24'
+            link: 'https://www.iso.org/standard/32571.html'
+          date_accepted: 2014-02-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: pajakan
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 1230
+  definition: >-
+    разрешение ресурсу быть доступным в течение фиксированного периода времени с
+    последующим возвратом
+  language_code: rus
+  notes:
+    - >-
+      В течение этого периода ресурс доступен только арендатору. Для
+      последующего использования требуются временные ограничения.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19153:2014'
+    clause: '4.24'
+    link: 'https://www.iso.org/standard/32571.html'
+  lineage_source: 'перевод ИСО 19153:2014'
+  date_accepted: 2014-02-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: аренда
+      normative_status: preferred
+  _revisions:
+    current: 295c8a
+    tree:
+      295c8a:
+        object:
+          id: 1230
+          definition: >-
+            разрешение ресурсу быть доступным в течение фиксированного периода
+            времени с последующим возвратом
+          language_code: rus
+          notes:
+            - >-
+              В течение этого периода ресурс доступен только арендатору. Для
+              последующего использования требуются временные ограничения.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19153:2014'
+            clause: '4.24'
+            link: 'https://www.iso.org/standard/32571.html'
+          lineage_source: 'перевод ИСО 19153:2014'
+          date_accepted: 2014-02-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: аренда
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 1230
+  definition: >-
+    permitir que un recurso esté disponible durante un periodo fijo de tiempo
+    hasta su vencimiento
+  language_code: spa
+  notes:
+    - >-
+      Durante ese periodo, el recurso está disponible sólo para el arrendatario.
+      Se requieren restricciones temporales para su uso posterior.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19153:2014'
+    clause: '4.24'
+    link: 'https://www.iso.org/standard/32571.html'
+  date_accepted: 2014-02-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: arrendar
+      normative_status: preferred
+  _revisions:
+    current: 22c4ac
+    tree:
+      22c4ac:
+        object:
+          id: 1230
+          definition: >-
+            permitir que un recurso esté disponible durante un periodo fijo de
+            tiempo hasta su vencimiento
+          language_code: spa
+          notes:
+            - >-
+              Durante ese periodo, el recurso está disponible sólo para el
+              arrendatario. Se requieren restricciones temporales para su uso
+              posterior.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19153:2014'
+            clause: '4.24'
+            link: 'https://www.iso.org/standard/32571.html'
+          date_accepted: 2014-02-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: arrendar
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

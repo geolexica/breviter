@@ -1,0 +1,882 @@
+term: geometric set
+termid: 217
+eng:
+  id: 217
+  definition: set of direct positions
+  language_code: eng
+  notes:
+    - This set in most cases is infinite.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19136-1:2020'
+    clause: '(E), 3.1.32'
+    link: 'https://www.iso.org/standard/75676.html'
+  lineage_source: 'ISO 19107:2003, 4.50'
+  lineage_source_similarity: 1
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2018-06-08T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2020-01-09T00:00:00.000Z
+  review_decision_event: 'Supersession of ISO 19107:2003 and publication of ISO 19136-1:2020'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19107:2003 to ISO 19136-1:2020(E),
+    3.1.32. Lineage source added as ISO 19107:2003, 4.50
+  release: '1'
+  terms:
+    - type: expression
+      designation: geometric set
+      normative_status: preferred
+  _revisions:
+    current: aa7e90
+    tree:
+      aa7e90:
+        object:
+          id: 217
+          definition: set of direct positions
+          language_code: eng
+          notes:
+            - This set in most cases is infinite.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19136-1:2020'
+            clause: '(E), 3.1.32'
+            link: 'https://www.iso.org/standard/75676.html'
+          lineage_source: 'ISO 19107:2003, 4.50'
+          lineage_source_similarity: 1
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2018-06-08T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2020-01-09T00:00:00.000Z
+          review_decision_event: 'Supersession of ISO 19107:2003 and publication of ISO 19136-1:2020'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19107:2003 to ISO
+            19136-1:2020(E), 3.1.32. Lineage source added as ISO 19107:2003,
+            4.50
+          release: '1'
+          terms:
+            - type: expression
+              designation: geometric set
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+ara:
+  id: 217
+  definition: مجموعة من المواقع المباشرة
+  language_code: ara
+  notes:
+    - تكون هذه المجموعة لا متناهية في معظم الحالات.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19136-1:2020'
+    clause: '(E), 3.1.32'
+    link: 'https://www.iso.org/standard/75676.html'
+  lineage_source: 'ISO 19107:2003, 4.50'
+  lineage_source_similarity: 1
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2018-06-08T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2020-01-09T00:00:00.000Z
+  review_decision_event: 'Supersession of ISO 19107:2003 and publication of ISO 19136-1:2020'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19107:2003 to ISO 19136-1:2020(E),
+    3.1.32. Lineage source added as ISO 19107:2003, 4.50
+  release: '1'
+  terms:
+    - type: expression
+      designation: مجموعة هندسية
+      normative_status: preferred
+  _revisions:
+    current: 0232d1
+    tree:
+      0232d1:
+        object:
+          id: 217
+          definition: مجموعة من المواقع المباشرة
+          language_code: ara
+          notes:
+            - تكون هذه المجموعة لا متناهية في معظم الحالات.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19136-1:2020'
+            clause: '(E), 3.1.32'
+            link: 'https://www.iso.org/standard/75676.html'
+          lineage_source: 'ISO 19107:2003, 4.50'
+          lineage_source_similarity: 1
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2018-06-08T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2020-01-09T00:00:00.000Z
+          review_decision_event: 'Supersession of ISO 19107:2003 and publication of ISO 19136-1:2020'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19107:2003 to ISO
+            19136-1:2020(E), 3.1.32. Lineage source added as ISO 19107:2003,
+            4.50
+          release: '1'
+          terms:
+            - type: expression
+              designation: مجموعة هندسية
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+zho:
+  id: 217
+  definition: 直接位置的集合。
+  language_code: zho
+  notes:
+    - 这个集合在大多数情况下是无限的。
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19136-1:2020'
+    clause: '(E), 3.1.32'
+    link: 'https://www.iso.org/standard/75676.html'
+  lineage_source: 'ISO 19107:2003, 4.50'
+  lineage_source_similarity: 1
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2018-06-08T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2020-01-09T00:00:00.000Z
+  review_decision_event: 'Supersession of ISO 19107:2003 and publication of ISO 19136-1:2020'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19107:2003 to ISO 19136-1:2020(E),
+    3.1.32. Lineage source added as ISO 19107:2003, 4.50
+  release: '1'
+  terms:
+    - type: expression
+      designation: 几何集
+      normative_status: preferred
+  _revisions:
+    current: a953a6
+    tree:
+      a953a6:
+        object:
+          id: 217
+          definition: 直接位置的集合。
+          language_code: zho
+          notes:
+            - 这个集合在大多数情况下是无限的。
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19136-1:2020'
+            clause: '(E), 3.1.32'
+            link: 'https://www.iso.org/standard/75676.html'
+          lineage_source: 'ISO 19107:2003, 4.50'
+          lineage_source_similarity: 1
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2018-06-08T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2020-01-09T00:00:00.000Z
+          review_decision_event: 'Supersession of ISO 19107:2003 and publication of ISO 19136-1:2020'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19107:2003 to ISO
+            19136-1:2020(E), 3.1.32. Lineage source added as ISO 19107:2003,
+            4.50
+          release: '1'
+          terms:
+            - type: expression
+              designation: 几何集
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+dan:
+  id: 217
+  definition: mængde af direkte positioner
+  language_code: dan
+  notes:
+    - Denne mængde er i de fleste tilfælde uendelig
+  examples: []
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19136-1:2020'
+    clause: '(E), 3.1.32'
+    link: 'https://www.iso.org/standard/75676.html'
+  lineage_source: 'ISO 19107:2003, 4.50'
+  lineage_source_similarity: 1
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2018-06-08T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2020-01-09T00:00:00.000Z
+  review_decision_event: 'Supersession of ISO 19107:2003 and publication of ISO 19136-1:2020'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19107:2003 to ISO 19136-1:2020(E),
+    3.1.32. Lineage source added as ISO 19107:2003, 4.50
+  release: '1'
+  terms:
+    - type: expression
+      designation: geometrisk mængde
+      normative_status: null
+  _revisions:
+    current: 1f512c
+    tree:
+      1f512c:
+        object:
+          id: 217
+          definition: mængde af direkte positioner
+          language_code: dan
+          notes:
+            - Denne mængde er i de fleste tilfælde uendelig
+          examples: []
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19136-1:2020'
+            clause: '(E), 3.1.32'
+            link: 'https://www.iso.org/standard/75676.html'
+          lineage_source: 'ISO 19107:2003, 4.50'
+          lineage_source_similarity: 1
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2018-06-08T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2020-01-09T00:00:00.000Z
+          review_decision_event: 'Supersession of ISO 19107:2003 and publication of ISO 19136-1:2020'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19107:2003 to ISO
+            19136-1:2020(E), 3.1.32. Lineage source added as ISO 19107:2003,
+            4.50
+          release: '1'
+          terms:
+            - type: expression
+              designation: geometrisk mængde
+              normative_status: null
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+fin:
+  id: 217
+  definition: joukko sijaintipisteitä
+  language_code: fin
+  notes:
+    - Tämä joukko on useimmissa tapauksissa ääretön.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19136-1:2020'
+    clause: '(E), 3.1.32'
+    link: 'https://www.iso.org/standard/75676.html'
+  lineage_source: 'ISO 19107:2003, 4.50'
+  lineage_source_similarity: 1
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2018-06-08T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2020-01-09T00:00:00.000Z
+  review_decision_event: 'Supersession of ISO 19107:2003 and publication of ISO 19136-1:2020'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19107:2003 to ISO 19136-1:2020(E),
+    3.1.32. Lineage source added as ISO 19107:2003, 4.50
+  release: '1'
+  terms:
+    - type: expression
+      designation: geometrinen joukko
+      normative_status: preferred
+  _revisions:
+    current: b05c7f
+    tree:
+      b05c7f:
+        object:
+          id: 217
+          definition: joukko sijaintipisteitä
+          language_code: fin
+          notes:
+            - Tämä joukko on useimmissa tapauksissa ääretön.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19136-1:2020'
+            clause: '(E), 3.1.32'
+            link: 'https://www.iso.org/standard/75676.html'
+          lineage_source: 'ISO 19107:2003, 4.50'
+          lineage_source_similarity: 1
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2018-06-08T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2020-01-09T00:00:00.000Z
+          review_decision_event: 'Supersession of ISO 19107:2003 and publication of ISO 19136-1:2020'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19107:2003 to ISO
+            19136-1:2020(E), 3.1.32. Lineage source added as ISO 19107:2003,
+            4.50
+          release: '1'
+          terms:
+            - type: expression
+              designation: geometrinen joukko
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+fra:
+  id: 217
+  definition: ensemble de positions directes
+  language_code: fra
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19136-1:2020'
+    clause: '(E), 3.1.32'
+    link: 'https://www.iso.org/standard/75676.html'
+  lineage_source: 'ISO 19107:2003, 4.50'
+  lineage_source_similarity: 1
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2018-06-08T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2020-01-09T00:00:00.000Z
+  review_decision_event: 'Supersession of ISO 19107:2003 and publication of ISO 19136-1:2020'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19107:2003 to ISO 19136-1:2020(E),
+    3.1.32. Lineage source added as ISO 19107:2003, 4.50
+  release: '1'
+  terms:
+    - type: expression
+      designation: ensemble géométrique
+      normative_status: preferred
+  _revisions:
+    current: 7f9712
+    tree:
+      7f9712:
+        object:
+          id: 217
+          definition: ensemble de positions directes
+          language_code: fra
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19136-1:2020'
+            clause: '(E), 3.1.32'
+            link: 'https://www.iso.org/standard/75676.html'
+          lineage_source: 'ISO 19107:2003, 4.50'
+          lineage_source_similarity: 1
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2018-06-08T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2020-01-09T00:00:00.000Z
+          review_decision_event: 'Supersession of ISO 19107:2003 and publication of ISO 19136-1:2020'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19107:2003 to ISO
+            19136-1:2020(E), 3.1.32. Lineage source added as ISO 19107:2003,
+            4.50
+          release: '1'
+          terms:
+            - type: expression
+              designation: ensemble géométrique
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+deu:
+  id: 217
+  definition: Menge von direkten Positionen
+  language_code: deu
+  notes:
+    - This set in most cases is infinite.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19136-1:2020'
+    clause: '(E), 3.1.32'
+    link: 'https://www.iso.org/standard/75676.html'
+  lineage_source: 'ISO 19107:2003, 4.50'
+  lineage_source_similarity: 1
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2018-06-08T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2020-01-09T00:00:00.000Z
+  review_decision_event: 'Supersession of ISO 19107:2003 and publication of ISO 19136-1:2020'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19107:2003 to ISO 19136-1:2020(E),
+    3.1.32. Lineage source added as ISO 19107:2003, 4.50
+  release: '1'
+  terms:
+    - type: expression
+      designation: geometrische Menge
+      normative_status: preferred
+  _revisions:
+    current: c91d4f
+    tree:
+      c91d4f:
+        object:
+          id: 217
+          definition: Menge von direkten Positionen
+          language_code: deu
+          notes:
+            - This set in most cases is infinite.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19136-1:2020'
+            clause: '(E), 3.1.32'
+            link: 'https://www.iso.org/standard/75676.html'
+          lineage_source: 'ISO 19107:2003, 4.50'
+          lineage_source_similarity: 1
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2018-06-08T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2020-01-09T00:00:00.000Z
+          review_decision_event: 'Supersession of ISO 19107:2003 and publication of ISO 19136-1:2020'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19107:2003 to ISO
+            19136-1:2020(E), 3.1.32. Lineage source added as ISO 19107:2003,
+            4.50
+          release: '1'
+          terms:
+            - type: expression
+              designation: geometrische Menge
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+jpn:
+  id: 217
+  definition: 直接位置の集合。
+  language_code: jpn
+  notes:
+    - この集合は，ほとんどの場合無限集合である。
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19136-1:2020'
+    clause: '(E), 3.1.32'
+    link: 'https://www.iso.org/standard/75676.html'
+  lineage_source: 'ISO 19107:2003, 4.50'
+  lineage_source_similarity: 1
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2018-06-08T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2020-01-09T00:00:00.000Z
+  review_decision_event: 'Supersession of ISO 19107:2003 and publication of ISO 19136-1:2020'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19107:2003 to ISO 19136-1:2020(E),
+    3.1.32. Lineage source added as ISO 19107:2003, 4.50
+  release: '1'
+  terms:
+    - type: expression
+      designation: 幾何集合
+      normative_status: preferred
+  _revisions:
+    current: bbe492
+    tree:
+      bbe492:
+        object:
+          id: 217
+          definition: 直接位置の集合。
+          language_code: jpn
+          notes:
+            - この集合は，ほとんどの場合無限集合である。
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19136-1:2020'
+            clause: '(E), 3.1.32'
+            link: 'https://www.iso.org/standard/75676.html'
+          lineage_source: 'ISO 19107:2003, 4.50'
+          lineage_source_similarity: 1
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2018-06-08T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2020-01-09T00:00:00.000Z
+          review_decision_event: 'Supersession of ISO 19107:2003 and publication of ISO 19136-1:2020'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19107:2003 to ISO
+            19136-1:2020(E), 3.1.32. Lineage source added as ISO 19107:2003,
+            4.50
+          release: '1'
+          terms:
+            - type: expression
+              designation: 幾何集合
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+kor:
+  id: 217
+  definition: 직접 위치의 집합
+  language_code: kor
+  notes:
+    - 대부분의 경우에서 집합은 무한 집합이다.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19136-1:2020'
+    clause: '(E), 3.1.32'
+    link: 'https://www.iso.org/standard/75676.html'
+  lineage_source: 'ISO 19107:2003, 4.50'
+  lineage_source_similarity: 1
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2018-06-08T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2020-01-09T00:00:00.000Z
+  review_decision_event: 'Supersession of ISO 19107:2003 and publication of ISO 19136-1:2020'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19107:2003 to ISO 19136-1:2020(E),
+    3.1.32. Lineage source added as ISO 19107:2003, 4.50
+  release: '1'
+  terms:
+    - type: expression
+      designation: 기하 집합
+      normative_status: preferred
+  _revisions:
+    current: 44f260
+    tree:
+      44f260:
+        object:
+          id: 217
+          definition: 직접 위치의 집합
+          language_code: kor
+          notes:
+            - 대부분의 경우에서 집합은 무한 집합이다.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19136-1:2020'
+            clause: '(E), 3.1.32'
+            link: 'https://www.iso.org/standard/75676.html'
+          lineage_source: 'ISO 19107:2003, 4.50'
+          lineage_source_similarity: 1
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2018-06-08T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2020-01-09T00:00:00.000Z
+          review_decision_event: 'Supersession of ISO 19107:2003 and publication of ISO 19136-1:2020'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19107:2003 to ISO
+            19136-1:2020(E), 3.1.32. Lineage source added as ISO 19107:2003,
+            4.50
+          release: '1'
+          terms:
+            - type: expression
+              designation: 기하 집합
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+pol:
+  id: 217
+  definition: zbiór położeń bezpośrednich
+  language_code: pol
+  notes:
+    - Zbiór ten w większości przypadków jest nieskończony.
+  examples: []
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19136-1:2020'
+    clause: '(E), 3.1.32'
+    link: 'https://www.iso.org/standard/75676.html'
+  lineage_source: 'ISO 19107:2003, 4.50'
+  lineage_source_similarity: 1
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2018-06-08T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2020-01-09T00:00:00.000Z
+  review_decision_event: 'Supersession of ISO 19107:2003 and publication of ISO 19136-1:2020'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19107:2003 to ISO 19136-1:2020(E),
+    3.1.32. Lineage source added as ISO 19107:2003, 4.50
+  release: '1'
+  terms:
+    - type: expression
+      designation: zbiór geometryczny
+      normative_status: preferred
+  _revisions:
+    current: 155e3b
+    tree:
+      155e3b:
+        object:
+          id: 217
+          definition: zbiór położeń bezpośrednich
+          language_code: pol
+          notes:
+            - Zbiór ten w większości przypadków jest nieskończony.
+          examples: []
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19136-1:2020'
+            clause: '(E), 3.1.32'
+            link: 'https://www.iso.org/standard/75676.html'
+          lineage_source: 'ISO 19107:2003, 4.50'
+          lineage_source_similarity: 1
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2018-06-08T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2020-01-09T00:00:00.000Z
+          review_decision_event: 'Supersession of ISO 19107:2003 and publication of ISO 19136-1:2020'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19107:2003 to ISO
+            19136-1:2020(E), 3.1.32. Lineage source added as ISO 19107:2003,
+            4.50
+          release: '1'
+          terms:
+            - type: expression
+              designation: zbiór geometryczny
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 217
+  definition: множество точек
+  language_code: rus
+  notes:
+    - В большинстве случаев это множество является бесконечным
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19136-1:2020'
+    clause: '(E), 3.1.32'
+    link: 'https://www.iso.org/standard/75676.html'
+  lineage_source: 'ISO 19107:2003, 4.50'
+  lineage_source_similarity: 1
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2018-06-08T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2020-01-09T00:00:00.000Z
+  review_decision_event: 'Supersession of ISO 19107:2003 and publication of ISO 19136-1:2020'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19107:2003 to ISO 19136-1:2020(E),
+    3.1.32. Lineage source added as ISO 19107:2003, 4.50
+  release: '1'
+  terms:
+    - type: expression
+      designation: геометрическое множество
+      normative_status: preferred
+  _revisions:
+    current: d6415b
+    tree:
+      d6415b:
+        object:
+          id: 217
+          definition: множество точек
+          language_code: rus
+          notes:
+            - В большинстве случаев это множество является бесконечным
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19136-1:2020'
+            clause: '(E), 3.1.32'
+            link: 'https://www.iso.org/standard/75676.html'
+          lineage_source: 'ISO 19107:2003, 4.50'
+          lineage_source_similarity: 1
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2018-06-08T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2020-01-09T00:00:00.000Z
+          review_decision_event: 'Supersession of ISO 19107:2003 and publication of ISO 19136-1:2020'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19107:2003 to ISO
+            19136-1:2020(E), 3.1.32. Lineage source added as ISO 19107:2003,
+            4.50
+          release: '1'
+          terms:
+            - type: expression
+              designation: геометрическое множество
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 217
+  definition: conjunto de posiciones directas
+  language_code: spa
+  notes:
+    - En la mayoría de los casos este conjunto es infinito.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19136-1:2020'
+    clause: '(E), 3.1.32'
+    link: 'https://www.iso.org/standard/75676.html'
+  lineage_source: 'ISO 19107:2003, 4.50'
+  lineage_source_similarity: 1
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2018-06-08T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2020-01-09T00:00:00.000Z
+  review_decision_event: 'Supersession of ISO 19107:2003 and publication of ISO 19136-1:2020'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19107:2003 to ISO 19136-1:2020(E),
+    3.1.32. Lineage source added as ISO 19107:2003, 4.50
+  release: '1'
+  terms:
+    - type: expression
+      designation: conjunto geométrico
+      normative_status: preferred
+  _revisions:
+    current: fcc4c0
+    tree:
+      fcc4c0:
+        object:
+          id: 217
+          definition: conjunto de posiciones directas
+          language_code: spa
+          notes:
+            - En la mayoría de los casos este conjunto es infinito.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19136-1:2020'
+            clause: '(E), 3.1.32'
+            link: 'https://www.iso.org/standard/75676.html'
+          lineage_source: 'ISO 19107:2003, 4.50'
+          lineage_source_similarity: 1
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2018-06-08T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2020-01-09T00:00:00.000Z
+          review_decision_event: 'Supersession of ISO 19107:2003 and publication of ISO 19136-1:2020'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19107:2003 to ISO
+            19136-1:2020(E), 3.1.32. Lineage source added as ISO 19107:2003,
+            4.50
+          release: '1'
+          terms:
+            - type: expression
+              designation: conjunto geométrico
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+swe:
+  id: 217
+  definition: mängd av positioner
+  country_code: swe
+  language_code: swe
+  notes:
+    - This set in most cases is infinite.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19136-1:2020'
+    clause: '(E), 3.1.32'
+    link: 'https://www.iso.org/standard/75676.html'
+  lineage_source: 'ISO 19107:2003, 4.50'
+  lineage_source_similarity: 1
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2018-06-08T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2020-01-09T00:00:00.000Z
+  review_decision_event: 'Supersession of ISO 19107:2003 and publication of ISO 19136-1:2020'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19107:2003 to ISO 19136-1:2020(E),
+    3.1.32. Lineage source added as ISO 19107:2003, 4.50
+  release: '1'
+  terms:
+    - type: expression
+      designation: positionsmängd
+      normative_status: preferred
+  _revisions:
+    current: c32d8b
+    tree:
+      c32d8b:
+        object:
+          id: 217
+          definition: mängd av positioner
+          country_code: swe
+          language_code: swe
+          notes:
+            - This set in most cases is infinite.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19136-1:2020'
+            clause: '(E), 3.1.32'
+            link: 'https://www.iso.org/standard/75676.html'
+          lineage_source: 'ISO 19107:2003, 4.50'
+          lineage_source_similarity: 1
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2018-06-08T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2020-01-09T00:00:00.000Z
+          review_decision_event: 'Supersession of ISO 19107:2003 and publication of ISO 19136-1:2020'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19107:2003 to ISO
+            19136-1:2020(E), 3.1.32. Lineage source added as ISO 19107:2003,
+            4.50
+          release: '1'
+          terms:
+            - type: expression
+              designation: positionsmängd
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

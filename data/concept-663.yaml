@@ -1,0 +1,474 @@
+term: discrete spatiotemporal object
+termid: 663
+eng:
+  id: 663
+  definition: >-
+    temporal sequence of object representations depicting the same spatial
+    feature at different times
+  language_code: eng
+  notes:
+    - See Theodoridis - 1999
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19132:2007'
+    link: 'https://www.iso.org/standard/40601.html'
+  date_accepted: 2007-10-15T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: discrete spatiotemporal object
+      normative_status: preferred
+  _revisions:
+    current: 47c8c9
+    tree:
+      47c8c9:
+        object:
+          id: 663
+          definition: >-
+            temporal sequence of object representations depicting the same
+            spatial feature at different times
+          language_code: eng
+          notes:
+            - See Theodoridis - 1999
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19132:2007'
+            link: 'https://www.iso.org/standard/40601.html'
+          date_accepted: 2007-10-15T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: discrete spatiotemporal object
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-10-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+ara:
+  id: 663
+  definition: تتابع زمني لحالات تمثيل كائنات تصور نفس المعلم المكاني في أوقات مختلفة
+  language_code: ara
+  notes:
+    - أنظر ثيودوريديس – 1999.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19132:2007'
+    link: 'https://www.iso.org/standard/40601.html'
+  date_accepted: 2007-10-15T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: كائن مكاني - زماني منفصل
+      normative_status: preferred
+  _revisions:
+    current: 18c098
+    tree:
+      18c098:
+        object:
+          id: 663
+          definition: >-
+            تتابع زمني لحالات تمثيل كائنات تصور نفس المعلم المكاني في أوقات
+            مختلفة
+          language_code: ara
+          notes:
+            - أنظر ثيودوريديس – 1999.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19132:2007'
+            link: 'https://www.iso.org/standard/40601.html'
+          date_accepted: 2007-10-15T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: كائن مكاني - زماني منفصل
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-10-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+zho:
+  id: 663
+  definition: 在不同时间点上描述同一空间要素的对象表示的时间序列。
+  language_code: zho
+  notes:
+    - 见Theodoridis - 1999。
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19132:2007'
+    link: 'https://www.iso.org/standard/40601.html'
+  date_accepted: 2007-10-15T00:00:00.000Z
+  terms:
+    - type: expression
+      designation: 离散时空对象
+      normative_status: preferred
+  _revisions:
+    current: b868fe
+    tree:
+      b868fe:
+        object:
+          id: 663
+          definition: 在不同时间点上描述同一空间要素的对象表示的时间序列。
+          language_code: zho
+          notes:
+            - 见Theodoridis - 1999。
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19132:2007'
+            link: 'https://www.iso.org/standard/40601.html'
+          date_accepted: 2007-10-15T00:00:00.000Z
+          terms:
+            - type: expression
+              designation: 离散时空对象
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-10-15T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+fin:
+  id: 663
+  definition: >-
+    sarja objektikuvauksia, jotka esittävät samaa paikkatietokohdetta eri
+    aikoina
+  language_code: fin
+  notes:
+    - katso Theodoridis - 1999
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19132:2007'
+    link: 'https://www.iso.org/standard/40601.html'
+  lineage_source: 'Ei lähdettä, käännetty'
+  date_accepted: 2007-10-15T00:00:00.000Z
+  terms:
+    - type: expression
+      designation: diskreetti spatiotemporaalinen objekti
+      normative_status: preferred
+  _revisions:
+    current: 96edb7
+    tree:
+      96edb7:
+        object:
+          id: 663
+          definition: >-
+            sarja objektikuvauksia, jotka esittävät samaa paikkatietokohdetta
+            eri aikoina
+          language_code: fin
+          notes:
+            - katso Theodoridis - 1999
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19132:2007'
+            link: 'https://www.iso.org/standard/40601.html'
+          lineage_source: 'Ei lähdettä, käännetty'
+          date_accepted: 2007-10-15T00:00:00.000Z
+          terms:
+            - type: expression
+              designation: diskreetti spatiotemporaalinen objekti
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-10-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+fra:
+  id: 663
+  definition: >-
+    séquence temporelle de représentations de la même entité spatiale à
+    différents instants
+  language_code: fra
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: ISO 19132
+    link: 'https://www.iso.org/standard/40601.html'
+  lineage_source: ''
+  date_accepted: 2007-10-15T00:00:00.000Z
+  terms:
+    - type: expression
+      designation: objet spatial multitemporel
+      normative_status: preferred
+  _revisions:
+    current: 7fb1fc
+    tree:
+      7fb1fc:
+        object:
+          id: 663
+          definition: >-
+            séquence temporelle de représentations de la même entité spatiale à
+            différents instants
+          language_code: fra
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: ISO 19132
+            link: 'https://www.iso.org/standard/40601.html'
+          lineage_source: ''
+          date_accepted: 2007-10-15T00:00:00.000Z
+          terms:
+            - type: expression
+              designation: objet spatial multitemporel
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-10-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+deu:
+  id: 663
+  language_code: deu
+  notes:
+    - See Theodoridis - 1999
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19132:2007'
+    link: 'https://www.iso.org/standard/40601.html'
+  date_accepted: 2007-10-15T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: unstetiges räumlich-zeitbezogenes Objekt
+      normative_status: preferred
+  _revisions:
+    current: d0ce03
+    tree:
+      d0ce03:
+        object:
+          id: 663
+          language_code: deu
+          notes:
+            - See Theodoridis - 1999
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19132:2007'
+            link: 'https://www.iso.org/standard/40601.html'
+          date_accepted: 2007-10-15T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: unstetiges räumlich-zeitbezogenes Objekt
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-10-15T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+kor:
+  id: 663
+  definition: 상이한 시간에 동일한 공간피처를 시간에 따라 기술한 시간연속객체
+  language_code: kor
+  notes:
+    - Theodoridis(1999)를 참조하라.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19132:2007'
+    link: 'https://www.iso.org/standard/40601.html'
+  lineage_source: KS X ISO 19132
+  date_accepted: 2009-12-29T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: 불연속 시공간객체
+      normative_status: preferred
+  _revisions:
+    current: 5d0be1
+    tree:
+      5d0be1:
+        object:
+          id: 663
+          definition: 상이한 시간에 동일한 공간피처를 시간에 따라 기술한 시간연속객체
+          language_code: kor
+          notes:
+            - Theodoridis(1999)를 참조하라.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19132:2007'
+            link: 'https://www.iso.org/standard/40601.html'
+          lineage_source: KS X ISO 19132
+          date_accepted: 2009-12-29T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: 불연속 시공간객체
+              normative_status: preferred
+        parents: []
+        timeCreated: 2009-12-29T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 663
+  definition: >-
+    временнáя последовательность представлений объекта, описывающая одни и те же
+    пространственные объекты в разные моменты времени
+  language_code: rus
+  notes:
+    - См. Theodoridis  - 1999
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19132:2007'
+    link: 'https://www.iso.org/standard/40601.html'
+  lineage_source: Internet
+  date_accepted: 2007-10-15T00:00:00.000Z
+  terms:
+    - type: expression
+      designation: дискретный пространственно-временнóй объект
+      normative_status: preferred
+  _revisions:
+    current: '422182'
+    tree:
+      '422182':
+        object:
+          id: 663
+          definition: >-
+            временнáя последовательность представлений объекта, описывающая одни
+            и те же пространственные объекты в разные моменты времени
+          language_code: rus
+          notes:
+            - См. Theodoridis  - 1999
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19132:2007'
+            link: 'https://www.iso.org/standard/40601.html'
+          lineage_source: Internet
+          date_accepted: 2007-10-15T00:00:00.000Z
+          terms:
+            - type: expression
+              designation: дискретный пространственно-временнóй объект
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-10-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 663
+  definition: >-
+    secuencia temporal de representaciones de objetos que describen el mismo
+    objeto geográfico espacial en diferentes momentos
+  language_code: spa
+  notes:
+    - 'Véase Theodoridis, 1999 [31].'
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19132:2007'
+    link: 'https://www.iso.org/standard/40601.html'
+  date_accepted: 2007-10-15T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: objeto espacio-temporal discreto
+      normative_status: preferred
+  _revisions:
+    current: 9358d6
+    tree:
+      9358d6:
+        object:
+          id: 663
+          definition: >-
+            secuencia temporal de representaciones de objetos que describen el
+            mismo objeto geográfico espacial en diferentes momentos
+          language_code: spa
+          notes:
+            - 'Véase Theodoridis, 1999 [31].'
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19132:2007'
+            link: 'https://www.iso.org/standard/40601.html'
+          date_accepted: 2007-10-15T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: objeto espacio-temporal discreto
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-10-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+swe:
+  id: 663
+  definition: |-
+    <av ett objekt> följd av värden som representerar
+    en viss företeelse vid olika tidpunkter
+  country_code: swe
+  language_code: swe
+  notes:
+    - See Theodoridis - 1999
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19132:2007'
+    link: 'https://www.iso.org/standard/40601.html'
+  lineage_source: (Type reference to national language document)
+  date_accepted: 2007-10-15T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: tidssekvens
+      normative_status: preferred
+  _revisions:
+    current: f84809
+    tree:
+      f84809:
+        object:
+          id: 663
+          definition: |-
+            <av ett objekt> följd av värden som representerar
+            en viss företeelse vid olika tidpunkter
+          country_code: swe
+          language_code: swe
+          notes:
+            - See Theodoridis - 1999
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19132:2007'
+            link: 'https://www.iso.org/standard/40601.html'
+          lineage_source: (Type reference to national language document)
+          date_accepted: 2007-10-15T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: tidssekvens
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-10-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

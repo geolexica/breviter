@@ -1,0 +1,124 @@
+term: terminology register
+termid: 1697
+eng:
+  id: 1697
+  definition: register of terminological entries
+  language_code: eng
+  notes:
+    - >-
+      A terminology register may be structured according to language and/or
+      domain.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19104:2016'
+    clause: '4.39'
+    link: 'https://www.iso.org/standard/63541.html'
+  date_accepted: 2016-10-01T00:00:00.000Z
+  review_date: 2013-01-29T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2016-10-01T00:00:00.000Z
+  review_decision_event: Normal ISO processing
+  review_decision_notes: 'Publication of document ISO 19104:2016(E)'
+  release: '4'
+  terms:
+    - type: expression
+      designation: terminology register
+      normative_status: preferred
+  _revisions:
+    current: f7947f
+    tree:
+      f7947f:
+        object:
+          id: 1697
+          definition: register of terminological entries
+          language_code: eng
+          notes:
+            - >-
+              A terminology register may be structured according to language
+              and/or domain.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19104:2016'
+            clause: '4.39'
+            link: 'https://www.iso.org/standard/63541.html'
+          date_accepted: 2016-10-01T00:00:00.000Z
+          review_date: 2013-01-29T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2016-10-01T00:00:00.000Z
+          review_decision_event: Normal ISO processing
+          review_decision_notes: 'Publication of document ISO 19104:2016(E)'
+          release: '4'
+          terms:
+            - type: expression
+              designation: terminology register
+              normative_status: preferred
+        parents: []
+        timeCreated: 2016-10-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 1697
+  definition: registro de entradas terminológicas
+  language_code: spa
+  notes:
+    - >-
+      Un registro terminológico puede estar estructurado conforme a un idioma
+      y/o dominio.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19104:2016'
+    clause: '4.39'
+    link: 'https://www.iso.org/standard/63541.html'
+  date_accepted: 2016-10-01T00:00:00.000Z
+  review_date: 2013-01-29T00:00:00.000Z
+  review_status: final
+  review_decision: ''
+  review_decision_date: 2016-10-01T00:00:00.000Z
+  review_decision_event: Normal ISO processing
+  review_decision_notes: 'Publication of document ISO 19104:2016(E)'
+  release: '4'
+  terms:
+    - type: expression
+      designation: registro terminológico
+      normative_status: preferred
+  _revisions:
+    current: c3877b
+    tree:
+      c3877b:
+        object:
+          id: 1697
+          definition: registro de entradas terminológicas
+          language_code: spa
+          notes:
+            - >-
+              Un registro terminológico puede estar estructurado conforme a un
+              idioma y/o dominio.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19104:2016'
+            clause: '4.39'
+            link: 'https://www.iso.org/standard/63541.html'
+          date_accepted: 2016-10-01T00:00:00.000Z
+          review_date: 2013-01-29T00:00:00.000Z
+          review_status: final
+          review_decision: ''
+          review_decision_date: 2016-10-01T00:00:00.000Z
+          review_decision_event: Normal ISO processing
+          review_decision_notes: 'Publication of document ISO 19104:2016(E)'
+          release: '4'
+          terms:
+            - type: expression
+              designation: registro terminológico
+              normative_status: preferred
+        parents: []
+        timeCreated: 2016-10-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

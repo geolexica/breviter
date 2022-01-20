@@ -1,0 +1,743 @@
+term: tuple
+termid: 477
+eng:
+  id: 477
+  definition: ordered list of values
+  language_code: eng
+  notes:
+    - The number of values in a tuple is immutable
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19136-1:2020'
+    clause: '(E), 3.1.60'
+    link: 'https://www.iso.org/standard/75676.html'
+  lineage_source: 'ISO 19136:2007(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2007-07-01T00:00:00.000Z
+  review_date: 2020-01-09T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2020-01-09T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19136-1:2020(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19136:2007 to ISO 19136-1:2020(E),
+    3.1.60. Lineage source added as ISO 19136:2007(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: tuple
+      normative_status: preferred
+  _revisions:
+    current: 3dd48e
+    tree:
+      3dd48e:
+        object:
+          id: 477
+          definition: ordered list of values
+          language_code: eng
+          notes:
+            - The number of values in a tuple is immutable
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19136-1:2020'
+            clause: '(E), 3.1.60'
+            link: 'https://www.iso.org/standard/75676.html'
+          lineage_source: 'ISO 19136:2007(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2007-07-01T00:00:00.000Z
+          review_date: 2020-01-09T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2020-01-09T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19136-1:2020(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19136:2007 to ISO
+            19136-1:2020(E), 3.1.60. Lineage source added as ISO 19136:2007(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: tuple
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+ara:
+  id: 477
+  definition: قائمة مرتبه من القيم
+  language_code: ara
+  notes:
+    - عدد القيم في المجموعة الترابطية ثابت لا يتغير.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19136-1:2020'
+    clause: '(E), 3.1.60'
+    link: 'https://www.iso.org/standard/75676.html'
+  lineage_source: 'ISO 19136:2007(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2007-07-01T00:00:00.000Z
+  review_date: 2020-01-09T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2020-01-09T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19136-1:2020(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19136:2007 to ISO 19136-1:2020(E),
+    3.1.60. Lineage source added as ISO 19136:2007(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: مجموعة مرتبه
+      normative_status: preferred
+  _revisions:
+    current: a9ba8b
+    tree:
+      a9ba8b:
+        object:
+          id: 477
+          definition: قائمة مرتبه من القيم
+          language_code: ara
+          notes:
+            - عدد القيم في المجموعة الترابطية ثابت لا يتغير.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19136-1:2020'
+            clause: '(E), 3.1.60'
+            link: 'https://www.iso.org/standard/75676.html'
+          lineage_source: 'ISO 19136:2007(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2007-07-01T00:00:00.000Z
+          review_date: 2020-01-09T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2020-01-09T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19136-1:2020(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19136:2007 to ISO
+            19136-1:2020(E), 3.1.60. Lineage source added as ISO 19136:2007(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: مجموعة مرتبه
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+zho:
+  id: 477
+  definition: 值的有序排列。
+  language_code: zho
+  notes:
+    - 元组中的值数目是不变的。
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19136-1:2020'
+    clause: '(E), 3.1.60'
+    link: 'https://www.iso.org/standard/75676.html'
+  lineage_source: 'ISO 19136:2007(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2007-07-01T00:00:00.000Z
+  review_date: 2020-01-09T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2020-01-09T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19136-1:2020(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19136:2007 to ISO 19136-1:2020(E),
+    3.1.60. Lineage source added as ISO 19136:2007(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: 元组
+      normative_status: preferred
+  _revisions:
+    current: 93784d
+    tree:
+      93784d:
+        object:
+          id: 477
+          definition: 值的有序排列。
+          language_code: zho
+          notes:
+            - 元组中的值数目是不变的。
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19136-1:2020'
+            clause: '(E), 3.1.60'
+            link: 'https://www.iso.org/standard/75676.html'
+          lineage_source: 'ISO 19136:2007(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2007-07-01T00:00:00.000Z
+          review_date: 2020-01-09T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2020-01-09T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19136-1:2020(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19136:2007 to ISO
+            19136-1:2020(E), 3.1.60. Lineage source added as ISO 19136:2007(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: 元组
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-07-01T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+fin:
+  id: 477
+  definition: järjestetty arvolista
+  language_code: fin
+  notes:
+    - Monikon arvojen lukumäärä on muuttumaton.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19136-1:2020'
+    clause: '(E), 3.1.60'
+    link: 'https://www.iso.org/standard/75676.html'
+  lineage_source: 'ISO 19136:2007(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2007-07-01T00:00:00.000Z
+  review_date: 2020-01-09T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2020-01-09T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19136-1:2020(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19136:2007 to ISO 19136-1:2020(E),
+    3.1.60. Lineage source added as ISO 19136:2007(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: monikko
+      normative_status: preferred
+  _revisions:
+    current: 4e87e2
+    tree:
+      4e87e2:
+        object:
+          id: 477
+          definition: järjestetty arvolista
+          language_code: fin
+          notes:
+            - Monikon arvojen lukumäärä on muuttumaton.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19136-1:2020'
+            clause: '(E), 3.1.60'
+            link: 'https://www.iso.org/standard/75676.html'
+          lineage_source: 'ISO 19136:2007(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2007-07-01T00:00:00.000Z
+          review_date: 2020-01-09T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2020-01-09T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19136-1:2020(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19136:2007 to ISO
+            19136-1:2020(E), 3.1.60. Lineage source added as ISO 19136:2007(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: monikko
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+fra:
+  id: 477
+  definition: liste ordonnée de valeurs
+  language_code: fra
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19136-1:2020'
+    clause: '(E), 3.1.60'
+    link: 'https://www.iso.org/standard/75676.html'
+  lineage_source: 'ISO 19136:2007(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2007-07-01T00:00:00.000Z
+  review_date: 2020-01-09T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2020-01-09T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19136-1:2020(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19136:2007 to ISO 19136-1:2020(E),
+    3.1.60. Lineage source added as ISO 19136:2007(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: n-uplet
+      normative_status: preferred
+  _revisions:
+    current: f072e8
+    tree:
+      f072e8:
+        object:
+          id: 477
+          definition: liste ordonnée de valeurs
+          language_code: fra
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19136-1:2020'
+            clause: '(E), 3.1.60'
+            link: 'https://www.iso.org/standard/75676.html'
+          lineage_source: 'ISO 19136:2007(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2007-07-01T00:00:00.000Z
+          review_date: 2020-01-09T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2020-01-09T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19136-1:2020(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19136:2007 to ISO
+            19136-1:2020(E), 3.1.60. Lineage source added as ISO 19136:2007(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: n-uplet
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+deu:
+  id: 477
+  definition: geordnete Liste von Werten
+  language_code: deu
+  notes:
+    - The number of values in a tuple is immutable
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19136-1:2020'
+    clause: '(E), 3.1.60'
+    link: 'https://www.iso.org/standard/75676.html'
+  lineage_source: 'ISO 19136:2007(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2007-07-01T00:00:00.000Z
+  review_date: 2020-01-09T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2020-01-09T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19136-1:2020(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19136:2007 to ISO 19136-1:2020(E),
+    3.1.60. Lineage source added as ISO 19136:2007(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: Tupel
+      normative_status: preferred
+  _revisions:
+    current: b5c8ca
+    tree:
+      b5c8ca:
+        object:
+          id: 477
+          definition: geordnete Liste von Werten
+          language_code: deu
+          notes:
+            - The number of values in a tuple is immutable
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19136-1:2020'
+            clause: '(E), 3.1.60'
+            link: 'https://www.iso.org/standard/75676.html'
+          lineage_source: 'ISO 19136:2007(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2007-07-01T00:00:00.000Z
+          review_date: 2020-01-09T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2020-01-09T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19136-1:2020(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19136:2007 to ISO
+            19136-1:2020(E), 3.1.60. Lineage source added as ISO 19136:2007(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: Tupel
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-07-01T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+kor:
+  id: 477
+  definition: 값의 순서화된 목록
+  language_code: kor
+  notes:
+    - 튜플에서의 숫자 값은 불변이다.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19136-1:2020'
+    clause: '(E), 3.1.60'
+    link: 'https://www.iso.org/standard/75676.html'
+  lineage_source: 'ISO 19136:2007(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2007-07-01T00:00:00.000Z
+  review_date: 2020-01-09T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2020-01-09T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19136-1:2020(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19136:2007 to ISO 19136-1:2020(E),
+    3.1.60. Lineage source added as ISO 19136:2007(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: 튜플
+      normative_status: preferred
+  _revisions:
+    current: ed67fa
+    tree:
+      ed67fa:
+        object:
+          id: 477
+          definition: 값의 순서화된 목록
+          language_code: kor
+          notes:
+            - 튜플에서의 숫자 값은 불변이다.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19136-1:2020'
+            clause: '(E), 3.1.60'
+            link: 'https://www.iso.org/standard/75676.html'
+          lineage_source: 'ISO 19136:2007(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2007-07-01T00:00:00.000Z
+          review_date: 2020-01-09T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2020-01-09T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19136-1:2020(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19136:2007 to ISO
+            19136-1:2020(E), 3.1.60. Lineage source added as ISO 19136:2007(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: 튜플
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+msa:
+  id: 477
+  definition: >-
+    Baris sifat dalam suatu hubungan/jadual yang boleh dianggap sebagai suatu
+    rekod.
+  language_code: msa
+  notes:
+    - The number of values in a tuple is immutable
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19136-1:2020'
+    clause: '(E), 3.1.60'
+    link: 'https://www.iso.org/standard/75676.html'
+  lineage_source: 'ISO 19136:2007(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2007-07-01T00:00:00.000Z
+  review_date: 2020-01-09T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2020-01-09T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19136-1:2020(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19136:2007 to ISO 19136-1:2020(E),
+    3.1.60. Lineage source added as ISO 19136:2007(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: tupel
+      normative_status: preferred
+  _revisions:
+    current: 6386dd
+    tree:
+      6386dd:
+        object:
+          id: 477
+          definition: >-
+            Baris sifat dalam suatu hubungan/jadual yang boleh dianggap sebagai
+            suatu rekod.
+          language_code: msa
+          notes:
+            - The number of values in a tuple is immutable
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19136-1:2020'
+            clause: '(E), 3.1.60'
+            link: 'https://www.iso.org/standard/75676.html'
+          lineage_source: 'ISO 19136:2007(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2007-07-01T00:00:00.000Z
+          review_date: 2020-01-09T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2020-01-09T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19136-1:2020(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19136:2007 to ISO
+            19136-1:2020(E), 3.1.60. Lineage source added as ISO 19136:2007(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: tupel
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 477
+  definition: упорядоченный список значений
+  language_code: rus
+  notes:
+    - Число значений в кортеже является постоянным
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19136-1:2020'
+    clause: '(E), 3.1.60'
+    link: 'https://www.iso.org/standard/75676.html'
+  lineage_source: 'ISO 19136:2007(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2007-07-01T00:00:00.000Z
+  review_date: 2020-01-09T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2020-01-09T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19136-1:2020(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19136:2007 to ISO 19136-1:2020(E),
+    3.1.60. Lineage source added as ISO 19136:2007(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: кортеж
+      normative_status: preferred
+  _revisions:
+    current: d9b70e
+    tree:
+      d9b70e:
+        object:
+          id: 477
+          definition: упорядоченный список значений
+          language_code: rus
+          notes:
+            - Число значений в кортеже является постоянным
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19136-1:2020'
+            clause: '(E), 3.1.60'
+            link: 'https://www.iso.org/standard/75676.html'
+          lineage_source: 'ISO 19136:2007(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2007-07-01T00:00:00.000Z
+          review_date: 2020-01-09T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2020-01-09T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19136-1:2020(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19136:2007 to ISO
+            19136-1:2020(E), 3.1.60. Lineage source added as ISO 19136:2007(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: кортеж
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 477
+  definition: lista de valores ordenados
+  language_code: spa
+  notes:
+    - El número de valores en una tupla es inalterable
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19136-1:2020'
+    clause: '(E), 3.1.60'
+    link: 'https://www.iso.org/standard/75676.html'
+  lineage_source: 'ISO 19136:2007(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2007-07-01T00:00:00.000Z
+  review_date: 2020-01-09T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2020-01-09T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19136-1:2020(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19136:2007 to ISO 19136-1:2020(E),
+    3.1.60. Lineage source added as ISO 19136:2007(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: tupla
+      normative_status: preferred
+  _revisions:
+    current: 290ed2
+    tree:
+      290ed2:
+        object:
+          id: 477
+          definition: lista de valores ordenados
+          language_code: spa
+          notes:
+            - El número de valores en una tupla es inalterable
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19136-1:2020'
+            clause: '(E), 3.1.60'
+            link: 'https://www.iso.org/standard/75676.html'
+          lineage_source: 'ISO 19136:2007(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2007-07-01T00:00:00.000Z
+          review_date: 2020-01-09T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2020-01-09T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19136-1:2020(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19136:2007 to ISO
+            19136-1:2020(E), 3.1.60. Lineage source added as ISO 19136:2007(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: tupla
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+swe:
+  id: 477
+  definition: till antal och ordning bestämd följd av värden
+  country_code: swe
+  language_code: swe
+  notes:
+    - The number of values in a tuple is immutable
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19136-1:2020'
+    clause: '(E), 3.1.60'
+    link: 'https://www.iso.org/standard/75676.html'
+  lineage_source: 'ISO 19136:2007(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2007-07-01T00:00:00.000Z
+  review_date: 2020-01-09T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2020-01-09T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19136-1:2020(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19136:2007 to ISO 19136-1:2020(E),
+    3.1.60. Lineage source added as ISO 19136:2007(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: tuppel
+      normative_status: preferred
+  _revisions:
+    current: fdaf58
+    tree:
+      fdaf58:
+        object:
+          id: 477
+          definition: till antal och ordning bestämd följd av värden
+          country_code: swe
+          language_code: swe
+          notes:
+            - The number of values in a tuple is immutable
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19136-1:2020'
+            clause: '(E), 3.1.60'
+            link: 'https://www.iso.org/standard/75676.html'
+          lineage_source: 'ISO 19136:2007(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2007-07-01T00:00:00.000Z
+          review_date: 2020-01-09T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2020-01-09T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19136-1:2020(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19136:2007 to ISO
+            19136-1:2020(E), 3.1.60. Lineage source added as ISO 19136:2007(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: tuppel
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

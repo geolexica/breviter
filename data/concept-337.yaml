@@ -1,0 +1,475 @@
+term: point coverage
+termid: 337
+eng:
+  id: 337
+  definition: coverage that has a domain composed of points
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19123:2005'
+    link: 'https://www.iso.org/standard/40121.html'
+  date_accepted: 2005-08-15T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: point coverage
+      normative_status: preferred
+  _revisions:
+    current: 018e4a
+    tree:
+      018e4a:
+        object:
+          id: 337
+          definition: coverage that has a domain composed of points
+          language_code: eng
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19123:2005'
+            link: 'https://www.iso.org/standard/40121.html'
+          date_accepted: 2005-08-15T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: point coverage
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-08-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+ara:
+  id: 337
+  definition: تغطية لها مجال مكون من نقاط
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19123:2005'
+    link: 'https://www.iso.org/standard/40121.html'
+  date_accepted: 2005-08-15T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: تغطية نقطية
+      normative_status: preferred
+  _revisions:
+    current: 8d227b
+    tree:
+      8d227b:
+        object:
+          id: 337
+          definition: تغطية لها مجال مكون من نقاط
+          language_code: ara
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19123:2005'
+            link: 'https://www.iso.org/standard/40121.html'
+          date_accepted: 2005-08-15T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: تغطية نقطية
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-08-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+zho:
+  id: 337
+  definition: 域由点组成的覆盖。
+  language_code: zho
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19123:2005'
+    link: 'https://www.iso.org/standard/40121.html'
+  date_accepted: 2005-08-15T00:00:00.000Z
+  terms:
+    - type: expression
+      designation: 点覆盖
+      normative_status: preferred
+  _revisions:
+    current: d94724
+    tree:
+      d94724:
+        object:
+          id: 337
+          definition: 域由点组成的覆盖。
+          language_code: zho
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19123:2005'
+            link: 'https://www.iso.org/standard/40121.html'
+          date_accepted: 2005-08-15T00:00:00.000Z
+          terms:
+            - type: expression
+              designation: 点覆盖
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-08-15T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+fin:
+  id: 337
+  definition: 'paikkatietojatkumo, joka koostuu pisteistä'
+  language_code: fin
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19123:2005'
+    link: 'https://www.iso.org/standard/40121.html'
+  lineage_source: 'Ei lähdettä, käännetty'
+  date_accepted: 2013-07-03T00:00:00.000Z
+  terms:
+    - type: expression
+      designation: pistemäinen paikkatietojatkumo
+      normative_status: preferred
+  _revisions:
+    current: f68c79
+    tree:
+      f68c79:
+        object:
+          id: 337
+          definition: 'paikkatietojatkumo, joka koostuu pisteistä'
+          language_code: fin
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19123:2005'
+            link: 'https://www.iso.org/standard/40121.html'
+          lineage_source: 'Ei lähdettä, käännetty'
+          date_accepted: 2013-07-03T00:00:00.000Z
+          terms:
+            - type: expression
+              designation: pistemäinen paikkatietojatkumo
+              normative_status: preferred
+        parents: []
+        timeCreated: 2013-07-03T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+fra:
+  id: 337
+  definition: couverture qui a un domaine composé de points
+  language_code: fra
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: ISO 19123
+    link: 'https://www.iso.org/standard/40121.html'
+  lineage_source: ''
+  date_accepted: 2005-08-15T00:00:00.000Z
+  terms:
+    - type: expression
+      designation: couverture de points
+      normative_status: preferred
+  _revisions:
+    current: cc08de
+    tree:
+      cc08de:
+        object:
+          id: 337
+          definition: couverture qui a un domaine composé de points
+          language_code: fra
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: ISO 19123
+            link: 'https://www.iso.org/standard/40121.html'
+          lineage_source: ''
+          date_accepted: 2005-08-15T00:00:00.000Z
+          terms:
+            - type: expression
+              designation: couverture de points
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-08-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+deu:
+  id: 337
+  language_code: deu
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19123:2005'
+    link: 'https://www.iso.org/standard/40121.html'
+  date_accepted: 2005-08-15T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: Punktcoverage
+      normative_status: preferred
+  _revisions:
+    current: 6853a7
+    tree:
+      6853a7:
+        object:
+          id: 337
+          language_code: deu
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19123:2005'
+            link: 'https://www.iso.org/standard/40121.html'
+          date_accepted: 2005-08-15T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: Punktcoverage
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-08-15T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+kor:
+  id: 337
+  definition: 점으로 구성된 영역을 갖는 커버리지
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19123:2005'
+    link: 'https://www.iso.org/standard/40121.html'
+  lineage_source: KS X ISO 19123
+  date_accepted: 2007-11-01T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: 점 커버리지
+      normative_status: preferred
+  _revisions:
+    current: 7fc8ca
+    tree:
+      7fc8ca:
+        object:
+          id: 337
+          definition: 점으로 구성된 영역을 갖는 커버리지
+          language_code: kor
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19123:2005'
+            link: 'https://www.iso.org/standard/40121.html'
+          lineage_source: KS X ISO 19123
+          date_accepted: 2007-11-01T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: 점 커버리지
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-11-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+pol:
+  id: 337
+  definition: 'pokrycie, którego dziedzina jest złożona z punktów'
+  language_code: pol
+  notes: []
+  examples: []
+  authoritative_source:
+    ref: 'ISO 19123:2005'
+    link: 'https://www.iso.org/standard/40121.html'
+  lineage_source: PN-EN ISO 19123
+  date_accepted: 2005-08-15T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: pokrycie punktowe
+      normative_status: preferred
+  _revisions:
+    current: 52b1c2
+    tree:
+      52b1c2:
+        object:
+          id: 337
+          definition: 'pokrycie, którego dziedzina jest złożona z punktów'
+          language_code: pol
+          notes: []
+          examples: []
+          authoritative_source:
+            ref: 'ISO 19123:2005'
+            link: 'https://www.iso.org/standard/40121.html'
+          lineage_source: PN-EN ISO 19123
+          date_accepted: 2005-08-15T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: pokrycie punktowe
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-08-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 337
+  definition: 'покрытие, область  определения которого составлена из точек'
+  language_code: rus
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19123:2005'
+    link: 'https://www.iso.org/standard/40121.html'
+  lineage_source: Internet
+  date_accepted: 2005-08-15T00:00:00.000Z
+  terms:
+    - type: expression
+      designation: точечное покрытие
+      normative_status: preferred
+  _revisions:
+    current: cd60bd
+    tree:
+      cd60bd:
+        object:
+          id: 337
+          definition: 'покрытие, область  определения которого составлена из точек'
+          language_code: rus
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19123:2005'
+            link: 'https://www.iso.org/standard/40121.html'
+          lineage_source: Internet
+          date_accepted: 2005-08-15T00:00:00.000Z
+          terms:
+            - type: expression
+              designation: точечное покрытие
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-08-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 337
+  definition: cobertura  que tiene un dominio compuesto de puntos
+  language_code: spa
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19123:2005'
+    link: 'https://www.iso.org/standard/40121.html'
+  date_accepted: 2005-08-15T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: cobertura de puntos
+      normative_status: preferred
+  _revisions:
+    current: 2dbac0
+    tree:
+      2dbac0:
+        object:
+          id: 337
+          definition: cobertura  que tiene un dominio compuesto de puntos
+          language_code: spa
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19123:2005'
+            link: 'https://www.iso.org/standard/40121.html'
+          date_accepted: 2005-08-15T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: cobertura de puntos
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-08-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+swe:
+  id: 337
+  definition: domänobjekttyp vars domän beskrivs av punkter
+  country_code: swe
+  language_code: swe
+  notes:
+    - Domänen kan exempelvis vara ett punktraster.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19123:2005'
+    link: 'https://www.iso.org/standard/40121.html'
+  lineage_source: (Type reference to national language document)
+  date_accepted: 2005-08-15T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: punktmängdsobjekttyp
+      normative_status: preferred
+  _revisions:
+    current: dff230
+    tree:
+      dff230:
+        object:
+          id: 337
+          definition: domänobjekttyp vars domän beskrivs av punkter
+          country_code: swe
+          language_code: swe
+          notes:
+            - Domänen kan exempelvis vara ett punktraster.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19123:2005'
+            link: 'https://www.iso.org/standard/40121.html'
+          lineage_source: (Type reference to national language document)
+          date_accepted: 2005-08-15T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: punktmängdsobjekttyp
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-08-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

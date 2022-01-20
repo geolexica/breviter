@@ -1,0 +1,81 @@
+term: terrestrial reference frame
+termid: 2490
+eng:
+  id: 2490
+  abbrev: TRF
+  definition: >-
+    realization of a terrestrial reference system (TRS), by specifying its
+    origin, orientation, scale, and its time evolution
+  language_code: eng
+  notes:
+    - >-
+      The realization is achieved through a set of physical points with
+      precisely determined coordinates in a specific coordinate system, which
+      may include the rate of coordinate change.
+    - >-
+      The realization is called static when no rates of coordinate change are
+      defined, and kinematic when rates of coordinate change are defined without
+      considering the underlying forces causing the motion. The realization may
+      be called dynamic when these external forces are considered. "Dynamic" is
+      also used colloquially to describe both the dynamic and kinematic cases
+      without distinction.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: IERS Conventions 2010
+  date_accepted: 2020-01-24T00:00:00.000Z
+  review_date: 2020-01-24T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2020-01-24T00:00:00.000Z
+  review_decision_event: Normal ISO processing
+  review_decision_notes: 'Publication of document 19161-1:2020(E)'
+  release: '5'
+  terms:
+    - type: expression
+      designation: terrestrial reference frame
+      normative_status: preferred
+  _revisions:
+    current: a61b99
+    tree:
+      a61b99:
+        object:
+          id: 2490
+          abbrev: TRF
+          definition: >-
+            realization of a terrestrial reference system (TRS), by specifying
+            its origin, orientation, scale, and its time evolution
+          language_code: eng
+          notes:
+            - >-
+              The realization is achieved through a set of physical points with
+              precisely determined coordinates in a specific coordinate system,
+              which may include the rate of coordinate change.
+            - >-
+              The realization is called static when no rates of coordinate
+              change are defined, and kinematic when rates of coordinate change
+              are defined without considering the underlying forces causing the
+              motion. The realization may be called dynamic when these external
+              forces are considered. "Dynamic" is also used colloquially to
+              describe both the dynamic and kinematic cases without distinction.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: IERS Conventions 2010
+          date_accepted: 2020-01-24T00:00:00.000Z
+          review_date: 2020-01-24T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2020-01-24T00:00:00.000Z
+          review_decision_event: Normal ISO processing
+          review_decision_notes: 'Publication of document 19161-1:2020(E)'
+          release: '5'
+          terms:
+            - type: expression
+              designation: terrestrial reference frame
+              normative_status: preferred
+        parents: []
+        timeCreated: 2020-01-24T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

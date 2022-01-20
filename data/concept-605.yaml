@@ -1,0 +1,839 @@
+term: depth
+termid: 605
+eng:
+  id: 605
+  definition: >-
+    distance of a point from a chosen reference surface measured downward along
+    a line perpendicular to that surface
+  language_code: eng
+  notes:
+    - A depth above the reference surface will have a negative value
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19111:2007'
+    link: 'https://www.iso.org/standard/41126.html'
+  date_accepted: 2007-07-01T00:00:00.000Z
+  date_amended: 2019-01-31T00:00:00.000Z
+  review_date: 2019-01-31T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2019-01-31T00:00:00.000Z
+  review_decision_event: 'Publication of document ISO 19111:2019(E)'
+  review_decision_notes: 'This entry is superseded by the entry for depth in ISO 19111:2019(E)'
+  release: '-1'
+  terms:
+    - type: expression
+      designation: depth
+      normative_status: null
+  _revisions:
+    current: c0dd39
+    tree:
+      c0dd39:
+        object:
+          id: 605
+          definition: >-
+            distance of a point from a chosen reference surface measured
+            downward along a line perpendicular to that surface
+          language_code: eng
+          notes:
+            - A depth above the reference surface will have a negative value
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19111:2007'
+            link: 'https://www.iso.org/standard/41126.html'
+          date_accepted: 2007-07-01T00:00:00.000Z
+          date_amended: 2019-01-31T00:00:00.000Z
+          review_date: 2019-01-31T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2019-01-31T00:00:00.000Z
+          review_decision_event: 'Publication of document ISO 19111:2019(E)'
+          review_decision_notes: 'This entry is superseded by the entry for depth in ISO 19111:2019(E)'
+          release: '-1'
+          terms:
+            - type: expression
+              designation: depth
+              normative_status: null
+        parents: []
+        timeCreated: 2007-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+ara:
+  id: 605
+  definition: >-
+    المسافة بين نقطة ما وسطح مرجعي معين مُقاسةً إلى أسفل على امتداد خط متعامد مع
+    ذلك السطح
+  language_code: ara
+  notes:
+    - العمق الذي يكون أعلى من السطح المرجعي المعتمد تكون قيمته سالبة.
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19111:2007'
+    link: 'https://www.iso.org/standard/41126.html'
+  date_accepted: 2007-07-01T00:00:00.000Z
+  date_amended: 2019-01-31T00:00:00.000Z
+  review_date: 2019-01-31T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2019-01-31T00:00:00.000Z
+  review_decision_event: 'Publication of document ISO 19111:2019(E)'
+  review_decision_notes: 'This entry is superseded by the entry for depth in ISO 19111:2019(E)'
+  release: '-1'
+  terms:
+    - type: expression
+      designation: العمق
+      normative_status: null
+  _revisions:
+    current: 28942a
+    tree:
+      28942a:
+        object:
+          id: 605
+          definition: >-
+            المسافة بين نقطة ما وسطح مرجعي معين مُقاسةً إلى أسفل على امتداد خط
+            متعامد مع ذلك السطح
+          language_code: ara
+          notes:
+            - العمق الذي يكون أعلى من السطح المرجعي المعتمد تكون قيمته سالبة.
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19111:2007'
+            link: 'https://www.iso.org/standard/41126.html'
+          date_accepted: 2007-07-01T00:00:00.000Z
+          date_amended: 2019-01-31T00:00:00.000Z
+          review_date: 2019-01-31T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2019-01-31T00:00:00.000Z
+          review_decision_event: 'Publication of document ISO 19111:2019(E)'
+          review_decision_notes: 'This entry is superseded by the entry for depth in ISO 19111:2019(E)'
+          release: '-1'
+          terms:
+            - type: expression
+              designation: العمق
+              normative_status: null
+        parents: []
+        timeCreated: 2007-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+zho:
+  id: 605
+  definition: 某点从选定的参照面沿垂线向下量测的距离。
+  language_code: zho
+  notes:
+    - 高于参照面的深度为负值。
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19111:2007'
+    link: 'https://www.iso.org/standard/41126.html'
+  date_accepted: 2007-07-01T00:00:00.000Z
+  date_amended: 2019-01-31T00:00:00.000Z
+  review_date: 2019-01-31T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2019-01-31T00:00:00.000Z
+  review_decision_event: 'Publication of document ISO 19111:2019(E)'
+  review_decision_notes: 'This entry is superseded by the entry for depth in ISO 19111:2019(E)'
+  release: '-1'
+  terms:
+    - type: expression
+      designation: 深度
+      normative_status: null
+  _revisions:
+    current: fb7f02
+    tree:
+      fb7f02:
+        object:
+          id: 605
+          definition: 某点从选定的参照面沿垂线向下量测的距离。
+          language_code: zho
+          notes:
+            - 高于参照面的深度为负值。
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19111:2007'
+            link: 'https://www.iso.org/standard/41126.html'
+          date_accepted: 2007-07-01T00:00:00.000Z
+          date_amended: 2019-01-31T00:00:00.000Z
+          review_date: 2019-01-31T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2019-01-31T00:00:00.000Z
+          review_decision_event: 'Publication of document ISO 19111:2019(E)'
+          review_decision_notes: 'This entry is superseded by the entry for depth in ISO 19111:2019(E)'
+          release: '-1'
+          terms:
+            - type: expression
+              designation: 深度
+              normative_status: null
+        parents: []
+        timeCreated: 2007-07-01T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+nld:
+  id: 605
+  definition: >-
+    afstand van een punt tot een gekozen referentievlak neerwaarts gemeten langs
+    een lijn welke loodrecht op dat referentievlak staat
+  language_code: nld
+  notes:
+    - Een diepte boven het referentievlak heeft een negatieve waarde
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19111:2007'
+    link: 'https://www.iso.org/standard/41126.html'
+  date_accepted: 2007-07-01T00:00:00.000Z
+  date_amended: 2019-01-31T00:00:00.000Z
+  review_date: 2019-01-31T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2019-01-31T00:00:00.000Z
+  review_decision_event: 'Publication of document ISO 19111:2019(E)'
+  review_decision_notes: 'This entry is superseded by the entry for depth in ISO 19111:2019(E)'
+  release: '-1'
+  terms:
+    - type: expression
+      designation: diepte
+      normative_status: null
+  _revisions:
+    current: cbcf6b
+    tree:
+      cbcf6b:
+        object:
+          id: 605
+          definition: >-
+            afstand van een punt tot een gekozen referentievlak neerwaarts
+            gemeten langs een lijn welke loodrecht op dat referentievlak staat
+          language_code: nld
+          notes:
+            - Een diepte boven het referentievlak heeft een negatieve waarde
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19111:2007'
+            link: 'https://www.iso.org/standard/41126.html'
+          date_accepted: 2007-07-01T00:00:00.000Z
+          date_amended: 2019-01-31T00:00:00.000Z
+          review_date: 2019-01-31T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2019-01-31T00:00:00.000Z
+          review_decision_event: 'Publication of document ISO 19111:2019(E)'
+          review_decision_notes: 'This entry is superseded by the entry for depth in ISO 19111:2019(E)'
+          release: '-1'
+          terms:
+            - type: expression
+              designation: diepte
+              normative_status: null
+        parents: []
+        timeCreated: 2007-07-01T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+fin:
+  id: 605
+  definition: >-
+    pisteen etäisyys valitusta vertauspinnasta kyseistä pintaa kohtisuoraan
+    vastassa olevaa viivaa pitkin alaspäin mitattuna
+  language_code: fin
+  notes:
+    - Vertauspinnasta ylöspäin mitatun syvyyden arvo on negatiivinen.
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19111:2007'
+    link: 'https://www.iso.org/standard/41126.html'
+  date_accepted: 2007-07-01T00:00:00.000Z
+  date_amended: 2019-01-31T00:00:00.000Z
+  review_date: 2019-01-31T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2019-01-31T00:00:00.000Z
+  review_decision_event: 'Publication of document ISO 19111:2019(E)'
+  review_decision_notes: 'This entry is superseded by the entry for depth in ISO 19111:2019(E)'
+  release: '-1'
+  terms:
+    - type: expression
+      designation: syvyys
+      normative_status: null
+  _revisions:
+    current: 1afda2
+    tree:
+      1afda2:
+        object:
+          id: 605
+          definition: >-
+            pisteen etäisyys valitusta vertauspinnasta kyseistä pintaa
+            kohtisuoraan vastassa olevaa viivaa pitkin alaspäin mitattuna
+          language_code: fin
+          notes:
+            - Vertauspinnasta ylöspäin mitatun syvyyden arvo on negatiivinen.
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19111:2007'
+            link: 'https://www.iso.org/standard/41126.html'
+          date_accepted: 2007-07-01T00:00:00.000Z
+          date_amended: 2019-01-31T00:00:00.000Z
+          review_date: 2019-01-31T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2019-01-31T00:00:00.000Z
+          review_decision_event: 'Publication of document ISO 19111:2019(E)'
+          review_decision_notes: 'This entry is superseded by the entry for depth in ISO 19111:2019(E)'
+          release: '-1'
+          terms:
+            - type: expression
+              designation: syvyys
+              normative_status: null
+        parents: []
+        timeCreated: 2007-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+fra:
+  id: 605
+  definition: >-
+    distance d'un point à une surface de référence choisie, mesurée de haut en
+    bas le long d'une ligne perpendiculaire à cette surface
+  language_code: fra
+  notes: []
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19111:2007'
+    link: 'https://www.iso.org/standard/41126.html'
+  date_accepted: 2007-07-01T00:00:00.000Z
+  date_amended: 2019-01-31T00:00:00.000Z
+  review_date: 2019-01-31T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2019-01-31T00:00:00.000Z
+  review_decision_event: 'Publication of document ISO 19111:2019(E)'
+  review_decision_notes: 'This entry is superseded by the entry for depth in ISO 19111:2019(E)'
+  release: '-1'
+  terms:
+    - type: expression
+      designation: profondeur
+      normative_status: null
+  _revisions:
+    current: 6ca760
+    tree:
+      6ca760:
+        object:
+          id: 605
+          definition: >-
+            distance d'un point à une surface de référence choisie, mesurée de
+            haut en bas le long d'une ligne perpendiculaire à cette surface
+          language_code: fra
+          notes: []
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19111:2007'
+            link: 'https://www.iso.org/standard/41126.html'
+          date_accepted: 2007-07-01T00:00:00.000Z
+          date_amended: 2019-01-31T00:00:00.000Z
+          review_date: 2019-01-31T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2019-01-31T00:00:00.000Z
+          review_decision_event: 'Publication of document ISO 19111:2019(E)'
+          review_decision_notes: 'This entry is superseded by the entry for depth in ISO 19111:2019(E)'
+          release: '-1'
+          terms:
+            - type: expression
+              designation: profondeur
+              normative_status: null
+        parents: []
+        timeCreated: 2007-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+deu:
+  id: 605
+  definition: >-
+    Abstand eines Punktes von einer gewählten Bezugsfläche, längs einer
+    senkrechten Linie zu dieser Bezugsfläche nach unten gemessen
+  language_code: deu
+  notes:
+    - A depth above the reference surface will have a negative value
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19111:2007'
+    link: 'https://www.iso.org/standard/41126.html'
+  date_accepted: 2007-07-01T00:00:00.000Z
+  date_amended: 2019-01-31T00:00:00.000Z
+  review_date: 2019-01-31T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2019-01-31T00:00:00.000Z
+  review_decision_event: 'Publication of document ISO 19111:2019(E)'
+  review_decision_notes: 'This entry is superseded by the entry for depth in ISO 19111:2019(E)'
+  release: '-1'
+  terms:
+    - type: expression
+      designation: Tiefe
+      normative_status: null
+  _revisions:
+    current: 7a4f2c
+    tree:
+      7a4f2c:
+        object:
+          id: 605
+          definition: >-
+            Abstand eines Punktes von einer gewählten Bezugsfläche, längs einer
+            senkrechten Linie zu dieser Bezugsfläche nach unten gemessen
+          language_code: deu
+          notes:
+            - A depth above the reference surface will have a negative value
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19111:2007'
+            link: 'https://www.iso.org/standard/41126.html'
+          date_accepted: 2007-07-01T00:00:00.000Z
+          date_amended: 2019-01-31T00:00:00.000Z
+          review_date: 2019-01-31T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2019-01-31T00:00:00.000Z
+          review_decision_event: 'Publication of document ISO 19111:2019(E)'
+          review_decision_notes: 'This entry is superseded by the entry for depth in ISO 19111:2019(E)'
+          release: '-1'
+          terms:
+            - type: expression
+              designation: Tiefe
+              normative_status: null
+        parents: []
+        timeCreated: 2007-07-01T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+kor:
+  id: 605
+  definition: 선택된 기준면으로부터 직하 방향으로 측정된 한 점까지의 거리
+  language_code: kor
+  notes:
+    - 기준면보다 높이 위치한 지점의 깊이는 음의 값을 갖는다.
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19111:2007'
+    link: 'https://www.iso.org/standard/41126.html'
+  date_accepted: 2007-07-01T00:00:00.000Z
+  date_amended: 2019-01-31T00:00:00.000Z
+  review_date: 2019-01-31T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2019-01-31T00:00:00.000Z
+  review_decision_event: 'Publication of document ISO 19111:2019(E)'
+  review_decision_notes: 'This entry is superseded by the entry for depth in ISO 19111:2019(E)'
+  release: '-1'
+  terms:
+    - type: expression
+      designation: 깊이
+      normative_status: null
+  _revisions:
+    current: 33770d
+    tree:
+      33770d:
+        object:
+          id: 605
+          definition: 선택된 기준면으로부터 직하 방향으로 측정된 한 점까지의 거리
+          language_code: kor
+          notes:
+            - 기준면보다 높이 위치한 지점의 깊이는 음의 값을 갖는다.
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19111:2007'
+            link: 'https://www.iso.org/standard/41126.html'
+          date_accepted: 2007-07-01T00:00:00.000Z
+          date_amended: 2019-01-31T00:00:00.000Z
+          review_date: 2019-01-31T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2019-01-31T00:00:00.000Z
+          review_decision_event: 'Publication of document ISO 19111:2019(E)'
+          review_decision_notes: 'This entry is superseded by the entry for depth in ISO 19111:2019(E)'
+          release: '-1'
+          terms:
+            - type: expression
+              designation: 깊이
+              normative_status: null
+        parents: []
+        timeCreated: 2007-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+msa:
+  id: 605
+  language_code: msa
+  notes:
+    - A depth above the reference surface will have a negative value
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19111:2007'
+    link: 'https://www.iso.org/standard/41126.html'
+  date_accepted: 2007-07-01T00:00:00.000Z
+  date_amended: 2019-01-31T00:00:00.000Z
+  review_date: 2019-01-31T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2019-01-31T00:00:00.000Z
+  review_decision_event: 'Publication of document ISO 19111:2019(E)'
+  review_decision_notes: 'This entry is superseded by the entry for depth in ISO 19111:2019(E)'
+  release: '-1'
+  terms:
+    - type: expression
+      designation: kedalaman
+      normative_status: null
+  _revisions:
+    current: 4b66eb
+    tree:
+      4b66eb:
+        object:
+          id: 605
+          language_code: msa
+          notes:
+            - A depth above the reference surface will have a negative value
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19111:2007'
+            link: 'https://www.iso.org/standard/41126.html'
+          date_accepted: 2007-07-01T00:00:00.000Z
+          date_amended: 2019-01-31T00:00:00.000Z
+          review_date: 2019-01-31T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2019-01-31T00:00:00.000Z
+          review_decision_event: 'Publication of document ISO 19111:2019(E)'
+          review_decision_notes: 'This entry is superseded by the entry for depth in ISO 19111:2019(E)'
+          release: '-1'
+          terms:
+            - type: expression
+              designation: kedalaman
+              normative_status: null
+        parents: []
+        timeCreated: 2007-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+pol:
+  id: 605
+  definition: >-
+    odległość punktu od wybranej powierzchni odniesienia w dół, wzdłuż linii
+    prostopadłej do tej powierzchni
+  language_code: pol
+  notes:
+    - Głębokość powyżej powierzchni odniesienia ma wartość ujemną.
+  examples: []
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19111:2007'
+    link: 'https://www.iso.org/standard/41126.html'
+  date_accepted: 2007-07-01T00:00:00.000Z
+  date_amended: 2019-01-31T00:00:00.000Z
+  review_date: 2019-01-31T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2019-01-31T00:00:00.000Z
+  review_decision_event: 'Publication of document ISO 19111:2019(E)'
+  review_decision_notes: 'This entry is superseded by the entry for depth in ISO 19111:2019(E)'
+  release: '-1'
+  terms:
+    - type: expression
+      designation: głębokość
+      normative_status: null
+  _revisions:
+    current: 0fb7b4
+    tree:
+      0fb7b4:
+        object:
+          id: 605
+          definition: >-
+            odległość punktu od wybranej powierzchni odniesienia w dół, wzdłuż
+            linii prostopadłej do tej powierzchni
+          language_code: pol
+          notes:
+            - Głębokość powyżej powierzchni odniesienia ma wartość ujemną.
+          examples: []
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19111:2007'
+            link: 'https://www.iso.org/standard/41126.html'
+          date_accepted: 2007-07-01T00:00:00.000Z
+          date_amended: 2019-01-31T00:00:00.000Z
+          review_date: 2019-01-31T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2019-01-31T00:00:00.000Z
+          review_decision_event: 'Publication of document ISO 19111:2019(E)'
+          review_decision_notes: 'This entry is superseded by the entry for depth in ISO 19111:2019(E)'
+          release: '-1'
+          terms:
+            - type: expression
+              designation: głębokość
+              normative_status: null
+        parents: []
+        timeCreated: 2007-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 605
+  definition: >-
+    расстояние точки от выбранной отсчетной поверхности, измеряемое вдоль
+    нормали к этой поверхности вниз
+  language_code: rus
+  notes:
+    - >-
+      Глубина над выбранной отсчетной поверхностью будет иметь отрацательное
+      значение
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19111:2007'
+    link: 'https://www.iso.org/standard/41126.html'
+  date_accepted: 2007-07-01T00:00:00.000Z
+  date_amended: 2019-01-31T00:00:00.000Z
+  review_date: 2019-01-31T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2019-01-31T00:00:00.000Z
+  review_decision_event: 'Publication of document ISO 19111:2019(E)'
+  review_decision_notes: 'This entry is superseded by the entry for depth in ISO 19111:2019(E)'
+  release: '-1'
+  terms:
+    - type: expression
+      designation: глубина
+      normative_status: null
+  _revisions:
+    current: 0ba461
+    tree:
+      0ba461:
+        object:
+          id: 605
+          definition: >-
+            расстояние точки от выбранной отсчетной поверхности, измеряемое
+            вдоль нормали к этой поверхности вниз
+          language_code: rus
+          notes:
+            - >-
+              Глубина над выбранной отсчетной поверхностью будет иметь
+              отрацательное значение
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19111:2007'
+            link: 'https://www.iso.org/standard/41126.html'
+          date_accepted: 2007-07-01T00:00:00.000Z
+          date_amended: 2019-01-31T00:00:00.000Z
+          review_date: 2019-01-31T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2019-01-31T00:00:00.000Z
+          review_decision_event: 'Publication of document ISO 19111:2019(E)'
+          review_decision_notes: 'This entry is superseded by the entry for depth in ISO 19111:2019(E)'
+          release: '-1'
+          terms:
+            - type: expression
+              designation: глубина
+              normative_status: null
+        parents: []
+        timeCreated: 2007-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 605
+  definition: >-
+    distancia de un punto a una superficie de referencia dada medida hacia abajo
+    a lo largo de la perpendicular a la superficie
+  language_code: spa
+  notes:
+    - >-
+      Una profundidad por encima de la superficie de referencia tendrá un valor
+      negativo.
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19111:2007'
+    link: 'https://www.iso.org/standard/41126.html'
+  date_accepted: 2007-07-01T00:00:00.000Z
+  date_amended: 2019-01-31T00:00:00.000Z
+  review_date: 2019-01-31T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2019-01-31T00:00:00.000Z
+  review_decision_event: 'Publication of document ISO 19111:2019(E)'
+  review_decision_notes: 'This entry is superseded by the entry for depth in ISO 19111:2019(E)'
+  release: '-1'
+  terms:
+    - type: expression
+      designation: profundidad
+      normative_status: null
+  _revisions:
+    current: 1c9ee8
+    tree:
+      1c9ee8:
+        object:
+          id: 605
+          definition: >-
+            distancia de un punto a una superficie de referencia dada medida
+            hacia abajo a lo largo de la perpendicular a la superficie
+          language_code: spa
+          notes:
+            - >-
+              Una profundidad por encima de la superficie de referencia tendrá
+              un valor negativo.
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19111:2007'
+            link: 'https://www.iso.org/standard/41126.html'
+          date_accepted: 2007-07-01T00:00:00.000Z
+          date_amended: 2019-01-31T00:00:00.000Z
+          review_date: 2019-01-31T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2019-01-31T00:00:00.000Z
+          review_decision_event: 'Publication of document ISO 19111:2019(E)'
+          review_decision_notes: 'This entry is superseded by the entry for depth in ISO 19111:2019(E)'
+          release: '-1'
+          terms:
+            - type: expression
+              designation: profundidad
+              normative_status: null
+        parents: []
+        timeCreated: 2007-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+swe:
+  id: 605
+  definition: |-
+    avstånd vinkelrätt från en referensyta till en
+    punkt som befinner sig under denna
+  country_code: swe
+  language_code: swe
+  notes:
+    - A depth above the reference surface will have a negative value
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19111:2007'
+    link: 'https://www.iso.org/standard/41126.html'
+  date_accepted: 2007-07-01T00:00:00.000Z
+  date_amended: 2019-01-31T00:00:00.000Z
+  review_date: 2019-01-31T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2019-01-31T00:00:00.000Z
+  review_decision_event: 'Publication of document ISO 19111:2019(E)'
+  review_decision_notes: 'This entry is superseded by the entry for depth in ISO 19111:2019(E)'
+  release: '-1'
+  terms:
+    - type: expression
+      designation: djup
+      normative_status: null
+  _revisions:
+    current: 54d169
+    tree:
+      54d169:
+        object:
+          id: 605
+          definition: |-
+            avstånd vinkelrätt från en referensyta till en
+            punkt som befinner sig under denna
+          country_code: swe
+          language_code: swe
+          notes:
+            - A depth above the reference surface will have a negative value
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19111:2007'
+            link: 'https://www.iso.org/standard/41126.html'
+          date_accepted: 2007-07-01T00:00:00.000Z
+          date_amended: 2019-01-31T00:00:00.000Z
+          review_date: 2019-01-31T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2019-01-31T00:00:00.000Z
+          review_decision_event: 'Publication of document ISO 19111:2019(E)'
+          review_decision_notes: 'This entry is superseded by the entry for depth in ISO 19111:2019(E)'
+          release: '-1'
+          terms:
+            - type: expression
+              designation: djup
+              normative_status: null
+        parents: []
+        timeCreated: 2007-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

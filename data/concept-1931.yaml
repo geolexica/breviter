@@ -1,0 +1,146 @@
+term: boresight
+termid: 1931
+eng:
+  id: 1931
+  definition: >-
+    calibration of a lidar sensor system, equipped with an Inertial Measurement
+    Unit (IMU) and a Global Navigation Satellite System (GNSS), to accurately
+    determine or establish its position and orientation
+  language_code: eng
+  notes:
+    - >-
+      The position of the lidar sensor system (x, y, z) is determined with
+      respect to the GNSS antenna. The orientation (roll, pitch, heading) of the
+      lidar sensor system is determined with respect to straight and level
+      flight.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO/TS 19159-2:2016'
+    clause: '4.4'
+    link: 'https://www.iso.org/standard/64768.html'
+  date_accepted: 2016-04-15T00:00:00.000Z
+  review_date: 2014-08-26T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2016-04-15T00:00:00.000Z
+  review_decision_event: Normal ISO processing
+  review_decision_notes: 'Publication of document ISO/TS 19159-2:2016(E)'
+  release: '4'
+  terms:
+    - type: expression
+      designation: boresight
+      normative_status: preferred
+  _revisions:
+    current: '285121'
+    tree:
+      '285121':
+        object:
+          id: 1931
+          definition: >-
+            calibration of a lidar sensor system, equipped with an Inertial
+            Measurement Unit (IMU) and a Global Navigation Satellite System
+            (GNSS), to accurately determine or establish its position and
+            orientation
+          language_code: eng
+          notes:
+            - >-
+              The position of the lidar sensor system (x, y, z) is determined
+              with respect to the GNSS antenna. The orientation (roll, pitch,
+              heading) of the lidar sensor system is determined with respect to
+              straight and level flight.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO/TS 19159-2:2016'
+            clause: '4.4'
+            link: 'https://www.iso.org/standard/64768.html'
+          date_accepted: 2016-04-15T00:00:00.000Z
+          review_date: 2014-08-26T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2016-04-15T00:00:00.000Z
+          review_decision_event: Normal ISO processing
+          review_decision_notes: 'Publication of document ISO/TS 19159-2:2016(E)'
+          release: '4'
+          terms:
+            - type: expression
+              designation: boresight
+              normative_status: preferred
+        parents: []
+        timeCreated: 2016-04-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 1931
+  definition: >-
+    ajuste de un sistema de sensor lídar, equipado con una Unidad de Medida
+    Inercial (IMU) y un Sistema Global de Navegación por Satélite (GNSS), para
+    determinar o establecer con exactitud su posición y orientación
+  language_code: spa
+  notes:
+    - >-
+      La posición del sistema de sensor lídar (x, y, z) se determina con
+      respecto a la antena GNSS. La orientación (alabeo, cabeceo, guiñada) del
+      sistema de sensor lidar se determina con respecto al vuelo recto y
+      nivelado.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO/TS 19159-2:2016'
+    clause: '4.4'
+    link: 'https://www.iso.org/standard/64768.html'
+  date_accepted: 2016-04-15T00:00:00.000Z
+  review_date: 2014-08-26T00:00:00.000Z
+  review_status: final
+  review_decision: ''
+  review_decision_date: 2016-04-15T00:00:00.000Z
+  review_decision_event: Normal ISO processing
+  review_decision_notes: 'Publication of document ISO/TS 19159-2:2016(E)'
+  release: '4'
+  terms:
+    - type: expression
+      designation: calibración IMU-GNSS
+      normative_status: preferred
+  _revisions:
+    current: 7c0022
+    tree:
+      7c0022:
+        object:
+          id: 1931
+          definition: >-
+            ajuste de un sistema de sensor lídar, equipado con una Unidad de
+            Medida Inercial (IMU) y un Sistema Global de Navegación por Satélite
+            (GNSS), para determinar o establecer con exactitud su posición y
+            orientación
+          language_code: spa
+          notes:
+            - >-
+              La posición del sistema de sensor lídar (x, y, z) se determina con
+              respecto a la antena GNSS. La orientación (alabeo, cabeceo,
+              guiñada) del sistema de sensor lidar se determina con respecto al
+              vuelo recto y nivelado.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO/TS 19159-2:2016'
+            clause: '4.4'
+            link: 'https://www.iso.org/standard/64768.html'
+          date_accepted: 2016-04-15T00:00:00.000Z
+          review_date: 2014-08-26T00:00:00.000Z
+          review_status: final
+          review_decision: ''
+          review_decision_date: 2016-04-15T00:00:00.000Z
+          review_decision_event: Normal ISO processing
+          review_decision_notes: 'Publication of document ISO/TS 19159-2:2016(E)'
+          release: '4'
+          terms:
+            - type: expression
+              designation: calibración IMU-GNSS
+              normative_status: preferred
+        parents: []
+        timeCreated: 2016-04-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

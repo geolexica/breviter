@@ -1,0 +1,586 @@
+term: vehicle
+termid: 745
+eng:
+  id: 745
+  definition: object subject to being navigated or tracked
+  language_code: eng
+  notes:
+    - >-
+      Includes pedestrians. See ISO 14825. In this International Standard,
+      vehicle can be replaced by traveller without any change of intent.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19133:2005'
+    link: 'https://www.iso.org/standard/32551.html'
+  date_accepted: 2005-10-15T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: vehicle
+      normative_status: preferred
+    - designation: traveller
+      type: expression
+  _revisions:
+    current: d81d7d
+    tree:
+      d81d7d:
+        object:
+          id: 745
+          definition: object subject to being navigated or tracked
+          language_code: eng
+          notes:
+            - >-
+              Includes pedestrians. See ISO 14825. In this International
+              Standard, vehicle can be replaced by traveller without any change
+              of intent.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19133:2005'
+            link: 'https://www.iso.org/standard/32551.html'
+          date_accepted: 2005-10-15T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: vehicle
+              normative_status: preferred
+            - designation: traveller
+              type: expression
+        parents: []
+        timeCreated: 2005-10-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+ara:
+  id: 745
+  definition: كائن معرض لأن يكون هدفا للملاحة أو المتابعة والرصد
+  language_code: ara
+  notes:
+    - >-
+      يشمل المشاة ؛ أنظر المقياس آيزو 14825. في هذا المقياس الدولي ، يمكن
+      استبدال مصطلح "مركبة" بمصطلح "متنقل" دون أن يؤدي ذلك إلى تغيير المعنى.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19133:2005'
+    link: 'https://www.iso.org/standard/32551.html'
+  date_accepted: 2005-10-15T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: مركبة
+      normative_status: preferred
+    - designation: traveller
+      type: expression
+  _revisions:
+    current: 7bd18a
+    tree:
+      7bd18a:
+        object:
+          id: 745
+          definition: كائن معرض لأن يكون هدفا للملاحة أو المتابعة والرصد
+          language_code: ara
+          notes:
+            - >-
+              يشمل المشاة ؛ أنظر المقياس آيزو 14825. في هذا المقياس الدولي ،
+              يمكن استبدال مصطلح "مركبة" بمصطلح "متنقل" دون أن يؤدي ذلك إلى
+              تغيير المعنى.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19133:2005'
+            link: 'https://www.iso.org/standard/32551.html'
+          date_accepted: 2005-10-15T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: مركبة
+              normative_status: preferred
+            - designation: traveller
+              type: expression
+        parents: []
+        timeCreated: 2005-10-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+zho:
+  id: 745
+  definition: 被导航或跟踪的对象。
+  language_code: zho
+  notes:
+    - 包括行人。参见ISO 14825.在该国际标准中，车辆可被出行者代替而不改变含义。
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19133:2005'
+    link: 'https://www.iso.org/standard/32551.html'
+  date_accepted: 2005-10-15T00:00:00.000Z
+  terms:
+    - type: expression
+      designation: 车辆
+      normative_status: preferred
+    - designation: traveller
+      type: expression
+  _revisions:
+    current: 96f6d8
+    tree:
+      96f6d8:
+        object:
+          id: 745
+          definition: 被导航或跟踪的对象。
+          language_code: zho
+          notes:
+            - 包括行人。参见ISO 14825.在该国际标准中，车辆可被出行者代替而不改变含义。
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19133:2005'
+            link: 'https://www.iso.org/standard/32551.html'
+          date_accepted: 2005-10-15T00:00:00.000Z
+          terms:
+            - type: expression
+              designation: 车辆
+              normative_status: preferred
+            - designation: traveller
+              type: expression
+        parents: []
+        timeCreated: 2005-10-15T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+fin:
+  id: 745
+  definition: navigoinnin tai seurannan kohteena oleva objekti
+  language_code: fin
+  notes:
+    - >-
+      Englanninkielinen termi vehicle viittaa käsitteeseen, johon sisältyvät
+      myös jalankulkijat. Katso ISO 14825 -standardi. Tässä kansainvälisessä
+      standardissa englanninkielisiä termejä vehicle ja traveller voidaan
+      käyttää toistensa sijaan ilman, että merkitys muuttuu.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19133:2005'
+    link: 'https://www.iso.org/standard/32551.html'
+  lineage_source: 'Ei lähdettä, käännetty'
+  date_accepted: 2005-10-15T00:00:00.000Z
+  terms:
+    - type: expression
+      designation: ajoneuvo
+      normative_status: preferred
+    - designation: kulkuneuvo
+      type: expression
+  _revisions:
+    current: 9f0e5a
+    tree:
+      9f0e5a:
+        object:
+          id: 745
+          definition: navigoinnin tai seurannan kohteena oleva objekti
+          language_code: fin
+          notes:
+            - >-
+              Englanninkielinen termi vehicle viittaa käsitteeseen, johon
+              sisältyvät myös jalankulkijat. Katso ISO 14825 -standardi. Tässä
+              kansainvälisessä standardissa englanninkielisiä termejä vehicle ja
+              traveller voidaan käyttää toistensa sijaan ilman, että merkitys
+              muuttuu.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19133:2005'
+            link: 'https://www.iso.org/standard/32551.html'
+          lineage_source: 'Ei lähdettä, käännetty'
+          date_accepted: 2005-10-15T00:00:00.000Z
+          terms:
+            - type: expression
+              designation: ajoneuvo
+              normative_status: preferred
+            - designation: kulkuneuvo
+              type: expression
+        parents: []
+        timeCreated: 2005-10-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+fra:
+  id: 745
+  definition: objet soumis à la navigation ou au suivi
+  language_code: fra
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: ISO 19133
+    link: 'https://www.iso.org/standard/32551.html'
+  lineage_source: ''
+  date_accepted: 2005-10-15T00:00:00.000Z
+  terms:
+    - type: expression
+      designation: véhicule
+      normative_status: preferred
+    - designation: traveller
+      type: expression
+  _revisions:
+    current: 27cf8d
+    tree:
+      27cf8d:
+        object:
+          id: 745
+          definition: objet soumis à la navigation ou au suivi
+          language_code: fra
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: ISO 19133
+            link: 'https://www.iso.org/standard/32551.html'
+          lineage_source: ''
+          date_accepted: 2005-10-15T00:00:00.000Z
+          terms:
+            - type: expression
+              designation: véhicule
+              normative_status: preferred
+            - designation: traveller
+              type: expression
+        parents: []
+        timeCreated: 2005-10-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+deu:
+  id: 745
+  language_code: deu
+  notes:
+    - >-
+      Includes pedestrians. See ISO 14825. In this International Standard,
+      vehicle can be replaced by traveller without any change of intent.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19133:2005'
+    link: 'https://www.iso.org/standard/32551.html'
+  date_accepted: 2005-10-15T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: zu navigierendes Fahrzeug
+      normative_status: preferred
+    - designation: traveller
+      type: expression
+  _revisions:
+    current: 025cd9
+    tree:
+      025cd9:
+        object:
+          id: 745
+          language_code: deu
+          notes:
+            - >-
+              Includes pedestrians. See ISO 14825. In this International
+              Standard, vehicle can be replaced by traveller without any change
+              of intent.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19133:2005'
+            link: 'https://www.iso.org/standard/32551.html'
+          date_accepted: 2005-10-15T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: zu navigierendes Fahrzeug
+              normative_status: preferred
+            - designation: traveller
+              type: expression
+        parents: []
+        timeCreated: 2005-10-15T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+kor:
+  id: 745
+  definition: 내비게이션 또는 추적될 수 있는 객체(여행자와 비교)
+  language_code: kor
+  notes:
+    - '보행자를 포함한다. KS X ISO 14825를 참고하라. 본 표준에서는 어떠한 의도 변경 없이, 차량이 여행자로 대체될 수 있다.'
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19133:2005'
+    link: 'https://www.iso.org/standard/32551.html'
+  lineage_source: KS X ISO 19133
+  date_accepted: 2006-12-01T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: 차량
+      normative_status: preferred
+  _revisions:
+    current: 53eff7
+    tree:
+      53eff7:
+        object:
+          id: 745
+          definition: 내비게이션 또는 추적될 수 있는 객체(여행자와 비교)
+          language_code: kor
+          notes:
+            - >-
+              보행자를 포함한다. KS X ISO 14825를 참고하라. 본 표준에서는 어떠한 의도 변경 없이, 차량이 여행자로
+              대체될 수 있다.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19133:2005'
+            link: 'https://www.iso.org/standard/32551.html'
+          lineage_source: KS X ISO 19133
+          date_accepted: 2006-12-01T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: 차량
+              normative_status: preferred
+        parents: []
+        timeCreated: 2006-12-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+msa:
+  id: 745
+  definition: >-
+    mesin, biasanya dengan roda dan enjin, digunakan untuk mengangkut orang atau
+    barangan di darat
+  language_code: msa
+  notes:
+    - >-
+      Includes pedestrians. See ISO 14825. In this International Standard,
+      vehicle can be replaced by traveller without any change of intent.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19133:2005'
+    link: 'https://www.iso.org/standard/32551.html'
+  date_accepted: 2005-10-15T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: kenderaan
+      normative_status: preferred
+    - designation: traveller
+      type: expression
+  _revisions:
+    current: 4e7ab2
+    tree:
+      4e7ab2:
+        object:
+          id: 745
+          definition: >-
+            mesin, biasanya dengan roda dan enjin, digunakan untuk mengangkut
+            orang atau barangan di darat
+          language_code: msa
+          notes:
+            - >-
+              Includes pedestrians. See ISO 14825. In this International
+              Standard, vehicle can be replaced by traveller without any change
+              of intent.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19133:2005'
+            link: 'https://www.iso.org/standard/32551.html'
+          date_accepted: 2005-10-15T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: kenderaan
+              normative_status: preferred
+            - designation: traveller
+              type: expression
+        parents: []
+        timeCreated: 2005-10-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 745
+  definition: 'объект, который может быть предметом навигации или слежения'
+  language_code: rus
+  notes:
+    - >-
+      Включает в себя и пешеходов. См. ISO 14825. В данном международном
+      стандарте  понятие «транспортное средство» может быть заменено на понятие
+      «пешеход» без искажения смысла
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19133:2005'
+    link: 'https://www.iso.org/standard/32551.html'
+  lineage_source: Internet
+  date_accepted: 2005-10-15T00:00:00.000Z
+  terms:
+    - type: expression
+      designation: транспортное средство
+      normative_status: preferred
+    - designation: участник дорожного движения
+      type: expression
+  _revisions:
+    current: c85c4a
+    tree:
+      c85c4a:
+        object:
+          id: 745
+          definition: 'объект, который может быть предметом навигации или слежения'
+          language_code: rus
+          notes:
+            - >-
+              Включает в себя и пешеходов. См. ISO 14825. В данном международном
+              стандарте  понятие «транспортное средство» может быть заменено на
+              понятие «пешеход» без искажения смысла
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19133:2005'
+            link: 'https://www.iso.org/standard/32551.html'
+          lineage_source: Internet
+          date_accepted: 2005-10-15T00:00:00.000Z
+          terms:
+            - type: expression
+              designation: транспортное средство
+              normative_status: preferred
+            - designation: участник дорожного движения
+              type: expression
+        parents: []
+        timeCreated: 2005-10-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 745
+  definition: objeto sujeto a navegación o seguimiento
+  language_code: spa
+  notes:
+    - >-
+      Incluye a peatones. Véase la Norma ISO 14825. En esta norma internacional,
+      vehículo se puede sustituir por viajero sin ningún cambio de sentido
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19133:2005'
+    link: 'https://www.iso.org/standard/32551.html'
+  date_accepted: 2005-10-15T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: vehículo
+      normative_status: preferred
+    - designation: viajero
+      type: expression
+  _revisions:
+    current: f0f84f
+    tree:
+      f0f84f:
+        object:
+          id: 745
+          definition: objeto sujeto a navegación o seguimiento
+          language_code: spa
+          notes:
+            - >-
+              Incluye a peatones. Véase la Norma ISO 14825. En esta norma
+              internacional, vehículo se puede sustituir por viajero sin ningún
+              cambio de sentido
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19133:2005'
+            link: 'https://www.iso.org/standard/32551.html'
+          date_accepted: 2005-10-15T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: vehículo
+              normative_status: preferred
+            - designation: viajero
+              type: expression
+        parents: []
+        timeCreated: 2005-10-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+swe:
+  id: 745
+  definition: anordning avsedd för transport på marken
+  country_code: swe
+  language_code: swe
+  notes:
+    - >-
+      Includes pedestrians. See ISO 14825. In this International Standard,
+      vehicle can be replaced by traveller without any change of intent.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19133:2005'
+    link: 'https://www.iso.org/standard/32551.html'
+  lineage_source: (Type reference to national language document)
+  date_accepted: 2005-10-15T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: fordon
+      normative_status: preferred
+    - designation: traveller
+      type: expression
+  _revisions:
+    current: 3c8c15
+    tree:
+      3c8c15:
+        object:
+          id: 745
+          definition: anordning avsedd för transport på marken
+          country_code: swe
+          language_code: swe
+          notes:
+            - >-
+              Includes pedestrians. See ISO 14825. In this International
+              Standard, vehicle can be replaced by traveller without any change
+              of intent.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19133:2005'
+            link: 'https://www.iso.org/standard/32551.html'
+          lineage_source: (Type reference to national language document)
+          date_accepted: 2005-10-15T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: fordon
+              normative_status: preferred
+            - designation: traveller
+              type: expression
+        parents: []
+        timeCreated: 2005-10-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

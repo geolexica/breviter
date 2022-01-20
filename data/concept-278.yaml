@@ -1,0 +1,489 @@
+term: location based service
+termid: 278
+eng:
+  id: 278
+  abbrev: LBS
+  definition: >-
+    service whose return or other property is dependent on the location of the
+    client requesting the service or of some other thing, object or person
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19133:2005'
+    link: 'https://www.iso.org/standard/32551.html'
+  date_accepted: 2005-10-15T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: location based service
+      normative_status: preferred
+  _revisions:
+    current: 35ac0b
+    tree:
+      35ac0b:
+        object:
+          id: 278
+          abbrev: LBS
+          definition: >-
+            service whose return or other property is dependent on the location
+            of the client requesting the service or of some other thing, object
+            or person
+          language_code: eng
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19133:2005'
+            link: 'https://www.iso.org/standard/32551.html'
+          date_accepted: 2005-10-15T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: location based service
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-10-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+ara:
+  id: 278
+  abbrev: خ م
+  definition: >-
+    خدمة يعتمد عائدها أو خصائصها الأخرى على موقع العميل  طالب الخدمة أو موقع شيء
+    أو كائن أو شخص آخر
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19133:2005'
+    link: 'https://www.iso.org/standard/32551.html'
+  date_accepted: 2005-10-15T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: الخدمة المبنية على الموقع
+      normative_status: preferred
+  _revisions:
+    current: bd7046
+    tree:
+      bd7046:
+        object:
+          id: 278
+          abbrev: خ م
+          definition: >-
+            خدمة يعتمد عائدها أو خصائصها الأخرى على موقع العميل  طالب الخدمة أو
+            موقع شيء أو كائن أو شخص آخر
+          language_code: ara
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19133:2005'
+            link: 'https://www.iso.org/standard/32551.html'
+          date_accepted: 2005-10-15T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: الخدمة المبنية على الموقع
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-10-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+zho:
+  id: 278
+  abbrev: LBS
+  definition: 返回的服务或其他属性与请求服务的客户位置或者其他事物、对象或个人的位置相关。
+  language_code: zho
+  notes:
+    - 如"寻找最近的餐厅"的提问取决于提问者的位置，属于LBS范畴。
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19133:2005'
+    link: 'https://www.iso.org/standard/32551.html'
+  date_accepted: 2005-10-15T00:00:00.000Z
+  terms:
+    - type: expression
+      designation: 基于位置的服务
+      normative_status: preferred
+  _revisions:
+    current: 9dd0d5
+    tree:
+      9dd0d5:
+        object:
+          id: 278
+          abbrev: LBS
+          definition: 返回的服务或其他属性与请求服务的客户位置或者其他事物、对象或个人的位置相关。
+          language_code: zho
+          notes:
+            - 如"寻找最近的餐厅"的提问取决于提问者的位置，属于LBS范畴。
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19133:2005'
+            link: 'https://www.iso.org/standard/32551.html'
+          date_accepted: 2005-10-15T00:00:00.000Z
+          terms:
+            - type: expression
+              designation: 基于位置的服务
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-10-15T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+fin:
+  id: 278
+  definition: >-
+    palvelu, jonka palaute tai muu ominaisuus riippuu palvelulle pyynnön
+    esittävän asiakassovelluksen tai jonkin muun asian, objektin tai henkilön
+    sijainnista
+  language_code: fin
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19133:2005'
+    link: 'https://www.iso.org/standard/32551.html'
+  lineage_source: 'Sanastokeskus TSK: Paikannussanasto (TSK 30), 2002'
+  date_accepted: 2005-10-15T00:00:00.000Z
+  terms:
+    - type: expression
+      designation: paikannukseen perustuva palvelu
+      normative_status: preferred
+    - designation: paikannukseen perustuva palvelu
+      type: expression
+  _revisions:
+    current: dea470
+    tree:
+      dea470:
+        object:
+          id: 278
+          definition: >-
+            palvelu, jonka palaute tai muu ominaisuus riippuu palvelulle pyynnön
+            esittävän asiakassovelluksen tai jonkin muun asian, objektin tai
+            henkilön sijainnista
+          language_code: fin
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19133:2005'
+            link: 'https://www.iso.org/standard/32551.html'
+          lineage_source: 'Sanastokeskus TSK: Paikannussanasto (TSK 30), 2002'
+          date_accepted: 2005-10-15T00:00:00.000Z
+          terms:
+            - type: expression
+              designation: paikannukseen perustuva palvelu
+              normative_status: preferred
+            - designation: paikannukseen perustuva palvelu
+              type: expression
+        parents: []
+        timeCreated: 2005-10-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+fra:
+  id: 278
+  definition: >-
+    service dont la réponse (ou autre propriété) dépend de la localisation du
+    client (ou d'autre chose, objet ou personne) demandant le service
+  language_code: fra
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: ISO 19133
+    link: 'https://www.iso.org/standard/32551.html'
+  lineage_source: ''
+  date_accepted: 2005-10-15T00:00:00.000Z
+  terms:
+    - type: expression
+      designation: service basé sur la localisation
+      normative_status: preferred
+  _revisions:
+    current: b22f4f
+    tree:
+      b22f4f:
+        object:
+          id: 278
+          definition: >-
+            service dont la réponse (ou autre propriété) dépend de la
+            localisation du client (ou d'autre chose, objet ou personne)
+            demandant le service
+          language_code: fra
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: ISO 19133
+            link: 'https://www.iso.org/standard/32551.html'
+          lineage_source: ''
+          date_accepted: 2005-10-15T00:00:00.000Z
+          terms:
+            - type: expression
+              designation: service basé sur la localisation
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-10-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+deu:
+  id: 278
+  abbrev: LBS
+  language_code: deu
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19133:2005'
+    link: 'https://www.iso.org/standard/32551.html'
+  date_accepted: 2005-10-15T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: Location Based Service
+      normative_status: preferred
+  _revisions:
+    current: 244d08
+    tree:
+      244d08:
+        object:
+          id: 278
+          abbrev: LBS
+          language_code: deu
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19133:2005'
+            link: 'https://www.iso.org/standard/32551.html'
+          date_accepted: 2005-10-15T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: Location Based Service
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-10-15T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+kor:
+  id: 278
+  abbrev: LBS
+  definition: '서비스를 요구하는 클라이언트, 객체, 사람 등의 위치에 따라 서비스의 응답이나 기타 특성이 결정되는 서비스'
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19133:2005'
+    link: 'https://www.iso.org/standard/32551.html'
+  lineage_source: KS X ISO 19133
+  date_accepted: 2006-12-01T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: 위치 기반 서비스
+      normative_status: preferred
+  _revisions:
+    current: 20ed63
+    tree:
+      20ed63:
+        object:
+          id: 278
+          abbrev: LBS
+          definition: '서비스를 요구하는 클라이언트, 객체, 사람 등의 위치에 따라 서비스의 응답이나 기타 특성이 결정되는 서비스'
+          language_code: kor
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19133:2005'
+            link: 'https://www.iso.org/standard/32551.html'
+          lineage_source: KS X ISO 19133
+          date_accepted: 2006-12-01T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: 위치 기반 서비스
+              normative_status: preferred
+        parents: []
+        timeCreated: 2006-12-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 278
+  abbrev: LBS- сервис
+  definition: >-
+    сервис, который  дает ответ на запрос клиента, либо другого предмета,
+    объекта или лица, о его местоположении и других  обстоятельствах, зависимых
+    от его местоположения
+  language_code: rus
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19133:2005'
+    link: 'https://www.iso.org/standard/32551.html'
+  lineage_source: Internet
+  date_accepted: 2005-10-15T00:00:00.000Z
+  terms:
+    - type: expression
+      designation: 'сервис, основанный на местоположении'
+      normative_status: preferred
+  _revisions:
+    current: fe6f07
+    tree:
+      fe6f07:
+        object:
+          id: 278
+          abbrev: LBS- сервис
+          definition: >-
+            сервис, который  дает ответ на запрос клиента, либо другого
+            предмета, объекта или лица, о его местоположении и других 
+            обстоятельствах, зависимых от его местоположения
+          language_code: rus
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19133:2005'
+            link: 'https://www.iso.org/standard/32551.html'
+          lineage_source: Internet
+          date_accepted: 2005-10-15T00:00:00.000Z
+          terms:
+            - type: expression
+              designation: 'сервис, основанный на местоположении'
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-10-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 278
+  definition: >-
+    servicio cuya respuesta o alguna otra propiedad depende de la localización
+    del cliente que requiere el servicio o de la localización de cualquier otra
+    cosa, persona u objeto
+  language_code: spa
+  notes:
+    - >-
+      Consultas como "encontrar el restaurante más cercano" dependerán de la
+      localización del que pregunta y por lo tanto son apropiadas para un LBS.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19133:2005'
+    link: 'https://www.iso.org/standard/32551.html'
+  date_accepted: 2005-10-15T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: servicio basado en la localización
+      normative_status: preferred
+  _revisions:
+    current: 843b28
+    tree:
+      843b28:
+        object:
+          id: 278
+          definition: >-
+            servicio cuya respuesta o alguna otra propiedad depende de la
+            localización del cliente que requiere el servicio o de la
+            localización de cualquier otra cosa, persona u objeto
+          language_code: spa
+          notes:
+            - >-
+              Consultas como "encontrar el restaurante más cercano" dependerán
+              de la localización del que pregunta y por lo tanto son apropiadas
+              para un LBS.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19133:2005'
+            link: 'https://www.iso.org/standard/32551.html'
+          date_accepted: 2005-10-15T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: servicio basado en la localización
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-10-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+swe:
+  id: 278
+  definition: positionsbaserad tjänst
+  country_code: swe
+  language_code: swe
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19133:2005'
+    link: 'https://www.iso.org/standard/32551.html'
+  lineage_source: (Type reference to national language document)
+  date_accepted: 2005-10-15T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: positionsbaserad tjänst
+      normative_status: preferred
+  _revisions:
+    current: 5f884c
+    tree:
+      5f884c:
+        object:
+          id: 278
+          definition: positionsbaserad tjänst
+          country_code: swe
+          language_code: swe
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19133:2005'
+            link: 'https://www.iso.org/standard/32551.html'
+          lineage_source: (Type reference to national language document)
+          date_accepted: 2005-10-15T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: positionsbaserad tjänst
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-10-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

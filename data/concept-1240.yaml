@@ -1,0 +1,213 @@
+term: necessary
+termid: 1240
+eng:
+  id: 1240
+  definition: >-
+    capable of recognizing and properly acting upon all legitimate requests, as
+    defined by the requirements of the system
+  language_code: eng
+  notes:
+    - >-
+      All aspects of a DRM system are necessary if they do not prevent
+      legitimate requests from execution.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19153:2014'
+    clause: '4.33'
+    link: 'https://www.iso.org/standard/32571.html'
+  date_accepted: 2014-02-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: necessary
+      normative_status: preferred
+  _revisions:
+    current: 0d91f7
+    tree:
+      0d91f7:
+        object:
+          id: 1240
+          definition: >-
+            capable of recognizing and properly acting upon all legitimate
+            requests, as defined by the requirements of the system
+          language_code: eng
+          notes:
+            - >-
+              All aspects of a DRM system are necessary if they do not prevent
+              legitimate requests from execution.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19153:2014'
+            clause: '4.33'
+            link: 'https://www.iso.org/standard/32571.html'
+          date_accepted: 2014-02-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: necessary
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+kor:
+  id: 1240
+  definition: '시스템의 요구조건에 정의된 바와 같이, 모든 종류의 타당한 요구에 의거해 이를 인지하고 적절히 행동할 수 있는 것'
+  language_code: kor
+  notes:
+    - >-
+      All aspects of a DRM system are necessary if they do not prevent
+      legitimate requests from execution.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19153:2014'
+    clause: '4.33'
+    link: 'https://www.iso.org/standard/32571.html'
+  date_accepted: 2014-02-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: 필연성
+      normative_status: preferred
+  _revisions:
+    current: 85753c
+    tree:
+      85753c:
+        object:
+          id: 1240
+          definition: '시스템의 요구조건에 정의된 바와 같이, 모든 종류의 타당한 요구에 의거해 이를 인지하고 적절히 행동할 수 있는 것'
+          language_code: kor
+          notes:
+            - >-
+              All aspects of a DRM system are necessary if they do not prevent
+              legitimate requests from execution.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19153:2014'
+            clause: '4.33'
+            link: 'https://www.iso.org/standard/32571.html'
+          date_accepted: 2014-02-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: 필연성
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 1240
+  definition: >-
+    способность распознавать и надлежащим образом реагировать на все допустимые
+    запросы, определяемые требованиями системы
+  language_code: rus
+  notes:
+    - >-
+      Все аспекты системы DRM необходимы, если они не препятствуют выполнению
+      законных запросов.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19153:2014'
+    clause: '4.33'
+    link: 'https://www.iso.org/standard/32571.html'
+  lineage_source: 'перевод ИСО 19153:2014'
+  date_accepted: 2014-02-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: необходимость
+      normative_status: preferred
+  _revisions:
+    current: '161414'
+    tree:
+      '161414':
+        object:
+          id: 1240
+          definition: >-
+            способность распознавать и надлежащим образом реагировать на все
+            допустимые запросы, определяемые требованиями системы
+          language_code: rus
+          notes:
+            - >-
+              Все аспекты системы DRM необходимы, если они не препятствуют
+              выполнению законных запросов.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19153:2014'
+            clause: '4.33'
+            link: 'https://www.iso.org/standard/32571.html'
+          lineage_source: 'перевод ИСО 19153:2014'
+          date_accepted: 2014-02-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: необходимость
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 1240
+  definition: >-
+    capaz de reconocer y actuar apropiadamente ante todas las solicitudes
+    legítimas, tal y como las definen los requisitos del sistema
+  language_code: spa
+  notes:
+    - >-
+      Todos los aspectos de un sistema DRM son necesarios si no evitan la
+      ejecución de solicitdes legítimas
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19153:2014'
+    clause: '4.33'
+    link: 'https://www.iso.org/standard/32571.html'
+  date_accepted: 2014-02-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: necesario
+      normative_status: preferred
+  _revisions:
+    current: '6115e5'
+    tree:
+      '6115e5':
+        object:
+          id: 1240
+          definition: >-
+            capaz de reconocer y actuar apropiadamente ante todas las
+            solicitudes legítimas, tal y como las definen los requisitos del
+            sistema
+          language_code: spa
+          notes:
+            - >-
+              Todos los aspectos de un sistema DRM son necesarios si no evitan
+              la ejecución de solicitdes legítimas
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19153:2014'
+            clause: '4.33'
+            link: 'https://www.iso.org/standard/32571.html'
+          date_accepted: 2014-02-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: necesario
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

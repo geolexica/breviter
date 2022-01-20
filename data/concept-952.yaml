@@ -1,0 +1,516 @@
+term: image-identifiable ground control point
+termid: 952
+eng:
+  id: 952
+  definition: >-
+    ground control point associated with a marker or other object on the ground
+    that can be recognized in an image
+  language_code: eng
+  notes:
+    - >-
+      The ground control point may be marked in the image, or the user may be
+      provided with an unambiguous description of the ground control point so
+      that it can be found in the image.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19130-1:2018'
+    clause: '(E), 3.52'
+    link: 'https://www.iso.org/standard/66847.html'
+  lineage_source: 'ISO/TS 19130:2010(E)'
+  lineage_source_similarity: '1'
+  date_accepted: 2010-06-15T00:00:00.000Z
+  review_date: 2018-09-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2018-09-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19130-1:2018(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO/TS 19130:2010 to ISO
+    19130-1:2018(E), 3.52. Lineage source added as ISO/TS 19130:2010(E)
+  release: '2'
+  terms:
+    - type: expression
+      designation: image-identifiable ground control point
+      normative_status: preferred
+  _revisions:
+    current: ade79a
+    tree:
+      ade79a:
+        object:
+          id: 952
+          definition: >-
+            ground control point associated with a marker or other object on the
+            ground that can be recognized in an image
+          language_code: eng
+          notes:
+            - >-
+              The ground control point may be marked in the image, or the user
+              may be provided with an unambiguous description of the ground
+              control point so that it can be found in the image.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19130-1:2018'
+            clause: '(E), 3.52'
+            link: 'https://www.iso.org/standard/66847.html'
+          lineage_source: 'ISO/TS 19130:2010(E)'
+          lineage_source_similarity: '1'
+          date_accepted: 2010-06-15T00:00:00.000Z
+          review_date: 2018-09-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2018-09-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19130-1:2018(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO/TS 19130:2010 to ISO
+            19130-1:2018(E), 3.52. Lineage source added as ISO/TS 19130:2010(E)
+          release: '2'
+          terms:
+            - type: expression
+              designation: image-identifiable ground control point
+              normative_status: preferred
+        parents: []
+        timeCreated: 2010-06-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+ara:
+  id: 952
+  definition: >-
+    نقطة ضبط أرضية مرتبطة بعلامة أو جسم آخر على الأرض يمكن التعرف عليها في
+    الصورة
+  language_code: ara
+  notes:
+    - >-
+      يمكن وضع علامة لتمييز نقطة الضبط الأرضي على الصورة ، أو يزود المستخدم بوصف
+      غير ملتبس لنقطة الضبط الأرضي حتى يجدها في الصورة.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19130-1:2018'
+    clause: '(E), 3.52'
+    link: 'https://www.iso.org/standard/66847.html'
+  lineage_source: 'ISO/TS 19130:2010(E)'
+  lineage_source_similarity: '1'
+  date_accepted: 2010-06-15T00:00:00.000Z
+  review_date: 2018-09-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2018-09-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19130-1:2018(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO/TS 19130:2010 to ISO
+    19130-1:2018(E), 3.52. Lineage source added as ISO/TS 19130:2010(E)
+  release: '2'
+  terms:
+    - type: expression
+      designation: نقطة ضبط أرضية يمكن التعرف عليها في الصورة
+      normative_status: preferred
+  _revisions:
+    current: 0938a0
+    tree:
+      0938a0:
+        object:
+          id: 952
+          definition: >-
+            نقطة ضبط أرضية مرتبطة بعلامة أو جسم آخر على الأرض يمكن التعرف عليها
+            في الصورة
+          language_code: ara
+          notes:
+            - >-
+              يمكن وضع علامة لتمييز نقطة الضبط الأرضي على الصورة ، أو يزود
+              المستخدم بوصف غير ملتبس لنقطة الضبط الأرضي حتى يجدها في الصورة.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19130-1:2018'
+            clause: '(E), 3.52'
+            link: 'https://www.iso.org/standard/66847.html'
+          lineage_source: 'ISO/TS 19130:2010(E)'
+          lineage_source_similarity: '1'
+          date_accepted: 2010-06-15T00:00:00.000Z
+          review_date: 2018-09-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2018-09-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19130-1:2018(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO/TS 19130:2010 to ISO
+            19130-1:2018(E), 3.52. Lineage source added as ISO/TS 19130:2010(E)
+          release: '2'
+          terms:
+            - type: expression
+              designation: نقطة ضبط أرضية يمكن التعرف عليها في الصورة
+              normative_status: preferred
+        parents: []
+        timeCreated: 2010-06-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+deu:
+  id: 952
+  definition: 'Passpunkt, der auf dem Bild identifiziert werden kann'
+  language_code: deu
+  notes:
+    - >-
+      The ground control point may be marked in the image, or the user may be
+      provided with an unambiguous description of the ground control point so
+      that it can be found in the image.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19130-1:2018'
+    clause: '(E), 3.52'
+    link: 'https://www.iso.org/standard/66847.html'
+  lineage_source: 'ISO/TS 19130:2010(E)'
+  lineage_source_similarity: '1'
+  date_accepted: 2010-06-15T00:00:00.000Z
+  review_date: 2018-09-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2018-09-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19130-1:2018(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO/TS 19130:2010 to ISO
+    19130-1:2018(E), 3.52. Lineage source added as ISO/TS 19130:2010(E)
+  release: '2'
+  terms:
+    - type: expression
+      designation: abgebildeter Passpunkt
+      normative_status: preferred
+  _revisions:
+    current: 4470ab
+    tree:
+      4470ab:
+        object:
+          id: 952
+          definition: 'Passpunkt, der auf dem Bild identifiziert werden kann'
+          language_code: deu
+          notes:
+            - >-
+              The ground control point may be marked in the image, or the user
+              may be provided with an unambiguous description of the ground
+              control point so that it can be found in the image.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19130-1:2018'
+            clause: '(E), 3.52'
+            link: 'https://www.iso.org/standard/66847.html'
+          lineage_source: 'ISO/TS 19130:2010(E)'
+          lineage_source_similarity: '1'
+          date_accepted: 2010-06-15T00:00:00.000Z
+          review_date: 2018-09-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2018-09-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19130-1:2018(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO/TS 19130:2010 to ISO
+            19130-1:2018(E), 3.52. Lineage source added as ISO/TS 19130:2010(E)
+          release: '2'
+          terms:
+            - type: expression
+              designation: abgebildeter Passpunkt
+              normative_status: preferred
+        parents: []
+        timeCreated: 2010-06-15T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+kor:
+  id: 952
+  definition: 영상 내에서 식별가능한 마커 또는 다른 개체와 연관된 지상 기준점
+  language_code: kor
+  notes:
+    - >-
+      The ground control point may be marked in the image, or the user may be
+      provided with an unambiguous description of the ground control point so
+      that it can be found in the image.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19130-1:2018'
+    clause: '(E), 3.52'
+    link: 'https://www.iso.org/standard/66847.html'
+  lineage_source: 'ISO/TS 19130:2010(E)'
+  lineage_source_similarity: '1'
+  date_accepted: 2010-06-15T00:00:00.000Z
+  review_date: 2018-09-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2018-09-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19130-1:2018(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO/TS 19130:2010 to ISO
+    19130-1:2018(E), 3.52. Lineage source added as ISO/TS 19130:2010(E)
+  release: '2'
+  terms:
+    - type: expression
+      designation: 영상 식별 지상기준점
+      normative_status: preferred
+  _revisions:
+    current: 22f13e
+    tree:
+      22f13e:
+        object:
+          id: 952
+          definition: 영상 내에서 식별가능한 마커 또는 다른 개체와 연관된 지상 기준점
+          language_code: kor
+          notes:
+            - >-
+              The ground control point may be marked in the image, or the user
+              may be provided with an unambiguous description of the ground
+              control point so that it can be found in the image.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19130-1:2018'
+            clause: '(E), 3.52'
+            link: 'https://www.iso.org/standard/66847.html'
+          lineage_source: 'ISO/TS 19130:2010(E)'
+          lineage_source_similarity: '1'
+          date_accepted: 2010-06-15T00:00:00.000Z
+          review_date: 2018-09-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2018-09-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19130-1:2018(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO/TS 19130:2010 to ISO
+            19130-1:2018(E), 3.52. Lineage source added as ISO/TS 19130:2010(E)
+          release: '2'
+          terms:
+            - type: expression
+              designation: 영상 식별 지상기준점
+              normative_status: preferred
+        parents: []
+        timeCreated: 2010-06-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 952
+  definition: >-
+    наземная контрольная точка, связанная с маркером или другим объектом на
+    земле, который может быть распознан на изображении
+  language_code: rus
+  notes:
+    - >-
+      наземная контрольная точка может быть отмечена на изображении или
+      пользователю может быть предоставлено однозначное описание наземной
+      контрольной точки, с тем чтобы ее можно было найти на изображении.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19130-1:2018'
+    clause: '(E), 3.52'
+    link: 'https://www.iso.org/standard/66847.html'
+  lineage_source: 'ISO/TS 19130:2010(E)'
+  lineage_source_similarity: '1'
+  date_accepted: 2010-06-15T00:00:00.000Z
+  review_date: 2018-09-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2018-09-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19130-1:2018(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO/TS 19130:2010 to ISO
+    19130-1:2018(E), 3.52. Lineage source added as ISO/TS 19130:2010(E)
+  release: '2'
+  terms:
+    - type: expression
+      designation: Опознаваемая на изображении наземная контрольная точка
+      normative_status: preferred
+  _revisions:
+    current: 246d53
+    tree:
+      246d53:
+        object:
+          id: 952
+          definition: >-
+            наземная контрольная точка, связанная с маркером или другим объектом
+            на земле, который может быть распознан на изображении
+          language_code: rus
+          notes:
+            - >-
+              наземная контрольная точка может быть отмечена на изображении или
+              пользователю может быть предоставлено однозначное описание
+              наземной контрольной точки, с тем чтобы ее можно было найти на
+              изображении.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19130-1:2018'
+            clause: '(E), 3.52'
+            link: 'https://www.iso.org/standard/66847.html'
+          lineage_source: 'ISO/TS 19130:2010(E)'
+          lineage_source_similarity: '1'
+          date_accepted: 2010-06-15T00:00:00.000Z
+          review_date: 2018-09-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2018-09-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19130-1:2018(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO/TS 19130:2010 to ISO
+            19130-1:2018(E), 3.52. Lineage source added as ISO/TS 19130:2010(E)
+          release: '2'
+          terms:
+            - type: expression
+              designation: Опознаваемая на изображении наземная контрольная точка
+              normative_status: preferred
+        parents: []
+        timeCreated: 2010-06-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 952
+  definition: >-
+    punto de control del terreno asociado con una marca u otro objeto en el
+    terreno que se puede reconocer en una imagen
+  language_code: spa
+  notes:
+    - >-
+      El punto de control del terreno se puede marcar en la imagen, o se le
+      puede proporcionar al usuario una descripción inequívoca del punto de
+      manera que pueda encontrarse en la imagen.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19130-1:2018'
+    clause: '(E), 3.52'
+    link: 'https://www.iso.org/standard/66847.html'
+  lineage_source: 'ISO/TS 19130:2010(E)'
+  lineage_source_similarity: '1'
+  date_accepted: 2010-06-15T00:00:00.000Z
+  review_date: 2018-09-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2018-09-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19130-1:2018(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO/TS 19130:2010 to ISO
+    19130-1:2018(E), 3.52. Lineage source added as ISO/TS 19130:2010(E)
+  release: '2'
+  terms:
+    - type: expression
+      designation: punto de control terrestre identificable en la imagen
+      normative_status: preferred
+  _revisions:
+    current: 2f065c
+    tree:
+      2f065c:
+        object:
+          id: 952
+          definition: >-
+            punto de control del terreno asociado con una marca u otro objeto en
+            el terreno que se puede reconocer en una imagen
+          language_code: spa
+          notes:
+            - >-
+              El punto de control del terreno se puede marcar en la imagen, o se
+              le puede proporcionar al usuario una descripción inequívoca del
+              punto de manera que pueda encontrarse en la imagen.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19130-1:2018'
+            clause: '(E), 3.52'
+            link: 'https://www.iso.org/standard/66847.html'
+          lineage_source: 'ISO/TS 19130:2010(E)'
+          lineage_source_similarity: '1'
+          date_accepted: 2010-06-15T00:00:00.000Z
+          review_date: 2018-09-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2018-09-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19130-1:2018(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO/TS 19130:2010 to ISO
+            19130-1:2018(E), 3.52. Lineage source added as ISO/TS 19130:2010(E)
+          release: '2'
+          terms:
+            - type: expression
+              designation: punto de control terrestre identificable en la imagen
+              normative_status: preferred
+        parents: []
+        timeCreated: 2010-06-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+swe:
+  id: 952
+  definition: markerade objekt som kan ses på en bild
+  country_code: swe
+  language_code: swe
+  notes:
+    - >-
+      The ground control point may be marked in the image, or the user may be
+      provided with an unambiguous description of the ground control point so
+      that it can be found in the image.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19130-1:2018'
+    clause: '(E), 3.52'
+    link: 'https://www.iso.org/standard/66847.html'
+  lineage_source: 'ISO/TS 19130:2010(E)'
+  lineage_source_similarity: '1'
+  date_accepted: 2010-06-15T00:00:00.000Z
+  review_date: 2018-09-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2018-09-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19130-1:2018(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO/TS 19130:2010 to ISO
+    19130-1:2018(E), 3.52. Lineage source added as ISO/TS 19130:2010(E)
+  release: '2'
+  terms:
+    - type: expression
+      designation: markstödpunkt
+      normative_status: preferred
+  _revisions:
+    current: fb2376
+    tree:
+      fb2376:
+        object:
+          id: 952
+          definition: markerade objekt som kan ses på en bild
+          country_code: swe
+          language_code: swe
+          notes:
+            - >-
+              The ground control point may be marked in the image, or the user
+              may be provided with an unambiguous description of the ground
+              control point so that it can be found in the image.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19130-1:2018'
+            clause: '(E), 3.52'
+            link: 'https://www.iso.org/standard/66847.html'
+          lineage_source: 'ISO/TS 19130:2010(E)'
+          lineage_source_similarity: '1'
+          date_accepted: 2010-06-15T00:00:00.000Z
+          review_date: 2018-09-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2018-09-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19130-1:2018(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO/TS 19130:2010 to ISO
+            19130-1:2018(E), 3.52. Lineage source added as ISO/TS 19130:2010(E)
+          release: '2'
+          terms:
+            - type: expression
+              designation: markstödpunkt
+              normative_status: preferred
+        parents: []
+        timeCreated: 2010-06-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

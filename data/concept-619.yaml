@@ -1,0 +1,583 @@
+term: pixel
+termid: 619
+eng:
+  id: 619
+  definition: smallest element of a digital image to which attributes are assigned
+  language_code: eng
+  notes:
+    - This term originated as a contraction of "picture element"
+    - Related to the concept of a grid cell
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19101-2:2018'
+    clause: '(E), 3.28'
+    link: 'https://www.iso.org/standard/69325.html'
+  lineage_source: 'ISO/TS 19101-2:2008(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2008-06-01T00:00:00.000Z
+  review_date: 2018-05-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2018-05-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19101-2:2018(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO/TS 19101-2:2008 to ISO
+    19101-2:2018(E), 3.28. Lineage source added as ISO/TS 19101-2:2008(E)
+  release: '2'
+  terms:
+    - type: expression
+      designation: pixel
+      normative_status: preferred
+  _revisions:
+    current: 39e56d
+    tree:
+      39e56d:
+        object:
+          id: 619
+          definition: smallest element of a digital image to which attributes are assigned
+          language_code: eng
+          notes:
+            - This term originated as a contraction of "picture element"
+            - Related to the concept of a grid cell
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19101-2:2018'
+            clause: '(E), 3.28'
+            link: 'https://www.iso.org/standard/69325.html'
+          lineage_source: 'ISO/TS 19101-2:2008(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2008-06-01T00:00:00.000Z
+          review_date: 2018-05-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2018-05-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19101-2:2018(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO/TS 19101-2:2008 to ISO
+            19101-2:2018(E), 3.28. Lineage source added as ISO/TS
+            19101-2:2008(E)
+          release: '2'
+          terms:
+            - type: expression
+              designation: pixel
+              normative_status: preferred
+        parents: []
+        timeCreated: 2008-06-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+ara:
+  id: 619
+  definition: أصغر عنصرفي  الصورة الرقمية الذي تعين الخصائص له
+  language_code: ara
+  notes:
+    - أصل المصطلح أنه الصيغة المختصرة لعبارة"عنصر صورة" picture element
+    - تتعلق بمفهوم الخلية الشبكية
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19101-2:2018'
+    clause: '(E), 3.28'
+    link: 'https://www.iso.org/standard/69325.html'
+  lineage_source: 'ISO/TS 19101-2:2008(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2008-06-01T00:00:00.000Z
+  review_date: 2018-05-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2018-05-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19101-2:2018(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO/TS 19101-2:2008 to ISO
+    19101-2:2018(E), 3.28. Lineage source added as ISO/TS 19101-2:2008(E)
+  release: '2'
+  terms:
+    - type: expression
+      designation: بكسل
+      normative_status: preferred
+  _revisions:
+    current: 4d86bf
+    tree:
+      4d86bf:
+        object:
+          id: 619
+          definition: أصغر عنصرفي  الصورة الرقمية الذي تعين الخصائص له
+          language_code: ara
+          notes:
+            - أصل المصطلح أنه الصيغة المختصرة لعبارة"عنصر صورة" picture element
+            - تتعلق بمفهوم الخلية الشبكية
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19101-2:2018'
+            clause: '(E), 3.28'
+            link: 'https://www.iso.org/standard/69325.html'
+          lineage_source: 'ISO/TS 19101-2:2008(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2008-06-01T00:00:00.000Z
+          review_date: 2018-05-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2018-05-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19101-2:2018(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO/TS 19101-2:2008 to ISO
+            19101-2:2018(E), 3.28. Lineage source added as ISO/TS
+            19101-2:2008(E)
+          release: '2'
+          terms:
+            - type: expression
+              designation: بكسل
+              normative_status: preferred
+        parents: []
+        timeCreated: 2008-06-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+deu:
+  id: 619
+  definition: >-
+    kleinste Einheit eines digitalen Bildes, der Attribute zugeordnet werden
+    können
+  language_code: deu
+  notes:
+    - This term originated as a contraction of "picture element"
+    - Related to the concept of a grid cell
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19101-2:2018'
+    clause: '(E), 3.28'
+    link: 'https://www.iso.org/standard/69325.html'
+  lineage_source: 'ISO/TS 19101-2:2008(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2008-06-01T00:00:00.000Z
+  review_date: 2018-05-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2018-05-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19101-2:2018(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO/TS 19101-2:2008 to ISO
+    19101-2:2018(E), 3.28. Lineage source added as ISO/TS 19101-2:2008(E)
+  release: '2'
+  terms:
+    - type: expression
+      designation: Pixel
+      normative_status: preferred
+  _revisions:
+    current: aa73c6
+    tree:
+      aa73c6:
+        object:
+          id: 619
+          definition: >-
+            kleinste Einheit eines digitalen Bildes, der Attribute zugeordnet
+            werden können
+          language_code: deu
+          notes:
+            - This term originated as a contraction of "picture element"
+            - Related to the concept of a grid cell
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19101-2:2018'
+            clause: '(E), 3.28'
+            link: 'https://www.iso.org/standard/69325.html'
+          lineage_source: 'ISO/TS 19101-2:2008(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2008-06-01T00:00:00.000Z
+          review_date: 2018-05-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2018-05-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19101-2:2018(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO/TS 19101-2:2008 to ISO
+            19101-2:2018(E), 3.28. Lineage source added as ISO/TS
+            19101-2:2008(E)
+          release: '2'
+          terms:
+            - type: expression
+              designation: Pixel
+              normative_status: preferred
+        parents: []
+        timeCreated: 2008-06-01T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+kor:
+  id: 619
+  definition: 속성값이 할당된 디지털 영상의 최소단위의 요소
+  language_code: kor
+  notes:
+    - This term originated as a contraction of "picture element"
+    - Related to the concept of a grid cell
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19101-2:2018'
+    clause: '(E), 3.28'
+    link: 'https://www.iso.org/standard/69325.html'
+  lineage_source: 'ISO/TS 19101-2:2008(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2008-06-01T00:00:00.000Z
+  review_date: 2018-05-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2018-05-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19101-2:2018(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO/TS 19101-2:2008 to ISO
+    19101-2:2018(E), 3.28. Lineage source added as ISO/TS 19101-2:2008(E)
+  release: '2'
+  terms:
+    - type: expression
+      designation: 픽셀
+      normative_status: preferred
+  _revisions:
+    current: 1a2c84
+    tree:
+      1a2c84:
+        object:
+          id: 619
+          definition: 속성값이 할당된 디지털 영상의 최소단위의 요소
+          language_code: kor
+          notes:
+            - This term originated as a contraction of "picture element"
+            - Related to the concept of a grid cell
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19101-2:2018'
+            clause: '(E), 3.28'
+            link: 'https://www.iso.org/standard/69325.html'
+          lineage_source: 'ISO/TS 19101-2:2008(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2008-06-01T00:00:00.000Z
+          review_date: 2018-05-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2018-05-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19101-2:2018(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO/TS 19101-2:2008 to ISO
+            19101-2:2018(E), 3.28. Lineage source added as ISO/TS
+            19101-2:2008(E)
+          release: '2'
+          terms:
+            - type: expression
+              designation: 픽셀
+              normative_status: preferred
+        parents: []
+        timeCreated: 2008-06-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+msa:
+  id: 619
+  definition: >-
+    Singkatan kepada picture element (unsur gambar). Unsur gambar yang terkecil
+    yang skrin monitor boleh paparkan. Lokasi piksel ditentukan oleh koordinat
+    (baris, lajur). Resolusi imej yang tinggi mempunyai bilangan piksel yang
+    banyak. Contohnya, skrin monitor yang beresolusi 1024 x 768 mempunyai
+    786,432 piksel iaitu 1024 lajur piksel dan 768 baris piksel. Jika skrin
+    monokrom satu piksel dibentuk oleh satu dot. Jika skrin warna satu piksel
+    dibentuk oleh tiga dot (merah, hijau, biru).
+  language_code: msa
+  notes:
+    - This term originated as a contraction of "picture element"
+    - Related to the concept of a grid cell
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19101-2:2018'
+    clause: '(E), 3.28'
+    link: 'https://www.iso.org/standard/69325.html'
+  lineage_source: 'ISO/TS 19101-2:2008(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2008-06-01T00:00:00.000Z
+  review_date: 2018-05-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2018-05-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19101-2:2018(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO/TS 19101-2:2008 to ISO
+    19101-2:2018(E), 3.28. Lineage source added as ISO/TS 19101-2:2008(E)
+  release: '2'
+  terms:
+    - type: expression
+      designation: piksel
+      normative_status: preferred
+  _revisions:
+    current: 6afe75
+    tree:
+      6afe75:
+        object:
+          id: 619
+          definition: >-
+            Singkatan kepada picture element (unsur gambar). Unsur gambar yang
+            terkecil yang skrin monitor boleh paparkan. Lokasi piksel ditentukan
+            oleh koordinat (baris, lajur). Resolusi imej yang tinggi mempunyai
+            bilangan piksel yang banyak. Contohnya, skrin monitor yang
+            beresolusi 1024 x 768 mempunyai 786,432 piksel iaitu 1024 lajur
+            piksel dan 768 baris piksel. Jika skrin monokrom satu piksel
+            dibentuk oleh satu dot. Jika skrin warna satu piksel dibentuk oleh
+            tiga dot (merah, hijau, biru).
+          language_code: msa
+          notes:
+            - This term originated as a contraction of "picture element"
+            - Related to the concept of a grid cell
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19101-2:2018'
+            clause: '(E), 3.28'
+            link: 'https://www.iso.org/standard/69325.html'
+          lineage_source: 'ISO/TS 19101-2:2008(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2008-06-01T00:00:00.000Z
+          review_date: 2018-05-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2018-05-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19101-2:2018(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO/TS 19101-2:2008 to ISO
+            19101-2:2018(E), 3.28. Lineage source added as ISO/TS
+            19101-2:2008(E)
+          release: '2'
+          terms:
+            - type: expression
+              designation: piksel
+              normative_status: preferred
+        parents: []
+        timeCreated: 2008-06-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 619
+  definition: 'наименьший элемент цифрового изображения, которому присвоены атрибуты'
+  language_code: rus
+  notes:
+    - >-
+      этот термин возник как сокращение от  "элемента изображения" ("picture
+      element")
+    - связано с концепцией ячейки сетки
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19101-2:2018'
+    clause: '(E), 3.28'
+    link: 'https://www.iso.org/standard/69325.html'
+  lineage_source: 'ISO/TS 19101-2:2008(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2008-06-01T00:00:00.000Z
+  review_date: 2018-05-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2018-05-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19101-2:2018(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO/TS 19101-2:2008 to ISO
+    19101-2:2018(E), 3.28. Lineage source added as ISO/TS 19101-2:2008(E)
+  release: '2'
+  terms:
+    - type: expression
+      designation: пиксель
+      normative_status: preferred
+  _revisions:
+    current: 58ea3c
+    tree:
+      58ea3c:
+        object:
+          id: 619
+          definition: >-
+            наименьший элемент цифрового изображения, которому присвоены
+            атрибуты
+          language_code: rus
+          notes:
+            - >-
+              этот термин возник как сокращение от  "элемента изображения"
+              ("picture element")
+            - связано с концепцией ячейки сетки
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19101-2:2018'
+            clause: '(E), 3.28'
+            link: 'https://www.iso.org/standard/69325.html'
+          lineage_source: 'ISO/TS 19101-2:2008(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2008-06-01T00:00:00.000Z
+          review_date: 2018-05-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2018-05-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19101-2:2018(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO/TS 19101-2:2008 to ISO
+            19101-2:2018(E), 3.28. Lineage source added as ISO/TS
+            19101-2:2008(E)
+          release: '2'
+          terms:
+            - type: expression
+              designation: пиксель
+              normative_status: preferred
+        parents: []
+        timeCreated: 2008-06-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 619
+  definition: elemento más pequeño de una imagen digital al cual se asignan atributos
+  language_code: spa
+  notes:
+    - >-
+      El término original es una contracción de "elemento de imagen" (picture
+      element)
+    - Relacionado con el concepto de celda de una malla
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19101-2:2018'
+    clause: '(E), 3.28'
+    link: 'https://www.iso.org/standard/69325.html'
+  lineage_source: 'ISO/TS 19101-2:2008(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2008-06-01T00:00:00.000Z
+  review_date: 2018-05-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2018-05-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19101-2:2018(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO/TS 19101-2:2008 to ISO
+    19101-2:2018(E), 3.28. Lineage source added as ISO/TS 19101-2:2008(E)
+  release: '2'
+  terms:
+    - type: expression
+      designation: píxel
+      normative_status: preferred
+  _revisions:
+    current: 0f48e8
+    tree:
+      0f48e8:
+        object:
+          id: 619
+          definition: >-
+            elemento más pequeño de una imagen digital al cual se asignan
+            atributos
+          language_code: spa
+          notes:
+            - >-
+              El término original es una contracción de "elemento de imagen"
+              (picture element)
+            - Relacionado con el concepto de celda de una malla
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19101-2:2018'
+            clause: '(E), 3.28'
+            link: 'https://www.iso.org/standard/69325.html'
+          lineage_source: 'ISO/TS 19101-2:2008(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2008-06-01T00:00:00.000Z
+          review_date: 2018-05-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2018-05-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19101-2:2018(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO/TS 19101-2:2008 to ISO
+            19101-2:2018(E), 3.28. Lineage source added as ISO/TS
+            19101-2:2008(E)
+          release: '2'
+          terms:
+            - type: expression
+              designation: píxel
+              normative_status: preferred
+        parents: []
+        timeCreated: 2008-06-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+swe:
+  id: 619
+  definition: yttäckande minsta beståndsdel i en rasterbild
+  country_code: swe
+  language_code: swe
+  notes:
+    - This term originated as a contraction of "picture element"
+    - Related to the concept of a grid cell
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19101-2:2018'
+    clause: '(E), 3.28'
+    link: 'https://www.iso.org/standard/69325.html'
+  lineage_source: 'ISO/TS 19101-2:2008(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2008-06-01T00:00:00.000Z
+  review_date: 2018-05-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2018-05-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19101-2:2018(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO/TS 19101-2:2008 to ISO
+    19101-2:2018(E), 3.28. Lineage source added as ISO/TS 19101-2:2008(E)
+  release: '2'
+  terms:
+    - type: expression
+      designation: |-
+        pixel
+        bildpunkt
+      normative_status: preferred
+  _revisions:
+    current: 91f65c
+    tree:
+      91f65c:
+        object:
+          id: 619
+          definition: yttäckande minsta beståndsdel i en rasterbild
+          country_code: swe
+          language_code: swe
+          notes:
+            - This term originated as a contraction of "picture element"
+            - Related to the concept of a grid cell
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19101-2:2018'
+            clause: '(E), 3.28'
+            link: 'https://www.iso.org/standard/69325.html'
+          lineage_source: 'ISO/TS 19101-2:2008(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2008-06-01T00:00:00.000Z
+          review_date: 2018-05-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2018-05-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19101-2:2018(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO/TS 19101-2:2008 to ISO
+            19101-2:2018(E), 3.28. Lineage source added as ISO/TS
+            19101-2:2008(E)
+          release: '2'
+          terms:
+            - type: expression
+              designation: |-
+                pixel
+                bildpunkt
+              normative_status: preferred
+        parents: []
+        timeCreated: 2008-06-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

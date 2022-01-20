@@ -1,0 +1,530 @@
+term: Thiessen polygon
+termid: 460
+eng:
+  id: 460
+  definition: >-
+    polygon that encloses one of a set of points on a plane so as to include all
+    direct positions that are closer to that point than to any other point in
+    the set
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19123:2005'
+    link: 'https://www.iso.org/standard/40121.html'
+  date_accepted: 2005-08-15T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: Thiessen polygon
+      normative_status: preferred
+  _revisions:
+    current: 570a6b
+    tree:
+      570a6b:
+        object:
+          id: 460
+          definition: >-
+            polygon that encloses one of a set of points on a plane so as to
+            include all direct positions that are closer to that point than to
+            any other point in the set
+          language_code: eng
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19123:2005'
+            link: 'https://www.iso.org/standard/40121.html'
+          date_accepted: 2005-08-15T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: Thiessen polygon
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-08-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+ara:
+  id: 460
+  definition: >-
+    مضلع يطوق واحدة من مجموعة نقط على سطح مستو بغرض احتواء جميع المواقع المباشرة
+    الأكثر قربا من النقطة المذكورة من أي نقطة أخرى في المجموعة
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19123:2005'
+    link: 'https://www.iso.org/standard/40121.html'
+  date_accepted: 2005-08-15T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: مضلع " ثيسين"
+      normative_status: preferred
+  _revisions:
+    current: 0d2528
+    tree:
+      0d2528:
+        object:
+          id: 460
+          definition: >-
+            مضلع يطوق واحدة من مجموعة نقط على سطح مستو بغرض احتواء جميع المواقع
+            المباشرة الأكثر قربا من النقطة المذكورة من أي نقطة أخرى في المجموعة
+          language_code: ara
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19123:2005'
+            link: 'https://www.iso.org/standard/40121.html'
+          date_accepted: 2005-08-15T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: مضلع " ثيسين"
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-08-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+zho:
+  id: 460
+  definition: 包围平面上点集中的一个点的多边形，它包括了距离这个点比距离点集中其他点都近的所有直接位置。
+  language_code: zho
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19123:2005'
+    link: 'https://www.iso.org/standard/40121.html'
+  date_accepted: 2005-08-15T00:00:00.000Z
+  terms:
+    - type: expression
+      designation: 泰森多边形
+      normative_status: preferred
+  _revisions:
+    current: 1c604b
+    tree:
+      1c604b:
+        object:
+          id: 460
+          definition: 包围平面上点集中的一个点的多边形，它包括了距离这个点比距离点集中其他点都近的所有直接位置。
+          language_code: zho
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19123:2005'
+            link: 'https://www.iso.org/standard/40121.html'
+          date_accepted: 2005-08-15T00:00:00.000Z
+          terms:
+            - type: expression
+              designation: 泰森多边形
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-08-15T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+fin:
+  id: 460
+  definition: >-
+    monikulmio, joka rajaa tasolla sijaitsevista pisteistä yhden pisteen siten,
+    että monikulmio kattaa kaikki ne suorat sijainnit, jotka sijaitsevat
+    lähempänä kyseistä pistettä kuin joukon muita pisteitä
+  language_code: fin
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19123:2005'
+    link: 'https://www.iso.org/standard/40121.html'
+  lineage_source: Internet
+  date_accepted: 2005-08-15T00:00:00.000Z
+  terms:
+    - type: expression
+      designation: Thiessenin monikulmio
+      normative_status: preferred
+  _revisions:
+    current: fdaa91
+    tree:
+      fdaa91:
+        object:
+          id: 460
+          definition: >-
+            monikulmio, joka rajaa tasolla sijaitsevista pisteistä yhden pisteen
+            siten, että monikulmio kattaa kaikki ne suorat sijainnit, jotka
+            sijaitsevat lähempänä kyseistä pistettä kuin joukon muita pisteitä
+          language_code: fin
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19123:2005'
+            link: 'https://www.iso.org/standard/40121.html'
+          lineage_source: Internet
+          date_accepted: 2005-08-15T00:00:00.000Z
+          terms:
+            - type: expression
+              designation: Thiessenin monikulmio
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-08-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+fra:
+  id: 460
+  definition: >-
+    polygone comportant un ensemble de points (parmi tous les ensembles de
+    points) sur un plan de façon à inclure toutes les positions directes qui
+    sont plus proches de ce point que de tout autre point de l'ensemble
+  language_code: fra
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: ISO 19123
+    link: 'https://www.iso.org/standard/40121.html'
+  lineage_source: ''
+  date_accepted: 2005-08-15T00:00:00.000Z
+  terms:
+    - type: expression
+      designation: polygone de Thiessen
+      normative_status: preferred
+  _revisions:
+    current: e56aea
+    tree:
+      e56aea:
+        object:
+          id: 460
+          definition: >-
+            polygone comportant un ensemble de points (parmi tous les ensembles
+            de points) sur un plan de façon à inclure toutes les positions
+            directes qui sont plus proches de ce point que de tout autre point
+            de l'ensemble
+          language_code: fra
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: ISO 19123
+            link: 'https://www.iso.org/standard/40121.html'
+          lineage_source: ''
+          date_accepted: 2005-08-15T00:00:00.000Z
+          terms:
+            - type: expression
+              designation: polygone de Thiessen
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-08-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+kor:
+  id: 460
+  definition: 집합 내의 어떤 직접 위치에서도 다각형 내부에 위치한 점까지의 거리가 다른 다각형 내에 위치한 거리보다 가까운 다각형
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19123:2005'
+    link: 'https://www.iso.org/standard/40121.html'
+  lineage_source: KS X ISO 19123
+  date_accepted: 2007-11-01T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: 티센 다각형
+      normative_status: preferred
+  _revisions:
+    current: 8f4f89
+    tree:
+      8f4f89:
+        object:
+          id: 460
+          definition: 집합 내의 어떤 직접 위치에서도 다각형 내부에 위치한 점까지의 거리가 다른 다각형 내에 위치한 거리보다 가까운 다각형
+          language_code: kor
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19123:2005'
+            link: 'https://www.iso.org/standard/40121.html'
+          lineage_source: KS X ISO 19123
+          date_accepted: 2007-11-01T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: 티센 다각형
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-11-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+msa:
+  id: 460
+  definition: >-
+    Poligon yang terbentuk oleh pembahagi dua-sama tegak lurus beberapa garis
+    lurus yang menghubungkan stesen curahan hujan yang berdampingan
+  language_code: msa
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19123:2005'
+    link: 'https://www.iso.org/standard/40121.html'
+  lineage_source: 'Istilah ukur dan Pemetaan (DBP, 1992)'
+  date_accepted: 2005-08-15T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: poligon Thiessen
+      normative_status: preferred
+  _revisions:
+    current: cc7e5f
+    tree:
+      cc7e5f:
+        object:
+          id: 460
+          definition: >-
+            Poligon yang terbentuk oleh pembahagi dua-sama tegak lurus beberapa
+            garis lurus yang menghubungkan stesen curahan hujan yang
+            berdampingan
+          language_code: msa
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19123:2005'
+            link: 'https://www.iso.org/standard/40121.html'
+          lineage_source: 'Istilah ukur dan Pemetaan (DBP, 1992)'
+          date_accepted: 2005-08-15T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: poligon Thiessen
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-08-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+pol:
+  id: 460
+  definition: >-
+    wielobok, który otacza jeden z punktów zbioru na płaszczyźnie w taki sposób,
+    że obejmuje wszystkie położenia bezpośrednie, które są bliższe temu punktowi
+    niż dowolnemu innemu punktowi z tego zbioru
+  language_code: pol
+  notes: []
+  examples: []
+  authoritative_source:
+    ref: 'ISO 19123:2005'
+    link: 'https://www.iso.org/standard/40121.html'
+  lineage_source: PN-EN ISO 19123
+  date_accepted: 2005-08-15T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: wielobok Thiessena
+      normative_status: preferred
+  _revisions:
+    current: 0b155e
+    tree:
+      0b155e:
+        object:
+          id: 460
+          definition: >-
+            wielobok, który otacza jeden z punktów zbioru na płaszczyźnie w taki
+            sposób, że obejmuje wszystkie położenia bezpośrednie, które są
+            bliższe temu punktowi niż dowolnemu innemu punktowi z tego zbioru
+          language_code: pol
+          notes: []
+          examples: []
+          authoritative_source:
+            ref: 'ISO 19123:2005'
+            link: 'https://www.iso.org/standard/40121.html'
+          lineage_source: PN-EN ISO 19123
+          date_accepted: 2005-08-15T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: wielobok Thiessena
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-08-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 460
+  definition: >-
+    полигон, окружающий одну точку из некоторого плоского множества и содержащий
+    все позиции, расположенные ближе к данной точке, чем к любой иной точке
+    указанного множества
+  language_code: rus
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19123:2005'
+    link: 'https://www.iso.org/standard/40121.html'
+  lineage_source: Internet
+  date_accepted: 2005-08-15T00:00:00.000Z
+  terms:
+    - type: expression
+      designation: полигон Тиссена
+      normative_status: preferred
+  _revisions:
+    current: '23e509'
+    tree:
+      '23e509':
+        object:
+          id: 460
+          definition: >-
+            полигон, окружающий одну точку из некоторого плоского множества и
+            содержащий все позиции, расположенные ближе к данной точке, чем к
+            любой иной точке указанного множества
+          language_code: rus
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19123:2005'
+            link: 'https://www.iso.org/standard/40121.html'
+          lineage_source: Internet
+          date_accepted: 2005-08-15T00:00:00.000Z
+          terms:
+            - type: expression
+              designation: полигон Тиссена
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-08-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 460
+  definition: >-
+    polígono que encierra un punto de un conjunto de puntos de un plano, de
+    manera que incluye todas las posiciones directas que están más cercanas a
+    ese punto que a cualquier otro punto del conjunto
+  language_code: spa
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19123:2005'
+    link: 'https://www.iso.org/standard/40121.html'
+  date_accepted: 2005-08-15T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: polígono de Thiessen
+      normative_status: preferred
+  _revisions:
+    current: c2f534
+    tree:
+      c2f534:
+        object:
+          id: 460
+          definition: >-
+            polígono que encierra un punto de un conjunto de puntos de un plano,
+            de manera que incluye todas las posiciones directas que están más
+            cercanas a ese punto que a cualquier otro punto del conjunto
+          language_code: spa
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19123:2005'
+            link: 'https://www.iso.org/standard/40121.html'
+          date_accepted: 2005-08-15T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: polígono de Thiessen
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-08-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+swe:
+  id: 460
+  definition: >-
+    yta i form av en sluten polygon vilken innehåller en observationspunkt och
+    är utformad så att en godtycklig punkt inom ytan alltid befinner sig närmare
+    den egna ytans observationspunkt än en angränsande ytas observationspunkt
+  country_code: swe
+  language_code: swe
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19123:2005'
+    link: 'https://www.iso.org/standard/40121.html'
+  lineage_source: (Type reference to national language document)
+  date_accepted: 2005-08-15T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: Thiessenpolygon
+      normative_status: preferred
+  _revisions:
+    current: 3c1ff5
+    tree:
+      3c1ff5:
+        object:
+          id: 460
+          definition: >-
+            yta i form av en sluten polygon vilken innehåller en
+            observationspunkt och är utformad så att en godtycklig punkt inom
+            ytan alltid befinner sig närmare den egna ytans observationspunkt än
+            en angränsande ytas observationspunkt
+          country_code: swe
+          language_code: swe
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19123:2005'
+            link: 'https://www.iso.org/standard/40121.html'
+          lineage_source: (Type reference to national language document)
+          date_accepted: 2005-08-15T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: Thiessenpolygon
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-08-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

@@ -1,0 +1,223 @@
+term: feature type
+termid: 1296
+eng:
+  id: 1296
+  definition: class of features having common characteristics
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19156:2011'
+    clause: '4.7'
+    link: 'https://www.iso.org/standard/32574.html'
+  date_accepted: 2011-12-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: feature type
+      normative_status: preferred
+  _revisions:
+    current: 947f77
+    tree:
+      947f77:
+        object:
+          id: 1296
+          definition: class of features having common characteristics
+          language_code: eng
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19156:2011'
+            clause: '4.7'
+            link: 'https://www.iso.org/standard/32574.html'
+          date_accepted: 2011-12-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: feature type
+              normative_status: preferred
+        parents: []
+        timeCreated: 2011-12-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+kor:
+  id: 1296
+  definition: 공통 특성을 가진 지형지물 클래스
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19156:2011'
+    clause: '4.7'
+    link: 'https://www.iso.org/standard/32574.html'
+  date_accepted: 2011-12-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: 지형지물 유형
+      normative_status: preferred
+  _revisions:
+    current: da6ac7
+    tree:
+      da6ac7:
+        object:
+          id: 1296
+          definition: 공통 특성을 가진 지형지물 클래스
+          language_code: kor
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19156:2011'
+            clause: '4.7'
+            link: 'https://www.iso.org/standard/32574.html'
+          date_accepted: 2011-12-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: 지형지물 유형
+              normative_status: preferred
+        parents: []
+        timeCreated: 2011-12-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 1296
+  definition: 'класс объектов, имеющих общие характеристики'
+  language_code: rus
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19156:2011'
+    clause: '4.7'
+    link: 'https://www.iso.org/standard/32574.html'
+  lineage_source: 'ISO 19156:2011'
+  date_accepted: 2011-12-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: тип объекта
+      normative_status: preferred
+  _revisions:
+    current: 54344a
+    tree:
+      54344a:
+        object:
+          id: 1296
+          definition: 'класс объектов, имеющих общие характеристики'
+          language_code: rus
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19156:2011'
+            clause: '4.7'
+            link: 'https://www.iso.org/standard/32574.html'
+          lineage_source: 'ISO 19156:2011'
+          date_accepted: 2011-12-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: тип объекта
+              normative_status: preferred
+        parents: []
+        timeCreated: 2011-12-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 1296
+  definition: clase de objetos geográficos que tienen características comunes
+  language_code: spa
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19156:2011'
+    clause: '4.7'
+    link: 'https://www.iso.org/standard/32574.html'
+  date_accepted: 2011-12-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: tipo de objeto geográfico
+      normative_status: preferred
+  _revisions:
+    current: 7b1067
+    tree:
+      7b1067:
+        object:
+          id: 1296
+          definition: clase de objetos geográficos que tienen características comunes
+          language_code: spa
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19156:2011'
+            clause: '4.7'
+            link: 'https://www.iso.org/standard/32574.html'
+          date_accepted: 2011-12-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: tipo de objeto geográfico
+              normative_status: preferred
+        parents: []
+        timeCreated: 2011-12-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+swe:
+  id: 1296
+  definition: abstraktion av företeelser med likartade egenskaper
+  country_code: swe
+  language_code: swe
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19156:2011'
+    clause: '4.7'
+    link: 'https://www.iso.org/standard/32574.html'
+  lineage_source: (Type reference to national language document)
+  date_accepted: 2011-12-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: objekttyp
+      normative_status: preferred
+  _revisions:
+    current: ba3981
+    tree:
+      ba3981:
+        object:
+          id: 1296
+          definition: abstraktion av företeelser med likartade egenskaper
+          country_code: swe
+          language_code: swe
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19156:2011'
+            clause: '4.7'
+            link: 'https://www.iso.org/standard/32574.html'
+          lineage_source: (Type reference to national language document)
+          date_accepted: 2011-12-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: objekttyp
+              normative_status: preferred
+        parents: []
+        timeCreated: 2011-12-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

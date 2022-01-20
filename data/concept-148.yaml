@@ -1,0 +1,799 @@
+term: element <XML>
+termid: 148
+eng:
+  id: 148
+  definition: >-
+    basic information item of an XML document containing child elements,
+    attributes and character data
+  language_code: eng
+  notes:
+    - >-
+      From the XML Information Set: "Each XML document contains one or more
+      elements, the boundaries of which are either delimited by start-tags and
+      end-tags, or, for empty elements, by an empty-element tag. Each element
+      has a type, identified by name, sometimes called its 'generic identifier'
+      (GI), and may have a set of attribute specifications. Each attribute
+      specification has a name and a value.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19136-1:2020'
+    clause: '(E), 3.1.23'
+    link: 'https://www.iso.org/standard/75676.html'
+  lineage_source: 'ISO 19136:2007(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2007-09-01T00:00:00.000Z
+  review_date: 2020-01-09T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2020-01-09T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19136-1:2020(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19136:2007 to ISO 19136-1:2020(E),
+    3.1.23. Lineage source added as ISO 19136:2007(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: element <XML>
+      normative_status: preferred
+  _revisions:
+    current: 4d6546
+    tree:
+      4d6546:
+        object:
+          id: 148
+          definition: >-
+            basic information item of an XML document containing child elements,
+            attributes and character data
+          language_code: eng
+          notes:
+            - >-
+              From the XML Information Set: "Each XML document contains one or
+              more elements, the boundaries of which are either delimited by
+              start-tags and end-tags, or, for empty elements, by an
+              empty-element tag. Each element has a type, identified by name,
+              sometimes called its 'generic identifier' (GI), and may have a set
+              of attribute specifications. Each attribute specification has a
+              name and a value.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19136-1:2020'
+            clause: '(E), 3.1.23'
+            link: 'https://www.iso.org/standard/75676.html'
+          lineage_source: 'ISO 19136:2007(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2007-09-01T00:00:00.000Z
+          review_date: 2020-01-09T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2020-01-09T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19136-1:2020(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19136:2007 to ISO
+            19136-1:2020(E), 3.1.23. Lineage source added as ISO 19136:2007(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: element <XML>
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-09-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+ara:
+  id: 148
+  definition: >-
+    ماده معلوماتيه أساسية لوثيقة XML تحتوي على عناصر أطفال ، وبيانات وصفية ،
+    وبيانات تتعلق بالحروف والأرقام
+  language_code: ara
+  notes:
+    - >-
+      من مجموعة بيانات لغةXML: كل وثيقة من وثائق لغةXML تشتمل على عنصر واحد أو
+      أكثر حيث تعيَّن حدود هذه العناصر إما بعلامات بداية وعلامات نهاية ، أو ،
+      بالنسبة للعناصر الفارغة ، بعلامة تدل على عنصر فارغ. لكل عنصر نوع ، وللنوع
+      اسم يعرف به ويسمي أحيانا "رمز تعريفه العام" ، وقد تكون له مجموعة مواصفات
+      للبيانات الوصفية ، كما أن كل مواصفة من مواصفات البيانات الوصفية لها اسم
+      وقيمة.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19136-1:2020'
+    clause: '(E), 3.1.23'
+    link: 'https://www.iso.org/standard/75676.html'
+  lineage_source: 'ISO 19136:2007(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2007-09-01T00:00:00.000Z
+  review_date: 2020-01-09T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2020-01-09T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19136-1:2020(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19136:2007 to ISO 19136-1:2020(E),
+    3.1.23. Lineage source added as ISO 19136:2007(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: عنصر > XML <
+      normative_status: preferred
+  _revisions:
+    current: 103b2d
+    tree:
+      103b2d:
+        object:
+          id: 148
+          definition: >-
+            ماده معلوماتيه أساسية لوثيقة XML تحتوي على عناصر أطفال ، وبيانات
+            وصفية ، وبيانات تتعلق بالحروف والأرقام
+          language_code: ara
+          notes:
+            - >-
+              من مجموعة بيانات لغةXML: كل وثيقة من وثائق لغةXML تشتمل على عنصر
+              واحد أو أكثر حيث تعيَّن حدود هذه العناصر إما بعلامات بداية وعلامات
+              نهاية ، أو ، بالنسبة للعناصر الفارغة ، بعلامة تدل على عنصر فارغ.
+              لكل عنصر نوع ، وللنوع اسم يعرف به ويسمي أحيانا "رمز تعريفه العام"
+              ، وقد تكون له مجموعة مواصفات للبيانات الوصفية ، كما أن كل مواصفة
+              من مواصفات البيانات الوصفية لها اسم وقيمة.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19136-1:2020'
+            clause: '(E), 3.1.23'
+            link: 'https://www.iso.org/standard/75676.html'
+          lineage_source: 'ISO 19136:2007(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2007-09-01T00:00:00.000Z
+          review_date: 2020-01-09T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2020-01-09T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19136-1:2020(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19136:2007 to ISO
+            19136-1:2020(E), 3.1.23. Lineage source added as ISO 19136:2007(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: عنصر > XML <
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-09-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+zho:
+  id: 148
+  definition: '<XML> XML文档中的基本信息项,其中包含子元素,属性和字符数据。'
+  language_code: zho
+  notes:
+    - >-
+      源自XML的信息集合 “每个XML文档包含一个或多个元素”,边界通过起始标记和终止标记界定,
+      若为空元素，则由空元素标记界定。每个元素都有类型，该类型由名称,有时也称为'通用标识符' (GI)来标识
+      ,并可能有一组属性规范。每一属性规范有名称和值。
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19136-1:2020'
+    clause: '(E), 3.1.23'
+    link: 'https://www.iso.org/standard/75676.html'
+  lineage_source: 'ISO 19136:2007(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2007-09-01T00:00:00.000Z
+  review_date: 2020-01-09T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2020-01-09T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19136-1:2020(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19136:2007 to ISO 19136-1:2020(E),
+    3.1.23. Lineage source added as ISO 19136:2007(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: 元素
+      normative_status: preferred
+  _revisions:
+    current: a11b7d
+    tree:
+      a11b7d:
+        object:
+          id: 148
+          definition: '<XML> XML文档中的基本信息项,其中包含子元素,属性和字符数据。'
+          language_code: zho
+          notes:
+            - >-
+              源自XML的信息集合 “每个XML文档包含一个或多个元素”,边界通过起始标记和终止标记界定,
+              若为空元素，则由空元素标记界定。每个元素都有类型，该类型由名称,有时也称为'通用标识符' (GI)来标识
+              ,并可能有一组属性规范。每一属性规范有名称和值。
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19136-1:2020'
+            clause: '(E), 3.1.23'
+            link: 'https://www.iso.org/standard/75676.html'
+          lineage_source: 'ISO 19136:2007(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2007-09-01T00:00:00.000Z
+          review_date: 2020-01-09T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2020-01-09T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19136-1:2020(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19136:2007 to ISO
+            19136-1:2020(E), 3.1.23. Lineage source added as ISO 19136:2007(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: 元素
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-09-01T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+fin:
+  id: 148
+  definition: >-
+    XML-asiakirjan perustietoalkio, joka sisältää lapsielementtejä,
+    attribuutteja ja merkkimuotoista tietoa
+  language_code: fin
+  notes:
+    - >-
+      Lainaus XML Information Set -määrittelystä: "Jokaisessa XML-asiakirjassa
+      on yksi tai useampia elementtejä, joiden rajat on merkitty joko alku- ja
+      lopputunnisteilla tai, jos kyseessä on tyhjä elementti, sen tunnisteella.
+      Kullakin elementillä on nimetty tyyppi, jota kutsutaan toisinaan
+      geneeriseksi tunnisteeksi, ja lisäksi elementillä voi olla sitä
+      määrittäviä attribuutteja. Kullakin attribuutilla on nimi ja arvo.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19136-1:2020'
+    clause: '(E), 3.1.23'
+    link: 'https://www.iso.org/standard/75676.html'
+  lineage_source: 'ISO 19136:2007(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2007-09-01T00:00:00.000Z
+  review_date: 2020-01-09T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2020-01-09T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19136-1:2020(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19136:2007 to ISO 19136-1:2020(E),
+    3.1.23. Lineage source added as ISO 19136:2007(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: XML-elementti
+      normative_status: preferred
+  _revisions:
+    current: 89ed37
+    tree:
+      89ed37:
+        object:
+          id: 148
+          definition: >-
+            XML-asiakirjan perustietoalkio, joka sisältää lapsielementtejä,
+            attribuutteja ja merkkimuotoista tietoa
+          language_code: fin
+          notes:
+            - >-
+              Lainaus XML Information Set -määrittelystä: "Jokaisessa
+              XML-asiakirjassa on yksi tai useampia elementtejä, joiden rajat on
+              merkitty joko alku- ja lopputunnisteilla tai, jos kyseessä on
+              tyhjä elementti, sen tunnisteella. Kullakin elementillä on nimetty
+              tyyppi, jota kutsutaan toisinaan geneeriseksi tunnisteeksi, ja
+              lisäksi elementillä voi olla sitä määrittäviä attribuutteja.
+              Kullakin attribuutilla on nimi ja arvo.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19136-1:2020'
+            clause: '(E), 3.1.23'
+            link: 'https://www.iso.org/standard/75676.html'
+          lineage_source: 'ISO 19136:2007(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2007-09-01T00:00:00.000Z
+          review_date: 2020-01-09T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2020-01-09T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19136-1:2020(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19136:2007 to ISO
+            19136-1:2020(E), 3.1.23. Lineage source added as ISO 19136:2007(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: XML-elementti
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-09-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+fra:
+  id: 148
+  definition: >-
+    élément de base d'information d'un document XML contenant les éléments fils,
+    les attributs et des données de typage
+  language_code: fra
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19136-1:2020'
+    clause: '(E), 3.1.23'
+    link: 'https://www.iso.org/standard/75676.html'
+  lineage_source: 'ISO 19136:2007(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2007-09-01T00:00:00.000Z
+  review_date: 2020-01-09T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2020-01-09T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19136-1:2020(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19136:2007 to ISO 19136-1:2020(E),
+    3.1.23. Lineage source added as ISO 19136:2007(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: élément <XML>
+      normative_status: preferred
+  _revisions:
+    current: '348274'
+    tree:
+      '348274':
+        object:
+          id: 148
+          definition: >-
+            élément de base d'information d'un document XML contenant les
+            éléments fils, les attributs et des données de typage
+          language_code: fra
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19136-1:2020'
+            clause: '(E), 3.1.23'
+            link: 'https://www.iso.org/standard/75676.html'
+          lineage_source: 'ISO 19136:2007(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2007-09-01T00:00:00.000Z
+          review_date: 2020-01-09T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2020-01-09T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19136-1:2020(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19136:2007 to ISO
+            19136-1:2020(E), 3.1.23. Lineage source added as ISO 19136:2007(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: élément <XML>
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-09-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+deu:
+  id: 148
+  definition: >-
+    elementare Informationseinheit eines XML-Dokuments, die Kindelemente,
+    Attribute und Text enthält
+  language_code: deu
+  notes:
+    - >-
+      From the XML Information Set: "Each XML document contains one or more
+      elements, the boundaries of which are either delimited by start-tags and
+      end-tags, or, for empty elements, by an empty-element tag. Each element
+      has a type, identified by name, sometimes called its 'generic identifier'
+      (GI), and may have a set of attribute specifications. Each attribute
+      specification has a name and a value.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19136-1:2020'
+    clause: '(E), 3.1.23'
+    link: 'https://www.iso.org/standard/75676.html'
+  lineage_source: 'ISO 19136:2007(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2007-09-01T00:00:00.000Z
+  review_date: 2020-01-09T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2020-01-09T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19136-1:2020(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19136:2007 to ISO 19136-1:2020(E),
+    3.1.23. Lineage source added as ISO 19136:2007(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: Element <XML>
+      normative_status: preferred
+  _revisions:
+    current: 1a7105
+    tree:
+      1a7105:
+        object:
+          id: 148
+          definition: >-
+            elementare Informationseinheit eines XML-Dokuments, die
+            Kindelemente, Attribute und Text enthält
+          language_code: deu
+          notes:
+            - >-
+              From the XML Information Set: "Each XML document contains one or
+              more elements, the boundaries of which are either delimited by
+              start-tags and end-tags, or, for empty elements, by an
+              empty-element tag. Each element has a type, identified by name,
+              sometimes called its 'generic identifier' (GI), and may have a set
+              of attribute specifications. Each attribute specification has a
+              name and a value.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19136-1:2020'
+            clause: '(E), 3.1.23'
+            link: 'https://www.iso.org/standard/75676.html'
+          lineage_source: 'ISO 19136:2007(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2007-09-01T00:00:00.000Z
+          review_date: 2020-01-09T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2020-01-09T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19136-1:2020(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19136:2007 to ISO
+            19136-1:2020(E), 3.1.23. Lineage source added as ISO 19136:2007(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: Element <XML>
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-09-01T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+kor:
+  id: 148
+  definition: '자식 요소, 속성 및 문자 데이터 등을 갖는 XML 문서의 기초 정보 항목'
+  language_code: kor
+  notes:
+    - >-
+      XML Information Set에서는 "모든 XML 문서는 start 꼬리표와 end 꼬리표로 범위 지워진 한 개 혹은 여러 개의
+      요소로 구성되며, 내용이 없는 경우에는 empty 꼬리표를 사용한다. 각각의 요소는 종종 '고유 식별자(GI)'라 불리우며 명칭에
+      의해 식별되는 유형과 속성 사양 집합을 갖는다. 각각의 속성은 명칭과 값을 갖게 된다.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19136-1:2020'
+    clause: '(E), 3.1.23'
+    link: 'https://www.iso.org/standard/75676.html'
+  lineage_source: 'ISO 19136:2007(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2007-09-01T00:00:00.000Z
+  review_date: 2020-01-09T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2020-01-09T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19136-1:2020(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19136:2007 to ISO 19136-1:2020(E),
+    3.1.23. Lineage source added as ISO 19136:2007(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: 요소 <XML>
+      normative_status: preferred
+  _revisions:
+    current: a5b97c
+    tree:
+      a5b97c:
+        object:
+          id: 148
+          definition: '자식 요소, 속성 및 문자 데이터 등을 갖는 XML 문서의 기초 정보 항목'
+          language_code: kor
+          notes:
+            - >-
+              XML Information Set에서는 "모든 XML 문서는 start 꼬리표와 end 꼬리표로 범위 지워진 한 개
+              혹은 여러 개의 요소로 구성되며, 내용이 없는 경우에는 empty 꼬리표를 사용한다. 각각의 요소는 종종 '고유
+              식별자(GI)'라 불리우며 명칭에 의해 식별되는 유형과 속성 사양 집합을 갖는다. 각각의 속성은 명칭과 값을 갖게
+              된다.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19136-1:2020'
+            clause: '(E), 3.1.23'
+            link: 'https://www.iso.org/standard/75676.html'
+          lineage_source: 'ISO 19136:2007(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2007-09-01T00:00:00.000Z
+          review_date: 2020-01-09T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2020-01-09T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19136-1:2020(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19136:2007 to ISO
+            19136-1:2020(E), 3.1.23. Lineage source added as ISO 19136:2007(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: 요소 <XML>
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-09-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+msa:
+  id: 148
+  language_code: msa
+  notes:
+    - >-
+      From the XML Information Set: "Each XML document contains one or more
+      elements, the boundaries of which are either delimited by start-tags and
+      end-tags, or, for empty elements, by an empty-element tag. Each element
+      has a type, identified by name, sometimes called its 'generic identifier'
+      (GI), and may have a set of attribute specifications. Each attribute
+      specification has a name and a value.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19136-1:2020'
+    clause: '(E), 3.1.23'
+    link: 'https://www.iso.org/standard/75676.html'
+  lineage_source: 'ISO 19136:2007(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2007-09-01T00:00:00.000Z
+  review_date: 2020-01-09T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2020-01-09T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19136-1:2020(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19136:2007 to ISO 19136-1:2020(E),
+    3.1.23. Lineage source added as ISO 19136:2007(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: elemen
+      normative_status: preferred
+  _revisions:
+    current: fb18e1
+    tree:
+      fb18e1:
+        object:
+          id: 148
+          language_code: msa
+          notes:
+            - >-
+              From the XML Information Set: "Each XML document contains one or
+              more elements, the boundaries of which are either delimited by
+              start-tags and end-tags, or, for empty elements, by an
+              empty-element tag. Each element has a type, identified by name,
+              sometimes called its 'generic identifier' (GI), and may have a set
+              of attribute specifications. Each attribute specification has a
+              name and a value.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19136-1:2020'
+            clause: '(E), 3.1.23'
+            link: 'https://www.iso.org/standard/75676.html'
+          lineage_source: 'ISO 19136:2007(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2007-09-01T00:00:00.000Z
+          review_date: 2020-01-09T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2020-01-09T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19136-1:2020(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19136:2007 to ISO
+            19136-1:2020(E), 3.1.23. Lineage source added as ISO 19136:2007(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: elemen
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-09-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 148
+  definition: >-
+    основная информационная единица XML-документа, содержащая дочерние 
+    элементы, атрибуты и символьные данные
+  language_code: rus
+  notes:
+    - >-
+      Из спецификации  XML Information Set : «Каждый документ XML содержит один
+      или более элементов, границы которого определены либо начальными и
+      конечными тегами, либо (для пустых элементов) – пустым тегом. Каждый
+      элемент имеет тип, идентифицируемый именем, который иногда называют
+      «основной идентификатор» (GL), и может иметь множество атрибутивных
+      спецификаций. Каждая атрибутивная спецификация имеет имя и значение»
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19136-1:2020'
+    clause: '(E), 3.1.23'
+    link: 'https://www.iso.org/standard/75676.html'
+  lineage_source: 'ISO 19136:2007(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2007-09-01T00:00:00.000Z
+  review_date: 2020-01-09T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2020-01-09T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19136-1:2020(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19136:2007 to ISO 19136-1:2020(E),
+    3.1.23. Lineage source added as ISO 19136:2007(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: элемент <XML>
+      normative_status: preferred
+  _revisions:
+    current: 4eec47
+    tree:
+      4eec47:
+        object:
+          id: 148
+          definition: >-
+            основная информационная единица XML-документа, содержащая дочерние 
+            элементы, атрибуты и символьные данные
+          language_code: rus
+          notes:
+            - >-
+              Из спецификации  XML Information Set : «Каждый документ XML
+              содержит один или более элементов, границы которого определены
+              либо начальными и конечными тегами, либо (для пустых элементов) –
+              пустым тегом. Каждый элемент имеет тип, идентифицируемый именем,
+              который иногда называют «основной идентификатор» (GL), и может
+              иметь множество атрибутивных спецификаций. Каждая атрибутивная
+              спецификация имеет имя и значение»
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19136-1:2020'
+            clause: '(E), 3.1.23'
+            link: 'https://www.iso.org/standard/75676.html'
+          lineage_source: 'ISO 19136:2007(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2007-09-01T00:00:00.000Z
+          review_date: 2020-01-09T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2020-01-09T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19136-1:2020(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19136:2007 to ISO
+            19136-1:2020(E), 3.1.23. Lineage source added as ISO 19136:2007(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: элемент <XML>
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-09-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 148
+  definition: >-
+    ítem básico de información de un documento XML que contiene elementos hijo,
+    atributos y datos carácter
+  language_code: spa
+  notes:
+    - >-
+      Del Conjunto de Información de XML: "Cada documento XML contiene uno o más
+      elementos, sus límites se delimitan con etiquetas de inicio y de fin, o,
+      para elementos vacios, mediante la etiqueta vacía. Cada elemento tiene un
+      tipo, identificado por un nombre, a veces llamado su 'identificador
+      genérico' (GI), y puede tener un conjunto de especificaciones de atributo.
+      Cada especificación de atributo tiene un nombre y un valor.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19136-1:2020'
+    clause: '(E), 3.1.23'
+    link: 'https://www.iso.org/standard/75676.html'
+  lineage_source: 'ISO 19136:2007(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2007-09-01T00:00:00.000Z
+  review_date: 2020-01-09T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2020-01-09T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19136-1:2020(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19136:2007 to ISO 19136-1:2020(E),
+    3.1.23. Lineage source added as ISO 19136:2007(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: elemento <XML>
+      normative_status: preferred
+  _revisions:
+    current: af5fbe
+    tree:
+      af5fbe:
+        object:
+          id: 148
+          definition: >-
+            ítem básico de información de un documento XML que contiene
+            elementos hijo, atributos y datos carácter
+          language_code: spa
+          notes:
+            - >-
+              Del Conjunto de Información de XML: "Cada documento XML contiene
+              uno o más elementos, sus límites se delimitan con etiquetas de
+              inicio y de fin, o, para elementos vacios, mediante la etiqueta
+              vacía. Cada elemento tiene un tipo, identificado por un nombre, a
+              veces llamado su 'identificador genérico' (GI), y puede tener un
+              conjunto de especificaciones de atributo. Cada especificación de
+              atributo tiene un nombre y un valor.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19136-1:2020'
+            clause: '(E), 3.1.23'
+            link: 'https://www.iso.org/standard/75676.html'
+          lineage_source: 'ISO 19136:2007(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2007-09-01T00:00:00.000Z
+          review_date: 2020-01-09T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2020-01-09T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19136-1:2020(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19136:2007 to ISO
+            19136-1:2020(E), 3.1.23. Lineage source added as ISO 19136:2007(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: elemento <XML>
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-09-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

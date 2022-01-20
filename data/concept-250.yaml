@@ -1,0 +1,757 @@
+term: integrated positioning system
+termid: 250
+eng:
+  id: 250
+  definition: positioning system incorporating two or more positioning technologies
+  language_code: eng
+  notes:
+    - >-
+      The measurements produced by each positioning technology in an integrated
+      system may be any of position, motion, or attitude.  There may be
+      redundant measurements.  When combined, a unified position, motion, or
+      attitude is determined.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19116:2019'
+    clause: '(E), 3.14'
+    link: 'https://www.iso.org/standard/70882.html'
+  lineage_source: 'ISO 19116:2004(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2004-07-01T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19116:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19116:2004 to ISO 19116:2019(E),
+    3.14. Lineage source added as ISO 19116:2004(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: integrated positioning system
+      normative_status: preferred
+  _revisions:
+    current: 608b26
+    tree:
+      608b26:
+        object:
+          id: 250
+          definition: >-
+            positioning system incorporating two or more positioning
+            technologies
+          language_code: eng
+          notes:
+            - >-
+              The measurements produced by each positioning technology in an
+              integrated system may be any of position, motion, or attitude. 
+              There may be redundant measurements.  When combined, a unified
+              position, motion, or attitude is determined.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19116:2019'
+            clause: '(E), 3.14'
+            link: 'https://www.iso.org/standard/70882.html'
+          lineage_source: 'ISO 19116:2004(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2004-07-01T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19116:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19116:2004 to ISO
+            19116:2019(E), 3.14. Lineage source added as ISO 19116:2004(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: integrated positioning system
+              normative_status: preferred
+        parents: []
+        timeCreated: 2004-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+ara:
+  id: 250
+  definition: نظام تحديد مواقع يدمج بين نوعين أو اكثر من تقنيات تحديد المواقع .
+  language_code: ara
+  notes:
+    - >-
+      القياسات التي تنتج عن كل تقنية لتحديد الأماكن في نظام تكاملي يمكن أن تكون
+      موقعا ، أو حركة ، أو وضعا attitude، أيا من هذه الثلاثة إذ لا فرق بينها. قد
+      يتم إجراء قياسات إضافية ، ولكن عند الجمع بينها يكون الناتج موقعا موحدا ،
+      أو حركة موحدة أو وضعا موحدا.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19116:2019'
+    clause: '(E), 3.14'
+    link: 'https://www.iso.org/standard/70882.html'
+  lineage_source: 'ISO 19116:2004(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2004-07-01T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19116:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19116:2004 to ISO 19116:2019(E),
+    3.14. Lineage source added as ISO 19116:2004(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: نظام تكاملي لتحديد المواقع المتكامله
+      normative_status: preferred
+  _revisions:
+    current: 1372d3
+    tree:
+      1372d3:
+        object:
+          id: 250
+          definition: نظام تحديد مواقع يدمج بين نوعين أو اكثر من تقنيات تحديد المواقع .
+          language_code: ara
+          notes:
+            - >-
+              القياسات التي تنتج عن كل تقنية لتحديد الأماكن في نظام تكاملي يمكن
+              أن تكون موقعا ، أو حركة ، أو وضعا attitude، أيا من هذه الثلاثة إذ
+              لا فرق بينها. قد يتم إجراء قياسات إضافية ، ولكن عند الجمع بينها
+              يكون الناتج موقعا موحدا ، أو حركة موحدة أو وضعا موحدا.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19116:2019'
+            clause: '(E), 3.14'
+            link: 'https://www.iso.org/standard/70882.html'
+          lineage_source: 'ISO 19116:2004(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2004-07-01T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19116:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19116:2004 to ISO
+            19116:2019(E), 3.14. Lineage source added as ISO 19116:2004(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: نظام تكاملي لتحديد المواقع المتكامله
+              normative_status: preferred
+        parents: []
+        timeCreated: 2004-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+zho:
+  id: 250
+  definition: 两种或多种定位技术的混合定位系统。
+  language_code: zho
+  notes:
+    - >-
+      集成定位系统中每个定位技术产生的量测结果可以是位置、运动或姿态中的任何一个。可以有冗余的量测结果。当把他们合并在一起时，就确定了一个统一的位置、运动或姿态。
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19116:2019'
+    clause: '(E), 3.14'
+    link: 'https://www.iso.org/standard/70882.html'
+  lineage_source: 'ISO 19116:2004(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2004-07-01T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19116:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19116:2004 to ISO 19116:2019(E),
+    3.14. Lineage source added as ISO 19116:2004(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: 集成定位系统
+      normative_status: preferred
+  _revisions:
+    current: 90193f
+    tree:
+      90193f:
+        object:
+          id: 250
+          definition: 两种或多种定位技术的混合定位系统。
+          language_code: zho
+          notes:
+            - >-
+              集成定位系统中每个定位技术产生的量测结果可以是位置、运动或姿态中的任何一个。可以有冗余的量测结果。当把他们合并在一起时，就确定了一个统一的位置、运动或姿态。
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19116:2019'
+            clause: '(E), 3.14'
+            link: 'https://www.iso.org/standard/70882.html'
+          lineage_source: 'ISO 19116:2004(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2004-07-01T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19116:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19116:2004 to ISO
+            19116:2019(E), 3.14. Lineage source added as ISO 19116:2004(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: 集成定位系统
+              normative_status: preferred
+        parents: []
+        timeCreated: 2004-07-01T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+fin:
+  id: 250
+  definition: >-
+    paikannusjärjestelmä, jolla on kiinteänä osanaan kaksi tai useampia
+    paikannustekniikoita
+  language_code: fin
+  notes:
+    - >-
+      Integroidun järjestelmän paikannustekniikoilla voidaan mitata sijaintia,
+      liikettä tai suuntausta (mittaukset voivat olla redundantteja). Kun eri
+      tekniikoilla tehdyt mittaukset yhdistetään, saadaan määritetyksi
+      yhdistetty sijainti, liike tai suuntaus.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19116:2019'
+    clause: '(E), 3.14'
+    link: 'https://www.iso.org/standard/70882.html'
+  lineage_source: 'ISO 19116:2004(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2004-07-01T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19116:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19116:2004 to ISO 19116:2019(E),
+    3.14. Lineage source added as ISO 19116:2004(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: integroitu paikannusjärjestelmä
+      normative_status: preferred
+  _revisions:
+    current: ceaa4d
+    tree:
+      ceaa4d:
+        object:
+          id: 250
+          definition: >-
+            paikannusjärjestelmä, jolla on kiinteänä osanaan kaksi tai useampia
+            paikannustekniikoita
+          language_code: fin
+          notes:
+            - >-
+              Integroidun järjestelmän paikannustekniikoilla voidaan mitata
+              sijaintia, liikettä tai suuntausta (mittaukset voivat olla
+              redundantteja). Kun eri tekniikoilla tehdyt mittaukset
+              yhdistetään, saadaan määritetyksi yhdistetty sijainti, liike tai
+              suuntaus.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19116:2019'
+            clause: '(E), 3.14'
+            link: 'https://www.iso.org/standard/70882.html'
+          lineage_source: 'ISO 19116:2004(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2004-07-01T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19116:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19116:2004 to ISO
+            19116:2019(E), 3.14. Lineage source added as ISO 19116:2004(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: integroitu paikannusjärjestelmä
+              normative_status: preferred
+        parents: []
+        timeCreated: 2004-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+fra:
+  id: 250
+  definition: >-
+    système de positionnement incorporant deux ou plusieurs technologies de
+    positionnement
+  language_code: fra
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19116:2019'
+    clause: '(E), 3.14'
+    link: 'https://www.iso.org/standard/70882.html'
+  lineage_source: 'ISO 19116:2004(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2004-07-01T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19116:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19116:2004 to ISO 19116:2019(E),
+    3.14. Lineage source added as ISO 19116:2004(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: système de positionnement intégré
+      normative_status: preferred
+  _revisions:
+    current: 518f54
+    tree:
+      518f54:
+        object:
+          id: 250
+          definition: >-
+            système de positionnement incorporant deux ou plusieurs technologies
+            de positionnement
+          language_code: fra
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19116:2019'
+            clause: '(E), 3.14'
+            link: 'https://www.iso.org/standard/70882.html'
+          lineage_source: 'ISO 19116:2004(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2004-07-01T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19116:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19116:2004 to ISO
+            19116:2019(E), 3.14. Lineage source added as ISO 19116:2004(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: système de positionnement intégré
+              normative_status: preferred
+        parents: []
+        timeCreated: 2004-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+deu:
+  id: 250
+  language_code: deu
+  notes:
+    - >-
+      The measurements produced by each positioning technology in an integrated
+      system may be any of position, motion, or attitude.  There may be
+      redundant measurements.  When combined, a unified position, motion, or
+      attitude is determined.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19116:2019'
+    clause: '(E), 3.14'
+    link: 'https://www.iso.org/standard/70882.html'
+  lineage_source: 'ISO 19116:2004(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2004-07-01T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19116:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19116:2004 to ISO 19116:2019(E),
+    3.14. Lineage source added as ISO 19116:2004(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: integriertes Positionierungssystem
+      normative_status: preferred
+  _revisions:
+    current: d5fa82
+    tree:
+      d5fa82:
+        object:
+          id: 250
+          language_code: deu
+          notes:
+            - >-
+              The measurements produced by each positioning technology in an
+              integrated system may be any of position, motion, or attitude. 
+              There may be redundant measurements.  When combined, a unified
+              position, motion, or attitude is determined.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19116:2019'
+            clause: '(E), 3.14'
+            link: 'https://www.iso.org/standard/70882.html'
+          lineage_source: 'ISO 19116:2004(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2004-07-01T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19116:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19116:2004 to ISO
+            19116:2019(E), 3.14. Lineage source added as ISO 19116:2004(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: integriertes Positionierungssystem
+              normative_status: preferred
+        parents: []
+        timeCreated: 2004-07-01T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+kor:
+  id: 250
+  definition: 2개 이상의 측위 기술을 통합하는 측위 시스템
+  language_code: kor
+  notes:
+    - >-
+      통합 시스템에서 측위 기술로 측정된 것은 위치, 이동, 또는 자세 등 이다. 중복된 측정이 존재하며, 이들이 결합되었을 때, 통합된
+      위치, 이동, 자세가 결정된다.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19116:2019'
+    clause: '(E), 3.14'
+    link: 'https://www.iso.org/standard/70882.html'
+  lineage_source: 'ISO 19116:2004(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2004-07-01T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19116:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19116:2004 to ISO 19116:2019(E),
+    3.14. Lineage source added as ISO 19116:2004(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: 통합 측위 시스템
+      normative_status: preferred
+  _revisions:
+    current: 5bad6d
+    tree:
+      5bad6d:
+        object:
+          id: 250
+          definition: 2개 이상의 측위 기술을 통합하는 측위 시스템
+          language_code: kor
+          notes:
+            - >-
+              통합 시스템에서 측위 기술로 측정된 것은 위치, 이동, 또는 자세 등 이다. 중복된 측정이 존재하며, 이들이 결합되었을
+              때, 통합된 위치, 이동, 자세가 결정된다.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19116:2019'
+            clause: '(E), 3.14'
+            link: 'https://www.iso.org/standard/70882.html'
+          lineage_source: 'ISO 19116:2004(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2004-07-01T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19116:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19116:2004 to ISO
+            19116:2019(E), 3.14. Lineage source added as ISO 19116:2004(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: 통합 측위 시스템
+              normative_status: preferred
+        parents: []
+        timeCreated: 2004-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 250
+  definition: >-
+    система позиционирования, основанная на двух или  более технологиях
+    позционирования
+  language_code: rus
+  notes:
+    - >-
+      В каждой технологии  интегрированной системы позиционирования могут
+      выполняться определения местоположения, перемещения или ориентации.
+      Измерения могут быть избыточными. В комбинации обеспечивается комплексное
+      определение местоположения, перемещения или ориентации
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19116:2019'
+    clause: '(E), 3.14'
+    link: 'https://www.iso.org/standard/70882.html'
+  lineage_source: 'ISO 19116:2004(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2004-07-01T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19116:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19116:2004 to ISO 19116:2019(E),
+    3.14. Lineage source added as ISO 19116:2004(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: интегрированная система позиционирования
+      normative_status: preferred
+  _revisions:
+    current: 38b765
+    tree:
+      38b765:
+        object:
+          id: 250
+          definition: >-
+            система позиционирования, основанная на двух или  более технологиях
+            позционирования
+          language_code: rus
+          notes:
+            - >-
+              В каждой технологии  интегрированной системы позиционирования
+              могут выполняться определения местоположения, перемещения или
+              ориентации. Измерения могут быть избыточными. В комбинации
+              обеспечивается комплексное определение местоположения, перемещения
+              или ориентации
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19116:2019'
+            clause: '(E), 3.14'
+            link: 'https://www.iso.org/standard/70882.html'
+          lineage_source: 'ISO 19116:2004(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2004-07-01T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19116:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19116:2004 to ISO
+            19116:2019(E), 3.14. Lineage source added as ISO 19116:2004(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: интегрированная система позиционирования
+              normative_status: preferred
+        parents: []
+        timeCreated: 2004-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 250
+  definition: >-
+    sistema de posicionamiento que incorpora dos o más tecnologías de
+    posicionamiento
+  language_code: spa
+  notes:
+    - >-
+      Las medidas generadas por cada tecnología de posicionamiento en un sistema
+      integrado pueden ser de cualquier posición, movimiento, u orienta¬ción.
+      Pueden existir medidas redundantes. Una vez combinadas, una posición,
+      movimiento, u orientación unificadas serán determinadas.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19116:2019'
+    clause: '(E), 3.14'
+    link: 'https://www.iso.org/standard/70882.html'
+  lineage_source: 'ISO 19116:2004(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2004-07-01T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19116:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19116:2004 to ISO 19116:2019(E),
+    3.14. Lineage source added as ISO 19116:2004(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: sistema integrado de posicionamiento
+      normative_status: preferred
+  _revisions:
+    current: c961bf
+    tree:
+      c961bf:
+        object:
+          id: 250
+          definition: >-
+            sistema de posicionamiento que incorpora dos o más tecnologías de
+            posicionamiento
+          language_code: spa
+          notes:
+            - >-
+              Las medidas generadas por cada tecnología de posicionamiento en un
+              sistema integrado pueden ser de cualquier posición, movimiento, u
+              orienta¬ción. Pueden existir medidas redundantes. Una vez
+              combinadas, una posición, movimiento, u orientación unificadas
+              serán determinadas.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19116:2019'
+            clause: '(E), 3.14'
+            link: 'https://www.iso.org/standard/70882.html'
+          lineage_source: 'ISO 19116:2004(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2004-07-01T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19116:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19116:2004 to ISO
+            19116:2019(E), 3.14. Lineage source added as ISO 19116:2004(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: sistema integrado de posicionamiento
+              normative_status: preferred
+        parents: []
+        timeCreated: 2004-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+swe:
+  id: 250
+  definition: >-
+    lägesbestämningssystem som förenar och hanterar data som kommer från olika
+    håll eller som förenar olika tekniker
+  country_code: swe
+  language_code: swe
+  notes:
+    - >-
+      The measurements produced by each positioning technology in an integrated
+      system may be any of position, motion, or attitude.  There may be
+      redundant measurements.  When combined, a unified position, motion, or
+      attitude is determined.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19116:2019'
+    clause: '(E), 3.14'
+    link: 'https://www.iso.org/standard/70882.html'
+  lineage_source: 'ISO 19116:2004(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2004-07-01T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19116:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19116:2004 to ISO 19116:2019(E),
+    3.14. Lineage source added as ISO 19116:2004(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: integrerat lägesbestämningsystem
+      normative_status: preferred
+  _revisions:
+    current: 6575d8
+    tree:
+      6575d8:
+        object:
+          id: 250
+          definition: >-
+            lägesbestämningssystem som förenar och hanterar data som kommer från
+            olika håll eller som förenar olika tekniker
+          country_code: swe
+          language_code: swe
+          notes:
+            - >-
+              The measurements produced by each positioning technology in an
+              integrated system may be any of position, motion, or attitude. 
+              There may be redundant measurements.  When combined, a unified
+              position, motion, or attitude is determined.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19116:2019'
+            clause: '(E), 3.14'
+            link: 'https://www.iso.org/standard/70882.html'
+          lineage_source: 'ISO 19116:2004(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2004-07-01T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19116:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19116:2004 to ISO
+            19116:2019(E), 3.14. Lineage source added as ISO 19116:2004(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: integrerat lägesbestämningsystem
+              normative_status: preferred
+        parents: []
+        timeCreated: 2004-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

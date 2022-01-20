@@ -1,0 +1,235 @@
+term: active sonar
+termid: 1379
+eng:
+  id: 1379
+  definition: >-
+    type of active sensor that transmits sound waves into the water and receives
+    the returned waves echoed from objects in the water
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO/TS 19130-2:2014'
+    clause: '4.2'
+    link: 'https://www.iso.org/standard/56113.html'
+  date_accepted: 2014-01-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: active sonar
+      normative_status: preferred
+  _revisions:
+    current: e3a9ba
+    tree:
+      e3a9ba:
+        object:
+          id: 1379
+          definition: >-
+            type of active sensor that transmits sound waves into the water and
+            receives the returned waves echoed from objects in the water
+          language_code: eng
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO/TS 19130-2:2014'
+            clause: '4.2'
+            link: 'https://www.iso.org/standard/56113.html'
+          date_accepted: 2014-01-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: active sonar
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-01-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+kor:
+  id: 1379
+  definition: 음파를 수중에 전송하고 수중 물체의 반향으로 회신된 파장을 수신하는 활성 센서의 한 유형
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO/TS 19130-2:2014'
+    clause: '4.2'
+    link: 'https://www.iso.org/standard/56113.html'
+  date_accepted: 2014-01-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: 능동 소나
+      normative_status: preferred
+  _revisions:
+    current: '412668'
+    tree:
+      '412668':
+        object:
+          id: 1379
+          definition: 음파를 수중에 전송하고 수중 물체의 반향으로 회신된 파장을 수신하는 활성 센서의 한 유형
+          language_code: kor
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO/TS 19130-2:2014'
+            clause: '4.2'
+            link: 'https://www.iso.org/standard/56113.html'
+          date_accepted: 2014-01-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: 능동 소나
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-01-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 1379
+  definition: >-
+    тип активного датчика, который передает звуковые волны в воду и получает эхо
+    возвращенных волн,  отраженных от объектов в воде
+  language_code: rus
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO/TS 19130-2:2014'
+    clause: '4.2'
+    link: 'https://www.iso.org/standard/56113.html'
+  lineage_source: 'ISO/TS 19130-2:2014'
+  date_accepted: 2014-01-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: активный гидролокатор
+      normative_status: preferred
+  _revisions:
+    current: d63577
+    tree:
+      d63577:
+        object:
+          id: 1379
+          definition: >-
+            тип активного датчика, который передает звуковые волны в воду и
+            получает эхо возвращенных волн,  отраженных от объектов в воде
+          language_code: rus
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO/TS 19130-2:2014'
+            clause: '4.2'
+            link: 'https://www.iso.org/standard/56113.html'
+          lineage_source: 'ISO/TS 19130-2:2014'
+          date_accepted: 2014-01-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: активный гидролокатор
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-01-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 1379
+  definition: >-
+    tipo de sensor activo que transmite ondas de sonido en el agua y  recibe  el
+    eco de las  ondas  desde  los  objetos en el agua
+  language_code: spa
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO/TS 19130-2:2014'
+    clause: '4.2'
+    link: 'https://www.iso.org/standard/56113.html'
+  date_accepted: 2014-01-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: sónar activo
+      normative_status: preferred
+  _revisions:
+    current: '579e63'
+    tree:
+      '579e63':
+        object:
+          id: 1379
+          definition: >-
+            tipo de sensor activo que transmite ondas de sonido en el agua y 
+            recibe  el eco de las  ondas  desde  los  objetos en el agua
+          language_code: spa
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO/TS 19130-2:2014'
+            clause: '4.2'
+            link: 'https://www.iso.org/standard/56113.html'
+          date_accepted: 2014-01-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: sónar activo
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-01-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+swe:
+  id: 1379
+  definition: typ av SONAR med både sändare- och mottagar-del
+  country_code: swe
+  language_code: swe
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO/TS 19130-2:2014'
+    clause: '4.2'
+    link: 'https://www.iso.org/standard/56113.html'
+  lineage_source: (Type reference to national language document)
+  date_accepted: 2014-01-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: aktiv SONAR
+      normative_status: preferred
+  _revisions:
+    current: 32ad19
+    tree:
+      32ad19:
+        object:
+          id: 1379
+          definition: typ av SONAR med både sändare- och mottagar-del
+          country_code: swe
+          language_code: swe
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO/TS 19130-2:2014'
+            clause: '4.2'
+            link: 'https://www.iso.org/standard/56113.html'
+          lineage_source: (Type reference to national language document)
+          date_accepted: 2014-01-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: aktiv SONAR
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-01-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

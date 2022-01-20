@@ -1,0 +1,120 @@
+term: terminological entry identifier
+termid: 1696
+eng:
+  id: 1696
+  definition: >-
+    unique, unambiguous, and linguistically neutral identifier assigned to a
+    terminological entry
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19104:2016'
+    clause: '4.38'
+    link: 'https://www.iso.org/standard/63541.html'
+  date_accepted: 2016-10-01T00:00:00.000Z
+  review_date: 2013-01-29T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2016-10-01T00:00:00.000Z
+  review_decision_event: Normal ISO processing
+  review_decision_notes: 'Publication of document ISO 19104:2016(E)'
+  release: '4'
+  terms:
+    - type: expression
+      designation: terminological entry identifier
+      normative_status: preferred
+  _revisions:
+    current: '480e75'
+    tree:
+      '480e75':
+        object:
+          id: 1696
+          definition: >-
+            unique, unambiguous, and linguistically neutral identifier assigned
+            to a terminological entry
+          language_code: eng
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19104:2016'
+            clause: '4.38'
+            link: 'https://www.iso.org/standard/63541.html'
+          date_accepted: 2016-10-01T00:00:00.000Z
+          review_date: 2013-01-29T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2016-10-01T00:00:00.000Z
+          review_decision_event: Normal ISO processing
+          review_decision_notes: 'Publication of document ISO 19104:2016(E)'
+          release: '4'
+          terms:
+            - type: expression
+              designation: terminological entry identifier
+              normative_status: preferred
+        parents: []
+        timeCreated: 2016-10-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 1696
+  definition: >-
+    identificador lingüísticamente neutro, único e inequívoco asignado a una
+    entrada terminológica
+  language_code: spa
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19104:2016'
+    clause: '4.38'
+    link: 'https://www.iso.org/standard/63541.html'
+  date_accepted: 2016-10-01T00:00:00.000Z
+  review_date: 2013-01-29T00:00:00.000Z
+  review_status: final
+  review_decision: ''
+  review_decision_date: 2016-10-01T00:00:00.000Z
+  review_decision_event: Normal ISO processing
+  review_decision_notes: 'Publication of document ISO 19104:2016(E)'
+  release: '4'
+  terms:
+    - type: expression
+      designation: identificador de entrada terminológica
+      normative_status: preferred
+  _revisions:
+    current: fe956d
+    tree:
+      fe956d:
+        object:
+          id: 1696
+          definition: >-
+            identificador lingüísticamente neutro, único e inequívoco asignado a
+            una entrada terminológica
+          language_code: spa
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19104:2016'
+            clause: '4.38'
+            link: 'https://www.iso.org/standard/63541.html'
+          date_accepted: 2016-10-01T00:00:00.000Z
+          review_date: 2013-01-29T00:00:00.000Z
+          review_status: final
+          review_decision: ''
+          review_decision_date: 2016-10-01T00:00:00.000Z
+          review_decision_event: Normal ISO processing
+          review_decision_notes: 'Publication of document ISO 19104:2016(E)'
+          release: '4'
+          terms:
+            - type: expression
+              designation: identificador de entrada terminológica
+              normative_status: preferred
+        parents: []
+        timeCreated: 2016-10-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

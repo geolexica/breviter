@@ -1,0 +1,263 @@
+term: mean sea level
+termid: 1562
+eng:
+  id: 1562
+  abbrev: MSL
+  definition: >-
+    average height of the surface of the sea at a tide station for all stages of
+    the tide over a 19-year period, usually determined from hourly height
+    readings measured from a fixed predetermined reference level
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: IHO Hydrographic Dictionary S-32
+    clause: Fifth Edition
+  lineage_source: 'ISO/TS 19130-2:2014, 4.43'
+  lineage_source_similarity: '1'
+  date_accepted: 2014-01-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: mean sea level
+      normative_status: preferred
+  _revisions:
+    current: b29fc8
+    tree:
+      b29fc8:
+        object:
+          id: 1562
+          abbrev: MSL
+          definition: >-
+            average height of the surface of the sea at a tide station for all
+            stages of the tide over a 19-year period, usually determined from
+            hourly height readings measured from a fixed predetermined reference
+            level
+          language_code: eng
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: IHO Hydrographic Dictionary S-32
+            clause: Fifth Edition
+          lineage_source: 'ISO/TS 19130-2:2014, 4.43'
+          lineage_source_similarity: '1'
+          date_accepted: 2014-01-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: mean sea level
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-01-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+kor:
+  id: 1562
+  definition: >-
+    고정 선결정 기준에 의해 측정된 보통 매 시간 별로 측정된 수치를 통해 결정된, 19년 이상의 기간 동안 조수의 전 단계에 대해 조위
+    관측소에서 측정하여 도출된 해수면 평균 높이
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: IHO Hydrographic Dictionary S-32
+    clause: Fifth Edition
+  lineage_source: 'ISO/TS 19130-2:2014, 4.43'
+  lineage_source_similarity: '1'
+  date_accepted: 2014-01-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: 평균해수면
+      normative_status: preferred
+  _revisions:
+    current: '868495'
+    tree:
+      '868495':
+        object:
+          id: 1562
+          definition: >-
+            고정 선결정 기준에 의해 측정된 보통 매 시간 별로 측정된 수치를 통해 결정된, 19년 이상의 기간 동안 조수의 전 단계에
+            대해 조위 관측소에서 측정하여 도출된 해수면 평균 높이
+          language_code: kor
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: IHO Hydrographic Dictionary S-32
+            clause: Fifth Edition
+          lineage_source: 'ISO/TS 19130-2:2014, 4.43'
+          lineage_source_similarity: '1'
+          date_accepted: 2014-01-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: 평균해수면
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-01-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+msa:
+  id: 1562
+  abbrev: min aras laut
+  definition: >-
+    Purata aras ketinggian permukaan laut, iaitu purata kesemua aras pasang
+    surut bagi kawasan tertentu
+  language_code: msa
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: IHO Hydrographic Dictionary S-32
+    clause: Fifth Edition
+  lineage_source: Pusat Rujukan Persuratan Melayu (DBP)
+  date_accepted: 2014-01-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: min aras laut
+      normative_status: preferred
+  _revisions:
+    current: '173010'
+    tree:
+      '173010':
+        object:
+          id: 1562
+          abbrev: min aras laut
+          definition: >-
+            Purata aras ketinggian permukaan laut, iaitu purata kesemua aras
+            pasang surut bagi kawasan tertentu
+          language_code: msa
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: IHO Hydrographic Dictionary S-32
+            clause: Fifth Edition
+          lineage_source: Pusat Rujukan Persuratan Melayu (DBP)
+          date_accepted: 2014-01-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: min aras laut
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-01-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 1562
+  abbrev: MSL
+  definition: >-
+    средняя высота поверхности моря на приливной станции для всех этапов прилива
+    в течение 19-летнего периода, как правило, определяется по часовым
+    показаниям высоты, измеренным от фиксированного заданного опорного уровня
+  language_code: rus
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: IHO Hydrographic Dictionary S-32
+    clause: Fifth Edition
+  lineage_source: 'ISO/TS 19130-2:2014, 4.43'
+  lineage_source_similarity: '1'
+  date_accepted: 2014-01-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: средний уровень моря
+      normative_status: preferred
+  _revisions:
+    current: e6cfc7
+    tree:
+      e6cfc7:
+        object:
+          id: 1562
+          abbrev: MSL
+          definition: >-
+            средняя высота поверхности моря на приливной станции для всех этапов
+            прилива в течение 19-летнего периода, как правило, определяется по
+            часовым показаниям высоты, измеренным от фиксированного заданного
+            опорного уровня
+          language_code: rus
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: IHO Hydrographic Dictionary S-32
+            clause: Fifth Edition
+          lineage_source: 'ISO/TS 19130-2:2014, 4.43'
+          lineage_source_similarity: '1'
+          date_accepted: 2014-01-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: средний уровень моря
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-01-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 1562
+  abbrev: MSL
+  definition: >-
+    promedio de la altura de la superficie del mar en una estación de mareas
+    para todas las etapas de la marea durante un período de 19 años; las alturas
+    se toman, generalmente, a cada hora y se miden a partir de un nivel de
+    referencia previamente determinado
+  language_code: spa
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: IHO Hydrographic Dictionary S-32
+    clause: Fifth Edition
+  lineage_source: 'ISO/TS 19130-2:2014, 4.43'
+  lineage_source_similarity: '1'
+  date_accepted: 2014-01-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: nivel medio del mar
+      normative_status: preferred
+  _revisions:
+    current: 94b96c
+    tree:
+      94b96c:
+        object:
+          id: 1562
+          abbrev: MSL
+          definition: >-
+            promedio de la altura de la superficie del mar en una estación de
+            mareas para todas las etapas de la marea durante un período de 19
+            años; las alturas se toman, generalmente, a cada hora y se miden a
+            partir de un nivel de referencia previamente determinado
+          language_code: spa
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: IHO Hydrographic Dictionary S-32
+            clause: Fifth Edition
+          lineage_source: 'ISO/TS 19130-2:2014, 4.43'
+          lineage_source_similarity: '1'
+          date_accepted: 2014-01-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: nivel medio del mar
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-01-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

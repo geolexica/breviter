@@ -1,0 +1,885 @@
+term: domain
+termid: 144
+eng:
+  id: 144
+  definition: well-defined set
+  language_code: eng
+  notes:
+    - >-
+      Domains are used to define the domain set and range set of attributes,
+      operators and functions.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19109:2015'
+    clause: '4.8'
+    link: 'https://www.iso.org/standard/59193.html'
+  lineage_source: 'ISO/TS 19103:2005, 4.1.6'
+  lineage_source_similarity: 1
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2012-08-06T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2015-12-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19109:2015'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO/TS 19103:2005 to ISO 19109:2015,
+    4.8. Lineage source added as ISO/TS 19103:2005, 4.1.6
+  release: '1'
+  terms:
+    - type: expression
+      designation: domain
+      normative_status: preferred
+  _revisions:
+    current: efb30c
+    tree:
+      efb30c:
+        object:
+          id: 144
+          definition: well-defined set
+          language_code: eng
+          notes:
+            - >-
+              Domains are used to define the domain set and range set of
+              attributes, operators and functions.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19109:2015'
+            clause: '4.8'
+            link: 'https://www.iso.org/standard/59193.html'
+          lineage_source: 'ISO/TS 19103:2005, 4.1.6'
+          lineage_source_similarity: 1
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2012-08-06T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2015-12-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19109:2015'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO/TS 19103:2005 to ISO
+            19109:2015, 4.8. Lineage source added as ISO/TS 19103:2005, 4.1.6
+          release: '1'
+          terms:
+            - type: expression
+              designation: domain
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+ara:
+  id: 144
+  definition: مجموعة معرفة تعريفاً جيداً
+  language_code: ara
+  notes:
+    - >-
+      تستخدم المجالات لتحديد مجموعة المجالات ومجموعة المدى الخاصة بالبيانات
+      الوصفية ، والمشغلين والدالات.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19109:2015'
+    clause: '4.8'
+    link: 'https://www.iso.org/standard/59193.html'
+  lineage_source: 'ISO/TS 19103:2005, 4.1.6'
+  lineage_source_similarity: 1
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2012-08-06T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2015-12-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19109:2015'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO/TS 19103:2005 to ISO 19109:2015,
+    4.8. Lineage source added as ISO/TS 19103:2005, 4.1.6
+  release: '1'
+  terms:
+    - type: expression
+      designation: المجال
+      normative_status: preferred
+  _revisions:
+    current: a4949a
+    tree:
+      a4949a:
+        object:
+          id: 144
+          definition: مجموعة معرفة تعريفاً جيداً
+          language_code: ara
+          notes:
+            - >-
+              تستخدم المجالات لتحديد مجموعة المجالات ومجموعة المدى الخاصة
+              بالبيانات الوصفية ، والمشغلين والدالات.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19109:2015'
+            clause: '4.8'
+            link: 'https://www.iso.org/standard/59193.html'
+          lineage_source: 'ISO/TS 19103:2005, 4.1.6'
+          lineage_source_similarity: 1
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2012-08-06T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2015-12-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19109:2015'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO/TS 19103:2005 to ISO
+            19109:2015, 4.8. Lineage source added as ISO/TS 19103:2005, 4.1.6
+          release: '1'
+          terms:
+            - type: expression
+              designation: المجال
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+zho:
+  id: 144
+  definition: 定义明确的集合。
+  language_code: zho
+  notes:
+    - 域用于定义域的集合以及属性、算子和函数的范围集合。
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19109:2015'
+    clause: '4.8'
+    link: 'https://www.iso.org/standard/59193.html'
+  lineage_source: 'ISO/TS 19103:2005, 4.1.6'
+  lineage_source_similarity: 1
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2012-08-06T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2015-12-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19109:2015'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO/TS 19103:2005 to ISO 19109:2015,
+    4.8. Lineage source added as ISO/TS 19103:2005, 4.1.6
+  release: '1'
+  terms:
+    - type: expression
+      designation: 域
+      normative_status: preferred
+  _revisions:
+    current: bf4364
+    tree:
+      bf4364:
+        object:
+          id: 144
+          definition: 定义明确的集合。
+          language_code: zho
+          notes:
+            - 域用于定义域的集合以及属性、算子和函数的范围集合。
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19109:2015'
+            clause: '4.8'
+            link: 'https://www.iso.org/standard/59193.html'
+          lineage_source: 'ISO/TS 19103:2005, 4.1.6'
+          lineage_source_similarity: 1
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2012-08-06T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2015-12-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19109:2015'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO/TS 19103:2005 to ISO
+            19109:2015, 4.8. Lineage source added as ISO/TS 19103:2005, 4.1.6
+          release: '1'
+          terms:
+            - type: expression
+              designation: 域
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+dan:
+  id: 144
+  definition: veldefineret mængde
+  language_code: dan
+  notes:
+    - >-
+      Domæner anvendes til at definere domænesæt og intervalsæt for attributter,
+      operatorer og funktioner.
+  examples: []
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19109:2015'
+    clause: '4.8'
+    link: 'https://www.iso.org/standard/59193.html'
+  lineage_source: 'ISO/TS 19103:2005, 4.1.6'
+  lineage_source_similarity: 1
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2012-08-06T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2015-12-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19109:2015'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO/TS 19103:2005 to ISO 19109:2015,
+    4.8. Lineage source added as ISO/TS 19103:2005, 4.1.6
+  release: '1'
+  terms:
+    - type: expression
+      designation: domæne
+      normative_status: null
+  _revisions:
+    current: 5ee59a
+    tree:
+      5ee59a:
+        object:
+          id: 144
+          definition: veldefineret mængde
+          language_code: dan
+          notes:
+            - >-
+              Domæner anvendes til at definere domænesæt og intervalsæt for
+              attributter, operatorer og funktioner.
+          examples: []
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19109:2015'
+            clause: '4.8'
+            link: 'https://www.iso.org/standard/59193.html'
+          lineage_source: 'ISO/TS 19103:2005, 4.1.6'
+          lineage_source_similarity: 1
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2012-08-06T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2015-12-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19109:2015'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO/TS 19103:2005 to ISO
+            19109:2015, 4.8. Lineage source added as ISO/TS 19103:2005, 4.1.6
+          release: '1'
+          terms:
+            - type: expression
+              designation: domæne
+              normative_status: null
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+nld:
+  id: 144
+  definition: gedefinieerde set
+  language_code: nld
+  notes:
+    - >-
+      Domains are used to define the domain set and range set of attributes,
+      operators and functions.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19109:2015'
+    clause: '4.8'
+    link: 'https://www.iso.org/standard/59193.html'
+  lineage_source: 'ISO/TS 19103:2005, 4.1.6'
+  lineage_source_similarity: 1
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2012-08-06T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2015-12-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19109:2015'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO/TS 19103:2005 to ISO 19109:2015,
+    4.8. Lineage source added as ISO/TS 19103:2005, 4.1.6
+  release: '1'
+  terms:
+    - type: expression
+      designation: domein
+      normative_status: preferred
+  _revisions:
+    current: 7ac18b
+    tree:
+      7ac18b:
+        object:
+          id: 144
+          definition: gedefinieerde set
+          language_code: nld
+          notes:
+            - >-
+              Domains are used to define the domain set and range set of
+              attributes, operators and functions.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19109:2015'
+            clause: '4.8'
+            link: 'https://www.iso.org/standard/59193.html'
+          lineage_source: 'ISO/TS 19103:2005, 4.1.6'
+          lineage_source_similarity: 1
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2012-08-06T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2015-12-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19109:2015'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO/TS 19103:2005 to ISO
+            19109:2015, 4.8. Lineage source added as ISO/TS 19103:2005, 4.1.6
+          release: '1'
+          terms:
+            - type: expression
+              designation: domein
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+fin:
+  id: 144
+  definition: hyvinmääritelty joukko
+  language_code: fin
+  notes:
+    - >-
+      Määritysjoukkoja käytetään ominaisuuksien, operaattoreiden ja funktioiden
+      arvojoukkojen määrittelyyn.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19109:2015'
+    clause: '4.8'
+    link: 'https://www.iso.org/standard/59193.html'
+  lineage_source: 'ISO/TS 19103:2005, 4.1.6'
+  lineage_source_similarity: 1
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2012-08-06T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2015-12-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19109:2015'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO/TS 19103:2005 to ISO 19109:2015,
+    4.8. Lineage source added as ISO/TS 19103:2005, 4.1.6
+  release: '1'
+  terms:
+    - type: expression
+      designation: määritysjoukko
+      normative_status: preferred
+    - designation: domain
+      type: expression
+  _revisions:
+    current: '982822'
+    tree:
+      '982822':
+        object:
+          id: 144
+          definition: hyvinmääritelty joukko
+          language_code: fin
+          notes:
+            - >-
+              Määritysjoukkoja käytetään ominaisuuksien, operaattoreiden ja
+              funktioiden arvojoukkojen määrittelyyn.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19109:2015'
+            clause: '4.8'
+            link: 'https://www.iso.org/standard/59193.html'
+          lineage_source: 'ISO/TS 19103:2005, 4.1.6'
+          lineage_source_similarity: 1
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2012-08-06T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2015-12-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19109:2015'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO/TS 19103:2005 to ISO
+            19109:2015, 4.8. Lineage source added as ISO/TS 19103:2005, 4.1.6
+          release: '1'
+          terms:
+            - type: expression
+              designation: määritysjoukko
+              normative_status: preferred
+            - designation: domain
+              type: expression
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+fra:
+  id: 144
+  definition: ensemble défini
+  language_code: fra
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19109:2015'
+    clause: '4.8'
+    link: 'https://www.iso.org/standard/59193.html'
+  lineage_source: 'ISO/TS 19103:2005, 4.1.6'
+  lineage_source_similarity: 1
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2012-08-06T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2015-12-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19109:2015'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO/TS 19103:2005 to ISO 19109:2015,
+    4.8. Lineage source added as ISO/TS 19103:2005, 4.1.6
+  release: '1'
+  terms:
+    - type: expression
+      designation: domaine
+      normative_status: preferred
+  _revisions:
+    current: 87f459
+    tree:
+      87f459:
+        object:
+          id: 144
+          definition: ensemble défini
+          language_code: fra
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19109:2015'
+            clause: '4.8'
+            link: 'https://www.iso.org/standard/59193.html'
+          lineage_source: 'ISO/TS 19103:2005, 4.1.6'
+          lineage_source_similarity: 1
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2012-08-06T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2015-12-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19109:2015'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO/TS 19103:2005 to ISO
+            19109:2015, 4.8. Lineage source added as ISO/TS 19103:2005, 4.1.6
+          release: '1'
+          terms:
+            - type: expression
+              designation: domaine
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+deu:
+  id: 144
+  definition: wohldefiniertes (Fach-) Gebiet oder bestimmter Wertebereich
+  language_code: deu
+  notes:
+    - >-
+      Domains are used to define the domain set and range set of attributes,
+      operators and functions.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19109:2015'
+    clause: '4.8'
+    link: 'https://www.iso.org/standard/59193.html'
+  lineage_source: 'ISO/TS 19103:2005, 4.1.6'
+  lineage_source_similarity: 1
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2012-08-06T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2015-12-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19109:2015'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO/TS 19103:2005 to ISO 19109:2015,
+    4.8. Lineage source added as ISO/TS 19103:2005, 4.1.6
+  release: '1'
+  terms:
+    - type: expression
+      designation: Bereich
+      normative_status: preferred
+  _revisions:
+    current: b4e326
+    tree:
+      b4e326:
+        object:
+          id: 144
+          definition: wohldefiniertes (Fach-) Gebiet oder bestimmter Wertebereich
+          language_code: deu
+          notes:
+            - >-
+              Domains are used to define the domain set and range set of
+              attributes, operators and functions.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19109:2015'
+            clause: '4.8'
+            link: 'https://www.iso.org/standard/59193.html'
+          lineage_source: 'ISO/TS 19103:2005, 4.1.6'
+          lineage_source_similarity: 1
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2012-08-06T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2015-12-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19109:2015'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO/TS 19103:2005 to ISO
+            19109:2015, 4.8. Lineage source added as ISO/TS 19103:2005, 4.1.6
+          release: '1'
+          terms:
+            - type: expression
+              designation: Bereich
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+kor:
+  id: 144
+  definition: 잘 정의된 값들의 집합
+  language_code: kor
+  notes:
+    - '영역은 속성, 연산자, 함수에 대한 영역 및 범위를 정의하는 데 사용된다.'
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19109:2015'
+    clause: '4.8'
+    link: 'https://www.iso.org/standard/59193.html'
+  lineage_source: 'ISO/TS 19103:2005, 4.1.6'
+  lineage_source_similarity: 1
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2012-08-06T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2015-12-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19109:2015'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO/TS 19103:2005 to ISO 19109:2015,
+    4.8. Lineage source added as ISO/TS 19103:2005, 4.1.6
+  release: '1'
+  terms:
+    - type: expression
+      designation: 영역
+      normative_status: preferred
+    - designation: 도메인
+      type: expression
+  _revisions:
+    current: 505bac
+    tree:
+      505bac:
+        object:
+          id: 144
+          definition: 잘 정의된 값들의 집합
+          language_code: kor
+          notes:
+            - '영역은 속성, 연산자, 함수에 대한 영역 및 범위를 정의하는 데 사용된다.'
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19109:2015'
+            clause: '4.8'
+            link: 'https://www.iso.org/standard/59193.html'
+          lineage_source: 'ISO/TS 19103:2005, 4.1.6'
+          lineage_source_similarity: 1
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2012-08-06T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2015-12-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19109:2015'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO/TS 19103:2005 to ISO
+            19109:2015, 4.8. Lineage source added as ISO/TS 19103:2005, 4.1.6
+          release: '1'
+          terms:
+            - type: expression
+              designation: 영역
+              normative_status: preferred
+            - designation: 도메인
+              type: expression
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+msa:
+  id: 144
+  definition: >-
+    1 kawasan yg dimiliki atau dikuasai oleh seseorang pemimpin atau sesebuah
+    kerajaan: Mereka tidak akan keluar dr ~ itu. 2 kumpulan atau liputan bagi
+    sesuatu yg dibincangkan atau bagi sesuatu masalah yg hendak diselesaikan
+  language_code: msa
+  notes:
+    - >-
+      Domains are used to define the domain set and range set of attributes,
+      operators and functions.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO/TS 19103:2005'
+    link: 'https://www.iso.org/standard/37800.html'
+  lineage_source: Pusat Rujukan Persuratan Melayu (DBP)
+  date_accepted: 2003-05-01T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: domain
+      normative_status: preferred
+  _revisions:
+    current: 70142b
+    tree:
+      70142b:
+        object:
+          id: 144
+          definition: >-
+            1 kawasan yg dimiliki atau dikuasai oleh seseorang pemimpin atau
+            sesebuah kerajaan: Mereka tidak akan keluar dr ~ itu. 2 kumpulan
+            atau liputan bagi sesuatu yg dibincangkan atau bagi sesuatu masalah
+            yg hendak diselesaikan
+          language_code: msa
+          notes:
+            - >-
+              Domains are used to define the domain set and range set of
+              attributes, operators and functions.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO/TS 19103:2005'
+            link: 'https://www.iso.org/standard/37800.html'
+          lineage_source: Pusat Rujukan Persuratan Melayu (DBP)
+          date_accepted: 2003-05-01T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: domain
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 144
+  definition: строго определенное множество
+  language_code: rus
+  notes:
+    - >-
+      Домены используют для определения области значений множеств и диапозона 
+      значений применительно к атрибутам, операторам и функциям
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO/TS 19103:2005'
+    link: 'https://www.iso.org/standard/37800.html'
+  lineage_source: Internet
+  date_accepted: 2003-05-01T00:00:00.000Z
+  terms:
+    - type: expression
+      designation: область допустимых значений (домен)
+      normative_status: preferred
+  _revisions:
+    current: e868b5
+    tree:
+      e868b5:
+        object:
+          id: 144
+          definition: строго определенное множество
+          language_code: rus
+          notes:
+            - >-
+              Домены используют для определения области значений множеств и
+              диапозона  значений применительно к атрибутам, операторам и
+              функциям
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO/TS 19103:2005'
+            link: 'https://www.iso.org/standard/37800.html'
+          lineage_source: Internet
+          date_accepted: 2003-05-01T00:00:00.000Z
+          terms:
+            - type: expression
+              designation: область допустимых значений (домен)
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 144
+  definition: conjunto bien definido
+  language_code: spa
+  notes:
+    - >-
+      Los dominios se usan para definir el conjunto de dominios y rango de
+      atributos, operadores y funciones.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19109:2015'
+    clause: '4.8'
+    link: 'https://www.iso.org/standard/59193.html'
+  lineage_source: 'ISO/TS 19103:2005, 4.1.6'
+  lineage_source_similarity: 1
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2012-08-06T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2015-12-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19109:2015'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO/TS 19103:2005 to ISO 19109:2015,
+    4.8. Lineage source added as ISO/TS 19103:2005, 4.1.6
+  release: '1'
+  terms:
+    - type: expression
+      designation: dominio
+      normative_status: preferred
+  _revisions:
+    current: f0f202
+    tree:
+      f0f202:
+        object:
+          id: 144
+          definition: conjunto bien definido
+          language_code: spa
+          notes:
+            - >-
+              Los dominios se usan para definir el conjunto de dominios y rango
+              de atributos, operadores y funciones.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19109:2015'
+            clause: '4.8'
+            link: 'https://www.iso.org/standard/59193.html'
+          lineage_source: 'ISO/TS 19103:2005, 4.1.6'
+          lineage_source_similarity: 1
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2012-08-06T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2015-12-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19109:2015'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO/TS 19103:2005 to ISO
+            19109:2015, 4.8. Lineage source added as ISO/TS 19103:2005, 4.1.6
+          release: '1'
+          terms:
+            - type: expression
+              designation: dominio
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+swe:
+  id: 144
+  definition: giltiga värden för ett attribut av en viss attributtyp
+  country_code: swe
+  language_code: swe
+  notes:
+    - >-
+      Domains are used to define the domain set and range set of attributes,
+      operators and functions.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19109:2015'
+    clause: '4.8'
+    link: 'https://www.iso.org/standard/59193.html'
+  lineage_source: 'ISO/TS 19103:2005, 4.1.6'
+  lineage_source_similarity: 1
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2012-08-06T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2015-12-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19109:2015'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO/TS 19103:2005 to ISO 19109:2015,
+    4.8. Lineage source added as ISO/TS 19103:2005, 4.1.6
+  release: '1'
+  terms:
+    - type: expression
+      designation: domän
+      normative_status: preferred
+  _revisions:
+    current: e6a620
+    tree:
+      e6a620:
+        object:
+          id: 144
+          definition: giltiga värden för ett attribut av en viss attributtyp
+          country_code: swe
+          language_code: swe
+          notes:
+            - >-
+              Domains are used to define the domain set and range set of
+              attributes, operators and functions.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19109:2015'
+            clause: '4.8'
+            link: 'https://www.iso.org/standard/59193.html'
+          lineage_source: 'ISO/TS 19103:2005, 4.1.6'
+          lineage_source_similarity: 1
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2012-08-06T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2015-12-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19109:2015'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO/TS 19103:2005 to ISO
+            19109:2015, 4.8. Lineage source added as ISO/TS 19103:2005, 4.1.6
+          release: '1'
+          terms:
+            - type: expression
+              designation: domän
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

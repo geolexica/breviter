@@ -1,0 +1,867 @@
+term: topological primitive
+termid: 467
+eng:
+  id: 467
+  definition: 'topological object that represents a single, non-decomposable element'
+  language_code: eng
+  notes:
+    - >-
+      A topological primitive corresponds to the interior of a geometric
+      primitive of the same dimension in a geometric realization.
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19107:2003'
+    link: 'https://www.iso.org/standard/26012.html'
+  lineage_source: 'ISO 19108:2002'
+  lineage_source_similarity: 1
+  date_accepted: 2002-09-01T00:00:00.000Z
+  date_amended: 2019-12-02T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: 'Publication of document ISO 19107:2019(E)'
+  review_decision_notes: >-
+    This entry is superseded by the entry for topological primitive <geometry,
+    topology> in ISO 19107:2019(E)
+  release: '-1'
+  terms:
+    - type: expression
+      designation: topological primitive
+      normative_status: null
+  _revisions:
+    current: 8cc39e
+    tree:
+      8cc39e:
+        object:
+          id: 467
+          definition: >-
+            topological object that represents a single, non-decomposable
+            element
+          language_code: eng
+          notes:
+            - >-
+              A topological primitive corresponds to the interior of a geometric
+              primitive of the same dimension in a geometric realization.
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19107:2003'
+            link: 'https://www.iso.org/standard/26012.html'
+          lineage_source: 'ISO 19108:2002'
+          lineage_source_similarity: 1
+          date_accepted: 2002-09-01T00:00:00.000Z
+          date_amended: 2019-12-02T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: 'Publication of document ISO 19107:2019(E)'
+          review_decision_notes: >-
+            This entry is superseded by the entry for topological primitive
+            <geometry, topology> in ISO 19107:2019(E)
+          release: '-1'
+          terms:
+            - type: expression
+              designation: topological primitive
+              normative_status: null
+        parents: []
+        timeCreated: 2002-09-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+ara:
+  id: 467
+  definition: كائن طوبولوجي يمثل عنصرا وحيدا غير قابل للتحليل إلى عناصر أبسط
+  language_code: ara
+  notes:
+    - >-
+      العنصر الطوبولوجي الأولي مطابق للجزء الداخلي لعنصر أولي هندسي بنفس الأبعاد
+      في تمثيل هندسي.
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19107:2003'
+    link: 'https://www.iso.org/standard/26012.html'
+  lineage_source: 'ISO 19108:2002'
+  lineage_source_similarity: 1
+  date_accepted: 2002-09-01T00:00:00.000Z
+  date_amended: 2019-12-02T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: 'Publication of document ISO 19107:2019(E)'
+  review_decision_notes: >-
+    This entry is superseded by the entry for topological primitive <geometry,
+    topology> in ISO 19107:2019(E)
+  release: '-1'
+  terms:
+    - type: expression
+      designation: عنصر طوبولوجي بسيط
+      normative_status: null
+  _revisions:
+    current: 8d13d0
+    tree:
+      8d13d0:
+        object:
+          id: 467
+          definition: كائن طوبولوجي يمثل عنصرا وحيدا غير قابل للتحليل إلى عناصر أبسط
+          language_code: ara
+          notes:
+            - >-
+              العنصر الطوبولوجي الأولي مطابق للجزء الداخلي لعنصر أولي هندسي بنفس
+              الأبعاد في تمثيل هندسي.
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19107:2003'
+            link: 'https://www.iso.org/standard/26012.html'
+          lineage_source: 'ISO 19108:2002'
+          lineage_source_similarity: 1
+          date_accepted: 2002-09-01T00:00:00.000Z
+          date_amended: 2019-12-02T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: 'Publication of document ISO 19107:2019(E)'
+          review_decision_notes: >-
+            This entry is superseded by the entry for topological primitive
+            <geometry, topology> in ISO 19107:2019(E)
+          release: '-1'
+          terms:
+            - type: expression
+              designation: عنصر طوبولوجي بسيط
+              normative_status: null
+        parents: []
+        timeCreated: 2002-09-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+zho:
+  id: 467
+  definition: 单一的、不可再分的拓扑对象。
+  language_code: zho
+  notes:
+    - 拓扑单形对应于几何实现中一个同维几何单形的内部。
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19107:2003'
+    link: 'https://www.iso.org/standard/26012.html'
+  lineage_source: 'ISO 19108:2002'
+  lineage_source_similarity: 1
+  date_accepted: 2002-09-01T00:00:00.000Z
+  date_amended: 2019-12-02T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: 'Publication of document ISO 19107:2019(E)'
+  review_decision_notes: >-
+    This entry is superseded by the entry for topological primitive <geometry,
+    topology> in ISO 19107:2019(E)
+  release: '-1'
+  terms:
+    - type: expression
+      designation: 拓扑单形
+      normative_status: null
+  _revisions:
+    current: '0e8794'
+    tree:
+      '0e8794':
+        object:
+          id: 467
+          definition: 单一的、不可再分的拓扑对象。
+          language_code: zho
+          notes:
+            - 拓扑单形对应于几何实现中一个同维几何单形的内部。
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19107:2003'
+            link: 'https://www.iso.org/standard/26012.html'
+          lineage_source: 'ISO 19108:2002'
+          lineage_source_similarity: 1
+          date_accepted: 2002-09-01T00:00:00.000Z
+          date_amended: 2019-12-02T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: 'Publication of document ISO 19107:2019(E)'
+          review_decision_notes: >-
+            This entry is superseded by the entry for topological primitive
+            <geometry, topology> in ISO 19107:2019(E)
+          release: '-1'
+          terms:
+            - type: expression
+              designation: 拓扑单形
+              normative_status: null
+        parents: []
+        timeCreated: 2002-09-01T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+fin:
+  id: 467
+  definition: >-
+    topologinen objekti, joka edustaa yksittäistä, jatkuvaa ja yhtenäistä
+    topologisen avaruuden osaa
+  language_code: fin
+  notes:
+    - >-
+      Topologinen primitiivi vastaa geometrisessä ilmentymässä saman
+      ulottuvuuden geometrisen primitiivin sisäpuolta.
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19107:2003'
+    link: 'https://www.iso.org/standard/26012.html'
+  lineage_source: 'ISO 19108:2002'
+  lineage_source_similarity: 1
+  date_accepted: 2002-09-01T00:00:00.000Z
+  date_amended: 2019-12-02T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: 'Publication of document ISO 19107:2019(E)'
+  review_decision_notes: >-
+    This entry is superseded by the entry for topological primitive <geometry,
+    topology> in ISO 19107:2019(E)
+  release: '-1'
+  terms:
+    - type: expression
+      designation: topologinen primitiivi
+      normative_status: null
+  _revisions:
+    current: 7fe919
+    tree:
+      7fe919:
+        object:
+          id: 467
+          definition: >-
+            topologinen objekti, joka edustaa yksittäistä, jatkuvaa ja
+            yhtenäistä topologisen avaruuden osaa
+          language_code: fin
+          notes:
+            - >-
+              Topologinen primitiivi vastaa geometrisessä ilmentymässä saman
+              ulottuvuuden geometrisen primitiivin sisäpuolta.
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19107:2003'
+            link: 'https://www.iso.org/standard/26012.html'
+          lineage_source: 'ISO 19108:2002'
+          lineage_source_similarity: 1
+          date_accepted: 2002-09-01T00:00:00.000Z
+          date_amended: 2019-12-02T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: 'Publication of document ISO 19107:2019(E)'
+          review_decision_notes: >-
+            This entry is superseded by the entry for topological primitive
+            <geometry, topology> in ISO 19107:2019(E)
+          release: '-1'
+          terms:
+            - type: expression
+              designation: topologinen primitiivi
+              normative_status: null
+        parents: []
+        timeCreated: 2002-09-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+fra:
+  id: 467
+  definition: objet topologique qui représente un élément unique non-décomposable
+  language_code: fra
+  notes: []
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19107:2003'
+    link: 'https://www.iso.org/standard/26012.html'
+  lineage_source: 'ISO 19108:2002'
+  lineage_source_similarity: 1
+  date_accepted: 2002-09-01T00:00:00.000Z
+  date_amended: 2019-12-02T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: 'Publication of document ISO 19107:2019(E)'
+  review_decision_notes: >-
+    This entry is superseded by the entry for topological primitive <geometry,
+    topology> in ISO 19107:2019(E)
+  release: '-1'
+  terms:
+    - type: expression
+      designation: primitive topologique
+      normative_status: null
+  _revisions:
+    current: b7d356
+    tree:
+      b7d356:
+        object:
+          id: 467
+          definition: objet topologique qui représente un élément unique non-décomposable
+          language_code: fra
+          notes: []
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19107:2003'
+            link: 'https://www.iso.org/standard/26012.html'
+          lineage_source: 'ISO 19108:2002'
+          lineage_source_similarity: 1
+          date_accepted: 2002-09-01T00:00:00.000Z
+          date_amended: 2019-12-02T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: 'Publication of document ISO 19107:2019(E)'
+          review_decision_notes: >-
+            This entry is superseded by the entry for topological primitive
+            <geometry, topology> in ISO 19107:2019(E)
+          release: '-1'
+          terms:
+            - type: expression
+              designation: primitive topologique
+              normative_status: null
+        parents: []
+        timeCreated: 2002-09-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+deu:
+  id: 467
+  language_code: deu
+  notes:
+    - >-
+      A topological primitive corresponds to the interior of a geometric
+      primitive of the same dimension in a geometric realization.
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19107:2003'
+    link: 'https://www.iso.org/standard/26012.html'
+  lineage_source: 'ISO 19108:2002'
+  lineage_source_similarity: 1
+  date_accepted: 2002-09-01T00:00:00.000Z
+  date_amended: 2019-12-02T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: 'Publication of document ISO 19107:2019(E)'
+  review_decision_notes: >-
+    This entry is superseded by the entry for topological primitive <geometry,
+    topology> in ISO 19107:2019(E)
+  release: '-1'
+  terms:
+    - type: expression
+      designation: topologisches Primitiv
+      normative_status: null
+  _revisions:
+    current: 166f04
+    tree:
+      166f04:
+        object:
+          id: 467
+          language_code: deu
+          notes:
+            - >-
+              A topological primitive corresponds to the interior of a geometric
+              primitive of the same dimension in a geometric realization.
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19107:2003'
+            link: 'https://www.iso.org/standard/26012.html'
+          lineage_source: 'ISO 19108:2002'
+          lineage_source_similarity: 1
+          date_accepted: 2002-09-01T00:00:00.000Z
+          date_amended: 2019-12-02T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: 'Publication of document ISO 19107:2019(E)'
+          review_decision_notes: >-
+            This entry is superseded by the entry for topological primitive
+            <geometry, topology> in ISO 19107:2019(E)
+          release: '-1'
+          terms:
+            - type: expression
+              designation: topologisches Primitiv
+              normative_status: null
+        parents: []
+        timeCreated: 2002-09-01T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+jpn:
+  id: 467
+  definition: 単独の不可分な要素を表す位相オブジェクト。
+  language_code: jpn
+  notes:
+    - 位相プリミティブは幾何実現における同じ次元の幾何プリミティブの内部に相当する。
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19107:2003'
+    link: 'https://www.iso.org/standard/26012.html'
+  lineage_source: 'ISO 19108:2002'
+  lineage_source_similarity: 1
+  date_accepted: 2002-09-01T00:00:00.000Z
+  date_amended: 2019-12-02T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: 'Publication of document ISO 19107:2019(E)'
+  review_decision_notes: >-
+    This entry is superseded by the entry for topological primitive <geometry,
+    topology> in ISO 19107:2019(E)
+  release: '-1'
+  terms:
+    - type: expression
+      designation: 位相プリミティブ
+      normative_status: null
+  _revisions:
+    current: 410be8
+    tree:
+      410be8:
+        object:
+          id: 467
+          definition: 単独の不可分な要素を表す位相オブジェクト。
+          language_code: jpn
+          notes:
+            - 位相プリミティブは幾何実現における同じ次元の幾何プリミティブの内部に相当する。
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19107:2003'
+            link: 'https://www.iso.org/standard/26012.html'
+          lineage_source: 'ISO 19108:2002'
+          lineage_source_similarity: 1
+          date_accepted: 2002-09-01T00:00:00.000Z
+          date_amended: 2019-12-02T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: 'Publication of document ISO 19107:2019(E)'
+          review_decision_notes: >-
+            This entry is superseded by the entry for topological primitive
+            <geometry, topology> in ISO 19107:2019(E)
+          release: '-1'
+          terms:
+            - type: expression
+              designation: 位相プリミティブ
+              normative_status: null
+        parents: []
+        timeCreated: 2002-09-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+kor:
+  id: 467
+  definition: 분해할 수 없는 하나의 요소를 표현하는 위상 객체
+  language_code: kor
+  notes:
+    - 위상 원시 객체는 기하 실현에서 동일한 차원의 기하 원시 객체의 내부와 일치한다.
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19107:2003'
+    link: 'https://www.iso.org/standard/26012.html'
+  lineage_source: 'ISO 19108:2002'
+  lineage_source_similarity: 1
+  date_accepted: 2002-09-01T00:00:00.000Z
+  date_amended: 2019-12-02T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: 'Publication of document ISO 19107:2019(E)'
+  review_decision_notes: >-
+    This entry is superseded by the entry for topological primitive <geometry,
+    topology> in ISO 19107:2019(E)
+  release: '-1'
+  terms:
+    - type: expression
+      designation: 위상 원시 객체
+      normative_status: null
+  _revisions:
+    current: 26dc91
+    tree:
+      26dc91:
+        object:
+          id: 467
+          definition: 분해할 수 없는 하나의 요소를 표현하는 위상 객체
+          language_code: kor
+          notes:
+            - 위상 원시 객체는 기하 실현에서 동일한 차원의 기하 원시 객체의 내부와 일치한다.
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19107:2003'
+            link: 'https://www.iso.org/standard/26012.html'
+          lineage_source: 'ISO 19108:2002'
+          lineage_source_similarity: 1
+          date_accepted: 2002-09-01T00:00:00.000Z
+          date_amended: 2019-12-02T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: 'Publication of document ISO 19107:2019(E)'
+          review_decision_notes: >-
+            This entry is superseded by the entry for topological primitive
+            <geometry, topology> in ISO 19107:2019(E)
+          release: '-1'
+          terms:
+            - type: expression
+              designation: 위상 원시 객체
+              normative_status: null
+        parents: []
+        timeCreated: 2002-09-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+pol:
+  id: 467
+  definition: 'obiekt topologiczny reprezentujący pojedynczy, niepodzielny element'
+  language_code: pol
+  notes:
+    - >-
+      W realizacji geometrycznej prosty element topologiczny odpowiada wnętrzu
+      prostego elementu geometrycznego o tym samym wymiarze.
+  examples: []
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19107:2003'
+    link: 'https://www.iso.org/standard/26012.html'
+  lineage_source: 'ISO 19108:2002'
+  lineage_source_similarity: 1
+  date_accepted: 2002-09-01T00:00:00.000Z
+  date_amended: 2019-12-02T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: 'Publication of document ISO 19107:2019(E)'
+  review_decision_notes: >-
+    This entry is superseded by the entry for topological primitive <geometry,
+    topology> in ISO 19107:2019(E)
+  release: '-1'
+  terms:
+    - type: expression
+      designation: prosty element topologiczny
+      normative_status: null
+  _revisions:
+    current: ac45a2
+    tree:
+      ac45a2:
+        object:
+          id: 467
+          definition: 'obiekt topologiczny reprezentujący pojedynczy, niepodzielny element'
+          language_code: pol
+          notes:
+            - >-
+              W realizacji geometrycznej prosty element topologiczny odpowiada
+              wnętrzu prostego elementu geometrycznego o tym samym wymiarze.
+          examples: []
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19107:2003'
+            link: 'https://www.iso.org/standard/26012.html'
+          lineage_source: 'ISO 19108:2002'
+          lineage_source_similarity: 1
+          date_accepted: 2002-09-01T00:00:00.000Z
+          date_amended: 2019-12-02T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: 'Publication of document ISO 19107:2019(E)'
+          review_decision_notes: >-
+            This entry is superseded by the entry for topological primitive
+            <geometry, topology> in ISO 19107:2019(E)
+          release: '-1'
+          terms:
+            - type: expression
+              designation: prosty element topologiczny
+              normative_status: null
+        parents: []
+        timeCreated: 2002-09-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 467
+  definition: 'топологический объект, представляющий  отдельный, неделимый элемент'
+  language_code: rus
+  notes:
+    - >-
+      Топологический примитив соответствует геометрическому примитиву такой же
+      размерности в геометрической реализации
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19107:2003'
+    link: 'https://www.iso.org/standard/26012.html'
+  lineage_source: 'ISO 19108:2002'
+  lineage_source_similarity: 1
+  date_accepted: 2002-09-01T00:00:00.000Z
+  date_amended: 2019-12-02T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: 'Publication of document ISO 19107:2019(E)'
+  review_decision_notes: >-
+    This entry is superseded by the entry for topological primitive <geometry,
+    topology> in ISO 19107:2019(E)
+  release: '-1'
+  terms:
+    - type: expression
+      designation: топологический примитив
+      normative_status: null
+  _revisions:
+    current: 5428ea
+    tree:
+      5428ea:
+        object:
+          id: 467
+          definition: 'топологический объект, представляющий  отдельный, неделимый элемент'
+          language_code: rus
+          notes:
+            - >-
+              Топологический примитив соответствует геометрическому примитиву
+              такой же размерности в геометрической реализации
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19107:2003'
+            link: 'https://www.iso.org/standard/26012.html'
+          lineage_source: 'ISO 19108:2002'
+          lineage_source_similarity: 1
+          date_accepted: 2002-09-01T00:00:00.000Z
+          date_amended: 2019-12-02T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: 'Publication of document ISO 19107:2019(E)'
+          review_decision_notes: >-
+            This entry is superseded by the entry for topological primitive
+            <geometry, topology> in ISO 19107:2019(E)
+          release: '-1'
+          terms:
+            - type: expression
+              designation: топологический примитив
+              normative_status: null
+        parents: []
+        timeCreated: 2002-09-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 467
+  definition: objeto topológico que representa un elemento único indivisible
+  language_code: spa
+  notes:
+    - >-
+      Una primitiva topológica equivale al interior de una primitiva geométrica
+      de la misma dimensión en una realización (representación) geométrica.
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19107:2003'
+    link: 'https://www.iso.org/standard/26012.html'
+  lineage_source: 'ISO 19108:2002'
+  lineage_source_similarity: 1
+  date_accepted: 2002-09-01T00:00:00.000Z
+  date_amended: 2019-12-02T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: 'Publication of document ISO 19107:2019(E)'
+  review_decision_notes: >-
+    This entry is superseded by the entry for topological primitive <geometry,
+    topology> in ISO 19107:2019(E)
+  release: '-1'
+  terms:
+    - type: expression
+      designation: primitiva topológica
+      normative_status: null
+  _revisions:
+    current: edf873
+    tree:
+      edf873:
+        object:
+          id: 467
+          definition: objeto topológico que representa un elemento único indivisible
+          language_code: spa
+          notes:
+            - >-
+              Una primitiva topológica equivale al interior de una primitiva
+              geométrica de la misma dimensión en una realización
+              (representación) geométrica.
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19107:2003'
+            link: 'https://www.iso.org/standard/26012.html'
+          lineage_source: 'ISO 19108:2002'
+          lineage_source_similarity: 1
+          date_accepted: 2002-09-01T00:00:00.000Z
+          date_amended: 2019-12-02T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: 'Publication of document ISO 19107:2019(E)'
+          review_decision_notes: >-
+            This entry is superseded by the entry for topological primitive
+            <geometry, topology> in ISO 19107:2019(E)
+          release: '-1'
+          terms:
+            - type: expression
+              designation: primitiva topológica
+              normative_status: null
+        parents: []
+        timeCreated: 2002-09-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+swe:
+  id: 467
+  definition: 'topologiskt objekt som representerar ett enskilt, odelbart element i rummet'
+  country_code: swe
+  language_code: swe
+  notes:
+    - >-
+      A topological primitive corresponds to the interior of a geometric
+      primitive of the same dimension in a geometric realization.
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19107:2003'
+    link: 'https://www.iso.org/standard/26012.html'
+  lineage_source: 'ISO 19108:2002'
+  lineage_source_similarity: 1
+  date_accepted: 2002-09-01T00:00:00.000Z
+  date_amended: 2019-12-02T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: 'Publication of document ISO 19107:2019(E)'
+  review_decision_notes: >-
+    This entry is superseded by the entry for topological primitive <geometry,
+    topology> in ISO 19107:2019(E)
+  release: '-1'
+  terms:
+    - type: expression
+      designation: topologiskt grundelement
+      normative_status: null
+  _revisions:
+    current: f08568
+    tree:
+      f08568:
+        object:
+          id: 467
+          definition: >-
+            topologiskt objekt som representerar ett enskilt, odelbart element i
+            rummet
+          country_code: swe
+          language_code: swe
+          notes:
+            - >-
+              A topological primitive corresponds to the interior of a geometric
+              primitive of the same dimension in a geometric realization.
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19107:2003'
+            link: 'https://www.iso.org/standard/26012.html'
+          lineage_source: 'ISO 19108:2002'
+          lineage_source_similarity: 1
+          date_accepted: 2002-09-01T00:00:00.000Z
+          date_amended: 2019-12-02T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: 'Publication of document ISO 19107:2019(E)'
+          review_decision_notes: >-
+            This entry is superseded by the entry for topological primitive
+            <geometry, topology> in ISO 19107:2019(E)
+          release: '-1'
+          terms:
+            - type: expression
+              designation: topologiskt grundelement
+              normative_status: null
+        parents: []
+        timeCreated: 2002-09-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

@@ -1,0 +1,188 @@
+term: resolution (of imagery)
+termid: 1412
+eng:
+  id: 1412
+  definition: >-
+    smallest distance between two uniformly illuminated objects that can be
+    separately resolved in an image
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO/TS 19130-2:2014'
+    clause: '4.61'
+    link: 'https://www.iso.org/standard/56113.html'
+  date_accepted: 2014-01-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: resolution (of imagery)
+      normative_status: preferred
+  _revisions:
+    current: 9ad095
+    tree:
+      9ad095:
+        object:
+          id: 1412
+          definition: >-
+            smallest distance between two uniformly illuminated objects that can
+            be separately resolved in an image
+          language_code: eng
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO/TS 19130-2:2014'
+            clause: '4.61'
+            link: 'https://www.iso.org/standard/56113.html'
+          date_accepted: 2014-01-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: resolution (of imagery)
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-01-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+kor:
+  id: 1412
+  definition: 영상 내 개별적으로 분해가능한 두 균일한 조광 객체간의 최소 거리
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO/TS 19130-2:2014'
+    clause: '4.61'
+    link: 'https://www.iso.org/standard/56113.html'
+  date_accepted: 2014-01-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: 영상 해상도
+      normative_status: preferred
+  _revisions:
+    current: '33e231'
+    tree:
+      '33e231':
+        object:
+          id: 1412
+          definition: 영상 내 개별적으로 분해가능한 두 균일한 조광 객체간의 최소 거리
+          language_code: kor
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO/TS 19130-2:2014'
+            clause: '4.61'
+            link: 'https://www.iso.org/standard/56113.html'
+          date_accepted: 2014-01-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: 영상 해상도
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-01-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 1412
+  definition: >-
+    наименьшее расстояние между двумя равномерно освещенными объектами, которые
+    могут быть отдельно разрешены на изображении
+  language_code: rus
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO/TS 19130-2:2014'
+    clause: '4.61'
+    link: 'https://www.iso.org/standard/56113.html'
+  lineage_source: 'ISO/TS 19130-2:2014'
+  date_accepted: 2014-01-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: разрешение (изображения)
+      normative_status: preferred
+  _revisions:
+    current: 0c77b1
+    tree:
+      0c77b1:
+        object:
+          id: 1412
+          definition: >-
+            наименьшее расстояние между двумя равномерно освещенными объектами,
+            которые могут быть отдельно разрешены на изображении
+          language_code: rus
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO/TS 19130-2:2014'
+            clause: '4.61'
+            link: 'https://www.iso.org/standard/56113.html'
+          lineage_source: 'ISO/TS 19130-2:2014'
+          date_accepted: 2014-01-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: разрешение (изображения)
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-01-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 1412
+  definition: >-
+    distancia más pequeña entre dos objetos uniformemente iluminados que pueden
+    ser determinados separadamente en una imagen
+  language_code: spa
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO/TS 19130-2:2014'
+    clause: '4.61'
+    link: 'https://www.iso.org/standard/56113.html'
+  date_accepted: 2014-01-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: resolución de una imagen
+      normative_status: preferred
+  _revisions:
+    current: bc1c74
+    tree:
+      bc1c74:
+        object:
+          id: 1412
+          definition: >-
+            distancia más pequeña entre dos objetos uniformemente iluminados que
+            pueden ser determinados separadamente en una imagen
+          language_code: spa
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO/TS 19130-2:2014'
+            clause: '4.61'
+            link: 'https://www.iso.org/standard/56113.html'
+          date_accepted: 2014-01-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: resolución de una imagen
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-01-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

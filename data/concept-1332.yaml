@@ -1,0 +1,288 @@
+term: supplier
+termid: 1332
+eng:
+  id: 1332
+  definition: organization or person that provides a product
+  language_code: eng
+  notes:
+    - The supplier can be internal or external to the customer organization.
+    - >-
+      In the context of this Technical Specification, the supplier has provided
+      a product via a process that can have some impact on quality.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 9000:2005'
+    link: 'https://www.iso.org/standard/42180.html'
+  lineage_source: 'ISO/TS 19158:2012, 4.11'
+  lineage_source_similarity: 1
+  date_accepted: 2012-10-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: supplier
+      normative_status: preferred
+  _revisions:
+    current: '123521'
+    tree:
+      '123521':
+        object:
+          id: 1332
+          definition: organization or person that provides a product
+          language_code: eng
+          notes:
+            - >-
+              The supplier can be internal or external to the customer
+              organization.
+            - >-
+              In the context of this Technical Specification, the supplier has
+              provided a product via a process that can have some impact on
+              quality.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 9000:2005'
+            link: 'https://www.iso.org/standard/42180.html'
+          lineage_source: 'ISO/TS 19158:2012, 4.11'
+          lineage_source_similarity: 1
+          date_accepted: 2012-10-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: supplier
+              normative_status: preferred
+        parents: []
+        timeCreated: 2012-10-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+kor:
+  id: 1332
+  definition: 제품을 제공하는 기관 또는 개인
+  language_code: kor
+  notes:
+    - The supplier can be internal or external to the customer organization.
+    - >-
+      In the context of this Technical Specification, the supplier has provided
+      a product via a process that can have some impact on quality.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 9000:2005'
+    link: 'https://www.iso.org/standard/42180.html'
+  lineage_source: 'ISO/TS 19158:2012, 4.11'
+  lineage_source_similarity: 1
+  date_accepted: 2012-10-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: 공급자
+      normative_status: preferred
+  _revisions:
+    current: 5d1b47
+    tree:
+      5d1b47:
+        object:
+          id: 1332
+          definition: 제품을 제공하는 기관 또는 개인
+          language_code: kor
+          notes:
+            - >-
+              The supplier can be internal or external to the customer
+              organization.
+            - >-
+              In the context of this Technical Specification, the supplier has
+              provided a product via a process that can have some impact on
+              quality.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 9000:2005'
+            link: 'https://www.iso.org/standard/42180.html'
+          lineage_source: 'ISO/TS 19158:2012, 4.11'
+          lineage_source_similarity: 1
+          date_accepted: 2012-10-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: 공급자
+              normative_status: preferred
+        parents: []
+        timeCreated: 2012-10-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+msa:
+  id: 1332
+  definition: orang atau organisasi yg membekalkan sesuatu produk
+  language_code: msa
+  notes:
+    - The supplier can be internal or external to the customer organization.
+    - >-
+      In the context of this Technical Specification, the supplier has provided
+      a product via a process that can have some impact on quality.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 9000:2005'
+    link: 'https://www.iso.org/standard/42180.html'
+  lineage_source: 'ISO/TS 19158:2012, 4.11'
+  lineage_source_similarity: 1
+  date_accepted: 2012-10-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: pembekal
+      normative_status: preferred
+  _revisions:
+    current: 001c06
+    tree:
+      001c06:
+        object:
+          id: 1332
+          definition: orang atau organisasi yg membekalkan sesuatu produk
+          language_code: msa
+          notes:
+            - >-
+              The supplier can be internal or external to the customer
+              organization.
+            - >-
+              In the context of this Technical Specification, the supplier has
+              provided a product via a process that can have some impact on
+              quality.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 9000:2005'
+            link: 'https://www.iso.org/standard/42180.html'
+          lineage_source: 'ISO/TS 19158:2012, 4.11'
+          lineage_source_similarity: 1
+          date_accepted: 2012-10-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: pembekal
+              normative_status: preferred
+        parents: []
+        timeCreated: 2012-10-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 1332
+  definition: 'организация или личность, которая предоставлет продукт'
+  language_code: rus
+  notes:
+    - >-
+      Поставщик может быть внутренним или внешним по отношению к организации
+      покупателя
+    - >-
+      в контексте настоящей технической спецификации поставщик предоставил
+      продукт с помощью процесса, который может оказать определенное влияние на
+      качество.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 9000:2005'
+    link: 'https://www.iso.org/standard/42180.html'
+  lineage_source: 'ISO/TS 19158:2012, 4.11'
+  lineage_source_similarity: 1
+  date_accepted: 2012-10-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: поставщик
+      normative_status: preferred
+  _revisions:
+    current: '769956'
+    tree:
+      '769956':
+        object:
+          id: 1332
+          definition: 'организация или личность, которая предоставлет продукт'
+          language_code: rus
+          notes:
+            - >-
+              Поставщик может быть внутренним или внешним по отношению к
+              организации покупателя
+            - >-
+              в контексте настоящей технической спецификации поставщик
+              предоставил продукт с помощью процесса, который может оказать
+              определенное влияние на качество.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 9000:2005'
+            link: 'https://www.iso.org/standard/42180.html'
+          lineage_source: 'ISO/TS 19158:2012, 4.11'
+          lineage_source_similarity: 1
+          date_accepted: 2012-10-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: поставщик
+              normative_status: preferred
+        parents: []
+        timeCreated: 2012-10-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 1332
+  definition: organización o persona que proporciona un producto
+  language_code: spa
+  notes:
+    - >-
+      El suministrador puede ser interno o externo a la organización del
+      cliente.
+    - >-
+      En el contexto de esta Especificación Técnica, el suministrador ha
+      proporcionado un producto vía un proceso que puede tener algún impacto en
+      su calidad.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 9000:2005'
+    link: 'https://www.iso.org/standard/42180.html'
+  lineage_source: 'ISO/TS 19158:2012, 4.11'
+  lineage_source_similarity: 1
+  date_accepted: 2012-10-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: proveedor
+      normative_status: preferred
+  _revisions:
+    current: 442df6
+    tree:
+      442df6:
+        object:
+          id: 1332
+          definition: organización o persona que proporciona un producto
+          language_code: spa
+          notes:
+            - >-
+              El suministrador puede ser interno o externo a la organización del
+              cliente.
+            - >-
+              En el contexto de esta Especificación Técnica, el suministrador ha
+              proporcionado un producto vía un proceso que puede tener algún
+              impacto en su calidad.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 9000:2005'
+            link: 'https://www.iso.org/standard/42180.html'
+          lineage_source: 'ISO/TS 19158:2012, 4.11'
+          lineage_source_similarity: 1
+          date_accepted: 2012-10-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: proveedor
+              normative_status: preferred
+        parents: []
+        timeCreated: 2012-10-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

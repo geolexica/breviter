@@ -1,0 +1,596 @@
+term: month
+termid: 300
+eng:
+  id: 300
+  definition: period approximately equal in duration to the periodic time of a lunar cycle
+  language_code: eng
+  notes:
+    - >-
+      The duration of a month is an integer number of days.  The number of days
+      in a month is determined by the rules of the particular calendar.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19108:2002'
+    link: 'https://www.iso.org/standard/26013.html'
+  date_accepted: 2002-09-01T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: month
+      normative_status: preferred
+  _revisions:
+    current: 03449c
+    tree:
+      03449c:
+        object:
+          id: 300
+          definition: >-
+            period approximately equal in duration to the periodic time of a
+            lunar cycle
+          language_code: eng
+          notes:
+            - >-
+              The duration of a month is an integer number of days.  The number
+              of days in a month is determined by the rules of the particular
+              calendar.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19108:2002'
+            link: 'https://www.iso.org/standard/26013.html'
+          date_accepted: 2002-09-01T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: month
+              normative_status: preferred
+        parents: []
+        timeCreated: 2002-09-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+ara:
+  id: 300
+  definition: فترة زمنية تساوي بالتقريب المدة التي تستغرقها الدورة القمرية
+  language_code: ara
+  notes:
+    - >-
+      المدة الزمنية للشهر هي عبارة عن عدد من الأيام تساوي عدداً صحيحا. عدد
+      الأيام في الشهر تحدده القواعد الخاصة بتقويم معين.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19108:2002'
+    link: 'https://www.iso.org/standard/26013.html'
+  date_accepted: 2002-09-01T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: شهر
+      normative_status: preferred
+  _revisions:
+    current: 34c36b
+    tree:
+      34c36b:
+        object:
+          id: 300
+          definition: فترة زمنية تساوي بالتقريب المدة التي تستغرقها الدورة القمرية
+          language_code: ara
+          notes:
+            - >-
+              المدة الزمنية للشهر هي عبارة عن عدد من الأيام تساوي عدداً صحيحا.
+              عدد الأيام في الشهر تحدده القواعد الخاصة بتقويم معين.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19108:2002'
+            link: 'https://www.iso.org/standard/26013.html'
+          date_accepted: 2002-09-01T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: شهر
+              normative_status: preferred
+        parents: []
+        timeCreated: 2002-09-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+zho:
+  id: 300
+  definition: 约等于月亮朔望周期时间所持续的时段。
+  language_code: zho
+  notes:
+    - 一个月持续时间是整日数。一个月中的日数由特定的日历规则确定。
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19108:2002'
+    link: 'https://www.iso.org/standard/26013.html'
+  date_accepted: 2002-09-01T00:00:00.000Z
+  terms:
+    - type: expression
+      designation: 月
+      normative_status: preferred
+  _revisions:
+    current: '128199'
+    tree:
+      '128199':
+        object:
+          id: 300
+          definition: 约等于月亮朔望周期时间所持续的时段。
+          language_code: zho
+          notes:
+            - 一个月持续时间是整日数。一个月中的日数由特定的日历规则确定。
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19108:2002'
+            link: 'https://www.iso.org/standard/26013.html'
+          date_accepted: 2002-09-01T00:00:00.000Z
+          terms:
+            - type: expression
+              designation: 月
+              normative_status: preferred
+        parents: []
+        timeCreated: 2002-09-01T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+fin:
+  id: 300
+  definition: 'ajanjakso, jonka kesto on suunnilleen sama kuin kuunkierron'
+  language_code: fin
+  notes:
+    - >-
+      Kuukauden kesto päivinä on kokonaisluku. Kuukauden päivien lukumäärä
+      määräytyy käytettävän kalenterin sääntöjen mukaan.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19108:2002'
+    link: 'https://www.iso.org/standard/26013.html'
+  lineage_source: MOT Englanti 4.6
+  date_accepted: 2002-09-01T00:00:00.000Z
+  terms:
+    - type: expression
+      designation: kuukausi
+      normative_status: preferred
+  _revisions:
+    current: 092563
+    tree:
+      092563:
+        object:
+          id: 300
+          definition: 'ajanjakso, jonka kesto on suunnilleen sama kuin kuunkierron'
+          language_code: fin
+          notes:
+            - >-
+              Kuukauden kesto päivinä on kokonaisluku. Kuukauden päivien
+              lukumäärä määräytyy käytettävän kalenterin sääntöjen mukaan.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19108:2002'
+            link: 'https://www.iso.org/standard/26013.html'
+          lineage_source: MOT Englanti 4.6
+          date_accepted: 2002-09-01T00:00:00.000Z
+          terms:
+            - type: expression
+              designation: kuukausi
+              normative_status: preferred
+        parents: []
+        timeCreated: 2002-09-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+fra:
+  id: 300
+  definition: >-
+    période égale approximativement dans sa durée à la période d'un cycle
+    lunaire
+  language_code: fra
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: ISO 19108
+    link: 'https://www.iso.org/standard/26013.html'
+  lineage_source: ''
+  date_accepted: 2002-09-01T00:00:00.000Z
+  terms:
+    - type: expression
+      designation: mois
+      normative_status: preferred
+  _revisions:
+    current: d80a8c
+    tree:
+      d80a8c:
+        object:
+          id: 300
+          definition: >-
+            période égale approximativement dans sa durée à la période d'un
+            cycle lunaire
+          language_code: fra
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: ISO 19108
+            link: 'https://www.iso.org/standard/26013.html'
+          lineage_source: ''
+          date_accepted: 2002-09-01T00:00:00.000Z
+          terms:
+            - type: expression
+              designation: mois
+              normative_status: preferred
+        parents: []
+        timeCreated: 2002-09-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+deu:
+  id: 300
+  language_code: deu
+  notes:
+    - >-
+      The duration of a month is an integer number of days.  The number of days
+      in a month is determined by the rules of the particular calendar.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19108:2002'
+    link: 'https://www.iso.org/standard/26013.html'
+  date_accepted: 2002-09-01T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: Monat
+      normative_status: preferred
+  _revisions:
+    current: '512197'
+    tree:
+      '512197':
+        object:
+          id: 300
+          language_code: deu
+          notes:
+            - >-
+              The duration of a month is an integer number of days.  The number
+              of days in a month is determined by the rules of the particular
+              calendar.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19108:2002'
+            link: 'https://www.iso.org/standard/26013.html'
+          date_accepted: 2002-09-01T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: Monat
+              normative_status: preferred
+        parents: []
+        timeCreated: 2002-09-01T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+jpn:
+  id: 300
+  definition: 月の循環周期の持続時間とほぼ等しい期間。
+  language_code: jpn
+  notes:
+    - 　１か月の持続時間は整数で表す日数である。１か月の日数は個々の暦の規則で定められている。
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19108:2002'
+    link: 'https://www.iso.org/standard/26013.html'
+  lineage_source: JIS X 7108
+  date_accepted: 2002-09-01T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: 月
+      normative_status: preferred
+  _revisions:
+    current: 4c2b80
+    tree:
+      4c2b80:
+        object:
+          id: 300
+          definition: 月の循環周期の持続時間とほぼ等しい期間。
+          language_code: jpn
+          notes:
+            - 　１か月の持続時間は整数で表す日数である。１か月の日数は個々の暦の規則で定められている。
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19108:2002'
+            link: 'https://www.iso.org/standard/26013.html'
+          lineage_source: JIS X 7108
+          date_accepted: 2002-09-01T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: 月
+              normative_status: preferred
+        parents: []
+        timeCreated: 2002-09-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+kor:
+  id: 300
+  definition: 달의 순환주기와 명목상 같은 지속 기간을 갖는 기간
+  language_code: kor
+  notes:
+    - 한 달의 기간은 일로 표현되는 정수이다. 한 달에서 날짜 수는 특정 달력의 규칙에 의해 결정된다.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19108:2002'
+    link: 'https://www.iso.org/standard/26013.html'
+  lineage_source: KS X ISO 19108
+  date_accepted: 2007-11-01T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: 달
+      normative_status: preferred
+  _revisions:
+    current: 4a4693
+    tree:
+      4a4693:
+        object:
+          id: 300
+          definition: 달의 순환주기와 명목상 같은 지속 기간을 갖는 기간
+          language_code: kor
+          notes:
+            - 한 달의 기간은 일로 표현되는 정수이다. 한 달에서 날짜 수는 특정 달력의 규칙에 의해 결정된다.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19108:2002'
+            link: 'https://www.iso.org/standard/26013.html'
+          lineage_source: KS X ISO 19108
+          date_accepted: 2007-11-01T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: 달
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-11-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+pol:
+  id: 300
+  definition: >-
+    okres w przybliżeniu równy czasem trwania czasowi cyklicznemu cyklu N1)
+    księżycowego
+  language_code: pol
+  notes:
+    - >-
+      Czas trwania miesiąca jest całkowitą liczbą dni. Liczba dni w miesiącu
+      zależy od reguł danego kalendarza
+  examples: []
+  authoritative_source:
+    ref: 'ISO 19108:2002'
+    link: 'https://www.iso.org/standard/26013.html'
+  lineage_source: PN-EN ISO 19108
+  date_accepted: 2002-09-01T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: miesiąc
+      normative_status: preferred
+  _revisions:
+    current: b8caf4
+    tree:
+      b8caf4:
+        object:
+          id: 300
+          definition: >-
+            okres w przybliżeniu równy czasem trwania czasowi cyklicznemu cyklu
+            N1) księżycowego
+          language_code: pol
+          notes:
+            - >-
+              Czas trwania miesiąca jest całkowitą liczbą dni. Liczba dni w
+              miesiącu zależy od reguł danego kalendarza
+          examples: []
+          authoritative_source:
+            ref: 'ISO 19108:2002'
+            link: 'https://www.iso.org/standard/26013.html'
+          lineage_source: PN-EN ISO 19108
+          date_accepted: 2002-09-01T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: miesiąc
+              normative_status: preferred
+        parents: []
+        timeCreated: 2002-09-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 300
+  definition: >-
+    период, приблизительно равный продолжительности лунного цикла [периода
+    обращения Луны вокруг Земли]
+  language_code: rus
+  notes:
+    - >-
+      Продолжительность месяца определяется целым числом дней. Число дней в
+      месяце определяется правилами конкретного календаря
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19108:2002'
+    link: 'https://www.iso.org/standard/26013.html'
+  lineage_source: Internet
+  date_accepted: 2002-09-01T00:00:00.000Z
+  terms:
+    - type: expression
+      designation: месяц
+      normative_status: preferred
+  _revisions:
+    current: decbaf
+    tree:
+      decbaf:
+        object:
+          id: 300
+          definition: >-
+            период, приблизительно равный продолжительности лунного цикла
+            [периода обращения Луны вокруг Земли]
+          language_code: rus
+          notes:
+            - >-
+              Продолжительность месяца определяется целым числом дней. Число
+              дней в месяце определяется правилами конкретного календаря
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19108:2002'
+            link: 'https://www.iso.org/standard/26013.html'
+          lineage_source: Internet
+          date_accepted: 2002-09-01T00:00:00.000Z
+          terms:
+            - type: expression
+              designation: месяц
+              normative_status: preferred
+        parents: []
+        timeCreated: 2002-09-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 300
+  definition: >-
+    período aproximadamente igual en duración al tiempo periódico de un ciclo
+    lunar
+  language_code: spa
+  notes:
+    - >-
+      La duración de un mes es un número entero de días. El número de días de un
+      mes se determina por las reglas de un determinado calendario.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19108:2002'
+    link: 'https://www.iso.org/standard/26013.html'
+  date_accepted: 2002-09-01T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: mes
+      normative_status: preferred
+  _revisions:
+    current: fbba7b
+    tree:
+      fbba7b:
+        object:
+          id: 300
+          definition: >-
+            período aproximadamente igual en duración al tiempo periódico de un
+            ciclo lunar
+          language_code: spa
+          notes:
+            - >-
+              La duración de un mes es un número entero de días. El número de
+              días de un mes se determina por las reglas de un determinado
+              calendario.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19108:2002'
+            link: 'https://www.iso.org/standard/26013.html'
+          date_accepted: 2002-09-01T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: mes
+              normative_status: preferred
+        parents: []
+        timeCreated: 2002-09-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+swe:
+  id: 300
+  definition: >-
+    <inom astronomi> det tidsintervall under vilken månen fullbordar ett omlopp
+    kring jorden
+  country_code: swe
+  language_code: swe
+  notes:
+    - >-
+      The duration of a month is an integer number of days.  The number of days
+      in a month is determined by the rules of the particular calendar.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19108:2002'
+    link: 'https://www.iso.org/standard/26013.html'
+  lineage_source: (Type reference to national language document)
+  date_accepted: 2002-09-01T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: månad
+      normative_status: preferred
+  _revisions:
+    current: a6bef5
+    tree:
+      a6bef5:
+        object:
+          id: 300
+          definition: >-
+            <inom astronomi> det tidsintervall under vilken månen fullbordar ett
+            omlopp kring jorden
+          country_code: swe
+          language_code: swe
+          notes:
+            - >-
+              The duration of a month is an integer number of days.  The number
+              of days in a month is determined by the rules of the particular
+              calendar.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19108:2002'
+            link: 'https://www.iso.org/standard/26013.html'
+          lineage_source: (Type reference to national language document)
+          date_accepted: 2002-09-01T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: månad
+              normative_status: preferred
+        parents: []
+        timeCreated: 2002-09-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

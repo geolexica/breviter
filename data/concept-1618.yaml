@@ -1,0 +1,133 @@
+term: access point
+termid: 1618
+eng:
+  id: 1618
+  definition: location where travellers can enter or exit a transfer node
+  language_code: eng
+  notes:
+    - >-
+      An access point may not be a stop point. An access point may for example
+      be the entrance to a railway station or the connection between a parking
+      area and a railway station.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19147:2015'
+    clause: '3.1'
+    link: 'https://www.iso.org/standard/44874.html'
+  date_accepted: 2015-06-15T00:00:00.000Z
+  review_date: 2009-06-20T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2015-06-15T00:00:00.000Z
+  review_decision_event: Normal ISO processing
+  review_decision_notes: 'Publication of document ISO 19147:2015(E)'
+  release: '4'
+  terms:
+    - type: expression
+      designation: access point
+      normative_status: preferred
+  _revisions:
+    current: cae0fb
+    tree:
+      cae0fb:
+        object:
+          id: 1618
+          definition: location where travellers can enter or exit a transfer node
+          language_code: eng
+          notes:
+            - >-
+              An access point may not be a stop point. An access point may for
+              example be the entrance to a railway station or the connection
+              between a parking area and a railway station.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19147:2015'
+            clause: '3.1'
+            link: 'https://www.iso.org/standard/44874.html'
+          date_accepted: 2015-06-15T00:00:00.000Z
+          review_date: 2009-06-20T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2015-06-15T00:00:00.000Z
+          review_decision_event: Normal ISO processing
+          review_decision_notes: 'Publication of document ISO 19147:2015(E)'
+          release: '4'
+          terms:
+            - type: expression
+              designation: access point
+              normative_status: preferred
+        parents: []
+        timeCreated: 2015-06-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 1618
+  definition: >-
+    localización por donde los viajeros pueden entrar y salir de un nodo de
+    transbordo
+  language_code: spa
+  notes:
+    - >-
+      Un punto de acceso no tiene por qué ser una parada. Un punto de acceso
+      puede ser, por ejemplo, la entrada a una estación de ferrocarril o la
+      conexión entre un área de estacionamiento y una estación de ferrocarril.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19147:2015'
+    clause: '3.1'
+    link: 'https://www.iso.org/standard/44874.html'
+  date_accepted: 2015-06-15T00:00:00.000Z
+  review_date: 2009-06-20T00:00:00.000Z
+  review_status: final
+  review_decision: ''
+  review_decision_date: 2015-06-15T00:00:00.000Z
+  review_decision_event: Normal ISO processing
+  review_decision_notes: 'Publication of document ISO 19147:2015(E)'
+  release: '4'
+  terms:
+    - type: expression
+      designation: punto de acceso
+      normative_status: preferred
+  _revisions:
+    current: 1b6bbf
+    tree:
+      1b6bbf:
+        object:
+          id: 1618
+          definition: >-
+            localización por donde los viajeros pueden entrar y salir de un nodo
+            de transbordo
+          language_code: spa
+          notes:
+            - >-
+              Un punto de acceso no tiene por qué ser una parada. Un punto de
+              acceso puede ser, por ejemplo, la entrada a una estación de
+              ferrocarril o la conexión entre un área de estacionamiento y una
+              estación de ferrocarril.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19147:2015'
+            clause: '3.1'
+            link: 'https://www.iso.org/standard/44874.html'
+          date_accepted: 2015-06-15T00:00:00.000Z
+          review_date: 2009-06-20T00:00:00.000Z
+          review_status: final
+          review_decision: ''
+          review_decision_date: 2015-06-15T00:00:00.000Z
+          review_decision_event: Normal ISO processing
+          review_decision_notes: 'Publication of document ISO 19147:2015(E)'
+          release: '4'
+          terms:
+            - type: expression
+              designation: punto de acceso
+              normative_status: preferred
+        parents: []
+        timeCreated: 2015-06-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

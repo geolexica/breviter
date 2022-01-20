@@ -1,0 +1,423 @@
+term: feature concept
+termid: 855
+eng:
+  id: 855
+  definition: concept that may be specified in detail as one or more feature types
+  language_code: eng
+  notes: []
+  examples:
+    - >-
+      The feature concept "road" may be used to specify several different
+      feature types, each with a different set of properties appropriate for a
+      particular application.  For a travel planning application, it might have
+      a limited set of attributes such as name, route number, location and
+      number of lanes, while for a maintenance application it might have an
+      extensive set of attributes detailing the structure and composition of
+      each of the layers of material for which it is composed.
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19126:2009'
+    link: 'https://www.iso.org/standard/44875.html'
+  date_accepted: 2009-11-01T00:00:00.000Z
+  release: '2'
+  terms:
+    - type: expression
+      designation: feature concept
+      normative_status: preferred
+  _revisions:
+    current: a8272a
+    tree:
+      a8272a:
+        object:
+          id: 855
+          definition: concept that may be specified in detail as one or more feature types
+          language_code: eng
+          notes: []
+          examples:
+            - >-
+              The feature concept "road" may be used to specify several
+              different feature types, each with a different set of properties
+              appropriate for a particular application.  For a travel planning
+              application, it might have a limited set of attributes such as
+              name, route number, location and number of lanes, while for a
+              maintenance application it might have an extensive set of
+              attributes detailing the structure and composition of each of the
+              layers of material for which it is composed.
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19126:2009'
+            link: 'https://www.iso.org/standard/44875.html'
+          date_accepted: 2009-11-01T00:00:00.000Z
+          release: '2'
+          terms:
+            - type: expression
+              designation: feature concept
+              normative_status: preferred
+        parents: []
+        timeCreated: 2009-11-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+ara:
+  id: 855
+  definition: مفهوم يمكن تحديده بالتفصيل كنوع واحد أو أكثر من أنواع المعالم
+  language_code: ara
+  notes: []
+  examples:
+    - >-
+      مفهوم المعلم "طريق" يمكن استخدامه لتوصيف عدة أنواع مختلفة من المعالم لكل
+      منها مجموعة مختلفة من الخصائص تناسب تطبيقا معينا. ففي تطبيق مثل وضع خطة
+      سفر تكون له مجموعة محدودة من البيانات الوصفية مثل الاسم ، ورقم الطريق ،
+      موقعه وعدد مساراته ، وأما بالنسبة لتطبيق يتعلق بالصيانة مثلا فربما يحتاج
+      الأمر إلى مجموعة أكبر من البيانات الوصفية بتفاصيل عن البنية الانشائية ،
+      وتركيبة المواد المكوِّنة لكل طبقة من طبقات الطريق.
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19126:2009'
+    link: 'https://www.iso.org/standard/44875.html'
+  date_accepted: 2009-11-01T00:00:00.000Z
+  release: '2'
+  terms:
+    - type: expression
+      designation: مفهوم المعلم
+      normative_status: preferred
+  _revisions:
+    current: 0be105
+    tree:
+      0be105:
+        object:
+          id: 855
+          definition: مفهوم يمكن تحديده بالتفصيل كنوع واحد أو أكثر من أنواع المعالم
+          language_code: ara
+          notes: []
+          examples:
+            - >-
+              مفهوم المعلم "طريق" يمكن استخدامه لتوصيف عدة أنواع مختلفة من
+              المعالم لكل منها مجموعة مختلفة من الخصائص تناسب تطبيقا معينا. ففي
+              تطبيق مثل وضع خطة سفر تكون له مجموعة محدودة من البيانات الوصفية
+              مثل الاسم ، ورقم الطريق ، موقعه وعدد مساراته ، وأما بالنسبة لتطبيق
+              يتعلق بالصيانة مثلا فربما يحتاج الأمر إلى مجموعة أكبر من البيانات
+              الوصفية بتفاصيل عن البنية الانشائية ، وتركيبة المواد المكوِّنة لكل
+              طبقة من طبقات الطريق.
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19126:2009'
+            link: 'https://www.iso.org/standard/44875.html'
+          date_accepted: 2009-11-01T00:00:00.000Z
+          release: '2'
+          terms:
+            - type: expression
+              designation: مفهوم المعلم
+              normative_status: preferred
+        parents: []
+        timeCreated: 2009-11-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+deu:
+  id: 855
+  language_code: deu
+  notes: []
+  examples:
+    - >-
+      The feature concept "road" may be used to specify several different
+      feature types, each with a different set of properties appropriate for a
+      particular application.  For a travel planning application, it might have
+      a limited set of attributes such as name, route number, location and
+      number of lanes, while for a maintenance application it might have an
+      extensive set of attributes detailing the structure and composition of
+      each of the layers of material for which it is composed.
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19126:2009'
+    link: 'https://www.iso.org/standard/44875.html'
+  date_accepted: 2009-11-01T00:00:00.000Z
+  release: '2'
+  terms:
+    - type: expression
+      designation: Feature-Konzept
+      normative_status: preferred
+  _revisions:
+    current: '665264'
+    tree:
+      '665264':
+        object:
+          id: 855
+          language_code: deu
+          notes: []
+          examples:
+            - >-
+              The feature concept "road" may be used to specify several
+              different feature types, each with a different set of properties
+              appropriate for a particular application.  For a travel planning
+              application, it might have a limited set of attributes such as
+              name, route number, location and number of lanes, while for a
+              maintenance application it might have an extensive set of
+              attributes detailing the structure and composition of each of the
+              layers of material for which it is composed.
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19126:2009'
+            link: 'https://www.iso.org/standard/44875.html'
+          date_accepted: 2009-11-01T00:00:00.000Z
+          release: '2'
+          terms:
+            - type: expression
+              designation: Feature-Konzept
+              normative_status: preferred
+        parents: []
+        timeCreated: 2009-11-01T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+kor:
+  id: 855
+  definition: 하나 이상의 지형지물 유형으로서 구체적으로 특정 될 수 있는 개념
+  language_code: kor
+  notes: []
+  examples:
+    - >-
+      The feature concept "road" may be used to specify several different
+      feature types, each with a different set of properties appropriate for a
+      particular application.  For a travel planning application, it might have
+      a limited set of attributes such as name, route number, location and
+      number of lanes, while for a maintenance application it might have an
+      extensive set of attributes detailing the structure and composition of
+      each of the layers of material for which it is composed.
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19126:2009'
+    link: 'https://www.iso.org/standard/44875.html'
+  date_accepted: 2009-11-01T00:00:00.000Z
+  release: '2'
+  terms:
+    - type: expression
+      designation: 지형지물 개념
+      normative_status: preferred
+  _revisions:
+    current: 39899b
+    tree:
+      39899b:
+        object:
+          id: 855
+          definition: 하나 이상의 지형지물 유형으로서 구체적으로 특정 될 수 있는 개념
+          language_code: kor
+          notes: []
+          examples:
+            - >-
+              The feature concept "road" may be used to specify several
+              different feature types, each with a different set of properties
+              appropriate for a particular application.  For a travel planning
+              application, it might have a limited set of attributes such as
+              name, route number, location and number of lanes, while for a
+              maintenance application it might have an extensive set of
+              attributes detailing the structure and composition of each of the
+              layers of material for which it is composed.
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19126:2009'
+            link: 'https://www.iso.org/standard/44875.html'
+          date_accepted: 2009-11-01T00:00:00.000Z
+          release: '2'
+          terms:
+            - type: expression
+              designation: 지형지물 개념
+              normative_status: preferred
+        parents: []
+        timeCreated: 2009-11-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 855
+  definition: >-
+    понятие,  которое может быть описано в деталях применительно к одному или
+    нескольким типам объектов
+  language_code: rus
+  notes: []
+  examples:
+    - >-
+      Понятие "дорога" может использоваться для указания нескольких различных
+      типов объектов, каждый из которых имеет свой набор свойств,
+      соответствующих конкретному приложению.  Для приложения планирования
+      поездок он может иметь ограниченный набор атрибутов, таких как имя, номер
+      маршрута, расположение и количество полос движения, в то время как для
+      приложения обслуживания он может иметь обширный набор атрибутов,
+      детализирующих структуру и состав каждого из слоев материала, из которого
+      он составлен.
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19126:2009'
+    link: 'https://www.iso.org/standard/44875.html'
+  lineage_source: 'перевод ИСО 19126:2009'
+  date_accepted: 2009-11-01T00:00:00.000Z
+  release: '2'
+  terms:
+    - type: expression
+      designation: понятие объекта
+      normative_status: preferred
+  _revisions:
+    current: a3a442
+    tree:
+      a3a442:
+        object:
+          id: 855
+          definition: >-
+            понятие,  которое может быть описано в деталях применительно к
+            одному или нескольким типам объектов
+          language_code: rus
+          notes: []
+          examples:
+            - >-
+              Понятие "дорога" может использоваться для указания нескольких
+              различных типов объектов, каждый из которых имеет свой набор
+              свойств, соответствующих конкретному приложению.  Для приложения
+              планирования поездок он может иметь ограниченный набор атрибутов,
+              таких как имя, номер маршрута, расположение и количество полос
+              движения, в то время как для приложения обслуживания он может
+              иметь обширный набор атрибутов, детализирующих структуру и состав
+              каждого из слоев материала, из которого он составлен.
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19126:2009'
+            link: 'https://www.iso.org/standard/44875.html'
+          lineage_source: 'перевод ИСО 19126:2009'
+          date_accepted: 2009-11-01T00:00:00.000Z
+          release: '2'
+          terms:
+            - type: expression
+              designation: понятие объекта
+              normative_status: preferred
+        parents: []
+        timeCreated: 2009-11-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 855
+  definition: >-
+    concepto que puede especificarse en detalle como uno o más tipos de objeto
+    geográfico
+  language_code: spa
+  notes: []
+  examples:
+    - >-
+      El concepto de fenómeno “carretera” se puede utilizar para especificar
+      varios tipos de fenómeno distintos, cada uno de ellos con un conjunto
+      diferente de propiedades apropiado para una aplicación específica. Para
+      una aplicación de planificación de viajes, podría tener un conjunto
+      limitado de atributos como nombre, número de ruta, localización y número
+      de carriles, mientras que para una aplicación de mantenimiento podría
+      tener un extenso conjunto de atributos detallando la estructura y
+      composición de cada una de las capas de material de que ésta está
+      compuesta.
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19126:2009'
+    link: 'https://www.iso.org/standard/44875.html'
+  date_accepted: 2009-11-01T00:00:00.000Z
+  release: '2'
+  terms:
+    - type: expression
+      designation: concepto de objeto geográfico
+      normative_status: preferred
+  _revisions:
+    current: d5b4eb
+    tree:
+      d5b4eb:
+        object:
+          id: 855
+          definition: >-
+            concepto que puede especificarse en detalle como uno o más tipos de
+            objeto geográfico
+          language_code: spa
+          notes: []
+          examples:
+            - >-
+              El concepto de fenómeno “carretera” se puede utilizar para
+              especificar varios tipos de fenómeno distintos, cada uno de ellos
+              con un conjunto diferente de propiedades apropiado para una
+              aplicación específica. Para una aplicación de planificación de
+              viajes, podría tener un conjunto limitado de atributos como
+              nombre, número de ruta, localización y número de carriles,
+              mientras que para una aplicación de mantenimiento podría tener un
+              extenso conjunto de atributos detallando la estructura y
+              composición de cada una de las capas de material de que ésta está
+              compuesta.
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19126:2009'
+            link: 'https://www.iso.org/standard/44875.html'
+          date_accepted: 2009-11-01T00:00:00.000Z
+          release: '2'
+          terms:
+            - type: expression
+              designation: concepto de objeto geográfico
+              normative_status: preferred
+        parents: []
+        timeCreated: 2009-11-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+swe:
+  id: 855
+  definition: begrepp som kan specificeras i detalj som en eller flera objekttyper
+  country_code: swe
+  language_code: swe
+  notes: []
+  examples:
+    - >-
+      The feature concept "road" may be used to specify several different
+      feature types, each with a different set of properties appropriate for a
+      particular application.  For a travel planning application, it might have
+      a limited set of attributes such as name, route number, location and
+      number of lanes, while for a maintenance application it might have an
+      extensive set of attributes detailing the structure and composition of
+      each of the layers of material for which it is composed.
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19126:2009'
+    link: 'https://www.iso.org/standard/44875.html'
+  lineage_source: (Type reference to national language document)
+  date_accepted: 2009-11-01T00:00:00.000Z
+  release: '2'
+  terms:
+    - type: expression
+      designation: objekttypsbeskrivande begrepp
+      normative_status: preferred
+  _revisions:
+    current: 8bd3ea
+    tree:
+      8bd3ea:
+        object:
+          id: 855
+          definition: begrepp som kan specificeras i detalj som en eller flera objekttyper
+          country_code: swe
+          language_code: swe
+          notes: []
+          examples:
+            - >-
+              The feature concept "road" may be used to specify several
+              different feature types, each with a different set of properties
+              appropriate for a particular application.  For a travel planning
+              application, it might have a limited set of attributes such as
+              name, route number, location and number of lanes, while for a
+              maintenance application it might have an extensive set of
+              attributes detailing the structure and composition of each of the
+              layers of material for which it is composed.
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19126:2009'
+            link: 'https://www.iso.org/standard/44875.html'
+          lineage_source: (Type reference to national language document)
+          date_accepted: 2009-11-01T00:00:00.000Z
+          release: '2'
+          terms:
+            - type: expression
+              designation: objekttypsbeskrivande begrepp
+              normative_status: preferred
+        parents: []
+        timeCreated: 2009-11-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

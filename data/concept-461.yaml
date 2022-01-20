@@ -1,0 +1,785 @@
+term: topological boundary
+termid: 461
+eng:
+  id: 461
+  definition: >-
+    boundary represented by a set of oriented topological primitives of smaller
+    topological dimension that limits the extent of a topological object
+  language_code: eng
+  notes:
+    - >-
+      The boundary of a topological complex corresponds to the boundary of the
+      geometric realization of the topological complex.
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19107:2003'
+    link: 'https://www.iso.org/standard/26012.html'
+  date_accepted: 2003-05-01T00:00:00.000Z
+  date_amended: 2019-12-02T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: 'Publication of document ISO 19107:2019(E)'
+  review_decision_notes: >-
+    This entry is superseded by the entry for topological boundary <geometry,
+    topology>  in ISO 19107:2019(E)
+  release: '-1'
+  terms:
+    - type: expression
+      designation: topological boundary
+      normative_status: null
+  _revisions:
+    current: bdc196
+    tree:
+      bdc196:
+        object:
+          id: 461
+          definition: >-
+            boundary represented by a set of oriented topological primitives of
+            smaller topological dimension that limits the extent of a
+            topological object
+          language_code: eng
+          notes:
+            - >-
+              The boundary of a topological complex corresponds to the boundary
+              of the geometric realization of the topological complex.
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19107:2003'
+            link: 'https://www.iso.org/standard/26012.html'
+          date_accepted: 2003-05-01T00:00:00.000Z
+          date_amended: 2019-12-02T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: 'Publication of document ISO 19107:2019(E)'
+          review_decision_notes: >-
+            This entry is superseded by the entry for topological boundary
+            <geometry, topology>  in ISO 19107:2019(E)
+          release: '-1'
+          terms:
+            - type: expression
+              designation: topological boundary
+              normative_status: null
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+ara:
+  id: 461
+  definition: >-
+    حد تمثله مجموعة من العناصر الطوبولوجية البدائية الموجهة ذات الأبعاد
+    الطوبولوجية الأصغر التي تحد امتداد الكائن الطوبولوجي
+  language_code: ara
+  notes:
+    - >-
+      الحد الخارجي لأي مركَّب طوبولوجي يكون مطابقاً للحد الخارجي للتمثيل الهندسي
+      لذلك المركَّب الطوبولوجي.
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19107:2003'
+    link: 'https://www.iso.org/standard/26012.html'
+  date_accepted: 2003-05-01T00:00:00.000Z
+  date_amended: 2019-12-02T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: 'Publication of document ISO 19107:2019(E)'
+  review_decision_notes: >-
+    This entry is superseded by the entry for topological boundary <geometry,
+    topology>  in ISO 19107:2019(E)
+  release: '-1'
+  terms:
+    - type: expression
+      designation: حد طوبولوجي
+      normative_status: null
+  _revisions:
+    current: c869af
+    tree:
+      c869af:
+        object:
+          id: 461
+          definition: >-
+            حد تمثله مجموعة من العناصر الطوبولوجية البدائية الموجهة ذات الأبعاد
+            الطوبولوجية الأصغر التي تحد امتداد الكائن الطوبولوجي
+          language_code: ara
+          notes:
+            - >-
+              الحد الخارجي لأي مركَّب طوبولوجي يكون مطابقاً للحد الخارجي للتمثيل
+              الهندسي لذلك المركَّب الطوبولوجي.
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19107:2003'
+            link: 'https://www.iso.org/standard/26012.html'
+          date_accepted: 2003-05-01T00:00:00.000Z
+          date_amended: 2019-12-02T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: 'Publication of document ISO 19107:2019(E)'
+          review_decision_notes: >-
+            This entry is superseded by the entry for topological boundary
+            <geometry, topology>  in ISO 19107:2019(E)
+          release: '-1'
+          terms:
+            - type: expression
+              designation: حد طوبولوجي
+              normative_status: null
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+zho:
+  id: 461
+  definition: 由限定拓扑对象范围的更低拓扑维的有向拓扑单形的集合所表达的边界。
+  language_code: zho
+  notes:
+    - 拓扑复形的边界对应于该拓扑复形的几何实现的边界。
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19107:2003'
+    link: 'https://www.iso.org/standard/26012.html'
+  date_accepted: 2003-05-01T00:00:00.000Z
+  date_amended: 2019-12-02T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: 'Publication of document ISO 19107:2019(E)'
+  review_decision_notes: >-
+    This entry is superseded by the entry for topological boundary <geometry,
+    topology>  in ISO 19107:2019(E)
+  release: '-1'
+  terms:
+    - type: expression
+      designation: 拓扑边界
+      normative_status: null
+  _revisions:
+    current: ed4bd6
+    tree:
+      ed4bd6:
+        object:
+          id: 461
+          definition: 由限定拓扑对象范围的更低拓扑维的有向拓扑单形的集合所表达的边界。
+          language_code: zho
+          notes:
+            - 拓扑复形的边界对应于该拓扑复形的几何实现的边界。
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19107:2003'
+            link: 'https://www.iso.org/standard/26012.html'
+          date_accepted: 2003-05-01T00:00:00.000Z
+          date_amended: 2019-12-02T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: 'Publication of document ISO 19107:2019(E)'
+          review_decision_notes: >-
+            This entry is superseded by the entry for topological boundary
+            <geometry, topology>  in ISO 19107:2019(E)
+          release: '-1'
+          terms:
+            - type: expression
+              designation: 拓扑边界
+              normative_status: null
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+fin:
+  id: 461
+  definition: >-
+    rajaus, jota kuvaa topologisen objektin laajuutta rajaava joukko suunnattuja
+    alemman topologisen ulottuvuuden omaavia topologisia primitiivejä
+  language_code: fin
+  notes:
+    - Topologisen kompleksin rajaus vastaa sen geometrisen ilmentymän rajausta.
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19107:2003'
+    link: 'https://www.iso.org/standard/26012.html'
+  date_accepted: 2003-05-01T00:00:00.000Z
+  date_amended: 2019-12-02T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: 'Publication of document ISO 19107:2019(E)'
+  review_decision_notes: >-
+    This entry is superseded by the entry for topological boundary <geometry,
+    topology>  in ISO 19107:2019(E)
+  release: '-1'
+  terms:
+    - type: expression
+      designation: topologinen rajaus
+      normative_status: null
+  _revisions:
+    current: 719fba
+    tree:
+      719fba:
+        object:
+          id: 461
+          definition: >-
+            rajaus, jota kuvaa topologisen objektin laajuutta rajaava joukko
+            suunnattuja alemman topologisen ulottuvuuden omaavia topologisia
+            primitiivejä
+          language_code: fin
+          notes:
+            - >-
+              Topologisen kompleksin rajaus vastaa sen geometrisen ilmentymän
+              rajausta.
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19107:2003'
+            link: 'https://www.iso.org/standard/26012.html'
+          date_accepted: 2003-05-01T00:00:00.000Z
+          date_amended: 2019-12-02T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: 'Publication of document ISO 19107:2019(E)'
+          review_decision_notes: >-
+            This entry is superseded by the entry for topological boundary
+            <geometry, topology>  in ISO 19107:2019(E)
+          release: '-1'
+          terms:
+            - type: expression
+              designation: topologinen rajaus
+              normative_status: null
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+fra:
+  id: 461
+  definition: >-
+    frontière représentée par un ensemble de primitives topologiques orientées
+    de dimension topologique inférieure, délimitant l'étendue d'un objet
+    topologique
+  language_code: fra
+  notes: []
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19107:2003'
+    link: 'https://www.iso.org/standard/26012.html'
+  date_accepted: 2003-05-01T00:00:00.000Z
+  date_amended: 2019-12-02T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: 'Publication of document ISO 19107:2019(E)'
+  review_decision_notes: >-
+    This entry is superseded by the entry for topological boundary <geometry,
+    topology>  in ISO 19107:2019(E)
+  release: '-1'
+  terms:
+    - type: expression
+      designation: frontière topologique
+      normative_status: null
+  _revisions:
+    current: c1f960
+    tree:
+      c1f960:
+        object:
+          id: 461
+          definition: >-
+            frontière représentée par un ensemble de primitives topologiques
+            orientées de dimension topologique inférieure, délimitant l'étendue
+            d'un objet topologique
+          language_code: fra
+          notes: []
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19107:2003'
+            link: 'https://www.iso.org/standard/26012.html'
+          date_accepted: 2003-05-01T00:00:00.000Z
+          date_amended: 2019-12-02T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: 'Publication of document ISO 19107:2019(E)'
+          review_decision_notes: >-
+            This entry is superseded by the entry for topological boundary
+            <geometry, topology>  in ISO 19107:2019(E)
+          release: '-1'
+          terms:
+            - type: expression
+              designation: frontière topologique
+              normative_status: null
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+jpn:
+  id: 461
+  definition: 位相オブジェクトの範囲を制限する，より低い位相次元の向きをもった位相プリミティブの集合で表される境界。
+  language_code: jpn
+  notes:
+    - 位相複体の境界は，この位相複体の幾何実現の境界と整合する。
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19107:2003'
+    link: 'https://www.iso.org/standard/26012.html'
+  date_accepted: 2003-05-01T00:00:00.000Z
+  date_amended: 2019-12-02T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: 'Publication of document ISO 19107:2019(E)'
+  review_decision_notes: >-
+    This entry is superseded by the entry for topological boundary <geometry,
+    topology>  in ISO 19107:2019(E)
+  release: '-1'
+  terms:
+    - type: expression
+      designation: 位相境界
+      normative_status: null
+  _revisions:
+    current: 4e338f
+    tree:
+      4e338f:
+        object:
+          id: 461
+          definition: 位相オブジェクトの範囲を制限する，より低い位相次元の向きをもった位相プリミティブの集合で表される境界。
+          language_code: jpn
+          notes:
+            - 位相複体の境界は，この位相複体の幾何実現の境界と整合する。
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19107:2003'
+            link: 'https://www.iso.org/standard/26012.html'
+          date_accepted: 2003-05-01T00:00:00.000Z
+          date_amended: 2019-12-02T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: 'Publication of document ISO 19107:2019(E)'
+          review_decision_notes: >-
+            This entry is superseded by the entry for topological boundary
+            <geometry, topology>  in ISO 19107:2019(E)
+          release: '-1'
+          terms:
+            - type: expression
+              designation: 位相境界
+              normative_status: null
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+kor:
+  id: 461
+  definition: 위상 객체의 범위를 한정하는 보다 작은 위상 차원의 방향성을 갖는 위상 원시 객체 집합을 통해 표현된 경계
+  language_code: kor
+  notes:
+    - 위상 복합체의 경계는 위상 복합체의 기하 실현의 경계와 일치한다.
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19107:2003'
+    link: 'https://www.iso.org/standard/26012.html'
+  date_accepted: 2003-05-01T00:00:00.000Z
+  date_amended: 2019-12-02T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: 'Publication of document ISO 19107:2019(E)'
+  review_decision_notes: >-
+    This entry is superseded by the entry for topological boundary <geometry,
+    topology>  in ISO 19107:2019(E)
+  release: '-1'
+  terms:
+    - type: expression
+      designation: 위상 경계
+      normative_status: null
+  _revisions:
+    current: '149225'
+    tree:
+      '149225':
+        object:
+          id: 461
+          definition: 위상 객체의 범위를 한정하는 보다 작은 위상 차원의 방향성을 갖는 위상 원시 객체 집합을 통해 표현된 경계
+          language_code: kor
+          notes:
+            - 위상 복합체의 경계는 위상 복합체의 기하 실현의 경계와 일치한다.
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19107:2003'
+            link: 'https://www.iso.org/standard/26012.html'
+          date_accepted: 2003-05-01T00:00:00.000Z
+          date_amended: 2019-12-02T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: 'Publication of document ISO 19107:2019(E)'
+          review_decision_notes: >-
+            This entry is superseded by the entry for topological boundary
+            <geometry, topology>  in ISO 19107:2019(E)
+          release: '-1'
+          terms:
+            - type: expression
+              designation: 위상 경계
+              normative_status: null
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+pol:
+  id: 461
+  definition: >-
+    granica reprezentowana przez zbiór zorientowanych prostych elementów
+    topologicznych o mniejszym wymiarze topologicznym, który ogranicza zasięg
+    obiektu topologicznego
+  language_code: pol
+  notes:
+    - >-
+      Granica złożonego elementu topologicznego odpowiada granicy jego
+      realizacji geometrycznej.
+  examples: []
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19107:2003'
+    link: 'https://www.iso.org/standard/26012.html'
+  date_accepted: 2003-05-01T00:00:00.000Z
+  date_amended: 2019-12-02T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: 'Publication of document ISO 19107:2019(E)'
+  review_decision_notes: >-
+    This entry is superseded by the entry for topological boundary <geometry,
+    topology>  in ISO 19107:2019(E)
+  release: '-1'
+  terms:
+    - type: expression
+      designation: granica topologiczna
+      normative_status: null
+  _revisions:
+    current: edbcb3
+    tree:
+      edbcb3:
+        object:
+          id: 461
+          definition: >-
+            granica reprezentowana przez zbiór zorientowanych prostych elementów
+            topologicznych o mniejszym wymiarze topologicznym, który ogranicza
+            zasięg obiektu topologicznego
+          language_code: pol
+          notes:
+            - >-
+              Granica złożonego elementu topologicznego odpowiada granicy jego
+              realizacji geometrycznej.
+          examples: []
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19107:2003'
+            link: 'https://www.iso.org/standard/26012.html'
+          date_accepted: 2003-05-01T00:00:00.000Z
+          date_amended: 2019-12-02T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: 'Publication of document ISO 19107:2019(E)'
+          review_decision_notes: >-
+            This entry is superseded by the entry for topological boundary
+            <geometry, topology>  in ISO 19107:2019(E)
+          release: '-1'
+          terms:
+            - type: expression
+              designation: granica topologiczna
+              normative_status: null
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 461
+  definition: >-
+    граница, образованная множеством ориентированных топологических примитивов 
+    меньшей топологической размерности, которая определяет пределы протяженности
+    топологического объекта
+  language_code: rus
+  notes:
+    - >-
+      Граница топологического комплекса соответствует границе геометрической
+      реализации топологического комплекса
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19107:2003'
+    link: 'https://www.iso.org/standard/26012.html'
+  date_accepted: 2003-05-01T00:00:00.000Z
+  date_amended: 2019-12-02T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: 'Publication of document ISO 19107:2019(E)'
+  review_decision_notes: >-
+    This entry is superseded by the entry for topological boundary <geometry,
+    topology>  in ISO 19107:2019(E)
+  release: '-1'
+  terms:
+    - type: expression
+      designation: топологическая граница
+      normative_status: null
+  _revisions:
+    current: a65af2
+    tree:
+      a65af2:
+        object:
+          id: 461
+          definition: >-
+            граница, образованная множеством ориентированных топологических
+            примитивов  меньшей топологической размерности, которая определяет
+            пределы протяженности топологического объекта
+          language_code: rus
+          notes:
+            - >-
+              Граница топологического комплекса соответствует границе
+              геометрической реализации топологического комплекса
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19107:2003'
+            link: 'https://www.iso.org/standard/26012.html'
+          date_accepted: 2003-05-01T00:00:00.000Z
+          date_amended: 2019-12-02T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: 'Publication of document ISO 19107:2019(E)'
+          review_decision_notes: >-
+            This entry is superseded by the entry for topological boundary
+            <geometry, topology>  in ISO 19107:2019(E)
+          release: '-1'
+          terms:
+            - type: expression
+              designation: топологическая граница
+              normative_status: null
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 461
+  definition: >-
+    frontera representada por un conjunto de primitivas topológicas orientadas
+    de dimensión topológica menor que limitan la extensión de un objeto
+    topológico
+  language_code: spa
+  notes:
+    - >-
+      La frontera de un complejo topológico se corresponde con la frontera de la
+      realización geométrica del complejo topológico.
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19107:2003'
+    link: 'https://www.iso.org/standard/26012.html'
+  date_accepted: 2003-05-01T00:00:00.000Z
+  date_amended: 2019-12-02T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: 'Publication of document ISO 19107:2019(E)'
+  review_decision_notes: >-
+    This entry is superseded by the entry for topological boundary <geometry,
+    topology>  in ISO 19107:2019(E)
+  release: '-1'
+  terms:
+    - type: expression
+      designation: frontera topológica
+      normative_status: null
+  _revisions:
+    current: 05dd95
+    tree:
+      05dd95:
+        object:
+          id: 461
+          definition: >-
+            frontera representada por un conjunto de primitivas topológicas
+            orientadas de dimensión topológica menor que limitan la extensión de
+            un objeto topológico
+          language_code: spa
+          notes:
+            - >-
+              La frontera de un complejo topológico se corresponde con la
+              frontera de la realización geométrica del complejo topológico.
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19107:2003'
+            link: 'https://www.iso.org/standard/26012.html'
+          date_accepted: 2003-05-01T00:00:00.000Z
+          date_amended: 2019-12-02T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: 'Publication of document ISO 19107:2019(E)'
+          review_decision_notes: >-
+            This entry is superseded by the entry for topological boundary
+            <geometry, topology>  in ISO 19107:2019(E)
+          release: '-1'
+          terms:
+            - type: expression
+              designation: frontera topológica
+              normative_status: null
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+swe:
+  id: 461
+  definition: >-
+    avgränsning för att begränsa utbredmingen hos ett topologiskt objekt och som
+    representeras av en samling topologiska grundelement av lägre topologisk
+    dimension än det topologika objektet
+  country_code: swe
+  language_code: swe
+  notes:
+    - >-
+      The boundary of a topological complex corresponds to the boundary of the
+      geometric realization of the topological complex.
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19107:2003'
+    link: 'https://www.iso.org/standard/26012.html'
+  date_accepted: 2003-05-01T00:00:00.000Z
+  date_amended: 2019-12-02T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: 'Publication of document ISO 19107:2019(E)'
+  review_decision_notes: >-
+    This entry is superseded by the entry for topological boundary <geometry,
+    topology>  in ISO 19107:2019(E)
+  release: '-1'
+  terms:
+    - type: expression
+      designation: topologisk avgränsning
+      normative_status: null
+  _revisions:
+    current: 32fc2e
+    tree:
+      32fc2e:
+        object:
+          id: 461
+          definition: >-
+            avgränsning för att begränsa utbredmingen hos ett topologiskt objekt
+            och som representeras av en samling topologiska grundelement av
+            lägre topologisk dimension än det topologika objektet
+          country_code: swe
+          language_code: swe
+          notes:
+            - >-
+              The boundary of a topological complex corresponds to the boundary
+              of the geometric realization of the topological complex.
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19107:2003'
+            link: 'https://www.iso.org/standard/26012.html'
+          date_accepted: 2003-05-01T00:00:00.000Z
+          date_amended: 2019-12-02T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: 'Publication of document ISO 19107:2019(E)'
+          review_decision_notes: >-
+            This entry is superseded by the entry for topological boundary
+            <geometry, topology>  in ISO 19107:2019(E)
+          release: '-1'
+          terms:
+            - type: expression
+              designation: topologisk avgränsning
+              normative_status: null
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

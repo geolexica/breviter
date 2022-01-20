@@ -1,0 +1,124 @@
+term: quality
+termid: 2333
+eng:
+  id: 2333
+  definition: >-
+    degree to which a set of inherent characteristics of an object fulfils
+    requirements
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 9000:2015'
+    clause: '3.6.2, modified – original Notes have been deleted.'
+    link: 'https://www.iso.org/standard/45481.html'
+  lineage_source_similarity: '0'
+  review_date: 2017-06-28T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2017-06-28T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 9000:2015'
+  review_decision_notes: 'The definition supersedes the definition in ISO 9000:2005'
+  release: '4'
+  terms:
+    - type: expression
+      designation: quality
+      normative_status: preferred
+  _revisions:
+    current: 6bc511
+    tree:
+      6bc511:
+        object:
+          id: 2333
+          definition: >-
+            degree to which a set of inherent characteristics of an object
+            fulfils requirements
+          language_code: eng
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 9000:2015'
+            clause: '3.6.2, modified – original Notes have been deleted.'
+            link: 'https://www.iso.org/standard/45481.html'
+          lineage_source_similarity: '0'
+          review_date: 2017-06-28T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2017-06-28T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 9000:2015'
+          review_decision_notes: 'The definition supersedes the definition in ISO 9000:2005'
+          release: '4'
+          terms:
+            - type: expression
+              designation: quality
+              normative_status: preferred
+        parents: []
+        timeCreated: 2020-07-01T10:08:49.652Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 2333
+  definition: >-
+    grado en que un conjunto de características inherentes de un objeto cumple
+    unos requisitos
+  language_code: spa
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 9000:2015'
+    clause: '3.6.2, modificado – las notas originales se han eliminado'
+    link: 'https://www.iso.org/standard/45481.html'
+  lineage_source_similarity: '0'
+  review_date: 2017-06-28T00:00:00.000Z
+  review_status: final
+  review_type: ''
+  review_decision: ''
+  review_decision_date: 2017-06-28T00:00:00.000Z
+  review_decision_event: 'Publicación de ISO 9000:2015'
+  review_decision_notes: 'La definición sustituye la definición la Norma 9000:2005'
+  release: '4'
+  terms:
+    - type: expression
+      designation: calidad
+      normative_status: preferred
+  _revisions:
+    current: ba87a3
+    tree:
+      ba87a3:
+        object:
+          id: 2333
+          definition: >-
+            grado en que un conjunto de características inherentes de un objeto
+            cumple unos requisitos
+          language_code: spa
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 9000:2015'
+            clause: '3.6.2, modificado – las notas originales se han eliminado'
+            link: 'https://www.iso.org/standard/45481.html'
+          lineage_source_similarity: '0'
+          review_date: 2017-06-28T00:00:00.000Z
+          review_status: final
+          review_type: ''
+          review_decision: ''
+          review_decision_date: 2017-06-28T00:00:00.000Z
+          review_decision_event: 'Publicación de ISO 9000:2015'
+          review_decision_notes: 'La definición sustituye la definición la Norma 9000:2005'
+          release: '4'
+          terms:
+            - type: expression
+              designation: calidad
+              normative_status: preferred
+        parents: []
+        timeCreated: 2020-07-01T10:08:49.652Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

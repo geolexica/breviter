@@ -1,0 +1,530 @@
+term: grid coordinate system
+termid: 1069
+eng:
+  id: 1069
+  definition: >-
+    coordinate system in which a position is specified relative to the
+    intersection of curves
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19115-2:2019'
+    clause: '(E), 3.14'
+    link: 'https://www.iso.org/standard/67039.html'
+  lineage_source: 'ISO 19115-2:2009(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2009-02-15T00:00:00.000Z
+  review_date: 2019-01-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-01-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19115-2:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19115-2:2009 to ISO
+    19115-2:2019(E), 3.14. Lineage source added as ISO 19115-2:2009(E)
+  release: '2'
+  terms:
+    - type: expression
+      designation: grid coordinate system
+      normative_status: preferred
+  _revisions:
+    current: cc6184
+    tree:
+      cc6184:
+        object:
+          id: 1069
+          definition: >-
+            coordinate system in which a position is specified relative to the
+            intersection of curves
+          language_code: eng
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19115-2:2019'
+            clause: '(E), 3.14'
+            link: 'https://www.iso.org/standard/67039.html'
+          lineage_source: 'ISO 19115-2:2009(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2009-02-15T00:00:00.000Z
+          review_date: 2019-01-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-01-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19115-2:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19115-2:2009 to ISO
+            19115-2:2019(E), 3.14. Lineage source added as ISO 19115-2:2009(E)
+          release: '2'
+          terms:
+            - type: expression
+              designation: grid coordinate system
+              normative_status: preferred
+        parents: []
+        timeCreated: 2009-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+ara:
+  id: 1069
+  definition: نظام إحداثيات يتم تحديد الموقع فيه منسوبا إلى تقاطع المنحنيات
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19115-2:2019'
+    clause: '(E), 3.14'
+    link: 'https://www.iso.org/standard/67039.html'
+  lineage_source: 'ISO 19115-2:2009(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2009-02-15T00:00:00.000Z
+  review_date: 2019-01-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-01-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19115-2:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19115-2:2009 to ISO
+    19115-2:2019(E), 3.14. Lineage source added as ISO 19115-2:2009(E)
+  release: '2'
+  terms:
+    - type: expression
+      designation: نظام إحداثيات شبكة تسامتية
+      normative_status: preferred
+  _revisions:
+    current: '994004'
+    tree:
+      '994004':
+        object:
+          id: 1069
+          definition: نظام إحداثيات يتم تحديد الموقع فيه منسوبا إلى تقاطع المنحنيات
+          language_code: ara
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19115-2:2019'
+            clause: '(E), 3.14'
+            link: 'https://www.iso.org/standard/67039.html'
+          lineage_source: 'ISO 19115-2:2009(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2009-02-15T00:00:00.000Z
+          review_date: 2019-01-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-01-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19115-2:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19115-2:2009 to ISO
+            19115-2:2019(E), 3.14. Lineage source added as ISO 19115-2:2009(E)
+          release: '2'
+          terms:
+            - type: expression
+              designation: نظام إحداثيات شبكة تسامتية
+              normative_status: preferred
+        parents: []
+        timeCreated: 2009-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+deu:
+  id: 1069
+  definition: >-
+    Koordinatenreferenzsystem, bei dem eine Position relativ zu Schnittpunkten
+    von Kurven definiert ist
+  language_code: deu
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19115-2:2019'
+    clause: '(E), 3.14'
+    link: 'https://www.iso.org/standard/67039.html'
+  lineage_source: 'ISO 19115-2:2009(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2009-02-15T00:00:00.000Z
+  review_date: 2019-01-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-01-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19115-2:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19115-2:2009 to ISO
+    19115-2:2019(E), 3.14. Lineage source added as ISO 19115-2:2009(E)
+  release: '2'
+  terms:
+    - type: expression
+      designation: Gitterkoordinatensystem
+      normative_status: preferred
+  _revisions:
+    current: '225697'
+    tree:
+      '225697':
+        object:
+          id: 1069
+          definition: >-
+            Koordinatenreferenzsystem, bei dem eine Position relativ zu
+            Schnittpunkten von Kurven definiert ist
+          language_code: deu
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19115-2:2019'
+            clause: '(E), 3.14'
+            link: 'https://www.iso.org/standard/67039.html'
+          lineage_source: 'ISO 19115-2:2009(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2009-02-15T00:00:00.000Z
+          review_date: 2019-01-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-01-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19115-2:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19115-2:2009 to ISO
+            19115-2:2019(E), 3.14. Lineage source added as ISO 19115-2:2009(E)
+          release: '2'
+          terms:
+            - type: expression
+              designation: Gitterkoordinatensystem
+              normative_status: preferred
+        parents: []
+        timeCreated: 2009-02-15T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+kor:
+  id: 1069
+  definition: 곡선들의 교차점에 따라 위치가 명시된 좌표 체계
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19115-2:2019'
+    clause: '(E), 3.14'
+    link: 'https://www.iso.org/standard/67039.html'
+  lineage_source: 'ISO 19115-2:2009(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2009-02-15T00:00:00.000Z
+  review_date: 2019-01-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-01-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19115-2:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19115-2:2009 to ISO
+    19115-2:2019(E), 3.14. Lineage source added as ISO 19115-2:2009(E)
+  release: '2'
+  terms:
+    - type: expression
+      designation: 격자 좌표 체계
+      normative_status: preferred
+  _revisions:
+    current: 8bf81d
+    tree:
+      8bf81d:
+        object:
+          id: 1069
+          definition: 곡선들의 교차점에 따라 위치가 명시된 좌표 체계
+          language_code: kor
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19115-2:2019'
+            clause: '(E), 3.14'
+            link: 'https://www.iso.org/standard/67039.html'
+          lineage_source: 'ISO 19115-2:2009(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2009-02-15T00:00:00.000Z
+          review_date: 2019-01-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-01-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19115-2:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19115-2:2009 to ISO
+            19115-2:2019(E), 3.14. Lineage source added as ISO 19115-2:2009(E)
+          release: '2'
+          terms:
+            - type: expression
+              designation: 격자 좌표 체계
+              normative_status: preferred
+        parents: []
+        timeCreated: 2009-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+msa:
+  id: 1069
+  definition: |-
+    sistem koordinat di mana kedudukan
+    ditentukan secara relatif pada persilangan lengkung
+  language_code: msa
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19115-2:2019'
+    clause: '(E), 3.14'
+    link: 'https://www.iso.org/standard/67039.html'
+  lineage_source: 'ISO 19115-2:2009(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2009-02-15T00:00:00.000Z
+  review_date: 2019-01-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-01-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19115-2:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19115-2:2009 to ISO
+    19115-2:2019(E), 3.14. Lineage source added as ISO 19115-2:2009(E)
+  release: '2'
+  terms:
+    - type: expression
+      designation: sistem koordinat grid
+      normative_status: preferred
+  _revisions:
+    current: 6c3804
+    tree:
+      6c3804:
+        object:
+          id: 1069
+          definition: |-
+            sistem koordinat di mana kedudukan
+            ditentukan secara relatif pada persilangan lengkung
+          language_code: msa
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19115-2:2019'
+            clause: '(E), 3.14'
+            link: 'https://www.iso.org/standard/67039.html'
+          lineage_source: 'ISO 19115-2:2009(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2009-02-15T00:00:00.000Z
+          review_date: 2019-01-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-01-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19115-2:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19115-2:2009 to ISO
+            19115-2:2019(E), 3.14. Lineage source added as ISO 19115-2:2009(E)
+          release: '2'
+          terms:
+            - type: expression
+              designation: sistem koordinat grid
+              normative_status: preferred
+        parents: []
+        timeCreated: 2009-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 1069
+  definition: >-
+    система координат, в которой положение определяется относительно пересечения
+    кривых
+  language_code: rus
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19115-2:2019'
+    clause: '(E), 3.14'
+    link: 'https://www.iso.org/standard/67039.html'
+  lineage_source: 'ISO 19115-2:2009(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2009-02-15T00:00:00.000Z
+  review_date: 2019-01-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-01-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19115-2:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19115-2:2009 to ISO
+    19115-2:2019(E), 3.14. Lineage source added as ISO 19115-2:2009(E)
+  release: '2'
+  terms:
+    - type: expression
+      designation: система координат сетки
+      normative_status: preferred
+  _revisions:
+    current: 13534a
+    tree:
+      13534a:
+        object:
+          id: 1069
+          definition: >-
+            система координат, в которой положение определяется относительно
+            пересечения кривых
+          language_code: rus
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19115-2:2019'
+            clause: '(E), 3.14'
+            link: 'https://www.iso.org/standard/67039.html'
+          lineage_source: 'ISO 19115-2:2009(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2009-02-15T00:00:00.000Z
+          review_date: 2019-01-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-01-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19115-2:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19115-2:2009 to ISO
+            19115-2:2019(E), 3.14. Lineage source added as ISO 19115-2:2009(E)
+          release: '2'
+          terms:
+            - type: expression
+              designation: система координат сетки
+              normative_status: preferred
+        parents: []
+        timeCreated: 2009-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 1069
+  definition: >-
+    sistema de coordenadas en el que se especifica una posición con relación a
+    la intersección de curvas
+  language_code: spa
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19115-2:2019'
+    clause: '(E), 3.14'
+    link: 'https://www.iso.org/standard/67039.html'
+  lineage_source: 'ISO 19115-2:2009(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2009-02-15T00:00:00.000Z
+  review_date: 2019-01-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-01-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19115-2:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19115-2:2009 to ISO
+    19115-2:2019(E), 3.14. Lineage source added as ISO 19115-2:2009(E)
+  release: '2'
+  terms:
+    - type: expression
+      designation: sistema de coordenadas malla
+      normative_status: preferred
+  _revisions:
+    current: 6f4d33
+    tree:
+      6f4d33:
+        object:
+          id: 1069
+          definition: >-
+            sistema de coordenadas en el que se especifica una posición con
+            relación a la intersección de curvas
+          language_code: spa
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19115-2:2019'
+            clause: '(E), 3.14'
+            link: 'https://www.iso.org/standard/67039.html'
+          lineage_source: 'ISO 19115-2:2009(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2009-02-15T00:00:00.000Z
+          review_date: 2019-01-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-01-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19115-2:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19115-2:2009 to ISO
+            19115-2:2019(E), 3.14. Lineage source added as ISO 19115-2:2009(E)
+          release: '2'
+          terms:
+            - type: expression
+              designation: sistema de coordenadas malla
+              normative_status: preferred
+        parents: []
+        timeCreated: 2009-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+swe:
+  id: 1069
+  definition: koordinatsystem i vilket en position anges relativt linjers skärningspunkter
+  country_code: swe
+  language_code: swe
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19115-2:2019'
+    clause: '(E), 3.14'
+    link: 'https://www.iso.org/standard/67039.html'
+  lineage_source: 'ISO 19115-2:2009(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2009-02-15T00:00:00.000Z
+  review_date: 2019-01-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-01-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19115-2:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19115-2:2009 to ISO
+    19115-2:2019(E), 3.14. Lineage source added as ISO 19115-2:2009(E)
+  release: '2'
+  terms:
+    - type: expression
+      designation: rutnätskoordinatsystem
+      normative_status: preferred
+  _revisions:
+    current: 9461fd
+    tree:
+      9461fd:
+        object:
+          id: 1069
+          definition: >-
+            koordinatsystem i vilket en position anges relativt linjers
+            skärningspunkter
+          country_code: swe
+          language_code: swe
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19115-2:2019'
+            clause: '(E), 3.14'
+            link: 'https://www.iso.org/standard/67039.html'
+          lineage_source: 'ISO 19115-2:2009(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2009-02-15T00:00:00.000Z
+          review_date: 2019-01-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-01-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19115-2:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19115-2:2009 to ISO
+            19115-2:2019(E), 3.14. Lineage source added as ISO 19115-2:2009(E)
+          release: '2'
+          terms:
+            - type: expression
+              designation: rutnätskoordinatsystem
+              normative_status: preferred
+        parents: []
+        timeCreated: 2009-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

@@ -1,0 +1,71 @@
+term: AIP edition
+termid: 2265
+eng:
+  id: 2265
+  definition: >-
+    AIP whose content information or preservation description information has
+    been upgraded or improved with the intent not to preserve information, but
+    to increase or improve it
+  language_code: eng
+  notes:
+    - This definition only refers to digital migration.
+    - An AIP edition is not considered to be the result of a migration.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 14721:2012'
+    clause: >-
+      1.7.2, modified — Supporting content has been relocated to Note 2 to
+      entry.
+    link: 'https://www.iso.org/standard/57284.html'
+  date_accepted: 2018-05-01T00:00:00.000Z
+  review_date: 2018-05-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2018-05-01T00:00:00.000Z
+  review_decision_event: Normal ISO processing
+  review_decision_notes: 'Publication of document ISO 19165-1:2018(E)'
+  release: '5'
+  terms:
+    - type: expression
+      designation: AIP edition
+      normative_status: preferred
+  _revisions:
+    current: b17c03
+    tree:
+      b17c03:
+        object:
+          id: 2265
+          definition: >-
+            AIP whose content information or preservation description
+            information has been upgraded or improved with the intent not to
+            preserve information, but to increase or improve it
+          language_code: eng
+          notes:
+            - This definition only refers to digital migration.
+            - An AIP edition is not considered to be the result of a migration.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 14721:2012'
+            clause: >-
+              1.7.2, modified — Supporting content has been relocated to Note 2
+              to entry.
+            link: 'https://www.iso.org/standard/57284.html'
+          date_accepted: 2018-05-01T00:00:00.000Z
+          review_date: 2018-05-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2018-05-01T00:00:00.000Z
+          review_decision_event: Normal ISO processing
+          review_decision_notes: 'Publication of document ISO 19165-1:2018(E)'
+          release: '5'
+          terms:
+            - type: expression
+              designation: AIP edition
+              normative_status: preferred
+        parents: []
+        timeCreated: 2018-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

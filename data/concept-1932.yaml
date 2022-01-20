@@ -1,0 +1,180 @@
+term: breakline
+termid: 1932
+eng:
+  id: 1932
+  definition: >-
+    linear feature that describes a change in the smoothness or continuity of a
+    surface
+  language_code: eng
+  notes:
+    - >-
+      A soft breakline ensures that known z-values along a linear feature are
+      maintained (for example, elevations along a pipeline, road centreline or
+      drainage ditch), and ensures that linear features and polygon edges are
+      maintained in a Triangulated Irregular Network (TIN) surface model, by
+      enforcing the breaklines as TIN edges. They are generally synonymous with
+      3-D breaklines because they are depicted with series of x/y/z coordinates.
+      Somewhat rounded ridges or the trough of a drain may be collected using
+      soft breaklines.
+    - >-
+      A hard breakline defines interruptions in surface smoothness, for example,
+      to define streams, shorelines, dams, ridges, building footprints, and
+      other locations with abrupt surface changes.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO/TS 19159-2:2016'
+    clause: '4.5'
+    link: 'https://www.iso.org/standard/64768.html'
+  date_accepted: 2016-04-15T00:00:00.000Z
+  review_date: 2014-08-26T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2016-04-15T00:00:00.000Z
+  review_decision_event: Normal ISO processing
+  review_decision_notes: 'Publication of document ISO/TS 19159-2:2016(E)'
+  release: '4'
+  terms:
+    - type: expression
+      designation: breakline
+      normative_status: preferred
+  _revisions:
+    current: f9235c
+    tree:
+      f9235c:
+        object:
+          id: 1932
+          definition: >-
+            linear feature that describes a change in the smoothness or
+            continuity of a surface
+          language_code: eng
+          notes:
+            - >-
+              A soft breakline ensures that known z-values along a linear
+              feature are maintained (for example, elevations along a pipeline,
+              road centreline or drainage ditch), and ensures that linear
+              features and polygon edges are maintained in a Triangulated
+              Irregular Network (TIN) surface model, by enforcing the breaklines
+              as TIN edges. They are generally synonymous with 3-D breaklines
+              because they are depicted with series of x/y/z coordinates.
+              Somewhat rounded ridges or the trough of a drain may be collected
+              using soft breaklines.
+            - >-
+              A hard breakline defines interruptions in surface smoothness, for
+              example, to define streams, shorelines, dams, ridges, building
+              footprints, and other locations with abrupt surface changes.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO/TS 19159-2:2016'
+            clause: '4.5'
+            link: 'https://www.iso.org/standard/64768.html'
+          date_accepted: 2016-04-15T00:00:00.000Z
+          review_date: 2014-08-26T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2016-04-15T00:00:00.000Z
+          review_decision_event: Normal ISO processing
+          review_decision_notes: 'Publication of document ISO/TS 19159-2:2016(E)'
+          release: '4'
+          terms:
+            - type: expression
+              designation: breakline
+              normative_status: preferred
+        parents: []
+        timeCreated: 2016-04-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 1932
+  definition: >-
+    objeto geográfico lineal que describe un cambio en la suavidad o continuidad
+    de una superficie
+  language_code: spa
+  notes:
+    - >-
+      Una línea de quiebre suave garantiza que sobre un objeto geografíco lineal
+      se mantengan los valores conocidos de z (por ejemplo, elevaciones a lo
+      largo de una tubería, el eje de una carretera o una acequia de drenaje), y
+      asegura que los objetos geográficos lineales y los bordes de los polígonos
+      se mantengan en un modelo de superficie de Red Irregular de Triángulos
+      (TIN), por medio de forzar las lineas de quiebre como bordes del TIN. En
+      general, son sinónimo de las líneas de quiebre tridimensionales porque se
+      representan con series de coordenadas x/y/z. De cierto modo, las crestas
+      redondeadas o las depresiones de drenaje se pueden capturar utilizando
+      lineas de quiebre suaves.
+    - >-
+      Una línea de quiebre fuerte define interrupciones enla suavidad de la
+      superficie por ejemplo, para definir cauces, líneas de costa, represas,
+      crestas, plantas de edificios y otras ubicaciones con cambios abruptos en
+      la superficie.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO/TS 19159-2:2016'
+    clause: '4.5'
+    link: 'https://www.iso.org/standard/64768.html'
+  date_accepted: 2016-04-15T00:00:00.000Z
+  review_date: 2014-08-26T00:00:00.000Z
+  review_status: final
+  review_decision: ''
+  review_decision_date: 2016-04-15T00:00:00.000Z
+  review_decision_event: Normal ISO processing
+  review_decision_notes: 'Publication of document ISO/TS 19159-2:2016(E)'
+  release: '4'
+  terms:
+    - type: expression
+      designation: línea de quiebre
+      normative_status: preferred
+  _revisions:
+    current: ee35bb
+    tree:
+      ee35bb:
+        object:
+          id: 1932
+          definition: >-
+            objeto geográfico lineal que describe un cambio en la suavidad o
+            continuidad de una superficie
+          language_code: spa
+          notes:
+            - >-
+              Una línea de quiebre suave garantiza que sobre un objeto
+              geografíco lineal se mantengan los valores conocidos de z (por
+              ejemplo, elevaciones a lo largo de una tubería, el eje de una
+              carretera o una acequia de drenaje), y asegura que los objetos
+              geográficos lineales y los bordes de los polígonos se mantengan en
+              un modelo de superficie de Red Irregular de Triángulos (TIN), por
+              medio de forzar las lineas de quiebre como bordes del TIN. En
+              general, son sinónimo de las líneas de quiebre tridimensionales
+              porque se representan con series de coordenadas x/y/z. De cierto
+              modo, las crestas redondeadas o las depresiones de drenaje se
+              pueden capturar utilizando lineas de quiebre suaves.
+            - >-
+              Una línea de quiebre fuerte define interrupciones enla suavidad de
+              la superficie por ejemplo, para definir cauces, líneas de costa,
+              represas, crestas, plantas de edificios y otras ubicaciones con
+              cambios abruptos en la superficie.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO/TS 19159-2:2016'
+            clause: '4.5'
+            link: 'https://www.iso.org/standard/64768.html'
+          date_accepted: 2016-04-15T00:00:00.000Z
+          review_date: 2014-08-26T00:00:00.000Z
+          review_status: final
+          review_decision: ''
+          review_decision_date: 2016-04-15T00:00:00.000Z
+          review_decision_event: Normal ISO processing
+          review_decision_notes: 'Publication of document ISO/TS 19159-2:2016(E)'
+          release: '4'
+          terms:
+            - type: expression
+              designation: línea de quiebre
+              normative_status: preferred
+        parents: []
+        timeCreated: 2016-04-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

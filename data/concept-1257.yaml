@@ -1,0 +1,243 @@
+term: transaction
+termid: 1257
+eng:
+  id: 1257
+  definition: >-
+    set of actions joined into the same unit of work, such that the actions
+    either succeed or fail as a unit
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: Web Service Glossary
+    clause: modified
+  lineage_source: 'ISO 19153:2014, 4.49'
+  lineage_source_similarity: 1
+  date_accepted: 2014-02-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: transaction
+      normative_status: preferred
+  _revisions:
+    current: 3f280c
+    tree:
+      3f280c:
+        object:
+          id: 1257
+          definition: >-
+            set of actions joined into the same unit of work, such that the
+            actions either succeed or fail as a unit
+          language_code: eng
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: Web Service Glossary
+            clause: modified
+          lineage_source: 'ISO 19153:2014, 4.49'
+          lineage_source_similarity: 1
+          date_accepted: 2014-02-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: transaction
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+kor:
+  id: 1257
+  definition: 행위들이 단위단위로 성공 또는 실패하는 동일 작업단위로 합치된 행위 집합
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: Web Service Glossary
+    clause: modified
+  lineage_source: 'ISO 19153:2014, 4.49'
+  lineage_source_similarity: 1
+  date_accepted: 2014-02-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: 트랜잭션
+      normative_status: preferred
+  _revisions:
+    current: 063f53
+    tree:
+      063f53:
+        object:
+          id: 1257
+          definition: 행위들이 단위단위로 성공 또는 실패하는 동일 작업단위로 합치된 행위 집합
+          language_code: kor
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: Web Service Glossary
+            clause: modified
+          lineage_source: 'ISO 19153:2014, 4.49'
+          lineage_source_similarity: 1
+          date_accepted: 2014-02-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: 트랜잭션
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+msa:
+  id: 1257
+  definition: >-
+    satu set tindakan yang dimasukkan ke unit kerja yang sama, supaya tindakan
+    itu berjaya atau gagal sebagai satu unit
+  language_code: msa
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: Web Service Glossary
+    clause: modified
+  lineage_source: 'ISO 19153:2014, 4.49'
+  lineage_source_similarity: 1
+  date_accepted: 2014-02-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: transaksi
+      normative_status: preferred
+  _revisions:
+    current: ea496c
+    tree:
+      ea496c:
+        object:
+          id: 1257
+          definition: >-
+            satu set tindakan yang dimasukkan ke unit kerja yang sama, supaya
+            tindakan itu berjaya atau gagal sebagai satu unit
+          language_code: msa
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: Web Service Glossary
+            clause: modified
+          lineage_source: 'ISO 19153:2014, 4.49'
+          lineage_source_similarity: 1
+          date_accepted: 2014-02-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: transaksi
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 1257
+  definition: >-
+    набор действий, соединенных в один блок работы так, что действия как одно
+    целое либо достигают цели, либо завершаются ошибкой
+  language_code: rus
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: Web Service Glossary
+    clause: modified
+  lineage_source: 'ISO 19153:2014, 4.49'
+  lineage_source_similarity: 1
+  date_accepted: 2014-02-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: транзакция
+      normative_status: preferred
+  _revisions:
+    current: 186e8f
+    tree:
+      186e8f:
+        object:
+          id: 1257
+          definition: >-
+            набор действий, соединенных в один блок работы так, что действия как
+            одно целое либо достигают цели, либо завершаются ошибкой
+          language_code: rus
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: Web Service Glossary
+            clause: modified
+          lineage_source: 'ISO 19153:2014, 4.49'
+          lineage_source_similarity: 1
+          date_accepted: 2014-02-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: транзакция
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 1257
+  definition: >-
+    conjunto de acciones unidas en la misma unidad de trabajo, de tal manera que
+    o se completan o fallan todas como un todo
+  language_code: spa
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: Web Service Glossary
+    clause: modified
+  lineage_source: 'ISO 19153:2014, 4.49'
+  lineage_source_similarity: 1
+  date_accepted: 2014-02-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: transacción
+      normative_status: preferred
+  _revisions:
+    current: f45966
+    tree:
+      f45966:
+        object:
+          id: 1257
+          definition: >-
+            conjunto de acciones unidas en la misma unidad de trabajo, de tal
+            manera que o se completan o fallan todas como un todo
+          language_code: spa
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: Web Service Glossary
+            clause: modified
+          lineage_source: 'ISO 19153:2014, 4.49'
+          lineage_source_similarity: 1
+          date_accepted: 2014-02-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: transacción
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

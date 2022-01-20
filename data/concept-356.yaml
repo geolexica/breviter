@@ -1,0 +1,445 @@
+term: profile
+termid: 356
+eng:
+  id: 356
+  definition: >-
+    set of one or more base standards or subsets of base standards, and, where
+    applicable, the identification of chosen clauses, classes, options and
+    parameters of those base standards, that are necessary for accomplishing a
+    particular function
+  language_code: eng
+  notes:
+    - >-
+      A profile is derived from base standards so that by definition,
+      conformance to a profile is conformance to the base standards from which
+      it is derived.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO/IEC TR 10000-1:1998'
+    link: 'https://www.iso.org/standard/30726.html'
+  lineage_source: 'ISO 19106:2004'
+  date_accepted: 2004-07-01T00:00:00.000Z
+  release: '2'
+  terms:
+    - type: expression
+      designation: profile
+      normative_status: preferred
+  _revisions:
+    current: fd0d45
+    tree:
+      fd0d45:
+        object:
+          id: 356
+          definition: >-
+            set of one or more base standards or subsets of base standards, and,
+            where applicable, the identification of chosen clauses, classes,
+            options and parameters of those base standards, that are necessary
+            for accomplishing a particular function
+          language_code: eng
+          notes:
+            - >-
+              A profile is derived from base standards so that by definition,
+              conformance to a profile is conformance to the base standards from
+              which it is derived.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO/IEC TR 10000-1:1998'
+            link: 'https://www.iso.org/standard/30726.html'
+          lineage_source: 'ISO 19106:2004'
+          date_accepted: 2004-07-01T00:00:00.000Z
+          release: '2'
+          terms:
+            - type: expression
+              designation: profile
+              normative_status: preferred
+        parents: []
+        timeCreated: 2004-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+ara:
+  id: 356
+  definition: >-
+    مجموعة من واحد أو أكثر من المعايير الأساسية أو اجزاء منها  ، وحيثما يقتضي
+    ذلك ، تحديد البنود و الفئات و الخيارات والمتغيرات، المختارة  من تلك المعايير
+    الاساسية و التي هي ضرورية لانجاز وظيفة معينة
+  language_code: ara
+  notes:
+    - >-
+      الجانبية مشتقة من مواصفات قياسية أساسية وبالتالي فإن التقيد بهذه الجانبية
+      يكون بالضرورة تقيدا بالمواصفات القياسية التي تمثل الأصل الذي اشتقت منه
+      الجانبية.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO/IEC TR 10000-1:1998'
+    link: 'https://www.iso.org/standard/30726.html'
+  date_accepted: 2004-07-01T00:00:00.000Z
+  release: '2'
+  terms:
+    - type: expression
+      designation: لمحة مختصرة
+      normative_status: preferred
+  _revisions:
+    current: dfa266
+    tree:
+      dfa266:
+        object:
+          id: 356
+          definition: >-
+            مجموعة من واحد أو أكثر من المعايير الأساسية أو اجزاء منها  ، وحيثما
+            يقتضي ذلك ، تحديد البنود و الفئات و الخيارات والمتغيرات، المختارة 
+            من تلك المعايير الاساسية و التي هي ضرورية لانجاز وظيفة معينة
+          language_code: ara
+          notes:
+            - >-
+              الجانبية مشتقة من مواصفات قياسية أساسية وبالتالي فإن التقيد بهذه
+              الجانبية يكون بالضرورة تقيدا بالمواصفات القياسية التي تمثل الأصل
+              الذي اشتقت منه الجانبية.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO/IEC TR 10000-1:1998'
+            link: 'https://www.iso.org/standard/30726.html'
+          date_accepted: 2004-07-01T00:00:00.000Z
+          release: '2'
+          terms:
+            - type: expression
+              designation: لمحة مختصرة
+              normative_status: preferred
+        parents: []
+        timeCreated: 2004-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+deu:
+  id: 356
+  language_code: deu
+  notes:
+    - >-
+      A profile is derived from base standards so that by definition,
+      conformance to a profile is conformance to the base standards from which
+      it is derived.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO/IEC TR 10000-1:1998'
+    link: 'https://www.iso.org/standard/30726.html'
+  date_accepted: 2004-07-01T00:00:00.000Z
+  release: '2'
+  terms:
+    - type: expression
+      designation: Profil
+      normative_status: preferred
+  _revisions:
+    current: 8da296
+    tree:
+      8da296:
+        object:
+          id: 356
+          language_code: deu
+          notes:
+            - >-
+              A profile is derived from base standards so that by definition,
+              conformance to a profile is conformance to the base standards from
+              which it is derived.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO/IEC TR 10000-1:1998'
+            link: 'https://www.iso.org/standard/30726.html'
+          date_accepted: 2004-07-01T00:00:00.000Z
+          release: '2'
+          terms:
+            - type: expression
+              designation: Profil
+              normative_status: preferred
+        parents: []
+        timeCreated: 2004-07-01T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+kor:
+  id: 356
+  definition: >-
+    하나 이상의 기반 표준 집합 또는 기반 표준의 하위 집합. 적용가능한 경우에는 특정 함수 계산에 필요한 기반 표준의 선택 조항, 클래스,
+    옵션과 매개변수
+  language_code: kor
+  notes:
+    - >-
+      A profile is derived from base standards so that by definition,
+      conformance to a profile is conformance to the base standards from which
+      it is derived.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO/IEC TR 10000-1:1998'
+    link: 'https://www.iso.org/standard/30726.html'
+  date_accepted: 2004-07-01T00:00:00.000Z
+  release: '2'
+  terms:
+    - type: expression
+      designation: '프로필, 프로파일'
+      normative_status: preferred
+  _revisions:
+    current: 9ed4bf
+    tree:
+      9ed4bf:
+        object:
+          id: 356
+          definition: >-
+            하나 이상의 기반 표준 집합 또는 기반 표준의 하위 집합. 적용가능한 경우에는 특정 함수 계산에 필요한 기반 표준의 선택
+            조항, 클래스, 옵션과 매개변수
+          language_code: kor
+          notes:
+            - >-
+              A profile is derived from base standards so that by definition,
+              conformance to a profile is conformance to the base standards from
+              which it is derived.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO/IEC TR 10000-1:1998'
+            link: 'https://www.iso.org/standard/30726.html'
+          date_accepted: 2004-07-01T00:00:00.000Z
+          release: '2'
+          terms:
+            - type: expression
+              designation: '프로필, 프로파일'
+              normative_status: preferred
+        parents: []
+        timeCreated: 2004-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+msa:
+  id: 356
+  definition: >-
+    Satu atau lebih piawai asas atau subset bagi piawai asas, dan apabila perlu,
+    penentuan klausa terpilih, kelas-kelas, pilihan dan parameter piawai asas
+    tersebut, yang diperlukan untuk mencapai fungsi tertentu
+  language_code: msa
+  notes:
+    - >-
+      A profile is derived from base standards so that by definition,
+      conformance to a profile is conformance to the base standards from which
+      it is derived.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO/IEC TR 10000-1:1998'
+    link: 'https://www.iso.org/standard/30726.html'
+  lineage_source: 'ISO 19106:2004'
+  date_accepted: 2004-07-01T00:00:00.000Z
+  release: '2'
+  terms:
+    - type: expression
+      designation: profil
+      normative_status: preferred
+  _revisions:
+    current: 08bd8f
+    tree:
+      08bd8f:
+        object:
+          id: 356
+          definition: >-
+            Satu atau lebih piawai asas atau subset bagi piawai asas, dan
+            apabila perlu, penentuan klausa terpilih, kelas-kelas, pilihan dan
+            parameter piawai asas tersebut, yang diperlukan untuk mencapai
+            fungsi tertentu
+          language_code: msa
+          notes:
+            - >-
+              A profile is derived from base standards so that by definition,
+              conformance to a profile is conformance to the base standards from
+              which it is derived.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO/IEC TR 10000-1:1998'
+            link: 'https://www.iso.org/standard/30726.html'
+          lineage_source: 'ISO 19106:2004'
+          date_accepted: 2004-07-01T00:00:00.000Z
+          release: '2'
+          terms:
+            - type: expression
+              designation: profil
+              normative_status: preferred
+        parents: []
+        timeCreated: 2004-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 356
+  definition: >-
+    набор из одного или нескольких базовых стандартов или подмножеств базовых
+    стандартов и, при необходимости, идентификация выбранных классов, параметров
+    и параметров этих базовых стандартов, которые необходимы для выполнения
+    конкретной функции
+  language_code: rus
+  notes:
+    - >-
+      Профиль является производным из базового стандарта, так что по
+      определению, соответствие профилю означает соответствие базовому
+      стандарту, от которого он произведен.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO/IEC TR 10000-1:1998'
+    link: 'https://www.iso.org/standard/30726.html'
+  lineage_source: 'ISO 19106:2004'
+  date_accepted: 2004-07-01T00:00:00.000Z
+  release: '2'
+  terms:
+    - type: expression
+      designation: профиль
+      normative_status: preferred
+  _revisions:
+    current: 7bc670
+    tree:
+      7bc670:
+        object:
+          id: 356
+          definition: >-
+            набор из одного или нескольких базовых стандартов или подмножеств
+            базовых стандартов и, при необходимости, идентификация выбранных
+            классов, параметров и параметров этих базовых стандартов, которые
+            необходимы для выполнения конкретной функции
+          language_code: rus
+          notes:
+            - >-
+              Профиль является производным из базового стандарта, так что по
+              определению, соответствие профилю означает соответствие базовому
+              стандарту, от которого он произведен.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO/IEC TR 10000-1:1998'
+            link: 'https://www.iso.org/standard/30726.html'
+          lineage_source: 'ISO 19106:2004'
+          date_accepted: 2004-07-01T00:00:00.000Z
+          release: '2'
+          terms:
+            - type: expression
+              designation: профиль
+              normative_status: preferred
+        parents: []
+        timeCreated: 2004-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 356
+  definition: >-
+    conjunto de una o más normas base, o subconjunto de normas base y, cuando
+    sea aplicable, identificación de apartados, clases, opciones y parámetros
+    seleccionados de esas normas base que son necesarios para cumplir una
+    determinada función
+  language_code: spa
+  notes:
+    - >-
+      Un perfil procede de normas de base, de modo que, por definición, la
+      conformidad con un perfil implica la conformidad con las normas base de
+      las que deriva.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO/IEC TR 10000-1:1998'
+    link: 'https://www.iso.org/standard/30726.html'
+  date_accepted: 2004-07-01T00:00:00.000Z
+  release: '2'
+  terms:
+    - type: expression
+      designation: perfil
+      normative_status: preferred
+  _revisions:
+    current: 0cc5af
+    tree:
+      0cc5af:
+        object:
+          id: 356
+          definition: >-
+            conjunto de una o más normas base, o subconjunto de normas base y,
+            cuando sea aplicable, identificación de apartados, clases, opciones
+            y parámetros seleccionados de esas normas base que son necesarios
+            para cumplir una determinada función
+          language_code: spa
+          notes:
+            - >-
+              Un perfil procede de normas de base, de modo que, por definición,
+              la conformidad con un perfil implica la conformidad con las normas
+              base de las que deriva.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO/IEC TR 10000-1:1998'
+            link: 'https://www.iso.org/standard/30726.html'
+          date_accepted: 2004-07-01T00:00:00.000Z
+          release: '2'
+          terms:
+            - type: expression
+              designation: perfil
+              normative_status: preferred
+        parents: []
+        timeCreated: 2004-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+swe:
+  id: 356
+  definition: data som beskriver viktig egenskap och förutsättningar för en viss funktion
+  country_code: swe
+  language_code: swe
+  notes:
+    - >-
+      A profile is derived from base standards so that by definition,
+      conformance to a profile is conformance to the base standards from which
+      it is derived.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO/IEC TR 10000-1:1998'
+    link: 'https://www.iso.org/standard/30726.html'
+  lineage_source: 'ISO 19106:2004'
+  date_accepted: 2004-07-01T00:00:00.000Z
+  release: '2'
+  terms:
+    - type: expression
+      designation: profil
+      normative_status: preferred
+  _revisions:
+    current: 5d25ed
+    tree:
+      5d25ed:
+        object:
+          id: 356
+          definition: >-
+            data som beskriver viktig egenskap och förutsättningar för en viss
+            funktion
+          country_code: swe
+          language_code: swe
+          notes:
+            - >-
+              A profile is derived from base standards so that by definition,
+              conformance to a profile is conformance to the base standards from
+              which it is derived.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO/IEC TR 10000-1:1998'
+            link: 'https://www.iso.org/standard/30726.html'
+          lineage_source: 'ISO 19106:2004'
+          date_accepted: 2004-07-01T00:00:00.000Z
+          release: '2'
+          terms:
+            - type: expression
+              designation: profil
+              normative_status: preferred
+        parents: []
+        timeCreated: 2004-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

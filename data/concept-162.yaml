@@ -1,0 +1,530 @@
+term: executable test suite
+termid: 162
+eng:
+  id: 162
+  abbrev: ETS
+  definition: set of executable test cases
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19105:2000'
+    link: 'https://www.iso.org/standard/26010.html'
+  date_accepted: 2000-12-15T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: executable test suite
+      normative_status: preferred
+  _revisions:
+    current: '615696'
+    tree:
+      '615696':
+        object:
+          id: 162
+          abbrev: ETS
+          definition: set of executable test cases
+          language_code: eng
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19105:2000'
+            link: 'https://www.iso.org/standard/26010.html'
+          date_accepted: 2000-12-15T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: executable test suite
+              normative_status: preferred
+        parents: []
+        timeCreated: 2000-12-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+ara:
+  id: 162
+  abbrev: م ا ق ل
+  definition: مجموعة حالات اختبار قابلة للتنفيذ
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19105:2000'
+    link: 'https://www.iso.org/standard/26010.html'
+  date_accepted: 2000-12-15T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: مجموعة اختبارات قابلة للتنفيذ
+      normative_status: preferred
+  _revisions:
+    current: abe738
+    tree:
+      abe738:
+        object:
+          id: 162
+          abbrev: م ا ق ل
+          definition: مجموعة حالات اختبار قابلة للتنفيذ
+          language_code: ara
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19105:2000'
+            link: 'https://www.iso.org/standard/26010.html'
+          date_accepted: 2000-12-15T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: مجموعة اختبارات قابلة للتنفيذ
+              normative_status: preferred
+        parents: []
+        timeCreated: 2000-12-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+zho:
+  id: 162
+  abbrev: ETS
+  definition: 可执行测试用例的集合。
+  language_code: zho
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19105:2000'
+    link: 'https://www.iso.org/standard/26010.html'
+  date_accepted: 2000-12-15T00:00:00.000Z
+  terms:
+    - type: expression
+      designation: 可执行测试套件
+      normative_status: preferred
+  _revisions:
+    current: 52b753
+    tree:
+      52b753:
+        object:
+          id: 162
+          abbrev: ETS
+          definition: 可执行测试用例的集合。
+          language_code: zho
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19105:2000'
+            link: 'https://www.iso.org/standard/26010.html'
+          date_accepted: 2000-12-15T00:00:00.000Z
+          terms:
+            - type: expression
+              designation: 可执行测试套件
+              normative_status: preferred
+        parents: []
+        timeCreated: 2000-12-15T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+dan:
+  id: 162
+  abbrev: ETS
+  definition: sæt af eksekverbare testforløb
+  language_code: dan
+  notes: []
+  examples: []
+  authoritative_source:
+    ref: 'ISO 19105:2000'
+    link: 'https://www.iso.org/standard/26010.html'
+  date_accepted: 2000-12-15T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: eksekverbar testsuite
+      normative_status: null
+  _revisions:
+    current: acd7c8
+    tree:
+      acd7c8:
+        object:
+          id: 162
+          abbrev: ETS
+          definition: sæt af eksekverbare testforløb
+          language_code: dan
+          notes: []
+          examples: []
+          authoritative_source:
+            ref: 'ISO 19105:2000'
+            link: 'https://www.iso.org/standard/26010.html'
+          date_accepted: 2000-12-15T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: eksekverbar testsuite
+              normative_status: null
+        parents: []
+        timeCreated: 2000-12-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+fin:
+  id: 162
+  definition: suoritettavissa olevien testitapausten joukko
+  language_code: fin
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19105:2000'
+    link: 'https://www.iso.org/standard/26010.html'
+  lineage_source: 'Ei lähdettä, käännetty'
+  date_accepted: 2000-12-15T00:00:00.000Z
+  terms:
+    - type: expression
+      designation: suoritettavissa oleva testisarja
+      normative_status: preferred
+  _revisions:
+    current: a3399a
+    tree:
+      a3399a:
+        object:
+          id: 162
+          definition: suoritettavissa olevien testitapausten joukko
+          language_code: fin
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19105:2000'
+            link: 'https://www.iso.org/standard/26010.html'
+          lineage_source: 'Ei lähdettä, käännetty'
+          date_accepted: 2000-12-15T00:00:00.000Z
+          terms:
+            - type: expression
+              designation: suoritettavissa oleva testisarja
+              normative_status: preferred
+        parents: []
+        timeCreated: 2000-12-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+fra:
+  id: 162
+  definition: ensemble de cas de test exécutables
+  language_code: fra
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: ISO 19105
+    link: 'https://www.iso.org/standard/26010.html'
+  lineage_source: ''
+  date_accepted: 2000-11-16T00:00:00.000Z
+  terms:
+    - type: expression
+      designation: suite exécutable de tests
+      normative_status: preferred
+  _revisions:
+    current: 23a18c
+    tree:
+      23a18c:
+        object:
+          id: 162
+          definition: ensemble de cas de test exécutables
+          language_code: fra
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: ISO 19105
+            link: 'https://www.iso.org/standard/26010.html'
+          lineage_source: ''
+          date_accepted: 2000-11-16T00:00:00.000Z
+          terms:
+            - type: expression
+              designation: suite exécutable de tests
+              normative_status: preferred
+        parents: []
+        timeCreated: 2000-11-16T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+deu:
+  id: 162
+  abbrev: ETS
+  language_code: deu
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19105:2000'
+    link: 'https://www.iso.org/standard/26010.html'
+  date_accepted: 2000-12-15T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: ausführbare Test-Suite
+      normative_status: preferred
+  _revisions:
+    current: 2a16dc
+    tree:
+      2a16dc:
+        object:
+          id: 162
+          abbrev: ETS
+          language_code: deu
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19105:2000'
+            link: 'https://www.iso.org/standard/26010.html'
+          date_accepted: 2000-12-15T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: ausführbare Test-Suite
+              normative_status: preferred
+        parents: []
+        timeCreated: 2000-12-15T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+jpn:
+  id: 162
+  abbrev: ETS
+  definition: 実行可能試験項目の集合。
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19105:2000'
+    link: 'https://www.iso.org/standard/26010.html'
+  lineage_source: JIS X 7105
+  date_accepted: 2000-12-15T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: 実行可能試験項目群，ETS
+      normative_status: preferred
+  _revisions:
+    current: b10dd4
+    tree:
+      b10dd4:
+        object:
+          id: 162
+          abbrev: ETS
+          definition: 実行可能試験項目の集合。
+          language_code: jpn
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19105:2000'
+            link: 'https://www.iso.org/standard/26010.html'
+          lineage_source: JIS X 7105
+          date_accepted: 2000-12-15T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: 実行可能試験項目群，ETS
+              normative_status: preferred
+        parents: []
+        timeCreated: 2000-12-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+kor:
+  id: 162
+  abbrev: ETS
+  definition: 실행 가능 시험 케이스의 집합
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19105:2000'
+    link: 'https://www.iso.org/standard/26010.html'
+  lineage_source: KS X ISO 19105
+  date_accepted: 2007-06-29T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: 실행 가능 시험 스위트
+      normative_status: preferred
+  _revisions:
+    current: 954dab
+    tree:
+      954dab:
+        object:
+          id: 162
+          abbrev: ETS
+          definition: 실행 가능 시험 케이스의 집합
+          language_code: kor
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19105:2000'
+            link: 'https://www.iso.org/standard/26010.html'
+          lineage_source: KS X ISO 19105
+          date_accepted: 2007-06-29T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: 실행 가능 시험 스위트
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-06-29T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 162
+  definition: набор исполяемых тестов
+  language_code: rus
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19105:2000'
+    link: 'https://www.iso.org/standard/26010.html'
+  lineage_source: Internet
+  date_accepted: 2000-12-15T00:00:00.000Z
+  terms:
+    - type: expression
+      designation: исполняемый тестовый модуль
+      normative_status: preferred
+  _revisions:
+    current: ba37dd
+    tree:
+      ba37dd:
+        object:
+          id: 162
+          definition: набор исполяемых тестов
+          language_code: rus
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19105:2000'
+            link: 'https://www.iso.org/standard/26010.html'
+          lineage_source: Internet
+          date_accepted: 2000-12-15T00:00:00.000Z
+          terms:
+            - type: expression
+              designation: исполняемый тестовый модуль
+              normative_status: preferred
+        parents: []
+        timeCreated: 2000-12-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 162
+  definition: conjunto de pruebas ejecutables
+  language_code: spa
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19105:2000'
+    link: 'https://www.iso.org/standard/26010.html'
+  date_accepted: 2000-12-15T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: conjunto de pruebas ejecutables
+      normative_status: preferred
+  _revisions:
+    current: 84df5f
+    tree:
+      84df5f:
+        object:
+          id: 162
+          definition: conjunto de pruebas ejecutables
+          language_code: spa
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19105:2000'
+            link: 'https://www.iso.org/standard/26010.html'
+          date_accepted: 2000-12-15T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: conjunto de pruebas ejecutables
+              normative_status: preferred
+        parents: []
+        timeCreated: 2000-12-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+swe:
+  id: 162
+  definition: |-
+    samling utförbara testfall som tillsammans
+    kan avgöra om överensstämmelse råder med alla uppställda krav
+  country_code: swe
+  language_code: swe
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19105:2000'
+    link: 'https://www.iso.org/standard/26010.html'
+  lineage_source: (Type reference to national language document)
+  date_accepted: 2000-12-15T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: utförbar testsvit
+      normative_status: preferred
+  _revisions:
+    current: d39c4a
+    tree:
+      d39c4a:
+        object:
+          id: 162
+          definition: |-
+            samling utförbara testfall som tillsammans
+            kan avgöra om överensstämmelse råder med alla uppställda krav
+          country_code: swe
+          language_code: swe
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19105:2000'
+            link: 'https://www.iso.org/standard/26010.html'
+          lineage_source: (Type reference to national language document)
+          date_accepted: 2000-12-15T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: utförbar testsvit
+              normative_status: preferred
+        parents: []
+        timeCreated: 2000-12-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

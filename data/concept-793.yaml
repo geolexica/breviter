@@ -1,0 +1,541 @@
+term: geographic imagery scene
+termid: 793
+eng:
+  id: 793
+  definition: >-
+    geographic imagery whose data consists of measurements or simulated
+    measurements of the natural world produced relative to a specified vantage
+    point and at a specified time
+  language_code: eng
+  notes:
+    - >-
+      A geographic imagery scene is a representation of an environmental
+      landscape; it may correspond to a remotely sensed view of the natural
+      world or to a computer-generated virtual scene simulating such a view
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19101-2:2018'
+    clause: '(E), 3.12'
+    link: 'https://www.iso.org/standard/69325.html'
+  lineage_source: 'ISO/TS 19101-2:2008(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2008-06-01T00:00:00.000Z
+  review_date: 2018-05-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2018-05-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19101-2:2018(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 22028-1 (Derived from) to ISO
+    19101-2:2018(E), 3.12. Lineage source added as ISO/TS 19101-2:2008(E)
+  release: '2'
+  terms:
+    - type: expression
+      designation: geographic imagery scene
+      normative_status: preferred
+  _revisions:
+    current: 5a7b54
+    tree:
+      5a7b54:
+        object:
+          id: 793
+          definition: >-
+            geographic imagery whose data consists of measurements or simulated
+            measurements of the natural world produced relative to a specified
+            vantage point and at a specified time
+          language_code: eng
+          notes:
+            - >-
+              A geographic imagery scene is a representation of an environmental
+              landscape; it may correspond to a remotely sensed view of the
+              natural world or to a computer-generated virtual scene simulating
+              such a view
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19101-2:2018'
+            clause: '(E), 3.12'
+            link: 'https://www.iso.org/standard/69325.html'
+          lineage_source: 'ISO/TS 19101-2:2008(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2008-06-01T00:00:00.000Z
+          review_date: 2018-05-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2018-05-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19101-2:2018(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 22028-1 (Derived from) to
+            ISO 19101-2:2018(E), 3.12. Lineage source added as ISO/TS
+            19101-2:2008(E)
+          release: '2'
+          terms:
+            - type: expression
+              designation: geographic imagery scene
+              normative_status: preferred
+        parents: []
+        timeCreated: 2008-06-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+ara:
+  id: 793
+  definition: >-
+    صور جغرافية تشتمل بياناتها على قياسات أو قيسات تشبيهية للواقع الطبيعي تم
+    إنتاجها نسبة إلى نقطة أفضلية محددة وفي وقت محدد.
+  language_code: ara
+  notes:
+    - >-
+      مشهد الصور الجغرافية هو عبارة عن تمثيل لمنظر طبيعي بيئي: وقد يكون المشهد
+      مطابقا لمشهد من الواقع الطبيعي مصور بالاستشعار عن بعد أو منتجا بواسطة
+      الحاسب الآلي على شكل محاكاة لمشهد من الواقع الطبيعي.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19101-2:2018'
+    clause: '(E), 3.12'
+    link: 'https://www.iso.org/standard/69325.html'
+  lineage_source: 'ISO/TS 19101-2:2008(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2008-06-01T00:00:00.000Z
+  review_date: 2018-05-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2018-05-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19101-2:2018(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 22028-1 (Derived from) to ISO
+    19101-2:2018(E), 3.12. Lineage source added as ISO/TS 19101-2:2008(E)
+  release: '2'
+  terms:
+    - type: expression
+      designation: مشهد صور جغرافية
+      normative_status: preferred
+  _revisions:
+    current: d99841
+    tree:
+      d99841:
+        object:
+          id: 793
+          definition: >-
+            صور جغرافية تشتمل بياناتها على قياسات أو قيسات تشبيهية للواقع
+            الطبيعي تم إنتاجها نسبة إلى نقطة أفضلية محددة وفي وقت محدد.
+          language_code: ara
+          notes:
+            - >-
+              مشهد الصور الجغرافية هو عبارة عن تمثيل لمنظر طبيعي بيئي: وقد يكون
+              المشهد مطابقا لمشهد من الواقع الطبيعي مصور بالاستشعار عن بعد أو
+              منتجا بواسطة الحاسب الآلي على شكل محاكاة لمشهد من الواقع الطبيعي.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19101-2:2018'
+            clause: '(E), 3.12'
+            link: 'https://www.iso.org/standard/69325.html'
+          lineage_source: 'ISO/TS 19101-2:2008(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2008-06-01T00:00:00.000Z
+          review_date: 2018-05-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2018-05-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19101-2:2018(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 22028-1 (Derived from) to
+            ISO 19101-2:2018(E), 3.12. Lineage source added as ISO/TS
+            19101-2:2008(E)
+          release: '2'
+          terms:
+            - type: expression
+              designation: مشهد صور جغرافية
+              normative_status: preferred
+        parents: []
+        timeCreated: 2008-06-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+deu:
+  id: 793
+  language_code: deu
+  notes:
+    - >-
+      A geographic imagery scene is a representation of an environmental
+      landscape; it may correspond to a remotely sensed view of the natural
+      world or to a computer-generated virtual scene simulating such a view
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19101-2:2018'
+    clause: '(E), 3.12'
+    link: 'https://www.iso.org/standard/69325.html'
+  lineage_source: 'ISO/TS 19101-2:2008(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2008-06-01T00:00:00.000Z
+  review_date: 2018-05-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2018-05-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19101-2:2018(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 22028-1 (Derived from) to ISO
+    19101-2:2018(E), 3.12. Lineage source added as ISO/TS 19101-2:2008(E)
+  release: '2'
+  terms:
+    - type: expression
+      designation: geographischer Bildausschnitt
+      normative_status: preferred
+  _revisions:
+    current: f3db5b
+    tree:
+      f3db5b:
+        object:
+          id: 793
+          language_code: deu
+          notes:
+            - >-
+              A geographic imagery scene is a representation of an environmental
+              landscape; it may correspond to a remotely sensed view of the
+              natural world or to a computer-generated virtual scene simulating
+              such a view
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19101-2:2018'
+            clause: '(E), 3.12'
+            link: 'https://www.iso.org/standard/69325.html'
+          lineage_source: 'ISO/TS 19101-2:2008(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2008-06-01T00:00:00.000Z
+          review_date: 2018-05-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2018-05-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19101-2:2018(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 22028-1 (Derived from) to
+            ISO 19101-2:2018(E), 3.12. Lineage source added as ISO/TS
+            19101-2:2008(E)
+          release: '2'
+          terms:
+            - type: expression
+              designation: geographischer Bildausschnitt
+              normative_status: preferred
+        parents: []
+        timeCreated: 2008-06-01T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+kor:
+  id: 793
+  definition: 특정 시간 및 상황에 관계하여 생성된 자연계의 측정 및 가상 측정된 자료로 이루어진 지리적 영상
+  language_code: kor
+  notes:
+    - >-
+      A geographic imagery scene is a representation of an environmental
+      landscape; it may correspond to a remotely sensed view of the natural
+      world or to a computer-generated virtual scene simulating such a view
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19101-2:2018'
+    clause: '(E), 3.12'
+    link: 'https://www.iso.org/standard/69325.html'
+  lineage_source: 'ISO/TS 19101-2:2008(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2008-06-01T00:00:00.000Z
+  review_date: 2018-05-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2018-05-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19101-2:2018(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 22028-1 (Derived from) to ISO
+    19101-2:2018(E), 3.12. Lineage source added as ISO/TS 19101-2:2008(E)
+  release: '2'
+  terms:
+    - type: expression
+      designation: 지리적 영상 장면
+      normative_status: preferred
+  _revisions:
+    current: 8c87c0
+    tree:
+      8c87c0:
+        object:
+          id: 793
+          definition: 특정 시간 및 상황에 관계하여 생성된 자연계의 측정 및 가상 측정된 자료로 이루어진 지리적 영상
+          language_code: kor
+          notes:
+            - >-
+              A geographic imagery scene is a representation of an environmental
+              landscape; it may correspond to a remotely sensed view of the
+              natural world or to a computer-generated virtual scene simulating
+              such a view
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19101-2:2018'
+            clause: '(E), 3.12'
+            link: 'https://www.iso.org/standard/69325.html'
+          lineage_source: 'ISO/TS 19101-2:2008(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2008-06-01T00:00:00.000Z
+          review_date: 2018-05-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2018-05-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19101-2:2018(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 22028-1 (Derived from) to
+            ISO 19101-2:2018(E), 3.12. Lineage source added as ISO/TS
+            19101-2:2008(E)
+          release: '2'
+          terms:
+            - type: expression
+              designation: 지리적 영상 장면
+              normative_status: preferred
+        parents: []
+        timeCreated: 2008-06-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 793
+  definition: >-
+    географические изображения, данные которых состоят из измерений или
+    смоделированных измерений природного мира, произведенных относительно
+    заданной точки обзора и в заданное время
+  language_code: rus
+  notes:
+    - >-
+      Сцена географических изображений есть представление окружающего ландшафта;
+      ее можно соотнести к дистанционно воспринимаемому виду естественного мира
+      или виртуальной, разработанной с помощью ЭВМ сцене, имитирующей такой вид.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19101-2:2018'
+    clause: '(E), 3.12'
+    link: 'https://www.iso.org/standard/69325.html'
+  lineage_source: 'ISO/TS 19101-2:2008(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2008-06-01T00:00:00.000Z
+  review_date: 2018-05-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2018-05-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19101-2:2018(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 22028-1 (Derived from) to ISO
+    19101-2:2018(E), 3.12. Lineage source added as ISO/TS 19101-2:2008(E)
+  release: '2'
+  terms:
+    - type: expression
+      designation: сцена географических изображений
+      normative_status: preferred
+  _revisions:
+    current: 5f2a0b
+    tree:
+      5f2a0b:
+        object:
+          id: 793
+          definition: >-
+            географические изображения, данные которых состоят из измерений или
+            смоделированных измерений природного мира, произведенных
+            относительно заданной точки обзора и в заданное время
+          language_code: rus
+          notes:
+            - >-
+              Сцена географических изображений есть представление окружающего
+              ландшафта; ее можно соотнести к дистанционно воспринимаемому виду
+              естественного мира или виртуальной, разработанной с помощью ЭВМ
+              сцене, имитирующей такой вид.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19101-2:2018'
+            clause: '(E), 3.12'
+            link: 'https://www.iso.org/standard/69325.html'
+          lineage_source: 'ISO/TS 19101-2:2008(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2008-06-01T00:00:00.000Z
+          review_date: 2018-05-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2018-05-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19101-2:2018(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 22028-1 (Derived from) to
+            ISO 19101-2:2018(E), 3.12. Lineage source added as ISO/TS
+            19101-2:2008(E)
+          release: '2'
+          terms:
+            - type: expression
+              designation: сцена географических изображений
+              normative_status: preferred
+        parents: []
+        timeCreated: 2008-06-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 793
+  definition: >-
+    imágenes geográficas cuyos datos consisten en mediciones, reales o 
+    simuladas, del mundo natural producidas en relación a un punto de vista y a
+    un tiempo especifico
+  language_code: spa
+  notes:
+    - >-
+      Una escena de imagen geográfica es una representación de un paisaje
+      medioambiental;  puede corresponder a una vista del mundo natural
+      detectada remotamente o bien a una escena virtual generada por computador
+      que simula dicha vista
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19101-2:2018'
+    clause: '(E), 3.12'
+    link: 'https://www.iso.org/standard/69325.html'
+  lineage_source: 'ISO/TS 19101-2:2008(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2008-06-01T00:00:00.000Z
+  review_date: 2018-05-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2018-05-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19101-2:2018(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 22028-1 (Derived from) to ISO
+    19101-2:2018(E), 3.12. Lineage source added as ISO/TS 19101-2:2008(E)
+  release: '2'
+  terms:
+    - type: expression
+      designation: escena de imágenes geográficas
+      normative_status: preferred
+  _revisions:
+    current: '512782'
+    tree:
+      '512782':
+        object:
+          id: 793
+          definition: >-
+            imágenes geográficas cuyos datos consisten en mediciones, reales o 
+            simuladas, del mundo natural producidas en relación a un punto de
+            vista y a un tiempo especifico
+          language_code: spa
+          notes:
+            - >-
+              Una escena de imagen geográfica es una representación de un
+              paisaje medioambiental;  puede corresponder a una vista del mundo
+              natural detectada remotamente o bien a una escena virtual generada
+              por computador que simula dicha vista
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19101-2:2018'
+            clause: '(E), 3.12'
+            link: 'https://www.iso.org/standard/69325.html'
+          lineage_source: 'ISO/TS 19101-2:2008(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2008-06-01T00:00:00.000Z
+          review_date: 2018-05-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2018-05-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19101-2:2018(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 22028-1 (Derived from) to
+            ISO 19101-2:2018(E), 3.12. Lineage source added as ISO/TS
+            19101-2:2008(E)
+          release: '2'
+          terms:
+            - type: expression
+              designation: escena de imágenes geográficas
+              normative_status: preferred
+        parents: []
+        timeCreated: 2008-06-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+swe:
+  id: 793
+  definition: >-
+    geografisk avbildning vars data består av verkliga eller simulerade
+    mätningar av naturen och som framställts utifrån en bestämd
+    observationspunkt och vid en bestämd tid
+  country_code: swe
+  language_code: swe
+  notes:
+    - >-
+      A geographic imagery scene is a representation of an environmental
+      landscape; it may correspond to a remotely sensed view of the natural
+      world or to a computer-generated virtual scene simulating such a view
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19101-2:2018'
+    clause: '(E), 3.12'
+    link: 'https://www.iso.org/standard/69325.html'
+  lineage_source: 'ISO/TS 19101-2:2008(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2008-06-01T00:00:00.000Z
+  review_date: 2018-05-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2018-05-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19101-2:2018(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 22028-1 (Derived from) to ISO
+    19101-2:2018(E), 3.12. Lineage source added as ISO/TS 19101-2:2008(E)
+  release: '2'
+  terms:
+    - type: expression
+      designation: geografisk avbildningsvy
+      normative_status: preferred
+  _revisions:
+    current: 9756fa
+    tree:
+      9756fa:
+        object:
+          id: 793
+          definition: >-
+            geografisk avbildning vars data består av verkliga eller simulerade
+            mätningar av naturen och som framställts utifrån en bestämd
+            observationspunkt och vid en bestämd tid
+          country_code: swe
+          language_code: swe
+          notes:
+            - >-
+              A geographic imagery scene is a representation of an environmental
+              landscape; it may correspond to a remotely sensed view of the
+              natural world or to a computer-generated virtual scene simulating
+              such a view
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19101-2:2018'
+            clause: '(E), 3.12'
+            link: 'https://www.iso.org/standard/69325.html'
+          lineage_source: 'ISO/TS 19101-2:2008(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2008-06-01T00:00:00.000Z
+          review_date: 2018-05-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2018-05-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19101-2:2018(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 22028-1 (Derived from) to
+            ISO 19101-2:2018(E), 3.12. Lineage source added as ISO/TS
+            19101-2:2008(E)
+          release: '2'
+          terms:
+            - type: expression
+              designation: geografisk avbildningsvy
+              normative_status: preferred
+        parents: []
+        timeCreated: 2008-06-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

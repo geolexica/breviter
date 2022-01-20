@@ -1,0 +1,508 @@
+term: realization
+termid: 839
+eng:
+  id: 839
+  definition: >-
+    semantic relationship between classifiers, wherein one classifier specifies
+    a contract that another classifier guarentees to carry out
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: Booch 1999
+    clause: (Adapted from)
+  lineage_source: 'ISO/TS 19139:2007 ,4.3'
+  lineage_source_similarity: 1
+  date_accepted: 2007-04-15T00:00:00.000Z
+  review_date: 2009-08-31T00:00:00.000Z
+  review_status: pending
+  review_type: supersession
+  release: '1'
+  terms:
+    - type: expression
+      designation: realization
+      normative_status: preferred
+  _revisions:
+    current: 09bed7
+    tree:
+      09bed7:
+        object:
+          id: 839
+          definition: >-
+            semantic relationship between classifiers, wherein one classifier
+            specifies a contract that another classifier guarentees to carry out
+          language_code: eng
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: Booch 1999
+            clause: (Adapted from)
+          lineage_source: 'ISO/TS 19139:2007 ,4.3'
+          lineage_source_similarity: 1
+          date_accepted: 2007-04-15T00:00:00.000Z
+          review_date: 2009-08-31T00:00:00.000Z
+          review_status: pending
+          review_type: supersession
+          release: '1'
+          terms:
+            - type: expression
+              designation: realization
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-04-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+ara:
+  id: 839
+  definition: >-
+    علاقة لغوية بين المصنفات يتم فيها تحديد مواصفات عقد بواسطة أحد المصنفات فيما
+    يضمن مصنف آخر تنفيذ العقد
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: Booch 1999
+    clause: (Adapted from)
+  lineage_source: 'ISO/TS 19139:2007 ,4.3'
+  lineage_source_similarity: 1
+  date_accepted: 2007-04-15T00:00:00.000Z
+  review_date: 2009-08-31T00:00:00.000Z
+  review_status: pending
+  review_type: supersession
+  release: '1'
+  terms:
+    - type: expression
+      designation: تحقق
+      normative_status: preferred
+  _revisions:
+    current: '195421'
+    tree:
+      '195421':
+        object:
+          id: 839
+          definition: >-
+            علاقة لغوية بين المصنفات يتم فيها تحديد مواصفات عقد بواسطة أحد
+            المصنفات فيما يضمن مصنف آخر تنفيذ العقد
+          language_code: ara
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: Booch 1999
+            clause: (Adapted from)
+          lineage_source: 'ISO/TS 19139:2007 ,4.3'
+          lineage_source_similarity: 1
+          date_accepted: 2007-04-15T00:00:00.000Z
+          review_date: 2009-08-31T00:00:00.000Z
+          review_status: pending
+          review_type: supersession
+          release: '1'
+          terms:
+            - type: expression
+              designation: تحقق
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-04-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+zho:
+  id: 839
+  definition: 分类器之间的语义关系，其中一个分类器表明约定，另一个类元保证实施。
+  language_code: zho
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: Booch 1999
+    clause: (Adapted from)
+  lineage_source: 'ISO/TS 19139:2007 ,4.3'
+  lineage_source_similarity: 1
+  date_accepted: 2007-04-15T00:00:00.000Z
+  review_date: 2009-08-31T00:00:00.000Z
+  review_status: pending
+  review_type: supersession
+  release: '1'
+  terms:
+    - type: expression
+      designation: 实现
+      normative_status: preferred
+  _revisions:
+    current: a0d445
+    tree:
+      a0d445:
+        object:
+          id: 839
+          definition: 分类器之间的语义关系，其中一个分类器表明约定，另一个类元保证实施。
+          language_code: zho
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: Booch 1999
+            clause: (Adapted from)
+          lineage_source: 'ISO/TS 19139:2007 ,4.3'
+          lineage_source_similarity: 1
+          date_accepted: 2007-04-15T00:00:00.000Z
+          review_date: 2009-08-31T00:00:00.000Z
+          review_status: pending
+          review_type: supersession
+          release: '1'
+          terms:
+            - type: expression
+              designation: 实现
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-04-15T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+fin:
+  id: 839
+  definition: >-
+    <UML> specialized abstraction relationship (4.30) between two sets of model
+    elements, one representing a specification (the supplier) and the other
+    representing an implementation of the latter (the client)
+  language_code: fin
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: Booch 1999
+    clause: (Adapted from)
+  lineage_source: 'ISO/TS 19139:2007 ,4.3'
+  lineage_source_similarity: 1
+  date_accepted: 2007-04-15T00:00:00.000Z
+  review_date: 2009-08-31T00:00:00.000Z
+  review_status: pending
+  review_type: supersession
+  release: '1'
+  terms:
+    - type: expression
+      designation: toteutus
+      normative_status: preferred
+    - designation: realisaatio
+      type: expression
+  _revisions:
+    current: d98caa
+    tree:
+      d98caa:
+        object:
+          id: 839
+          definition: >-
+            <UML> specialized abstraction relationship (4.30) between two sets
+            of model elements, one representing a specification (the supplier)
+            and the other representing an implementation of the latter (the
+            client)
+          language_code: fin
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: Booch 1999
+            clause: (Adapted from)
+          lineage_source: 'ISO/TS 19139:2007 ,4.3'
+          lineage_source_similarity: 1
+          date_accepted: 2007-04-15T00:00:00.000Z
+          review_date: 2009-08-31T00:00:00.000Z
+          review_status: pending
+          review_type: supersession
+          release: '1'
+          terms:
+            - type: expression
+              designation: toteutus
+              normative_status: preferred
+            - designation: realisaatio
+              type: expression
+        parents: []
+        timeCreated: 2007-04-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+fra:
+  id: 839
+  definition: >-
+    relation sémantique entre classificateurs, où un classificateur spécifie un
+    contrat qu'un autre classificateur garantit d'exécuter
+  language_code: fra
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: Booch 1999
+    clause: (Adapted from)
+  lineage_source: 'ISO/TS 19139:2007 ,4.3'
+  lineage_source_similarity: 1
+  date_accepted: 2007-04-15T00:00:00.000Z
+  review_date: 2009-08-31T00:00:00.000Z
+  review_status: pending
+  review_type: supersession
+  release: '1'
+  terms:
+    - type: expression
+      designation: réalisation
+      normative_status: preferred
+  _revisions:
+    current: 9c8133
+    tree:
+      9c8133:
+        object:
+          id: 839
+          definition: >-
+            relation sémantique entre classificateurs, où un classificateur
+            spécifie un contrat qu'un autre classificateur garantit d'exécuter
+          language_code: fra
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: Booch 1999
+            clause: (Adapted from)
+          lineage_source: 'ISO/TS 19139:2007 ,4.3'
+          lineage_source_similarity: 1
+          date_accepted: 2007-04-15T00:00:00.000Z
+          review_date: 2009-08-31T00:00:00.000Z
+          review_status: pending
+          review_type: supersession
+          release: '1'
+          terms:
+            - type: expression
+              designation: réalisation
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-04-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+deu:
+  id: 839
+  language_code: deu
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: Booch 1999
+    clause: (Adapted from)
+  lineage_source: 'ISO/TS 19139:2007 ,4.3'
+  lineage_source_similarity: 1
+  date_accepted: 2007-04-15T00:00:00.000Z
+  review_date: 2009-08-31T00:00:00.000Z
+  review_status: pending
+  review_type: supersession
+  release: '1'
+  terms:
+    - type: expression
+      designation: Realisierung
+      normative_status: preferred
+  _revisions:
+    current: c82382
+    tree:
+      c82382:
+        object:
+          id: 839
+          language_code: deu
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: Booch 1999
+            clause: (Adapted from)
+          lineage_source: 'ISO/TS 19139:2007 ,4.3'
+          lineage_source_similarity: 1
+          date_accepted: 2007-04-15T00:00:00.000Z
+          review_date: 2009-08-31T00:00:00.000Z
+          review_status: pending
+          review_type: supersession
+          release: '1'
+          terms:
+            - type: expression
+              designation: Realisierung
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-04-15T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+kor:
+  id: 839
+  definition: 분류자 간에 한 분류자가 다른 분류자의 실행을 보증하는 계약을 명시하는 분류자 간의 의미론적 관계
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: Booch 1999
+    clause: (Adapted from)
+  lineage_source: 'ISO/TS 19139:2007 ,4.3'
+  lineage_source_similarity: 1
+  date_accepted: 2008-12-19T00:00:00.000Z
+  review_date: 2009-08-31T00:00:00.000Z
+  review_status: pending
+  review_type: supersession
+  release: '1'
+  terms:
+    - type: expression
+      designation: 실현
+      normative_status: preferred
+  _revisions:
+    current: 14adad
+    tree:
+      14adad:
+        object:
+          id: 839
+          definition: 분류자 간에 한 분류자가 다른 분류자의 실행을 보증하는 계약을 명시하는 분류자 간의 의미론적 관계
+          language_code: kor
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: Booch 1999
+            clause: (Adapted from)
+          lineage_source: 'ISO/TS 19139:2007 ,4.3'
+          lineage_source_similarity: 1
+          date_accepted: 2008-12-19T00:00:00.000Z
+          review_date: 2009-08-31T00:00:00.000Z
+          review_status: pending
+          review_type: supersession
+          release: '1'
+          terms:
+            - type: expression
+              designation: 실현
+              normative_status: preferred
+        parents: []
+        timeCreated: 2008-12-19T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 839
+  definition: >-
+    семантическая связь между классификаторами, один из которых формулирует
+    условия контракта, а другой обязуется его выполнять
+  language_code: rus
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: Booch 1999
+    clause: (Adapted from)
+  lineage_source: 'ISO/TS 19139:2007 ,4.3'
+  lineage_source_similarity: 1
+  date_accepted: 2007-04-15T00:00:00.000Z
+  review_date: 2009-08-31T00:00:00.000Z
+  review_status: ''
+  review_type: ''
+  release: '1'
+  terms:
+    - type: expression
+      designation: отношение реализации
+      normative_status: preferred
+  _revisions:
+    current: 3f70ab
+    tree:
+      3f70ab:
+        object:
+          id: 839
+          definition: >-
+            семантическая связь между классификаторами, один из которых
+            формулирует условия контракта, а другой обязуется его выполнять
+          language_code: rus
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: Booch 1999
+            clause: (Adapted from)
+          lineage_source: 'ISO/TS 19139:2007 ,4.3'
+          lineage_source_similarity: 1
+          date_accepted: 2007-04-15T00:00:00.000Z
+          review_date: 2009-08-31T00:00:00.000Z
+          review_status: ''
+          review_type: ''
+          release: '1'
+          terms:
+            - type: expression
+              designation: отношение реализации
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-04-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 839
+  definition: >-
+    relación semántica entre clasificadores en la que un clasificador especifica
+    un contrato que otro clasificador garantiza llevar a cabo
+  language_code: spa
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: Booch 1999
+    clause: (Adapted from)
+  lineage_source: 'ISO/TS 19139:2007 ,4.3'
+  lineage_source_similarity: 1
+  date_accepted: 2007-04-15T00:00:00.000Z
+  review_date: 2009-08-31T00:00:00.000Z
+  review_status: pending
+  review_type: supersession
+  release: '1'
+  terms:
+    - type: expression
+      designation: realización
+      normative_status: preferred
+  _revisions:
+    current: '956024'
+    tree:
+      '956024':
+        object:
+          id: 839
+          definition: >-
+            relación semántica entre clasificadores en la que un clasificador
+            especifica un contrato que otro clasificador garantiza llevar a cabo
+          language_code: spa
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: Booch 1999
+            clause: (Adapted from)
+          lineage_source: 'ISO/TS 19139:2007 ,4.3'
+          lineage_source_similarity: 1
+          date_accepted: 2007-04-15T00:00:00.000Z
+          review_date: 2009-08-31T00:00:00.000Z
+          review_status: pending
+          review_type: supersession
+          release: '1'
+          terms:
+            - type: expression
+              designation: realización
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-04-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

@@ -1,0 +1,239 @@
+term: scan
+termid: 1414
+eng:
+  id: 1414
+  definition: >-
+    set of sequential frames collected during a single full cycle of a
+    mechanical scanner representing a cross-track excursion from one side of the
+    field of regard to the other and back again.
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO/TS 19130-2:2014'
+    clause: '4.63'
+    link: 'https://www.iso.org/standard/56113.html'
+  date_accepted: 2014-01-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: scan
+      normative_status: preferred
+  _revisions:
+    current: 16d997
+    tree:
+      16d997:
+        object:
+          id: 1414
+          definition: >-
+            set of sequential frames collected during a single full cycle of a
+            mechanical scanner representing a cross-track excursion from one
+            side of the field of regard to the other and back again.
+          language_code: eng
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO/TS 19130-2:2014'
+            clause: '4.63'
+            link: 'https://www.iso.org/standard/56113.html'
+          date_accepted: 2014-01-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: scan
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-01-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+kor:
+  id: 1414
+  definition: 한 관련 필드에서 다른 필드로의 크로스트랙 일주 및 반환을 대표하는 기계적 스캐너의 단일 전 주기 동안 수집된 연속적 프레임 집합
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO/TS 19130-2:2014'
+    clause: '4.63'
+    link: 'https://www.iso.org/standard/56113.html'
+  date_accepted: 2014-01-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: 스캔
+      normative_status: preferred
+  _revisions:
+    current: cf1dea
+    tree:
+      cf1dea:
+        object:
+          id: 1414
+          definition: >-
+            한 관련 필드에서 다른 필드로의 크로스트랙 일주 및 반환을 대표하는 기계적 스캐너의 단일 전 주기 동안 수집된 연속적
+            프레임 집합
+          language_code: kor
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO/TS 19130-2:2014'
+            clause: '4.63'
+            link: 'https://www.iso.org/standard/56113.html'
+          date_accepted: 2014-01-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: 스캔
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-01-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+msa:
+  id: 1414
+  language_code: msa
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO/TS 19130-2:2014'
+    clause: '4.63'
+    link: 'https://www.iso.org/standard/56113.html'
+  lineage_source: Pusat Rujukan Persuratan Melayu (DBP)
+  date_accepted: 2014-01-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: imbas
+      normative_status: preferred
+  _revisions:
+    current: c83371
+    tree:
+      c83371:
+        object:
+          id: 1414
+          language_code: msa
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO/TS 19130-2:2014'
+            clause: '4.63'
+            link: 'https://www.iso.org/standard/56113.html'
+          lineage_source: Pusat Rujukan Persuratan Melayu (DBP)
+          date_accepted: 2014-01-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: imbas
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-01-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 1414
+  definition: >-
+    набор последовательных кадров, собранных в течение одного полного цикла
+    сканера, представляющего собой перпендикулярное прохождение с одной стороны
+    изучаемого поля к другой и обратно.
+  language_code: rus
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO/TS 19130-2:2014'
+    clause: '4.63'
+    link: 'https://www.iso.org/standard/56113.html'
+  lineage_source: 'ISO/TS 19130-2:2014'
+  date_accepted: 2014-01-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: сканирование
+      normative_status: preferred
+  _revisions:
+    current: 91c930
+    tree:
+      91c930:
+        object:
+          id: 1414
+          definition: >-
+            набор последовательных кадров, собранных в течение одного полного
+            цикла сканера, представляющего собой перпендикулярное прохождение с
+            одной стороны изучаемого поля к другой и обратно.
+          language_code: rus
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO/TS 19130-2:2014'
+            clause: '4.63'
+            link: 'https://www.iso.org/standard/56113.html'
+          lineage_source: 'ISO/TS 19130-2:2014'
+          date_accepted: 2014-01-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: сканирование
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-01-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 1414
+  definition: >-
+    conjunto de frames secuenciales recogidos durante un único ciclo completo de
+    un escáner mecánico que representa la trayectoria cruzada de un lado del
+    campo al otro y vuelta otra vez.
+  language_code: spa
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO/TS 19130-2:2014'
+    clause: '4.63'
+    link: 'https://www.iso.org/standard/56113.html'
+  date_accepted: 2014-01-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: barrido+B260
+      normative_status: preferred
+  _revisions:
+    current: 7ae769
+    tree:
+      7ae769:
+        object:
+          id: 1414
+          definition: >-
+            conjunto de frames secuenciales recogidos durante un único ciclo
+            completo de un escáner mecánico que representa la trayectoria
+            cruzada de un lado del campo al otro y vuelta otra vez.
+          language_code: spa
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO/TS 19130-2:2014'
+            clause: '4.63'
+            link: 'https://www.iso.org/standard/56113.html'
+          date_accepted: 2014-01-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: barrido+B260
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-01-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

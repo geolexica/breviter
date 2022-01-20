@@ -1,0 +1,349 @@
+term: base representation <moving features>
+termid: 717
+eng:
+  id: 717
+  definition: >-
+    representation, using a local origin and local ordinate vectors, of a
+    geometric object at a given reference time
+  language_code: eng
+  notes:
+    - >-
+      A rigid geometric object may undergo translation or rotation, but remains
+      congruent with its base representation.
+    - >-
+      The local origin and ordinate vectors establish an engineering coordinate
+      reference system (ISO 19111), also called a local frame or a local
+      Euclidean coordinate system.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19141:2008'
+    link: 'https://www.iso.org/standard/41445.html'
+  date_accepted: 2008-06-01T00:00:00.000Z
+  release: '2'
+  terms:
+    - type: expression
+      designation: base representation <moving features>
+      normative_status: preferred
+  _revisions:
+    current: 3381f1
+    tree:
+      3381f1:
+        object:
+          id: 717
+          definition: >-
+            representation, using a local origin and local ordinate vectors, of
+            a geometric object at a given reference time
+          language_code: eng
+          notes:
+            - >-
+              A rigid geometric object may undergo translation or rotation, but
+              remains congruent with its base representation.
+            - >-
+              The local origin and ordinate vectors establish an engineering
+              coordinate reference system (ISO 19111), also called a local frame
+              or a local Euclidean coordinate system.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19141:2008'
+            link: 'https://www.iso.org/standard/41445.html'
+          date_accepted: 2008-06-01T00:00:00.000Z
+          release: '2'
+          terms:
+            - type: expression
+              designation: base representation <moving features>
+              normative_status: preferred
+        parents: []
+        timeCreated: 2008-06-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+ara:
+  id: 717
+  definition: >-
+    تمثيل ، باستخدام نقطة اصل محلية واحداثيات محلية، لكائن هندسي في وقت مرجعي
+    معطى.
+  language_code: ara
+  notes:
+    - >-
+      قد يتعرض الجسم الهندسي الثابت للتحول أو الدوران لكنه يظل مطابقا لتمثيله
+      الأساسي.
+    - >-
+      يتأسس على متجهات المنشأ المحلي ومتجهات الإحداثي الرأسي المحلي نظام
+      إحداثيات مرجعي هندسي (مقياس آيزو 19111) يسمى نظام إحداثيات إطار محلي أو
+      نظام إحداثيات إقليدسي محلي.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19141:2008'
+    link: 'https://www.iso.org/standard/41445.html'
+  date_accepted: 2008-06-01T00:00:00.000Z
+  release: '2'
+  terms:
+    - type: expression
+      designation: تمثيل أساسي < معالم متحركة>
+      normative_status: preferred
+  _revisions:
+    current: aa0bc6
+    tree:
+      aa0bc6:
+        object:
+          id: 717
+          definition: >-
+            تمثيل ، باستخدام نقطة اصل محلية واحداثيات محلية، لكائن هندسي في وقت
+            مرجعي معطى.
+          language_code: ara
+          notes:
+            - >-
+              قد يتعرض الجسم الهندسي الثابت للتحول أو الدوران لكنه يظل مطابقا
+              لتمثيله الأساسي.
+            - >-
+              يتأسس على متجهات المنشأ المحلي ومتجهات الإحداثي الرأسي المحلي نظام
+              إحداثيات مرجعي هندسي (مقياس آيزو 19111) يسمى نظام إحداثيات إطار
+              محلي أو نظام إحداثيات إقليدسي محلي.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19141:2008'
+            link: 'https://www.iso.org/standard/41445.html'
+          date_accepted: 2008-06-01T00:00:00.000Z
+          release: '2'
+          terms:
+            - type: expression
+              designation: تمثيل أساسي < معالم متحركة>
+              normative_status: preferred
+        parents: []
+        timeCreated: 2008-06-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+deu:
+  id: 717
+  language_code: deu
+  notes:
+    - >-
+      A rigid geometric object may undergo translation or rotation, but remains
+      congruent with its base representation.
+    - >-
+      The local origin and ordinate vectors establish an engineering coordinate
+      reference system (ISO 19111), also called a local frame or a local
+      Euclidean coordinate system.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19141:2008'
+    link: 'https://www.iso.org/standard/41445.html'
+  date_accepted: 2008-06-01T00:00:00.000Z
+  release: '2'
+  terms:
+    - type: expression
+      designation: Basisdarstellung <moving  features>
+      normative_status: preferred
+  _revisions:
+    current: 482f8a
+    tree:
+      482f8a:
+        object:
+          id: 717
+          language_code: deu
+          notes:
+            - >-
+              A rigid geometric object may undergo translation or rotation, but
+              remains congruent with its base representation.
+            - >-
+              The local origin and ordinate vectors establish an engineering
+              coordinate reference system (ISO 19111), also called a local frame
+              or a local Euclidean coordinate system.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19141:2008'
+            link: 'https://www.iso.org/standard/41445.html'
+          date_accepted: 2008-06-01T00:00:00.000Z
+          release: '2'
+          terms:
+            - type: expression
+              designation: Basisdarstellung <moving  features>
+              normative_status: preferred
+        parents: []
+        timeCreated: 2008-06-01T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+kor:
+  id: 717
+  definition: 특정 기준시간에 기하 객체의 지역 원점과 지역 종좌표 벡터를 이용한 표현
+  language_code: kor
+  notes:
+    - >-
+      A rigid geometric object may undergo translation or rotation, but remains
+      congruent with its base representation.
+    - >-
+      The local origin and ordinate vectors establish an engineering coordinate
+      reference system (ISO 19111), also called a local frame or a local
+      Euclidean coordinate system.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19141:2008'
+    link: 'https://www.iso.org/standard/41445.html'
+  date_accepted: 2008-06-01T00:00:00.000Z
+  release: '2'
+  terms:
+    - type: expression
+      designation: 기저 표현 <이동 특성>
+      normative_status: preferred
+  _revisions:
+    current: ac359a
+    tree:
+      ac359a:
+        object:
+          id: 717
+          definition: 특정 기준시간에 기하 객체의 지역 원점과 지역 종좌표 벡터를 이용한 표현
+          language_code: kor
+          notes:
+            - >-
+              A rigid geometric object may undergo translation or rotation, but
+              remains congruent with its base representation.
+            - >-
+              The local origin and ordinate vectors establish an engineering
+              coordinate reference system (ISO 19111), also called a local frame
+              or a local Euclidean coordinate system.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19141:2008'
+            link: 'https://www.iso.org/standard/41445.html'
+          date_accepted: 2008-06-01T00:00:00.000Z
+          release: '2'
+          terms:
+            - type: expression
+              designation: 기저 표현 <이동 특성>
+              normative_status: preferred
+        parents: []
+        timeCreated: 2008-06-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 717
+  definition: >-
+    представление геометрического объекта, использующее локальное начало
+    координат и локальные векторы ординат,  при заданном времени отсчёта
+  language_code: rus
+  notes:
+    - >-
+      Жесткий геометрический объект может подвергаться трансляции или ротации,
+      но остается соответствующим своему базовому представлению
+    - >-
+      локальное начало отсчета и векторы локального  ординат устанавливают
+      инженерную систему координат (ISO 19111), также называемую локальным
+      фреймом или локальной Евклидовой системой координат.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19141:2008'
+    link: 'https://www.iso.org/standard/41445.html'
+  lineage_source: 'перевод ИСО 19141:2008'
+  date_accepted: 2008-06-01T00:00:00.000Z
+  release: '2'
+  terms:
+    - type: expression
+      designation: базовое представление <движущиеся объекты>
+      normative_status: preferred
+  _revisions:
+    current: e553e7
+    tree:
+      e553e7:
+        object:
+          id: 717
+          definition: >-
+            представление геометрического объекта, использующее локальное начало
+            координат и локальные векторы ординат,  при заданном времени отсчёта
+          language_code: rus
+          notes:
+            - >-
+              Жесткий геометрический объект может подвергаться трансляции или
+              ротации, но остается соответствующим своему базовому представлению
+            - >-
+              локальное начало отсчета и векторы локального  ординат
+              устанавливают инженерную систему координат (ISO 19111), также
+              называемую локальным фреймом или локальной Евклидовой системой
+              координат.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19141:2008'
+            link: 'https://www.iso.org/standard/41445.html'
+          lineage_source: 'перевод ИСО 19141:2008'
+          date_accepted: 2008-06-01T00:00:00.000Z
+          release: '2'
+          terms:
+            - type: expression
+              designation: базовое представление <движущиеся объекты>
+              normative_status: preferred
+        parents: []
+        timeCreated: 2008-06-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 717
+  definition: >-
+    representación de un objeto geométrico en un tiempo de referencia dado,
+    usando un origen local y vectores ordinales locales
+  language_code: spa
+  notes:
+    - >-
+      Un objeto geométrico rígido puede sufrir traslaciones o rotaciones pero
+      continua siendo congruente con su representación base.
+    - >-
+      El origen local y los vectores ordinales establecen un sistema de
+      referencia de coordenadas de ingeniería (Norma ISO 19111), también llamado
+      marco local o sistema de coordenadas euclidiano local.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19141:2008'
+    link: 'https://www.iso.org/standard/41445.html'
+  date_accepted: 2008-06-01T00:00:00.000Z
+  release: '2'
+  terms:
+    - type: expression
+      designation: representación base <objetos geográficos móviles>
+      normative_status: preferred
+  _revisions:
+    current: 05ebfc
+    tree:
+      05ebfc:
+        object:
+          id: 717
+          definition: >-
+            representación de un objeto geométrico en un tiempo de referencia
+            dado, usando un origen local y vectores ordinales locales
+          language_code: spa
+          notes:
+            - >-
+              Un objeto geométrico rígido puede sufrir traslaciones o rotaciones
+              pero continua siendo congruente con su representación base.
+            - >-
+              El origen local y los vectores ordinales establecen un sistema de
+              referencia de coordenadas de ingeniería (Norma ISO 19111), también
+              llamado marco local o sistema de coordenadas euclidiano local.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19141:2008'
+            link: 'https://www.iso.org/standard/41445.html'
+          date_accepted: 2008-06-01T00:00:00.000Z
+          release: '2'
+          terms:
+            - type: expression
+              designation: representación base <objetos geográficos móviles>
+              normative_status: preferred
+        parents: []
+        timeCreated: 2008-06-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

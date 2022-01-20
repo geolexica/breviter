@@ -1,0 +1,345 @@
+term: conformance quality level
+termid: 1366
+eng:
+  id: 1366
+  definition: >-
+    threshold value or set of threshold values for data quality results used to
+    determine how well a dataset meets the criteria set forth in its data
+    product specification or user requirements
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19157:2013'
+    clause: '4.4'
+    link: 'https://www.iso.org/standard/32575.html'
+  date_accepted: 2013-12-15T00:00:00.000Z
+  review_date: 2009-11-25T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2012-12-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19157:2013'
+  review_decision_notes: >-
+    This entry supersedes the entry for "conformance quality level" in ISO
+    19114:2003
+  release: '3'
+  terms:
+    - type: expression
+      designation: conformance quality level
+      normative_status: preferred
+  _revisions:
+    current: 7f9380
+    tree:
+      7f9380:
+        object:
+          id: 1366
+          definition: >-
+            threshold value or set of threshold values for data quality results
+            used to determine how well a dataset meets the criteria set forth in
+            its data product specification or user requirements
+          language_code: eng
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19157:2013'
+            clause: '4.4'
+            link: 'https://www.iso.org/standard/32575.html'
+          date_accepted: 2013-12-15T00:00:00.000Z
+          review_date: 2009-11-25T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2012-12-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19157:2013'
+          review_decision_notes: >-
+            This entry supersedes the entry for "conformance quality level" in
+            ISO 19114:2003
+          release: '3'
+          terms:
+            - type: expression
+              designation: conformance quality level
+              normative_status: preferred
+        parents: []
+        timeCreated: 2013-12-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+kor:
+  id: 1366
+  definition: >-
+    자료 제품 명세 또는 사용자 필요조건에 세워진 기준에 데이터셋이 얼마나 적합한지를 결정하기 위해 사용된 자료 품질 결과에 대한 역치값
+    또는 역치값 집합
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19157:2013'
+    clause: '4.4'
+    link: 'https://www.iso.org/standard/32575.html'
+  date_accepted: 2013-12-15T00:00:00.000Z
+  review_date: 2009-11-25T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2012-12-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19157:2013'
+  review_decision_notes: >-
+    This entry supersedes the entry for "conformance quality level" in ISO
+    19114:2003
+  release: '3'
+  terms:
+    - type: expression
+      designation: 적합성 품질 수준
+      normative_status: preferred
+  _revisions:
+    current: ce4a79
+    tree:
+      ce4a79:
+        object:
+          id: 1366
+          definition: >-
+            자료 제품 명세 또는 사용자 필요조건에 세워진 기준에 데이터셋이 얼마나 적합한지를 결정하기 위해 사용된 자료 품질 결과에
+            대한 역치값 또는 역치값 집합
+          language_code: kor
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19157:2013'
+            clause: '4.4'
+            link: 'https://www.iso.org/standard/32575.html'
+          date_accepted: 2013-12-15T00:00:00.000Z
+          review_date: 2009-11-25T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2012-12-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19157:2013'
+          review_decision_notes: >-
+            This entry supersedes the entry for "conformance quality level" in
+            ISO 19114:2003
+          release: '3'
+          terms:
+            - type: expression
+              designation: 적합성 품질 수준
+              normative_status: preferred
+        parents: []
+        timeCreated: 2013-12-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 1366
+  definition: >-
+    пороговое значение или набор пороговых значений для результатов качества
+    данных, используемых для определения соответствия набора данных критериям,
+    изложенным в его спецификации продукта данных или требованиях пользователя
+  language_code: rus
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19157:2013'
+    clause: '4.4'
+    link: 'https://www.iso.org/standard/32575.html'
+  lineage_source: 'ГОСТ Р 57773-2017 (ИСО 19157:2013)'
+  date_accepted: 2013-12-15T00:00:00.000Z
+  review_date: 2009-11-25T00:00:00.000Z
+  review_status: ''
+  review_type: ''
+  review_decision: ''
+  review_decision_date: 2012-12-15T00:00:00.000Z
+  review_decision_event: 'Публикация ИСО 19157:2013'
+  review_decision_notes: >-
+    Эта запись заменяет запись" уровень качества соответствия " в ISO 19114:
+    2003
+  release: '3'
+  terms:
+    - type: expression
+      designation: уровень соответствия качества
+      normative_status: preferred
+  _revisions:
+    current: ee8aa5
+    tree:
+      ee8aa5:
+        object:
+          id: 1366
+          definition: >-
+            пороговое значение или набор пороговых значений для результатов
+            качества данных, используемых для определения соответствия набора
+            данных критериям, изложенным в его спецификации продукта данных или
+            требованиях пользователя
+          language_code: rus
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19157:2013'
+            clause: '4.4'
+            link: 'https://www.iso.org/standard/32575.html'
+          lineage_source: 'ГОСТ Р 57773-2017 (ИСО 19157:2013)'
+          date_accepted: 2013-12-15T00:00:00.000Z
+          review_date: 2009-11-25T00:00:00.000Z
+          review_status: ''
+          review_type: ''
+          review_decision: ''
+          review_decision_date: 2012-12-15T00:00:00.000Z
+          review_decision_event: 'Публикация ИСО 19157:2013'
+          review_decision_notes: >-
+            Эта запись заменяет запись" уровень качества соответствия " в ISO
+            19114: 2003
+          release: '3'
+          terms:
+            - type: expression
+              designation: уровень соответствия качества
+              normative_status: preferred
+        parents: []
+        timeCreated: 2013-12-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 1366
+  definition: >-
+    valor umbral, o conjunto de valores umbral, para los resultados de la
+    calidad de datos, empleado para determinar en qué grado un conjunto de datos
+    se adecua a los criterios expuestos en sus especificaciones de producto de
+    datos o en los requerimientos de usuario.
+  language_code: spa
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19157:2013'
+    clause: '4.4'
+    link: 'https://www.iso.org/standard/32575.html'
+  date_accepted: 2013-12-15T00:00:00.000Z
+  review_date: 2009-11-25T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: ''
+  review_decision_date: 2012-12-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19157:2013'
+  review_decision_notes: >-
+    This entry supersedes the entry for "conformance quality level" in ISO
+    19114:2003
+  release: '3'
+  terms:
+    - type: expression
+      designation: nivel de calidad de conformidad
+      normative_status: preferred
+  _revisions:
+    current: 6456d8
+    tree:
+      6456d8:
+        object:
+          id: 1366
+          definition: >-
+            valor umbral, o conjunto de valores umbral, para los resultados de
+            la calidad de datos, empleado para determinar en qué grado un
+            conjunto de datos se adecua a los criterios expuestos en sus
+            especificaciones de producto de datos o en los requerimientos de
+            usuario.
+          language_code: spa
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19157:2013'
+            clause: '4.4'
+            link: 'https://www.iso.org/standard/32575.html'
+          date_accepted: 2013-12-15T00:00:00.000Z
+          review_date: 2009-11-25T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: ''
+          review_decision_date: 2012-12-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19157:2013'
+          review_decision_notes: >-
+            This entry supersedes the entry for "conformance quality level" in
+            ISO 19114:2003
+          release: '3'
+          terms:
+            - type: expression
+              designation: nivel de calidad de conformidad
+              normative_status: preferred
+        parents: []
+        timeCreated: 2013-12-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+swe:
+  id: 1366
+  definition: >-
+    ett eller flera tröskelvärden för datas kvalitet vilka används för att
+    bedöma hur väl en datamängd uppfyller användarkraven eller kraven i
+    dataproduktspecifikationen
+  country_code: swe
+  language_code: swe
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19157:2013'
+    clause: '4.4'
+    link: 'https://www.iso.org/standard/32575.html'
+  lineage_source: (Type reference to national language document)
+  date_accepted: 2013-12-15T00:00:00.000Z
+  review_date: 2009-11-25T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2012-12-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19157:2013'
+  review_decision_notes: >-
+    This entry supersedes the entry for "conformance quality level" in ISO
+    19114:2003
+  release: '3'
+  terms:
+    - type: expression
+      designation: målvärde för datakvalitet
+      normative_status: preferred
+  _revisions:
+    current: 423fa2
+    tree:
+      423fa2:
+        object:
+          id: 1366
+          definition: >-
+            ett eller flera tröskelvärden för datas kvalitet vilka används för
+            att bedöma hur väl en datamängd uppfyller användarkraven eller
+            kraven i dataproduktspecifikationen
+          country_code: swe
+          language_code: swe
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19157:2013'
+            clause: '4.4'
+            link: 'https://www.iso.org/standard/32575.html'
+          lineage_source: (Type reference to national language document)
+          date_accepted: 2013-12-15T00:00:00.000Z
+          review_date: 2009-11-25T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2012-12-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19157:2013'
+          review_decision_notes: >-
+            This entry supersedes the entry for "conformance quality level" in
+            ISO 19114:2003
+          release: '3'
+          terms:
+            - type: expression
+              designation: målvärde för datakvalitet
+              normative_status: preferred
+        parents: []
+        timeCreated: 2013-12-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

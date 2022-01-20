@@ -1,0 +1,116 @@
+term: property restriction <OWL>
+termid: 1591
+eng:
+  id: 1591
+  definition: >-
+    special kind of class description through the definition of constraints on
+    values and cardinalities
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: OWL
+  lineage_source: 'ISO 19150-2:2015, 4.1.32'
+  date_accepted: 2015-07-01T00:00:00.000Z
+  review_date: 2012-05-25T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2015-07-01T00:00:00.000Z
+  review_decision_event: Normal ISO processing
+  review_decision_notes: 'Publication of document ISO 19150-2:2015(E)'
+  release: '4'
+  terms:
+    - type: expression
+      designation: property restriction <OWL>
+      normative_status: preferred
+  _revisions:
+    current: b14fb9
+    tree:
+      b14fb9:
+        object:
+          id: 1591
+          definition: >-
+            special kind of class description through the definition of
+            constraints on values and cardinalities
+          language_code: eng
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: OWL
+          lineage_source: 'ISO 19150-2:2015, 4.1.32'
+          date_accepted: 2015-07-01T00:00:00.000Z
+          review_date: 2012-05-25T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2015-07-01T00:00:00.000Z
+          review_decision_event: Normal ISO processing
+          review_decision_notes: 'Publication of document ISO 19150-2:2015(E)'
+          release: '4'
+          terms:
+            - type: expression
+              designation: property restriction <OWL>
+              normative_status: preferred
+        parents: []
+        timeCreated: 2015-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 1591
+  definition: >-
+    tipo especial de descripción de clase a través de la definición de
+    restricciones de valores y cardinalidades
+  language_code: spa
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: OWL
+  lineage_source: 'ISO 19150-2:2015, 4.1.32'
+  date_accepted: 2015-07-01T00:00:00.000Z
+  review_date: 2012-05-25T00:00:00.000Z
+  review_status: final
+  review_decision: ''
+  review_decision_date: 2015-07-01T00:00:00.000Z
+  review_decision_event: Normal ISO processing
+  review_decision_notes: 'Publication of document ISO 19150-2:2015(E)'
+  release: '4'
+  terms:
+    - type: expression
+      designation: propiedad restricción <OWL>
+      normative_status: preferred
+  _revisions:
+    current: a98ce8
+    tree:
+      a98ce8:
+        object:
+          id: 1591
+          definition: >-
+            tipo especial de descripción de clase a través de la definición de
+            restricciones de valores y cardinalidades
+          language_code: spa
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: OWL
+          lineage_source: 'ISO 19150-2:2015, 4.1.32'
+          date_accepted: 2015-07-01T00:00:00.000Z
+          review_date: 2012-05-25T00:00:00.000Z
+          review_status: final
+          review_decision: ''
+          review_decision_date: 2015-07-01T00:00:00.000Z
+          review_decision_event: Normal ISO processing
+          review_decision_notes: 'Publication of document ISO 19150-2:2015(E)'
+          release: '4'
+          terms:
+            - type: expression
+              designation: propiedad restricción <OWL>
+              normative_status: preferred
+        parents: []
+        timeCreated: 2015-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

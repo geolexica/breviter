@@ -1,0 +1,610 @@
+term: Synthetic Aperture Radar
+termid: 1124
+eng:
+  id: 1124
+  abbrev: SAR
+  definition: >-
+    imaging radar system that simulates the use of a long physical antenna by
+    collecting multiple returns from each target as the actual antenna moves
+    along the track
+  language_code: eng
+  notes:
+    - >-
+      The electromagnetic radiation is at microwave frequencies and is sent in
+      pulses.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19130-1:2018'
+    clause: '(E), 3.76'
+    link: 'https://www.iso.org/standard/66847.html'
+  lineage_source: 'ISO/TS 19130:2010(E)'
+  lineage_source_similarity: '1'
+  date_accepted: 2010-06-15T00:00:00.000Z
+  review_date: 2018-09-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2018-09-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19130-1:2018(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO/TS 19130:2010 to ISO
+    19130-1:2018(E), 3.76. Lineage source added as ISO/TS 19130:2010(E)
+  release: '2'
+  terms:
+    - type: expression
+      designation: Synthetic Aperture Radar
+      normative_status: preferred
+  _revisions:
+    current: f69522
+    tree:
+      f69522:
+        object:
+          id: 1124
+          abbrev: SAR
+          definition: >-
+            imaging radar system that simulates the use of a long physical
+            antenna by collecting multiple returns from each target as the
+            actual antenna moves along the track
+          language_code: eng
+          notes:
+            - >-
+              The electromagnetic radiation is at microwave frequencies and is
+              sent in pulses.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19130-1:2018'
+            clause: '(E), 3.76'
+            link: 'https://www.iso.org/standard/66847.html'
+          lineage_source: 'ISO/TS 19130:2010(E)'
+          lineage_source_similarity: '1'
+          date_accepted: 2010-06-15T00:00:00.000Z
+          review_date: 2018-09-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2018-09-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19130-1:2018(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO/TS 19130:2010 to ISO
+            19130-1:2018(E), 3.76. Lineage source added as ISO/TS 19130:2010(E)
+          release: '2'
+          terms:
+            - type: expression
+              designation: Synthetic Aperture Radar
+              normative_status: preferred
+        parents: []
+        timeCreated: 2010-06-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+ara:
+  id: 1124
+  abbrev: ررم
+  definition: >-
+    نظام رادار للتصوير يحاكي استعمال هوائي طبيعي طويل  وذلك بتجميع ارتدادات
+    متعددة من كل هدف بينما  الهوائي الفعلي يتحرك على طول المسار
+  language_code: ara
+  notes:
+    - الإشعاع الكهرومغنطيسي يكون على ترددات الميكروويف ويرسل في شكل نبضات.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19130-1:2018'
+    clause: '(E), 3.76'
+    link: 'https://www.iso.org/standard/66847.html'
+  lineage_source: 'ISO/TS 19130:2010(E)'
+  lineage_source_similarity: '1'
+  date_accepted: 2010-06-15T00:00:00.000Z
+  review_date: 2018-09-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2018-09-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19130-1:2018(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO/TS 19130:2010 to ISO
+    19130-1:2018(E), 3.76. Lineage source added as ISO/TS 19130:2010(E)
+  release: '2'
+  terms:
+    - type: expression
+      designation: رادار الرصد المركَّب
+      normative_status: preferred
+  _revisions:
+    current: 3fc8ea
+    tree:
+      3fc8ea:
+        object:
+          id: 1124
+          abbrev: ررم
+          definition: >-
+            نظام رادار للتصوير يحاكي استعمال هوائي طبيعي طويل  وذلك بتجميع
+            ارتدادات متعددة من كل هدف بينما  الهوائي الفعلي يتحرك على طول المسار
+          language_code: ara
+          notes:
+            - >-
+              الإشعاع الكهرومغنطيسي يكون على ترددات الميكروويف ويرسل في شكل
+              نبضات.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19130-1:2018'
+            clause: '(E), 3.76'
+            link: 'https://www.iso.org/standard/66847.html'
+          lineage_source: 'ISO/TS 19130:2010(E)'
+          lineage_source_similarity: '1'
+          date_accepted: 2010-06-15T00:00:00.000Z
+          review_date: 2018-09-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2018-09-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19130-1:2018(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO/TS 19130:2010 to ISO
+            19130-1:2018(E), 3.76. Lineage source added as ISO/TS 19130:2010(E)
+          release: '2'
+          terms:
+            - type: expression
+              designation: رادار الرصد المركَّب
+              normative_status: preferred
+        parents: []
+        timeCreated: 2010-06-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+deu:
+  id: 1124
+  abbrev: SAR
+  definition: >-
+    abbildendes Radar, bei dem die hohe Auflösung einer langen Antenne dadurch
+    erzielt wird, dass die tatsächlich kurze Antenne zwischen Radarblitz und
+    Echoempfang weiterbewegt wird
+  language_code: deu
+  notes:
+    - >-
+      The electromagnetic radiation is at microwave frequencies and is sent in
+      pulses.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19130-1:2018'
+    clause: '(E), 3.76'
+    link: 'https://www.iso.org/standard/66847.html'
+  lineage_source: 'ISO/TS 19130:2010(E)'
+  lineage_source_similarity: '1'
+  date_accepted: 2010-06-15T00:00:00.000Z
+  review_date: 2018-09-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2018-09-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19130-1:2018(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO/TS 19130:2010 to ISO
+    19130-1:2018(E), 3.76. Lineage source added as ISO/TS 19130:2010(E)
+  release: '2'
+  terms:
+    - type: expression
+      designation: Radar mit virtueller Blende
+      normative_status: preferred
+  _revisions:
+    current: f7a7c7
+    tree:
+      f7a7c7:
+        object:
+          id: 1124
+          abbrev: SAR
+          definition: >-
+            abbildendes Radar, bei dem die hohe Auflösung einer langen Antenne
+            dadurch erzielt wird, dass die tatsächlich kurze Antenne zwischen
+            Radarblitz und Echoempfang weiterbewegt wird
+          language_code: deu
+          notes:
+            - >-
+              The electromagnetic radiation is at microwave frequencies and is
+              sent in pulses.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19130-1:2018'
+            clause: '(E), 3.76'
+            link: 'https://www.iso.org/standard/66847.html'
+          lineage_source: 'ISO/TS 19130:2010(E)'
+          lineage_source_similarity: '1'
+          date_accepted: 2010-06-15T00:00:00.000Z
+          review_date: 2018-09-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2018-09-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19130-1:2018(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO/TS 19130:2010 to ISO
+            19130-1:2018(E), 3.76. Lineage source added as ISO/TS 19130:2010(E)
+          release: '2'
+          terms:
+            - type: expression
+              designation: Radar mit virtueller Blende
+              normative_status: preferred
+        parents: []
+        timeCreated: 2010-06-15T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+kor:
+  id: 1124
+  definition: >-
+    실제 안테나가 트랙을 따라 이동하는 동안 각 목표들로부터 각종 회신을 수집함으로써 물리적 장안테나를 사용하는 것을 가상적으로 보여주는
+    영상 레이더 시스템
+  language_code: kor
+  notes:
+    - >-
+      The electromagnetic radiation is at microwave frequencies and is sent in
+      pulses.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19130-1:2018'
+    clause: '(E), 3.76'
+    link: 'https://www.iso.org/standard/66847.html'
+  lineage_source: 'ISO/TS 19130:2010(E)'
+  lineage_source_similarity: '1'
+  date_accepted: 2010-06-15T00:00:00.000Z
+  review_date: 2018-09-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2018-09-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19130-1:2018(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO/TS 19130:2010 to ISO
+    19130-1:2018(E), 3.76. Lineage source added as ISO/TS 19130:2010(E)
+  release: '2'
+  terms:
+    - type: expression
+      designation: 합성개구(구경) 레이더
+      normative_status: preferred
+  _revisions:
+    current: 245a50
+    tree:
+      245a50:
+        object:
+          id: 1124
+          definition: >-
+            실제 안테나가 트랙을 따라 이동하는 동안 각 목표들로부터 각종 회신을 수집함으로써 물리적 장안테나를 사용하는 것을
+            가상적으로 보여주는 영상 레이더 시스템
+          language_code: kor
+          notes:
+            - >-
+              The electromagnetic radiation is at microwave frequencies and is
+              sent in pulses.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19130-1:2018'
+            clause: '(E), 3.76'
+            link: 'https://www.iso.org/standard/66847.html'
+          lineage_source: 'ISO/TS 19130:2010(E)'
+          lineage_source_similarity: '1'
+          date_accepted: 2010-06-15T00:00:00.000Z
+          review_date: 2018-09-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2018-09-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19130-1:2018(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO/TS 19130:2010 to ISO
+            19130-1:2018(E), 3.76. Lineage source added as ISO/TS 19130:2010(E)
+          release: '2'
+          terms:
+            - type: expression
+              designation: 합성개구(구경) 레이더
+              normative_status: preferred
+        parents: []
+        timeCreated: 2010-06-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+msa:
+  id: 1124
+  abbrev: SAR
+  definition: >-
+    Satu teknik oleh antenna yang menerima isyarat gema yang dipantulkan oleh
+    target ketika ia bergerak sepanjang laluan penerbangan
+  language_code: msa
+  notes:
+    - >-
+      The electromagnetic radiation is at microwave frequencies and is sent in
+      pulses.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19130-1:2018'
+    clause: '(E), 3.76'
+    link: 'https://www.iso.org/standard/66847.html'
+  lineage_source: 'ISO/TS 19130:2010(E)'
+  lineage_source_similarity: '1'
+  date_accepted: 2010-06-15T00:00:00.000Z
+  review_date: 2018-09-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2018-09-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19130-1:2018(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO/TS 19130:2010 to ISO
+    19130-1:2018(E), 3.76. Lineage source added as ISO/TS 19130:2010(E)
+  release: '2'
+  terms:
+    - type: expression
+      designation: Radar Apertur Sintetik
+      normative_status: preferred
+  _revisions:
+    current: eb366d
+    tree:
+      eb366d:
+        object:
+          id: 1124
+          abbrev: SAR
+          definition: >-
+            Satu teknik oleh antenna yang menerima isyarat gema yang dipantulkan
+            oleh target ketika ia bergerak sepanjang laluan penerbangan
+          language_code: msa
+          notes:
+            - >-
+              The electromagnetic radiation is at microwave frequencies and is
+              sent in pulses.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19130-1:2018'
+            clause: '(E), 3.76'
+            link: 'https://www.iso.org/standard/66847.html'
+          lineage_source: 'ISO/TS 19130:2010(E)'
+          lineage_source_similarity: '1'
+          date_accepted: 2010-06-15T00:00:00.000Z
+          review_date: 2018-09-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2018-09-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19130-1:2018(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO/TS 19130:2010 to ISO
+            19130-1:2018(E), 3.76. Lineage source added as ISO/TS 19130:2010(E)
+          release: '2'
+          terms:
+            - type: expression
+              designation: Radar Apertur Sintetik
+              normative_status: preferred
+        parents: []
+        timeCreated: 2010-06-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 1124
+  abbrev: SAR
+  definition: >-
+    формирующая изображение радарная система, которая моделирует использование
+    длинной физической антенны путем сбора нескольких возвратов от каждой цели
+    по мере того, как фактическая антенна перемещается вдоль трека
+  language_code: rus
+  notes:
+    - >-
+      Электромагнитное излучение находится на микроволновых частотах и
+      передается импульсами.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19130-1:2018'
+    clause: '(E), 3.76'
+    link: 'https://www.iso.org/standard/66847.html'
+  lineage_source: 'ISO/TS 19130:2010(E)'
+  lineage_source_similarity: '1'
+  date_accepted: 2010-06-15T00:00:00.000Z
+  review_date: 2018-09-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2018-09-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19130-1:2018(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO/TS 19130:2010 to ISO
+    19130-1:2018(E), 3.76. Lineage source added as ISO/TS 19130:2010(E)
+  release: '2'
+  terms:
+    - type: expression
+      designation: радар с синтезированной апертурой
+      normative_status: preferred
+  _revisions:
+    current: 7e44c5
+    tree:
+      7e44c5:
+        object:
+          id: 1124
+          abbrev: SAR
+          definition: >-
+            формирующая изображение радарная система, которая моделирует
+            использование длинной физической антенны путем сбора нескольких
+            возвратов от каждой цели по мере того, как фактическая антенна
+            перемещается вдоль трека
+          language_code: rus
+          notes:
+            - >-
+              Электромагнитное излучение находится на микроволновых частотах и
+              передается импульсами.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19130-1:2018'
+            clause: '(E), 3.76'
+            link: 'https://www.iso.org/standard/66847.html'
+          lineage_source: 'ISO/TS 19130:2010(E)'
+          lineage_source_similarity: '1'
+          date_accepted: 2010-06-15T00:00:00.000Z
+          review_date: 2018-09-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2018-09-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19130-1:2018(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO/TS 19130:2010 to ISO
+            19130-1:2018(E), 3.76. Lineage source added as ISO/TS 19130:2010(E)
+          release: '2'
+          terms:
+            - type: expression
+              designation: радар с синтезированной апертурой
+              normative_status: preferred
+        parents: []
+        timeCreated: 2010-06-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 1124
+  abbrev: SAR
+  definition: >-
+    sistema de imágenes radar que simula el uso de una antena física larga
+    mediante la captura de múltiples ecos de cada objetivo según la antena real
+    se mueve a lo largo de su trayectoria
+  language_code: spa
+  notes:
+    - >-
+      La radiación electromágnética está en la frecuencia de las microondas y se
+      envía en pulsos.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19130-1:2018'
+    clause: '(E), 3.76'
+    link: 'https://www.iso.org/standard/66847.html'
+  lineage_source: 'ISO/TS 19130:2010(E)'
+  lineage_source_similarity: '1'
+  date_accepted: 2010-06-15T00:00:00.000Z
+  review_date: 2018-09-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2018-09-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19130-1:2018(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO/TS 19130:2010 to ISO
+    19130-1:2018(E), 3.76. Lineage source added as ISO/TS 19130:2010(E)
+  release: '2'
+  terms:
+    - type: expression
+      designation: Radar de Apertura Sintética
+      normative_status: preferred
+  _revisions:
+    current: 7a6565
+    tree:
+      7a6565:
+        object:
+          id: 1124
+          abbrev: SAR
+          definition: >-
+            sistema de imágenes radar que simula el uso de una antena física
+            larga mediante la captura de múltiples ecos de cada objetivo según
+            la antena real se mueve a lo largo de su trayectoria
+          language_code: spa
+          notes:
+            - >-
+              La radiación electromágnética está en la frecuencia de las
+              microondas y se envía en pulsos.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19130-1:2018'
+            clause: '(E), 3.76'
+            link: 'https://www.iso.org/standard/66847.html'
+          lineage_source: 'ISO/TS 19130:2010(E)'
+          lineage_source_similarity: '1'
+          date_accepted: 2010-06-15T00:00:00.000Z
+          review_date: 2018-09-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2018-09-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19130-1:2018(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO/TS 19130:2010 to ISO
+            19130-1:2018(E), 3.76. Lineage source added as ISO/TS 19130:2010(E)
+          release: '2'
+          terms:
+            - type: expression
+              designation: Radar de Apertura Sintética
+              normative_status: preferred
+        parents: []
+        timeCreated: 2010-06-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+swe:
+  id: 1124
+  abbrev: SAR
+  definition: >-
+    avbildande radarsystem som simulerar en lång fysisk antenn genom att samla
+    in många reflektioner från varje föremål när dess antenn förs längs en bana
+  country_code: swe
+  language_code: swe
+  notes:
+    - >-
+      The electromagnetic radiation is at microwave frequencies and is sent in
+      pulses.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19130-1:2018'
+    clause: '(E), 3.76'
+    link: 'https://www.iso.org/standard/66847.html'
+  lineage_source: 'ISO/TS 19130:2010(E)'
+  lineage_source_similarity: '1'
+  date_accepted: 2010-06-15T00:00:00.000Z
+  review_date: 2018-09-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2018-09-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19130-1:2018(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO/TS 19130:2010 to ISO
+    19130-1:2018(E), 3.76. Lineage source added as ISO/TS 19130:2010(E)
+  release: '2'
+  terms:
+    - type: expression
+      designation: syntetisk aperturradar
+      normative_status: preferred
+  _revisions:
+    current: cc4601
+    tree:
+      cc4601:
+        object:
+          id: 1124
+          abbrev: SAR
+          definition: >-
+            avbildande radarsystem som simulerar en lång fysisk antenn genom att
+            samla in många reflektioner från varje föremål när dess antenn förs
+            längs en bana
+          country_code: swe
+          language_code: swe
+          notes:
+            - >-
+              The electromagnetic radiation is at microwave frequencies and is
+              sent in pulses.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19130-1:2018'
+            clause: '(E), 3.76'
+            link: 'https://www.iso.org/standard/66847.html'
+          lineage_source: 'ISO/TS 19130:2010(E)'
+          lineage_source_similarity: '1'
+          date_accepted: 2010-06-15T00:00:00.000Z
+          review_date: 2018-09-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2018-09-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19130-1:2018(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO/TS 19130:2010 to ISO
+            19130-1:2018(E), 3.76. Lineage source added as ISO/TS 19130:2010(E)
+          release: '2'
+          terms:
+            - type: expression
+              designation: syntetisk aperturradar
+              normative_status: preferred
+        parents: []
+        timeCreated: 2010-06-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

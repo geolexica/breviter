@@ -1,0 +1,913 @@
+term: coupling
+termid: 660
+eng:
+  id: 660
+  definition: >-
+    linkage of two or more software systems through information transfer or
+    messaging
+  language_code: eng
+  notes:
+    - >-
+      Compare with integration. While the conceptual schema of the information
+      transferred shall be agreed upon to some level, coupling applications can
+      be and are usually flexible in the data representation of that information
+      as long as the semantics content is correct and mappable to some canonical
+      representation of the conceptual schema. The most common mapping
+      technology used for XML messages is XSLT, and the transformation
+      stylesheet can be supplied either by the service broker or by the service
+      provider. It is considered a best practice for a service provider to
+      supply his functionality through several logically equivalent messaging
+      APIs, each represented by a different URI linked to an XSLT transformation
+      bridge, and implemented by the same internal code.
+    - >-
+      Loose coupling and tight coupling are not at present well-defined terms in
+      the literature. Generally, "tight" coupling means that there is some sort
+      of incurred dependency between requester and responder in the use of the
+      interface, while "loose" means no such dependency. The nature of that
+      dependency is not consistently defined between authors.  In that light,
+      "tight" coupling or "tight" integration are both bad practices, and have
+      been viewed as such since the inception of the terms. Some literature
+      refers to integration as "tight coupling", but that is a less accurate
+      description.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19132:2007'
+    link: 'https://www.iso.org/standard/40601.html'
+  date_accepted: 2007-10-15T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: coupling
+      normative_status: preferred
+  _revisions:
+    current: a664c7
+    tree:
+      a664c7:
+        object:
+          id: 660
+          definition: >-
+            linkage of two or more software systems through information transfer
+            or messaging
+          language_code: eng
+          notes:
+            - >-
+              Compare with integration. While the conceptual schema of the
+              information transferred shall be agreed upon to some level,
+              coupling applications can be and are usually flexible in the data
+              representation of that information as long as the semantics
+              content is correct and mappable to some canonical representation
+              of the conceptual schema. The most common mapping technology used
+              for XML messages is XSLT, and the transformation stylesheet can be
+              supplied either by the service broker or by the service provider.
+              It is considered a best practice for a service provider to supply
+              his functionality through several logically equivalent messaging
+              APIs, each represented by a different URI linked to an XSLT
+              transformation bridge, and implemented by the same internal code.
+            - >-
+              Loose coupling and tight coupling are not at present well-defined
+              terms in the literature. Generally, "tight" coupling means that
+              there is some sort of incurred dependency between requester and
+              responder in the use of the interface, while "loose" means no such
+              dependency. The nature of that dependency is not consistently
+              defined between authors.  In that light, "tight" coupling or
+              "tight" integration are both bad practices, and have been viewed
+              as such since the inception of the terms. Some literature refers
+              to integration as "tight coupling", but that is a less accurate
+              description.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19132:2007'
+            link: 'https://www.iso.org/standard/40601.html'
+          date_accepted: 2007-10-15T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: coupling
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-10-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+ara:
+  id: 660
+  definition: الربط بين نظامي برمجة أو أكثر عن طريق نقل المعلومات أو إرسال الرسائل
+  language_code: ara
+  notes:
+    - >-
+      قارن بـ " تكامل". في الوقت الذي يمكن فيه الاتفاق بدرجة ما على المخطط
+      التصوري للمعلومات التي يجري نقلها , فإن تطبيقات الربط تكون مرنة , بل هي في
+      العادة مرنة , في تمثيل بيانات تلك المعلومات ما دام مضمون الدلالة اللفظية
+      صحيحاً وقابلاً لتمثيل المخطط التصوري على الخريطة بشكل مقبول. تقنية التمثيل
+      على الخريطة الأكثر استعمالاً بالنسبة لرسائل لغة التحديد القابلة للامتداد 
+      XML هي XSLT , ويمكن الحصول على ورقة التعليمات التنفيذية لعملية التحويل إما
+      من وسيط تزويد الخدمة أو من مزود الخدمة الأساسي.
+
+      ويمكن لمزود الخدمة تحقيق أفضل النتائج إذا قام بتأمين فعاليته الوظيفية من
+      خلال واجهات تطبيقية متعددة ومتكافئة منطقياً لبث الرسائل, كل منها ممثلة
+      بآلية متسقة للوصول إلى الموارد (URI) مختلفة ومتصلة بجسر تحويلXSLT ومنفذة
+      بنفس الشفرة الداخلية.
+    - >-
+      لا يوجد تعريف جيد أو دقيق للربط المحكم والربط غير المحكم في الأدبيات
+      المتداولة حاليا. ولكن على وجه العموم ، الربط المحكم يعني وجود نوع من
+      الاتكال بين الجهة الطالبة والجهة المنتظر استجابتها للطلب في استخدام واجهة
+      التبادل ، في حين أن الربط غير المحكم يعني عدم وجود علاقة الاتكال المشار
+      إليها. كما أن طبيعة الاتكال المذكور ليست معرَّفة تعريفا متفقا عليه بين
+      كتَّاب التعريفات المختلفة. وفي ضوء ما ذكر يعتبر كل من الربط "المحكم"
+      والتكامل "المحكم" أعمالا أو أنشطة غير جيدة وأن هذه النظرة تجاههما لم تتغير
+      منذ أن دخل هذان المصطلحان حيز التداول. بعض الأدبيات تطلق تسمية "الربط
+      المحكم" على التكامل ، لكن هذا التوصيف ليس دقيقا بما فيه الكفاية.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19132:2007'
+    link: 'https://www.iso.org/standard/40601.html'
+  date_accepted: 2007-10-15T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: الاقتران
+      normative_status: preferred
+  _revisions:
+    current: 8b76fd
+    tree:
+      8b76fd:
+        object:
+          id: 660
+          definition: الربط بين نظامي برمجة أو أكثر عن طريق نقل المعلومات أو إرسال الرسائل
+          language_code: ara
+          notes:
+            - >-
+              قارن بـ " تكامل". في الوقت الذي يمكن فيه الاتفاق بدرجة ما على
+              المخطط التصوري للمعلومات التي يجري نقلها , فإن تطبيقات الربط تكون
+              مرنة , بل هي في العادة مرنة , في تمثيل بيانات تلك المعلومات ما دام
+              مضمون الدلالة اللفظية صحيحاً وقابلاً لتمثيل المخطط التصوري على
+              الخريطة بشكل مقبول. تقنية التمثيل على الخريطة الأكثر استعمالاً
+              بالنسبة لرسائل لغة التحديد القابلة للامتداد  XML هي XSLT , ويمكن
+              الحصول على ورقة التعليمات التنفيذية لعملية التحويل إما من وسيط
+              تزويد الخدمة أو من مزود الخدمة الأساسي.
+
+              ويمكن لمزود الخدمة تحقيق أفضل النتائج إذا قام بتأمين فعاليته
+              الوظيفية من خلال واجهات تطبيقية متعددة ومتكافئة منطقياً لبث
+              الرسائل, كل منها ممثلة بآلية متسقة للوصول إلى الموارد (URI) مختلفة
+              ومتصلة بجسر تحويلXSLT ومنفذة بنفس الشفرة الداخلية.
+            - >-
+              لا يوجد تعريف جيد أو دقيق للربط المحكم والربط غير المحكم في
+              الأدبيات المتداولة حاليا. ولكن على وجه العموم ، الربط المحكم يعني
+              وجود نوع من الاتكال بين الجهة الطالبة والجهة المنتظر استجابتها
+              للطلب في استخدام واجهة التبادل ، في حين أن الربط غير المحكم يعني
+              عدم وجود علاقة الاتكال المشار إليها. كما أن طبيعة الاتكال المذكور
+              ليست معرَّفة تعريفا متفقا عليه بين كتَّاب التعريفات المختلفة. وفي
+              ضوء ما ذكر يعتبر كل من الربط "المحكم" والتكامل "المحكم" أعمالا أو
+              أنشطة غير جيدة وأن هذه النظرة تجاههما لم تتغير منذ أن دخل هذان
+              المصطلحان حيز التداول. بعض الأدبيات تطلق تسمية "الربط المحكم" على
+              التكامل ، لكن هذا التوصيف ليس دقيقا بما فيه الكفاية.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19132:2007'
+            link: 'https://www.iso.org/standard/40601.html'
+          date_accepted: 2007-10-15T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: الاقتران
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-10-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+zho:
+  id: 660
+  definition: 通过信息转换或消息通讯，实现两个或多个软件系统的连接。
+  language_code: zho
+  notes:
+    - >-
+      耦合与集成比较而言，信息传输的概念模式必须与某些层次上相一致。只要语义内容是正确的，并且可映射到规范的概念模式的表达。在信息数据表示中耦合应用可以并且经常是灵活的。用于XML消息的最常见的映射技术是XSLT，转换样式表可以由服务代理或服务提供者提供。对服务提供者来说，通过几个逻辑等价信息API提供它的功能，每一个功能由不同的URI连接到XSLT转换桥上，并通过同一内码实现，这种方法被认为是最佳做法。
+    - >-
+      在文献中，目前，松耦合和紧耦合是没有明确定义的术语。一般来说,
+      '紧'耦合在请求者和响应者间存在由于使用接口引发的各种依赖,而'松'耦合并没有这种依赖性。这种依赖的本质并没有在作者间一致定义。在这种情况下,
+      '紧'耦合或'紧'集成都是不好的实践，这是自这类术语提出后的共识，有些文献将集成当成紧耦合,这是不准确的描述。
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19132:2007'
+    link: 'https://www.iso.org/standard/40601.html'
+  date_accepted: 2007-10-15T00:00:00.000Z
+  terms:
+    - type: expression
+      designation: 耦合
+      normative_status: preferred
+  _revisions:
+    current: ca535a
+    tree:
+      ca535a:
+        object:
+          id: 660
+          definition: 通过信息转换或消息通讯，实现两个或多个软件系统的连接。
+          language_code: zho
+          notes:
+            - >-
+              耦合与集成比较而言，信息传输的概念模式必须与某些层次上相一致。只要语义内容是正确的，并且可映射到规范的概念模式的表达。在信息数据表示中耦合应用可以并且经常是灵活的。用于XML消息的最常见的映射技术是XSLT，转换样式表可以由服务代理或服务提供者提供。对服务提供者来说，通过几个逻辑等价信息API提供它的功能，每一个功能由不同的URI连接到XSLT转换桥上，并通过同一内码实现，这种方法被认为是最佳做法。
+            - >-
+              在文献中，目前，松耦合和紧耦合是没有明确定义的术语。一般来说,
+              '紧'耦合在请求者和响应者间存在由于使用接口引发的各种依赖,而'松'耦合并没有这种依赖性。这种依赖的本质并没有在作者间一致定义。在这种情况下,
+              '紧'耦合或'紧'集成都是不好的实践，这是自这类术语提出后的共识，有些文献将集成当成紧耦合,这是不准确的描述。
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19132:2007'
+            link: 'https://www.iso.org/standard/40601.html'
+          date_accepted: 2007-10-15T00:00:00.000Z
+          terms:
+            - type: expression
+              designation: 耦合
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-10-15T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+fin:
+  id: 660
+  definition: >-
+    kahden tai useamman ohjelmistojärjestelmän liittäminen toisiinsa
+    tiedonsiirron tai sanomanvaihdon avulla
+  language_code: fin
+  notes:
+    - >-
+      Vertaa käsitteeseen integraatio. Siirrettävän tiedon käsiteskeema on
+      jollain tasolla sovittava, mutta kytkentäsovellukset voivat olla ja
+      tavallisesti ovat joustavia tiedon esittämisessä ja edellyttävät vain,
+      että semanttinen sisältö on oikea ja kuvattavissa johonkin käsiteskeeman
+      kanoniseen esitykseen. Tavallisin XML-viestien merkintäkieli on XSLT, ja
+      muunnoksessa käytettävän tyylimäärittelyn voi antaa joko palvelun
+      välittäjä tai sen tarjoaja. Parhaana käytäntönä pidetään, että
+      palveluntarjoaja tarjoaa funktionaalisuutensa usean loogisesti samanlaisen
+      sovellusohjelman rajapinnan (API) kautta, joilla kullakin on oma
+      XSLT-siltaan linkitetty URI ja joista kukin (API) on implementoitu samalla
+      sisäisellä koodilla. HUOM. 2. Käsitteitä löyhä kytkentä ja tiivis kytkentä
+      ei ole tällä hetkellä täsmällisesti määritelty kirjallisuudessa.
+      Tavallisesti termi tiivis kytkentä viittaa siihen, että palvelun pyytäjän
+      (requester) ja palvelupyyntöön vastaajan (responder) välillä on
+      jonkinlainen aiheutettu riippuvuus, ja löyhä kytkentä puolestaan siihen,
+      ettei sellaista ole. Riippuvuuden luonnetta ei ole yhtenäisesti
+      määritelty. Näin määriteltynä tiivis kytkentä,
+
+      tai tiukka integraatio, on huono käytäntö, ja sitä on pidetty sellaisena
+      termin luomisesta lähtien. Joissakin lähteissä
+
+      termillä tiivis kytkentä viitataan integraatioon, mutta tämä kielenkäyttö
+      on vähemmän täsmällistä.
+    - >-
+      Käsitteitä löyhä kytkentä ja tiivis kytkentä ei ole tällä hetkellä
+      täsmällisesti määritelty kirjallisuudessa. Tavallisesti termi tiivis
+      kytkentä viittaa siihen, että palvelun pyytäjän (requester) ja
+      palvelupyyntöön vastaajan (responder) välillä on jonkinlainen aiheutettu
+      riippuvuus, ja löyhä kytkentä puolestaan siihen, ettei sellaista ole.
+      Riippuvuuden luonnetta ei ole yhtenäisesti määritelty. Näin määriteltynä
+      tiivis kytkentä, tai tiukka integraatio, on huono käytäntö, ja sitä on
+      pidetty sellaisena termin luomisesta lähtien. Joissakin lähteissä termillä
+      tiivis kytkentä viitataan integraatioon, mutta tämä kielenkäyttö on
+      vähemmän täsmällistä.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19132:2007'
+    link: 'https://www.iso.org/standard/40601.html'
+  lineage_source: Internet
+  date_accepted: 2007-10-15T00:00:00.000Z
+  terms:
+    - type: expression
+      designation: kytkentä
+      normative_status: preferred
+  _revisions:
+    current: 8d560c
+    tree:
+      8d560c:
+        object:
+          id: 660
+          definition: >-
+            kahden tai useamman ohjelmistojärjestelmän liittäminen toisiinsa
+            tiedonsiirron tai sanomanvaihdon avulla
+          language_code: fin
+          notes:
+            - >-
+              Vertaa käsitteeseen integraatio. Siirrettävän tiedon käsiteskeema
+              on jollain tasolla sovittava, mutta kytkentäsovellukset voivat
+              olla ja tavallisesti ovat joustavia tiedon esittämisessä ja
+              edellyttävät vain, että semanttinen sisältö on oikea ja
+              kuvattavissa johonkin käsiteskeeman kanoniseen esitykseen.
+              Tavallisin XML-viestien merkintäkieli on XSLT, ja muunnoksessa
+              käytettävän tyylimäärittelyn voi antaa joko palvelun välittäjä tai
+              sen tarjoaja. Parhaana käytäntönä pidetään, että palveluntarjoaja
+              tarjoaa funktionaalisuutensa usean loogisesti samanlaisen
+              sovellusohjelman rajapinnan (API) kautta, joilla kullakin on oma
+              XSLT-siltaan linkitetty URI ja joista kukin (API) on implementoitu
+              samalla sisäisellä koodilla. HUOM. 2. Käsitteitä löyhä kytkentä ja
+              tiivis kytkentä ei ole tällä hetkellä täsmällisesti määritelty
+              kirjallisuudessa. Tavallisesti termi tiivis kytkentä viittaa
+              siihen, että palvelun pyytäjän (requester) ja palvelupyyntöön
+              vastaajan (responder) välillä on jonkinlainen aiheutettu
+              riippuvuus, ja löyhä kytkentä puolestaan siihen, ettei sellaista
+              ole. Riippuvuuden luonnetta ei ole yhtenäisesti määritelty. Näin
+              määriteltynä tiivis kytkentä,
+
+              tai tiukka integraatio, on huono käytäntö, ja sitä on pidetty
+              sellaisena termin luomisesta lähtien. Joissakin lähteissä
+
+              termillä tiivis kytkentä viitataan integraatioon, mutta tämä
+              kielenkäyttö on vähemmän täsmällistä.
+            - >-
+              Käsitteitä löyhä kytkentä ja tiivis kytkentä ei ole tällä hetkellä
+              täsmällisesti määritelty kirjallisuudessa. Tavallisesti termi
+              tiivis kytkentä viittaa siihen, että palvelun pyytäjän (requester)
+              ja palvelupyyntöön vastaajan (responder) välillä on jonkinlainen
+              aiheutettu riippuvuus, ja löyhä kytkentä puolestaan siihen, ettei
+              sellaista ole. Riippuvuuden luonnetta ei ole yhtenäisesti
+              määritelty. Näin määriteltynä tiivis kytkentä, tai tiukka
+              integraatio, on huono käytäntö, ja sitä on pidetty sellaisena
+              termin luomisesta lähtien. Joissakin lähteissä termillä tiivis
+              kytkentä viitataan integraatioon, mutta tämä kielenkäyttö on
+              vähemmän täsmällistä.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19132:2007'
+            link: 'https://www.iso.org/standard/40601.html'
+          lineage_source: Internet
+          date_accepted: 2007-10-15T00:00:00.000Z
+          terms:
+            - type: expression
+              designation: kytkentä
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-10-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+fra:
+  id: 660
+  definition: >-
+    lien de deux ou plusieurs systèmes logiciels par transfert d'information ou
+    de messagerie
+  language_code: fra
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: ISO 19132
+    link: 'https://www.iso.org/standard/40601.html'
+  lineage_source: ''
+  date_accepted: 2007-10-15T00:00:00.000Z
+  terms:
+    - type: expression
+      designation: couplage
+      normative_status: preferred
+  _revisions:
+    current: 6e7fe5
+    tree:
+      6e7fe5:
+        object:
+          id: 660
+          definition: >-
+            lien de deux ou plusieurs systèmes logiciels par transfert
+            d'information ou de messagerie
+          language_code: fra
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: ISO 19132
+            link: 'https://www.iso.org/standard/40601.html'
+          lineage_source: ''
+          date_accepted: 2007-10-15T00:00:00.000Z
+          terms:
+            - type: expression
+              designation: couplage
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-10-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+deu:
+  id: 660
+  language_code: deu
+  notes:
+    - >-
+      Compare with integration. While the conceptual schema of the information
+      transferred shall be agreed upon to some level, coupling applications can
+      be and are usually flexible in the data representation of that information
+      as long as the semantics content is correct and mappable to some canonical
+      representation of the conceptual schema. The most common mapping
+      technology used for XML messages is XSLT, and the transformation
+      stylesheet can be supplied either by the service broker or by the service
+      provider. It is considered a best practice for a service provider to
+      supply his functionality through several logically equivalent messaging
+      APIs, each represented by a different URI linked to an XSLT transformation
+      bridge, and implemented by the same internal code.
+    - >-
+      Loose coupling and tight coupling are not at present well-defined terms in
+      the literature. Generally, "tight" coupling means that there is some sort
+      of incurred dependency between requester and responder in the use of the
+      interface, while "loose" means no such dependency. The nature of that
+      dependency is not consistently defined between authors.  In that light,
+      "tight" coupling or "tight" integration are both bad practices, and have
+      been viewed as such since the inception of the terms. Some literature
+      refers to integration as "tight coupling", but that is a less accurate
+      description.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19132:2007'
+    link: 'https://www.iso.org/standard/40601.html'
+  date_accepted: 2007-10-15T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: Kopplung
+      normative_status: preferred
+  _revisions:
+    current: 05464a
+    tree:
+      05464a:
+        object:
+          id: 660
+          language_code: deu
+          notes:
+            - >-
+              Compare with integration. While the conceptual schema of the
+              information transferred shall be agreed upon to some level,
+              coupling applications can be and are usually flexible in the data
+              representation of that information as long as the semantics
+              content is correct and mappable to some canonical representation
+              of the conceptual schema. The most common mapping technology used
+              for XML messages is XSLT, and the transformation stylesheet can be
+              supplied either by the service broker or by the service provider.
+              It is considered a best practice for a service provider to supply
+              his functionality through several logically equivalent messaging
+              APIs, each represented by a different URI linked to an XSLT
+              transformation bridge, and implemented by the same internal code.
+            - >-
+              Loose coupling and tight coupling are not at present well-defined
+              terms in the literature. Generally, "tight" coupling means that
+              there is some sort of incurred dependency between requester and
+              responder in the use of the interface, while "loose" means no such
+              dependency. The nature of that dependency is not consistently
+              defined between authors.  In that light, "tight" coupling or
+              "tight" integration are both bad practices, and have been viewed
+              as such since the inception of the terms. Some literature refers
+              to integration as "tight coupling", but that is a less accurate
+              description.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19132:2007'
+            link: 'https://www.iso.org/standard/40601.html'
+          date_accepted: 2007-10-15T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: Kopplung
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-10-15T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+kor:
+  id: 660
+  definition: 두 개 이상의 시스템 간 정보의 전송 또는 메시징을 통한 연계
+  language_code: kor
+  notes:
+    - >-
+      통합과 비교하라. 전송된 정보의 개념적 스키마는 일정 수준 일치할 수 있으나, 결합 응용은 일반적으로 의미론적 내용이 정확하며 개념적
+      스키마의 정규 표현과 매핑 가능한 정보를 표현하는 데이터에서 유연하게 사용된다. 가장 일반적인 매핑 기술로 사용되는 XML 메시지는
+      XSLT이며, 변환 스타일시트는 서비스 브로커 또는 서비스 제공자에 의해 공급될 수 있다. 서비스 제공자는 논리적으로 대응하는 다양한
+      메시징 API를 통해 그 기능을 제공하고, XSLT 변환 브리지에 링크된 각기 다른 URI에 의한 표현을 고려하며, 동일한 내부
+      코드를 통해 구현되도록 한다.
+    - >-
+      약결합과 강결합은 현재 잘 정의된 용어는 아니다. 일반적으로 "강" 결합이란,  인터페이스의 활용에서 요청자와 응답자 간에 발생하는
+      의존도를 의미한다. 반면 "약"결합은 이와 같은 의존도가 없음을 의미한다. 의존도의 본질은 개발자 간에 일관성 있게 정의되지 않고
+      있다. 이런 맥락에서 "강" 결합 또는 "강" 통합은 좋지 않은 예시로써, 용어가 생긴 이래로 계속 검토되고 있다. 어떤 문헌에서는
+      "강결합"으로 통합을 참조하고 있으나, 다소 정확하지 않게 기술되어 있다.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19132:2007'
+    link: 'https://www.iso.org/standard/40601.html'
+  lineage_source: KS X ISO 19132
+  date_accepted: 2009-12-29T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: 결합
+      normative_status: preferred
+  _revisions:
+    current: ee3b34
+    tree:
+      ee3b34:
+        object:
+          id: 660
+          definition: 두 개 이상의 시스템 간 정보의 전송 또는 메시징을 통한 연계
+          language_code: kor
+          notes:
+            - >-
+              통합과 비교하라. 전송된 정보의 개념적 스키마는 일정 수준 일치할 수 있으나, 결합 응용은 일반적으로 의미론적 내용이
+              정확하며 개념적 스키마의 정규 표현과 매핑 가능한 정보를 표현하는 데이터에서 유연하게 사용된다. 가장 일반적인 매핑
+              기술로 사용되는 XML 메시지는 XSLT이며, 변환 스타일시트는 서비스 브로커 또는 서비스 제공자에 의해 공급될 수
+              있다. 서비스 제공자는 논리적으로 대응하는 다양한 메시징 API를 통해 그 기능을 제공하고, XSLT 변환 브리지에
+              링크된 각기 다른 URI에 의한 표현을 고려하며, 동일한 내부 코드를 통해 구현되도록 한다.
+            - >-
+              약결합과 강결합은 현재 잘 정의된 용어는 아니다. 일반적으로 "강" 결합이란,  인터페이스의 활용에서 요청자와 응답자
+              간에 발생하는 의존도를 의미한다. 반면 "약"결합은 이와 같은 의존도가 없음을 의미한다. 의존도의 본질은 개발자 간에
+              일관성 있게 정의되지 않고 있다. 이런 맥락에서 "강" 결합 또는 "강" 통합은 좋지 않은 예시로써, 용어가 생긴
+              이래로 계속 검토되고 있다. 어떤 문헌에서는 "강결합"으로 통합을 참조하고 있으나, 다소 정확하지 않게 기술되어 있다.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19132:2007'
+            link: 'https://www.iso.org/standard/40601.html'
+          lineage_source: KS X ISO 19132
+          date_accepted: 2009-12-29T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: 결합
+              normative_status: preferred
+        parents: []
+        timeCreated: 2009-12-29T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+msa:
+  id: 660
+  language_code: msa
+  notes:
+    - >-
+      Compare with integration. While the conceptual schema of the information
+      transferred shall be agreed upon to some level, coupling applications can
+      be and are usually flexible in the data representation of that information
+      as long as the semantics content is correct and mappable to some canonical
+      representation of the conceptual schema. The most common mapping
+      technology used for XML messages is XSLT, and the transformation
+      stylesheet can be supplied either by the service broker or by the service
+      provider. It is considered a best practice for a service provider to
+      supply his functionality through several logically equivalent messaging
+      APIs, each represented by a different URI linked to an XSLT transformation
+      bridge, and implemented by the same internal code.
+    - >-
+      Loose coupling and tight coupling are not at present well-defined terms in
+      the literature. Generally, "tight" coupling means that there is some sort
+      of incurred dependency between requester and responder in the use of the
+      interface, while "loose" means no such dependency. The nature of that
+      dependency is not consistently defined between authors.  In that light,
+      "tight" coupling or "tight" integration are both bad practices, and have
+      been viewed as such since the inception of the terms. Some literature
+      refers to integration as "tight coupling", but that is a less accurate
+      description.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19132:2007'
+    link: 'https://www.iso.org/standard/40601.html'
+  lineage_source: Pusat Rujukan Persuratan Melayu (DBP)
+  date_accepted: 2007-10-15T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: gandingan
+      normative_status: preferred
+  _revisions:
+    current: f5e23b
+    tree:
+      f5e23b:
+        object:
+          id: 660
+          language_code: msa
+          notes:
+            - >-
+              Compare with integration. While the conceptual schema of the
+              information transferred shall be agreed upon to some level,
+              coupling applications can be and are usually flexible in the data
+              representation of that information as long as the semantics
+              content is correct and mappable to some canonical representation
+              of the conceptual schema. The most common mapping technology used
+              for XML messages is XSLT, and the transformation stylesheet can be
+              supplied either by the service broker or by the service provider.
+              It is considered a best practice for a service provider to supply
+              his functionality through several logically equivalent messaging
+              APIs, each represented by a different URI linked to an XSLT
+              transformation bridge, and implemented by the same internal code.
+            - >-
+              Loose coupling and tight coupling are not at present well-defined
+              terms in the literature. Generally, "tight" coupling means that
+              there is some sort of incurred dependency between requester and
+              responder in the use of the interface, while "loose" means no such
+              dependency. The nature of that dependency is not consistently
+              defined between authors.  In that light, "tight" coupling or
+              "tight" integration are both bad practices, and have been viewed
+              as such since the inception of the terms. Some literature refers
+              to integration as "tight coupling", but that is a less accurate
+              description.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19132:2007'
+            link: 'https://www.iso.org/standard/40601.html'
+          lineage_source: Pusat Rujukan Persuratan Melayu (DBP)
+          date_accepted: 2007-10-15T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: gandingan
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-10-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 660
+  definition: >-
+    связь двух или более  программных систем путем передачи информации или
+    сообщений
+  language_code: rus
+  notes:
+    - >-
+      В литературе в настоящее время нет четких определений терминов
+      "слабосвязанное  соединение" и "сильносвязанное соединение". В общем
+      смысле, "сильносвязанное соединение" означает, что существует своего рода
+      зависимость в использовании интерфейса между запрашивающей стороной и
+      принимающей. "Слабосвязанное соединение" означает, что такой зависимости
+      нет. Понимание существа  такой зависимости  у разных авторов различается. 
+      В свете этого, "сильносвязанное соединение" или "сильная интеграция"
+      являются неудачными терминами и рассматривались в качестве таковых с
+      начала их формирования . В некоторых источниках есть указание на
+      интеграцию как  "сильносвязанное соединение", но этот подход является  еще
+      менее корректным
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19132:2007'
+    link: 'https://www.iso.org/standard/40601.html'
+  lineage_source: Internet
+  date_accepted: 2007-10-15T00:00:00.000Z
+  terms:
+    - type: expression
+      designation: соединение
+      normative_status: preferred
+  _revisions:
+    current: ac9f8d
+    tree:
+      ac9f8d:
+        object:
+          id: 660
+          definition: >-
+            связь двух или более  программных систем путем передачи информации
+            или сообщений
+          language_code: rus
+          notes:
+            - >-
+              В литературе в настоящее время нет четких определений терминов
+              "слабосвязанное  соединение" и "сильносвязанное соединение". В
+              общем смысле, "сильносвязанное соединение" означает, что
+              существует своего рода зависимость в использовании интерфейса
+              между запрашивающей стороной и принимающей. "Слабосвязанное
+              соединение" означает, что такой зависимости нет. Понимание
+              существа  такой зависимости  у разных авторов различается.  В
+              свете этого, "сильносвязанное соединение" или "сильная интеграция"
+              являются неудачными терминами и рассматривались в качестве таковых
+              с начала их формирования . В некоторых источниках есть указание на
+              интеграцию как  "сильносвязанное соединение", но этот подход
+              является  еще менее корректным
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19132:2007'
+            link: 'https://www.iso.org/standard/40601.html'
+          lineage_source: Internet
+          date_accepted: 2007-10-15T00:00:00.000Z
+          terms:
+            - type: expression
+              designation: соединение
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-10-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 660
+  definition: >-
+    vinculación de dos o más sistemas de software a través de la transferencia
+    de información o de mensajería
+  language_code: spa
+  notes:
+    - >-
+      Comparar con integración. Si bien el esquema conceptual de la información
+      transferida se debe acordar a cierto nivel, las aplicaciones acopladas
+      pueden y suelen ser flexibles en la representación de los datos de esa
+      información siempre y cuando el contenido semántico sea correcto y
+      representable mediante alguna representación canónica del esquema
+      conceptual. La tecnología de representación más comúnmente utilizada para
+      los mensajes XML es XSLT, y la hoja de estilos de transformación pueden
+      ser suministradas por el intermediario del servicio o por el proveedor del
+      servicio. Se considera una buena práctica para un proveedor de servicios
+      suministrar su funcionalidad a través de varias API de mensajería
+      lógicamente equivalentes, cada una representada por un URI diferente
+      vinculado a un puente de transformación XSLT, e implementado por el mismo
+      código interno.
+    - >-
+      Acoplamiento débil y acoplamiento fuerte no están bien definidos
+      actualmente en la literatura. En general, acoplamiento "fuerte" significa
+      que hay algún tipo de dependencia en el uso de la interfaz contraída entre
+      el solicitante y el que responde, mientras que "débil" significa que no
+      hay esa dependencia. La naturaleza de esa dependencia no está definida de
+      forma consistente entre los autores. En este sentido, acoplamiento
+      "fuerte" o integración "fuerte" son malas prácticas, y se han considerado
+      como tal desde la creación de dichos términos. Algunas publicaciones se
+      refieren a la integración como "acoplamiento fuerte", pero es una
+      descripción menos precisa.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19132:2007'
+    link: 'https://www.iso.org/standard/40601.html'
+  date_accepted: 2007-10-15T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: acoplamiento
+      normative_status: preferred
+  _revisions:
+    current: 3563fc
+    tree:
+      3563fc:
+        object:
+          id: 660
+          definition: >-
+            vinculación de dos o más sistemas de software a través de la
+            transferencia de información o de mensajería
+          language_code: spa
+          notes:
+            - >-
+              Comparar con integración. Si bien el esquema conceptual de la
+              información transferida se debe acordar a cierto nivel, las
+              aplicaciones acopladas pueden y suelen ser flexibles en la
+              representación de los datos de esa información siempre y cuando el
+              contenido semántico sea correcto y representable mediante alguna
+              representación canónica del esquema conceptual. La tecnología de
+              representación más comúnmente utilizada para los mensajes XML es
+              XSLT, y la hoja de estilos de transformación pueden ser
+              suministradas por el intermediario del servicio o por el proveedor
+              del servicio. Se considera una buena práctica para un proveedor de
+              servicios suministrar su funcionalidad a través de varias API de
+              mensajería lógicamente equivalentes, cada una representada por un
+              URI diferente vinculado a un puente de transformación XSLT, e
+              implementado por el mismo código interno.
+            - >-
+              Acoplamiento débil y acoplamiento fuerte no están bien definidos
+              actualmente en la literatura. En general, acoplamiento "fuerte"
+              significa que hay algún tipo de dependencia en el uso de la
+              interfaz contraída entre el solicitante y el que responde,
+              mientras que "débil" significa que no hay esa dependencia. La
+              naturaleza de esa dependencia no está definida de forma
+              consistente entre los autores. En este sentido, acoplamiento
+              "fuerte" o integración "fuerte" son malas prácticas, y se han
+              considerado como tal desde la creación de dichos términos. Algunas
+              publicaciones se refieren a la integración como "acoplamiento
+              fuerte", pero es una descripción menos precisa.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19132:2007'
+            link: 'https://www.iso.org/standard/40601.html'
+          date_accepted: 2007-10-15T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: acoplamiento
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-10-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+swe:
+  id: 660
+  definition: |-
+    <inom informationsteknik> sammankoppling av informationssystem
+    med hjälp av datautbyte
+  country_code: swe
+  language_code: swe
+  notes:
+    - >-
+      Compare with integration. While the conceptual schema of the information
+      transferred shall be agreed upon to some level, coupling applications can
+      be and are usually flexible in the data representation of that information
+      as long as the semantics content is correct and mappable to some canonical
+      representation of the conceptual schema. The most common mapping
+      technology used for XML messages is XSLT, and the transformation
+      stylesheet can be supplied either by the service broker or by the service
+      provider. It is considered a best practice for a service provider to
+      supply his functionality through several logically equivalent messaging
+      APIs, each represented by a different URI linked to an XSLT transformation
+      bridge, and implemented by the same internal code.
+    - >-
+      Loose coupling and tight coupling are not at present well-defined terms in
+      the literature. Generally, "tight" coupling means that there is some sort
+      of incurred dependency between requester and responder in the use of the
+      interface, while "loose" means no such dependency. The nature of that
+      dependency is not consistently defined between authors.  In that light,
+      "tight" coupling or "tight" integration are both bad practices, and have
+      been viewed as such since the inception of the terms. Some literature
+      refers to integration as "tight coupling", but that is a less accurate
+      description.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19132:2007'
+    link: 'https://www.iso.org/standard/40601.html'
+  lineage_source: (Type reference to national language document)
+  date_accepted: 2007-10-15T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: (samman)koppling
+      normative_status: preferred
+  _revisions:
+    current: b160c9
+    tree:
+      b160c9:
+        object:
+          id: 660
+          definition: |-
+            <inom informationsteknik> sammankoppling av informationssystem
+            med hjälp av datautbyte
+          country_code: swe
+          language_code: swe
+          notes:
+            - >-
+              Compare with integration. While the conceptual schema of the
+              information transferred shall be agreed upon to some level,
+              coupling applications can be and are usually flexible in the data
+              representation of that information as long as the semantics
+              content is correct and mappable to some canonical representation
+              of the conceptual schema. The most common mapping technology used
+              for XML messages is XSLT, and the transformation stylesheet can be
+              supplied either by the service broker or by the service provider.
+              It is considered a best practice for a service provider to supply
+              his functionality through several logically equivalent messaging
+              APIs, each represented by a different URI linked to an XSLT
+              transformation bridge, and implemented by the same internal code.
+            - >-
+              Loose coupling and tight coupling are not at present well-defined
+              terms in the literature. Generally, "tight" coupling means that
+              there is some sort of incurred dependency between requester and
+              responder in the use of the interface, while "loose" means no such
+              dependency. The nature of that dependency is not consistently
+              defined between authors.  In that light, "tight" coupling or
+              "tight" integration are both bad practices, and have been viewed
+              as such since the inception of the terms. Some literature refers
+              to integration as "tight coupling", but that is a less accurate
+              description.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19132:2007'
+            link: 'https://www.iso.org/standard/40601.html'
+          lineage_source: (Type reference to national language document)
+          date_accepted: 2007-10-15T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: (samman)koppling
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-10-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

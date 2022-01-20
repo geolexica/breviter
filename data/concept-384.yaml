@@ -1,0 +1,534 @@
+term: response
+termid: 384
+eng:
+  id: 384
+  definition: result of an operation returned from a server to a client
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19128:2005'
+    link: 'https://www.iso.org/standard/32546.html'
+  date_accepted: 2005-12-01T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: response
+      normative_status: preferred
+  _revisions:
+    current: 4e5b93
+    tree:
+      4e5b93:
+        object:
+          id: 384
+          definition: result of an operation returned from a server to a client
+          language_code: eng
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19128:2005'
+            link: 'https://www.iso.org/standard/32546.html'
+          date_accepted: 2005-12-01T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: response
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-12-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+ara:
+  id: 384
+  definition: نتيجة عملية معينة عائدة من الحاسب الخادم إلى العميل
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19128:2005'
+    link: 'https://www.iso.org/standard/32546.html'
+  date_accepted: 2005-12-01T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: استجابة
+      normative_status: preferred
+  _revisions:
+    current: 1c7a92
+    tree:
+      1c7a92:
+        object:
+          id: 384
+          definition: نتيجة عملية معينة عائدة من الحاسب الخادم إلى العميل
+          language_code: ara
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19128:2005'
+            link: 'https://www.iso.org/standard/32546.html'
+          date_accepted: 2005-12-01T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: استجابة
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-12-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+zho:
+  id: 384
+  definition: 由服务器端返回给客户端的一个操作结果。
+  language_code: zho
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19128:2005'
+    link: 'https://www.iso.org/standard/32546.html'
+  date_accepted: 2005-12-01T00:00:00.000Z
+  terms:
+    - type: expression
+      designation: 响应
+      normative_status: preferred
+  _revisions:
+    current: 5a0c67
+    tree:
+      5a0c67:
+        object:
+          id: 384
+          definition: 由服务器端返回给客户端的一个操作结果。
+          language_code: zho
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19128:2005'
+            link: 'https://www.iso.org/standard/32546.html'
+          date_accepted: 2005-12-01T00:00:00.000Z
+          terms:
+            - type: expression
+              designation: 响应
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-12-01T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+fin:
+  id: 384
+  definition: >-
+    tietokoneen tai ohjelman toiselle tietokoneelle tai ohjelmalle palauttama
+    toiminnon tulos
+  language_code: fin
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19128:2005'
+    link: 'https://www.iso.org/standard/32546.html'
+  lineage_source: 'Sanastokeskus TSK: Geoinformatiikan sanasto (TSK 45), 2013'
+  date_accepted: 2013-07-03T00:00:00.000Z
+  terms:
+    - type: expression
+      designation: vastaus
+      normative_status: preferred
+    - designation: vaste
+      type: expression
+  _revisions:
+    current: '763789'
+    tree:
+      '763789':
+        object:
+          id: 384
+          definition: >-
+            tietokoneen tai ohjelman toiselle tietokoneelle tai ohjelmalle
+            palauttama toiminnon tulos
+          language_code: fin
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19128:2005'
+            link: 'https://www.iso.org/standard/32546.html'
+          lineage_source: 'Sanastokeskus TSK: Geoinformatiikan sanasto (TSK 45), 2013'
+          date_accepted: 2013-07-03T00:00:00.000Z
+          terms:
+            - type: expression
+              designation: vastaus
+              normative_status: preferred
+            - designation: vaste
+              type: expression
+        parents: []
+        timeCreated: 2013-07-03T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+fra:
+  id: 384
+  definition: résultat d’une opération renvoyé d’un serveur à un client
+  language_code: fra
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: ISO 19128
+    link: 'https://www.iso.org/standard/32546.html'
+  lineage_source: ''
+  date_accepted: 2005-12-01T00:00:00.000Z
+  terms:
+    - type: expression
+      designation: réponse
+      normative_status: preferred
+  _revisions:
+    current: 5e9b93
+    tree:
+      5e9b93:
+        object:
+          id: 384
+          definition: résultat d’une opération renvoyé d’un serveur à un client
+          language_code: fra
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: ISO 19128
+            link: 'https://www.iso.org/standard/32546.html'
+          lineage_source: ''
+          date_accepted: 2005-12-01T00:00:00.000Z
+          terms:
+            - type: expression
+              designation: réponse
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-12-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+deu:
+  id: 384
+  definition: >-
+    Ergebnis einer Operation, das von einem Server an einen Client zurückgegeben
+    wird
+  language_code: deu
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19128:2005'
+    link: 'https://www.iso.org/standard/32546.html'
+  date_accepted: 2005-12-01T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: 'Antwort (Syn.: Ergebnis)'
+      normative_status: preferred
+  _revisions:
+    current: 0aa406
+    tree:
+      0aa406:
+        object:
+          id: 384
+          definition: >-
+            Ergebnis einer Operation, das von einem Server an einen Client
+            zurückgegeben wird
+          language_code: deu
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19128:2005'
+            link: 'https://www.iso.org/standard/32546.html'
+          date_accepted: 2005-12-01T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: 'Antwort (Syn.: Ergebnis)'
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-12-01T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+kor:
+  id: 384
+  definition: 서버로부터 클라이언트로 반환되는 연산의 결과
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19128:2005'
+    link: 'https://www.iso.org/standard/32546.html'
+  lineage_source: KS X ISO 19128
+  date_accepted: 2009-12-29T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: 응답
+      normative_status: preferred
+  _revisions:
+    current: 6a77f2
+    tree:
+      6a77f2:
+        object:
+          id: 384
+          definition: 서버로부터 클라이언트로 반환되는 연산의 결과
+          language_code: kor
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19128:2005'
+            link: 'https://www.iso.org/standard/32546.html'
+          lineage_source: KS X ISO 19128
+          date_accepted: 2009-12-29T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: 응답
+              normative_status: preferred
+        parents: []
+        timeCreated: 2009-12-29T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+msa:
+  id: 384
+  definition: >-
+    Hasil operasi proses yang dibuat oleh pelayan/server dikembalikan kepada
+    pelanggan
+  language_code: msa
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19128:2005'
+    link: 'https://www.iso.org/standard/32546.html'
+  date_accepted: 2005-12-01T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: tindak balas
+      normative_status: preferred
+  _revisions:
+    current: bb5dec
+    tree:
+      bb5dec:
+        object:
+          id: 384
+          definition: >-
+            Hasil operasi proses yang dibuat oleh pelayan/server dikembalikan
+            kepada pelanggan
+          language_code: msa
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19128:2005'
+            link: 'https://www.iso.org/standard/32546.html'
+          date_accepted: 2005-12-01T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: tindak balas
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-12-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+pol:
+  id: 384
+  definition: wynik operacji zwrócony klientowi przez serwer
+  language_code: pol
+  notes: []
+  examples: []
+  authoritative_source:
+    ref: 'ISO 19128:2005'
+    link: 'https://www.iso.org/standard/32546.html'
+  lineage_source: PN-EN-ISO 19128
+  date_accepted: 2005-12-01T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: odpowiedź
+      normative_status: preferred
+  _revisions:
+    current: c9c659
+    tree:
+      c9c659:
+        object:
+          id: 384
+          definition: wynik operacji zwrócony klientowi przez serwer
+          language_code: pol
+          notes: []
+          examples: []
+          authoritative_source:
+            ref: 'ISO 19128:2005'
+            link: 'https://www.iso.org/standard/32546.html'
+          lineage_source: PN-EN-ISO 19128
+          date_accepted: 2005-12-01T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: odpowiedź
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-12-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 384
+  definition: 'результат операции, возвращаемый сервером клиенту'
+  language_code: rus
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19128:2005'
+    link: 'https://www.iso.org/standard/32546.html'
+  lineage_source: Internet
+  date_accepted: 2005-12-01T00:00:00.000Z
+  terms:
+    - type: expression
+      designation: отклик
+      normative_status: preferred
+  _revisions:
+    current: 10d102
+    tree:
+      10d102:
+        object:
+          id: 384
+          definition: 'результат операции, возвращаемый сервером клиенту'
+          language_code: rus
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19128:2005'
+            link: 'https://www.iso.org/standard/32546.html'
+          lineage_source: Internet
+          date_accepted: 2005-12-01T00:00:00.000Z
+          terms:
+            - type: expression
+              designation: отклик
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-12-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 384
+  definition: resultado de una operación devuelta por un servidor a un cliente
+  language_code: spa
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19128:2005'
+    link: 'https://www.iso.org/standard/32546.html'
+  date_accepted: 2005-12-01T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: respuesta
+      normative_status: preferred
+  _revisions:
+    current: 469d33
+    tree:
+      469d33:
+        object:
+          id: 384
+          definition: resultado de una operación devuelta por un servidor a un cliente
+          language_code: spa
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19128:2005'
+            link: 'https://www.iso.org/standard/32546.html'
+          date_accepted: 2005-12-01T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: respuesta
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-12-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+swe:
+  id: 384
+  definition: <från program> resultat som returneras
+  country_code: swe
+  language_code: swe
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19128:2005'
+    link: 'https://www.iso.org/standard/32546.html'
+  lineage_source: (Type reference to national language document)
+  date_accepted: 2005-12-01T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: svar
+      normative_status: preferred
+  _revisions:
+    current: 25bd5e
+    tree:
+      25bd5e:
+        object:
+          id: 384
+          definition: <från program> resultat som returneras
+          country_code: swe
+          language_code: swe
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19128:2005'
+            link: 'https://www.iso.org/standard/32546.html'
+          lineage_source: (Type reference to national language document)
+          date_accepted: 2005-12-01T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: svar
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-12-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

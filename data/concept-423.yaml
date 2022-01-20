@@ -1,0 +1,491 @@
+term: spatiotemporal domain <coverage>
+termid: 423
+eng:
+  id: 423
+  definition: domain composed of spatiotemporal objects
+  language_code: eng
+  notes:
+    - >-
+      The spatiotemporal domain of a continuous coverage consists of a set of
+      direct positions defined in relation to a collection of spatiotemporal
+      objects.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19123:2005'
+    link: 'https://www.iso.org/standard/40121.html'
+  date_accepted: 2005-08-15T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: spatiotemporal domain <coverage>
+      normative_status: preferred
+  _revisions:
+    current: 74ef35
+    tree:
+      74ef35:
+        object:
+          id: 423
+          definition: domain composed of spatiotemporal objects
+          language_code: eng
+          notes:
+            - >-
+              The spatiotemporal domain of a continuous coverage consists of a
+              set of direct positions defined in relation to a collection of
+              spatiotemporal objects.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19123:2005'
+            link: 'https://www.iso.org/standard/40121.html'
+          date_accepted: 2005-08-15T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: spatiotemporal domain <coverage>
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-08-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+ara:
+  id: 423
+  definition: مجال مؤلف من كائنات مكانية – زمانية
+  language_code: ara
+  notes:
+    - >-
+      يتكون المجال المكاني- الزماني للتغطية المستمرة من مجموعة من المواقع
+      المباشرة يتم تعريفها من خلال العلاقة بينها وبين مجموعة من الكيانات
+      المكانية-الزمانية.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19123:2005'
+    link: 'https://www.iso.org/standard/40121.html'
+  date_accepted: 2005-08-15T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: مجال مكاني – زماني (تغطية)
+      normative_status: preferred
+  _revisions:
+    current: 16d205
+    tree:
+      16d205:
+        object:
+          id: 423
+          definition: مجال مؤلف من كائنات مكانية – زمانية
+          language_code: ara
+          notes:
+            - >-
+              يتكون المجال المكاني- الزماني للتغطية المستمرة من مجموعة من
+              المواقع المباشرة يتم تعريفها من خلال العلاقة بينها وبين مجموعة من
+              الكيانات المكانية-الزمانية.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19123:2005'
+            link: 'https://www.iso.org/standard/40121.html'
+          date_accepted: 2005-08-15T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: مجال مكاني – زماني (تغطية)
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-08-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+zho:
+  id: 423
+  definition: 由时空对象所组成的域。
+  language_code: zho
+  notes:
+    - 连续覆盖的时空域包括一组直接位置，它们与几何对象集合相关联。
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19123:2005'
+    link: 'https://www.iso.org/standard/40121.html'
+  date_accepted: 2005-08-15T00:00:00.000Z
+  terms:
+    - type: expression
+      designation: 时空域<覆盖>
+      normative_status: preferred
+  _revisions:
+    current: ef34de
+    tree:
+      ef34de:
+        object:
+          id: 423
+          definition: 由时空对象所组成的域。
+          language_code: zho
+          notes:
+            - 连续覆盖的时空域包括一组直接位置，它们与几何对象集合相关联。
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19123:2005'
+            link: 'https://www.iso.org/standard/40121.html'
+          date_accepted: 2005-08-15T00:00:00.000Z
+          terms:
+            - type: expression
+              designation: 时空域<覆盖>
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-08-15T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+fin:
+  id: 423
+  definition: spatiotemporaalisista objekteista koostuva määritysjoukko
+  language_code: fin
+  notes:
+    - >-
+      Jatkuvan paikkatietojakauman spatiotemporaalinen joukko koostuu
+      pistejoukosta, joka on määritetty suhteessa joukkoon spatiotemporaalisia
+      objekteja.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19123:2005'
+    link: 'https://www.iso.org/standard/40121.html'
+  lineage_source: 'Ei lähdettä, käännetty'
+  date_accepted: 2005-08-15T00:00:00.000Z
+  terms:
+    - type: expression
+      designation: spatiotemporaalinen joukko <paikkatietojakauma>
+      normative_status: preferred
+  _revisions:
+    current: 1b1770
+    tree:
+      1b1770:
+        object:
+          id: 423
+          definition: spatiotemporaalisista objekteista koostuva määritysjoukko
+          language_code: fin
+          notes:
+            - >-
+              Jatkuvan paikkatietojakauman spatiotemporaalinen joukko koostuu
+              pistejoukosta, joka on määritetty suhteessa joukkoon
+              spatiotemporaalisia objekteja.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19123:2005'
+            link: 'https://www.iso.org/standard/40121.html'
+          lineage_source: 'Ei lähdettä, käännetty'
+          date_accepted: 2005-08-15T00:00:00.000Z
+          terms:
+            - type: expression
+              designation: spatiotemporaalinen joukko <paikkatietojakauma>
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-08-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+fra:
+  id: 423
+  definition: domaine composé d'objets spatio-temporels
+  language_code: fra
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: ISO 19123
+    link: 'https://www.iso.org/standard/40121.html'
+  lineage_source: ''
+  date_accepted: 2005-08-15T00:00:00.000Z
+  terms:
+    - type: expression
+      designation: domaine spatio-temporel <couverture>
+      normative_status: preferred
+  _revisions:
+    current: '151e97'
+    tree:
+      '151e97':
+        object:
+          id: 423
+          definition: domaine composé d'objets spatio-temporels
+          language_code: fra
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: ISO 19123
+            link: 'https://www.iso.org/standard/40121.html'
+          lineage_source: ''
+          date_accepted: 2005-08-15T00:00:00.000Z
+          terms:
+            - type: expression
+              designation: domaine spatio-temporel <couverture>
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-08-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+kor:
+  id: 423
+  definition: 시공간 객체로 구성된 영역
+  language_code: kor
+  notes:
+    - 연속 커버리지의 시공간 영역은 시공간객체의 모음에 대한 관계로 정의된 직접 위치의 집합으로 구성된다.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19123:2005'
+    link: 'https://www.iso.org/standard/40121.html'
+  lineage_source: KS X ISO 19123
+  date_accepted: 2007-11-01T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: 시공간 영역 <커버리지>
+      normative_status: preferred
+  _revisions:
+    current: cdc785
+    tree:
+      cdc785:
+        object:
+          id: 423
+          definition: 시공간 객체로 구성된 영역
+          language_code: kor
+          notes:
+            - 연속 커버리지의 시공간 영역은 시공간객체의 모음에 대한 관계로 정의된 직접 위치의 집합으로 구성된다.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19123:2005'
+            link: 'https://www.iso.org/standard/40121.html'
+          lineage_source: KS X ISO 19123
+          date_accepted: 2007-11-01T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: 시공간 영역 <커버리지>
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-11-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+pol:
+  id: 423
+  definition: <pokrycie>Dziedzina złożona z obiektów czasoprzestrzennych
+  language_code: pol
+  notes:
+    - >-
+      Dziedzina czasoprzestrzenna pokrycia ciągłego jest zbiorem bezpośrednich
+      położeń zdefiniowanych w relacji do kolekcji obiektów czasoprzestrzennych.
+  examples: []
+  authoritative_source:
+    ref: 'ISO 19123:2005'
+    link: 'https://www.iso.org/standard/40121.html'
+  lineage_source: PN-EN ISO 19123
+  date_accepted: 2005-08-15T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: dziedzina czasoprzestrzenna
+      normative_status: preferred
+  _revisions:
+    current: 53abb7
+    tree:
+      53abb7:
+        object:
+          id: 423
+          definition: <pokrycie>Dziedzina złożona z obiektów czasoprzestrzennych
+          language_code: pol
+          notes:
+            - >-
+              Dziedzina czasoprzestrzenna pokrycia ciągłego jest zbiorem
+              bezpośrednich położeń zdefiniowanych w relacji do kolekcji
+              obiektów czasoprzestrzennych.
+          examples: []
+          authoritative_source:
+            ref: 'ISO 19123:2005'
+            link: 'https://www.iso.org/standard/40121.html'
+          lineage_source: PN-EN ISO 19123
+          date_accepted: 2005-08-15T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: dziedzina czasoprzestrzenna
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-08-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 423
+  definition: 'область, составленная из пространственно-временных объектов'
+  language_code: rus
+  notes:
+    - >-
+      Пространственно-временнáя область непрерывного покрытия состоит из
+      множества точек, определенных относительно совокупности
+      пространственно-временных объектов
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19123:2005'
+    link: 'https://www.iso.org/standard/40121.html'
+  lineage_source: Internet
+  date_accepted: 2005-08-15T00:00:00.000Z
+  terms:
+    - type: expression
+      designation: пространственно-временнáя область <покрытие>
+      normative_status: preferred
+  _revisions:
+    current: 9b4e1d
+    tree:
+      9b4e1d:
+        object:
+          id: 423
+          definition: 'область, составленная из пространственно-временных объектов'
+          language_code: rus
+          notes:
+            - >-
+              Пространственно-временнáя область непрерывного покрытия состоит из
+              множества точек, определенных относительно совокупности
+              пространственно-временных объектов
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19123:2005'
+            link: 'https://www.iso.org/standard/40121.html'
+          lineage_source: Internet
+          date_accepted: 2005-08-15T00:00:00.000Z
+          terms:
+            - type: expression
+              designation: пространственно-временнáя область <покрытие>
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-08-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 423
+  definition: '"cobertura" dominio compuesto de objetos espacio-temporales'
+  language_code: spa
+  notes:
+    - >-
+      El dominio espacio-temporal de una cobertura continua consta de un
+      conjunto de posiciones directas definidas en relación con una colección de
+      objetos espacio-temporales.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19123:2005'
+    link: 'https://www.iso.org/standard/40121.html'
+  date_accepted: 2005-08-15T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: dominio espacio-temporal <cobertura>
+      normative_status: preferred
+  _revisions:
+    current: fb221c
+    tree:
+      fb221c:
+        object:
+          id: 423
+          definition: '"cobertura" dominio compuesto de objetos espacio-temporales'
+          language_code: spa
+          notes:
+            - >-
+              El dominio espacio-temporal de una cobertura continua consta de un
+              conjunto de posiciones directas definidas en relación con una
+              colección de objetos espacio-temporales.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19123:2005'
+            link: 'https://www.iso.org/standard/40121.html'
+          date_accepted: 2005-08-15T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: dominio espacio-temporal <cobertura>
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-08-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+swe:
+  id: 423
+  definition: '(för domänobjekt):samling av rumstemporala objekt'
+  country_code: swe
+  language_code: swe
+  notes:
+    - >-
+      The spatiotemporal domain of a continuous coverage consists of a set of
+      direct positions defined in relation to a collection of spatiotemporal
+      objects.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19123:2005'
+    link: 'https://www.iso.org/standard/40121.html'
+  lineage_source: (Type reference to national language document)
+  date_accepted: 2005-08-15T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: domän
+      normative_status: preferred
+  _revisions:
+    current: aa1df8
+    tree:
+      aa1df8:
+        object:
+          id: 423
+          definition: '(för domänobjekt):samling av rumstemporala objekt'
+          country_code: swe
+          language_code: swe
+          notes:
+            - >-
+              The spatiotemporal domain of a continuous coverage consists of a
+              set of direct positions defined in relation to a collection of
+              spatiotemporal objects.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19123:2005'
+            link: 'https://www.iso.org/standard/40121.html'
+          lineage_source: (Type reference to national language document)
+          date_accepted: 2005-08-15T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: domän
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-08-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

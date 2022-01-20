@@ -1,0 +1,221 @@
+term: persistent protection mechanism
+termid: 1244
+eng:
+  id: 1244
+  definition: >-
+    protection mechanism that remains in force regardless of where the content
+    of the original resource is located or reproduced
+  language_code: eng
+  notes:
+    - >-
+      Persistent protection mechanisms involve authentication, authorization,
+      and encryption technologies for effectively locking digital contents and
+      limiting distribution to those who pay.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19153:2014'
+    clause: '4.37'
+    link: 'https://www.iso.org/standard/32571.html'
+  date_accepted: 2014-02-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: persistent protection mechanism
+      normative_status: preferred
+  _revisions:
+    current: acaac4
+    tree:
+      acaac4:
+        object:
+          id: 1244
+          definition: >-
+            protection mechanism that remains in force regardless of where the
+            content of the original resource is located or reproduced
+          language_code: eng
+          notes:
+            - >-
+              Persistent protection mechanisms involve authentication,
+              authorization, and encryption technologies for effectively locking
+              digital contents and limiting distribution to those who pay.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19153:2014'
+            clause: '4.37'
+            link: 'https://www.iso.org/standard/32571.html'
+          date_accepted: 2014-02-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: persistent protection mechanism
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+kor:
+  id: 1244
+  definition: 원시 자료 내용이 위치하거나 재생산되는 장소에 무관하게 유효한 보호 작동원리
+  language_code: kor
+  notes:
+    - >-
+      Persistent protection mechanisms involve authentication, authorization,
+      and encryption technologies for effectively locking digital contents and
+      limiting distribution to those who pay.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19153:2014'
+    clause: '4.37'
+    link: 'https://www.iso.org/standard/32571.html'
+  date_accepted: 2014-02-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: 지속적 보호 작동원리
+      normative_status: preferred
+  _revisions:
+    current: 5e7c6b
+    tree:
+      5e7c6b:
+        object:
+          id: 1244
+          definition: 원시 자료 내용이 위치하거나 재생산되는 장소에 무관하게 유효한 보호 작동원리
+          language_code: kor
+          notes:
+            - >-
+              Persistent protection mechanisms involve authentication,
+              authorization, and encryption technologies for effectively locking
+              digital contents and limiting distribution to those who pay.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19153:2014'
+            clause: '4.37'
+            link: 'https://www.iso.org/standard/32571.html'
+          date_accepted: 2014-02-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: 지속적 보호 작동원리
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 1244
+  definition: >-
+    механизм защиты, который остается в силе независимо от того, где находится
+    или воспроизводится содержимое исходного ресурса
+  language_code: rus
+  notes:
+    - >-
+      постоянные механизмы защиты включают технологии аутентификации,
+      авторизации и шифрования для эффективной блокировки цифрового содержимого
+      и ограничения распространения среди тех, кто платит.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19153:2014'
+    clause: '4.37'
+    link: 'https://www.iso.org/standard/32571.html'
+  lineage_source: 'перевод ИСО 19153:2014'
+  date_accepted: 2014-02-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: механизм постоянной защиты
+      normative_status: preferred
+  _revisions:
+    current: ddfc9d
+    tree:
+      ddfc9d:
+        object:
+          id: 1244
+          definition: >-
+            механизм защиты, который остается в силе независимо от того, где
+            находится или воспроизводится содержимое исходного ресурса
+          language_code: rus
+          notes:
+            - >-
+              постоянные механизмы защиты включают технологии аутентификации,
+              авторизации и шифрования для эффективной блокировки цифрового
+              содержимого и ограничения распространения среди тех, кто платит.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19153:2014'
+            clause: '4.37'
+            link: 'https://www.iso.org/standard/32571.html'
+          lineage_source: 'перевод ИСО 19153:2014'
+          date_accepted: 2014-02-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: механизм постоянной защиты
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 1244
+  definition: >-
+    mecanismo de protección que permanece activo independientemente de dónde
+    está localizado o se está reproduciendo el recurso original
+  language_code: spa
+  notes:
+    - >-
+      Los mecanismos de protección permanente incluyen tecnologías de
+      autenticación, autorización y encriptación para bloquear con eficacia los
+      contenidos digitales y limitar su distribución sólo a los que pagan.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19153:2014'
+    clause: '4.37'
+    link: 'https://www.iso.org/standard/32571.html'
+  date_accepted: 2014-02-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: mecanismo de protección persistente
+      normative_status: preferred
+  _revisions:
+    current: 54b018
+    tree:
+      54b018:
+        object:
+          id: 1244
+          definition: >-
+            mecanismo de protección que permanece activo independientemente de
+            dónde está localizado o se está reproduciendo el recurso original
+          language_code: spa
+          notes:
+            - >-
+              Los mecanismos de protección permanente incluyen tecnologías de
+              autenticación, autorización y encriptación para bloquear con
+              eficacia los contenidos digitales y limitar su distribución sólo a
+              los que pagan.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19153:2014'
+            clause: '4.37'
+            link: 'https://www.iso.org/standard/32571.html'
+          date_accepted: 2014-02-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: mecanismo de protección persistente
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

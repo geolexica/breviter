@@ -1,0 +1,75 @@
+term: spatio-parametric coordinate reference system
+termid: 2320
+eng:
+  id: 2320
+  definition: >-
+    compound coordinate reference system in which one constituent coordinate
+    reference system is a spatial coordinate reference system and one is a
+    parametric coordinate reference system
+  language_code: eng
+  notes:
+    - >-
+      Normally the spatial component is "horizontal" and the parametric
+      component is "vertical".
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19111:2019'
+    clause: '(E), 3.1.57'
+    link: 'https://www.iso.org/standard/74039.html'
+  date_accepted: 2019-01-31T00:00:00.000Z
+  review_date: 2019-01-31T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2019-01-31T00:00:00.000Z
+  review_decision_event: 'Publication of document ISO 19111:2019(E)'
+  review_decision_notes: >-
+    This entry supersedes the entry for spatio-parametric coordinate reference
+    system in ISO 19111-2:2009(E)
+  release: '5'
+  terms:
+    - type: expression
+      designation: spatio-parametric coordinate reference system
+      normative_status: preferred
+  _revisions:
+    current: 791b7e
+    tree:
+      791b7e:
+        object:
+          id: 2320
+          definition: >-
+            compound coordinate reference system in which one constituent
+            coordinate reference system is a spatial coordinate reference system
+            and one is a parametric coordinate reference system
+          language_code: eng
+          notes:
+            - >-
+              Normally the spatial component is "horizontal" and the parametric
+              component is "vertical".
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19111:2019'
+            clause: '(E), 3.1.57'
+            link: 'https://www.iso.org/standard/74039.html'
+          date_accepted: 2019-01-31T00:00:00.000Z
+          review_date: 2019-01-31T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2019-01-31T00:00:00.000Z
+          review_decision_event: 'Publication of document ISO 19111:2019(E)'
+          review_decision_notes: >-
+            This entry supersedes the entry for spatio-parametric coordinate
+            reference system in ISO 19111-2:2009(E)
+          release: '5'
+          terms:
+            - type: expression
+              designation: spatio-parametric coordinate reference system
+              normative_status: preferred
+        parents: []
+        timeCreated: 2019-01-31T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

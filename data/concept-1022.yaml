@@ -1,0 +1,223 @@
+term: identification convention
+termid: 1022
+eng:
+  id: 1022
+  definition: set of rules for creating identifiers
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19118:2011'
+    clause: '4.21'
+    link: 'https://www.iso.org/standard/44212.html'
+  date_accepted: 2011-10-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: identification convention
+      normative_status: preferred
+  _revisions:
+    current: b0a49a
+    tree:
+      b0a49a:
+        object:
+          id: 1022
+          definition: set of rules for creating identifiers
+          language_code: eng
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19118:2011'
+            clause: '4.21'
+            link: 'https://www.iso.org/standard/44212.html'
+          date_accepted: 2011-10-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: identification convention
+              normative_status: preferred
+        parents: []
+        timeCreated: 2011-10-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+kor:
+  id: 1022
+  definition: 식별자를 만드는데 필요한 규칙의 집합
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19118:2011'
+    clause: '4.21'
+    link: 'https://www.iso.org/standard/44212.html'
+  date_accepted: 2011-10-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: 식별 협약
+      normative_status: preferred
+  _revisions:
+    current: e337e7
+    tree:
+      e337e7:
+        object:
+          id: 1022
+          definition: 식별자를 만드는데 필요한 규칙의 집합
+          language_code: kor
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19118:2011'
+            clause: '4.21'
+            link: 'https://www.iso.org/standard/44212.html'
+          date_accepted: 2011-10-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: 식별 협약
+              normative_status: preferred
+        parents: []
+        timeCreated: 2011-10-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 1022
+  definition: набор правил для создания идентификаторов
+  language_code: rus
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19118:2011'
+    clause: '4.21'
+    link: 'https://www.iso.org/standard/44212.html'
+  lineage_source: 'перевод ИСО 19118:2011'
+  date_accepted: 2011-10-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: Соглашение об идентификации
+      normative_status: preferred
+  _revisions:
+    current: b07af1
+    tree:
+      b07af1:
+        object:
+          id: 1022
+          definition: набор правил для создания идентификаторов
+          language_code: rus
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19118:2011'
+            clause: '4.21'
+            link: 'https://www.iso.org/standard/44212.html'
+          lineage_source: 'перевод ИСО 19118:2011'
+          date_accepted: 2011-10-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: Соглашение об идентификации
+              normative_status: preferred
+        parents: []
+        timeCreated: 2011-10-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 1022
+  definition: conjunto de reglas para crear identificadores
+  language_code: spa
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19118:2011'
+    clause: '4.21'
+    link: 'https://www.iso.org/standard/44212.html'
+  date_accepted: 2011-10-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: convención de identificación
+      normative_status: preferred
+  _revisions:
+    current: b900fc
+    tree:
+      b900fc:
+        object:
+          id: 1022
+          definition: conjunto de reglas para crear identificadores
+          language_code: spa
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19118:2011'
+            clause: '4.21'
+            link: 'https://www.iso.org/standard/44212.html'
+          date_accepted: 2011-10-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: convención de identificación
+              normative_status: preferred
+        parents: []
+        timeCreated: 2011-10-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+swe:
+  id: 1022
+  definition: uppsättning regler för hur identifierare skapas
+  country_code: swe
+  language_code: swe
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19118:2011'
+    clause: '4.21'
+    link: 'https://www.iso.org/standard/44212.html'
+  lineage_source: (Type reference to national language document)
+  date_accepted: 2011-10-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: identifieringskonvention
+      normative_status: preferred
+  _revisions:
+    current: 1b4800
+    tree:
+      1b4800:
+        object:
+          id: 1022
+          definition: uppsättning regler för hur identifierare skapas
+          country_code: swe
+          language_code: swe
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19118:2011'
+            clause: '4.21'
+            link: 'https://www.iso.org/standard/44212.html'
+          lineage_source: (Type reference to national language document)
+          date_accepted: 2011-10-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: identifieringskonvention
+              normative_status: preferred
+        parents: []
+        timeCreated: 2011-10-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

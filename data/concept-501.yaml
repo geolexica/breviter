@@ -1,0 +1,939 @@
+term: local datum
+termid: 501
+eng:
+  id: 501
+  definition: >-
+    datum describing the relationship of a coordinate system to a local
+    reference
+  language_code: eng
+  notes:
+    - Engineering datum excludes both geodetic and vertical datums.
+  examples:
+    - >-
+      A system for identifying relative positions within a few kilometres of the
+      reference point.
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19111:2019'
+    clause: '(E), 3.1.26'
+    link: 'https://www.iso.org/standard/74039.html'
+  lineage_source: 'ISO 19111:2003'
+  lineage_source_similarity: 1
+  date_accepted: 2003-02-15T00:00:00.000Z
+  review_date: 2019-01-31T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-01-31T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19111:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19111:2007 to ISO 19111:2019(E),
+    3.1.26. Lineage source added as ISO 19111:2003
+  release: '1'
+  terms:
+    - type: expression
+      designation: local datum
+      normative_status: admitted
+    - designation: engineering datum
+      type: expression
+  _revisions:
+    current: 9c5890
+    tree:
+      9c5890:
+        object:
+          id: 501
+          definition: >-
+            datum describing the relationship of a coordinate system to a local
+            reference
+          language_code: eng
+          notes:
+            - Engineering datum excludes both geodetic and vertical datums.
+          examples:
+            - >-
+              A system for identifying relative positions within a few
+              kilometres of the reference point.
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19111:2019'
+            clause: '(E), 3.1.26'
+            link: 'https://www.iso.org/standard/74039.html'
+          lineage_source: 'ISO 19111:2003'
+          lineage_source_similarity: 1
+          date_accepted: 2003-02-15T00:00:00.000Z
+          review_date: 2019-01-31T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-01-31T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19111:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19111:2007 to ISO
+            19111:2019(E), 3.1.26. Lineage source added as ISO 19111:2003
+          release: '1'
+          terms:
+            - type: expression
+              designation: local datum
+              normative_status: admitted
+            - designation: engineering datum
+              type: expression
+        parents: []
+        timeCreated: 2003-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+ara:
+  id: 501
+  definition: مرجع إسناد يصف علاقة نظام للإحداثيات بمرجع محلي
+  language_code: ara
+  notes:
+    - >-
+      مرجع الإسناد الهندسي يستبعد كلاً من مرجع الإسناد الجيوديسي و مرجع الإسناد
+      الرأسي جميعاً.
+  examples:
+    - نظام لتحديد المواقع النسبية على مسافة كيلو مترات قليلة من النقطة المرجعية.
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19111:2019'
+    clause: '(E), 3.1.26'
+    link: 'https://www.iso.org/standard/74039.html'
+  lineage_source: 'ISO 19111:2003'
+  lineage_source_similarity: 1
+  date_accepted: 2003-02-15T00:00:00.000Z
+  review_date: 2019-01-31T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-01-31T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19111:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19111:2007 to ISO 19111:2019(E),
+    3.1.26. Lineage source added as ISO 19111:2003
+  release: '1'
+  terms:
+    - type: expression
+      designation: مرجع إسناد محلي
+      normative_status: admitted
+    - designation: engineering datum
+      type: expression
+  _revisions:
+    current: '7080e1'
+    tree:
+      '7080e1':
+        object:
+          id: 501
+          definition: مرجع إسناد يصف علاقة نظام للإحداثيات بمرجع محلي
+          language_code: ara
+          notes:
+            - >-
+              مرجع الإسناد الهندسي يستبعد كلاً من مرجع الإسناد الجيوديسي و مرجع
+              الإسناد الرأسي جميعاً.
+          examples:
+            - >-
+              نظام لتحديد المواقع النسبية على مسافة كيلو مترات قليلة من النقطة
+              المرجعية.
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19111:2019'
+            clause: '(E), 3.1.26'
+            link: 'https://www.iso.org/standard/74039.html'
+          lineage_source: 'ISO 19111:2003'
+          lineage_source_similarity: 1
+          date_accepted: 2003-02-15T00:00:00.000Z
+          review_date: 2019-01-31T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-01-31T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19111:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19111:2007 to ISO
+            19111:2019(E), 3.1.26. Lineage source added as ISO 19111:2003
+          release: '1'
+          terms:
+            - type: expression
+              designation: مرجع إسناد محلي
+              normative_status: admitted
+            - designation: engineering datum
+              type: expression
+        parents: []
+        timeCreated: 2003-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+zho:
+  id: 501
+  definition: 描述局部参照与坐标系关系的基准。
+  language_code: zho
+  notes:
+    - 工程基准不包括大地基准和高程基准。
+  examples:
+    - 确定在参照点若干公里范围内的相对位置的系统。
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19111:2019'
+    clause: '(E), 3.1.26'
+    link: 'https://www.iso.org/standard/74039.html'
+  lineage_source: 'ISO 19111:2003'
+  lineage_source_similarity: 1
+  date_accepted: 2003-02-15T00:00:00.000Z
+  review_date: 2019-01-31T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-01-31T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19111:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19111:2007 to ISO 19111:2019(E),
+    3.1.26. Lineage source added as ISO 19111:2003
+  release: '1'
+  terms:
+    - type: expression
+      designation: 地方基准
+      normative_status: admitted
+    - designation: engineering datum
+      type: expression
+  _revisions:
+    current: de5771
+    tree:
+      de5771:
+        object:
+          id: 501
+          definition: 描述局部参照与坐标系关系的基准。
+          language_code: zho
+          notes:
+            - 工程基准不包括大地基准和高程基准。
+          examples:
+            - 确定在参照点若干公里范围内的相对位置的系统。
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19111:2019'
+            clause: '(E), 3.1.26'
+            link: 'https://www.iso.org/standard/74039.html'
+          lineage_source: 'ISO 19111:2003'
+          lineage_source_similarity: 1
+          date_accepted: 2003-02-15T00:00:00.000Z
+          review_date: 2019-01-31T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-01-31T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19111:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19111:2007 to ISO
+            19111:2019(E), 3.1.26. Lineage source added as ISO 19111:2003
+          release: '1'
+          terms:
+            - type: expression
+              designation: 地方基准
+              normative_status: admitted
+            - designation: engineering datum
+              type: expression
+        parents: []
+        timeCreated: 2003-02-15T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+nld:
+  id: 501
+  definition: >-
+    datum welke de relatie van een coördinaatsysteem ten opzichte van een lokale
+    referentie beschrijft
+  language_code: nld
+  notes:
+    - Een lokaal datum is nooit een geodetisch of verticaal datum.
+  examples:
+    - >-
+      Een systeem voor het identificeren van relatieve posities binnen een paar
+      kilometer van een referentiepunt.
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19111:2019'
+    clause: '(E), 3.1.26'
+    link: 'https://www.iso.org/standard/74039.html'
+  lineage_source: 'ISO 19111:2003'
+  lineage_source_similarity: 1
+  date_accepted: 2003-02-15T00:00:00.000Z
+  review_date: 2019-01-31T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-01-31T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19111:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19111:2007 to ISO 19111:2019(E),
+    3.1.26. Lineage source added as ISO 19111:2003
+  release: '1'
+  terms:
+    - type: expression
+      designation: lokaal datum
+      normative_status: admitted
+    - designation: lokale datum
+      type: expression
+  _revisions:
+    current: 9f4c4d
+    tree:
+      9f4c4d:
+        object:
+          id: 501
+          definition: >-
+            datum welke de relatie van een coördinaatsysteem ten opzichte van
+            een lokale referentie beschrijft
+          language_code: nld
+          notes:
+            - Een lokaal datum is nooit een geodetisch of verticaal datum.
+          examples:
+            - >-
+              Een systeem voor het identificeren van relatieve posities binnen
+              een paar kilometer van een referentiepunt.
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19111:2019'
+            clause: '(E), 3.1.26'
+            link: 'https://www.iso.org/standard/74039.html'
+          lineage_source: 'ISO 19111:2003'
+          lineage_source_similarity: 1
+          date_accepted: 2003-02-15T00:00:00.000Z
+          review_date: 2019-01-31T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-01-31T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19111:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19111:2007 to ISO
+            19111:2019(E), 3.1.26. Lineage source added as ISO 19111:2003
+          release: '1'
+          terms:
+            - type: expression
+              designation: lokaal datum
+              normative_status: admitted
+            - designation: lokale datum
+              type: expression
+        parents: []
+        timeCreated: 2003-02-15T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+fin:
+  id: 501
+  definition: >-
+    datumi, joka määrittelee koordinaatiston mittakaavan, orientaation ja
+    sijainnin paikallisesti
+  language_code: fin
+  notes:
+    - >-
+      Geodeettista datumia ja korkeusdatumia ei käytetä paikallisen datumin
+      yhteydessä.
+  examples:
+    - >-
+      Järjestelmä, jolla määritetään suhteellisia sijainteja muutaman kilometrin
+      etäisyydellä vertauspisteestä.
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19111:2019'
+    clause: '(E), 3.1.26'
+    link: 'https://www.iso.org/standard/74039.html'
+  lineage_source: 'ISO 19111:2003'
+  lineage_source_similarity: 1
+  date_accepted: 2003-02-15T00:00:00.000Z
+  review_date: 2019-01-31T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-01-31T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19111:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19111:2007 to ISO 19111:2019(E),
+    3.1.26. Lineage source added as ISO 19111:2003
+  release: '1'
+  terms:
+    - type: expression
+      designation: paikallinen datumi
+      normative_status: preferred
+  _revisions:
+    current: 6832d3
+    tree:
+      6832d3:
+        object:
+          id: 501
+          definition: >-
+            datumi, joka määrittelee koordinaatiston mittakaavan, orientaation
+            ja sijainnin paikallisesti
+          language_code: fin
+          notes:
+            - >-
+              Geodeettista datumia ja korkeusdatumia ei käytetä paikallisen
+              datumin yhteydessä.
+          examples:
+            - >-
+              Järjestelmä, jolla määritetään suhteellisia sijainteja muutaman
+              kilometrin etäisyydellä vertauspisteestä.
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19111:2019'
+            clause: '(E), 3.1.26'
+            link: 'https://www.iso.org/standard/74039.html'
+          lineage_source: 'ISO 19111:2003'
+          lineage_source_similarity: 1
+          date_accepted: 2003-02-15T00:00:00.000Z
+          review_date: 2019-01-31T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-01-31T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19111:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19111:2007 to ISO
+            19111:2019(E), 3.1.26. Lineage source added as ISO 19111:2003
+          release: '1'
+          terms:
+            - type: expression
+              designation: paikallinen datumi
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+fra:
+  id: 501
+  definition: >-
+    donnée décrivant la relation d'un système de coordonnées à un référentiel
+    local
+  language_code: fra
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19111:2019'
+    clause: '(E), 3.1.26'
+    link: 'https://www.iso.org/standard/74039.html'
+  lineage_source: 'ISO 19111:2003'
+  lineage_source_similarity: 1
+  date_accepted: 2003-02-15T00:00:00.000Z
+  review_date: 2019-01-31T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-01-31T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19111:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19111:2007 to ISO 19111:2019(E),
+    3.1.26. Lineage source added as ISO 19111:2003
+  release: '1'
+  terms:
+    - type: expression
+      designation: référentiel local
+      normative_status: admitted
+    - designation: engineering datum
+      type: expression
+  _revisions:
+    current: b7cc0f
+    tree:
+      b7cc0f:
+        object:
+          id: 501
+          definition: >-
+            donnée décrivant la relation d'un système de coordonnées à un
+            référentiel local
+          language_code: fra
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19111:2019'
+            clause: '(E), 3.1.26'
+            link: 'https://www.iso.org/standard/74039.html'
+          lineage_source: 'ISO 19111:2003'
+          lineage_source_similarity: 1
+          date_accepted: 2003-02-15T00:00:00.000Z
+          review_date: 2019-01-31T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-01-31T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19111:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19111:2007 to ISO
+            19111:2019(E), 3.1.26. Lineage source added as ISO 19111:2003
+          release: '1'
+          terms:
+            - type: expression
+              designation: référentiel local
+              normative_status: admitted
+            - designation: engineering datum
+              type: expression
+        parents: []
+        timeCreated: 2003-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+deu:
+  id: 501
+  language_code: deu
+  notes:
+    - Engineering datum excludes both geodetic and vertical datums.
+  examples:
+    - >-
+      A system for identifying relative positions within a few kilometres of the
+      reference point.
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19111:2019'
+    clause: '(E), 3.1.26'
+    link: 'https://www.iso.org/standard/74039.html'
+  lineage_source: 'ISO 19111:2003'
+  lineage_source_similarity: 1
+  date_accepted: 2003-02-15T00:00:00.000Z
+  review_date: 2019-01-31T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-01-31T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19111:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19111:2007 to ISO 19111:2019(E),
+    3.1.26. Lineage source added as ISO 19111:2003
+  release: '1'
+  terms:
+    - type: expression
+      designation: lokales Datum
+      normative_status: admitted
+    - designation: engineering datum
+      type: expression
+  _revisions:
+    current: e74f59
+    tree:
+      e74f59:
+        object:
+          id: 501
+          language_code: deu
+          notes:
+            - Engineering datum excludes both geodetic and vertical datums.
+          examples:
+            - >-
+              A system for identifying relative positions within a few
+              kilometres of the reference point.
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19111:2019'
+            clause: '(E), 3.1.26'
+            link: 'https://www.iso.org/standard/74039.html'
+          lineage_source: 'ISO 19111:2003'
+          lineage_source_similarity: 1
+          date_accepted: 2003-02-15T00:00:00.000Z
+          review_date: 2019-01-31T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-01-31T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19111:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19111:2007 to ISO
+            19111:2019(E), 3.1.26. Lineage source added as ISO 19111:2003
+          release: '1'
+          terms:
+            - type: expression
+              designation: lokales Datum
+              normative_status: admitted
+            - designation: engineering datum
+              type: expression
+        parents: []
+        timeCreated: 2003-02-15T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+kor:
+  id: 501
+  definition: 좌표 체계와 지역 참조와의 관계를 설명하는 공학 데이텀
+  language_code: kor
+  notes:
+    - 공학 데이텀은 측지 원점 및 수직 데이텀 모두를 포함하지 않는다.
+  examples:
+    - 참조 점에서 몇 킬로미터 이내에 포함된 상대 위치를 식별하는 체계
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19111:2019'
+    clause: '(E), 3.1.26'
+    link: 'https://www.iso.org/standard/74039.html'
+  lineage_source: 'ISO 19111:2003'
+  lineage_source_similarity: 1
+  date_accepted: 2003-02-15T00:00:00.000Z
+  review_date: 2019-01-31T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-01-31T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19111:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19111:2007 to ISO 19111:2019(E),
+    3.1.26. Lineage source added as ISO 19111:2003
+  release: '1'
+  terms:
+    - type: expression
+      designation: 지역데이텀
+      normative_status: admitted
+  _revisions:
+    current: 00baba
+    tree:
+      00baba:
+        object:
+          id: 501
+          definition: 좌표 체계와 지역 참조와의 관계를 설명하는 공학 데이텀
+          language_code: kor
+          notes:
+            - 공학 데이텀은 측지 원점 및 수직 데이텀 모두를 포함하지 않는다.
+          examples:
+            - 참조 점에서 몇 킬로미터 이내에 포함된 상대 위치를 식별하는 체계
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19111:2019'
+            clause: '(E), 3.1.26'
+            link: 'https://www.iso.org/standard/74039.html'
+          lineage_source: 'ISO 19111:2003'
+          lineage_source_similarity: 1
+          date_accepted: 2003-02-15T00:00:00.000Z
+          review_date: 2019-01-31T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-01-31T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19111:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19111:2007 to ISO
+            19111:2019(E), 3.1.26. Lineage source added as ISO 19111:2003
+          release: '1'
+          terms:
+            - type: expression
+              designation: 지역데이텀
+              normative_status: admitted
+        parents: []
+        timeCreated: 2003-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+msa:
+  id: 501
+  definition: datum menggambarkan hubungan sistem koordinat dengan rujukan tempatan
+  language_code: msa
+  notes:
+    - Engineering datum excludes both geodetic and vertical datums.
+  examples:
+    - >-
+      A system for identifying relative positions within a few kilometres of the
+      reference point.
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19111:2019'
+    clause: '(E), 3.1.26'
+    link: 'https://www.iso.org/standard/74039.html'
+  lineage_source: 'ISO 19111:2003'
+  lineage_source_similarity: 1
+  date_accepted: 2003-02-15T00:00:00.000Z
+  review_date: 2019-01-31T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-01-31T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19111:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19111:2007 to ISO 19111:2019(E),
+    3.1.26. Lineage source added as ISO 19111:2003
+  release: '1'
+  terms:
+    - type: expression
+      designation: datum tempatan
+      normative_status: admitted
+    - designation: engineering datum
+      type: expression
+  _revisions:
+    current: 08aad6
+    tree:
+      08aad6:
+        object:
+          id: 501
+          definition: >-
+            datum menggambarkan hubungan sistem koordinat dengan rujukan
+            tempatan
+          language_code: msa
+          notes:
+            - Engineering datum excludes both geodetic and vertical datums.
+          examples:
+            - >-
+              A system for identifying relative positions within a few
+              kilometres of the reference point.
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19111:2019'
+            clause: '(E), 3.1.26'
+            link: 'https://www.iso.org/standard/74039.html'
+          lineage_source: 'ISO 19111:2003'
+          lineage_source_similarity: 1
+          date_accepted: 2003-02-15T00:00:00.000Z
+          review_date: 2019-01-31T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-01-31T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19111:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19111:2007 to ISO
+            19111:2019(E), 3.1.26. Lineage source added as ISO 19111:2003
+          release: '1'
+          terms:
+            - type: expression
+              designation: datum tempatan
+              normative_status: admitted
+            - designation: engineering datum
+              type: expression
+        parents: []
+        timeCreated: 2003-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+pol:
+  id: 501
+  definition: >-
+    układ odniesienia opisujący związek układu współrzędnych z lokalnym
+    odniesieniem
+  language_code: pol
+  notes:
+    - >-
+      Inzynieryjny układ odniesienia zawsze różni się od geodezyjnego i
+      wysokościowego układu odniesienia.
+  examples:
+    - >-
+      Układ służący do identyfikowania położeń względnych w granicach kilku
+      kilometrów od punktu odniesienia.
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19111:2019'
+    clause: '(E), 3.1.26'
+    link: 'https://www.iso.org/standard/74039.html'
+  lineage_source: 'ISO 19111:2003'
+  lineage_source_similarity: 1
+  date_accepted: 2003-02-15T00:00:00.000Z
+  review_date: 2019-01-31T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-01-31T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19111:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19111:2007 to ISO 19111:2019(E),
+    3.1.26. Lineage source added as ISO 19111:2003
+  release: '1'
+  terms:
+    - type: expression
+      designation: 'inżynieryjny układ odniesienia, lokalny układ odniesienia'
+      normative_status: admitted
+    - designation: lokalny układ odniesienia
+      type: expression
+  _revisions:
+    current: 4dde09
+    tree:
+      4dde09:
+        object:
+          id: 501
+          definition: >-
+            układ odniesienia opisujący związek układu współrzędnych z lokalnym
+            odniesieniem
+          language_code: pol
+          notes:
+            - >-
+              Inzynieryjny układ odniesienia zawsze różni się od geodezyjnego i
+              wysokościowego układu odniesienia.
+          examples:
+            - >-
+              Układ służący do identyfikowania położeń względnych w granicach
+              kilku kilometrów od punktu odniesienia.
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19111:2019'
+            clause: '(E), 3.1.26'
+            link: 'https://www.iso.org/standard/74039.html'
+          lineage_source: 'ISO 19111:2003'
+          lineage_source_similarity: 1
+          date_accepted: 2003-02-15T00:00:00.000Z
+          review_date: 2019-01-31T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-01-31T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19111:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19111:2007 to ISO
+            19111:2019(E), 3.1.26. Lineage source added as ISO 19111:2003
+          release: '1'
+          terms:
+            - type: expression
+              designation: 'inżynieryjny układ odniesienia, lokalny układ odniesienia'
+              normative_status: admitted
+            - designation: lokalny układ odniesienia
+              type: expression
+        parents: []
+        timeCreated: 2003-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 501
+  definition: даты с местной привязкой начальной точки
+  language_code: rus
+  notes: []
+  examples:
+    - >-
+      Система для определения относительного положения в пределах нескольких
+      километров от начальной точки
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19111:2019'
+    clause: '(E), 3.1.26'
+    link: 'https://www.iso.org/standard/74039.html'
+  lineage_source: 'ISO 19111:2003'
+  lineage_source_similarity: 1
+  date_accepted: 2003-02-15T00:00:00.000Z
+  review_date: 2019-01-31T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-01-31T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19111:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19111:2007 to ISO 19111:2019(E),
+    3.1.26. Lineage source added as ISO 19111:2003
+  release: '1'
+  terms:
+    - type: expression
+      designation: местные даты
+      normative_status: preferred
+    - designation: инженерные исходные даты
+      type: expression
+  _revisions:
+    current: 88e8cb
+    tree:
+      88e8cb:
+        object:
+          id: 501
+          definition: даты с местной привязкой начальной точки
+          language_code: rus
+          notes: []
+          examples:
+            - >-
+              Система для определения относительного положения в пределах
+              нескольких километров от начальной точки
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19111:2019'
+            clause: '(E), 3.1.26'
+            link: 'https://www.iso.org/standard/74039.html'
+          lineage_source: 'ISO 19111:2003'
+          lineage_source_similarity: 1
+          date_accepted: 2003-02-15T00:00:00.000Z
+          review_date: 2019-01-31T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-01-31T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19111:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19111:2007 to ISO
+            19111:2019(E), 3.1.26. Lineage source added as ISO 19111:2003
+          release: '1'
+          terms:
+            - type: expression
+              designation: местные даты
+              normative_status: preferred
+            - designation: инженерные исходные даты
+              type: expression
+        parents: []
+        timeCreated: 2003-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 501
+  definition: >-
+    datum que describe la relación de un sistema de coordenadas con una
+    referencia local
+  language_code: spa
+  notes:
+    - >-
+      Los datums para ingeniería excluyen tanto los datums geodésicos como los
+      verticales.
+  examples:
+    - >-
+      Un sistema para identificar posiciones relativas a pocos kilómetros del
+      punto de referencia.EJEMPLO Un sistema para identificar posiciones
+      relativas a pocos kilómetros del punto de referencia..
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19111:2019'
+    clause: '(E), 3.1.26'
+    link: 'https://www.iso.org/standard/74039.html'
+  lineage_source: 'ISO 19111:2003'
+  lineage_source_similarity: 1
+  date_accepted: 2003-02-15T00:00:00.000Z
+  review_date: 2019-01-31T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-01-31T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19111:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19111:2007 to ISO 19111:2019(E),
+    3.1.26. Lineage source added as ISO 19111:2003
+  release: '1'
+  terms:
+    - type: expression
+      designation: datum local
+      normative_status: admitted
+    - designation: datum de ingeniería
+      type: expression
+  _revisions:
+    current: be8dc7
+    tree:
+      be8dc7:
+        object:
+          id: 501
+          definition: >-
+            datum que describe la relación de un sistema de coordenadas con una
+            referencia local
+          language_code: spa
+          notes:
+            - >-
+              Los datums para ingeniería excluyen tanto los datums geodésicos
+              como los verticales.
+          examples:
+            - >-
+              Un sistema para identificar posiciones relativas a pocos
+              kilómetros del punto de referencia.EJEMPLO Un sistema para
+              identificar posiciones relativas a pocos kilómetros del punto de
+              referencia..
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19111:2019'
+            clause: '(E), 3.1.26'
+            link: 'https://www.iso.org/standard/74039.html'
+          lineage_source: 'ISO 19111:2003'
+          lineage_source_similarity: 1
+          date_accepted: 2003-02-15T00:00:00.000Z
+          review_date: 2019-01-31T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-01-31T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19111:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19111:2007 to ISO
+            19111:2019(E), 3.1.26. Lineage source added as ISO 19111:2003
+          release: '1'
+          terms:
+            - type: expression
+              designation: datum local
+              normative_status: admitted
+            - designation: datum de ingeniería
+              type: expression
+        parents: []
+        timeCreated: 2003-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

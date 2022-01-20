@@ -1,0 +1,1167 @@
+term: isomorphism
+termid: 259
+eng:
+  id: 259
+  definition: >-
+    relationship between two domains (such as two complexes) such that there are
+    1-to-1, structure-preserving functions from each domain onto the other, and
+    the composition of the two functions, in either order, is the corresponding
+    identity function
+  language_code: eng
+  notes:
+    - >-
+      A geometric complex is isomorphic to a topological complex if their
+      elements are in a 1-to-1, dimension- and boundary-preserving
+      correspondence to one another. \[[A,B \textit{ isomorphic}]
+      \Leftrightarrow [\exists f : A \rightarrow B, g : B \rightarrow A
+      \backepsilon f \circ g = Id_A, g \circ f = Id_B]\]
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19107:2019'
+    clause: '(E), 3.58'
+    link: 'https://www.iso.org/standard/66175.html'
+  lineage_source: 'ISO 19107:2003(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19107:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19107:2003 to ISO 19107:2019(E),
+    3.58. Lineage source added as ISO 19107:2003(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: isomorphism
+      normative_status: preferred
+  _revisions:
+    current: '930358'
+    tree:
+      '930358':
+        object:
+          id: 259
+          definition: >-
+            relationship between two domains (such as two complexes) such that
+            there are 1-to-1, structure-preserving functions from each domain
+            onto the other, and the composition of the two functions, in either
+            order, is the corresponding identity function
+          language_code: eng
+          notes:
+            - >-
+              A geometric complex is isomorphic to a topological complex if
+              their elements are in a 1-to-1, dimension- and boundary-preserving
+              correspondence to one another. \[[A,B \textit{ isomorphic}]
+              \Leftrightarrow [\exists f : A \rightarrow B, g : B \rightarrow A
+              \backepsilon f \circ g = Id_A, g \circ f = Id_B]\]
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19107:2019'
+            clause: '(E), 3.58'
+            link: 'https://www.iso.org/standard/66175.html'
+          lineage_source: 'ISO 19107:2003(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19107:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19107:2003 to ISO
+            19107:2019(E), 3.58. Lineage source added as ISO 19107:2003(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: isomorphism
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+ara:
+  id: 259
+  definition: >-
+    علاقة بين مجالين ( مثل مركَّبَيْن  ) وذلك بحيث تكون هناك دالتان حافظتان
+    للهيكل أو التكوين بين النظائر المتقابلة في كلا المجالين نظيرا بنظير من كل
+    مجال إلى الآخر ، وأن يكون تكوين الدالتين المذكورتين ، في كل من المنظومتين ،
+    هو الدالة التعريفية المقابلة
+  language_code: ara
+  notes:
+    - >-
+      Provisional translation:  19107:2019, 3.58 -- Note 1 to entry
+
+      $$
+
+      'ملاحظة: يمكن للمركَّب الهندسي أن تكون له أجزاء مشابهة لأجزاء مركب
+      طوبولوجي إذا كانت عناصرهما متقابلة ببعد (1) إلى (1) وكانا متناظرين تناظرا
+      حافظا للحدود بينهما.
+
+      $$
+
+      A geometric complex is isomorphic to a topological complex if their
+      elements are in a 1-to-1, dimension- and boundary-preserving
+      correspondence to one another. \[[A,B \textit{ isomorphic}]
+      \Leftrightarrow [\exists f : A \rightarrow B, g : B \rightarrow A
+      \backepsilon f \circ g = Id_A, g \circ f = Id_B]\]
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19107:2019'
+    clause: '(E), 3.58'
+    link: 'https://www.iso.org/standard/66175.html'
+  lineage_source: 'ISO 19107:2003(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19107:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19107:2003 to ISO 19107:2019(E),
+    3.58. Lineage source added as ISO 19107:2003(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: التماثلية
+      normative_status: preferred
+  _revisions:
+    current: 29ddd0
+    tree:
+      29ddd0:
+        object:
+          id: 259
+          definition: >-
+            علاقة بين مجالين ( مثل مركَّبَيْن  ) وذلك بحيث تكون هناك دالتان
+            حافظتان للهيكل أو التكوين بين النظائر المتقابلة في كلا المجالين
+            نظيرا بنظير من كل مجال إلى الآخر ، وأن يكون تكوين الدالتين
+            المذكورتين ، في كل من المنظومتين ، هو الدالة التعريفية المقابلة
+          language_code: ara
+          notes:
+            - >-
+              Provisional translation:  19107:2019, 3.58 -- Note 1 to entry
+
+              $$
+
+              'ملاحظة: يمكن للمركَّب الهندسي أن تكون له أجزاء مشابهة لأجزاء مركب
+              طوبولوجي إذا كانت عناصرهما متقابلة ببعد (1) إلى (1) وكانا متناظرين
+              تناظرا حافظا للحدود بينهما.
+
+              $$
+
+              A geometric complex is isomorphic to a topological complex if
+              their elements are in a 1-to-1, dimension- and boundary-preserving
+              correspondence to one another. \[[A,B \textit{ isomorphic}]
+              \Leftrightarrow [\exists f : A \rightarrow B, g : B \rightarrow A
+              \backepsilon f \circ g = Id_A, g \circ f = Id_B]\]
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19107:2019'
+            clause: '(E), 3.58'
+            link: 'https://www.iso.org/standard/66175.html'
+          lineage_source: 'ISO 19107:2003(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19107:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19107:2003 to ISO
+            19107:2019(E), 3.58. Lineage source added as ISO 19107:2003(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: التماثلية
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+zho:
+  id: 259
+  definition: 在两个域（例如两个复形）之间的一种关系，它们具有从一个域到另一个域一一对应的保持结构的函数，同时，按两种顺序组合这两个函数得到相应的同一函数。
+  language_code: zho
+  notes:
+    - >-
+      Provisional translation:  19107:2019, 3.58 -- Note 1 to entry
+
+      $$
+
+      '注：如果几何复形与拓扑复形的元素个数、维数、边界都是一一对应的，则这个几何复形同构于这个拓扑复形。
+
+      $$
+
+      A geometric complex is isomorphic to a topological complex if their
+      elements are in a 1-to-1, dimension- and boundary-preserving
+      correspondence to one another. \[[A,B \textit{ isomorphic}]
+      \Leftrightarrow [\exists f : A \rightarrow B, g : B \rightarrow A
+      \backepsilon f \circ g = Id_A, g \circ f = Id_B]\]
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19107:2019'
+    clause: '(E), 3.58'
+    link: 'https://www.iso.org/standard/66175.html'
+  lineage_source: 'ISO 19107:2003(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19107:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19107:2003 to ISO 19107:2019(E),
+    3.58. Lineage source added as ISO 19107:2003(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: 同构
+      normative_status: preferred
+  _revisions:
+    current: '778377'
+    tree:
+      '778377':
+        object:
+          id: 259
+          definition: >-
+            在两个域（例如两个复形）之间的一种关系，它们具有从一个域到另一个域一一对应的保持结构的函数，同时，按两种顺序组合这两个函数得到相应的同一函数。
+          language_code: zho
+          notes:
+            - >-
+              Provisional translation:  19107:2019, 3.58 -- Note 1 to entry
+
+              $$
+
+              '注：如果几何复形与拓扑复形的元素个数、维数、边界都是一一对应的，则这个几何复形同构于这个拓扑复形。
+
+              $$
+
+              A geometric complex is isomorphic to a topological complex if
+              their elements are in a 1-to-1, dimension- and boundary-preserving
+              correspondence to one another. \[[A,B \textit{ isomorphic}]
+              \Leftrightarrow [\exists f : A \rightarrow B, g : B \rightarrow A
+              \backepsilon f \circ g = Id_A, g \circ f = Id_B]\]
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19107:2019'
+            clause: '(E), 3.58'
+            link: 'https://www.iso.org/standard/66175.html'
+          lineage_source: 'ISO 19107:2003(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19107:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19107:2003 to ISO
+            19107:2019(E), 3.58. Lineage source added as ISO 19107:2003(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: 同构
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+fin:
+  id: 259
+  definition: >-
+    sellainen kahden joukon (esimerkiksi kahden kompleksin) välinen suhde, jota
+    kuvaavat funktiot säilyttävät rakenteen kummastakin joukosta toiseen
+    1:1-suhteessa ja näiden kahden funktion yhdistelmä, kummassa järjestyksessä
+    hyvänsä, on vastaava identiteettifunktio
+  language_code: fin
+  notes:
+    - >-
+      Provisional translation:  19107:2019, 3.58 -- Note 1 to entry
+
+      $$
+
+      'HUOM. Geometrinen kompleksi on isomorfinen topologisen kompleksin kanssa,
+      jos niiden alkiot ovat toisiinsa ulottuvuuden ja rajauksen säilyttävässä
+      1:1-suhteessa.
+
+      $$
+
+      A geometric complex is isomorphic to a topological complex if their
+      elements are in a 1-to-1, dimension- and boundary-preserving
+      correspondence to one another. \[[A,B \textit{ isomorphic}]
+      \Leftrightarrow [\exists f : A \rightarrow B, g : B \rightarrow A
+      \backepsilon f \circ g = Id_A, g \circ f = Id_B]\]
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19107:2019'
+    clause: '(E), 3.58'
+    link: 'https://www.iso.org/standard/66175.html'
+  lineage_source: 'ISO 19107:2003(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19107:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19107:2003 to ISO 19107:2019(E),
+    3.58. Lineage source added as ISO 19107:2003(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: isomorfismi
+      normative_status: preferred
+    - designation: isomorfia
+      type: expression
+  _revisions:
+    current: 7d7fe4
+    tree:
+      7d7fe4:
+        object:
+          id: 259
+          definition: >-
+            sellainen kahden joukon (esimerkiksi kahden kompleksin) välinen
+            suhde, jota kuvaavat funktiot säilyttävät rakenteen kummastakin
+            joukosta toiseen 1:1-suhteessa ja näiden kahden funktion yhdistelmä,
+            kummassa järjestyksessä hyvänsä, on vastaava identiteettifunktio
+          language_code: fin
+          notes:
+            - >-
+              Provisional translation:  19107:2019, 3.58 -- Note 1 to entry
+
+              $$
+
+              'HUOM. Geometrinen kompleksi on isomorfinen topologisen kompleksin
+              kanssa, jos niiden alkiot ovat toisiinsa ulottuvuuden ja rajauksen
+              säilyttävässä 1:1-suhteessa.
+
+              $$
+
+              A geometric complex is isomorphic to a topological complex if
+              their elements are in a 1-to-1, dimension- and boundary-preserving
+              correspondence to one another. \[[A,B \textit{ isomorphic}]
+              \Leftrightarrow [\exists f : A \rightarrow B, g : B \rightarrow A
+              \backepsilon f \circ g = Id_A, g \circ f = Id_B]\]
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19107:2019'
+            clause: '(E), 3.58'
+            link: 'https://www.iso.org/standard/66175.html'
+          lineage_source: 'ISO 19107:2003(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19107:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19107:2003 to ISO
+            19107:2019(E), 3.58. Lineage source added as ISO 19107:2003(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: isomorfismi
+              normative_status: preferred
+            - designation: isomorfia
+              type: expression
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+fra:
+  id: 259
+  definition: >-
+    relation entre deux domaines (tels que deux complexes) tel qu'il existe deux
+    fonctions 1-1 préservant la structure de chaque domaine vers l'autre et que
+    la composition des deux fonctions, selon l'un ou l'autre ordre, est la
+    fonction identité correspondante.
+  language_code: fra
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19107:2019'
+    clause: '(E), 3.58'
+    link: 'https://www.iso.org/standard/66175.html'
+  lineage_source: 'ISO 19107:2003(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19107:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19107:2003 to ISO 19107:2019(E),
+    3.58. Lineage source added as ISO 19107:2003(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: isomorphisme
+      normative_status: preferred
+  _revisions:
+    current: 70a16c
+    tree:
+      70a16c:
+        object:
+          id: 259
+          definition: >-
+            relation entre deux domaines (tels que deux complexes) tel qu'il
+            existe deux fonctions 1-1 préservant la structure de chaque domaine
+            vers l'autre et que la composition des deux fonctions, selon l'un ou
+            l'autre ordre, est la fonction identité correspondante.
+          language_code: fra
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19107:2019'
+            clause: '(E), 3.58'
+            link: 'https://www.iso.org/standard/66175.html'
+          lineage_source: 'ISO 19107:2003(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19107:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19107:2003 to ISO
+            19107:2019(E), 3.58. Lineage source added as ISO 19107:2003(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: isomorphisme
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+deu:
+  id: 259
+  language_code: deu
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19107:2019'
+    clause: '(E), 3.58'
+    link: 'https://www.iso.org/standard/66175.html'
+  lineage_source: 'ISO 19107:2003(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19107:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19107:2003 to ISO 19107:2019(E),
+    3.58. Lineage source added as ISO 19107:2003(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: Isomorphismus
+      normative_status: preferred
+  _revisions:
+    current: 969b74
+    tree:
+      969b74:
+        object:
+          id: 259
+          language_code: deu
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19107:2019'
+            clause: '(E), 3.58'
+            link: 'https://www.iso.org/standard/66175.html'
+          lineage_source: 'ISO 19107:2003(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19107:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19107:2003 to ISO
+            19107:2019(E), 3.58. Lineage source added as ISO 19107:2003(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: Isomorphismus
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+jpn:
+  id: 259
+  definition: >-
+    二つの領域の一方から他方への一対一で構造を保存する関数が存在して，それら二つの関数をどの順序で合成しても恒等関数に一致するような，二つの領域（二つの複体のような）の間の関係。
+  language_code: jpn
+  notes:
+    - >-
+      Provisional translation:  19107:2019, 3.58 -- Note 1 to entry
+
+      $$
+
+      '備考 要素が一対一に対応し，その対応で次元及び境界が保存される場合，幾何複体は，位相複体に同形である。
+
+      $$
+
+      A geometric complex is isomorphic to a topological complex if their
+      elements are in a 1-to-1, dimension- and boundary-preserving
+      correspondence to one another. \[[A,B \textit{ isomorphic}]
+      \Leftrightarrow [\exists f : A \rightarrow B, g : B \rightarrow A
+      \backepsilon f \circ g = Id_A, g \circ f = Id_B]\]
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19107:2019'
+    clause: '(E), 3.58'
+    link: 'https://www.iso.org/standard/66175.html'
+  lineage_source: 'ISO 19107:2003(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19107:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19107:2003 to ISO 19107:2019(E),
+    3.58. Lineage source added as ISO 19107:2003(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: 同形
+      normative_status: preferred
+  _revisions:
+    current: 5fc69f
+    tree:
+      5fc69f:
+        object:
+          id: 259
+          definition: >-
+            二つの領域の一方から他方への一対一で構造を保存する関数が存在して，それら二つの関数をどの順序で合成しても恒等関数に一致するような，二つの領域（二つの複体のような）の間の関係。
+          language_code: jpn
+          notes:
+            - >-
+              Provisional translation:  19107:2019, 3.58 -- Note 1 to entry
+
+              $$
+
+              '備考 要素が一対一に対応し，その対応で次元及び境界が保存される場合，幾何複体は，位相複体に同形である。
+
+              $$
+
+              A geometric complex is isomorphic to a topological complex if
+              their elements are in a 1-to-1, dimension- and boundary-preserving
+              correspondence to one another. \[[A,B \textit{ isomorphic}]
+              \Leftrightarrow [\exists f : A \rightarrow B, g : B \rightarrow A
+              \backepsilon f \circ g = Id_A, g \circ f = Id_B]\]
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19107:2019'
+            clause: '(E), 3.58'
+            link: 'https://www.iso.org/standard/66175.html'
+          lineage_source: 'ISO 19107:2003(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19107:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19107:2003 to ISO
+            19107:2019(E), 3.58. Lineage source added as ISO 19107:2003(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: 同形
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+kor:
+  id: 259
+  definition: >-
+    두 영역(예: 두 개의 복합체)이 일 대 일로 대응되며, 각 영역 간에 구조 보존 함수와 두 함수의 합성이 양방향으로 대응하는 식별 특성
+    함수 관계
+  language_code: kor
+  notes:
+    - >-
+      Provisional translation:  19107:2019, 3.58 -- Note 1 to entry
+
+      $$
+
+      '비고: 기하 복합체는 만일 그 요소가 서로 일 대 일로 차원 및 경계 보존 대응 관계에 있다면, 위상 복합체와 동형이다.
+
+      $$
+
+      A geometric complex is isomorphic to a topological complex if their
+      elements are in a 1-to-1, dimension- and boundary-preserving
+      correspondence to one another. \[[A,B \textit{ isomorphic}]
+      \Leftrightarrow [\exists f : A \rightarrow B, g : B \rightarrow A
+      \backepsilon f \circ g = Id_A, g \circ f = Id_B]\]
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19107:2019'
+    clause: '(E), 3.58'
+    link: 'https://www.iso.org/standard/66175.html'
+  lineage_source: 'ISO 19107:2003(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19107:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19107:2003 to ISO 19107:2019(E),
+    3.58. Lineage source added as ISO 19107:2003(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: 동형
+      normative_status: preferred
+  _revisions:
+    current: 60c973
+    tree:
+      60c973:
+        object:
+          id: 259
+          definition: >-
+            두 영역(예: 두 개의 복합체)이 일 대 일로 대응되며, 각 영역 간에 구조 보존 함수와 두 함수의 합성이 양방향으로
+            대응하는 식별 특성 함수 관계
+          language_code: kor
+          notes:
+            - >-
+              Provisional translation:  19107:2019, 3.58 -- Note 1 to entry
+
+              $$
+
+              '비고: 기하 복합체는 만일 그 요소가 서로 일 대 일로 차원 및 경계 보존 대응 관계에 있다면, 위상 복합체와
+              동형이다.
+
+              $$
+
+              A geometric complex is isomorphic to a topological complex if
+              their elements are in a 1-to-1, dimension- and boundary-preserving
+              correspondence to one another. \[[A,B \textit{ isomorphic}]
+              \Leftrightarrow [\exists f : A \rightarrow B, g : B \rightarrow A
+              \backepsilon f \circ g = Id_A, g \circ f = Id_B]\]
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19107:2019'
+            clause: '(E), 3.58'
+            link: 'https://www.iso.org/standard/66175.html'
+          lineage_source: 'ISO 19107:2003(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19107:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19107:2003 to ISO
+            19107:2019(E), 3.58. Lineage source added as ISO 19107:2003(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: 동형
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+msa:
+  id: 259
+  language_code: msa
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19107:2019'
+    clause: '(E), 3.58'
+    link: 'https://www.iso.org/standard/66175.html'
+  lineage_source: 'ISO 19107:2003(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19107:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19107:2003 to ISO 19107:2019(E),
+    3.58. Lineage source added as ISO 19107:2003(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: isomorfisma
+      normative_status: preferred
+  _revisions:
+    current: 826f4a
+    tree:
+      826f4a:
+        object:
+          id: 259
+          language_code: msa
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19107:2019'
+            clause: '(E), 3.58'
+            link: 'https://www.iso.org/standard/66175.html'
+          lineage_source: 'ISO 19107:2003(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19107:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19107:2003 to ISO
+            19107:2019(E), 3.58. Lineage source added as ISO 19107:2003(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: isomorfisma
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+pol:
+  id: 259
+  definition: >-
+    związek pomiędzy dwiema dziedzinami (takimi jak dwa kompleksy) taki, że
+    istnieją funkcje jeden-do-jeden z jednej dziedziny w drugą, zachowujące
+    strukturę, a złożenie tych funkcji w dowolnej kolejności jest funkcją
+    identyczności
+  language_code: pol
+  notes:
+    - >-
+      Provisional translation:  19107:2019, 3.58 -- Note 1 to entry
+
+      $$
+
+      'UWAGA Złożony element geometryczny jest izomorficzny ze złożonym
+      elementem topologicznym, jeżeli ich elementy odpowiadają sobie nawzajem w
+      stosunku jeden-do-jeden z zachowaniem wymiarów i granic.
+
+      $$
+
+      A geometric complex is isomorphic to a topological complex if their
+      elements are in a 1-to-1, dimension- and boundary-preserving
+      correspondence to one another. \[[A,B \textit{ isomorphic}]
+      \Leftrightarrow [\exists f : A \rightarrow B, g : B \rightarrow A
+      \backepsilon f \circ g = Id_A, g \circ f = Id_B]\]
+  examples: []
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19107:2019'
+    clause: '(E), 3.58'
+    link: 'https://www.iso.org/standard/66175.html'
+  lineage_source: 'ISO 19107:2003(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19107:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19107:2003 to ISO 19107:2019(E),
+    3.58. Lineage source added as ISO 19107:2003(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: izomorfizm
+      normative_status: preferred
+  _revisions:
+    current: a3dd10
+    tree:
+      a3dd10:
+        object:
+          id: 259
+          definition: >-
+            związek pomiędzy dwiema dziedzinami (takimi jak dwa kompleksy) taki,
+            że istnieją funkcje jeden-do-jeden z jednej dziedziny w drugą,
+            zachowujące strukturę, a złożenie tych funkcji w dowolnej kolejności
+            jest funkcją identyczności
+          language_code: pol
+          notes:
+            - >-
+              Provisional translation:  19107:2019, 3.58 -- Note 1 to entry
+
+              $$
+
+              'UWAGA Złożony element geometryczny jest izomorficzny ze złożonym
+              elementem topologicznym, jeżeli ich elementy odpowiadają sobie
+              nawzajem w stosunku jeden-do-jeden z zachowaniem wymiarów i
+              granic.
+
+              $$
+
+              A geometric complex is isomorphic to a topological complex if
+              their elements are in a 1-to-1, dimension- and boundary-preserving
+              correspondence to one another. \[[A,B \textit{ isomorphic}]
+              \Leftrightarrow [\exists f : A \rightarrow B, g : B \rightarrow A
+              \backepsilon f \circ g = Id_A, g \circ f = Id_B]\]
+          examples: []
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19107:2019'
+            clause: '(E), 3.58'
+            link: 'https://www.iso.org/standard/66175.html'
+          lineage_source: 'ISO 19107:2003(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19107:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19107:2003 to ISO
+            19107:2019(E), 3.58. Lineage source added as ISO 19107:2003(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: izomorfizm
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 259
+  definition: >-
+    отношение между двумя множествами (например, двумя комплексами), при котором
+    существуют сохраняющие структуру функции типа один-к-одному из каждого
+    множества в другое, причем любая композиция этих двух функций есть функция
+    тождества
+  language_code: rus
+  notes:
+    - >-
+      Provisional translation:  19107:2019, 3.58 -- Note 1 to entry
+
+      $$
+
+      'Геометрический комплекс является изоморфным топологическому комплексу,
+      если существуют соответствие один-к-одному элементов обоих комплексов и
+      сохранность их размерности и границ
+
+      $$
+
+      A geometric complex is isomorphic to a topological complex if their
+      elements are in a 1-to-1, dimension- and boundary-preserving
+      correspondence to one another. \[[A,B \textit{ isomorphic}]
+      \Leftrightarrow [\exists f : A \rightarrow B, g : B \rightarrow A
+      \backepsilon f \circ g = Id_A, g \circ f = Id_B]\]
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19107:2019'
+    clause: '(E), 3.58'
+    link: 'https://www.iso.org/standard/66175.html'
+  lineage_source: 'ISO 19107:2003(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19107:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19107:2003 to ISO 19107:2019(E),
+    3.58. Lineage source added as ISO 19107:2003(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: изоморфизм
+      normative_status: preferred
+  _revisions:
+    current: 02c63d
+    tree:
+      02c63d:
+        object:
+          id: 259
+          definition: >-
+            отношение между двумя множествами (например, двумя комплексами), при
+            котором существуют сохраняющие структуру функции типа один-к-одному
+            из каждого множества в другое, причем любая композиция этих двух
+            функций есть функция тождества
+          language_code: rus
+          notes:
+            - >-
+              Provisional translation:  19107:2019, 3.58 -- Note 1 to entry
+
+              $$
+
+              'Геометрический комплекс является изоморфным топологическому
+              комплексу, если существуют соответствие один-к-одному элементов
+              обоих комплексов и сохранность их размерности и границ
+
+              $$
+
+              A geometric complex is isomorphic to a topological complex if
+              their elements are in a 1-to-1, dimension- and boundary-preserving
+              correspondence to one another. \[[A,B \textit{ isomorphic}]
+              \Leftrightarrow [\exists f : A \rightarrow B, g : B \rightarrow A
+              \backepsilon f \circ g = Id_A, g \circ f = Id_B]\]
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19107:2019'
+            clause: '(E), 3.58'
+            link: 'https://www.iso.org/standard/66175.html'
+          lineage_source: 'ISO 19107:2003(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19107:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19107:2003 to ISO
+            19107:2019(E), 3.58. Lineage source added as ISO 19107:2003(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: изоморфизм
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 259
+  definition: >-
+    relacion entre dos dominios (como dos complejos) tal que hay dos funciones 1
+    a 1 que preservan la estructura de cada dominio en el otro, y la composición
+    de las dos funciones, en cualquier orden, es la función de correspondencia
+    de identidad
+  language_code: spa
+  notes:
+    - >-
+      Provisional translation:  19107:2019, 3.58 -- Note 1 to entry
+
+      $$
+
+      'NOTA Un complejo geométrico es isomórfico a un complejo topológico si sus
+      elementos mantienen una correspondencia 1 a 1, dimensión y frontera.
+
+      $$
+
+      A geometric complex is isomorphic to a topological complex if their
+      elements are in a 1-to-1, dimension- and boundary-preserving
+      correspondence to one another. \[[A,B \textit{ isomorphic}]
+      \Leftrightarrow [\exists f : A \rightarrow B, g : B \rightarrow A
+      \backepsilon f \circ g = Id_A, g \circ f = Id_B]\]
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19107:2019'
+    clause: '(E), 3.58'
+    link: 'https://www.iso.org/standard/66175.html'
+  lineage_source: 'ISO 19107:2003(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19107:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19107:2003 to ISO 19107:2019(E),
+    3.58. Lineage source added as ISO 19107:2003(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: isomorfismo
+      normative_status: preferred
+  _revisions:
+    current: c3c1c1
+    tree:
+      c3c1c1:
+        object:
+          id: 259
+          definition: >-
+            relacion entre dos dominios (como dos complejos) tal que hay dos
+            funciones 1 a 1 que preservan la estructura de cada dominio en el
+            otro, y la composición de las dos funciones, en cualquier orden, es
+            la función de correspondencia de identidad
+          language_code: spa
+          notes:
+            - >-
+              Provisional translation:  19107:2019, 3.58 -- Note 1 to entry
+
+              $$
+
+              'NOTA Un complejo geométrico es isomórfico a un complejo
+              topológico si sus elementos mantienen una correspondencia 1 a 1,
+              dimensión y frontera.
+
+              $$
+
+              A geometric complex is isomorphic to a topological complex if
+              their elements are in a 1-to-1, dimension- and boundary-preserving
+              correspondence to one another. \[[A,B \textit{ isomorphic}]
+              \Leftrightarrow [\exists f : A \rightarrow B, g : B \rightarrow A
+              \backepsilon f \circ g = Id_A, g \circ f = Id_B]\]
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19107:2019'
+            clause: '(E), 3.58'
+            link: 'https://www.iso.org/standard/66175.html'
+          lineage_source: 'ISO 19107:2003(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19107:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19107:2003 to ISO
+            19107:2019(E), 3.58. Lineage source added as ISO 19107:2003(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: isomorfismo
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+swe:
+  id: 259
+  definition: inverterbar homomorfism
+  country_code: swe
+  language_code: swe
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19107:2019'
+    clause: '(E), 3.58'
+    link: 'https://www.iso.org/standard/66175.html'
+  lineage_source: 'ISO 19107:2003(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19107:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19107:2003 to ISO 19107:2019(E),
+    3.58. Lineage source added as ISO 19107:2003(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: isomorphism
+      normative_status: preferred
+  _revisions:
+    current: 15d971
+    tree:
+      15d971:
+        object:
+          id: 259
+          definition: inverterbar homomorfism
+          country_code: swe
+          language_code: swe
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19107:2019'
+            clause: '(E), 3.58'
+            link: 'https://www.iso.org/standard/66175.html'
+          lineage_source: 'ISO 19107:2003(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19107:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19107:2003 to ISO
+            19107:2019(E), 3.58. Lineage source added as ISO 19107:2003(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: isomorphism
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

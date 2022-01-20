@@ -1,0 +1,337 @@
+term: literal value
+termid: 1029
+eng:
+  id: 1029
+  definition: 'constant, explicitly specified value'
+  language_code: eng
+  notes:
+    - >-
+      This contrasts with a value that is determined by resolving a chain of
+      substitution (e.g. a variable)
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19143:2010'
+    link: 'https://www.iso.org/standard/42137.html'
+  date_accepted: 2010-10-15T00:00:00.000Z
+  release: '2'
+  terms:
+    - type: expression
+      designation: literal value
+      normative_status: preferred
+  _revisions:
+    current: 73535e
+    tree:
+      73535e:
+        object:
+          id: 1029
+          definition: 'constant, explicitly specified value'
+          language_code: eng
+          notes:
+            - >-
+              This contrasts with a value that is determined by resolving a
+              chain of substitution (e.g. a variable)
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19143:2010'
+            link: 'https://www.iso.org/standard/42137.html'
+          date_accepted: 2010-10-15T00:00:00.000Z
+          release: '2'
+          terms:
+            - type: expression
+              designation: literal value
+              normative_status: preferred
+        parents: []
+        timeCreated: 2010-10-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+ara:
+  id: 1029
+  definition: قيمة ثابتة ومحددة بوضوح
+  language_code: ara
+  notes:
+    - >-
+      هذا على النقيض من القيمة التي يتم تحديدها عن طريق حل سلسلة من التعويضات
+      (مثل متغير مثلا).
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19143:2010'
+    link: 'https://www.iso.org/standard/42137.html'
+  date_accepted: 2010-10-15T00:00:00.000Z
+  release: '2'
+  terms:
+    - type: expression
+      designation: قيمة حرفية
+      normative_status: preferred
+  _revisions:
+    current: be08ed
+    tree:
+      be08ed:
+        object:
+          id: 1029
+          definition: قيمة ثابتة ومحددة بوضوح
+          language_code: ara
+          notes:
+            - >-
+              هذا على النقيض من القيمة التي يتم تحديدها عن طريق حل سلسلة من
+              التعويضات (مثل متغير مثلا).
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19143:2010'
+            link: 'https://www.iso.org/standard/42137.html'
+          date_accepted: 2010-10-15T00:00:00.000Z
+          release: '2'
+          terms:
+            - type: expression
+              designation: قيمة حرفية
+              normative_status: preferred
+        parents: []
+        timeCreated: 2010-10-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+deu:
+  id: 1029
+  definition: 'konstanter, explizit festgelegter Wert'
+  language_code: deu
+  notes:
+    - >-
+      This contrasts with a value that is determined by resolving a chain of
+      substitution (e.g. a variable)
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19143:2010'
+    link: 'https://www.iso.org/standard/42137.html'
+  date_accepted: 2010-10-15T00:00:00.000Z
+  release: '2'
+  terms:
+    - type: expression
+      designation: expliziter Wert
+      normative_status: preferred
+  _revisions:
+    current: '661302'
+    tree:
+      '661302':
+        object:
+          id: 1029
+          definition: 'konstanter, explizit festgelegter Wert'
+          language_code: deu
+          notes:
+            - >-
+              This contrasts with a value that is determined by resolving a
+              chain of substitution (e.g. a variable)
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19143:2010'
+            link: 'https://www.iso.org/standard/42137.html'
+          date_accepted: 2010-10-15T00:00:00.000Z
+          release: '2'
+          terms:
+            - type: expression
+              designation: expliziter Wert
+              normative_status: preferred
+        parents: []
+        timeCreated: 2010-10-15T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+kor:
+  id: 1029
+  definition: 일정하고 명백한 특정값
+  language_code: kor
+  notes:
+    - >-
+      This contrasts with a value that is determined by resolving a chain of
+      substitution (e.g. a variable)
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19143:2010'
+    link: 'https://www.iso.org/standard/42137.html'
+  date_accepted: 2010-10-15T00:00:00.000Z
+  release: '2'
+  terms:
+    - type: expression
+      designation: 문자그대로 값
+      normative_status: preferred
+  _revisions:
+    current: eb0e28
+    tree:
+      eb0e28:
+        object:
+          id: 1029
+          definition: 일정하고 명백한 특정값
+          language_code: kor
+          notes:
+            - >-
+              This contrasts with a value that is determined by resolving a
+              chain of substitution (e.g. a variable)
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19143:2010'
+            link: 'https://www.iso.org/standard/42137.html'
+          date_accepted: 2010-10-15T00:00:00.000Z
+          release: '2'
+          terms:
+            - type: expression
+              designation: 문자그대로 값
+              normative_status: preferred
+        parents: []
+        timeCreated: 2010-10-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 1029
+  definition: 'константа,  явно заданное значение'
+  language_code: rus
+  notes:
+    - >-
+      это контрастирует со значением, которое определяется путем разрешения
+      цепочки подстановок (например, переменной)
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19143:2010'
+    link: 'https://www.iso.org/standard/42137.html'
+  lineage_source: 'ISO 19143:2010'
+  date_accepted: 2010-10-15T00:00:00.000Z
+  release: '2'
+  terms:
+    - type: expression
+      designation: литеральное значение
+      normative_status: preferred
+  _revisions:
+    current: efd100
+    tree:
+      efd100:
+        object:
+          id: 1029
+          definition: 'константа,  явно заданное значение'
+          language_code: rus
+          notes:
+            - >-
+              это контрастирует со значением, которое определяется путем
+              разрешения цепочки подстановок (например, переменной)
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19143:2010'
+            link: 'https://www.iso.org/standard/42137.html'
+          lineage_source: 'ISO 19143:2010'
+          date_accepted: 2010-10-15T00:00:00.000Z
+          release: '2'
+          terms:
+            - type: expression
+              designation: литеральное значение
+              normative_status: preferred
+        parents: []
+        timeCreated: 2010-10-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 1029
+  definition: 'constante, valor especificado explícitamente'
+  language_code: spa
+  notes:
+    - >-
+      A diferencia del valor se determina resolviendo una cadena de
+      sustituciones (por ejemplo: una variable)
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19143:2010'
+    link: 'https://www.iso.org/standard/42137.html'
+  date_accepted: 2010-10-15T00:00:00.000Z
+  release: '2'
+  terms:
+    - type: expression
+      designation: valor literal
+      normative_status: preferred
+  _revisions:
+    current: ec40c8
+    tree:
+      ec40c8:
+        object:
+          id: 1029
+          definition: 'constante, valor especificado explícitamente'
+          language_code: spa
+          notes:
+            - >-
+              A diferencia del valor se determina resolviendo una cadena de
+              sustituciones (por ejemplo: una variable)
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19143:2010'
+            link: 'https://www.iso.org/standard/42137.html'
+          date_accepted: 2010-10-15T00:00:00.000Z
+          release: '2'
+          terms:
+            - type: expression
+              designation: valor literal
+              normative_status: preferred
+        parents: []
+        timeCreated: 2010-10-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+swe:
+  id: 1029
+  definition: värde som inte kan variera
+  country_code: swe
+  language_code: swe
+  notes:
+    - >-
+      This contrasts with a value that is determined by resolving a chain of
+      substitution (e.g. a variable)
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19143:2010'
+    link: 'https://www.iso.org/standard/42137.html'
+  lineage_source: (Type reference to national language document)
+  date_accepted: 2010-10-15T00:00:00.000Z
+  release: '2'
+  terms:
+    - type: expression
+      designation: konstantvärde
+      normative_status: preferred
+  _revisions:
+    current: e49dc6
+    tree:
+      e49dc6:
+        object:
+          id: 1029
+          definition: värde som inte kan variera
+          country_code: swe
+          language_code: swe
+          notes:
+            - >-
+              This contrasts with a value that is determined by resolving a
+              chain of substitution (e.g. a variable)
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19143:2010'
+            link: 'https://www.iso.org/standard/42137.html'
+          lineage_source: (Type reference to national language document)
+          date_accepted: 2010-10-15T00:00:00.000Z
+          release: '2'
+          terms:
+            - type: expression
+              designation: konstantvärde
+              normative_status: preferred
+        parents: []
+        timeCreated: 2010-10-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

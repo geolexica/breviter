@@ -1,0 +1,220 @@
+term: field of regard
+termid: 1560
+eng:
+  id: 1560
+  definition: total angular extent over which the field of view (FOV) may be positioned
+  language_code: eng
+  notes:
+    - >-
+      The field of regard is the area that is potentially able to be viewed by a
+      system at an instant in time. It is determined by the system’s  FOV  and
+      the range  of directions in which the system is able to point.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: Adapted from the Manual of Photogrammetry
+  lineage_source: 'ISO/TS 19130-2:2014, 4.19'
+  lineage_source_similarity: '1'
+  date_accepted: 2014-01-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: field of regard
+      normative_status: preferred
+  _revisions:
+    current: b3b0cd
+    tree:
+      b3b0cd:
+        object:
+          id: 1560
+          definition: >-
+            total angular extent over which the field of view (FOV) may be
+            positioned
+          language_code: eng
+          notes:
+            - >-
+              The field of regard is the area that is potentially able to be
+              viewed by a system at an instant in time. It is determined by the
+              system’s  FOV  and the range  of directions in which the system is
+              able to point.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: Adapted from the Manual of Photogrammetry
+          lineage_source: 'ISO/TS 19130-2:2014, 4.19'
+          lineage_source_similarity: '1'
+          date_accepted: 2014-01-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: field of regard
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-01-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+kor:
+  id: 1560
+  definition: 시계가 위치할 수 있는 곳에 대한 총각범위
+  language_code: kor
+  notes:
+    - >-
+      The field of regard is the area that is potentially able to be viewed by a
+      system at an instant in time. It is determined by the system’s  FOV  and
+      the range  of directions in which the system is able to point.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: Adapted from the Manual of Photogrammetry
+  lineage_source: 'ISO/TS 19130-2:2014, 4.19'
+  lineage_source_similarity: '1'
+  date_accepted: 2014-01-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: 관련 필드
+      normative_status: preferred
+  _revisions:
+    current: d9379a
+    tree:
+      d9379a:
+        object:
+          id: 1560
+          definition: 시계가 위치할 수 있는 곳에 대한 총각범위
+          language_code: kor
+          notes:
+            - >-
+              The field of regard is the area that is potentially able to be
+              viewed by a system at an instant in time. It is determined by the
+              system’s  FOV  and the range  of directions in which the system is
+              able to point.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: Adapted from the Manual of Photogrammetry
+          lineage_source: 'ISO/TS 19130-2:2014, 4.19'
+          lineage_source_similarity: '1'
+          date_accepted: 2014-01-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: 관련 필드
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-01-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 1560
+  definition: >-
+    общая угловая протяженность, по которой может располагаться поле зрения
+    (FOV)
+  language_code: rus
+  notes:
+    - >-
+      Зона обзора -это область, которая потенциально может быть рассмотрена
+      системой в любой момент времени. Она определяется FOV системы и диапазоном
+      направлений, в которых система может указывать.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: Adapted from the Manual of Photogrammetry
+  lineage_source: 'ISO/TS 19130-2:2014, 4.19'
+  lineage_source_similarity: '1'
+  date_accepted: 2014-01-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: зона обзора
+      normative_status: preferred
+  _revisions:
+    current: a60d16
+    tree:
+      a60d16:
+        object:
+          id: 1560
+          definition: >-
+            общая угловая протяженность, по которой может располагаться поле
+            зрения (FOV)
+          language_code: rus
+          notes:
+            - >-
+              Зона обзора -это область, которая потенциально может быть
+              рассмотрена системой в любой момент времени. Она определяется FOV
+              системы и диапазоном направлений, в которых система может
+              указывать.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: Adapted from the Manual of Photogrammetry
+          lineage_source: 'ISO/TS 19130-2:2014, 4.19'
+          lineage_source_similarity: '1'
+          date_accepted: 2014-01-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: зона обзора
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-01-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 1560
+  definition: >-
+    extensión angular total sobre la que puede definirse el campo de visión
+    (FOV)
+  language_code: spa
+  notes:
+    - >-
+      El campo de observación es el área que es potencialmente visible por un
+      sistema en un instante. Se determina por el FOV del sistema y el rango de
+      direcciones en las que el sistema es capaz de apuntar.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: Adapted from the Manual of Photogrammetry
+  lineage_source: 'ISO/TS 19130-2:2014, 4.19'
+  lineage_source_similarity: '1'
+  date_accepted: 2014-01-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: campo de observación
+      normative_status: preferred
+  _revisions:
+    current: c7dbf8
+    tree:
+      c7dbf8:
+        object:
+          id: 1560
+          definition: >-
+            extensión angular total sobre la que puede definirse el campo de
+            visión (FOV)
+          language_code: spa
+          notes:
+            - >-
+              El campo de observación es el área que es potencialmente visible
+              por un sistema en un instante. Se determina por el FOV del sistema
+              y el rango de direcciones en las que el sistema es capaz de
+              apuntar.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: Adapted from the Manual of Photogrammetry
+          lineage_source: 'ISO/TS 19130-2:2014, 4.19'
+          lineage_source_similarity: '1'
+          date_accepted: 2014-01-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: campo de observación
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-01-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

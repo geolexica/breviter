@@ -1,0 +1,126 @@
+term: transport service
+termid: 1510
+eng:
+  id: 1510
+  definition: service that is offered to a person with a transport demand
+  language_code: eng
+  notes:
+    - >-
+      This may be services supporting mobility (e.g. public transport services)
+      or services such as luggage handling, assistance, etc.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19147:2015'
+    clause: '3.19'
+    link: 'https://www.iso.org/standard/44874.html'
+  date_accepted: 2015-06-15T00:00:00.000Z
+  review_date: 2009-06-20T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2015-06-15T00:00:00.000Z
+  review_decision_event: Normal ISO processing
+  review_decision_notes: 'Publication of document ISO 19147:2015(E)'
+  release: '4'
+  terms:
+    - type: expression
+      designation: transport service
+      normative_status: preferred
+  _revisions:
+    current: 46582e
+    tree:
+      46582e:
+        object:
+          id: 1510
+          definition: service that is offered to a person with a transport demand
+          language_code: eng
+          notes:
+            - >-
+              This may be services supporting mobility (e.g. public transport
+              services) or services such as luggage handling, assistance, etc.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19147:2015'
+            clause: '3.19'
+            link: 'https://www.iso.org/standard/44874.html'
+          date_accepted: 2015-06-15T00:00:00.000Z
+          review_date: 2009-06-20T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2015-06-15T00:00:00.000Z
+          review_decision_event: Normal ISO processing
+          review_decision_notes: 'Publication of document ISO 19147:2015(E)'
+          release: '4'
+          terms:
+            - type: expression
+              designation: transport service
+              normative_status: preferred
+        parents: []
+        timeCreated: 2015-06-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 1510
+  definition: servicio que se ofrece a una persona que demanda un transporte
+  language_code: spa
+  notes:
+    - >-
+      Pueden ser servicios que permitan la movilidad (por ejemplo, servícios de
+      transporte público) o servicios tales como la gestión de equipajes,
+      asistencia, etc.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19147:2015'
+    clause: '3.19'
+    link: 'https://www.iso.org/standard/44874.html'
+  date_accepted: 2015-06-15T00:00:00.000Z
+  review_date: 2009-06-20T00:00:00.000Z
+  review_status: final
+  review_decision: ''
+  review_decision_date: 2015-06-15T00:00:00.000Z
+  review_decision_event: Normal ISO processing
+  review_decision_notes: 'Publication of document ISO 19147:2015(E)'
+  release: '4'
+  terms:
+    - type: expression
+      designation: servicio de transporte
+      normative_status: preferred
+  _revisions:
+    current: '312629'
+    tree:
+      '312629':
+        object:
+          id: 1510
+          definition: servicio que se ofrece a una persona que demanda un transporte
+          language_code: spa
+          notes:
+            - >-
+              Pueden ser servicios que permitan la movilidad (por ejemplo,
+              servícios de transporte público) o servicios tales como la gestión
+              de equipajes, asistencia, etc.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19147:2015'
+            clause: '3.19'
+            link: 'https://www.iso.org/standard/44874.html'
+          date_accepted: 2015-06-15T00:00:00.000Z
+          review_date: 2009-06-20T00:00:00.000Z
+          review_status: final
+          review_decision: ''
+          review_decision_date: 2015-06-15T00:00:00.000Z
+          review_decision_event: Normal ISO processing
+          review_decision_notes: 'Publication of document ISO 19147:2015(E)'
+          release: '4'
+          terms:
+            - type: expression
+              designation: servicio de transporte
+              normative_status: preferred
+        parents: []
+        timeCreated: 2015-06-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

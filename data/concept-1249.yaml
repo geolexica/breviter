@@ -1,0 +1,252 @@
+term: remediation
+termid: 1249
+eng:
+  id: 1249
+  definition: act or process of correcting a fault or deficiency
+  language_code: eng
+  notes:
+    - >-
+      Remediation allows more trust because it lowers expected risk. The first
+      act in a remediation sequence is detection of the fault.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19153:2014'
+    clause: '4.41'
+    link: 'https://www.iso.org/standard/32571.html'
+  date_accepted: 2014-02-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: remediation
+      normative_status: preferred
+  _revisions:
+    current: 6d952a
+    tree:
+      6d952a:
+        object:
+          id: 1249
+          definition: act or process of correcting a fault or deficiency
+          language_code: eng
+          notes:
+            - >-
+              Remediation allows more trust because it lowers expected risk. The
+              first act in a remediation sequence is detection of the fault.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19153:2014'
+            clause: '4.41'
+            link: 'https://www.iso.org/standard/32571.html'
+          date_accepted: 2014-02-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: remediation
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+kor:
+  id: 1249
+  definition: 결함 또는 결점을 수정하는 처리 과정
+  language_code: kor
+  notes:
+    - >-
+      Remediation allows more trust because it lowers expected risk. The first
+      act in a remediation sequence is detection of the fault.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19153:2014'
+    clause: '4.41'
+    link: 'https://www.iso.org/standard/32571.html'
+  date_accepted: 2014-02-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: '교정, 개선'
+      normative_status: preferred
+  _revisions:
+    current: bd47e9
+    tree:
+      bd47e9:
+        object:
+          id: 1249
+          definition: 결함 또는 결점을 수정하는 처리 과정
+          language_code: kor
+          notes:
+            - >-
+              Remediation allows more trust because it lowers expected risk. The
+              first act in a remediation sequence is detection of the fault.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19153:2014'
+            clause: '4.41'
+            link: 'https://www.iso.org/standard/32571.html'
+          date_accepted: 2014-02-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: '교정, 개선'
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+msa:
+  id: 1249
+  definition: Proses pembetulan kesilapan atau kekurangan.
+  language_code: msa
+  notes:
+    - >-
+      Remediation allows more trust because it lowers expected risk. The first
+      act in a remediation sequence is detection of the fault.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19153:2014'
+    clause: '4.41'
+    link: 'https://www.iso.org/standard/32571.html'
+  date_accepted: 2014-02-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: pemulihan
+      normative_status: preferred
+  _revisions:
+    current: 4fde43
+    tree:
+      4fde43:
+        object:
+          id: 1249
+          definition: Proses pembetulan kesilapan atau kekurangan.
+          language_code: msa
+          notes:
+            - >-
+              Remediation allows more trust because it lowers expected risk. The
+              first act in a remediation sequence is detection of the fault.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19153:2014'
+            clause: '4.41'
+            link: 'https://www.iso.org/standard/32571.html'
+          date_accepted: 2014-02-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: pemulihan
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 1249
+  definition: действие или процесс устранения ошибки или недостатка
+  language_code: rus
+  notes:
+    - >-
+      исправление позволяет повысить доверие, поскольку снижает ожидаемый риск.
+      Первым действием в последовательности исправления является обнаружение
+      неисправности.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19153:2014'
+    clause: '4.41'
+    link: 'https://www.iso.org/standard/32571.html'
+  lineage_source: 'ISO 19153:2014'
+  date_accepted: 2014-02-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: Исправление
+      normative_status: preferred
+  _revisions:
+    current: fa8412
+    tree:
+      fa8412:
+        object:
+          id: 1249
+          definition: действие или процесс устранения ошибки или недостатка
+          language_code: rus
+          notes:
+            - >-
+              исправление позволяет повысить доверие, поскольку снижает
+              ожидаемый риск. Первым действием в последовательности исправления
+              является обнаружение неисправности.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19153:2014'
+            clause: '4.41'
+            link: 'https://www.iso.org/standard/32571.html'
+          lineage_source: 'ISO 19153:2014'
+          date_accepted: 2014-02-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: Исправление
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 1249
+  definition: acción o proceso de corregir un fallo o deficiencia
+  language_code: spa
+  notes:
+    - >-
+      La corrección permite una mayor confianza porque disminuye el riesgo
+      esperado. La primera acción en una corrección es la detección del fallo.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19153:2014'
+    clause: '4.41'
+    link: 'https://www.iso.org/standard/32571.html'
+  date_accepted: 2014-02-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: corrección
+      normative_status: preferred
+  _revisions:
+    current: '906000'
+    tree:
+      '906000':
+        object:
+          id: 1249
+          definition: acción o proceso de corregir un fallo o deficiencia
+          language_code: spa
+          notes:
+            - >-
+              La corrección permite una mayor confianza porque disminuye el
+              riesgo esperado. La primera acción en una corrección es la
+              detección del fallo.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19153:2014'
+            clause: '4.41'
+            link: 'https://www.iso.org/standard/32571.html'
+          date_accepted: 2014-02-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: corrección
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

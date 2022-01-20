@@ -1,0 +1,298 @@
+term: attribute event
+termid: 1169
+eng:
+  id: 1169
+  definition: >-
+    value of an attribute of a feature that may apply to only part of the
+    feature
+  language_code: eng
+  notes:
+    - >-
+      An attribute event includes the linearly referenced location where the
+      attribute value applies along the attributed feature
+    - >-
+      An attribute event may be qualified by the instant in which, or period
+      during which, the attribute value applied
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19148:2012'
+    clause: '4.1'
+    link: 'https://www.iso.org/standard/32566.html'
+  date_accepted: 2012-02-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: attribute event
+      normative_status: preferred
+  _revisions:
+    current: 2e1f61
+    tree:
+      2e1f61:
+        object:
+          id: 1169
+          definition: >-
+            value of an attribute of a feature that may apply to only part of
+            the feature
+          language_code: eng
+          notes:
+            - >-
+              An attribute event includes the linearly referenced location where
+              the attribute value applies along the attributed feature
+            - >-
+              An attribute event may be qualified by the instant in which, or
+              period during which, the attribute value applied
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19148:2012'
+            clause: '4.1'
+            link: 'https://www.iso.org/standard/32566.html'
+          date_accepted: 2012-02-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: attribute event
+              normative_status: preferred
+        parents: []
+        timeCreated: 2012-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+kor:
+  id: 1169
+  definition: 지형지물의 일부에만 적용 될 수 있는 지형지물의  속성값
+  language_code: kor
+  notes:
+    - >-
+      An attribute event includes the linearly referenced location where the
+      attribute value applies along the attributed feature
+    - >-
+      An attribute event may be qualified by the instant in which, or period
+      during which, the attribute value applied
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19148:2012'
+    clause: '4.1'
+    link: 'https://www.iso.org/standard/32566.html'
+  date_accepted: 2012-02-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: 속성 사건
+      normative_status: preferred
+  _revisions:
+    current: b65c34
+    tree:
+      b65c34:
+        object:
+          id: 1169
+          definition: 지형지물의 일부에만 적용 될 수 있는 지형지물의  속성값
+          language_code: kor
+          notes:
+            - >-
+              An attribute event includes the linearly referenced location where
+              the attribute value applies along the attributed feature
+            - >-
+              An attribute event may be qualified by the instant in which, or
+              period during which, the attribute value applied
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19148:2012'
+            clause: '4.1'
+            link: 'https://www.iso.org/standard/32566.html'
+          date_accepted: 2012-02-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: 속성 사건
+              normative_status: preferred
+        parents: []
+        timeCreated: 2012-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 1169
+  definition: 'значение атрибута объекта, которое может относиться только к части объекта'
+  language_code: rus
+  notes:
+    - >-
+      Событие атрибута включает участок с линейной привязкой, где значение
+      атрибута распространяется только на объект с атрибутом .
+    - >-
+      Событие атрибута можно квалифицировать по моменту (4.8), при котором, или
+      периоду (4.20), в течение которого применялось значение атрибута.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19148:2012'
+    clause: '4.1'
+    link: 'https://www.iso.org/standard/32566.html'
+  lineage_source: 'ISO 19148:2012'
+  date_accepted: 2012-02-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: атрибутивное событие
+      normative_status: preferred
+  _revisions:
+    current: c03d98
+    tree:
+      c03d98:
+        object:
+          id: 1169
+          definition: >-
+            значение атрибута объекта, которое может относиться только к части
+            объекта
+          language_code: rus
+          notes:
+            - >-
+              Событие атрибута включает участок с линейной привязкой, где
+              значение атрибута распространяется только на объект с атрибутом .
+            - >-
+              Событие атрибута можно квалифицировать по моменту (4.8), при
+              котором, или периоду (4.20), в течение которого применялось
+              значение атрибута.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19148:2012'
+            clause: '4.1'
+            link: 'https://www.iso.org/standard/32566.html'
+          lineage_source: 'ISO 19148:2012'
+          date_accepted: 2012-02-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: атрибутивное событие
+              normative_status: preferred
+        parents: []
+        timeCreated: 2012-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 1169
+  definition: >-
+    valor de un atributo de un objeto geográfico que puede aplicarse sólo a
+    parte de un objeto geográfico
+  language_code: spa
+  notes:
+    - >-
+      Un evento de atributo incluye la localización referenciada linealmente
+      (4.16) donde el valor del atributo se aplica a lo largo del fenómeno con
+      atributos (4.2)
+    - >-
+      Un evento de atributo se puede calificar por el instante (4.8) o el
+      periodo (4.20) en el que se da el valor de atributo aplicado
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19148:2012'
+    clause: '4.1'
+    link: 'https://www.iso.org/standard/32566.html'
+  date_accepted: 2012-02-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: atributo parcial
+      normative_status: preferred
+  _revisions:
+    current: dcb7db
+    tree:
+      dcb7db:
+        object:
+          id: 1169
+          definition: >-
+            valor de un atributo de un objeto geográfico que puede aplicarse
+            sólo a parte de un objeto geográfico
+          language_code: spa
+          notes:
+            - >-
+              Un evento de atributo incluye la localización referenciada
+              linealmente (4.16) donde el valor del atributo se aplica a lo
+              largo del fenómeno con atributos (4.2)
+            - >-
+              Un evento de atributo se puede calificar por el instante (4.8) o
+              el periodo (4.20) en el que se da el valor de atributo aplicado
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19148:2012'
+            clause: '4.1'
+            link: 'https://www.iso.org/standard/32566.html'
+          date_accepted: 2012-02-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: atributo parcial
+              normative_status: preferred
+        parents: []
+        timeCreated: 2012-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+swe:
+  id: 1169
+  definition: attributvärde som gäller för endast en del av det objekt som det avser
+  country_code: swe
+  language_code: swe
+  notes:
+    - >-
+      An attribute event includes the linearly referenced location where the
+      attribute value applies along the attributed feature
+    - >-
+      An attribute event may be qualified by the instant in which, or period
+      during which, the attribute value applied
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19148:2012'
+    clause: '4.1'
+    link: 'https://www.iso.org/standard/32566.html'
+  lineage_source: (Type reference to national language document)
+  date_accepted: 2012-02-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: linjeobjektattribut
+      normative_status: preferred
+  _revisions:
+    current: 0bd720
+    tree:
+      0bd720:
+        object:
+          id: 1169
+          definition: >-
+            attributvärde som gäller för endast en del av det objekt som det
+            avser
+          country_code: swe
+          language_code: swe
+          notes:
+            - >-
+              An attribute event includes the linearly referenced location where
+              the attribute value applies along the attributed feature
+            - >-
+              An attribute event may be qualified by the instant in which, or
+              period during which, the attribute value applied
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19148:2012'
+            clause: '4.1'
+            link: 'https://www.iso.org/standard/32566.html'
+          lineage_source: (Type reference to national language document)
+          date_accepted: 2012-02-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: linjeobjektattribut
+              normative_status: preferred
+        parents: []
+        timeCreated: 2012-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

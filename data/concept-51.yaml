@@ -1,0 +1,629 @@
+term: codespace
+termid: 51
+eng:
+  id: 51
+  definition: 'rule or authority for a code, name, term or category'
+  language_code: eng
+  notes: []
+  examples:
+    - 'Examples of codespaces include dictionaries, authorities, codelists, etc.'
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19136-1:2020'
+    clause: '(E), 3.1.8'
+    link: 'https://www.iso.org/standard/75676.html'
+  lineage_source: 'ISO 19136:2007(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2007-09-01T00:00:00.000Z
+  review_date: 2020-01-09T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2020-01-09T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19136-1:2020(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19136:2007 to ISO 19136-1:2020(E),
+    3.1.8. Lineage source added as ISO 19136:2007(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: codespace
+      normative_status: preferred
+  _revisions:
+    current: aac714
+    tree:
+      aac714:
+        object:
+          id: 51
+          definition: 'rule or authority for a code, name, term or category'
+          language_code: eng
+          notes: []
+          examples:
+            - >-
+              Examples of codespaces include dictionaries, authorities,
+              codelists, etc.
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19136-1:2020'
+            clause: '(E), 3.1.8'
+            link: 'https://www.iso.org/standard/75676.html'
+          lineage_source: 'ISO 19136:2007(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2007-09-01T00:00:00.000Z
+          review_date: 2020-01-09T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2020-01-09T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19136-1:2020(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19136:2007 to ISO
+            19136-1:2020(E), 3.1.8. Lineage source added as ISO 19136:2007(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: codespace
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-09-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+ara:
+  id: 51
+  definition: قانون أو سلطة يستمد منها رمز أو اسم أو مصطلح أو فئة
+  language_code: ara
+  notes: []
+  examples:
+    - >-
+      الأمثلة على حيز الرموز وقوائم الرموز تشمل المعاجم , والمصادر المرجعية
+      الموثوقة وقوائم الرموز وخلافه
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19136-1:2020'
+    clause: '(E), 3.1.8'
+    link: 'https://www.iso.org/standard/75676.html'
+  lineage_source: 'ISO 19136:2007(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2007-09-01T00:00:00.000Z
+  review_date: 2020-01-09T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2020-01-09T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19136-1:2020(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19136:2007 to ISO 19136-1:2020(E),
+    3.1.8. Lineage source added as ISO 19136:2007(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: حيز الرمز
+      normative_status: preferred
+  _revisions:
+    current: 5e413f
+    tree:
+      5e413f:
+        object:
+          id: 51
+          definition: قانون أو سلطة يستمد منها رمز أو اسم أو مصطلح أو فئة
+          language_code: ara
+          notes: []
+          examples:
+            - >-
+              الأمثلة على حيز الرموز وقوائم الرموز تشمل المعاجم , والمصادر
+              المرجعية الموثوقة وقوائم الرموز وخلافه
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19136-1:2020'
+            clause: '(E), 3.1.8'
+            link: 'https://www.iso.org/standard/75676.html'
+          lineage_source: 'ISO 19136:2007(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2007-09-01T00:00:00.000Z
+          review_date: 2020-01-09T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2020-01-09T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19136-1:2020(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19136:2007 to ISO
+            19136-1:2020(E), 3.1.8. Lineage source added as ISO 19136:2007(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: حيز الرمز
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-09-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+zho:
+  id: 51
+  definition: 确认代码、名称、术语或类别的规则或者典据。
+  language_code: zho
+  notes: []
+  examples:
+    - 代码空间的例子包括字典、 典据、代码表等。
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19136-1:2020'
+    clause: '(E), 3.1.8'
+    link: 'https://www.iso.org/standard/75676.html'
+  lineage_source: 'ISO 19136:2007(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2007-09-01T00:00:00.000Z
+  review_date: 2020-01-09T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2020-01-09T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19136-1:2020(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19136:2007 to ISO 19136-1:2020(E),
+    3.1.8. Lineage source added as ISO 19136:2007(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: 代码空间
+      normative_status: preferred
+  _revisions:
+    current: 51bd86
+    tree:
+      51bd86:
+        object:
+          id: 51
+          definition: 确认代码、名称、术语或类别的规则或者典据。
+          language_code: zho
+          notes: []
+          examples:
+            - 代码空间的例子包括字典、 典据、代码表等。
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19136-1:2020'
+            clause: '(E), 3.1.8'
+            link: 'https://www.iso.org/standard/75676.html'
+          lineage_source: 'ISO 19136:2007(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2007-09-01T00:00:00.000Z
+          review_date: 2020-01-09T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2020-01-09T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19136-1:2020(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19136:2007 to ISO
+            19136-1:2020(E), 3.1.8. Lineage source added as ISO 19136:2007(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: 代码空间
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-09-01T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+fin:
+  id: 51
+  definition: 'valtuusalue koodille, nimelle, termille tai kategorialle'
+  language_code: fin
+  notes: []
+  examples:
+    - >-
+      Koodiavaruuksia ovat esimerkiksi sanakirjat, valtuusalueet, koodilistat
+      jne.
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19136-1:2020'
+    clause: '(E), 3.1.8'
+    link: 'https://www.iso.org/standard/75676.html'
+  lineage_source: 'ISO 19136:2007(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2007-09-01T00:00:00.000Z
+  review_date: 2020-01-09T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2020-01-09T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19136-1:2020(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19136:2007 to ISO 19136-1:2020(E),
+    3.1.8. Lineage source added as ISO 19136:2007(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: koodiavaruus
+      normative_status: preferred
+  _revisions:
+    current: 9bfad9
+    tree:
+      9bfad9:
+        object:
+          id: 51
+          definition: 'valtuusalue koodille, nimelle, termille tai kategorialle'
+          language_code: fin
+          notes: []
+          examples:
+            - >-
+              Koodiavaruuksia ovat esimerkiksi sanakirjat, valtuusalueet,
+              koodilistat jne.
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19136-1:2020'
+            clause: '(E), 3.1.8'
+            link: 'https://www.iso.org/standard/75676.html'
+          lineage_source: 'ISO 19136:2007(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2007-09-01T00:00:00.000Z
+          review_date: 2020-01-09T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2020-01-09T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19136-1:2020(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19136:2007 to ISO
+            19136-1:2020(E), 3.1.8. Lineage source added as ISO 19136:2007(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: koodiavaruus
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-09-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+fra:
+  id: 51
+  definition: 'règle ou autorité relative à un code, un nom, un terme ou une catégorie'
+  language_code: fra
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19136-1:2020'
+    clause: '(E), 3.1.8'
+    link: 'https://www.iso.org/standard/75676.html'
+  lineage_source: 'ISO 19136:2007(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2007-09-01T00:00:00.000Z
+  review_date: 2020-01-09T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2020-01-09T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19136-1:2020(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19136:2007 to ISO 19136-1:2020(E),
+    3.1.8. Lineage source added as ISO 19136:2007(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: espace de codage
+      normative_status: preferred
+  _revisions:
+    current: 1f684e
+    tree:
+      1f684e:
+        object:
+          id: 51
+          definition: >-
+            règle ou autorité relative à un code, un nom, un terme ou une
+            catégorie
+          language_code: fra
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19136-1:2020'
+            clause: '(E), 3.1.8'
+            link: 'https://www.iso.org/standard/75676.html'
+          lineage_source: 'ISO 19136:2007(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2007-09-01T00:00:00.000Z
+          review_date: 2020-01-09T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2020-01-09T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19136-1:2020(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19136:2007 to ISO
+            19136-1:2020(E), 3.1.8. Lineage source added as ISO 19136:2007(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: espace de codage
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-09-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+deu:
+  id: 51
+  definition: 'Regel oder Vorgabe für einen Code, Namen, Begriff oder Kategorie'
+  language_code: deu
+  notes: []
+  examples:
+    - 'Examples of codespaces include dictionaries, authorities, codelists, etc.'
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19136-1:2020'
+    clause: '(E), 3.1.8'
+    link: 'https://www.iso.org/standard/75676.html'
+  lineage_source: 'ISO 19136:2007(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2007-09-01T00:00:00.000Z
+  review_date: 2020-01-09T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2020-01-09T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19136-1:2020(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19136:2007 to ISO 19136-1:2020(E),
+    3.1.8. Lineage source added as ISO 19136:2007(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: Codespace
+      normative_status: preferred
+  _revisions:
+    current: aae1ba
+    tree:
+      aae1ba:
+        object:
+          id: 51
+          definition: 'Regel oder Vorgabe für einen Code, Namen, Begriff oder Kategorie'
+          language_code: deu
+          notes: []
+          examples:
+            - >-
+              Examples of codespaces include dictionaries, authorities,
+              codelists, etc.
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19136-1:2020'
+            clause: '(E), 3.1.8'
+            link: 'https://www.iso.org/standard/75676.html'
+          lineage_source: 'ISO 19136:2007(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2007-09-01T00:00:00.000Z
+          review_date: 2020-01-09T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2020-01-09T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19136-1:2020(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19136:2007 to ISO
+            19136-1:2020(E), 3.1.8. Lineage source added as ISO 19136:2007(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: Codespace
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-09-01T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+kor:
+  id: 51
+  definition: '코드, 이름, 용어, 분류 체계 등에 대한 규정'
+  language_code: kor
+  notes: []
+  examples:
+    - '코드 영역은 사전, 대표 기관, 코드 목록 등을 포함'
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19136-1:2020'
+    clause: '(E), 3.1.8'
+    link: 'https://www.iso.org/standard/75676.html'
+  lineage_source: 'ISO 19136:2007(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2007-09-01T00:00:00.000Z
+  review_date: 2020-01-09T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2020-01-09T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19136-1:2020(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19136:2007 to ISO 19136-1:2020(E),
+    3.1.8. Lineage source added as ISO 19136:2007(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: 코드 영역
+      normative_status: preferred
+  _revisions:
+    current: b1bcaf
+    tree:
+      b1bcaf:
+        object:
+          id: 51
+          definition: '코드, 이름, 용어, 분류 체계 등에 대한 규정'
+          language_code: kor
+          notes: []
+          examples:
+            - '코드 영역은 사전, 대표 기관, 코드 목록 등을 포함'
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19136-1:2020'
+            clause: '(E), 3.1.8'
+            link: 'https://www.iso.org/standard/75676.html'
+          lineage_source: 'ISO 19136:2007(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2007-09-01T00:00:00.000Z
+          review_date: 2020-01-09T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2020-01-09T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19136-1:2020(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19136:2007 to ISO
+            19136-1:2020(E), 3.1.8. Lineage source added as ISO 19136:2007(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: 코드 영역
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-09-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 51
+  definition: >-
+    правило или уполномоченный орган,  определенные для назначения кода, имени,
+    термина или категории
+  language_code: rus
+  notes: []
+  examples:
+    - >-
+      ами пространств кодов являются словари, уполномоченные органы, кодовые
+      списки и т.п.
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19136-1:2020'
+    clause: '(E), 3.1.8'
+    link: 'https://www.iso.org/standard/75676.html'
+  lineage_source: 'ISO 19136:2007(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2007-09-01T00:00:00.000Z
+  review_date: 2020-01-09T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2020-01-09T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19136-1:2020(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19136:2007 to ISO 19136-1:2020(E),
+    3.1.8. Lineage source added as ISO 19136:2007(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: пространство кодов
+      normative_status: preferred
+  _revisions:
+    current: 452a2b
+    tree:
+      452a2b:
+        object:
+          id: 51
+          definition: >-
+            правило или уполномоченный орган,  определенные для назначения кода,
+            имени, термина или категории
+          language_code: rus
+          notes: []
+          examples:
+            - >-
+              ами пространств кодов являются словари, уполномоченные органы,
+              кодовые списки и т.п.
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19136-1:2020'
+            clause: '(E), 3.1.8'
+            link: 'https://www.iso.org/standard/75676.html'
+          lineage_source: 'ISO 19136:2007(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2007-09-01T00:00:00.000Z
+          review_date: 2020-01-09T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2020-01-09T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19136-1:2020(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19136:2007 to ISO
+            19136-1:2020(E), 3.1.8. Lineage source added as ISO 19136:2007(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: пространство кодов
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-09-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 51
+  definition: 'regla o autoridad para un código, nombre, término o categoría'
+  language_code: spa
+  notes: []
+  examples:
+    - >-
+      Ejemplos de espacios de códigos son los diccionarios, autoridades, listas
+      de códigos, etc.
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19136-1:2020'
+    clause: '(E), 3.1.8'
+    link: 'https://www.iso.org/standard/75676.html'
+  lineage_source: 'ISO 19136:2007(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2007-09-01T00:00:00.000Z
+  review_date: 2020-01-09T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2020-01-09T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19136-1:2020(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19136:2007 to ISO 19136-1:2020(E),
+    3.1.8. Lineage source added as ISO 19136:2007(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: espacio de códigos (codespace)
+      normative_status: preferred
+  _revisions:
+    current: '722603'
+    tree:
+      '722603':
+        object:
+          id: 51
+          definition: 'regla o autoridad para un código, nombre, término o categoría'
+          language_code: spa
+          notes: []
+          examples:
+            - >-
+              Ejemplos de espacios de códigos son los diccionarios, autoridades,
+              listas de códigos, etc.
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19136-1:2020'
+            clause: '(E), 3.1.8'
+            link: 'https://www.iso.org/standard/75676.html'
+          lineage_source: 'ISO 19136:2007(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2007-09-01T00:00:00.000Z
+          review_date: 2020-01-09T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2020-01-09T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19136-1:2020(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19136:2007 to ISO
+            19136-1:2020(E), 3.1.8. Lineage source added as ISO 19136:2007(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: espacio de códigos (codespace)
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-09-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

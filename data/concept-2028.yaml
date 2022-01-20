@@ -1,0 +1,76 @@
+term: abstract root <programming>
+termid: 2028
+eng:
+  id: 2028
+  definition: >-
+    common root classifier of a category which is a superclass of any other
+    classifier in the category
+  language_code: eng
+  notes:
+    - >-
+      The class Any in some programming languages is the abstract root of all
+      classes. Thus, it is the de facto union of all classes. In this document,
+      Geometry is the (named and explicit) abstract root for all geometry
+      objects. In the package Geometry and any of its subpackages (including
+      those in its Requirements Classes), any interface will be a subtype of
+      Geometry either directly or transitively.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19107:2019'
+    clause: '(E), 3.1'
+    link: 'https://www.iso.org/standard/66175.html'
+  date_accepted: 2019-12-02T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: Normal ISO processing
+  review_decision_notes: 'Publication of document ISO 19107:2019(E)'
+  release: '5'
+  terms:
+    - type: expression
+      designation: abstract root <programming>
+      normative_status: preferred
+  _revisions:
+    current: 1b575d
+    tree:
+      1b575d:
+        object:
+          id: 2028
+          definition: >-
+            common root classifier of a category which is a superclass of any
+            other classifier in the category
+          language_code: eng
+          notes:
+            - >-
+              The class Any in some programming languages is the abstract root
+              of all classes. Thus, it is the de facto union of all classes. In
+              this document, Geometry is the (named and explicit) abstract root
+              for all geometry objects. In the package Geometry and any of its
+              subpackages (including those in its Requirements Classes), any
+              interface will be a subtype of Geometry either directly or
+              transitively.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19107:2019'
+            clause: '(E), 3.1'
+            link: 'https://www.iso.org/standard/66175.html'
+          date_accepted: 2019-12-02T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: Normal ISO processing
+          review_decision_notes: 'Publication of document ISO 19107:2019(E)'
+          release: '5'
+          terms:
+            - type: expression
+              designation: abstract root <programming>
+              normative_status: preferred
+        parents: []
+        timeCreated: 2019-12-02T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

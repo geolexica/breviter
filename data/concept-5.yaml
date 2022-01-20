@@ -1,0 +1,626 @@
+term: abstract test module
+termid: 5
+eng:
+  id: 5
+  definition: set of related abstract test cases
+  language_code: eng
+  notes:
+    - Abstract test modules may be nested in a hierarchical way.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19105:2000'
+    link: 'https://www.iso.org/standard/26010.html'
+  date_accepted: 2000-12-15T00:00:00.000Z
+  review_date: 2019-07-05T00:00:00.000Z
+  review_status: pending
+  review_type: retirement
+  release: '1'
+  terms:
+    - type: expression
+      designation: abstract test module
+      normative_status: preferred
+  _revisions:
+    current: '931807'
+    tree:
+      '931807':
+        object:
+          id: 5
+          definition: set of related abstract test cases
+          language_code: eng
+          notes:
+            - Abstract test modules may be nested in a hierarchical way.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19105:2000'
+            link: 'https://www.iso.org/standard/26010.html'
+          date_accepted: 2000-12-15T00:00:00.000Z
+          review_date: 2019-07-05T00:00:00.000Z
+          review_status: pending
+          review_type: retirement
+          release: '1'
+          terms:
+            - type: expression
+              designation: abstract test module
+              normative_status: preferred
+        parents: []
+        timeCreated: 2000-12-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+ara:
+  id: 5
+  definition: مجموعة حالات اختبار تجريدي مرتبطة ببعضها
+  language_code: ara
+  notes:
+    - >-
+      الوحدات التكاملية المستقلة للاختبار التجريدي يمكن تعشيشها على نسق تسلسل
+      هرمي
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19105:2000'
+    link: 'https://www.iso.org/standard/26010.html'
+  date_accepted: 2000-12-15T00:00:00.000Z
+  review_date: 2019-07-05T00:00:00.000Z
+  review_status: pending
+  review_type: retirement
+  release: '1'
+  terms:
+    - type: expression
+      designation: نموذج اختبار تجريدي
+      normative_status: preferred
+  _revisions:
+    current: 3efc33
+    tree:
+      3efc33:
+        object:
+          id: 5
+          definition: مجموعة حالات اختبار تجريدي مرتبطة ببعضها
+          language_code: ara
+          notes:
+            - >-
+              الوحدات التكاملية المستقلة للاختبار التجريدي يمكن تعشيشها على نسق
+              تسلسل هرمي
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19105:2000'
+            link: 'https://www.iso.org/standard/26010.html'
+          date_accepted: 2000-12-15T00:00:00.000Z
+          review_date: 2019-07-05T00:00:00.000Z
+          review_status: pending
+          review_type: retirement
+          release: '1'
+          terms:
+            - type: expression
+              designation: نموذج اختبار تجريدي
+              normative_status: preferred
+        parents: []
+        timeCreated: 2000-12-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+zho:
+  id: 5
+  definition: 相关抽象测试用例的集合。
+  language_code: zho
+  notes:
+    - 抽象测试模块可以层次镶嵌。
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19105:2000'
+    link: 'https://www.iso.org/standard/26010.html'
+  date_accepted: 2000-12-15T00:00:00.000Z
+  review_date: 2019-07-05T00:00:00.000Z
+  review_status: pending
+  review_type: retirement
+  release: '1'
+  terms:
+    - type: expression
+      designation: 抽象测试模块
+      normative_status: preferred
+  _revisions:
+    current: 31059e
+    tree:
+      31059e:
+        object:
+          id: 5
+          definition: 相关抽象测试用例的集合。
+          language_code: zho
+          notes:
+            - 抽象测试模块可以层次镶嵌。
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19105:2000'
+            link: 'https://www.iso.org/standard/26010.html'
+          date_accepted: 2000-12-15T00:00:00.000Z
+          review_date: 2019-07-05T00:00:00.000Z
+          review_status: pending
+          review_type: retirement
+          release: '1'
+          terms:
+            - type: expression
+              designation: 抽象测试模块
+              normative_status: preferred
+        parents: []
+        timeCreated: 2000-12-15T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+dan:
+  id: 5
+  definition: sæt af forbundne abstrakte testforløb
+  language_code: dan
+  notes:
+    - Abstrakte testmoduler kan hænge hierarkisk sammen.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19105:2000'
+    link: 'https://www.iso.org/standard/26010.html'
+  date_accepted: 2000-12-15T00:00:00.000Z
+  review_date: 2019-07-05T00:00:00.000Z
+  review_status: pending
+  review_type: retirement
+  release: '1'
+  terms:
+    - type: expression
+      designation: abstrakt testmodul
+      normative_status: preferred
+  _revisions:
+    current: 9e82b3
+    tree:
+      9e82b3:
+        object:
+          id: 5
+          definition: sæt af forbundne abstrakte testforløb
+          language_code: dan
+          notes:
+            - Abstrakte testmoduler kan hænge hierarkisk sammen.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19105:2000'
+            link: 'https://www.iso.org/standard/26010.html'
+          date_accepted: 2000-12-15T00:00:00.000Z
+          review_date: 2019-07-05T00:00:00.000Z
+          review_status: pending
+          review_type: retirement
+          release: '1'
+          terms:
+            - type: expression
+              designation: abstrakt testmodul
+              normative_status: preferred
+        parents: []
+        timeCreated: 2000-12-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+fin:
+  id: 5
+  definition: joukko toisiinsa liittyviä abstrakteja testitapauksia
+  language_code: fin
+  notes:
+    - Abstrakteja testausmoduuleja voi sijoittaa sisäkkäin hierarkkisesti.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19105:2000'
+    link: 'https://www.iso.org/standard/26010.html'
+  date_accepted: 2000-12-15T00:00:00.000Z
+  review_date: 2019-07-05T00:00:00.000Z
+  review_status: pending
+  review_type: retirement
+  release: '1'
+  terms:
+    - type: expression
+      designation: abstrakti testausmoduuli
+      normative_status: preferred
+  _revisions:
+    current: f83ba2
+    tree:
+      f83ba2:
+        object:
+          id: 5
+          definition: joukko toisiinsa liittyviä abstrakteja testitapauksia
+          language_code: fin
+          notes:
+            - >-
+              Abstrakteja testausmoduuleja voi sijoittaa sisäkkäin
+              hierarkkisesti.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19105:2000'
+            link: 'https://www.iso.org/standard/26010.html'
+          date_accepted: 2000-12-15T00:00:00.000Z
+          review_date: 2019-07-05T00:00:00.000Z
+          review_status: pending
+          review_type: retirement
+          release: '1'
+          terms:
+            - type: expression
+              designation: abstrakti testausmoduuli
+              normative_status: preferred
+        parents: []
+        timeCreated: 2000-12-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+fra:
+  id: 5
+  definition: ensemble de cas de test abstraits liés
+  language_code: fra
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19105:2000'
+    link: 'https://www.iso.org/standard/26010.html'
+  date_accepted: 2000-12-15T00:00:00.000Z
+  review_date: 2019-07-05T00:00:00.000Z
+  review_status: pending
+  review_type: retirement
+  release: '1'
+  terms:
+    - type: expression
+      designation: module de test abstrait
+      normative_status: preferred
+  _revisions:
+    current: 82f897
+    tree:
+      82f897:
+        object:
+          id: 5
+          definition: ensemble de cas de test abstraits liés
+          language_code: fra
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19105:2000'
+            link: 'https://www.iso.org/standard/26010.html'
+          date_accepted: 2000-12-15T00:00:00.000Z
+          review_date: 2019-07-05T00:00:00.000Z
+          review_status: pending
+          review_type: retirement
+          release: '1'
+          terms:
+            - type: expression
+              designation: module de test abstrait
+              normative_status: preferred
+        parents: []
+        timeCreated: 2000-12-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+deu:
+  id: 5
+  language_code: deu
+  notes:
+    - Abstract test modules may be nested in a hierarchical way.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19105:2000'
+    link: 'https://www.iso.org/standard/26010.html'
+  date_accepted: 2000-12-15T00:00:00.000Z
+  review_date: 2019-07-05T00:00:00.000Z
+  review_status: pending
+  review_type: retirement
+  release: '1'
+  terms:
+    - type: expression
+      designation: abstraktes  Prüfmodul
+      normative_status: preferred
+  _revisions:
+    current: 26603d
+    tree:
+      26603d:
+        object:
+          id: 5
+          language_code: deu
+          notes:
+            - Abstract test modules may be nested in a hierarchical way.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19105:2000'
+            link: 'https://www.iso.org/standard/26010.html'
+          date_accepted: 2000-12-15T00:00:00.000Z
+          review_date: 2019-07-05T00:00:00.000Z
+          review_status: pending
+          review_type: retirement
+          release: '1'
+          terms:
+            - type: expression
+              designation: abstraktes  Prüfmodul
+              normative_status: preferred
+        parents: []
+        timeCreated: 2000-12-15T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+jpn:
+  id: 5
+  definition: 関係する抽象試験項目の集合。
+  language_code: jpn
+  notes:
+    - 抽象試験モジュールは，階層的な方法で，入れ子になってもよい。
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19105:2000'
+    link: 'https://www.iso.org/standard/26010.html'
+  date_accepted: 2000-12-15T00:00:00.000Z
+  review_date: 2019-07-05T00:00:00.000Z
+  review_status: pending
+  review_type: retirement
+  release: '1'
+  terms:
+    - type: expression
+      designation: 抽象試験モジュール
+      normative_status: preferred
+  _revisions:
+    current: 13b493
+    tree:
+      13b493:
+        object:
+          id: 5
+          definition: 関係する抽象試験項目の集合。
+          language_code: jpn
+          notes:
+            - 抽象試験モジュールは，階層的な方法で，入れ子になってもよい。
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19105:2000'
+            link: 'https://www.iso.org/standard/26010.html'
+          date_accepted: 2000-12-15T00:00:00.000Z
+          review_date: 2019-07-05T00:00:00.000Z
+          review_status: pending
+          review_type: retirement
+          release: '1'
+          terms:
+            - type: expression
+              designation: 抽象試験モジュール
+              normative_status: preferred
+        parents: []
+        timeCreated: 2000-12-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+kor:
+  id: 5
+  definition: 관련된 추상 시험 케이스의 집합
+  language_code: kor
+  notes:
+    - 추상 시험 모듈은 계층적 구조를 가질 수 있다.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19105:2000'
+    link: 'https://www.iso.org/standard/26010.html'
+  date_accepted: 2000-12-15T00:00:00.000Z
+  review_date: 2019-07-05T00:00:00.000Z
+  review_status: pending
+  review_type: retirement
+  release: '1'
+  terms:
+    - type: expression
+      designation: 추상 시험 모듈
+      normative_status: preferred
+  _revisions:
+    current: 742a2b
+    tree:
+      742a2b:
+        object:
+          id: 5
+          definition: 관련된 추상 시험 케이스의 집합
+          language_code: kor
+          notes:
+            - 추상 시험 모듈은 계층적 구조를 가질 수 있다.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19105:2000'
+            link: 'https://www.iso.org/standard/26010.html'
+          date_accepted: 2000-12-15T00:00:00.000Z
+          review_date: 2019-07-05T00:00:00.000Z
+          review_status: pending
+          review_type: retirement
+          release: '1'
+          terms:
+            - type: expression
+              designation: 추상 시험 모듈
+              normative_status: preferred
+        parents: []
+        timeCreated: 2000-12-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 5
+  definition: набор взаимосвязанных абстрактных тестов
+  language_code: rus
+  notes:
+    - >-
+      Модули абстрактных тестов могут вкладываться друг в друга, образуя 
+      иерархическую структуру
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19105:2000'
+    link: 'https://www.iso.org/standard/26010.html'
+  date_accepted: 2000-12-15T00:00:00.000Z
+  review_date: 2019-07-05T00:00:00.000Z
+  review_status: pending
+  review_type: retirement
+  release: '1'
+  terms:
+    - type: expression
+      designation: модуль  абстрактных тестов
+      normative_status: preferred
+  _revisions:
+    current: 85de50
+    tree:
+      85de50:
+        object:
+          id: 5
+          definition: набор взаимосвязанных абстрактных тестов
+          language_code: rus
+          notes:
+            - >-
+              Модули абстрактных тестов могут вкладываться друг в друга,
+              образуя  иерархическую структуру
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19105:2000'
+            link: 'https://www.iso.org/standard/26010.html'
+          date_accepted: 2000-12-15T00:00:00.000Z
+          review_date: 2019-07-05T00:00:00.000Z
+          review_status: pending
+          review_type: retirement
+          release: '1'
+          terms:
+            - type: expression
+              designation: модуль  абстрактных тестов
+              normative_status: preferred
+        parents: []
+        timeCreated: 2000-12-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 5
+  definition: conjunto de pruebas genéricas relacionadas entre sí
+  language_code: spa
+  notes:
+    - >-
+      Los módulos de pruebas genéricas pueden estar anidados de un modo
+      jerárquico.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19105:2000'
+    link: 'https://www.iso.org/standard/26010.html'
+  date_accepted: 2000-12-15T00:00:00.000Z
+  review_date: 2019-07-05T00:00:00.000Z
+  review_status: pending
+  review_type: retirement
+  release: '1'
+  terms:
+    - type: expression
+      designation: módulo de pruebas abstractas
+      normative_status: preferred
+  _revisions:
+    current: 77e6d8
+    tree:
+      77e6d8:
+        object:
+          id: 5
+          definition: conjunto de pruebas genéricas relacionadas entre sí
+          language_code: spa
+          notes:
+            - >-
+              Los módulos de pruebas genéricas pueden estar anidados de un modo
+              jerárquico.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19105:2000'
+            link: 'https://www.iso.org/standard/26010.html'
+          date_accepted: 2000-12-15T00:00:00.000Z
+          review_date: 2019-07-05T00:00:00.000Z
+          review_status: pending
+          review_type: retirement
+          release: '1'
+          terms:
+            - type: expression
+              designation: módulo de pruebas abstractas
+              normative_status: preferred
+        parents: []
+        timeCreated: 2000-12-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+swe:
+  id: 5
+  definition: samling av samhörande abstrakta testfall
+  country_code: swe
+  language_code: swe
+  notes:
+    - Abstract test modules may be nested in a hierarchical way.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19105:2000'
+    link: 'https://www.iso.org/standard/26010.html'
+  date_accepted: 2000-12-15T00:00:00.000Z
+  review_date: 2019-07-05T00:00:00.000Z
+  review_status: pending
+  review_type: retirement
+  release: '1'
+  terms:
+    - type: expression
+      designation: abstrakt testmodul
+      normative_status: preferred
+  _revisions:
+    current: 7bb603
+    tree:
+      7bb603:
+        object:
+          id: 5
+          definition: samling av samhörande abstrakta testfall
+          country_code: swe
+          language_code: swe
+          notes:
+            - Abstract test modules may be nested in a hierarchical way.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19105:2000'
+            link: 'https://www.iso.org/standard/26010.html'
+          date_accepted: 2000-12-15T00:00:00.000Z
+          review_date: 2019-07-05T00:00:00.000Z
+          review_status: pending
+          review_type: retirement
+          release: '1'
+          terms:
+            - type: expression
+              designation: abstrakt testmodul
+              normative_status: preferred
+        parents: []
+        timeCreated: 2000-12-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

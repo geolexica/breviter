@@ -1,0 +1,242 @@
+term: traversal <XML>
+termid: 785
+eng:
+  id: 785
+  definition: using or following an XLink link for any purpose
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'W3C XLink:2001'
+  lineage_source: 'ISO 19142:2010'
+  date_accepted: 2010-12-15T00:00:00.000Z
+  release: '2'
+  terms:
+    - type: expression
+      designation: traversal <XML>
+      normative_status: preferred
+  _revisions:
+    current: 5a0ea6
+    tree:
+      5a0ea6:
+        object:
+          id: 785
+          definition: using or following an XLink link for any purpose
+          language_code: eng
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'W3C XLink:2001'
+          lineage_source: 'ISO 19142:2010'
+          date_accepted: 2010-12-15T00:00:00.000Z
+          release: '2'
+          terms:
+            - type: expression
+              designation: traversal <XML>
+              normative_status: preferred
+        parents: []
+        timeCreated: 2010-12-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+ara:
+  id: 785
+  definition: استخدام أو اتباع رابط XLink لأي غرض
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'W3C XLink:2001'
+  date_accepted: 2010-12-15T00:00:00.000Z
+  release: '2'
+  terms:
+    - type: expression
+      designation: اجتياز <XML>
+      normative_status: preferred
+  _revisions:
+    current: 4e1d92
+    tree:
+      4e1d92:
+        object:
+          id: 785
+          definition: استخدام أو اتباع رابط XLink لأي غرض
+          language_code: ara
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'W3C XLink:2001'
+          date_accepted: 2010-12-15T00:00:00.000Z
+          release: '2'
+          terms:
+            - type: expression
+              designation: اجتياز <XML>
+              normative_status: preferred
+        parents: []
+        timeCreated: 2010-12-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+deu:
+  id: 785
+  definition: Nutzung oder Verfolgung einer Xlink-Verknüpfung
+  language_code: deu
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'W3C XLink:2001'
+  date_accepted: 2010-12-15T00:00:00.000Z
+  release: '2'
+  terms:
+    - type: expression
+      designation: Durchquerung <XML>
+      normative_status: preferred
+  _revisions:
+    current: 3d333e
+    tree:
+      3d333e:
+        object:
+          id: 785
+          definition: Nutzung oder Verfolgung einer Xlink-Verknüpfung
+          language_code: deu
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'W3C XLink:2001'
+          date_accepted: 2010-12-15T00:00:00.000Z
+          release: '2'
+          terms:
+            - type: expression
+              designation: Durchquerung <XML>
+              normative_status: preferred
+        parents: []
+        timeCreated: 2010-12-15T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+kor:
+  id: 785
+  definition: 특정 목적으로 Xlink 링크를 따르거나 사용하는 것
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'W3C XLink:2001'
+  date_accepted: 2010-12-15T00:00:00.000Z
+  release: '2'
+  terms:
+    - type: expression
+      designation: 횡단/순회/운행 확장 가능 마크 업 언어
+      normative_status: preferred
+  _revisions:
+    current: 78cd5a
+    tree:
+      78cd5a:
+        object:
+          id: 785
+          definition: 특정 목적으로 Xlink 링크를 따르거나 사용하는 것
+          language_code: kor
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'W3C XLink:2001'
+          date_accepted: 2010-12-15T00:00:00.000Z
+          release: '2'
+          terms:
+            - type: expression
+              designation: 횡단/순회/운행 확장 가능 마크 업 언어
+              normative_status: preferred
+        parents: []
+        timeCreated: 2010-12-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 785
+  definition: использование или следование по ссылке XLink с любой целью
+  language_code: rus
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'W3C XLink:2001'
+  lineage_source: 'ISO 19142:2010'
+  date_accepted: 2010-12-15T00:00:00.000Z
+  release: '2'
+  terms:
+    - type: expression
+      designation: переход <XML>
+      normative_status: preferred
+  _revisions:
+    current: fcf714
+    tree:
+      fcf714:
+        object:
+          id: 785
+          definition: использование или следование по ссылке XLink с любой целью
+          language_code: rus
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'W3C XLink:2001'
+          lineage_source: 'ISO 19142:2010'
+          date_accepted: 2010-12-15T00:00:00.000Z
+          release: '2'
+          terms:
+            - type: expression
+              designation: переход <XML>
+              normative_status: preferred
+        parents: []
+        timeCreated: 2010-12-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 785
+  definition: utilización o seguimiendo de un enlace XLink para cualquier propósito
+  language_code: spa
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'W3C XLink:2001'
+  date_accepted: 2010-12-15T00:00:00.000Z
+  release: '2'
+  terms:
+    - type: expression
+      designation: enlazado <XML>
+      normative_status: preferred
+  _revisions:
+    current: c37763
+    tree:
+      c37763:
+        object:
+          id: 785
+          definition: >-
+            utilización o seguimiendo de un enlace XLink para cualquier
+            propósito
+          language_code: spa
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'W3C XLink:2001'
+          date_accepted: 2010-12-15T00:00:00.000Z
+          release: '2'
+          terms:
+            - type: expression
+              designation: enlazado <XML>
+              normative_status: preferred
+        parents: []
+        timeCreated: 2010-12-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

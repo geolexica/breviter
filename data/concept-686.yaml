@@ -1,0 +1,409 @@
+term: state (of an object)
+termid: 686
+eng:
+  id: 686
+  definition: >-
+    persistent data object reflecting the interal values of all the member
+    attributes or measurable descriptions of a object at a given time
+  language_code: eng
+  notes:
+    - >-
+      State is usually associated to an object by its identity and to a time by
+      a timestamp.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19132:2007'
+    link: 'https://www.iso.org/standard/40601.html'
+  date_accepted: 2007-10-15T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: state (of an object)
+      normative_status: preferred
+  _revisions:
+    current: c31cbf
+    tree:
+      c31cbf:
+        object:
+          id: 686
+          definition: >-
+            persistent data object reflecting the interal values of all the
+            member attributes or measurable descriptions of a object at a given
+            time
+          language_code: eng
+          notes:
+            - >-
+              State is usually associated to an object by its identity and to a
+              time by a timestamp.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19132:2007'
+            link: 'https://www.iso.org/standard/40601.html'
+          date_accepted: 2007-10-15T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: state (of an object)
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-10-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+ara:
+  id: 686
+  definition: >-
+    بيانات كائن ثابتة تعكس قيم جميع الخصائص أو الأوصاف القابلة للقياس لكائن ما
+    في وقت معين
+  language_code: ara
+  notes:
+    - >-
+      ترتبط الحالة عادة بكيان ما بموجب هويته كما ترتبط بالوقت بموجب الطابع
+      الزماني.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19132:2007'
+    link: 'https://www.iso.org/standard/40601.html'
+  date_accepted: 2007-10-15T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: حالة ( للكائن )
+      normative_status: preferred
+  _revisions:
+    current: 1c85e5
+    tree:
+      1c85e5:
+        object:
+          id: 686
+          definition: >-
+            بيانات كائن ثابتة تعكس قيم جميع الخصائص أو الأوصاف القابلة للقياس
+            لكائن ما في وقت معين
+          language_code: ara
+          notes:
+            - >-
+              ترتبط الحالة عادة بكيان ما بموجب هويته كما ترتبط بالوقت بموجب
+              الطابع الزماني.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19132:2007'
+            link: 'https://www.iso.org/standard/40601.html'
+          date_accepted: 2007-10-15T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: حالة ( للكائن )
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-10-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+zho:
+  id: 686
+  definition: 持续数据对象，反映某一对象在给定时间的所有成员属性的内部值或可量测的描述。
+  language_code: zho
+  notes:
+    - 状态通常与对象的标识和对象的时间戳记相关。
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19132:2007'
+    link: 'https://www.iso.org/standard/40601.html'
+  date_accepted: 2007-10-15T00:00:00.000Z
+  terms:
+    - type: expression
+      designation: （对象）状态
+      normative_status: preferred
+  _revisions:
+    current: 7f96e7
+    tree:
+      7f96e7:
+        object:
+          id: 686
+          definition: 持续数据对象，反映某一对象在给定时间的所有成员属性的内部值或可量测的描述。
+          language_code: zho
+          notes:
+            - 状态通常与对象的标识和对象的时间戳记相关。
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19132:2007'
+            link: 'https://www.iso.org/standard/40601.html'
+          date_accepted: 2007-10-15T00:00:00.000Z
+          terms:
+            - type: expression
+              designation: （对象）状态
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-10-15T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+fin:
+  id: 686
+  definition: >-
+    pysyvä tieto-objekti, joka kuvastaa objektin kaikkien attribuuttien tai
+    mitattavissa olevien kuvausten sisäisiä arvoja tiettynä ajankohtana
+  language_code: fin
+  notes:
+    - >-
+      Tila liitetään objektiin tavallisesti sen identiteetin avulla ja aikaan
+      aikaleiman avulla.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19132:2007'
+    link: 'https://www.iso.org/standard/40601.html'
+  lineage_source: 'Ei lähdettä, käännetty'
+  date_accepted: 2007-10-15T00:00:00.000Z
+  terms:
+    - type: expression
+      designation: tila (objektin)
+      normative_status: preferred
+  _revisions:
+    current: 5afac4
+    tree:
+      5afac4:
+        object:
+          id: 686
+          definition: >-
+            pysyvä tieto-objekti, joka kuvastaa objektin kaikkien attribuuttien
+            tai mitattavissa olevien kuvausten sisäisiä arvoja tiettynä
+            ajankohtana
+          language_code: fin
+          notes:
+            - >-
+              Tila liitetään objektiin tavallisesti sen identiteetin avulla ja
+              aikaan aikaleiman avulla.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19132:2007'
+            link: 'https://www.iso.org/standard/40601.html'
+          lineage_source: 'Ei lähdettä, käännetty'
+          date_accepted: 2007-10-15T00:00:00.000Z
+          terms:
+            - type: expression
+              designation: tila (objektin)
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-10-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+fra:
+  id: 686
+  definition: >-
+    objet numérique persistant reflétant les valeurs internes de tous les
+    attributs membres ou des descriptions mesurables d'un objet à un moment
+    donné
+  language_code: fra
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: ISO 19132
+    link: 'https://www.iso.org/standard/40601.html'
+  lineage_source: ''
+  date_accepted: 2007-10-15T00:00:00.000Z
+  terms:
+    - type: expression
+      designation: état (d'un objet)
+      normative_status: preferred
+  _revisions:
+    current: 4fc2eb
+    tree:
+      4fc2eb:
+        object:
+          id: 686
+          definition: >-
+            objet numérique persistant reflétant les valeurs internes de tous
+            les attributs membres ou des descriptions mesurables d'un objet à un
+            moment donné
+          language_code: fra
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: ISO 19132
+            link: 'https://www.iso.org/standard/40601.html'
+          lineage_source: ''
+          date_accepted: 2007-10-15T00:00:00.000Z
+          terms:
+            - type: expression
+              designation: état (d'un objet)
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-10-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+kor:
+  id: 686
+  definition: 주어진 시간에 객체의 모든 속성들의 내부 값 또는 측정 가능한 설명을 반영하는 불변의 데이터 객체
+  language_code: kor
+  notes:
+    - 상태는 보통 식별특성으로 객체와 연관되거나 타임 스탬프에 의해 시간과 연관된다.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19132:2007'
+    link: 'https://www.iso.org/standard/40601.html'
+  lineage_source: KS X ISO 19132
+  date_accepted: 2009-12-29T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: 상태 (하나의 객체에서)
+      normative_status: preferred
+  _revisions:
+    current: dab36e
+    tree:
+      dab36e:
+        object:
+          id: 686
+          definition: 주어진 시간에 객체의 모든 속성들의 내부 값 또는 측정 가능한 설명을 반영하는 불변의 데이터 객체
+          language_code: kor
+          notes:
+            - 상태는 보통 식별특성으로 객체와 연관되거나 타임 스탬프에 의해 시간과 연관된다.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19132:2007'
+            link: 'https://www.iso.org/standard/40601.html'
+          lineage_source: KS X ISO 19132
+          date_accepted: 2009-12-29T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: 상태 (하나의 객체에서)
+              normative_status: preferred
+        parents: []
+        timeCreated: 2009-12-29T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 686
+  definition: >-
+    устойчивый объект, отражающий внутренние значения всех атрибутов некоторого
+    объекта или измеряемые его характеристики в определенный момент
+  language_code: rus
+  notes:
+    - >-
+      Состояние обычно связывают с объектом через его идентичность, а со
+      временем – через метку времени
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19132:2007'
+    link: 'https://www.iso.org/standard/40601.html'
+  lineage_source: Internet
+  date_accepted: 2007-10-15T00:00:00.000Z
+  terms:
+    - type: expression
+      designation: состояние (объекта)
+      normative_status: preferred
+  _revisions:
+    current: 0116f8
+    tree:
+      0116f8:
+        object:
+          id: 686
+          definition: >-
+            устойчивый объект, отражающий внутренние значения всех атрибутов
+            некоторого объекта или измеряемые его характеристики в определенный
+            момент
+          language_code: rus
+          notes:
+            - >-
+              Состояние обычно связывают с объектом через его идентичность, а со
+              временем – через метку времени
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19132:2007'
+            link: 'https://www.iso.org/standard/40601.html'
+          lineage_source: Internet
+          date_accepted: 2007-10-15T00:00:00.000Z
+          terms:
+            - type: expression
+              designation: состояние (объекта)
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-10-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 686
+  definition: >-
+    (de un objeto) objeto de datos persistente que refleja los valores internos
+    de todos los atributos miembros  o descripciones medibles de un objeto en un
+    momento dado
+  language_code: spa
+  notes:
+    - >-
+      Estado se asocia normalmente a un objeto por su identidad y a un tiempo
+      por una marca temporal.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19132:2007'
+    link: 'https://www.iso.org/standard/40601.html'
+  date_accepted: 2007-10-15T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: estado
+      normative_status: preferred
+  _revisions:
+    current: 7ee23a
+    tree:
+      7ee23a:
+        object:
+          id: 686
+          definition: >-
+            (de un objeto) objeto de datos persistente que refleja los valores
+            internos de todos los atributos miembros  o descripciones medibles
+            de un objeto en un momento dado
+          language_code: spa
+          notes:
+            - >-
+              Estado se asocia normalmente a un objeto por su identidad y a un
+              tiempo por una marca temporal.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19132:2007'
+            link: 'https://www.iso.org/standard/40601.html'
+          date_accepted: 2007-10-15T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: estado
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-10-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

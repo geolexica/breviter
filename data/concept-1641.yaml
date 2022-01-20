@@ -1,0 +1,159 @@
+term: ubiquitous public access
+termid: 1641
+eng:
+  id: 1641
+  abbrev: UPA
+  definition: >-
+    service that enables end-users to have easy and interoperable access to
+    specific types of data, irrespective of their location or access device, and
+    that match their interest criteria
+  language_code: eng
+  notes:
+    - >-
+      In the example, the Linked GeoData Service is responsible for openly
+      inter-connecting geographic information to external repositories or web
+      resources using a transform to either Resource Description Framework (RDF)
+      or Web Ontology Language (OWL) format.
+  examples:
+    - Linked Geodata Service
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19154:2014'
+    clause: '4.25'
+    link: 'https://www.iso.org/standard/32572.html'
+  date_accepted: 2014-11-01T00:00:00.000Z
+  review_date: 2012-08-03T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2014-11-01T00:00:00.000Z
+  review_decision_event: Normal ISO processing
+  review_decision_notes: 'Publication of document ISO 19154:2014(E)'
+  release: '4'
+  terms:
+    - type: expression
+      designation: ubiquitous public access
+      normative_status: preferred
+  _revisions:
+    current: e45087
+    tree:
+      e45087:
+        object:
+          id: 1641
+          abbrev: UPA
+          definition: >-
+            service that enables end-users to have easy and interoperable access
+            to specific types of data, irrespective of their location or access
+            device, and that match their interest criteria
+          language_code: eng
+          notes:
+            - >-
+              In the example, the Linked GeoData Service is responsible for
+              openly inter-connecting geographic information to external
+              repositories or web resources using a transform to either Resource
+              Description Framework (RDF) or Web Ontology Language (OWL) format.
+          examples:
+            - Linked Geodata Service
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19154:2014'
+            clause: '4.25'
+            link: 'https://www.iso.org/standard/32572.html'
+          date_accepted: 2014-11-01T00:00:00.000Z
+          review_date: 2012-08-03T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2014-11-01T00:00:00.000Z
+          review_decision_event: Normal ISO processing
+          review_decision_notes: 'Publication of document ISO 19154:2014(E)'
+          release: '4'
+          terms:
+            - type: expression
+              designation: ubiquitous public access
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-11-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 1641
+  abbrev: |-
+    UPA
+    APU
+  definition: >-
+    servicio que posibilita que los usuarios finales tengan acceso fácil e
+    interoperable a tipos específicos de datos, independientemente de su
+    localización  o dispositivo de acceso, y que satisfacen sus criterios de
+    interés
+  language_code: spa
+  notes:
+    - >-
+      En el ejemplo, el Servicio de Datos Geográficos Enlazados es responsable
+      de interconectar información geográfica de manera abierta con repositorios
+      externos o recursos web, utilizando una transformación al Formato de
+      Descripción de Recursos  (RDF) o al Lenguaje Web de Ontologías (OWL).
+  examples:
+    - Servicio de Datos Geográficos Enlazados
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19154:2014'
+    clause: '4.25'
+    link: 'https://www.iso.org/standard/32572.html'
+  date_accepted: 2014-11-01T00:00:00.000Z
+  review_date: 2012-08-03T00:00:00.000Z
+  review_status: final
+  review_decision: ''
+  review_decision_date: 2014-11-01T00:00:00.000Z
+  review_decision_event: Normal ISO processing
+  review_decision_notes: 'Publication of document ISO 19154:2014(E)'
+  release: '4'
+  terms:
+    - type: expression
+      designation: acceso público ubicuo
+      normative_status: preferred
+  _revisions:
+    current: b90a4e
+    tree:
+      b90a4e:
+        object:
+          id: 1641
+          abbrev: |-
+            UPA
+            APU
+          definition: >-
+            servicio que posibilita que los usuarios finales tengan acceso fácil
+            e interoperable a tipos específicos de datos, independientemente de
+            su localización  o dispositivo de acceso, y que satisfacen sus
+            criterios de interés
+          language_code: spa
+          notes:
+            - >-
+              En el ejemplo, el Servicio de Datos Geográficos Enlazados es
+              responsable de interconectar información geográfica de manera
+              abierta con repositorios externos o recursos web, utilizando una
+              transformación al Formato de Descripción de Recursos  (RDF) o al
+              Lenguaje Web de Ontologías (OWL).
+          examples:
+            - Servicio de Datos Geográficos Enlazados
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19154:2014'
+            clause: '4.25'
+            link: 'https://www.iso.org/standard/32572.html'
+          date_accepted: 2014-11-01T00:00:00.000Z
+          review_date: 2012-08-03T00:00:00.000Z
+          review_status: final
+          review_decision: ''
+          review_decision_date: 2014-11-01T00:00:00.000Z
+          review_decision_event: Normal ISO processing
+          review_decision_notes: 'Publication of document ISO 19154:2014(E)'
+          release: '4'
+          terms:
+            - type: expression
+              designation: acceso público ubicuo
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-11-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

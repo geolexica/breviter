@@ -1,0 +1,784 @@
+term: stereotype <UML>
+termid: 432
+eng:
+  id: 432
+  definition: new type of modeling element that extends the semantics of the metamodel
+  language_code: eng
+  notes:
+    - >-
+      Stereotypes must be based on certain existing types or classes in the
+      metamodel. Stereotypes may extend the semantics, but not the structure of
+      pre-existing types and classes. Certain stereotypes are predefined in the
+      UML, others may be user defined. Stereotypes are one of three
+      extensibility mechanisms in UML. The others are constraint and tagged
+      value.
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: ISO/IEC 19501
+    link: 'https://www.iso.org/standard/32620.html'
+  lineage_source: 'ISO/TS 19103:2005 ,4.2.26'
+  lineage_source_similarity: 0
+  date_accepted: 2005-07-15T00:00:00.000Z
+  date_amended: 2015-07-01T00:00:00.000Z
+  review_date: 2009-01-14T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2015-07-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19103:2015'
+  review_decision_notes: >-
+    The entry has been superseded. An entry with a revised definition has been
+    published in ISO 19103:2015
+  release: '-1'
+  terms:
+    - type: expression
+      designation: stereotype <UML>
+      normative_status: null
+  _revisions:
+    current: ca3381
+    tree:
+      ca3381:
+        object:
+          id: 432
+          definition: >-
+            new type of modeling element that extends the semantics of the
+            metamodel
+          language_code: eng
+          notes:
+            - >-
+              Stereotypes must be based on certain existing types or classes in
+              the metamodel. Stereotypes may extend the semantics, but not the
+              structure of pre-existing types and classes. Certain stereotypes
+              are predefined in the UML, others may be user defined. Stereotypes
+              are one of three extensibility mechanisms in UML. The others are
+              constraint and tagged value.
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: ISO/IEC 19501
+            link: 'https://www.iso.org/standard/32620.html'
+          lineage_source: 'ISO/TS 19103:2005 ,4.2.26'
+          lineage_source_similarity: 0
+          date_accepted: 2005-07-15T00:00:00.000Z
+          date_amended: 2015-07-01T00:00:00.000Z
+          review_date: 2009-01-14T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2015-07-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19103:2015'
+          review_decision_notes: >-
+            The entry has been superseded. An entry with a revised definition
+            has been published in ISO 19103:2015
+          release: '-1'
+          terms:
+            - type: expression
+              designation: stereotype <UML>
+              normative_status: null
+        parents: []
+        timeCreated: 2005-07-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+ara:
+  id: 432
+  definition: عنصر نمذجة من نوع جديد يتوسع في في دلالات توصيف النموذج
+  language_code: ara
+  notes:
+    - >-
+      يجب أن تكون النماذج النمطية الثابتة مبنية على أنواع أو فئات معيَّنة موجودة
+      بالفعل في توصيف النموذج. ويمكن للنماذج النمطية الثابتة أن توسع الدلالة
+      اللفظية للأنواع والفئات الموجودة مسبقاً دون أن يشمل ذلك هياكل هذه الأنواع
+      والفئات. بعض النماذج النمطية الثابتة تكون معرَّفة مسبقاً في اللغة الموحدة
+      للنمذجة UML , بينما يترك بعضها الآخر للمستخدم ليقوم بتعريفة. النماذج
+      النمطية الثابتة هي إحدى ثلاث آليات للامتداد والتوقيع في لغةUML. والآليتان
+      الأخريان هما التقييد والقيمة الموضحة برمز تمييز.
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: ISO/IEC 19501
+    link: 'https://www.iso.org/standard/32620.html'
+  lineage_source: 'ISO/TS 19103:2005 ,4.2.26'
+  lineage_source_similarity: 0
+  date_accepted: 2005-07-15T00:00:00.000Z
+  date_amended: 2015-07-01T00:00:00.000Z
+  review_date: 2009-01-14T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2015-07-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19103:2015'
+  review_decision_notes: >-
+    The entry has been superseded. An entry with a revised definition has been
+    published in ISO 19103:2015
+  release: '-1'
+  terms:
+    - type: expression
+      designation: نموذج نمطي  <UML>
+      normative_status: null
+  _revisions:
+    current: ee08a6
+    tree:
+      ee08a6:
+        object:
+          id: 432
+          definition: عنصر نمذجة من نوع جديد يتوسع في في دلالات توصيف النموذج
+          language_code: ara
+          notes:
+            - >-
+              يجب أن تكون النماذج النمطية الثابتة مبنية على أنواع أو فئات
+              معيَّنة موجودة بالفعل في توصيف النموذج. ويمكن للنماذج النمطية
+              الثابتة أن توسع الدلالة اللفظية للأنواع والفئات الموجودة مسبقاً
+              دون أن يشمل ذلك هياكل هذه الأنواع والفئات. بعض النماذج النمطية
+              الثابتة تكون معرَّفة مسبقاً في اللغة الموحدة للنمذجة UML , بينما
+              يترك بعضها الآخر للمستخدم ليقوم بتعريفة. النماذج النمطية الثابتة
+              هي إحدى ثلاث آليات للامتداد والتوقيع في لغةUML. والآليتان الأخريان
+              هما التقييد والقيمة الموضحة برمز تمييز.
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: ISO/IEC 19501
+            link: 'https://www.iso.org/standard/32620.html'
+          lineage_source: 'ISO/TS 19103:2005 ,4.2.26'
+          lineage_source_similarity: 0
+          date_accepted: 2005-07-15T00:00:00.000Z
+          date_amended: 2015-07-01T00:00:00.000Z
+          review_date: 2009-01-14T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2015-07-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19103:2015'
+          review_decision_notes: >-
+            The entry has been superseded. An entry with a revised definition
+            has been published in ISO 19103:2015
+          release: '-1'
+          terms:
+            - type: expression
+              designation: نموذج نمطي  <UML>
+              normative_status: null
+        parents: []
+        timeCreated: 2005-07-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+zho:
+  id: 432
+  definition: 扩展元模型语义的新的建模元素类型。
+  language_code: zho
+  notes:
+    - >-
+      构造型必须基于元模型中某些已有的类型或类。构造型可以扩展语义，但不可以扩展已有的类型和类的结构。某些构造型在UML中预先定义，而在其他情况下可以是用户定义。构造型是UML三种扩展机制之一。另外两个是限制和标记值。
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: ISO/IEC 19501
+    link: 'https://www.iso.org/standard/32620.html'
+  lineage_source: 'ISO/TS 19103:2005 ,4.2.26'
+  lineage_source_similarity: 0
+  date_accepted: 2005-07-15T00:00:00.000Z
+  date_amended: 2015-07-01T00:00:00.000Z
+  review_date: 2009-01-14T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2015-07-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19103:2015'
+  review_decision_notes: >-
+    The entry has been superseded. An entry with a revised definition has been
+    published in ISO 19103:2015
+  release: '-1'
+  terms:
+    - type: expression
+      designation: 构造型<UML>
+      normative_status: null
+  _revisions:
+    current: eafe8d
+    tree:
+      eafe8d:
+        object:
+          id: 432
+          definition: 扩展元模型语义的新的建模元素类型。
+          language_code: zho
+          notes:
+            - >-
+              构造型必须基于元模型中某些已有的类型或类。构造型可以扩展语义，但不可以扩展已有的类型和类的结构。某些构造型在UML中预先定义，而在其他情况下可以是用户定义。构造型是UML三种扩展机制之一。另外两个是限制和标记值。
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: ISO/IEC 19501
+            link: 'https://www.iso.org/standard/32620.html'
+          lineage_source: 'ISO/TS 19103:2005 ,4.2.26'
+          lineage_source_similarity: 0
+          date_accepted: 2005-07-15T00:00:00.000Z
+          date_amended: 2015-07-01T00:00:00.000Z
+          review_date: 2009-01-14T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2015-07-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19103:2015'
+          review_decision_notes: >-
+            The entry has been superseded. An entry with a revised definition
+            has been published in ISO 19103:2015
+          release: '-1'
+          terms:
+            - type: expression
+              designation: 构造型<UML>
+              normative_status: null
+        parents: []
+        timeCreated: 2005-07-15T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+fin:
+  id: 432
+  definition: >-
+    uudentyyppinen mallinnuselementti, jolla laajennetaan metamallin
+    semantiikkaa
+  language_code: fin
+  notes:
+    - >-
+      Stereotyyppien on pohjauduttava tiettyihin metamallissa oleviin tyyppeihin
+      tai luokkiin. Stereotyypeillä voidaan laajentaa olemassaolevien tyyppien
+      ja luokkien semantiikkaa, muttei niiden rakennetta. UML:ssä on tiettyjä
+      ennalta määriteltyjä stereotyyppejä, ja käyttäjä voi lisäksi määritellä
+      muita. Stereotyypit ovat yksi UML:n kolmesta laajennusmekanismista. Kaksi
+      muuta ovat rajoite (constraint) ja leima (tagged value).
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: ISO/IEC 19501
+    link: 'https://www.iso.org/standard/32620.html'
+  lineage_source: 'ISO/TS 19103:2005 ,4.2.26'
+  lineage_source_similarity: 0
+  date_accepted: 2005-07-15T00:00:00.000Z
+  date_amended: 2015-07-01T00:00:00.000Z
+  review_date: 2009-01-14T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2015-07-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19103:2015'
+  review_decision_notes: >-
+    The entry has been superseded. An entry with a revised definition has been
+    published in ISO 19103:2015
+  release: '-1'
+  terms:
+    - type: expression
+      designation: stereotyyppi <UML>
+      normative_status: null
+  _revisions:
+    current: e69787
+    tree:
+      e69787:
+        object:
+          id: 432
+          definition: >-
+            uudentyyppinen mallinnuselementti, jolla laajennetaan metamallin
+            semantiikkaa
+          language_code: fin
+          notes:
+            - >-
+              Stereotyyppien on pohjauduttava tiettyihin metamallissa oleviin
+              tyyppeihin tai luokkiin. Stereotyypeillä voidaan laajentaa
+              olemassaolevien tyyppien ja luokkien semantiikkaa, muttei niiden
+              rakennetta. UML:ssä on tiettyjä ennalta määriteltyjä
+              stereotyyppejä, ja käyttäjä voi lisäksi määritellä muita.
+              Stereotyypit ovat yksi UML:n kolmesta laajennusmekanismista. Kaksi
+              muuta ovat rajoite (constraint) ja leima (tagged value).
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: ISO/IEC 19501
+            link: 'https://www.iso.org/standard/32620.html'
+          lineage_source: 'ISO/TS 19103:2005 ,4.2.26'
+          lineage_source_similarity: 0
+          date_accepted: 2005-07-15T00:00:00.000Z
+          date_amended: 2015-07-01T00:00:00.000Z
+          review_date: 2009-01-14T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2015-07-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19103:2015'
+          review_decision_notes: >-
+            The entry has been superseded. An entry with a revised definition
+            has been published in ISO 19103:2015
+          release: '-1'
+          terms:
+            - type: expression
+              designation: stereotyyppi <UML>
+              normative_status: null
+        parents: []
+        timeCreated: 2005-07-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+fra:
+  id: 432
+  definition: nouveau type d'élément de modélisation qui étend la sémantique du métamodèle
+  language_code: fra
+  notes: []
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: ISO/IEC 19501
+    link: 'https://www.iso.org/standard/32620.html'
+  lineage_source: 'ISO/TS 19103:2005 ,4.2.26'
+  lineage_source_similarity: 0
+  date_accepted: 2005-07-15T00:00:00.000Z
+  date_amended: 2015-07-01T00:00:00.000Z
+  review_date: 2009-01-14T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2015-07-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19103:2015'
+  review_decision_notes: >-
+    The entry has been superseded. An entry with a revised definition has been
+    published in ISO 19103:2015
+  release: '-1'
+  terms:
+    - type: expression
+      designation: stéréotype <UML>
+      normative_status: null
+  _revisions:
+    current: a9c82a
+    tree:
+      a9c82a:
+        object:
+          id: 432
+          definition: >-
+            nouveau type d'élément de modélisation qui étend la sémantique du
+            métamodèle
+          language_code: fra
+          notes: []
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: ISO/IEC 19501
+            link: 'https://www.iso.org/standard/32620.html'
+          lineage_source: 'ISO/TS 19103:2005 ,4.2.26'
+          lineage_source_similarity: 0
+          date_accepted: 2005-07-15T00:00:00.000Z
+          date_amended: 2015-07-01T00:00:00.000Z
+          review_date: 2009-01-14T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2015-07-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19103:2015'
+          review_decision_notes: >-
+            The entry has been superseded. An entry with a revised definition
+            has been published in ISO 19103:2015
+          release: '-1'
+          terms:
+            - type: expression
+              designation: stéréotype <UML>
+              normative_status: null
+        parents: []
+        timeCreated: 2005-07-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+deu:
+  id: 432
+  language_code: deu
+  notes:
+    - >-
+      Stereotypes must be based on certain existing types or classes in the
+      metamodel. Stereotypes may extend the semantics, but not the structure of
+      pre-existing types and classes. Certain stereotypes are predefined in the
+      UML, others may be user defined. Stereotypes are one of three
+      extensibility mechanisms in UML. The others are constraint and tagged
+      value.
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: ISO/IEC 19501
+    link: 'https://www.iso.org/standard/32620.html'
+  lineage_source: 'ISO/TS 19103:2005 ,4.2.26'
+  lineage_source_similarity: 0
+  date_accepted: 2005-07-15T00:00:00.000Z
+  date_amended: 2015-07-01T00:00:00.000Z
+  review_date: 2009-01-14T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2015-07-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19103:2015'
+  review_decision_notes: >-
+    The entry has been superseded. An entry with a revised definition has been
+    published in ISO 19103:2015
+  release: '-1'
+  terms:
+    - type: expression
+      designation: Stereotyp <UML>
+      normative_status: null
+  _revisions:
+    current: c99c32
+    tree:
+      c99c32:
+        object:
+          id: 432
+          language_code: deu
+          notes:
+            - >-
+              Stereotypes must be based on certain existing types or classes in
+              the metamodel. Stereotypes may extend the semantics, but not the
+              structure of pre-existing types and classes. Certain stereotypes
+              are predefined in the UML, others may be user defined. Stereotypes
+              are one of three extensibility mechanisms in UML. The others are
+              constraint and tagged value.
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: ISO/IEC 19501
+            link: 'https://www.iso.org/standard/32620.html'
+          lineage_source: 'ISO/TS 19103:2005 ,4.2.26'
+          lineage_source_similarity: 0
+          date_accepted: 2005-07-15T00:00:00.000Z
+          date_amended: 2015-07-01T00:00:00.000Z
+          review_date: 2009-01-14T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2015-07-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19103:2015'
+          review_decision_notes: >-
+            The entry has been superseded. An entry with a revised definition
+            has been published in ISO 19103:2015
+          release: '-1'
+          terms:
+            - type: expression
+              designation: Stereotyp <UML>
+              normative_status: null
+        parents: []
+        timeCreated: 2005-07-15T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+kor:
+  id: 432
+  definition: 메타 모델의 의미론을 확장하는 모델링 요소의 새로운 유형
+  language_code: kor
+  notes:
+    - >-
+      스테레오타입은 메타 모델 내에 존재하는 어떤 유형 또는 클래스에 기초해야 한다. 스테레오타입은 의미론을 확장해도 상관없지만, 이미
+      존재하는 유형과 클래스의 구조는 확장할 수 없다. 스테레오타입은 UML 내에서 사전 규정되거나 또는 사용자가 규정할 수 있다.
+      스테레오타입은 UML의 세 가지 확장 가능한 메커니즘 중의 하나로 나머지 둘은 제약 조건과 꼬리표 값이다.
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: ISO/IEC 19501
+    link: 'https://www.iso.org/standard/32620.html'
+  lineage_source: 'ISO/TS 19103:2005 ,4.2.26'
+  lineage_source_similarity: 0
+  date_accepted: 2005-07-15T00:00:00.000Z
+  date_amended: 2015-07-01T00:00:00.000Z
+  review_date: 2009-01-14T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2015-07-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19103:2015'
+  review_decision_notes: >-
+    The entry has been superseded. An entry with a revised definition has been
+    published in ISO 19103:2015
+  release: '-1'
+  terms:
+    - type: expression
+      designation: 스테레오타입 <UML>
+      normative_status: null
+  _revisions:
+    current: 55ea29
+    tree:
+      55ea29:
+        object:
+          id: 432
+          definition: 메타 모델의 의미론을 확장하는 모델링 요소의 새로운 유형
+          language_code: kor
+          notes:
+            - >-
+              스테레오타입은 메타 모델 내에 존재하는 어떤 유형 또는 클래스에 기초해야 한다. 스테레오타입은 의미론을 확장해도
+              상관없지만, 이미 존재하는 유형과 클래스의 구조는 확장할 수 없다. 스테레오타입은 UML 내에서 사전 규정되거나 또는
+              사용자가 규정할 수 있다. 스테레오타입은 UML의 세 가지 확장 가능한 메커니즘 중의 하나로 나머지 둘은 제약 조건과
+              꼬리표 값이다.
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: ISO/IEC 19501
+            link: 'https://www.iso.org/standard/32620.html'
+          lineage_source: 'ISO/TS 19103:2005 ,4.2.26'
+          lineage_source_similarity: 0
+          date_accepted: 2005-07-15T00:00:00.000Z
+          date_amended: 2015-07-01T00:00:00.000Z
+          review_date: 2009-01-14T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2015-07-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19103:2015'
+          review_decision_notes: >-
+            The entry has been superseded. An entry with a revised definition
+            has been published in ISO 19103:2015
+          release: '-1'
+          terms:
+            - type: expression
+              designation: 스테레오타입 <UML>
+              normative_status: null
+        parents: []
+        timeCreated: 2005-07-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 432
+  definition: 'новый тип  элемента моделирования, расширяющий семантику метамодели'
+  language_code: rus
+  notes:
+    - >-
+      Стереотипы должны создаваться на основе определенных существующих типов
+      классов  метамодели. Стереотипы могут расширять семантику классов
+      метамодели, но не ее структуру. Некоторые стереотипы предопределены  как
+      стандартные элементы  UML, другие могут быть определены пользователем.
+      Стереотипы являются одним из трех основных типов конструкций для
+      расширения возможностей языка UML.  Двумя  другими являются ограничение и
+      именованное значение
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: ISO/IEC 19501
+    link: 'https://www.iso.org/standard/32620.html'
+  lineage_source: 'ISO/TS 19103:2005 ,4.2.26'
+  date_accepted: 2005-07-15T00:00:00.000Z
+  review_date: 2009-08-31T00:00:00.000Z
+  review_status: ''
+  review_type: ''
+  release: '1'
+  terms:
+    - type: expression
+      designation: стереотип <UML>
+      normative_status: preferred
+  _revisions:
+    current: 822d9a
+    tree:
+      822d9a:
+        object:
+          id: 432
+          definition: 'новый тип  элемента моделирования, расширяющий семантику метамодели'
+          language_code: rus
+          notes:
+            - >-
+              Стереотипы должны создаваться на основе определенных существующих
+              типов классов  метамодели. Стереотипы могут расширять семантику
+              классов метамодели, но не ее структуру. Некоторые стереотипы
+              предопределены  как стандартные элементы  UML, другие могут быть
+              определены пользователем. Стереотипы являются одним из трех
+              основных типов конструкций для расширения возможностей языка UML. 
+              Двумя  другими являются ограничение и именованное значение
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: ISO/IEC 19501
+            link: 'https://www.iso.org/standard/32620.html'
+          lineage_source: 'ISO/TS 19103:2005 ,4.2.26'
+          date_accepted: 2005-07-15T00:00:00.000Z
+          review_date: 2009-08-31T00:00:00.000Z
+          review_status: ''
+          review_type: ''
+          release: '1'
+          terms:
+            - type: expression
+              designation: стереотип <UML>
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-07-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 432
+  definition: nuevo tipo de elemento de modelado que extiende la semántica del metamodelo
+  language_code: spa
+  notes:
+    - >-
+      Los estereotipos tienen que basarse en ciertos tipos o clases existentes
+      del metamodelo. Los estereotipos pueden extender la semántica, pero no la
+      estructura de los tipos y clases preexistentes. En UML se predefinen
+      ciertos estereotipos, otros pueden ser definidos por el usuario. Los
+      estereotipos son uno de los tres mecanismos de extensión de UML; los otros
+      son las restricciones y los valores etiquetados.
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: ISO/IEC 19501
+    link: 'https://www.iso.org/standard/32620.html'
+  lineage_source: 'ISO/TS 19103:2005 ,4.2.26'
+  lineage_source_similarity: 0
+  date_accepted: 2005-07-15T00:00:00.000Z
+  date_amended: 2015-07-01T00:00:00.000Z
+  review_date: 2009-01-14T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2015-07-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19103:2015'
+  review_decision_notes: >-
+    The entry has been superseded. An entry with a revised definition has been
+    published in ISO 19103:2015
+  release: '-1'
+  terms:
+    - type: expression
+      designation: 'estereotipo <UML>:'
+      normative_status: null
+  _revisions:
+    current: 443d8d
+    tree:
+      443d8d:
+        object:
+          id: 432
+          definition: >-
+            nuevo tipo de elemento de modelado que extiende la semántica del
+            metamodelo
+          language_code: spa
+          notes:
+            - >-
+              Los estereotipos tienen que basarse en ciertos tipos o clases
+              existentes del metamodelo. Los estereotipos pueden extender la
+              semántica, pero no la estructura de los tipos y clases
+              preexistentes. En UML se predefinen ciertos estereotipos, otros
+              pueden ser definidos por el usuario. Los estereotipos son uno de
+              los tres mecanismos de extensión de UML; los otros son las
+              restricciones y los valores etiquetados.
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: ISO/IEC 19501
+            link: 'https://www.iso.org/standard/32620.html'
+          lineage_source: 'ISO/TS 19103:2005 ,4.2.26'
+          lineage_source_similarity: 0
+          date_accepted: 2005-07-15T00:00:00.000Z
+          date_amended: 2015-07-01T00:00:00.000Z
+          review_date: 2009-01-14T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2015-07-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19103:2015'
+          review_decision_notes: >-
+            The entry has been superseded. An entry with a revised definition
+            has been published in ISO 19103:2015
+          release: '-1'
+          terms:
+            - type: expression
+              designation: 'estereotipo <UML>:'
+              normative_status: null
+        parents: []
+        timeCreated: 2005-07-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+swe:
+  id: 432
+  definition: new type of modeling element that extends the semantics of the metamodel
+  language_code: swe
+  notes:
+    - >-
+      Stereotypes must be based on certain existing types or classes in the
+      metamodel. Stereotypes may extend the semantics, but not the structure of
+      pre-existing types and classes. Certain stereotypes are predefined in the
+      UML, others may be user defined. Stereotypes are one of three
+      extensibility mechanisms in UML. The others are constraint and tagged
+      value.
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: ISO/IEC 19501
+    link: 'https://www.iso.org/standard/32620.html'
+  lineage_source: 'ISO/TS 19103:2005 ,4.2.26'
+  lineage_source_similarity: 0
+  date_accepted: 2005-07-15T00:00:00.000Z
+  date_amended: 2015-07-01T00:00:00.000Z
+  review_date: 2009-01-14T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2015-07-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19103:2015'
+  review_decision_notes: >-
+    The entry has been superseded. An entry with a revised definition has been
+    published in ISO 19103:2015
+  release: '-1'
+  terms:
+    - type: expression
+      designation: stereotype <UML>
+      normative_status: null
+  _revisions:
+    current: e2dd87
+    tree:
+      e2dd87:
+        object:
+          id: 432
+          definition: >-
+            new type of modeling element that extends the semantics of the
+            metamodel
+          language_code: swe
+          notes:
+            - >-
+              Stereotypes must be based on certain existing types or classes in
+              the metamodel. Stereotypes may extend the semantics, but not the
+              structure of pre-existing types and classes. Certain stereotypes
+              are predefined in the UML, others may be user defined. Stereotypes
+              are one of three extensibility mechanisms in UML. The others are
+              constraint and tagged value.
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: ISO/IEC 19501
+            link: 'https://www.iso.org/standard/32620.html'
+          lineage_source: 'ISO/TS 19103:2005 ,4.2.26'
+          lineage_source_similarity: 0
+          date_accepted: 2005-07-15T00:00:00.000Z
+          date_amended: 2015-07-01T00:00:00.000Z
+          review_date: 2009-01-14T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2015-07-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19103:2015'
+          review_decision_notes: >-
+            The entry has been superseded. An entry with a revised definition
+            has been published in ISO 19103:2015
+          release: '-1'
+          terms:
+            - type: expression
+              designation: stereotype <UML>
+              normative_status: null
+        parents: []
+        timeCreated: 2005-07-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

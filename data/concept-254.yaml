@@ -1,0 +1,948 @@
+term: interior
+termid: 254
+eng:
+  id: 254
+  definition: >-
+    set of all direct positions that are on a geometric object but which are not
+    on its boundary
+  language_code: eng
+  notes:
+    - >-
+      The interior of a topological object is the homomorphic image of the
+      interior of any of its geometric realizations. This is not included as a
+      definition because it follows from a theorem of topology.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19136-1:2020'
+    clause: '(E), 3.1.39'
+    link: 'https://www.iso.org/standard/75676.html'
+  lineage_source: 'ISO 19107:2003'
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2018-06-08T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2020-01-09T00:00:00.000Z
+  review_decision_event: 'Supersession of ISO 19107:2003 and publication of ISO 19136-1:2020'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19107:2003 to ISO 19136-1:2020(E),
+    3.1.39. Lineage source added as ISO 19107:2003
+  release: '1'
+  terms:
+    - type: expression
+      designation: interior
+      normative_status: preferred
+  _revisions:
+    current: bae2ef
+    tree:
+      bae2ef:
+        object:
+          id: 254
+          definition: >-
+            set of all direct positions that are on a geometric object but which
+            are not on its boundary
+          language_code: eng
+          notes:
+            - >-
+              The interior of a topological object is the homomorphic image of
+              the interior of any of its geometric realizations. This is not
+              included as a definition because it follows from a theorem of
+              topology.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19136-1:2020'
+            clause: '(E), 3.1.39'
+            link: 'https://www.iso.org/standard/75676.html'
+          lineage_source: 'ISO 19107:2003'
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2018-06-08T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2020-01-09T00:00:00.000Z
+          review_decision_event: 'Supersession of ISO 19107:2003 and publication of ISO 19136-1:2020'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19107:2003 to ISO
+            19136-1:2020(E), 3.1.39. Lineage source added as ISO 19107:2003
+          release: '1'
+          terms:
+            - type: expression
+              designation: interior
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+ara:
+  id: 254
+  definition: >-
+    مجموعة  جميع المواقع المباشرة التي يحتوي عليها الكائن الهندسي ولكنها لا تقع
+    على محيطه
+  language_code: ara
+  notes:
+    - >-
+      التكوين الداخلي للكيان الطوبولوجي هو صورة التشابه الشكلي للتكوين الداخلي
+      لأي من صور التمثيل الهندسي له. وهذا ليس مشمولاً هنا كتعريف لأنه ناتج من
+      نظرية طوبولوجية.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19136-1:2020'
+    clause: '(E), 3.1.39'
+    link: 'https://www.iso.org/standard/75676.html'
+  lineage_source: 'ISO 19107:2003'
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2018-06-08T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2020-01-09T00:00:00.000Z
+  review_decision_event: 'Supersession of ISO 19107:2003 and publication of ISO 19136-1:2020'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19107:2003 to ISO 19136-1:2020(E),
+    3.1.39. Lineage source added as ISO 19107:2003
+  release: '1'
+  terms:
+    - type: expression
+      designation: الداخل
+      normative_status: preferred
+  _revisions:
+    current: '213429'
+    tree:
+      '213429':
+        object:
+          id: 254
+          definition: >-
+            مجموعة  جميع المواقع المباشرة التي يحتوي عليها الكائن الهندسي ولكنها
+            لا تقع على محيطه
+          language_code: ara
+          notes:
+            - >-
+              التكوين الداخلي للكيان الطوبولوجي هو صورة التشابه الشكلي للتكوين
+              الداخلي لأي من صور التمثيل الهندسي له. وهذا ليس مشمولاً هنا كتعريف
+              لأنه ناتج من نظرية طوبولوجية.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19136-1:2020'
+            clause: '(E), 3.1.39'
+            link: 'https://www.iso.org/standard/75676.html'
+          lineage_source: 'ISO 19107:2003'
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2018-06-08T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2020-01-09T00:00:00.000Z
+          review_decision_event: 'Supersession of ISO 19107:2003 and publication of ISO 19136-1:2020'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19107:2003 to ISO
+            19136-1:2020(E), 3.1.39. Lineage source added as ISO 19107:2003
+          release: '1'
+          terms:
+            - type: expression
+              designation: الداخل
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+zho:
+  id: 254
+  definition: 在几何对象上且不在其边界上的所有直接位置的集合。
+  language_code: zho
+  notes:
+    - 一个拓扑对象的内部是与其相对应的几何实现的内部的同态映射。由于它遵从拓扑法则，所以没有写在定义内。
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19136-1:2020'
+    clause: '(E), 3.1.39'
+    link: 'https://www.iso.org/standard/75676.html'
+  lineage_source: 'ISO 19107:2003'
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2018-06-08T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2020-01-09T00:00:00.000Z
+  review_decision_event: 'Supersession of ISO 19107:2003 and publication of ISO 19136-1:2020'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19107:2003 to ISO 19136-1:2020(E),
+    3.1.39. Lineage source added as ISO 19107:2003
+  release: '1'
+  terms:
+    - type: expression
+      designation: 内部
+      normative_status: preferred
+  _revisions:
+    current: 92b670
+    tree:
+      92b670:
+        object:
+          id: 254
+          definition: 在几何对象上且不在其边界上的所有直接位置的集合。
+          language_code: zho
+          notes:
+            - 一个拓扑对象的内部是与其相对应的几何实现的内部的同态映射。由于它遵从拓扑法则，所以没有写在定义内。
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19136-1:2020'
+            clause: '(E), 3.1.39'
+            link: 'https://www.iso.org/standard/75676.html'
+          lineage_source: 'ISO 19107:2003'
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2018-06-08T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2020-01-09T00:00:00.000Z
+          review_decision_event: 'Supersession of ISO 19107:2003 and publication of ISO 19136-1:2020'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19107:2003 to ISO
+            19136-1:2020(E), 3.1.39. Lineage source added as ISO 19107:2003
+          release: '1'
+          terms:
+            - type: expression
+              designation: 内部
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+fin:
+  id: 254
+  definition: >-
+    niiden pisteiden joukko, jotka kuuluvat geometriseen objektiin mutta eivät
+    sen rajaukseen
+  language_code: fin
+  notes:
+    - >-
+      Topologisen objektin sisäpuoli on objektin minkä hyvänsä geometrisen
+      ilmentymän sisäpuolen homomorfinen kuva. Tätä ehtoa ei ole tässä
+      yhteydessä otettu käsitteen määritelmäksi, sillä se on seuraus eräästä
+      topologian teoreemasta.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19136-1:2020'
+    clause: '(E), 3.1.39'
+    link: 'https://www.iso.org/standard/75676.html'
+  lineage_source: 'ISO 19107:2003'
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2018-06-08T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2020-01-09T00:00:00.000Z
+  review_decision_event: 'Supersession of ISO 19107:2003 and publication of ISO 19136-1:2020'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19107:2003 to ISO 19136-1:2020(E),
+    3.1.39. Lineage source added as ISO 19107:2003
+  release: '1'
+  terms:
+    - type: expression
+      designation: sisäpuoli
+      normative_status: preferred
+  _revisions:
+    current: e09ac9
+    tree:
+      e09ac9:
+        object:
+          id: 254
+          definition: >-
+            niiden pisteiden joukko, jotka kuuluvat geometriseen objektiin mutta
+            eivät sen rajaukseen
+          language_code: fin
+          notes:
+            - >-
+              Topologisen objektin sisäpuoli on objektin minkä hyvänsä
+              geometrisen ilmentymän sisäpuolen homomorfinen kuva. Tätä ehtoa ei
+              ole tässä yhteydessä otettu käsitteen määritelmäksi, sillä se on
+              seuraus eräästä topologian teoreemasta.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19136-1:2020'
+            clause: '(E), 3.1.39'
+            link: 'https://www.iso.org/standard/75676.html'
+          lineage_source: 'ISO 19107:2003'
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2018-06-08T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2020-01-09T00:00:00.000Z
+          review_decision_event: 'Supersession of ISO 19107:2003 and publication of ISO 19136-1:2020'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19107:2003 to ISO
+            19136-1:2020(E), 3.1.39. Lineage source added as ISO 19107:2003
+          release: '1'
+          terms:
+            - type: expression
+              designation: sisäpuoli
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+fra:
+  id: 254
+  definition: >-
+    ensemble de toutes les positions directes dans un objet géométrique mais qui
+    ne sont pas sur sa frontière
+  language_code: fra
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19136-1:2020'
+    clause: '(E), 3.1.39'
+    link: 'https://www.iso.org/standard/75676.html'
+  lineage_source: 'ISO 19107:2003'
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2018-06-08T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2020-01-09T00:00:00.000Z
+  review_decision_event: 'Supersession of ISO 19107:2003 and publication of ISO 19136-1:2020'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19107:2003 to ISO 19136-1:2020(E),
+    3.1.39. Lineage source added as ISO 19107:2003
+  release: '1'
+  terms:
+    - type: expression
+      designation: intérieur
+      normative_status: preferred
+  _revisions:
+    current: 94f61c
+    tree:
+      94f61c:
+        object:
+          id: 254
+          definition: >-
+            ensemble de toutes les positions directes dans un objet géométrique
+            mais qui ne sont pas sur sa frontière
+          language_code: fra
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19136-1:2020'
+            clause: '(E), 3.1.39'
+            link: 'https://www.iso.org/standard/75676.html'
+          lineage_source: 'ISO 19107:2003'
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2018-06-08T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2020-01-09T00:00:00.000Z
+          review_decision_event: 'Supersession of ISO 19107:2003 and publication of ISO 19136-1:2020'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19107:2003 to ISO
+            19136-1:2020(E), 3.1.39. Lineage source added as ISO 19107:2003
+          release: '1'
+          terms:
+            - type: expression
+              designation: intérieur
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+deu:
+  id: 254
+  definition: >-
+    Menge aller Positionen, die auf einem geometrischen Objekt liegen, aber
+    nicht auf dessen Grenze
+  language_code: deu
+  notes:
+    - >-
+      The interior of a topological object is the homomorphic image of the
+      interior of any of its geometric realizations. This is not included as a
+      definition because it follows from a theorem of topology.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19136-1:2020'
+    clause: '(E), 3.1.39'
+    link: 'https://www.iso.org/standard/75676.html'
+  lineage_source: 'ISO 19107:2003'
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2018-06-08T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2020-01-09T00:00:00.000Z
+  review_decision_event: 'Supersession of ISO 19107:2003 and publication of ISO 19136-1:2020'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19107:2003 to ISO 19136-1:2020(E),
+    3.1.39. Lineage source added as ISO 19107:2003
+  release: '1'
+  terms:
+    - type: expression
+      designation: innenliegend
+      normative_status: preferred
+  _revisions:
+    current: 70575e
+    tree:
+      70575e:
+        object:
+          id: 254
+          definition: >-
+            Menge aller Positionen, die auf einem geometrischen Objekt liegen,
+            aber nicht auf dessen Grenze
+          language_code: deu
+          notes:
+            - >-
+              The interior of a topological object is the homomorphic image of
+              the interior of any of its geometric realizations. This is not
+              included as a definition because it follows from a theorem of
+              topology.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19136-1:2020'
+            clause: '(E), 3.1.39'
+            link: 'https://www.iso.org/standard/75676.html'
+          lineage_source: 'ISO 19107:2003'
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2018-06-08T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2020-01-09T00:00:00.000Z
+          review_decision_event: 'Supersession of ISO 19107:2003 and publication of ISO 19136-1:2020'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19107:2003 to ISO
+            19136-1:2020(E), 3.1.39. Lineage source added as ISO 19107:2003
+          release: '1'
+          terms:
+            - type: expression
+              designation: innenliegend
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+jpn:
+  id: 254
+  definition: 幾何オブジェクト上にありその境界上にはないすべての直接位置の集合。
+  language_code: jpn
+  notes:
+    - 位相オブジェクトの内部は，その任意の幾何実現の内部の準同形の像である。これは，位相幾何学の定理から導かれるので，ここでの定義には含めない。
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19136-1:2020'
+    clause: '(E), 3.1.39'
+    link: 'https://www.iso.org/standard/75676.html'
+  lineage_source: 'ISO 19107:2003'
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2018-06-08T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2020-01-09T00:00:00.000Z
+  review_decision_event: 'Supersession of ISO 19107:2003 and publication of ISO 19136-1:2020'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19107:2003 to ISO 19136-1:2020(E),
+    3.1.39. Lineage source added as ISO 19107:2003
+  release: '1'
+  terms:
+    - type: expression
+      designation: 内部
+      normative_status: preferred
+  _revisions:
+    current: a4d6d9
+    tree:
+      a4d6d9:
+        object:
+          id: 254
+          definition: 幾何オブジェクト上にありその境界上にはないすべての直接位置の集合。
+          language_code: jpn
+          notes:
+            - >-
+              位相オブジェクトの内部は，その任意の幾何実現の内部の準同形の像である。これは，位相幾何学の定理から導かれるので，ここでの定義には含めない。
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19136-1:2020'
+            clause: '(E), 3.1.39'
+            link: 'https://www.iso.org/standard/75676.html'
+          lineage_source: 'ISO 19107:2003'
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2018-06-08T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2020-01-09T00:00:00.000Z
+          review_decision_event: 'Supersession of ISO 19107:2003 and publication of ISO 19136-1:2020'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19107:2003 to ISO
+            19136-1:2020(E), 3.1.39. Lineage source added as ISO 19107:2003
+          release: '1'
+          terms:
+            - type: expression
+              designation: 内部
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+kor:
+  id: 254
+  definition: '기하 객체 내에 존재하며, 그 객체의 경계를 제외한 나머지 전체 직접 위치의 집합'
+  language_code: kor
+  notes:
+    - 위상 객체의 내부는 그의 기하 실현의 어느 내부와도 준동형 영상이다. 이는 위상 이론을 따르는 것으로 정의에는 포함되지 않는다.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19136-1:2020'
+    clause: '(E), 3.1.39'
+    link: 'https://www.iso.org/standard/75676.html'
+  lineage_source: 'ISO 19107:2003'
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2018-06-08T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2020-01-09T00:00:00.000Z
+  review_decision_event: 'Supersession of ISO 19107:2003 and publication of ISO 19136-1:2020'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19107:2003 to ISO 19136-1:2020(E),
+    3.1.39. Lineage source added as ISO 19107:2003
+  release: '1'
+  terms:
+    - type: expression
+      designation: 내부
+      normative_status: preferred
+  _revisions:
+    current: 92a571
+    tree:
+      92a571:
+        object:
+          id: 254
+          definition: '기하 객체 내에 존재하며, 그 객체의 경계를 제외한 나머지 전체 직접 위치의 집합'
+          language_code: kor
+          notes:
+            - >-
+              위상 객체의 내부는 그의 기하 실현의 어느 내부와도 준동형 영상이다. 이는 위상 이론을 따르는 것으로 정의에는 포함되지
+              않는다.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19136-1:2020'
+            clause: '(E), 3.1.39'
+            link: 'https://www.iso.org/standard/75676.html'
+          lineage_source: 'ISO 19107:2003'
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2018-06-08T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2020-01-09T00:00:00.000Z
+          review_decision_event: 'Supersession of ISO 19107:2003 and publication of ISO 19136-1:2020'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19107:2003 to ISO
+            19136-1:2020(E), 3.1.39. Lineage source added as ISO 19107:2003
+          release: '1'
+          terms:
+            - type: expression
+              designation: 내부
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+msa:
+  id: 254
+  definition: >-
+    set semua kedudukan langsung yang berada pada objek geometri tetapi tidak
+    berada di atas sempadannya
+  language_code: msa
+  notes:
+    - >-
+      The interior of a topological object is the homomorphic image of the
+      interior of any of its geometric realizations. This is not included as a
+      definition because it follows from a theorem of topology.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19136-1:2020'
+    clause: '(E), 3.1.39'
+    link: 'https://www.iso.org/standard/75676.html'
+  lineage_source: 'ISO 19107:2003'
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2018-06-08T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2020-01-09T00:00:00.000Z
+  review_decision_event: 'Supersession of ISO 19107:2003 and publication of ISO 19136-1:2020'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19107:2003 to ISO 19136-1:2020(E),
+    3.1.39. Lineage source added as ISO 19107:2003
+  release: '1'
+  terms:
+    - type: expression
+      designation: dalaman
+      normative_status: preferred
+  _revisions:
+    current: 64f3e2
+    tree:
+      64f3e2:
+        object:
+          id: 254
+          definition: >-
+            set semua kedudukan langsung yang berada pada objek geometri tetapi
+            tidak berada di atas sempadannya
+          language_code: msa
+          notes:
+            - >-
+              The interior of a topological object is the homomorphic image of
+              the interior of any of its geometric realizations. This is not
+              included as a definition because it follows from a theorem of
+              topology.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19136-1:2020'
+            clause: '(E), 3.1.39'
+            link: 'https://www.iso.org/standard/75676.html'
+          lineage_source: 'ISO 19107:2003'
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2018-06-08T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2020-01-09T00:00:00.000Z
+          review_decision_event: 'Supersession of ISO 19107:2003 and publication of ISO 19136-1:2020'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19107:2003 to ISO
+            19136-1:2020(E), 3.1.39. Lineage source added as ISO 19107:2003
+          release: '1'
+          terms:
+            - type: expression
+              designation: dalaman
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+pol:
+  id: 254
+  definition: >-
+    zbiór położeń bezpośrednich, które należą do obiektu geometrycznego, ale
+    które nie leżą na jego granicy
+  language_code: pol
+  notes:
+    - >-
+      Wnętrze obiektu topologicznego jest homomorficznym obrazem wnętrza każdej
+      z jego realizacji geometrycznych. Twierdzenie to nie jest zawarte w
+      definicji, ponieważ wynika z teorii topologii.
+  examples: []
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19136-1:2020'
+    clause: '(E), 3.1.39'
+    link: 'https://www.iso.org/standard/75676.html'
+  lineage_source: 'ISO 19107:2003'
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2018-06-08T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2020-01-09T00:00:00.000Z
+  review_decision_event: 'Supersession of ISO 19107:2003 and publication of ISO 19136-1:2020'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19107:2003 to ISO 19136-1:2020(E),
+    3.1.39. Lineage source added as ISO 19107:2003
+  release: '1'
+  terms:
+    - type: expression
+      designation: wnętrze
+      normative_status: preferred
+  _revisions:
+    current: 27af81
+    tree:
+      27af81:
+        object:
+          id: 254
+          definition: >-
+            zbiór położeń bezpośrednich, które należą do obiektu geometrycznego,
+            ale które nie leżą na jego granicy
+          language_code: pol
+          notes:
+            - >-
+              Wnętrze obiektu topologicznego jest homomorficznym obrazem wnętrza
+              każdej z jego realizacji geometrycznych. Twierdzenie to nie jest
+              zawarte w definicji, ponieważ wynika z teorii topologii.
+          examples: []
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19136-1:2020'
+            clause: '(E), 3.1.39'
+            link: 'https://www.iso.org/standard/75676.html'
+          lineage_source: 'ISO 19107:2003'
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2018-06-08T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2020-01-09T00:00:00.000Z
+          review_decision_event: 'Supersession of ISO 19107:2003 and publication of ISO 19136-1:2020'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19107:2003 to ISO
+            19136-1:2020(E), 3.1.39. Lineage source added as ISO 19107:2003
+          release: '1'
+          terms:
+            - type: expression
+              designation: wnętrze
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 254
+  definition: 'множество всех  точек геометрического объекта, не принадлежащих  его границе'
+  language_code: rus
+  notes:
+    - >-
+      Внутренняя область топологического объекта является гомоморфным образом
+      внутренней области любой из его геометрических реализаций. Это положение
+      не следует считать определением, поскольку следует из  теоремы топологии
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19136-1:2020'
+    clause: '(E), 3.1.39'
+    link: 'https://www.iso.org/standard/75676.html'
+  lineage_source: 'ISO 19107:2003'
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2018-06-08T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2020-01-09T00:00:00.000Z
+  review_decision_event: 'Supersession of ISO 19107:2003 and publication of ISO 19136-1:2020'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19107:2003 to ISO 19136-1:2020(E),
+    3.1.39. Lineage source added as ISO 19107:2003
+  release: '1'
+  terms:
+    - type: expression
+      designation: внутренняя область
+      normative_status: preferred
+  _revisions:
+    current: 88e2bf
+    tree:
+      88e2bf:
+        object:
+          id: 254
+          definition: >-
+            множество всех  точек геометрического объекта, не принадлежащих  его
+            границе
+          language_code: rus
+          notes:
+            - >-
+              Внутренняя область топологического объекта является гомоморфным
+              образом внутренней области любой из его геометрических реализаций.
+              Это положение не следует считать определением, поскольку следует
+              из  теоремы топологии
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19136-1:2020'
+            clause: '(E), 3.1.39'
+            link: 'https://www.iso.org/standard/75676.html'
+          lineage_source: 'ISO 19107:2003'
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2018-06-08T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2020-01-09T00:00:00.000Z
+          review_decision_event: 'Supersession of ISO 19107:2003 and publication of ISO 19136-1:2020'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19107:2003 to ISO
+            19136-1:2020(E), 3.1.39. Lineage source added as ISO 19107:2003
+          release: '1'
+          terms:
+            - type: expression
+              designation: внутренняя область
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 254
+  definition: >-
+    conjunto de posiciones directas que están en un objeto geométrico pero no en
+    su límite
+  language_code: spa
+  notes:
+    - >-
+      El interior de un objeto topológico es la imagen homomórfica del interior
+      de cualquiera de sus realizaciones geométricas. Esto no se incluye como
+      definición porque deriva de un teorema de topología.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19136-1:2020'
+    clause: '(E), 3.1.39'
+    link: 'https://www.iso.org/standard/75676.html'
+  lineage_source: 'ISO 19107:2003'
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2018-06-08T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2020-01-09T00:00:00.000Z
+  review_decision_event: 'Supersession of ISO 19107:2003 and publication of ISO 19136-1:2020'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19107:2003 to ISO 19136-1:2020(E),
+    3.1.39. Lineage source added as ISO 19107:2003
+  release: '1'
+  terms:
+    - type: expression
+      designation: interior
+      normative_status: preferred
+  _revisions:
+    current: 07477d
+    tree:
+      07477d:
+        object:
+          id: 254
+          definition: >-
+            conjunto de posiciones directas que están en un objeto geométrico
+            pero no en su límite
+          language_code: spa
+          notes:
+            - >-
+              El interior de un objeto topológico es la imagen homomórfica del
+              interior de cualquiera de sus realizaciones geométricas. Esto no
+              se incluye como definición porque deriva de un teorema de
+              topología.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19136-1:2020'
+            clause: '(E), 3.1.39'
+            link: 'https://www.iso.org/standard/75676.html'
+          lineage_source: 'ISO 19107:2003'
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2018-06-08T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2020-01-09T00:00:00.000Z
+          review_decision_event: 'Supersession of ISO 19107:2003 and publication of ISO 19136-1:2020'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19107:2003 to ISO
+            19136-1:2020(E), 3.1.39. Lineage source added as ISO 19107:2003
+          release: '1'
+          terms:
+            - type: expression
+              designation: interior
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+swe:
+  id: 254
+  definition: >-
+    mängden av alla positioner hos ett geometriskt objekt förutom de som utgör
+    dess avgränsning
+  country_code: swe
+  language_code: swe
+  notes:
+    - >-
+      The interior of a topological object is the homomorphic image of the
+      interior of any of its geometric realizations. This is not included as a
+      definition because it follows from a theorem of topology.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19136-1:2020'
+    clause: '(E), 3.1.39'
+    link: 'https://www.iso.org/standard/75676.html'
+  lineage_source: 'ISO 19107:2003'
+  date_accepted: 2003-05-01T00:00:00.000Z
+  review_date: 2018-06-08T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2020-01-09T00:00:00.000Z
+  review_decision_event: 'Supersession of ISO 19107:2003 and publication of ISO 19136-1:2020'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19107:2003 to ISO 19136-1:2020(E),
+    3.1.39. Lineage source added as ISO 19107:2003
+  release: '1'
+  terms:
+    - type: expression
+      designation: öppen mängd
+      normative_status: preferred
+  _revisions:
+    current: 4f859f
+    tree:
+      4f859f:
+        object:
+          id: 254
+          definition: >-
+            mängden av alla positioner hos ett geometriskt objekt förutom de som
+            utgör dess avgränsning
+          country_code: swe
+          language_code: swe
+          notes:
+            - >-
+              The interior of a topological object is the homomorphic image of
+              the interior of any of its geometric realizations. This is not
+              included as a definition because it follows from a theorem of
+              topology.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19136-1:2020'
+            clause: '(E), 3.1.39'
+            link: 'https://www.iso.org/standard/75676.html'
+          lineage_source: 'ISO 19107:2003'
+          date_accepted: 2003-05-01T00:00:00.000Z
+          review_date: 2018-06-08T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2020-01-09T00:00:00.000Z
+          review_decision_event: 'Supersession of ISO 19107:2003 and publication of ISO 19136-1:2020'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19107:2003 to ISO
+            19136-1:2020(E), 3.1.39. Lineage source added as ISO 19107:2003
+          release: '1'
+          terms:
+            - type: expression
+              designation: öppen mängd
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

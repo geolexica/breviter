@@ -1,0 +1,236 @@
+term: video phase history data
+termid: 1429
+eng:
+  id: 1429
+  definition: raw radar return signal information after demodulation
+  language_code: eng
+  notes:
+    - >-
+      Usually stored as a series of range lines, each containing information
+      from a specific range bin.  PHD can be thought of as a table of five
+      columns:  In-phase signal, Quadrature signal, Range, Doppler Angle, and
+      Time.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO/TS 19130-2:2014'
+    clause: '4.48'
+    link: 'https://www.iso.org/standard/56113.html'
+  date_accepted: 2014-01-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: video phase history data
+      normative_status: admitted
+    - designation: phase history data
+      type: expression
+  _revisions:
+    current: 8f702f
+    tree:
+      8f702f:
+        object:
+          id: 1429
+          definition: raw radar return signal information after demodulation
+          language_code: eng
+          notes:
+            - >-
+              Usually stored as a series of range lines, each containing
+              information from a specific range bin.  PHD can be thought of as a
+              table of five columns:  In-phase signal, Quadrature signal, Range,
+              Doppler Angle, and Time.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO/TS 19130-2:2014'
+            clause: '4.48'
+            link: 'https://www.iso.org/standard/56113.html'
+          date_accepted: 2014-01-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: video phase history data
+              normative_status: admitted
+            - designation: phase history data
+              type: expression
+        parents: []
+        timeCreated: 2014-01-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+kor:
+  id: 1429
+  definition: 복조 후 원레이더 회신 신호 정보
+  language_code: kor
+  notes:
+    - >-
+      Usually stored as a series of range lines, each containing information
+      from a specific range bin.  PHD can be thought of as a table of five
+      columns:  In-phase signal, Quadrature signal, Range, Doppler Angle, and
+      Time.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO/TS 19130-2:2014'
+    clause: '4.48'
+    link: 'https://www.iso.org/standard/56113.html'
+  date_accepted: 2014-01-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: 비디오 단계 이력 자료
+      normative_status: admitted
+    - designation: phase history data
+      type: expression
+  _revisions:
+    current: 9fa4f7
+    tree:
+      9fa4f7:
+        object:
+          id: 1429
+          definition: 복조 후 원레이더 회신 신호 정보
+          language_code: kor
+          notes:
+            - >-
+              Usually stored as a series of range lines, each containing
+              information from a specific range bin.  PHD can be thought of as a
+              table of five columns:  In-phase signal, Quadrature signal, Range,
+              Doppler Angle, and Time.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO/TS 19130-2:2014'
+            clause: '4.48'
+            link: 'https://www.iso.org/standard/56113.html'
+          date_accepted: 2014-01-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: 비디오 단계 이력 자료
+              normative_status: admitted
+            - designation: phase history data
+              type: expression
+        parents: []
+        timeCreated: 2014-01-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 1429
+  definition: Необработанная информация о возвращаемом сигнале радара после демодуляции
+  language_code: rus
+  notes:
+    - >-
+      обычно хранится в виде серии строк диапазона, каждая из которых содержит
+      информацию из определенного диапазона.  PHD можно рассматривать как
+      таблицу из пяти столбцов: Синфазный сигнал, Квадратурный сигнал, Диапазон,
+      Угол Доплера и Время.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO/TS 19130-2:2014'
+    clause: '4.48'
+    link: 'https://www.iso.org/standard/56113.html'
+  lineage_source: 'ISO/TS 19130-2:2014'
+  date_accepted: 2014-01-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: хронологические данные видео фазы
+      normative_status: admitted
+    - designation: хронологические данные фазы
+      type: expression
+  _revisions:
+    current: fa7b1d
+    tree:
+      fa7b1d:
+        object:
+          id: 1429
+          definition: >-
+            Необработанная информация о возвращаемом сигнале радара после
+            демодуляции
+          language_code: rus
+          notes:
+            - >-
+              обычно хранится в виде серии строк диапазона, каждая из которых
+              содержит информацию из определенного диапазона.  PHD можно
+              рассматривать как таблицу из пяти столбцов: Синфазный сигнал,
+              Квадратурный сигнал, Диапазон, Угол Доплера и Время.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO/TS 19130-2:2014'
+            clause: '4.48'
+            link: 'https://www.iso.org/standard/56113.html'
+          lineage_source: 'ISO/TS 19130-2:2014'
+          date_accepted: 2014-01-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: хронологические данные видео фазы
+              normative_status: admitted
+            - designation: хронологические данные фазы
+              type: expression
+        parents: []
+        timeCreated: 2014-01-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 1429
+  definition: información de la señal bruta de retorno de radar después de ser demulada
+  language_code: spa
+  notes:
+    - >-
+      Generalmente se almacena como una serie de líneas de rango, donde cada una
+      contiene información de un rango específico. PHD se puede definir como una
+      tabla de cinco columnas: señal de fase, señal de cuadratura, rango, ángulo
+      Doppler y hora.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO/TS 19130-2:2014'
+    clause: '4.48'
+    link: 'https://www.iso.org/standard/56113.html'
+  date_accepted: 2014-01-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: datos de la historia de video fase
+      normative_status: admitted
+    - designation: datos de la historia de fase
+      type: expression
+  _revisions:
+    current: '766237'
+    tree:
+      '766237':
+        object:
+          id: 1429
+          definition: >-
+            información de la señal bruta de retorno de radar después de ser
+            demulada
+          language_code: spa
+          notes:
+            - >-
+              Generalmente se almacena como una serie de líneas de rango, donde
+              cada una contiene información de un rango específico. PHD se puede
+              definir como una tabla de cinco columnas: señal de fase, señal de
+              cuadratura, rango, ángulo Doppler y hora.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO/TS 19130-2:2014'
+            clause: '4.48'
+            link: 'https://www.iso.org/standard/56113.html'
+          date_accepted: 2014-01-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: datos de la historia de video fase
+              normative_status: admitted
+            - designation: datos de la historia de fase
+              type: expression
+        parents: []
+        timeCreated: 2014-01-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

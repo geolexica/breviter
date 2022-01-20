@@ -1,0 +1,63 @@
+term: 'start node <topology, graph theory>'
+termid: 2253
+eng:
+  id: 2253
+  definition: >-
+    node in the boundary of an edge that corresponds to the start point of that
+    edge as a curve
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19107:2019'
+    clause: '(E), 3.89'
+    link: 'https://www.iso.org/standard/66175.html'
+  date_accepted: 2019-12-02T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: 'Publication of document ISO 19107:2019(E)'
+  review_decision_notes: 'This entry supersedes the entry for start node in ISO 19107:2003(E)'
+  release: '5'
+  terms:
+    - type: expression
+      designation: 'start node <topology, graph theory>'
+      normative_status: preferred
+  _revisions:
+    current: 127fb3
+    tree:
+      127fb3:
+        object:
+          id: 2253
+          definition: >-
+            node in the boundary of an edge that corresponds to the start point
+            of that edge as a curve
+          language_code: eng
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19107:2019'
+            clause: '(E), 3.89'
+            link: 'https://www.iso.org/standard/66175.html'
+          date_accepted: 2019-12-02T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: 'Publication of document ISO 19107:2019(E)'
+          review_decision_notes: 'This entry supersedes the entry for start node in ISO 19107:2003(E)'
+          release: '5'
+          terms:
+            - type: expression
+              designation: 'start node <topology, graph theory>'
+              normative_status: preferred
+        parents: []
+        timeCreated: 2019-12-02T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

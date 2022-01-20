@@ -1,0 +1,619 @@
+term: service interface
+termid: 407
+eng:
+  id: 407
+  definition: >-
+    shared boundary between an automated system or human being and another
+    automated system or human being
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: retired
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19101:2002'
+    clause: '4.27'
+    link: 'https://www.iso.org/standard/26002.html'
+  lineage_source: ''
+  lineage_source_similarity: 0
+  date_accepted: 2002-07-01T00:00:00.000Z
+  date_amended: 2014-11-01T00:00:00.000Z
+  review_date: 2010-10-12T00:00:00.000Z
+  review_status: final
+  review_type: retirement
+  review_decision: accepted
+  review_decision_date: 2014-11-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19101-1:2014'
+  review_decision_notes: >-
+    The entry has been omitted from the superseding standard  (ISO
+    19101-1:2014).
+  release: '-1'
+  terms:
+    - type: expression
+      designation: service interface
+      normative_status: null
+  _revisions:
+    current: ab5eeb
+    tree:
+      ab5eeb:
+        object:
+          id: 407
+          definition: >-
+            shared boundary between an automated system or human being and
+            another automated system or human being
+          language_code: eng
+          notes: []
+          examples: []
+          entry_status: retired
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19101:2002'
+            clause: '4.27'
+            link: 'https://www.iso.org/standard/26002.html'
+          lineage_source: ''
+          lineage_source_similarity: 0
+          date_accepted: 2002-07-01T00:00:00.000Z
+          date_amended: 2014-11-01T00:00:00.000Z
+          review_date: 2010-10-12T00:00:00.000Z
+          review_status: final
+          review_type: retirement
+          review_decision: accepted
+          review_decision_date: 2014-11-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19101-1:2014'
+          review_decision_notes: >-
+            The entry has been omitted from the superseding standard  (ISO
+            19101-1:2014).
+          release: '-1'
+          terms:
+            - type: expression
+              designation: service interface
+              normative_status: null
+        parents: []
+        timeCreated: 2002-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+ara:
+  id: 407
+  definition: حد مشترك بين نظام آلي أو فرد بشري ونظام آلي آخر أو فرد بشري آخر
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: retired
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19101:2002'
+    clause: '4.27'
+    link: 'https://www.iso.org/standard/26002.html'
+  date_accepted: 2002-07-01T00:00:00.000Z
+  date_amended: 2014-11-01T00:00:00.000Z
+  review_date: 2010-10-12T00:00:00.000Z
+  review_status: final
+  review_type: retirement
+  review_decision: accepted
+  review_decision_date: 2014-11-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19101-1:2014'
+  review_decision_notes: >-
+    The entry has been omitted from the superseding standard  (ISO
+    19101-1:2014).
+  release: '-1'
+  terms:
+    - type: expression
+      designation: واجهة خدمة
+      normative_status: null
+  _revisions:
+    current: b856e1
+    tree:
+      b856e1:
+        object:
+          id: 407
+          definition: حد مشترك بين نظام آلي أو فرد بشري ونظام آلي آخر أو فرد بشري آخر
+          language_code: ara
+          notes: []
+          examples: []
+          entry_status: retired
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19101:2002'
+            clause: '4.27'
+            link: 'https://www.iso.org/standard/26002.html'
+          date_accepted: 2002-07-01T00:00:00.000Z
+          date_amended: 2014-11-01T00:00:00.000Z
+          review_date: 2010-10-12T00:00:00.000Z
+          review_status: final
+          review_type: retirement
+          review_decision: accepted
+          review_decision_date: 2014-11-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19101-1:2014'
+          review_decision_notes: >-
+            The entry has been omitted from the superseding standard  (ISO
+            19101-1:2014).
+          release: '-1'
+          terms:
+            - type: expression
+              designation: واجهة خدمة
+              normative_status: null
+        parents: []
+        timeCreated: 2002-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+zho:
+  id: 407
+  definition: 耦合服务组成的软件架构。
+  language_code: zho
+  notes:
+    - '当今最常用的SOA是网络服务（使用SOAP, UDDI和WSDL） 、CORBA 和DCOM。'
+  examples: []
+  entry_status: retired
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19101:2002'
+    clause: '4.27'
+    link: 'https://www.iso.org/standard/26002.html'
+  lineage_source: ''
+  date_accepted: 2002-07-01T00:00:00.000Z
+  date_amended: 2014-11-01T00:00:00.000Z
+  review_date: 2010-10-12T00:00:00.000Z
+  review_status: final
+  review_type: retirement
+  review_decision: accepted
+  review_decision_date: 2014-11-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19101-1:2014'
+  review_decision_notes: >-
+    The entry has been omitted from the superseding standard  (ISO
+    19101-1:2014).
+  release: '-1'
+  terms:
+    - type: expression
+      designation: 面向服务的架构
+      normative_status: null
+  _revisions:
+    current: fcf241
+    tree:
+      fcf241:
+        object:
+          id: 407
+          definition: 耦合服务组成的软件架构。
+          language_code: zho
+          notes:
+            - '当今最常用的SOA是网络服务（使用SOAP, UDDI和WSDL） 、CORBA 和DCOM。'
+          examples: []
+          entry_status: retired
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19101:2002'
+            clause: '4.27'
+            link: 'https://www.iso.org/standard/26002.html'
+          lineage_source: ''
+          date_accepted: 2002-07-01T00:00:00.000Z
+          date_amended: 2014-11-01T00:00:00.000Z
+          review_date: 2010-10-12T00:00:00.000Z
+          review_status: final
+          review_type: retirement
+          review_decision: accepted
+          review_decision_date: 2014-11-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19101-1:2014'
+          review_decision_notes: >-
+            The entry has been omitted from the superseding standard  (ISO
+            19101-1:2014).
+          release: '-1'
+          terms:
+            - type: expression
+              designation: 面向服务的架构
+              normative_status: null
+        parents: []
+        timeCreated: 2002-07-01T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+fin:
+  id: 407
+  definition: palvelujen käyttöön liittyvä sovellusten rajapinta
+  language_code: fin
+  notes: []
+  examples: []
+  entry_status: retired
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19101:2002'
+    clause: '4.27'
+    link: 'https://www.iso.org/standard/26002.html'
+  lineage_source: ''
+  date_accepted: 2002-07-01T00:00:00.000Z
+  date_amended: 2014-11-01T00:00:00.000Z
+  review_date: 2010-10-12T00:00:00.000Z
+  review_status: final
+  review_type: retirement
+  review_decision: accepted
+  review_decision_date: 2014-11-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19101-1:2014'
+  review_decision_notes: >-
+    The entry has been omitted from the superseding standard  (ISO
+    19101-1:2014).
+  release: '-1'
+  terms:
+    - type: expression
+      designation: palvelurajapinta
+      normative_status: null
+  _revisions:
+    current: ad6d86
+    tree:
+      ad6d86:
+        object:
+          id: 407
+          definition: palvelujen käyttöön liittyvä sovellusten rajapinta
+          language_code: fin
+          notes: []
+          examples: []
+          entry_status: retired
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19101:2002'
+            clause: '4.27'
+            link: 'https://www.iso.org/standard/26002.html'
+          lineage_source: ''
+          date_accepted: 2002-07-01T00:00:00.000Z
+          date_amended: 2014-11-01T00:00:00.000Z
+          review_date: 2010-10-12T00:00:00.000Z
+          review_status: final
+          review_type: retirement
+          review_decision: accepted
+          review_decision_date: 2014-11-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19101-1:2014'
+          review_decision_notes: >-
+            The entry has been omitted from the superseding standard  (ISO
+            19101-1:2014).
+          release: '-1'
+          terms:
+            - type: expression
+              designation: palvelurajapinta
+              normative_status: null
+        parents: []
+        timeCreated: 2002-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+fra:
+  id: 407
+  definition: >-
+    interface entre un système automatisé ou un acteur humain et un autre
+    système automatisé ou acteur humain
+  language_code: fra
+  notes: []
+  examples: []
+  entry_status: retired
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19101:2002'
+    clause: '4.27'
+    link: 'https://www.iso.org/standard/26002.html'
+  lineage_source: ''
+  date_accepted: 2002-07-01T00:00:00.000Z
+  date_amended: 2014-11-01T00:00:00.000Z
+  review_date: 2010-10-12T00:00:00.000Z
+  review_status: final
+  review_type: retirement
+  review_decision: accepted
+  review_decision_date: 2014-11-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19101-1:2014'
+  review_decision_notes: >-
+    The entry has been omitted from the superseding standard  (ISO
+    19101-1:2014).
+  release: '-1'
+  terms:
+    - type: expression
+      designation: interface de service
+      normative_status: null
+  _revisions:
+    current: 8d0f40
+    tree:
+      8d0f40:
+        object:
+          id: 407
+          definition: >-
+            interface entre un système automatisé ou un acteur humain et un
+            autre système automatisé ou acteur humain
+          language_code: fra
+          notes: []
+          examples: []
+          entry_status: retired
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19101:2002'
+            clause: '4.27'
+            link: 'https://www.iso.org/standard/26002.html'
+          lineage_source: ''
+          date_accepted: 2002-07-01T00:00:00.000Z
+          date_amended: 2014-11-01T00:00:00.000Z
+          review_date: 2010-10-12T00:00:00.000Z
+          review_status: final
+          review_type: retirement
+          review_decision: accepted
+          review_decision_date: 2014-11-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19101-1:2014'
+          review_decision_notes: >-
+            The entry has been omitted from the superseding standard  (ISO
+            19101-1:2014).
+          release: '-1'
+          terms:
+            - type: expression
+              designation: interface de service
+              normative_status: null
+        parents: []
+        timeCreated: 2002-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+deu:
+  id: 407
+  language_code: deu
+  notes: []
+  examples: []
+  entry_status: retired
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19101:2002'
+    clause: '4.27'
+    link: 'https://www.iso.org/standard/26002.html'
+  lineage_source: ''
+  date_accepted: 2002-07-01T00:00:00.000Z
+  date_amended: 2014-11-01T00:00:00.000Z
+  review_date: 2010-10-12T00:00:00.000Z
+  review_status: final
+  review_type: retirement
+  review_decision: accepted
+  review_decision_date: 2014-11-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19101-1:2014'
+  review_decision_notes: >-
+    The entry has been omitted from the superseding standard  (ISO
+    19101-1:2014).
+  release: '-1'
+  terms:
+    - type: expression
+      designation: 'Serviceinterface (Syn.: Diensteschnittstelle)'
+      normative_status: null
+  _revisions:
+    current: 2e5cc5
+    tree:
+      2e5cc5:
+        object:
+          id: 407
+          language_code: deu
+          notes: []
+          examples: []
+          entry_status: retired
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19101:2002'
+            clause: '4.27'
+            link: 'https://www.iso.org/standard/26002.html'
+          lineage_source: ''
+          date_accepted: 2002-07-01T00:00:00.000Z
+          date_amended: 2014-11-01T00:00:00.000Z
+          review_date: 2010-10-12T00:00:00.000Z
+          review_status: final
+          review_type: retirement
+          review_decision: accepted
+          review_decision_date: 2014-11-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19101-1:2014'
+          review_decision_notes: >-
+            The entry has been omitted from the superseding standard  (ISO
+            19101-1:2014).
+          release: '-1'
+          terms:
+            - type: expression
+              designation: 'Serviceinterface (Syn.: Diensteschnittstelle)'
+              normative_status: null
+        parents: []
+        timeCreated: 2002-07-01T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+kor:
+  id: 407
+  definition: 인간이나 자동화된 시스템 간의 공유 경계
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: retired
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19101:2002'
+    clause: '4.27'
+    link: 'https://www.iso.org/standard/26002.html'
+  lineage_source: ''
+  date_accepted: 2008-12-30T00:00:00.000Z
+  date_amended: 2014-11-01T00:00:00.000Z
+  review_date: 2010-10-12T00:00:00.000Z
+  review_status: final
+  review_type: retirement
+  review_decision: accepted
+  review_decision_date: 2014-11-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19101-1:2014'
+  review_decision_notes: >-
+    The entry has been omitted from the superseding standard  (ISO
+    19101-1:2014).
+  release: '-1'
+  terms:
+    - type: expression
+      designation: 서비스 인터페이스
+      normative_status: null
+  _revisions:
+    current: '562159'
+    tree:
+      '562159':
+        object:
+          id: 407
+          definition: 인간이나 자동화된 시스템 간의 공유 경계
+          language_code: kor
+          notes: []
+          examples: []
+          entry_status: retired
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19101:2002'
+            clause: '4.27'
+            link: 'https://www.iso.org/standard/26002.html'
+          lineage_source: ''
+          date_accepted: 2008-12-30T00:00:00.000Z
+          date_amended: 2014-11-01T00:00:00.000Z
+          review_date: 2010-10-12T00:00:00.000Z
+          review_status: final
+          review_type: retirement
+          review_decision: accepted
+          review_decision_date: 2014-11-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19101-1:2014'
+          review_decision_notes: >-
+            The entry has been omitted from the superseding standard  (ISO
+            19101-1:2014).
+          release: '-1'
+          terms:
+            - type: expression
+              designation: 서비스 인터페이스
+              normative_status: null
+        parents: []
+        timeCreated: 2008-12-30T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 407
+  definition: >-
+    [условная] граница между  автоматизированной системой или человеком – и
+    другой автоматизированной системой или [другим] человеком
+  language_code: rus
+  notes: []
+  examples: []
+  entry_status: изъятый
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19101:2002'
+    clause: '4.27'
+    link: 'https://www.iso.org/standard/26002.html'
+  lineage_source: ''
+  date_accepted: 2002-07-01T00:00:00.000Z
+  date_amended: 2014-11-01T00:00:00.000Z
+  review_date: 2010-10-12T00:00:00.000Z
+  review_status: ''
+  review_type: ''
+  review_decision: ''
+  review_decision_date: 2014-11-01T00:00:00.000Z
+  review_decision_event: 'Публикация ИСО 19101-1:2014'
+  review_decision_notes: 'Эта запись была опущена из заменяющего стандарта (ISO 19101-1: 2014).'
+  release: '-1'
+  terms:
+    - type: expression
+      designation: интерфейс сервиса
+      normative_status: null
+  _revisions:
+    current: 4caf61
+    tree:
+      4caf61:
+        object:
+          id: 407
+          definition: >-
+            [условная] граница между  автоматизированной системой или человеком
+            – и другой автоматизированной системой или [другим] человеком
+          language_code: rus
+          notes: []
+          examples: []
+          entry_status: изъятый
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19101:2002'
+            clause: '4.27'
+            link: 'https://www.iso.org/standard/26002.html'
+          lineage_source: ''
+          date_accepted: 2002-07-01T00:00:00.000Z
+          date_amended: 2014-11-01T00:00:00.000Z
+          review_date: 2010-10-12T00:00:00.000Z
+          review_status: ''
+          review_type: ''
+          review_decision: ''
+          review_decision_date: 2014-11-01T00:00:00.000Z
+          review_decision_event: 'Публикация ИСО 19101-1:2014'
+          review_decision_notes: >-
+            Эта запись была опущена из заменяющего стандарта (ISO 19101-1:
+            2014).
+          release: '-1'
+          terms:
+            - type: expression
+              designation: интерфейс сервиса
+              normative_status: null
+        parents: []
+        timeCreated: 2002-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 407
+  definition: >-
+    frontera compartida entre un sistema automatizado o un ser humano y otro
+    sistema automatizado o ser humano
+  language_code: spa
+  notes: []
+  examples: []
+  entry_status: retired
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19101:2002'
+    clause: '4.27'
+    link: 'https://www.iso.org/standard/26002.html'
+  lineage_source: ''
+  date_accepted: 2002-07-01T00:00:00.000Z
+  date_amended: 2014-11-01T00:00:00.000Z
+  review_date: 2010-10-12T00:00:00.000Z
+  review_status: final
+  review_type: retirement
+  review_decision: accepted
+  review_decision_date: 2014-11-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19101-1:2014'
+  review_decision_notes: >-
+    The entry has been omitted from the superseding standard  (ISO
+    19101-1:2014).
+  release: '-1'
+  terms:
+    - type: expression
+      designation: interfaz de servicio
+      normative_status: null
+  _revisions:
+    current: c4e625
+    tree:
+      c4e625:
+        object:
+          id: 407
+          definition: >-
+            frontera compartida entre un sistema automatizado o un ser humano y
+            otro sistema automatizado o ser humano
+          language_code: spa
+          notes: []
+          examples: []
+          entry_status: retired
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19101:2002'
+            clause: '4.27'
+            link: 'https://www.iso.org/standard/26002.html'
+          lineage_source: ''
+          date_accepted: 2002-07-01T00:00:00.000Z
+          date_amended: 2014-11-01T00:00:00.000Z
+          review_date: 2010-10-12T00:00:00.000Z
+          review_status: final
+          review_type: retirement
+          review_decision: accepted
+          review_decision_date: 2014-11-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19101-1:2014'
+          review_decision_notes: >-
+            The entry has been omitted from the superseding standard  (ISO
+            19101-1:2014).
+          release: '-1'
+          terms:
+            - type: expression
+              designation: interfaz de servicio
+              normative_status: null
+        parents: []
+        timeCreated: 2002-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

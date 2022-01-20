@@ -1,0 +1,134 @@
+term: instance <UML>
+termid: 1615
+eng:
+  id: 1615
+  definition: individual entity having its own value and possibly its own identity
+  language_code: eng
+  notes:
+    - >-
+      A classifier specifies the form and behaviour of a set of instances with
+      similar properties.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19103:2015'
+    clause: '4.20'
+    link: 'https://www.iso.org/standard/56734.html'
+  date_accepted: 2015-12-01T00:00:00.000Z
+  review_date: 2009-01-14T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2015-12-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19103:2015'
+  review_decision_notes: 'This entry supersedes the entry for "instance <UML>" in ISO/TS 19103:2005'
+  release: '4'
+  terms:
+    - type: expression
+      designation: instance <UML>
+      normative_status: preferred
+  _revisions:
+    current: 7317a6
+    tree:
+      7317a6:
+        object:
+          id: 1615
+          definition: individual entity having its own value and possibly its own identity
+          language_code: eng
+          notes:
+            - >-
+              A classifier specifies the form and behaviour of a set of
+              instances with similar properties.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19103:2015'
+            clause: '4.20'
+            link: 'https://www.iso.org/standard/56734.html'
+          date_accepted: 2015-12-01T00:00:00.000Z
+          review_date: 2009-01-14T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2015-12-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19103:2015'
+          review_decision_notes: >-
+            This entry supersedes the entry for "instance <UML>" in ISO/TS
+            19103:2005
+          release: '4'
+          terms:
+            - type: expression
+              designation: instance <UML>
+              normative_status: preferred
+        parents: []
+        timeCreated: 2015-12-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 1615
+  definition: >-
+    entidad individual que tiene su propio valor y posiblemente su propia
+    identidad
+  language_code: spa
+  notes:
+    - >-
+      Un clasificador especifica la forma y comportamiento de un conjunto de
+      instancias de propiedades similares.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19103:2015'
+    clause: '4.20'
+    link: 'https://www.iso.org/standard/56734.html'
+  date_accepted: 2015-12-01T00:00:00.000Z
+  review_date: 2009-01-14T00:00:00.000Z
+  review_status: final
+  review_decision: ''
+  review_decision_date: 2015-12-01T00:00:00.000Z
+  review_decision_event: 'Publicación de ISO 19103:2015'
+  review_decision_notes: >-
+    Esta entrada terminológica sustituye a "instance <UML>" en la Especificación
+    Técnica ISO/TS 19103:2005
+  release: '4'
+  terms:
+    - type: expression
+      designation: instancia <UML>
+      normative_status: preferred
+  _revisions:
+    current: bf7a7b
+    tree:
+      bf7a7b:
+        object:
+          id: 1615
+          definition: >-
+            entidad individual que tiene su propio valor y posiblemente su
+            propia identidad
+          language_code: spa
+          notes:
+            - >-
+              Un clasificador especifica la forma y comportamiento de un
+              conjunto de instancias de propiedades similares.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19103:2015'
+            clause: '4.20'
+            link: 'https://www.iso.org/standard/56734.html'
+          date_accepted: 2015-12-01T00:00:00.000Z
+          review_date: 2009-01-14T00:00:00.000Z
+          review_status: final
+          review_decision: ''
+          review_decision_date: 2015-12-01T00:00:00.000Z
+          review_decision_event: 'Publicación de ISO 19103:2015'
+          review_decision_notes: >-
+            Esta entrada terminológica sustituye a "instance <UML>" en la
+            Especificación Técnica ISO/TS 19103:2005
+          release: '4'
+          terms:
+            - type: expression
+              designation: instancia <UML>
+              normative_status: preferred
+        parents: []
+        timeCreated: 2015-12-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

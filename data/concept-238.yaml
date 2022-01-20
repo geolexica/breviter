@@ -1,0 +1,535 @@
+term: inconclusive verdict
+termid: 238
+eng:
+  id: 238
+  definition: test verdict when neither a pass verdict nor a fail verdict apply
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19105:2000'
+    link: 'https://www.iso.org/standard/26010.html'
+  date_accepted: 2000-12-15T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: inconclusive verdict
+      normative_status: preferred
+  _revisions:
+    current: 85f8f1
+    tree:
+      85f8f1:
+        object:
+          id: 238
+          definition: test verdict when neither a pass verdict nor a fail verdict apply
+          language_code: eng
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19105:2000'
+            link: 'https://www.iso.org/standard/26010.html'
+          date_accepted: 2000-12-15T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: inconclusive verdict
+              normative_status: preferred
+        parents: []
+        timeCreated: 2000-12-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+ara:
+  id: 238
+  definition: اختبار الحكم عندما لا ينطبق نجاح او فشل الحكم .
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19105:2000'
+    link: 'https://www.iso.org/standard/26010.html'
+  date_accepted: 2000-12-15T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: حكم غير نهائي
+      normative_status: preferred
+  _revisions:
+    current: a19d99
+    tree:
+      a19d99:
+        object:
+          id: 238
+          definition: اختبار الحكم عندما لا ينطبق نجاح او فشل الحكم .
+          language_code: ara
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19105:2000'
+            link: 'https://www.iso.org/standard/26010.html'
+          date_accepted: 2000-12-15T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: حكم غير نهائي
+              normative_status: preferred
+        parents: []
+        timeCreated: 2000-12-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+zho:
+  id: 238
+  definition: 既不能判为通过判定，也不能判为失败判定的测试判定。
+  language_code: zho
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19105:2000'
+    link: 'https://www.iso.org/standard/26010.html'
+  date_accepted: 2000-12-15T00:00:00.000Z
+  terms:
+    - type: expression
+      designation: 无结论判定
+      normative_status: preferred
+  _revisions:
+    current: 1d1a86
+    tree:
+      1d1a86:
+        object:
+          id: 238
+          definition: 既不能判为通过判定，也不能判为失败判定的测试判定。
+          language_code: zho
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19105:2000'
+            link: 'https://www.iso.org/standard/26010.html'
+          date_accepted: 2000-12-15T00:00:00.000Z
+          terms:
+            - type: expression
+              designation: 无结论判定
+              normative_status: preferred
+        parents: []
+        timeCreated: 2000-12-15T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+dan:
+  id: 238
+  definition: >-
+    testudfald, som viser at der hverken er overensstemmelse eller manglende
+    overensstemmelse
+  language_code: dan
+  notes: []
+  examples: []
+  authoritative_source:
+    ref: 'ISO 19105:2000'
+    link: 'https://www.iso.org/standard/26010.html'
+  date_accepted: 2000-12-15T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: uafklaret afgørelse
+      normative_status: null
+  _revisions:
+    current: e7214d
+    tree:
+      e7214d:
+        object:
+          id: 238
+          definition: >-
+            testudfald, som viser at der hverken er overensstemmelse eller
+            manglende overensstemmelse
+          language_code: dan
+          notes: []
+          examples: []
+          authoritative_source:
+            ref: 'ISO 19105:2000'
+            link: 'https://www.iso.org/standard/26010.html'
+          date_accepted: 2000-12-15T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: uafklaret afgørelse
+              normative_status: null
+        parents: []
+        timeCreated: 2000-12-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+fin:
+  id: 238
+  definition: >-
+    testitulos, joka annetaan, kun ei voida antaa hyväksyvää eikä hylkäävää
+    lausuntoa
+  language_code: fin
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19105:2000'
+    link: 'https://www.iso.org/standard/26010.html'
+  lineage_source: 'Ei lähdettä, käännetty'
+  date_accepted: 2000-12-15T00:00:00.000Z
+  terms:
+    - type: expression
+      designation: määrittelemätön testitulos
+      normative_status: preferred
+  _revisions:
+    current: ff86bf
+    tree:
+      ff86bf:
+        object:
+          id: 238
+          definition: >-
+            testitulos, joka annetaan, kun ei voida antaa hyväksyvää eikä
+            hylkäävää lausuntoa
+          language_code: fin
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19105:2000'
+            link: 'https://www.iso.org/standard/26010.html'
+          lineage_source: 'Ei lähdettä, käännetty'
+          date_accepted: 2000-12-15T00:00:00.000Z
+          terms:
+            - type: expression
+              designation: määrittelemätön testitulos
+              normative_status: preferred
+        parents: []
+        timeCreated: 2000-12-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+fra:
+  id: 238
+  definition: >-
+    verdict de test de conformité où ni un verdict de succès ni un verdict
+    d'échec ne s'appliquent
+  language_code: fra
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: ISO 19105
+    link: 'https://www.iso.org/standard/26010.html'
+  lineage_source: ''
+  date_accepted: 2000-11-16T00:00:00.000Z
+  terms:
+    - type: expression
+      designation: verdict non concluant
+      normative_status: preferred
+  _revisions:
+    current: ac67cd
+    tree:
+      ac67cd:
+        object:
+          id: 238
+          definition: >-
+            verdict de test de conformité où ni un verdict de succès ni un
+            verdict d'échec ne s'appliquent
+          language_code: fra
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: ISO 19105
+            link: 'https://www.iso.org/standard/26010.html'
+          lineage_source: ''
+          date_accepted: 2000-11-16T00:00:00.000Z
+          terms:
+            - type: expression
+              designation: verdict non concluant
+              normative_status: preferred
+        parents: []
+        timeCreated: 2000-11-16T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+deu:
+  id: 238
+  language_code: deu
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19105:2000'
+    link: 'https://www.iso.org/standard/26010.html'
+  date_accepted: 2000-12-15T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: ergebnisloser Prüfnachweis
+      normative_status: preferred
+  _revisions:
+    current: 60967d
+    tree:
+      60967d:
+        object:
+          id: 238
+          language_code: deu
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19105:2000'
+            link: 'https://www.iso.org/standard/26010.html'
+          date_accepted: 2000-12-15T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: ergebnisloser Prüfnachweis
+              normative_status: preferred
+        parents: []
+        timeCreated: 2000-12-15T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+jpn:
+  id: 238
+  definition: 観測された試験結果では合格とも不合格とも判定できない場合に与えられる試験の判定。
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19105:2000'
+    link: 'https://www.iso.org/standard/26010.html'
+  lineage_source: JIS X 7105
+  date_accepted: 2000-12-15T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: 不確定判定
+      normative_status: preferred
+  _revisions:
+    current: ee78ca
+    tree:
+      ee78ca:
+        object:
+          id: 238
+          definition: 観測された試験結果では合格とも不合格とも判定できない場合に与えられる試験の判定。
+          language_code: jpn
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19105:2000'
+            link: 'https://www.iso.org/standard/26010.html'
+          lineage_source: JIS X 7105
+          date_accepted: 2000-12-15T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: 不確定判定
+              normative_status: preferred
+        parents: []
+        timeCreated: 2000-12-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+kor:
+  id: 238
+  definition: 통과 또는 실패로 판정할 수 없는 경우의 시험 판정
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19105:2000'
+    link: 'https://www.iso.org/standard/26010.html'
+  lineage_source: KS X ISO 19105
+  date_accepted: 2007-06-29T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: 판정 보류
+      normative_status: preferred
+  _revisions:
+    current: e643b1
+    tree:
+      e643b1:
+        object:
+          id: 238
+          definition: 통과 또는 실패로 판정할 수 없는 경우의 시험 판정
+          language_code: kor
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19105:2000'
+            link: 'https://www.iso.org/standard/26010.html'
+          lineage_source: KS X ISO 19105
+          date_accepted: 2007-06-29T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: 판정 보류
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-06-29T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 238
+  definition: >-
+    заключение о результатах тестирования, которое дается тогда, когда не могут
+    быть даны ни заключение о прохождении теста, ни заключение о несоответствии
+  language_code: rus
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19105:2000'
+    link: 'https://www.iso.org/standard/26010.html'
+  lineage_source: Internet
+  date_accepted: 2000-12-15T00:00:00.000Z
+  terms:
+    - type: expression
+      designation: недоказательное заключение
+      normative_status: preferred
+  _revisions:
+    current: 54dcc8
+    tree:
+      54dcc8:
+        object:
+          id: 238
+          definition: >-
+            заключение о результатах тестирования, которое дается тогда, когда
+            не могут быть даны ни заключение о прохождении теста, ни заключение
+            о несоответствии
+          language_code: rus
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19105:2000'
+            link: 'https://www.iso.org/standard/26010.html'
+          lineage_source: Internet
+          date_accepted: 2000-12-15T00:00:00.000Z
+          terms:
+            - type: expression
+              designation: недоказательное заключение
+              normative_status: preferred
+        parents: []
+        timeCreated: 2000-12-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 238
+  definition: >-
+    veredicto de prueba en el que no se aplica ni un veredicto positivo ni un
+    veredicto negativo
+  language_code: spa
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19105:2000'
+    link: 'https://www.iso.org/standard/26010.html'
+  date_accepted: 2000-12-15T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: veredicto no concluyente
+      normative_status: preferred
+  _revisions:
+    current: 411b4a
+    tree:
+      411b4a:
+        object:
+          id: 238
+          definition: >-
+            veredicto de prueba en el que no se aplica ni un veredicto positivo
+            ni un veredicto negativo
+          language_code: spa
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19105:2000'
+            link: 'https://www.iso.org/standard/26010.html'
+          date_accepted: 2000-12-15T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: veredicto no concluyente
+              normative_status: preferred
+        parents: []
+        timeCreated: 2000-12-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+swe:
+  id: 238
+  definition: <vid test> resultat som varken anger godkänt eller underkänt
+  country_code: swe
+  language_code: swe
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19105:2000'
+    link: 'https://www.iso.org/standard/26010.html'
+  lineage_source: (Type reference to national language document)
+  date_accepted: 2000-12-15T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: obedömbart resultat
+      normative_status: preferred
+  _revisions:
+    current: c6a7dc
+    tree:
+      c6a7dc:
+        object:
+          id: 238
+          definition: <vid test> resultat som varken anger godkänt eller underkänt
+          country_code: swe
+          language_code: swe
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19105:2000'
+            link: 'https://www.iso.org/standard/26010.html'
+          lineage_source: (Type reference to national language document)
+          date_accepted: 2000-12-15T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: obedömbart resultat
+              normative_status: preferred
+        parents: []
+        timeCreated: 2000-12-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

@@ -1,0 +1,128 @@
+term: deviation
+termid: 1514
+eng:
+  id: 1514
+  definition: divergence from a plan or the normal situation
+  language_code: eng
+  notes:
+    - >-
+      These may be deviations with respect to the time schedule or the
+      accomplishment of the transport or deviations with respect to the services
+      or facilities that are provided.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19147:2015'
+    clause: '3.4'
+    link: 'https://www.iso.org/standard/44874.html'
+  date_accepted: 2015-06-15T00:00:00.000Z
+  review_date: 2009-06-20T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2015-06-15T00:00:00.000Z
+  review_decision_event: Normal ISO processing
+  review_decision_notes: 'Publication of document ISO 19147:2015(E)'
+  release: '4'
+  terms:
+    - type: expression
+      designation: deviation
+      normative_status: preferred
+  _revisions:
+    current: ea4791
+    tree:
+      ea4791:
+        object:
+          id: 1514
+          definition: divergence from a plan or the normal situation
+          language_code: eng
+          notes:
+            - >-
+              These may be deviations with respect to the time schedule or the
+              accomplishment of the transport or deviations with respect to the
+              services or facilities that are provided.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19147:2015'
+            clause: '3.4'
+            link: 'https://www.iso.org/standard/44874.html'
+          date_accepted: 2015-06-15T00:00:00.000Z
+          review_date: 2009-06-20T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2015-06-15T00:00:00.000Z
+          review_decision_event: Normal ISO processing
+          review_decision_notes: 'Publication of document ISO 19147:2015(E)'
+          release: '4'
+          terms:
+            - type: expression
+              designation: deviation
+              normative_status: preferred
+        parents: []
+        timeCreated: 2015-06-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 1514
+  definition: divergencia respecto de un plan o de la situación normal
+  language_code: spa
+  notes:
+    - >-
+      Éstas pueden ser desviaciones con respecto al horario o el cumplimiento
+      del transporte o desviaciones con respecto a servicios o instalaciones
+      proporcionadas.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19147:2015'
+    clause: '3.4'
+    link: 'https://www.iso.org/standard/44874.html'
+  date_accepted: 2015-06-15T00:00:00.000Z
+  review_date: 2009-06-20T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2015-06-15T00:00:00.000Z
+  review_decision_event: Normal ISO processing
+  review_decision_notes: 'Publication of document ISO 19147:2015(E)'
+  release: '4'
+  terms:
+    - type: expression
+      designation: desviación
+      normative_status: preferred
+  _revisions:
+    current: fb3166
+    tree:
+      fb3166:
+        object:
+          id: 1514
+          definition: divergencia respecto de un plan o de la situación normal
+          language_code: spa
+          notes:
+            - >-
+              Éstas pueden ser desviaciones con respecto al horario o el
+              cumplimiento del transporte o desviaciones con respecto a
+              servicios o instalaciones proporcionadas.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19147:2015'
+            clause: '3.4'
+            link: 'https://www.iso.org/standard/44874.html'
+          date_accepted: 2015-06-15T00:00:00.000Z
+          review_date: 2009-06-20T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2015-06-15T00:00:00.000Z
+          review_decision_event: Normal ISO processing
+          review_decision_notes: 'Publication of document ISO 19147:2015(E)'
+          release: '4'
+          terms:
+            - type: expression
+              designation: desviación
+              normative_status: preferred
+        parents: []
+        timeCreated: 2015-06-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

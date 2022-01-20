@@ -1,0 +1,225 @@
+term: multibeam SONAR
+termid: 1563
+eng:
+  id: 1563
+  definition: >-
+    wide swath echo sounder for use in seabed mapping and surveying using the
+    multi-beam principle
+  language_code: eng
+  notes:
+    - >-
+      Depths are measured directly below and transverse to the ship's track. The
+      width of the swath is a function of the number of beams and their
+      aperture.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: IHO Hydrographic Dictionary S-32
+    clause: Fifth Edition
+  lineage_source: 'ISO/TS 19130-2:2014, 4.44'
+  lineage_source_similarity: '1'
+  date_accepted: 2014-01-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: multibeam SONAR
+      normative_status: preferred
+  _revisions:
+    current: 33e56a
+    tree:
+      33e56a:
+        object:
+          id: 1563
+          definition: >-
+            wide swath echo sounder for use in seabed mapping and surveying
+            using the multi-beam principle
+          language_code: eng
+          notes:
+            - >-
+              Depths are measured directly below and transverse to the ship's
+              track. The width of the swath is a function of the number of beams
+              and their aperture.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: IHO Hydrographic Dictionary S-32
+            clause: Fifth Edition
+          lineage_source: 'ISO/TS 19130-2:2014, 4.44'
+          lineage_source_similarity: '1'
+          date_accepted: 2014-01-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: multibeam SONAR
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-01-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+kor:
+  id: 1563
+  definition: 멀티빔 원리를 사용하여 해저 매핑 및 조사에서 사용되는 광폭 에코 음향기
+  language_code: kor
+  notes:
+    - >-
+      Depths are measured directly below and transverse to the ship's track. The
+      width of the swath is a function of the number of beams and their
+      aperture.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: IHO Hydrographic Dictionary S-32
+    clause: Fifth Edition
+  lineage_source: 'ISO/TS 19130-2:2014, 4.44'
+  lineage_source_similarity: '1'
+  date_accepted: 2014-01-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: 멀티빔 소나
+      normative_status: preferred
+  _revisions:
+    current: 8aed0a
+    tree:
+      8aed0a:
+        object:
+          id: 1563
+          definition: 멀티빔 원리를 사용하여 해저 매핑 및 조사에서 사용되는 광폭 에코 음향기
+          language_code: kor
+          notes:
+            - >-
+              Depths are measured directly below and transverse to the ship's
+              track. The width of the swath is a function of the number of beams
+              and their aperture.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: IHO Hydrographic Dictionary S-32
+            clause: Fifth Edition
+          lineage_source: 'ISO/TS 19130-2:2014, 4.44'
+          lineage_source_similarity: '1'
+          date_accepted: 2014-01-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: 멀티빔 소나
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-01-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 1563
+  definition: >-
+    Широкополосный эхолот для использования при картографировани морского дна и
+    съемке с  помощью многолучевого источника
+  language_code: rus
+  notes:
+    - >-
+      глубины измеряются непосредственно под и поперек судовой колеи. Ширина
+      полосы зависит от количества лучей и их апертуры.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: IHO Hydrographic Dictionary S-32
+    clause: Fifth Edition
+  lineage_source: 'ISO/TS 19130-2:2014, 4.44'
+  lineage_source_similarity: '1'
+  date_accepted: 2014-01-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: многолучевой SONAR
+      normative_status: preferred
+  _revisions:
+    current: ad362b
+    tree:
+      ad362b:
+        object:
+          id: 1563
+          definition: >-
+            Широкополосный эхолот для использования при картографировани
+            морского дна и съемке с  помощью многолучевого источника
+          language_code: rus
+          notes:
+            - >-
+              глубины измеряются непосредственно под и поперек судовой колеи.
+              Ширина полосы зависит от количества лучей и их апертуры.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: IHO Hydrographic Dictionary S-32
+            clause: Fifth Edition
+          lineage_source: 'ISO/TS 19130-2:2014, 4.44'
+          lineage_source_similarity: '1'
+          date_accepted: 2014-01-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: многолучевой SONAR
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-01-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 1563
+  definition: >-
+    amplia franja de ecosonda para su uso en la cartografía y levantamiento de
+    fondos marinos utilizando el principio de haces múltiples
+  language_code: spa
+  notes:
+    - >-
+      Las profundidades se miden directamente debajo y en transversal a la
+      trayectora del barco. La anchura de la franja es una función del número de
+      haces y de su apertura.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: IHO Hydrographic Dictionary S-32
+    clause: Fifth Edition
+  lineage_source: 'ISO/TS 19130-2:2014, 4.44'
+  lineage_source_similarity: '1'
+  date_accepted: 2014-01-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: sonar multihaz
+      normative_status: preferred
+  _revisions:
+    current: f40d1c
+    tree:
+      f40d1c:
+        object:
+          id: 1563
+          definition: >-
+            amplia franja de ecosonda para su uso en la cartografía y
+            levantamiento de fondos marinos utilizando el principio de haces
+            múltiples
+          language_code: spa
+          notes:
+            - >-
+              Las profundidades se miden directamente debajo y en transversal a
+              la trayectora del barco. La anchura de la franja es una función
+              del número de haces y de su apertura.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: IHO Hydrographic Dictionary S-32
+            clause: Fifth Edition
+          lineage_source: 'ISO/TS 19130-2:2014, 4.44'
+          lineage_source_similarity: '1'
+          date_accepted: 2014-01-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: sonar multihaz
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-01-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

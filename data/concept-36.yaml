@@ -1,0 +1,655 @@
+term: cardinality <UML>
+termid: 36
+eng:
+  id: 36
+  definition: number of elements in a set
+  language_code: eng
+  notes:
+    - 'Contrast: multiplicity.'
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: UML 1
+  lineage_source: 'ISO/TS 19103:2005'
+  lineage_source_similarity: 1
+  date_accepted: 2005-07-15T00:00:00.000Z
+  review_date: 2009-01-14T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2015-12-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19103:2015'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO/IEC 19501:2005 (Adapted from) to
+    UML 1. Lineage source added as ISO/TS 19103:2005
+  release: '1'
+  terms:
+    - type: expression
+      designation: cardinality <UML>
+      normative_status: preferred
+  _revisions:
+    current: deea03
+    tree:
+      deea03:
+        object:
+          id: 36
+          definition: number of elements in a set
+          language_code: eng
+          notes:
+            - 'Contrast: multiplicity.'
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: UML 1
+          lineage_source: 'ISO/TS 19103:2005'
+          lineage_source_similarity: 1
+          date_accepted: 2005-07-15T00:00:00.000Z
+          review_date: 2009-01-14T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2015-12-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19103:2015'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO/IEC 19501:2005 (Adapted
+            from) to UML 1. Lineage source added as ISO/TS 19103:2005
+          release: '1'
+          terms:
+            - type: expression
+              designation: cardinality <UML>
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-07-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+ara:
+  id: 36
+  definition: عدد العناصر في مجموعة معينة
+  language_code: ara
+  notes:
+    - 'الضد أو النقيض : الكثرة أو التعدد'
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: UML 1
+  lineage_source: 'ISO/TS 19103:2005'
+  lineage_source_similarity: 1
+  date_accepted: 2005-07-15T00:00:00.000Z
+  review_date: 2009-01-14T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2015-12-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19103:2015'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO/IEC 19501:2005 (Adapted from) to
+    UML 1. Lineage source added as ISO/TS 19103:2005
+  release: '1'
+  terms:
+    - type: expression
+      designation: عدد العلاقات <UML>
+      normative_status: preferred
+  _revisions:
+    current: 70a153
+    tree:
+      70a153:
+        object:
+          id: 36
+          definition: عدد العناصر في مجموعة معينة
+          language_code: ara
+          notes:
+            - 'الضد أو النقيض : الكثرة أو التعدد'
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: UML 1
+          lineage_source: 'ISO/TS 19103:2005'
+          lineage_source_similarity: 1
+          date_accepted: 2005-07-15T00:00:00.000Z
+          review_date: 2009-01-14T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2015-12-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19103:2015'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO/IEC 19501:2005 (Adapted
+            from) to UML 1. Lineage source added as ISO/TS 19103:2005
+          release: '1'
+          terms:
+            - type: expression
+              designation: عدد العلاقات <UML>
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-07-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+zho:
+  id: 36
+  definition: 集合中元素的个数。
+  language_code: zho
+  notes:
+    - 对比：多重性。
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: UML 1
+  lineage_source: 'ISO/TS 19103:2005'
+  lineage_source_similarity: 1
+  date_accepted: 2005-07-15T00:00:00.000Z
+  review_date: 2009-01-14T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2015-12-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19103:2015'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO/IEC 19501:2005 (Adapted from) to
+    UML 1. Lineage source added as ISO/TS 19103:2005
+  release: '1'
+  terms:
+    - type: expression
+      designation: 基数<UML>
+      normative_status: preferred
+  _revisions:
+    current: 44163e
+    tree:
+      44163e:
+        object:
+          id: 36
+          definition: 集合中元素的个数。
+          language_code: zho
+          notes:
+            - 对比：多重性。
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: UML 1
+          lineage_source: 'ISO/TS 19103:2005'
+          lineage_source_similarity: 1
+          date_accepted: 2005-07-15T00:00:00.000Z
+          review_date: 2009-01-14T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2015-12-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19103:2015'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO/IEC 19501:2005 (Adapted
+            from) to UML 1. Lineage source added as ISO/TS 19103:2005
+          release: '1'
+          terms:
+            - type: expression
+              designation: 基数<UML>
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-07-15T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+dan:
+  id: 36
+  definition: antal elementer i en mængde
+  language_code: dan
+  notes:
+    - 'Kontrast: multiplicitet.'
+  examples: []
+  authoritative_source:
+    ref: UML 1
+  lineage_source: 'ISO/TS 19103:2005'
+  lineage_source_similarity: 1
+  date_accepted: 2005-07-15T00:00:00.000Z
+  review_date: 2009-01-14T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2015-12-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19103:2015'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO/IEC 19501:2005 (Adapted from) to
+    UML 1. Lineage source added as ISO/TS 19103:2005
+  release: '1'
+  terms:
+    - type: expression
+      designation: kardinalitet <UML>
+      normative_status: null
+  _revisions:
+    current: 0a9d40
+    tree:
+      0a9d40:
+        object:
+          id: 36
+          definition: antal elementer i en mængde
+          language_code: dan
+          notes:
+            - 'Kontrast: multiplicitet.'
+          examples: []
+          authoritative_source:
+            ref: UML 1
+          lineage_source: 'ISO/TS 19103:2005'
+          lineage_source_similarity: 1
+          date_accepted: 2005-07-15T00:00:00.000Z
+          review_date: 2009-01-14T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2015-12-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19103:2015'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO/IEC 19501:2005 (Adapted
+            from) to UML 1. Lineage source added as ISO/TS 19103:2005
+          release: '1'
+          terms:
+            - type: expression
+              designation: kardinalitet <UML>
+              normative_status: null
+        parents: []
+        timeCreated: 2005-07-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+fin:
+  id: 36
+  definition: joukon elementtien lukumäärä
+  language_code: fin
+  notes:
+    - Huomaa ero käsitteeseen kerrannaisuus (multiplicity).
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: UML 1
+  lineage_source: 'ISO/TS 19103:2005'
+  lineage_source_similarity: 1
+  date_accepted: 2005-07-15T00:00:00.000Z
+  review_date: 2009-01-14T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2015-12-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19103:2015'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO/IEC 19501:2005 (Adapted from) to
+    UML 1. Lineage source added as ISO/TS 19103:2005
+  release: '1'
+  terms:
+    - type: expression
+      designation: mahtavuus <UML>
+      normative_status: preferred
+    - designation: kardinaliteetti <UML>
+      type: expression
+  _revisions:
+    current: 81565c
+    tree:
+      81565c:
+        object:
+          id: 36
+          definition: joukon elementtien lukumäärä
+          language_code: fin
+          notes:
+            - Huomaa ero käsitteeseen kerrannaisuus (multiplicity).
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: UML 1
+          lineage_source: 'ISO/TS 19103:2005'
+          lineage_source_similarity: 1
+          date_accepted: 2005-07-15T00:00:00.000Z
+          review_date: 2009-01-14T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2015-12-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19103:2015'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO/IEC 19501:2005 (Adapted
+            from) to UML 1. Lineage source added as ISO/TS 19103:2005
+          release: '1'
+          terms:
+            - type: expression
+              designation: mahtavuus <UML>
+              normative_status: preferred
+            - designation: kardinaliteetti <UML>
+              type: expression
+        parents: []
+        timeCreated: 2005-07-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+fra:
+  id: 36
+  definition: nombre d'éléments dans un ensemble
+  language_code: fra
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: UML 1
+  lineage_source: 'ISO/TS 19103:2005'
+  lineage_source_similarity: 1
+  date_accepted: 2005-07-15T00:00:00.000Z
+  review_date: 2009-01-14T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2015-12-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19103:2015'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO/IEC 19501:2005 (Adapted from) to
+    UML 1. Lineage source added as ISO/TS 19103:2005
+  release: '1'
+  terms:
+    - type: expression
+      designation: cardinalité <UML>
+      normative_status: preferred
+  _revisions:
+    current: 438afa
+    tree:
+      438afa:
+        object:
+          id: 36
+          definition: nombre d'éléments dans un ensemble
+          language_code: fra
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: UML 1
+          lineage_source: 'ISO/TS 19103:2005'
+          lineage_source_similarity: 1
+          date_accepted: 2005-07-15T00:00:00.000Z
+          review_date: 2009-01-14T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2015-12-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19103:2015'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO/IEC 19501:2005 (Adapted
+            from) to UML 1. Lineage source added as ISO/TS 19103:2005
+          release: '1'
+          terms:
+            - type: expression
+              designation: cardinalité <UML>
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-07-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+deu:
+  id: 36
+  language_code: deu
+  notes:
+    - 'Contrast: multiplicity.'
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: UML 1
+  lineage_source: 'ISO/TS 19103:2005'
+  lineage_source_similarity: 1
+  date_accepted: 2005-07-15T00:00:00.000Z
+  review_date: 2009-01-14T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2015-12-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19103:2015'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO/IEC 19501:2005 (Adapted from) to
+    UML 1. Lineage source added as ISO/TS 19103:2005
+  release: '1'
+  terms:
+    - type: expression
+      designation: Kardinalität
+      normative_status: preferred
+  _revisions:
+    current: b4f31b
+    tree:
+      b4f31b:
+        object:
+          id: 36
+          language_code: deu
+          notes:
+            - 'Contrast: multiplicity.'
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: UML 1
+          lineage_source: 'ISO/TS 19103:2005'
+          lineage_source_similarity: 1
+          date_accepted: 2005-07-15T00:00:00.000Z
+          review_date: 2009-01-14T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2015-12-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19103:2015'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO/IEC 19501:2005 (Adapted
+            from) to UML 1. Lineage source added as ISO/TS 19103:2005
+          release: '1'
+          terms:
+            - type: expression
+              designation: Kardinalität
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-07-15T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+kor:
+  id: 36
+  definition: 집합 내 요소의 수
+  language_code: kor
+  notes:
+    - '반대: 다중성'
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: UML 1
+  lineage_source: 'ISO/TS 19103:2005'
+  lineage_source_similarity: 1
+  date_accepted: 2005-07-15T00:00:00.000Z
+  review_date: 2009-01-14T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2015-12-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19103:2015'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO/IEC 19501:2005 (Adapted from) to
+    UML 1. Lineage source added as ISO/TS 19103:2005
+  release: '1'
+  terms:
+    - type: expression
+      designation: 관계 수 <UML>
+      normative_status: preferred
+  _revisions:
+    current: df7667
+    tree:
+      df7667:
+        object:
+          id: 36
+          definition: 집합 내 요소의 수
+          language_code: kor
+          notes:
+            - '반대: 다중성'
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: UML 1
+          lineage_source: 'ISO/TS 19103:2005'
+          lineage_source_similarity: 1
+          date_accepted: 2005-07-15T00:00:00.000Z
+          review_date: 2009-01-14T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2015-12-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19103:2015'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO/IEC 19501:2005 (Adapted
+            from) to UML 1. Lineage source added as ISO/TS 19103:2005
+          release: '1'
+          terms:
+            - type: expression
+              designation: 관계 수 <UML>
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-07-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 36
+  definition: число элементов  множества
+  language_code: rus
+  notes:
+    - См. для сравнения  термин «множественность»
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO/IEC 19501:2005 '
+    clause: (Adapted from)
+    link: 'https://www.iso.org/standard/32620.html'
+  lineage_source: Internet
+  date_accepted: 2005-07-15T00:00:00.000Z
+  terms:
+    - type: expression
+      designation: кардинальное число <UML>
+      normative_status: preferred
+  _revisions:
+    current: 3aa4d2
+    tree:
+      3aa4d2:
+        object:
+          id: 36
+          definition: число элементов  множества
+          language_code: rus
+          notes:
+            - См. для сравнения  термин «множественность»
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO/IEC 19501:2005 '
+            clause: (Adapted from)
+            link: 'https://www.iso.org/standard/32620.html'
+          lineage_source: Internet
+          date_accepted: 2005-07-15T00:00:00.000Z
+          terms:
+            - type: expression
+              designation: кардинальное число <UML>
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-07-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 36
+  definition: número de elementos en un conjunto
+  language_code: spa
+  notes:
+    - Contrastar con multiplicidad
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: UML 1
+  lineage_source: 'ISO/TS 19103:2005'
+  lineage_source_similarity: 1
+  date_accepted: 2005-07-15T00:00:00.000Z
+  review_date: 2009-01-14T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2015-12-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19103:2015'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO/IEC 19501:2005 (Adapted from) to
+    UML 1. Lineage source added as ISO/TS 19103:2005
+  release: '1'
+  terms:
+    - type: expression
+      designation: cardinalidad<UML>
+      normative_status: preferred
+  _revisions:
+    current: 6d4ed1
+    tree:
+      6d4ed1:
+        object:
+          id: 36
+          definition: número de elementos en un conjunto
+          language_code: spa
+          notes:
+            - Contrastar con multiplicidad
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: UML 1
+          lineage_source: 'ISO/TS 19103:2005'
+          lineage_source_similarity: 1
+          date_accepted: 2005-07-15T00:00:00.000Z
+          review_date: 2009-01-14T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2015-12-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19103:2015'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO/IEC 19501:2005 (Adapted
+            from) to UML 1. Lineage source added as ISO/TS 19103:2005
+          release: '1'
+          terms:
+            - type: expression
+              designation: cardinalidad<UML>
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-07-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+swe:
+  id: 36
+  definition: number of elements in a set
+  language_code: swe
+  notes:
+    - 'Contrast: multiplicity.'
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: UML 1
+  lineage_source: 'ISO/TS 19103:2005'
+  lineage_source_similarity: 1
+  date_accepted: 2005-07-15T00:00:00.000Z
+  review_date: 2009-01-14T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2015-12-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19103:2015'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO/IEC 19501:2005 (Adapted from) to
+    UML 1. Lineage source added as ISO/TS 19103:2005
+  release: '1'
+  terms:
+    - type: expression
+      designation: cardinality <UML>
+      normative_status: preferred
+  _revisions:
+    current: 79fff2
+    tree:
+      79fff2:
+        object:
+          id: 36
+          definition: number of elements in a set
+          language_code: swe
+          notes:
+            - 'Contrast: multiplicity.'
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: UML 1
+          lineage_source: 'ISO/TS 19103:2005'
+          lineage_source_similarity: 1
+          date_accepted: 2005-07-15T00:00:00.000Z
+          review_date: 2009-01-14T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2015-12-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19103:2015'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO/IEC 19501:2005 (Adapted
+            from) to UML 1. Lineage source added as ISO/TS 19103:2005
+          release: '1'
+          terms:
+            - type: expression
+              designation: cardinality <UML>
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-07-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

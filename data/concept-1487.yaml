@@ -1,0 +1,188 @@
+term: vicarious calibration
+termid: 1487
+eng:
+  id: 1487
+  definition: >-
+    post-launch calibration of sensors that make use of natural or artificial
+    sites on the surface of the Earth
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO/TS 19159-1:2014'
+    clause: '4.41'
+    link: 'https://www.iso.org/standard/60080.html'
+  date_accepted: 2014-07-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: vicarious calibration
+      normative_status: preferred
+  _revisions:
+    current: 7a6408
+    tree:
+      7a6408:
+        object:
+          id: 1487
+          definition: >-
+            post-launch calibration of sensors that make use of natural or
+            artificial sites on the surface of the Earth
+          language_code: eng
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO/TS 19159-1:2014'
+            clause: '4.41'
+            link: 'https://www.iso.org/standard/60080.html'
+          date_accepted: 2014-07-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: vicarious calibration
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-07-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+kor:
+  id: 1487
+  definition: 지표면의 자연 또는 인공적 장소를 이용한 센서 보정
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO/TS 19159-1:2014'
+    clause: '4.41'
+    link: 'https://www.iso.org/standard/60080.html'
+  date_accepted: 2014-07-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: 대상의 보정
+      normative_status: preferred
+  _revisions:
+    current: 20fc23
+    tree:
+      20fc23:
+        object:
+          id: 1487
+          definition: 지표면의 자연 또는 인공적 장소를 이용한 센서 보정
+          language_code: kor
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO/TS 19159-1:2014'
+            clause: '4.41'
+            link: 'https://www.iso.org/standard/60080.html'
+          date_accepted: 2014-07-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: 대상의 보정
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-07-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 1487
+  definition: >-
+    послепусковая калибровка датчиков, для которой используются природные или
+    искусственные объекты на поверхности Земли
+  language_code: rus
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO/TS 19159-1:2014'
+    clause: '4.41'
+    link: 'https://www.iso.org/standard/60080.html'
+  lineage_source: 'ISO/TS 19159-1:2014'
+  date_accepted: 2014-07-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: замещающая калибровка
+      normative_status: preferred
+  _revisions:
+    current: 615a13
+    tree:
+      615a13:
+        object:
+          id: 1487
+          definition: >-
+            послепусковая калибровка датчиков, для которой используются
+            природные или искусственные объекты на поверхности Земли
+          language_code: rus
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO/TS 19159-1:2014'
+            clause: '4.41'
+            link: 'https://www.iso.org/standard/60080.html'
+          lineage_source: 'ISO/TS 19159-1:2014'
+          date_accepted: 2014-07-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: замещающая калибровка
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-07-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 1487
+  definition: >-
+    calibración de sensores postlanzamiento que hacen uso de sitios naturales o
+    artificiales en la superficie de la Tierra
+  language_code: spa
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO/TS 19159-1:2014'
+    clause: '4.41'
+    link: 'https://www.iso.org/standard/60080.html'
+  date_accepted: 2014-07-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: calibración vicaria
+      normative_status: preferred
+  _revisions:
+    current: 11a737
+    tree:
+      11a737:
+        object:
+          id: 1487
+          definition: >-
+            calibración de sensores postlanzamiento que hacen uso de sitios
+            naturales o artificiales en la superficie de la Tierra
+          language_code: spa
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO/TS 19159-1:2014'
+            clause: '4.41'
+            link: 'https://www.iso.org/standard/60080.html'
+          date_accepted: 2014-07-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: calibración vicaria
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-07-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

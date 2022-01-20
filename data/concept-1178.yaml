@@ -1,0 +1,308 @@
+term: spatial position
+termid: 1178
+eng:
+  id: 1178
+  definition: >-
+    direct position that is referenced to a 2- or 3-dimensional coordinate
+    reference system
+  language_code: eng
+  notes:
+    - An alternative to specifying a location as a linearly referenced location.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19148:2012'
+    clause: '4.22'
+    link: 'https://www.iso.org/standard/32566.html'
+  date_accepted: 2012-02-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: spatial position
+      normative_status: preferred
+  _revisions:
+    current: 1ca5b1
+    tree:
+      1ca5b1:
+        object:
+          id: 1178
+          definition: >-
+            direct position that is referenced to a 2- or 3-dimensional
+            coordinate reference system
+          language_code: eng
+          notes:
+            - >-
+              An alternative to specifying a location as a linearly referenced
+              location.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19148:2012'
+            clause: '4.22'
+            link: 'https://www.iso.org/standard/32566.html'
+          date_accepted: 2012-02-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: spatial position
+              normative_status: preferred
+        parents: []
+        timeCreated: 2012-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+kor:
+  id: 1178
+  definition: 2차원 또는 3차원 좌표참조계에 대해 참조된 직접적 위치
+  language_code: kor
+  notes:
+    - An alternative to specifying a location as a linearly referenced location.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19148:2012'
+    clause: '4.22'
+    link: 'https://www.iso.org/standard/32566.html'
+  date_accepted: 2012-02-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: 공간위치
+      normative_status: preferred
+  _revisions:
+    current: 81389e
+    tree:
+      81389e:
+        object:
+          id: 1178
+          definition: 2차원 또는 3차원 좌표참조계에 대해 참조된 직접적 위치
+          language_code: kor
+          notes:
+            - >-
+              An alternative to specifying a location as a linearly referenced
+              location.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19148:2012'
+            clause: '4.22'
+            link: 'https://www.iso.org/standard/32566.html'
+          date_accepted: 2012-02-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: 공간위치
+              normative_status: preferred
+        parents: []
+        timeCreated: 2012-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+msa:
+  id: 1178
+  language_code: msa
+  notes:
+    - An alternative to specifying a location as a linearly referenced location.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19148:2012'
+    clause: '4.22'
+    link: 'https://www.iso.org/standard/32566.html'
+  lineage_source: Pusat Rujukan Persuratan Melayu (DBP)
+  date_accepted: 2012-02-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: kedudukan ruang
+      normative_status: preferred
+  _revisions:
+    current: 3df5c1
+    tree:
+      3df5c1:
+        object:
+          id: 1178
+          language_code: msa
+          notes:
+            - >-
+              An alternative to specifying a location as a linearly referenced
+              location.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19148:2012'
+            clause: '4.22'
+            link: 'https://www.iso.org/standard/32566.html'
+          lineage_source: Pusat Rujukan Persuratan Melayu (DBP)
+          date_accepted: 2012-02-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: kedudukan ruang
+              normative_status: preferred
+        parents: []
+        timeCreated: 2012-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 1178
+  definition: 'прямое позиционирование, основанное на 2-или 3-мерной системе координат'
+  language_code: rus
+  notes:
+    - >-
+      Альтернатива определению местоположения как  линейно привязанного
+      местоположения
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19148:2012'
+    clause: '4.22'
+    link: 'https://www.iso.org/standard/32566.html'
+  lineage_source: 'ISO 19148:2012'
+  date_accepted: 2012-02-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: пространственное положение
+      normative_status: preferred
+  _revisions:
+    current: 77ad63
+    tree:
+      77ad63:
+        object:
+          id: 1178
+          definition: >-
+            прямое позиционирование, основанное на 2-или 3-мерной системе
+            координат
+          language_code: rus
+          notes:
+            - >-
+              Альтернатива определению местоположения как  линейно привязанного
+              местоположения
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19148:2012'
+            clause: '4.22'
+            link: 'https://www.iso.org/standard/32566.html'
+          lineage_source: 'ISO 19148:2012'
+          date_accepted: 2012-02-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: пространственное положение
+              normative_status: preferred
+        parents: []
+        timeCreated: 2012-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 1178
+  definition: >-
+    posición directa que se referencia con un sistema de referencia de
+    coordenadas de 2 o 3 dimensiones
+  language_code: spa
+  notes:
+    - >-
+      Una alternativa a especificar una localización como una localización
+      referenciada linealmente
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19148:2012'
+    clause: '4.22'
+    link: 'https://www.iso.org/standard/32566.html'
+  date_accepted: 2012-02-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: posición espacial
+      normative_status: preferred
+  _revisions:
+    current: 28c00c
+    tree:
+      28c00c:
+        object:
+          id: 1178
+          definition: >-
+            posición directa que se referencia con un sistema de referencia de
+            coordenadas de 2 o 3 dimensiones
+          language_code: spa
+          notes:
+            - >-
+              Una alternativa a especificar una localización como una
+              localización referenciada linealmente
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19148:2012'
+            clause: '4.22'
+            link: 'https://www.iso.org/standard/32566.html'
+          date_accepted: 2012-02-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: posición espacial
+              normative_status: preferred
+        parents: []
+        timeCreated: 2012-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+swe:
+  id: 1178
+  definition: >-
+    geografiskt läge som refererar till ett två- eller tredimensionellt
+    koordinatsystem
+  country_code: swe
+  language_code: swe
+  notes:
+    - An alternative to specifying a location as a linearly referenced location.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19148:2012'
+    clause: '4.22'
+    link: 'https://www.iso.org/standard/32566.html'
+  lineage_source: (Type reference to national language document)
+  date_accepted: 2012-02-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: rumslig lägesbestämning
+      normative_status: preferred
+  _revisions:
+    current: cf1963
+    tree:
+      cf1963:
+        object:
+          id: 1178
+          definition: >-
+            geografiskt läge som refererar till ett två- eller tredimensionellt
+            koordinatsystem
+          country_code: swe
+          language_code: swe
+          notes:
+            - >-
+              An alternative to specifying a location as a linearly referenced
+              location.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19148:2012'
+            clause: '4.22'
+            link: 'https://www.iso.org/standard/32566.html'
+          lineage_source: (Type reference to national language document)
+          date_accepted: 2012-02-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: rumslig lägesbestämning
+              normative_status: preferred
+        parents: []
+        timeCreated: 2012-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

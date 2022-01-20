@@ -1,0 +1,837 @@
+term: register
+termid: 371
+eng:
+  id: 371
+  definition: >-
+    set of files containing identifiers assigned to items with descriptions of
+    the associated items
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19135-1:2015'
+    clause: 4.1.9
+    link: 'https://www.iso.org/standard/54721.html'
+  lineage_source: 'ISO 19135:2005'
+  date_accepted: 2005-10-15T00:00:00.000Z
+  review_date: 2010-10-19T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2015-10-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19135-1:2015'
+  review_decision_notes: >-
+    Authoritative reference changed from Annex E, ISO/IEC JTC1 Procedures
+    (Adapted from) to ISO 19135-1:2015, 4.1.9. Lineage source added as ISO
+    19135:2005
+  release: '1'
+  terms:
+    - type: expression
+      designation: register
+      normative_status: preferred
+  _revisions:
+    current: 4f3e0b
+    tree:
+      4f3e0b:
+        object:
+          id: 371
+          definition: >-
+            set of files containing identifiers assigned to items with
+            descriptions of the associated items
+          language_code: eng
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19135-1:2015'
+            clause: 4.1.9
+            link: 'https://www.iso.org/standard/54721.html'
+          lineage_source: 'ISO 19135:2005'
+          date_accepted: 2005-10-15T00:00:00.000Z
+          review_date: 2010-10-19T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2015-10-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19135-1:2015'
+          review_decision_notes: >-
+            Authoritative reference changed from Annex E, ISO/IEC JTC1
+            Procedures (Adapted from) to ISO 19135-1:2015, 4.1.9. Lineage source
+            added as ISO 19135:2005
+          release: '1'
+          terms:
+            - type: expression
+              designation: register
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-10-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+ara:
+  id: 371
+  definition: مجموعة ملفات تشتمل على رموز تعريف مخصصة لبنود مع وصف لتلك البنود
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19135-1:2015'
+    clause: 4.1.9
+    link: 'https://www.iso.org/standard/54721.html'
+  lineage_source: 'ISO 19135:2005'
+  date_accepted: 2005-10-15T00:00:00.000Z
+  review_date: 2010-10-19T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2015-10-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19135-1:2015'
+  review_decision_notes: >-
+    Authoritative reference changed from Annex E, ISO/IEC JTC1 Procedures
+    (Adapted from) to ISO 19135-1:2015, 4.1.9. Lineage source added as ISO
+    19135:2005
+  release: '1'
+  terms:
+    - type: expression
+      designation: سجل
+      normative_status: preferred
+  _revisions:
+    current: 37490d
+    tree:
+      37490d:
+        object:
+          id: 371
+          definition: مجموعة ملفات تشتمل على رموز تعريف مخصصة لبنود مع وصف لتلك البنود
+          language_code: ara
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19135-1:2015'
+            clause: 4.1.9
+            link: 'https://www.iso.org/standard/54721.html'
+          lineage_source: 'ISO 19135:2005'
+          date_accepted: 2005-10-15T00:00:00.000Z
+          review_date: 2010-10-19T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2015-10-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19135-1:2015'
+          review_decision_notes: >-
+            Authoritative reference changed from Annex E, ISO/IEC JTC1
+            Procedures (Adapted from) to ISO 19135-1:2015, 4.1.9. Lineage source
+            added as ISO 19135:2005
+          release: '1'
+          terms:
+            - type: expression
+              designation: سجل
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-10-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+zho:
+  id: 371
+  definition: 包含注册项标识符和相关项说明的文件集合。
+  language_code: zho
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19135-1:2015'
+    clause: 4.1.9
+    link: 'https://www.iso.org/standard/54721.html'
+  lineage_source: 'ISO 19135:2005'
+  date_accepted: 2005-10-15T00:00:00.000Z
+  review_date: 2010-10-19T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2015-10-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19135-1:2015'
+  review_decision_notes: >-
+    Authoritative reference changed from Annex E, ISO/IEC JTC1 Procedures
+    (Adapted from) to ISO 19135-1:2015, 4.1.9. Lineage source added as ISO
+    19135:2005
+  release: '1'
+  terms:
+    - type: expression
+      designation: 注册表
+      normative_status: preferred
+  _revisions:
+    current: 4ae605
+    tree:
+      4ae605:
+        object:
+          id: 371
+          definition: 包含注册项标识符和相关项说明的文件集合。
+          language_code: zho
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19135-1:2015'
+            clause: 4.1.9
+            link: 'https://www.iso.org/standard/54721.html'
+          lineage_source: 'ISO 19135:2005'
+          date_accepted: 2005-10-15T00:00:00.000Z
+          review_date: 2010-10-19T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2015-10-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19135-1:2015'
+          review_decision_notes: >-
+            Authoritative reference changed from Annex E, ISO/IEC JTC1
+            Procedures (Adapted from) to ISO 19135-1:2015, 4.1.9. Lineage source
+            added as ISO 19135:2005
+          release: '1'
+          terms:
+            - type: expression
+              designation: 注册表
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-10-15T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+nld:
+  id: 371
+  definition: >-
+    verzameling van bestanden van identificatiecodes gerelateerd aan items met
+    de beschrijving van de gerelateerde items
+  language_code: nld
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19135-1:2015'
+    clause: 4.1.9
+    link: 'https://www.iso.org/standard/54721.html'
+  lineage_source: 'ISO 19135:2005'
+  date_accepted: 2005-10-15T00:00:00.000Z
+  review_date: 2010-10-19T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2015-10-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19135-1:2015'
+  review_decision_notes: >-
+    Authoritative reference changed from Annex E, ISO/IEC JTC1 Procedures
+    (Adapted from) to ISO 19135-1:2015, 4.1.9. Lineage source added as ISO
+    19135:2005
+  release: '1'
+  terms:
+    - type: expression
+      designation: register
+      normative_status: preferred
+  _revisions:
+    current: 9538ab
+    tree:
+      9538ab:
+        object:
+          id: 371
+          definition: >-
+            verzameling van bestanden van identificatiecodes gerelateerd aan
+            items met de beschrijving van de gerelateerde items
+          language_code: nld
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19135-1:2015'
+            clause: 4.1.9
+            link: 'https://www.iso.org/standard/54721.html'
+          lineage_source: 'ISO 19135:2005'
+          date_accepted: 2005-10-15T00:00:00.000Z
+          review_date: 2010-10-19T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2015-10-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19135-1:2015'
+          review_decision_notes: >-
+            Authoritative reference changed from Annex E, ISO/IEC JTC1
+            Procedures (Adapted from) to ISO 19135-1:2015, 4.1.9. Lineage source
+            added as ISO 19135:2005
+          release: '1'
+          terms:
+            - type: expression
+              designation: register
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-10-15T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+fin:
+  id: 371
+  definition: 'tietovarasto, joka sisältää tunnisteita ja määrittelyjä'
+  language_code: fin
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19135-1:2015'
+    clause: 4.1.9
+    link: 'https://www.iso.org/standard/54721.html'
+  lineage_source: 'ISO 19135:2005'
+  date_accepted: 2005-10-15T00:00:00.000Z
+  review_date: 2010-10-19T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2015-10-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19135-1:2015'
+  review_decision_notes: >-
+    Authoritative reference changed from Annex E, ISO/IEC JTC1 Procedures
+    (Adapted from) to ISO 19135-1:2015, 4.1.9. Lineage source added as ISO
+    19135:2005
+  release: '1'
+  terms:
+    - type: expression
+      designation: rekisteri
+      normative_status: preferred
+  _revisions:
+    current: 158d54
+    tree:
+      158d54:
+        object:
+          id: 371
+          definition: 'tietovarasto, joka sisältää tunnisteita ja määrittelyjä'
+          language_code: fin
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19135-1:2015'
+            clause: 4.1.9
+            link: 'https://www.iso.org/standard/54721.html'
+          lineage_source: 'ISO 19135:2005'
+          date_accepted: 2005-10-15T00:00:00.000Z
+          review_date: 2010-10-19T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2015-10-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19135-1:2015'
+          review_decision_notes: >-
+            Authoritative reference changed from Annex E, ISO/IEC JTC1
+            Procedures (Adapted from) to ISO 19135-1:2015, 4.1.9. Lineage source
+            added as ISO 19135:2005
+          release: '1'
+          terms:
+            - type: expression
+              designation: rekisteri
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-10-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+fra:
+  id: 371
+  definition: >-
+    ensemble de fichiers contenant des identifiants assignés à des éléments
+    ainsi que les descriptions de ces éléments
+  language_code: fra
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19135-1:2015'
+    clause: 4.1.9
+    link: 'https://www.iso.org/standard/54721.html'
+  lineage_source: 'ISO 19135:2005'
+  date_accepted: 2005-10-15T00:00:00.000Z
+  review_date: 2010-10-19T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2015-10-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19135-1:2015'
+  review_decision_notes: >-
+    Authoritative reference changed from Annex E, ISO/IEC JTC1 Procedures
+    (Adapted from) to ISO 19135-1:2015, 4.1.9. Lineage source added as ISO
+    19135:2005
+  release: '1'
+  terms:
+    - type: expression
+      designation: registre
+      normative_status: preferred
+  _revisions:
+    current: 1c4663
+    tree:
+      1c4663:
+        object:
+          id: 371
+          definition: >-
+            ensemble de fichiers contenant des identifiants assignés à des
+            éléments ainsi que les descriptions de ces éléments
+          language_code: fra
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19135-1:2015'
+            clause: 4.1.9
+            link: 'https://www.iso.org/standard/54721.html'
+          lineage_source: 'ISO 19135:2005'
+          date_accepted: 2005-10-15T00:00:00.000Z
+          review_date: 2010-10-19T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2015-10-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19135-1:2015'
+          review_decision_notes: >-
+            Authoritative reference changed from Annex E, ISO/IEC JTC1
+            Procedures (Adapted from) to ISO 19135-1:2015, 4.1.9. Lineage source
+            added as ISO 19135:2005
+          release: '1'
+          terms:
+            - type: expression
+              designation: registre
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-10-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+deu:
+  id: 371
+  definition: >-
+    Menge an Dateien, welche Identifikatoren und Beschreibungen zu Einträgen
+    enthalten
+  language_code: deu
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19135-1:2015'
+    clause: 4.1.9
+    link: 'https://www.iso.org/standard/54721.html'
+  lineage_source: 'ISO 19135:2005'
+  date_accepted: 2005-10-15T00:00:00.000Z
+  review_date: 2010-10-19T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2015-10-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19135-1:2015'
+  review_decision_notes: >-
+    Authoritative reference changed from Annex E, ISO/IEC JTC1 Procedures
+    (Adapted from) to ISO 19135-1:2015, 4.1.9. Lineage source added as ISO
+    19135:2005
+  release: '1'
+  terms:
+    - type: expression
+      designation: Register
+      normative_status: preferred
+  _revisions:
+    current: 42a20c
+    tree:
+      42a20c:
+        object:
+          id: 371
+          definition: >-
+            Menge an Dateien, welche Identifikatoren und Beschreibungen zu
+            Einträgen enthalten
+          language_code: deu
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19135-1:2015'
+            clause: 4.1.9
+            link: 'https://www.iso.org/standard/54721.html'
+          lineage_source: 'ISO 19135:2005'
+          date_accepted: 2005-10-15T00:00:00.000Z
+          review_date: 2010-10-19T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2015-10-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19135-1:2015'
+          review_decision_notes: >-
+            Authoritative reference changed from Annex E, ISO/IEC JTC1
+            Procedures (Adapted from) to ISO 19135-1:2015, 4.1.9. Lineage source
+            added as ISO 19135:2005
+          release: '1'
+          terms:
+            - type: expression
+              designation: Register
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-10-15T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+kor:
+  id: 371
+  definition: 연관 항목의 설명과 함께 항목에 부여된 식별자를 포함하는 파일의 집합
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19135-1:2015'
+    clause: 4.1.9
+    link: 'https://www.iso.org/standard/54721.html'
+  lineage_source: 'ISO 19135:2005'
+  date_accepted: 2005-10-15T00:00:00.000Z
+  review_date: 2010-10-19T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2015-10-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19135-1:2015'
+  review_decision_notes: >-
+    Authoritative reference changed from Annex E, ISO/IEC JTC1 Procedures
+    (Adapted from) to ISO 19135-1:2015, 4.1.9. Lineage source added as ISO
+    19135:2005
+  release: '1'
+  terms:
+    - type: expression
+      designation: 등록물
+      normative_status: preferred
+    - designation: 레지스터
+      type: expression
+  _revisions:
+    current: 5b50fb
+    tree:
+      5b50fb:
+        object:
+          id: 371
+          definition: 연관 항목의 설명과 함께 항목에 부여된 식별자를 포함하는 파일의 집합
+          language_code: kor
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19135-1:2015'
+            clause: 4.1.9
+            link: 'https://www.iso.org/standard/54721.html'
+          lineage_source: 'ISO 19135:2005'
+          date_accepted: 2005-10-15T00:00:00.000Z
+          review_date: 2010-10-19T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2015-10-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19135-1:2015'
+          review_decision_notes: >-
+            Authoritative reference changed from Annex E, ISO/IEC JTC1
+            Procedures (Adapted from) to ISO 19135-1:2015, 4.1.9. Lineage source
+            added as ISO 19135:2005
+          release: '1'
+          terms:
+            - type: expression
+              designation: 등록물
+              normative_status: preferred
+            - designation: 레지스터
+              type: expression
+        parents: []
+        timeCreated: 2005-10-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+msa:
+  id: 371
+  language_code: msa
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: Annex E
+    clause: ISO/IEC JTC1 Procedures (Adapted from)
+  lineage_source: Pusat Rujukan Persuratan Melayu (DBP)
+  date_accepted: 2005-10-15T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: daftar; tingkat nada; laras bahasa; penghala; kena jadi; tingkat suara
+      normative_status: preferred
+  _revisions:
+    current: c1981a
+    tree:
+      c1981a:
+        object:
+          id: 371
+          language_code: msa
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: Annex E
+            clause: ISO/IEC JTC1 Procedures (Adapted from)
+          lineage_source: Pusat Rujukan Persuratan Melayu (DBP)
+          date_accepted: 2005-10-15T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: >-
+                daftar; tingkat nada; laras bahasa; penghala; kena jadi; tingkat
+                suara
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-10-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+pol:
+  id: 371
+  definition: >-
+    zbiór plików zawierających identyfikatory przyporządkowane pozycjom wraz z
+    opisami powiązanych pozycji
+  language_code: pol
+  notes:
+    - 'Zaadaptowano z Załącznika E do ISO/IEC JTC 1, Procedures.'
+  examples: []
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19135-1:2015'
+    clause: 4.1.9
+    link: 'https://www.iso.org/standard/54721.html'
+  lineage_source: 'ISO 19135:2005'
+  date_accepted: 2005-10-15T00:00:00.000Z
+  review_date: 2010-10-19T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2015-10-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19135-1:2015'
+  review_decision_notes: >-
+    Authoritative reference changed from Annex E, ISO/IEC JTC1 Procedures
+    (Adapted from) to ISO 19135-1:2015, 4.1.9. Lineage source added as ISO
+    19135:2005
+  release: '1'
+  terms:
+    - type: expression
+      designation: rejestr
+      normative_status: preferred
+  _revisions:
+    current: 6e16f8
+    tree:
+      6e16f8:
+        object:
+          id: 371
+          definition: >-
+            zbiór plików zawierających identyfikatory przyporządkowane pozycjom
+            wraz z opisami powiązanych pozycji
+          language_code: pol
+          notes:
+            - 'Zaadaptowano z Załącznika E do ISO/IEC JTC 1, Procedures.'
+          examples: []
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19135-1:2015'
+            clause: 4.1.9
+            link: 'https://www.iso.org/standard/54721.html'
+          lineage_source: 'ISO 19135:2005'
+          date_accepted: 2005-10-15T00:00:00.000Z
+          review_date: 2010-10-19T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2015-10-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19135-1:2015'
+          review_decision_notes: >-
+            Authoritative reference changed from Annex E, ISO/IEC JTC1
+            Procedures (Adapted from) to ISO 19135-1:2015, 4.1.9. Lineage source
+            added as ISO 19135:2005
+          release: '1'
+          terms:
+            - type: expression
+              designation: rejestr
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-10-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 371
+  definition: 'набор файлов, содержащий идентификаторы объектов с описаниями объектов'
+  language_code: rus
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: Annex E
+    clause: ISO/IEC JTC1 Procedures (Adapted from)
+  lineage_source: Internet
+  date_accepted: 2005-10-15T00:00:00.000Z
+  terms:
+    - type: expression
+      designation: реестр
+      normative_status: preferred
+  _revisions:
+    current: 30b6b1
+    tree:
+      30b6b1:
+        object:
+          id: 371
+          definition: >-
+            набор файлов, содержащий идентификаторы объектов с описаниями
+            объектов
+          language_code: rus
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: Annex E
+            clause: ISO/IEC JTC1 Procedures (Adapted from)
+          lineage_source: Internet
+          date_accepted: 2005-10-15T00:00:00.000Z
+          terms:
+            - type: expression
+              designation: реестр
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-10-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 371
+  definition: >-
+    conjunto de ficheros que contienen identificadores asignados a ítems con
+    descripciones de los ítems asociados
+  language_code: spa
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19135-1:2015'
+    clause: 4.1.9
+    link: 'https://www.iso.org/standard/54721.html'
+  lineage_source: 'ISO 19135:2005'
+  date_accepted: 2005-10-15T00:00:00.000Z
+  review_date: 2010-10-19T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2015-10-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19135-1:2015'
+  review_decision_notes: >-
+    Authoritative reference changed from Annex E, ISO/IEC JTC1 Procedures
+    (Adapted from) to ISO 19135-1:2015, 4.1.9. Lineage source added as ISO
+    19135:2005
+  release: '1'
+  terms:
+    - type: expression
+      designation: registro
+      normative_status: preferred
+  _revisions:
+    current: '401361'
+    tree:
+      '401361':
+        object:
+          id: 371
+          definition: >-
+            conjunto de ficheros que contienen identificadores asignados a ítems
+            con descripciones de los ítems asociados
+          language_code: spa
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19135-1:2015'
+            clause: 4.1.9
+            link: 'https://www.iso.org/standard/54721.html'
+          lineage_source: 'ISO 19135:2005'
+          date_accepted: 2005-10-15T00:00:00.000Z
+          review_date: 2010-10-19T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2015-10-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19135-1:2015'
+          review_decision_notes: >-
+            Authoritative reference changed from Annex E, ISO/IEC JTC1
+            Procedures (Adapted from) to ISO 19135-1:2015, 4.1.9. Lineage source
+            added as ISO 19135:2005
+          release: '1'
+          terms:
+            - type: expression
+              designation: registro
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-10-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+swe:
+  id: 371
+  definition: systematiskt ordnad förteckning
+  country_code: swe
+  language_code: swe
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19135-1:2015'
+    clause: 4.1.9
+    link: 'https://www.iso.org/standard/54721.html'
+  lineage_source: 'ISO 19135:2005'
+  date_accepted: 2005-10-15T00:00:00.000Z
+  review_date: 2010-10-19T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2015-10-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19135-1:2015'
+  review_decision_notes: >-
+    Authoritative reference changed from Annex E, ISO/IEC JTC1 Procedures
+    (Adapted from) to ISO 19135-1:2015, 4.1.9. Lineage source added as ISO
+    19135:2005
+  release: '1'
+  terms:
+    - type: expression
+      designation: register
+      normative_status: preferred
+  _revisions:
+    current: bc8d79
+    tree:
+      bc8d79:
+        object:
+          id: 371
+          definition: systematiskt ordnad förteckning
+          country_code: swe
+          language_code: swe
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19135-1:2015'
+            clause: 4.1.9
+            link: 'https://www.iso.org/standard/54721.html'
+          lineage_source: 'ISO 19135:2005'
+          date_accepted: 2005-10-15T00:00:00.000Z
+          review_date: 2010-10-19T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2015-10-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19135-1:2015'
+          review_decision_notes: >-
+            Authoritative reference changed from Annex E, ISO/IEC JTC1
+            Procedures (Adapted from) to ISO 19135-1:2015, 4.1.9. Lineage source
+            added as ISO 19135:2005
+          release: '1'
+          terms:
+            - type: expression
+              designation: register
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-10-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

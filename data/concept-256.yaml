@@ -1,0 +1,643 @@
+term: interval scale
+termid: 256
+eng:
+  id: 256
+  definition: >-
+    scale with an arbitrary origin which can be used to describe both ordering
+    of values and distances between values
+  language_code: eng
+  notes:
+    - Ratios of values measured on an interval scale have no meaning.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19108:2002'
+    link: 'https://www.iso.org/standard/26013.html'
+  date_accepted: 2002-09-01T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: interval scale
+      normative_status: preferred
+  _revisions:
+    current: 39431e
+    tree:
+      39431e:
+        object:
+          id: 256
+          definition: >-
+            scale with an arbitrary origin which can be used to describe both
+            ordering of values and distances between values
+          language_code: eng
+          notes:
+            - Ratios of values measured on an interval scale have no meaning.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19108:2002'
+            link: 'https://www.iso.org/standard/26013.html'
+          date_accepted: 2002-09-01T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: interval scale
+              normative_status: preferred
+        parents: []
+        timeCreated: 2002-09-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+ara:
+  id: 256
+  definition: >-
+    أداة قياس ذات اصل ذاتي يمكن استخدامها لوصف كل من ترتيب القيم و المسافات
+    الواقعه بينها
+  language_code: ara
+  notes:
+    - النسب التي تقاس قيمها على المقياس المتدرج لا معنى لها.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19108:2002'
+    link: 'https://www.iso.org/standard/26013.html'
+  date_accepted: 2002-09-01T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: مقياس متدرَّج
+      normative_status: preferred
+  _revisions:
+    current: 0a526e
+    tree:
+      0a526e:
+        object:
+          id: 256
+          definition: >-
+            أداة قياس ذات اصل ذاتي يمكن استخدامها لوصف كل من ترتيب القيم و
+            المسافات الواقعه بينها
+          language_code: ara
+          notes:
+            - النسب التي تقاس قيمها على المقياس المتدرج لا معنى لها.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19108:2002'
+            link: 'https://www.iso.org/standard/26013.html'
+          date_accepted: 2002-09-01T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: مقياس متدرَّج
+              normative_status: preferred
+        parents: []
+        timeCreated: 2002-09-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+zho:
+  id: 256
+  definition: 具有任意原点的标度，它既用于描述值的顺序又用于描述值之间的距离。
+  language_code: zho
+  notes:
+    - 在间隔标度上度量值的比率没有意义。
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19108:2002'
+    link: 'https://www.iso.org/standard/26013.html'
+  date_accepted: 2002-09-01T00:00:00.000Z
+  terms:
+    - type: expression
+      designation: 间隔标度
+      normative_status: preferred
+  _revisions:
+    current: b2c110
+    tree:
+      b2c110:
+        object:
+          id: 256
+          definition: 具有任意原点的标度，它既用于描述值的顺序又用于描述值之间的距离。
+          language_code: zho
+          notes:
+            - 在间隔标度上度量值的比率没有意义。
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19108:2002'
+            link: 'https://www.iso.org/standard/26013.html'
+          date_accepted: 2002-09-01T00:00:00.000Z
+          terms:
+            - type: expression
+              designation: 间隔标度
+              normative_status: preferred
+        parents: []
+        timeCreated: 2002-09-01T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+fin:
+  id: 256
+  definition: >-
+    asteikko, jolla on mielivaltainen nollapiste ja jolla voidaan kuvata sekä
+    arvojen keskinäistä järjestystä että arvojen välisiä etäisyyksiä
+  language_code: fin
+  notes:
+    - >-
+      Välimatka-asteikolla minkä tahansa kahden numeerisen arvon erotuksella on
+      kvantitatiivisesti sama merkitys missä tahansa kohdassa skaalaa (esim.
+      lämpötila).
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19108:2002'
+    link: 'https://www.iso.org/standard/26013.html'
+  lineage_source: Internet
+  date_accepted: 2002-09-01T00:00:00.000Z
+  terms:
+    - type: expression
+      designation: välimatka-asteikko
+      normative_status: preferred
+    - designation: intervalliasteikko
+      type: expression
+  _revisions:
+    current: d0d56b
+    tree:
+      d0d56b:
+        object:
+          id: 256
+          definition: >-
+            asteikko, jolla on mielivaltainen nollapiste ja jolla voidaan kuvata
+            sekä arvojen keskinäistä järjestystä että arvojen välisiä
+            etäisyyksiä
+          language_code: fin
+          notes:
+            - >-
+              Välimatka-asteikolla minkä tahansa kahden numeerisen arvon
+              erotuksella on kvantitatiivisesti sama merkitys missä tahansa
+              kohdassa skaalaa (esim. lämpötila).
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19108:2002'
+            link: 'https://www.iso.org/standard/26013.html'
+          lineage_source: Internet
+          date_accepted: 2002-09-01T00:00:00.000Z
+          terms:
+            - type: expression
+              designation: välimatka-asteikko
+              normative_status: preferred
+            - designation: intervalliasteikko
+              type: expression
+        parents: []
+        timeCreated: 2002-09-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+fra:
+  id: 256
+  definition: >-
+    échelle avec une origine arbitraire qui peut être utilisée pour décrire à la
+    fois l'ordonnancement des valeurs et les distances entre valeurs
+  language_code: fra
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: ISO 19108
+    link: 'https://www.iso.org/standard/26013.html'
+  lineage_source: ''
+  date_accepted: 2002-09-01T00:00:00.000Z
+  terms:
+    - type: expression
+      designation: échelle d'intervalle
+      normative_status: preferred
+  _revisions:
+    current: 7366bc
+    tree:
+      7366bc:
+        object:
+          id: 256
+          definition: >-
+            échelle avec une origine arbitraire qui peut être utilisée pour
+            décrire à la fois l'ordonnancement des valeurs et les distances
+            entre valeurs
+          language_code: fra
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: ISO 19108
+            link: 'https://www.iso.org/standard/26013.html'
+          lineage_source: ''
+          date_accepted: 2002-09-01T00:00:00.000Z
+          terms:
+            - type: expression
+              designation: échelle d'intervalle
+              normative_status: preferred
+        parents: []
+        timeCreated: 2002-09-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+deu:
+  id: 256
+  language_code: deu
+  notes:
+    - Ratios of values measured on an interval scale have no meaning.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19108:2002'
+    link: 'https://www.iso.org/standard/26013.html'
+  date_accepted: 2002-09-01T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: Intervallskala
+      normative_status: preferred
+  _revisions:
+    current: 7f6c6a
+    tree:
+      7f6c6a:
+        object:
+          id: 256
+          language_code: deu
+          notes:
+            - Ratios of values measured on an interval scale have no meaning.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19108:2002'
+            link: 'https://www.iso.org/standard/26013.html'
+          date_accepted: 2002-09-01T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: Intervallskala
+              normative_status: preferred
+        parents: []
+        timeCreated: 2002-09-01T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+jpn:
+  id: 256
+  definition: 二値間の順序付けと距離との両方を記述するために使用するし(恣)意的に定められた原点をもつ尺度。
+  language_code: jpn
+  notes:
+    - >-
+      　ある間隔尺度で測定した値の比は，意味をもたない。これに対し，比率尺度（ratio
+      scale）では，値の比が意味をもつ。例えば，温度の場合，絶対温度２度が絶対温度１度の2倍であるということには一定の意味があるので，絶対温度は比率尺度であるが，摂氏２度は摂氏１度の２倍とはいえないので，摂氏は間隔尺度である。質量及び金額は一般に比率尺度で表現する。時間については、実用上意味のあるような比率尺度は定められていない。
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19108:2002'
+    link: 'https://www.iso.org/standard/26013.html'
+  lineage_source: JIS X 7108
+  date_accepted: 2002-09-01T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: 間隔尺度
+      normative_status: preferred
+  _revisions:
+    current: 79b9f7
+    tree:
+      79b9f7:
+        object:
+          id: 256
+          definition: 二値間の順序付けと距離との両方を記述するために使用するし(恣)意的に定められた原点をもつ尺度。
+          language_code: jpn
+          notes:
+            - >-
+              　ある間隔尺度で測定した値の比は，意味をもたない。これに対し，比率尺度（ratio
+              scale）では，値の比が意味をもつ。例えば，温度の場合，絶対温度２度が絶対温度１度の2倍であるということには一定の意味があるので，絶対温度は比率尺度であるが，摂氏２度は摂氏１度の２倍とはいえないので，摂氏は間隔尺度である。質量及び金額は一般に比率尺度で表現する。時間については、実用上意味のあるような比率尺度は定められていない。
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19108:2002'
+            link: 'https://www.iso.org/standard/26013.html'
+          lineage_source: JIS X 7108
+          date_accepted: 2002-09-01T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: 間隔尺度
+              normative_status: preferred
+        parents: []
+        timeCreated: 2002-09-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+kor:
+  id: 256
+  definition: 값의 순서와 값 사이의 거리 차를 설명하는 데 사용할 수 있는 임의의 원점을 가진 척도
+  language_code: kor
+  notes:
+    - 간격 척도로 측정된 값의 비율은 의미가 없다.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19108:2002'
+    link: 'https://www.iso.org/standard/26013.html'
+  lineage_source: KS X ISO 19108
+  date_accepted: 2007-11-01T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: 간격 척도
+      normative_status: preferred
+  _revisions:
+    current: b4c878
+    tree:
+      b4c878:
+        object:
+          id: 256
+          definition: 값의 순서와 값 사이의 거리 차를 설명하는 데 사용할 수 있는 임의의 원점을 가진 척도
+          language_code: kor
+          notes:
+            - 간격 척도로 측정된 값의 비율은 의미가 없다.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19108:2002'
+            link: 'https://www.iso.org/standard/26013.html'
+          lineage_source: KS X ISO 19108
+          date_accepted: 2007-11-01T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: 간격 척도
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-11-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+msa:
+  id: 256
+  definition: >-
+    skala dan origin sebarangan yang boleh di gunakan untuk menerangkan
+    kedua-dua turutan nilai  dan jarak di antara nilai-nilai
+  language_code: msa
+  notes:
+    - Ratios of values measured on an interval scale have no meaning.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19108:2002'
+    link: 'https://www.iso.org/standard/26013.html'
+  date_accepted: 2002-09-01T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: skala sela
+      normative_status: preferred
+  _revisions:
+    current: 66aa5f
+    tree:
+      66aa5f:
+        object:
+          id: 256
+          definition: >-
+            skala dan origin sebarangan yang boleh di gunakan untuk menerangkan
+            kedua-dua turutan nilai  dan jarak di antara nilai-nilai
+          language_code: msa
+          notes:
+            - Ratios of values measured on an interval scale have no meaning.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19108:2002'
+            link: 'https://www.iso.org/standard/26013.html'
+          date_accepted: 2002-09-01T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: skala sela
+              normative_status: preferred
+        parents: []
+        timeCreated: 2002-09-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+pol:
+  id: 256
+  definition: >-
+    skala o początku bezwzględnym, która może być stosowana zarówno do opisu
+    uporządkowania wartości, jak i odległości między nimi
+  language_code: pol
+  notes:
+    - Proporcje wartości mierzone w skali interwałowej nie mają znaczenia.
+  examples: []
+  authoritative_source:
+    ref: 'ISO 19108:2002'
+    link: 'https://www.iso.org/standard/26013.html'
+  lineage_source: PN-EN ISO 19108
+  date_accepted: 2002-09-01T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: skala interwałowa
+      normative_status: preferred
+  _revisions:
+    current: d7806f
+    tree:
+      d7806f:
+        object:
+          id: 256
+          definition: >-
+            skala o początku bezwzględnym, która może być stosowana zarówno do
+            opisu uporządkowania wartości, jak i odległości między nimi
+          language_code: pol
+          notes:
+            - >-
+              Proporcje wartości mierzone w skali interwałowej nie mają
+              znaczenia.
+          examples: []
+          authoritative_source:
+            ref: 'ISO 19108:2002'
+            link: 'https://www.iso.org/standard/26013.html'
+          lineage_source: PN-EN ISO 19108
+          date_accepted: 2002-09-01T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: skala interwałowa
+              normative_status: preferred
+        parents: []
+        timeCreated: 2002-09-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 256
+  definition: >-
+    шкала с условным началом отсчета, которая может быть использована для
+    описания как порядка следования значений, так и расстояний между ними
+  language_code: rus
+  notes:
+    - 'Кратность величин, измеренных по интервальной шкале, лишена смысла'
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19108:2002'
+    link: 'https://www.iso.org/standard/26013.html'
+  lineage_source: Internet
+  date_accepted: 2002-09-01T00:00:00.000Z
+  terms:
+    - type: expression
+      designation: интервальная шкала
+      normative_status: preferred
+  _revisions:
+    current: cc66df
+    tree:
+      cc66df:
+        object:
+          id: 256
+          definition: >-
+            шкала с условным началом отсчета, которая может быть использована
+            для описания как порядка следования значений, так и расстояний между
+            ними
+          language_code: rus
+          notes:
+            - 'Кратность величин, измеренных по интервальной шкале, лишена смысла'
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19108:2002'
+            link: 'https://www.iso.org/standard/26013.html'
+          lineage_source: Internet
+          date_accepted: 2002-09-01T00:00:00.000Z
+          terms:
+            - type: expression
+              designation: интервальная шкала
+              normative_status: preferred
+        parents: []
+        timeCreated: 2002-09-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 256
+  definition: >-
+    escala con un origen arbitrario, que puede utilizarse para describir tanto
+    el orden o la jerarquía de valores, como la distancia entre ellos
+  language_code: spa
+  notes:
+    - >-
+      La proporción o razón de valores medidos en una escala de intervalo no
+      tiene sentido.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19108:2002'
+    link: 'https://www.iso.org/standard/26013.html'
+  date_accepted: 2002-09-01T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: escala de intervalo
+      normative_status: preferred
+  _revisions:
+    current: 95438b
+    tree:
+      95438b:
+        object:
+          id: 256
+          definition: >-
+            escala con un origen arbitrario, que puede utilizarse para describir
+            tanto el orden o la jerarquía de valores, como la distancia entre
+            ellos
+          language_code: spa
+          notes:
+            - >-
+              La proporción o razón de valores medidos en una escala de
+              intervalo no tiene sentido.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19108:2002'
+            link: 'https://www.iso.org/standard/26013.html'
+          date_accepted: 2002-09-01T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: escala de intervalo
+              normative_status: preferred
+        parents: []
+        timeCreated: 2002-09-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+swe:
+  id: 256
+  definition: >-
+    skala som indelas i likstora och kontinuerligt mätbara intervall, men som
+    saknar absolut nollpunkt
+  country_code: swe
+  language_code: swe
+  notes:
+    - Ratios of values measured on an interval scale have no meaning.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19108:2002'
+    link: 'https://www.iso.org/standard/26013.html'
+  lineage_source: (Type reference to national language document)
+  date_accepted: 2002-09-01T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: intervallskala
+      normative_status: preferred
+  _revisions:
+    current: 6ff3e9
+    tree:
+      6ff3e9:
+        object:
+          id: 256
+          definition: >-
+            skala som indelas i likstora och kontinuerligt mätbara intervall,
+            men som saknar absolut nollpunkt
+          country_code: swe
+          language_code: swe
+          notes:
+            - Ratios of values measured on an interval scale have no meaning.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19108:2002'
+            link: 'https://www.iso.org/standard/26013.html'
+          lineage_source: (Type reference to national language document)
+          date_accepted: 2002-09-01T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: intervallskala
+              normative_status: preferred
+        parents: []
+        timeCreated: 2002-09-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

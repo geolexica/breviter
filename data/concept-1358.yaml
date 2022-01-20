@@ -1,0 +1,319 @@
+term: resource
+termid: 1358
+eng:
+  id: 1358
+  definition: identifiable asset or means that fulfils a requirement
+  language_code: eng
+  notes: []
+  examples:
+    - >-
+      Dataset, datasetseries, service, document, initiative, software, person or
+      organization.
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19115-1:2014'
+    clause: '4.17'
+    link: 'https://www.iso.org/standard/53798.html'
+  date_accepted: 2014-04-01T00:00:00.000Z
+  review_date: 2011-01-01T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2014-04-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19115-1:2014'
+  review_decision_notes: 'This entry supersedes the entry for "resource" in ISO 19115:2003'
+  release: '3'
+  terms:
+    - type: expression
+      designation: resource
+      normative_status: preferred
+  _revisions:
+    current: 7b6155
+    tree:
+      7b6155:
+        object:
+          id: 1358
+          definition: identifiable asset or means that fulfils a requirement
+          language_code: eng
+          notes: []
+          examples:
+            - >-
+              Dataset, datasetseries, service, document, initiative, software,
+              person or organization.
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19115-1:2014'
+            clause: '4.17'
+            link: 'https://www.iso.org/standard/53798.html'
+          date_accepted: 2014-04-01T00:00:00.000Z
+          review_date: 2011-01-01T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2014-04-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19115-1:2014'
+          review_decision_notes: 'This entry supersedes the entry for "resource" in ISO 19115:2003'
+          release: '3'
+          terms:
+            - type: expression
+              designation: resource
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-04-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+kor:
+  id: 1358
+  definition: 요구사항을 충족하는 식별가능한 자원 또는 방법
+  language_code: kor
+  notes: []
+  examples:
+    - >-
+      Dataset, datasetseries, service, document, initiative, software, person or
+      organization.
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19115-1:2014'
+    clause: '4.17'
+    link: 'https://www.iso.org/standard/53798.html'
+  date_accepted: 2014-04-01T00:00:00.000Z
+  review_date: 2011-01-01T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2014-04-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19115-1:2014'
+  review_decision_notes: 'This entry supersedes the entry for "resource" in ISO 19115:2003'
+  release: '3'
+  terms:
+    - type: expression
+      designation: 자원
+      normative_status: preferred
+  _revisions:
+    current: c06171
+    tree:
+      c06171:
+        object:
+          id: 1358
+          definition: 요구사항을 충족하는 식별가능한 자원 또는 방법
+          language_code: kor
+          notes: []
+          examples:
+            - >-
+              Dataset, datasetseries, service, document, initiative, software,
+              person or organization.
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19115-1:2014'
+            clause: '4.17'
+            link: 'https://www.iso.org/standard/53798.html'
+          date_accepted: 2014-04-01T00:00:00.000Z
+          review_date: 2011-01-01T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2014-04-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19115-1:2014'
+          review_decision_notes: 'This entry supersedes the entry for "resource" in ISO 19115:2003'
+          release: '3'
+          terms:
+            - type: expression
+              designation: 자원
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-04-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+msa:
+  id: 1358
+  definition: Aset atau cara yang dapat dikenal pasti untuk memenuhi keperluan.
+  language_code: msa
+  notes: []
+  examples:
+    - >-
+      Dataset, datasetseries, service, document, initiative, software, person or
+      organization.
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19115-1:2014'
+    clause: '4.17'
+    link: 'https://www.iso.org/standard/53798.html'
+  date_accepted: 2014-04-01T00:00:00.000Z
+  review_date: 2011-01-01T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2014-04-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19115-1:2014'
+  review_decision_notes: 'This entry supersedes the entry for "resource" in ISO 19115:2003'
+  release: '3'
+  terms:
+    - type: expression
+      designation: sumber
+      normative_status: preferred
+  _revisions:
+    current: cdc30a
+    tree:
+      cdc30a:
+        object:
+          id: 1358
+          definition: Aset atau cara yang dapat dikenal pasti untuk memenuhi keperluan.
+          language_code: msa
+          notes: []
+          examples:
+            - >-
+              Dataset, datasetseries, service, document, initiative, software,
+              person or organization.
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19115-1:2014'
+            clause: '4.17'
+            link: 'https://www.iso.org/standard/53798.html'
+          date_accepted: 2014-04-01T00:00:00.000Z
+          review_date: 2011-01-01T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2014-04-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19115-1:2014'
+          review_decision_notes: 'This entry supersedes the entry for "resource" in ISO 19115:2003'
+          release: '3'
+          terms:
+            - type: expression
+              designation: sumber
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-04-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 1358
+  definition: 'идентифицируемые средства, которые удовлетворяют требованиям'
+  language_code: rus
+  notes: []
+  examples:
+    - >-
+      Набор данных, комплект наборов данных, сервис, документ, инициатива,
+      программное обеспечение, человек или организация
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19115-1:2014'
+    clause: '4.17'
+    link: 'https://www.iso.org/standard/53798.html'
+  lineage_source: ГОСТ Р 57668-2017 (ИСО 19115-1-2014)
+  date_accepted: 2014-04-01T00:00:00.000Z
+  review_date: 2011-01-01T00:00:00.000Z
+  review_status: ''
+  review_type: ''
+  review_decision: ''
+  review_decision_date: 2014-04-01T00:00:00.000Z
+  review_decision_event: 'Публикация ИСО 19115-1:2014'
+  review_decision_notes: 'Эта запись заменяет запись для "ресурса" в ISO 19115: 2003'
+  release: '3'
+  terms:
+    - type: expression
+      designation: ресурс
+      normative_status: preferred
+  _revisions:
+    current: 134ab6
+    tree:
+      134ab6:
+        object:
+          id: 1358
+          definition: 'идентифицируемые средства, которые удовлетворяют требованиям'
+          language_code: rus
+          notes: []
+          examples:
+            - >-
+              Набор данных, комплект наборов данных, сервис, документ,
+              инициатива, программное обеспечение, человек или организация
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19115-1:2014'
+            clause: '4.17'
+            link: 'https://www.iso.org/standard/53798.html'
+          lineage_source: ГОСТ Р 57668-2017 (ИСО 19115-1-2014)
+          date_accepted: 2014-04-01T00:00:00.000Z
+          review_date: 2011-01-01T00:00:00.000Z
+          review_status: ''
+          review_type: ''
+          review_decision: ''
+          review_decision_date: 2014-04-01T00:00:00.000Z
+          review_decision_event: 'Публикация ИСО 19115-1:2014'
+          review_decision_notes: 'Эта запись заменяет запись для "ресурса" в ISO 19115: 2003'
+          release: '3'
+          terms:
+            - type: expression
+              designation: ресурс
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-04-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 1358
+  definition: activo o medio identificable que satisface un requisito
+  language_code: spa
+  notes: []
+  examples:
+    - >-
+      Conjunto de datos, serie de conjuntos de datos, servicio, documento,
+      iniciativa, software, persona u organización
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19115-1:2014'
+    clause: '4.17'
+    link: 'https://www.iso.org/standard/53798.html'
+  date_accepted: 2014-04-01T00:00:00.000Z
+  review_date: 2011-01-01T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: ''
+  review_decision_date: 2014-04-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19115-1:2014'
+  review_decision_notes: 'This entry supersedes the entry for "resource" in ISO 19115:2003'
+  release: '3'
+  terms:
+    - type: expression
+      designation: recurso
+      normative_status: preferred
+  _revisions:
+    current: 8bcc42
+    tree:
+      8bcc42:
+        object:
+          id: 1358
+          definition: activo o medio identificable que satisface un requisito
+          language_code: spa
+          notes: []
+          examples:
+            - >-
+              Conjunto de datos, serie de conjuntos de datos, servicio,
+              documento, iniciativa, software, persona u organización
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19115-1:2014'
+            clause: '4.17'
+            link: 'https://www.iso.org/standard/53798.html'
+          date_accepted: 2014-04-01T00:00:00.000Z
+          review_date: 2011-01-01T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: ''
+          review_decision_date: 2014-04-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19115-1:2014'
+          review_decision_notes: 'This entry supersedes the entry for "resource" in ISO 19115:2003'
+          release: '3'
+          terms:
+            - type: expression
+              designation: recurso
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-04-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

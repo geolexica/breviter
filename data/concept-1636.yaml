@@ -1,0 +1,114 @@
+term: invalidation <register>
+termid: 1636
+eng:
+  id: 1636
+  definition: action taken to correct a substantive error in a register item
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19135-1:2015'
+    clause: 4.1.6
+    link: 'https://www.iso.org/standard/54721.html'
+  date_accepted: 2015-10-01T00:00:00.000Z
+  review_date: 2010-10-19T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2015-10-01T00:00:00.000Z
+  review_decision_event: Normal ISO processing
+  review_decision_notes: 'Publication of document ISO 19135-1:2015(E)'
+  release: '4'
+  terms:
+    - type: expression
+      designation: invalidation <register>
+      normative_status: preferred
+  _revisions:
+    current: a6e445
+    tree:
+      a6e445:
+        object:
+          id: 1636
+          definition: action taken to correct a substantive error in a register item
+          language_code: eng
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19135-1:2015'
+            clause: 4.1.6
+            link: 'https://www.iso.org/standard/54721.html'
+          date_accepted: 2015-10-01T00:00:00.000Z
+          review_date: 2010-10-19T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2015-10-01T00:00:00.000Z
+          review_decision_event: Normal ISO processing
+          review_decision_notes: 'Publication of document ISO 19135-1:2015(E)'
+          release: '4'
+          terms:
+            - type: expression
+              designation: invalidation <register>
+              normative_status: preferred
+        parents: []
+        timeCreated: 2015-10-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 1636
+  definition: acción tomada para corregir un error sustancial en un ítem de registro
+  language_code: spa
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19135-1:2015'
+    clause: 4.1.6
+    link: 'https://www.iso.org/standard/54721.html'
+  date_accepted: 2015-10-01T00:00:00.000Z
+  review_date: 2010-10-19T00:00:00.000Z
+  review_status: final
+  review_decision: ''
+  review_decision_date: 2015-10-01T00:00:00.000Z
+  review_decision_event: Normal ISO processing
+  review_decision_notes: 'Publication of document ISO 19135-1:2015(E)'
+  release: '4'
+  terms:
+    - type: expression
+      designation: invalidación <registro>
+      normative_status: preferred
+  _revisions:
+    current: e61de7
+    tree:
+      e61de7:
+        object:
+          id: 1636
+          definition: >-
+            acción tomada para corregir un error sustancial en un ítem de
+            registro
+          language_code: spa
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19135-1:2015'
+            clause: 4.1.6
+            link: 'https://www.iso.org/standard/54721.html'
+          date_accepted: 2015-10-01T00:00:00.000Z
+          review_date: 2010-10-19T00:00:00.000Z
+          review_status: final
+          review_decision: ''
+          review_decision_date: 2015-10-01T00:00:00.000Z
+          review_decision_event: Normal ISO processing
+          review_decision_notes: 'Publication of document ISO 19135-1:2015(E)'
+          release: '4'
+          terms:
+            - type: expression
+              designation: invalidación <registro>
+              normative_status: preferred
+        parents: []
+        timeCreated: 2015-10-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

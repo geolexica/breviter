@@ -1,0 +1,69 @@
+term: 'geodesic curvature vector <differential geometry, geodesy>'
+termid: 2093
+eng:
+  id: 2093
+  definition: >-
+    projection of the curvature vector of a curve onto the tangent plane to the
+    surface at the point
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19107:2019'
+    clause: '(E), 3.93'
+    link: 'https://www.iso.org/standard/66175.html'
+  date_accepted: 2019-12-02T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: Normal ISO processing
+  review_decision_notes: 'Publication of document ISO 19107:2019(E)'
+  release: '5'
+  terms:
+    - type: expression
+      designation: 'geodesic curvature vector <differential geometry, geodesy>'
+      normative_status: admitted
+    - designation: tangential curvature vector <differential geometry
+      type: expression
+    - designation: geodesy>
+      type: expression
+  _revisions:
+    current: fa3661
+    tree:
+      fa3661:
+        object:
+          id: 2093
+          definition: >-
+            projection of the curvature vector of a curve onto the tangent plane
+            to the surface at the point
+          language_code: eng
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19107:2019'
+            clause: '(E), 3.93'
+            link: 'https://www.iso.org/standard/66175.html'
+          date_accepted: 2019-12-02T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: Normal ISO processing
+          review_decision_notes: 'Publication of document ISO 19107:2019(E)'
+          release: '5'
+          terms:
+            - type: expression
+              designation: 'geodesic curvature vector <differential geometry, geodesy>'
+              normative_status: admitted
+            - designation: tangential curvature vector <differential geometry
+              type: expression
+            - designation: geodesy>
+              type: expression
+        parents: []
+        timeCreated: 2019-12-02T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

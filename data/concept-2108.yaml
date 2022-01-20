@@ -1,0 +1,155 @@
+term: flattening
+termid: 2108
+eng:
+  id: 2108
+  abbrev: f
+  definition: >-
+    ratio of the difference between the semi-major axis (a) and semi-minor axis
+    (b) of an ellipsoid to the semi-major axis; f = (a – b)/a
+  language_code: eng
+  notes:
+    - >-
+      Sometimes inverse flattening 1/f = a/(a-b) is given instead; 1/f is also
+      known as reciprocal flattening.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19111:2019'
+    clause: '(E), 3.1.28'
+    link: 'https://www.iso.org/standard/74039.html'
+  lineage_source: 'ISO 19162:2015'
+  date_accepted: 2015-08-15T00:00:00.000Z
+  review_date: 2019-01-31T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-01-31T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19111:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19111:2007, 4.22, modified – The
+    first occurrence of the words “semi-major” have been expanded to “semi-major
+    axis”. to ISO 19111:2019(E), 3.1.28. Lineage source added as ISO 19162:2015
+  release: '4'
+  terms:
+    - type: expression
+      designation: flattening
+      normative_status: preferred
+  _revisions:
+    current: '781068'
+    tree:
+      '781068':
+        object:
+          id: 2108
+          abbrev: f
+          definition: >-
+            ratio of the difference between the semi-major axis (a) and
+            semi-minor axis (b) of an ellipsoid to the semi-major axis; f = (a –
+            b)/a
+          language_code: eng
+          notes:
+            - >-
+              Sometimes inverse flattening 1/f = a/(a-b) is given instead; 1/f
+              is also known as reciprocal flattening.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19111:2019'
+            clause: '(E), 3.1.28'
+            link: 'https://www.iso.org/standard/74039.html'
+          lineage_source: 'ISO 19162:2015'
+          date_accepted: 2015-08-15T00:00:00.000Z
+          review_date: 2019-01-31T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-01-31T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19111:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19111:2007, 4.22, modified
+            – The first occurrence of the words “semi-major” have been expanded
+            to “semi-major axis”. to ISO 19111:2019(E), 3.1.28. Lineage source
+            added as ISO 19162:2015
+          release: '4'
+          terms:
+            - type: expression
+              designation: flattening
+              normative_status: preferred
+        parents: []
+        timeCreated: 2015-08-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 2108
+  abbrev: f
+  definition: >-
+    razón de la diferencia entre el semieje mayor (a) y el semieje menor (b) de
+    un elipsoide con el semieje mayor; f = (a - b) / a
+  language_code: spa
+  notes:
+    - >-
+      a veces en su lugar se da la inversa del achatamiento 1/f = a/(a-b); 1/f
+      también se conoce como el recíproco del achatamiento.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19111:2019'
+    clause: '(E), 3.1.28'
+    link: 'https://www.iso.org/standard/74039.html'
+  lineage_source: 'ISO 19162:2015'
+  date_accepted: 2015-08-15T00:00:00.000Z
+  review_date: 2019-01-31T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-01-31T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19111:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19111:2007, 4.22, modified – The
+    first occurrence of the words “semi-major” have been expanded to “semi-major
+    axis”. to ISO 19111:2019(E), 3.1.28. Lineage source added as ISO 19162:2015
+  release: '4'
+  terms:
+    - type: expression
+      designation: achatamiento
+      normative_status: preferred
+  _revisions:
+    current: 6d9528
+    tree:
+      6d9528:
+        object:
+          id: 2108
+          abbrev: f
+          definition: >-
+            razón de la diferencia entre el semieje mayor (a) y el semieje menor
+            (b) de un elipsoide con el semieje mayor; f = (a - b) / a
+          language_code: spa
+          notes:
+            - >-
+              a veces en su lugar se da la inversa del achatamiento 1/f =
+              a/(a-b); 1/f también se conoce como el recíproco del achatamiento.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19111:2019'
+            clause: '(E), 3.1.28'
+            link: 'https://www.iso.org/standard/74039.html'
+          lineage_source: 'ISO 19162:2015'
+          date_accepted: 2015-08-15T00:00:00.000Z
+          review_date: 2019-01-31T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-01-31T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19111:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19111:2007, 4.22, modified
+            – The first occurrence of the words “semi-major” have been expanded
+            to “semi-major axis”. to ISO 19111:2019(E), 3.1.28. Lineage source
+            added as ISO 19162:2015
+          release: '4'
+          terms:
+            - type: expression
+              designation: achatamiento
+              normative_status: preferred
+        parents: []
+        timeCreated: 2015-08-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

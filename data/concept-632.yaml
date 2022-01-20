@@ -1,0 +1,729 @@
+term: data quality basic measure
+termid: 632
+eng:
+  id: 632
+  definition: >-
+    generic data quality measure used as a basis for the creation of specific
+    data quality measures
+  language_code: eng
+  notes:
+    - >-
+      Data quality basic measures are abstract data types. They cannot be used
+      directly when reporting data quality.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19157:2013'
+    clause: '4.7'
+    link: 'https://www.iso.org/standard/32575.html'
+  lineage_source: 'ISO 19138:2006'
+  lineage_source_similarity: 1
+  date_accepted: 2006-12-01T00:00:00.000Z
+  review_date: 2010-07-09T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2013-12-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19157:2013'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19138:2006 to ISO 19157:2013.
+    Lineage source added as ISO 19138:2006.
+  release: '1'
+  terms:
+    - type: expression
+      designation: data quality basic measure
+      normative_status: preferred
+  _revisions:
+    current: a4d546
+    tree:
+      a4d546:
+        object:
+          id: 632
+          definition: >-
+            generic data quality measure used as a basis for the creation of
+            specific data quality measures
+          language_code: eng
+          notes:
+            - >-
+              Data quality basic measures are abstract data types. They cannot
+              be used directly when reporting data quality.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19157:2013'
+            clause: '4.7'
+            link: 'https://www.iso.org/standard/32575.html'
+          lineage_source: 'ISO 19138:2006'
+          lineage_source_similarity: 1
+          date_accepted: 2006-12-01T00:00:00.000Z
+          review_date: 2010-07-09T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2013-12-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19157:2013'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19138:2006 to ISO
+            19157:2013. Lineage source added as ISO 19138:2006.
+          release: '1'
+          terms:
+            - type: expression
+              designation: data quality basic measure
+              normative_status: preferred
+        parents: []
+        timeCreated: 2006-12-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+ara:
+  id: 632
+  definition: قياس عام لجودة البيانات يستخدم كأساس لإيجاد قياسات محددة لجودة البيانات
+  language_code: ara
+  notes:
+    - >-
+      القياسات الأساسية لجودة البيانات هي عبارة عن أنواع بيانات مجردة. ولا يمكن
+      استخدام هذه القياسات بشكل مباشر عند الإفادة عن جودة البيانات.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19157:2013'
+    clause: '4.7'
+    link: 'https://www.iso.org/standard/32575.html'
+  lineage_source: 'ISO 19138:2006'
+  lineage_source_similarity: 1
+  date_accepted: 2006-12-01T00:00:00.000Z
+  review_date: 2010-07-09T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2013-12-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19157:2013'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19138:2006 to ISO 19157:2013.
+    Lineage source added as ISO 19138:2006.
+  release: '1'
+  terms:
+    - type: expression
+      designation: قياس أساسي لجودة البيانات
+      normative_status: preferred
+  _revisions:
+    current: d87925
+    tree:
+      d87925:
+        object:
+          id: 632
+          definition: >-
+            قياس عام لجودة البيانات يستخدم كأساس لإيجاد قياسات محددة لجودة
+            البيانات
+          language_code: ara
+          notes:
+            - >-
+              القياسات الأساسية لجودة البيانات هي عبارة عن أنواع بيانات مجردة.
+              ولا يمكن استخدام هذه القياسات بشكل مباشر عند الإفادة عن جودة
+              البيانات.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19157:2013'
+            clause: '4.7'
+            link: 'https://www.iso.org/standard/32575.html'
+          lineage_source: 'ISO 19138:2006'
+          lineage_source_similarity: 1
+          date_accepted: 2006-12-01T00:00:00.000Z
+          review_date: 2010-07-09T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2013-12-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19157:2013'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19138:2006 to ISO
+            19157:2013. Lineage source added as ISO 19138:2006.
+          release: '1'
+          terms:
+            - type: expression
+              designation: قياس أساسي لجودة البيانات
+              normative_status: preferred
+        parents: []
+        timeCreated: 2006-12-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+zho:
+  id: 632
+  definition: 一般的数据质量度量，用作建立特定数据质量度量的基础。
+  language_code: zho
+  notes:
+    - 数据质量基本度量是抽象的数据类型，在报告数据质量时不能直接使用。
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19157:2013'
+    clause: '4.7'
+    link: 'https://www.iso.org/standard/32575.html'
+  lineage_source: 'ISO 19138:2006'
+  lineage_source_similarity: 1
+  date_accepted: 2006-12-01T00:00:00.000Z
+  review_date: 2010-07-09T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2013-12-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19157:2013'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19138:2006 to ISO 19157:2013.
+    Lineage source added as ISO 19138:2006.
+  release: '1'
+  terms:
+    - type: expression
+      designation: 数据质量基本度量
+      normative_status: preferred
+  _revisions:
+    current: b0b844
+    tree:
+      b0b844:
+        object:
+          id: 632
+          definition: 一般的数据质量度量，用作建立特定数据质量度量的基础。
+          language_code: zho
+          notes:
+            - 数据质量基本度量是抽象的数据类型，在报告数据质量时不能直接使用。
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19157:2013'
+            clause: '4.7'
+            link: 'https://www.iso.org/standard/32575.html'
+          lineage_source: 'ISO 19138:2006'
+          lineage_source_similarity: 1
+          date_accepted: 2006-12-01T00:00:00.000Z
+          review_date: 2010-07-09T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2013-12-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19157:2013'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19138:2006 to ISO
+            19157:2013. Lineage source added as ISO 19138:2006.
+          release: '1'
+          terms:
+            - type: expression
+              designation: 数据质量基本度量
+              normative_status: preferred
+        parents: []
+        timeCreated: 2006-12-01T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+fin:
+  id: 632
+  definition: >-
+    yleisluonteinen laatumittari, joka toimii pohjana erityisten
+    laatumittareiden luomiselle
+  language_code: fin
+  notes:
+    - >-
+      Tiedon peruslaatumittarit ovat abstrakteja tietotyyppejä, eikä niitä voi
+      suoraan käyttää tiedon laadun raportointiin.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19157:2013'
+    clause: '4.7'
+    link: 'https://www.iso.org/standard/32575.html'
+  lineage_source: 'ISO 19138:2006'
+  lineage_source_similarity: 1
+  date_accepted: 2013-07-03T00:00:00.000Z
+  review_date: 2010-07-09T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2013-12-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19157:2013'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19138:2006 to ISO 19157:2013.
+    Lineage source added as ISO 19138:2006.
+  release: '1'
+  terms:
+    - type: expression
+      designation: peruslaatumittari
+      normative_status: preferred
+  _revisions:
+    current: e7e3f9
+    tree:
+      e7e3f9:
+        object:
+          id: 632
+          definition: >-
+            yleisluonteinen laatumittari, joka toimii pohjana erityisten
+            laatumittareiden luomiselle
+          language_code: fin
+          notes:
+            - >-
+              Tiedon peruslaatumittarit ovat abstrakteja tietotyyppejä, eikä
+              niitä voi suoraan käyttää tiedon laadun raportointiin.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19157:2013'
+            clause: '4.7'
+            link: 'https://www.iso.org/standard/32575.html'
+          lineage_source: 'ISO 19138:2006'
+          lineage_source_similarity: 1
+          date_accepted: 2013-07-03T00:00:00.000Z
+          review_date: 2010-07-09T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2013-12-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19157:2013'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19138:2006 to ISO
+            19157:2013. Lineage source added as ISO 19138:2006.
+          release: '1'
+          terms:
+            - type: expression
+              designation: peruslaatumittari
+              normative_status: preferred
+        parents: []
+        timeCreated: 2013-07-03T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+fra:
+  id: 632
+  definition: >-
+    mesure générique de qualité des données utilisée comme une base pour la
+    création de mesures spécifiques de qualité de données
+  language_code: fra
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19157:2013'
+    clause: '4.7'
+    link: 'https://www.iso.org/standard/32575.html'
+  lineage_source: 'ISO 19138:2006'
+  lineage_source_similarity: 1
+  date_accepted: 2006-12-01T00:00:00.000Z
+  review_date: 2010-07-09T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2013-12-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19157:2013'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19138:2006 to ISO 19157:2013.
+    Lineage source added as ISO 19138:2006.
+  release: '1'
+  terms:
+    - type: expression
+      designation: mesure de base de qualité de données
+      normative_status: preferred
+  _revisions:
+    current: 863d7a
+    tree:
+      863d7a:
+        object:
+          id: 632
+          definition: >-
+            mesure générique de qualité des données utilisée comme une base pour
+            la création de mesures spécifiques de qualité de données
+          language_code: fra
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19157:2013'
+            clause: '4.7'
+            link: 'https://www.iso.org/standard/32575.html'
+          lineage_source: 'ISO 19138:2006'
+          lineage_source_similarity: 1
+          date_accepted: 2006-12-01T00:00:00.000Z
+          review_date: 2010-07-09T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2013-12-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19157:2013'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19138:2006 to ISO
+            19157:2013. Lineage source added as ISO 19138:2006.
+          release: '1'
+          terms:
+            - type: expression
+              designation: mesure de base de qualité de données
+              normative_status: preferred
+        parents: []
+        timeCreated: 2006-12-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+deu:
+  id: 632
+  definition: >-
+    allgemeines Maß der Datenqualität, das als Grundlage für die Erstellung
+    spezieller Maße der Datenqualität verwendet wird
+  language_code: deu
+  notes:
+    - >-
+      Data quality basic measures are abstract data types. They cannot be used
+      directly when reporting data quality.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19157:2013'
+    clause: '4.7'
+    link: 'https://www.iso.org/standard/32575.html'
+  lineage_source: 'ISO 19138:2006'
+  lineage_source_similarity: 1
+  date_accepted: 2006-12-01T00:00:00.000Z
+  review_date: 2010-07-09T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2013-12-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19157:2013'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19138:2006 to ISO 19157:2013.
+    Lineage source added as ISO 19138:2006.
+  release: '1'
+  terms:
+    - type: expression
+      designation: Basismaß der Datenqualität
+      normative_status: preferred
+  _revisions:
+    current: c4fe0a
+    tree:
+      c4fe0a:
+        object:
+          id: 632
+          definition: >-
+            allgemeines Maß der Datenqualität, das als Grundlage für die
+            Erstellung spezieller Maße der Datenqualität verwendet wird
+          language_code: deu
+          notes:
+            - >-
+              Data quality basic measures are abstract data types. They cannot
+              be used directly when reporting data quality.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19157:2013'
+            clause: '4.7'
+            link: 'https://www.iso.org/standard/32575.html'
+          lineage_source: 'ISO 19138:2006'
+          lineage_source_similarity: 1
+          date_accepted: 2006-12-01T00:00:00.000Z
+          review_date: 2010-07-09T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2013-12-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19157:2013'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19138:2006 to ISO
+            19157:2013. Lineage source added as ISO 19138:2006.
+          release: '1'
+          terms:
+            - type: expression
+              designation: Basismaß der Datenqualität
+              normative_status: preferred
+        parents: []
+        timeCreated: 2006-12-01T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+kor:
+  id: 632
+  definition: 데이터 품질 측정 값을 생성하는 데 기준으로 사용되는 일반적인 데이터 품질 척도
+  language_code: kor
+  notes:
+    - 데이터 품질 기본척도는 추상 데이터 유형으로 데이터의 품질을 보고할 때 직접적으로 사용될 수 없다.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19157:2013'
+    clause: '4.7'
+    link: 'https://www.iso.org/standard/32575.html'
+  lineage_source: 'ISO 19138:2006'
+  lineage_source_similarity: 1
+  date_accepted: 2007-11-01T00:00:00.000Z
+  review_date: 2010-07-09T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2013-12-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19157:2013'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19138:2006 to ISO 19157:2013.
+    Lineage source added as ISO 19138:2006.
+  release: '1'
+  terms:
+    - type: expression
+      designation: 데이터 품질 기본 척도
+      normative_status: preferred
+  _revisions:
+    current: 3db92b
+    tree:
+      3db92b:
+        object:
+          id: 632
+          definition: 데이터 품질 측정 값을 생성하는 데 기준으로 사용되는 일반적인 데이터 품질 척도
+          language_code: kor
+          notes:
+            - 데이터 품질 기본척도는 추상 데이터 유형으로 데이터의 품질을 보고할 때 직접적으로 사용될 수 없다.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19157:2013'
+            clause: '4.7'
+            link: 'https://www.iso.org/standard/32575.html'
+          lineage_source: 'ISO 19138:2006'
+          lineage_source_similarity: 1
+          date_accepted: 2007-11-01T00:00:00.000Z
+          review_date: 2010-07-09T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2013-12-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19157:2013'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19138:2006 to ISO
+            19157:2013. Lineage source added as ISO 19138:2006.
+          release: '1'
+          terms:
+            - type: expression
+              designation: 데이터 품질 기본 척도
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-11-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 632
+  definition: >-
+    общая мера качества данных, используемая как основа для создания
+    специализированных мер качества данных
+  language_code: rus
+  notes:
+    - >-
+      Основные меры качества данных  представляют собой абстрактные типы данных.
+      Их нельзя использовать для определения качества данных напрямую
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19157:2013'
+    clause: '4.7'
+    link: 'https://www.iso.org/standard/32575.html'
+  lineage_source: 'ГОСТ Р 57773-2017 (ИСО 19157:2013)'
+  lineage_source_similarity: 1
+  date_accepted: 2006-12-01T00:00:00.000Z
+  review_date: 2010-07-09T00:00:00.000Z
+  review_status: ''
+  review_decision: ''
+  review_decision_date: 2013-12-15T00:00:00.000Z
+  review_decision_event: 'Публикация ИСО19157:2013'
+  review_decision_notes: >-
+    Авторитетная ссылка изменена с ISO 19138: 2006 на ISO 19157: 2013. Источник
+    происхождения добавлен как ISO 19138: 2006.
+  release: '1'
+  terms:
+    - type: expression
+      designation: основная мера качества данных
+      normative_status: preferred
+  _revisions:
+    current: 79ee0d
+    tree:
+      79ee0d:
+        object:
+          id: 632
+          definition: >-
+            общая мера качества данных, используемая как основа для создания
+            специализированных мер качества данных
+          language_code: rus
+          notes:
+            - >-
+              Основные меры качества данных  представляют собой абстрактные типы
+              данных. Их нельзя использовать для определения качества данных
+              напрямую
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19157:2013'
+            clause: '4.7'
+            link: 'https://www.iso.org/standard/32575.html'
+          lineage_source: 'ГОСТ Р 57773-2017 (ИСО 19157:2013)'
+          lineage_source_similarity: 1
+          date_accepted: 2006-12-01T00:00:00.000Z
+          review_date: 2010-07-09T00:00:00.000Z
+          review_status: ''
+          review_decision: ''
+          review_decision_date: 2013-12-15T00:00:00.000Z
+          review_decision_event: 'Публикация ИСО19157:2013'
+          review_decision_notes: >-
+            Авторитетная ссылка изменена с ISO 19138: 2006 на ISO 19157: 2013.
+            Источник происхождения добавлен как ISO 19138: 2006.
+          release: '1'
+          terms:
+            - type: expression
+              designation: основная мера качества данных
+              normative_status: preferred
+        parents: []
+        timeCreated: 2006-12-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 632
+  definition: >-
+    medida genérica de calidad de datos utilizada como base para la creación de
+    medidas específicas de calidad de datos
+  language_code: spa
+  notes:
+    - >-
+      Las medidas básicas de calidad de datos son tipos de datos abstractos. No
+      se pueden usar directamente cuando se reporta la calidad de los datos.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19157:2013'
+    clause: '4.7'
+    link: 'https://www.iso.org/standard/32575.html'
+  lineage_source: 'ISO 19138:2006'
+  lineage_source_similarity: 1
+  date_accepted: 2006-12-01T00:00:00.000Z
+  review_date: 2010-07-09T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2013-12-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19157:2013'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19138:2006 to ISO 19157:2013.
+    Lineage source added as ISO 19138:2006.
+  release: '1'
+  terms:
+    - type: expression
+      designation: medida básica de calidad de datos
+      normative_status: preferred
+  _revisions:
+    current: eadfb4
+    tree:
+      eadfb4:
+        object:
+          id: 632
+          definition: >-
+            medida genérica de calidad de datos utilizada como base para la
+            creación de medidas específicas de calidad de datos
+          language_code: spa
+          notes:
+            - >-
+              Las medidas básicas de calidad de datos son tipos de datos
+              abstractos. No se pueden usar directamente cuando se reporta la
+              calidad de los datos.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19157:2013'
+            clause: '4.7'
+            link: 'https://www.iso.org/standard/32575.html'
+          lineage_source: 'ISO 19138:2006'
+          lineage_source_similarity: 1
+          date_accepted: 2006-12-01T00:00:00.000Z
+          review_date: 2010-07-09T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2013-12-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19157:2013'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19138:2006 to ISO
+            19157:2013. Lineage source added as ISO 19138:2006.
+          release: '1'
+          terms:
+            - type: expression
+              designation: medida básica de calidad de datos
+              normative_status: preferred
+        parents: []
+        timeCreated: 2006-12-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+swe:
+  id: 632
+  definition: typ som används som utgångspunkt för att definiera datakvalitetsmått
+  country_code: swe
+  language_code: swe
+  notes:
+    - >-
+      Data quality basic measures are abstract data types. They cannot be used
+      directly when reporting data quality.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19157:2013'
+    clause: '4.7'
+    link: 'https://www.iso.org/standard/32575.html'
+  lineage_source: 'ISO 19138:2006'
+  lineage_source_similarity: 1
+  date_accepted: 2006-12-01T00:00:00.000Z
+  review_date: 2010-07-09T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2013-12-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19157:2013'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19138:2006 to ISO 19157:2013.
+    Lineage source added as ISO 19138:2006.
+  release: '1'
+  terms:
+    - type: expression
+      designation: typ av datakvalitetsmått
+      normative_status: preferred
+  _revisions:
+    current: '498132'
+    tree:
+      '498132':
+        object:
+          id: 632
+          definition: typ som används som utgångspunkt för att definiera datakvalitetsmått
+          country_code: swe
+          language_code: swe
+          notes:
+            - >-
+              Data quality basic measures are abstract data types. They cannot
+              be used directly when reporting data quality.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19157:2013'
+            clause: '4.7'
+            link: 'https://www.iso.org/standard/32575.html'
+          lineage_source: 'ISO 19138:2006'
+          lineage_source_similarity: 1
+          date_accepted: 2006-12-01T00:00:00.000Z
+          review_date: 2010-07-09T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2013-12-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19157:2013'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19138:2006 to ISO
+            19157:2013. Lineage source added as ISO 19138:2006.
+          release: '1'
+          terms:
+            - type: expression
+              designation: typ av datakvalitetsmått
+              normative_status: preferred
+        parents: []
+        timeCreated: 2006-12-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

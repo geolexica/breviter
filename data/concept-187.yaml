@@ -1,0 +1,986 @@
+term: flattening
+termid: 187
+eng:
+  id: 187
+  abbrev: f
+  definition: >-
+    ratio of the difference between the semi-major (a) and semi-minor axis (b)
+    of an ellipsoid to the semi-major axis; f = (a - b)/a
+  language_code: eng
+  notes:
+    - >-
+      Sometimes inverse flattening 1/f = a/(a-b) is given instead; 1/f is also
+      known as reciprocal flattening.
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19111:2007'
+    link: 'https://www.iso.org/standard/41126.html'
+  lineage_source: 'ISO 19111:2003'
+  lineage_source_similarity: 1
+  date_accepted: 2003-02-15T00:00:00.000Z
+  date_amended: 2015-08-15T00:00:00.000Z
+  review_date: 2015-08-15T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2015-08-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19162:2015'
+  review_decision_notes: >-
+    The entry has been superseded. An entry with a revised definition has been
+    published in ISO 19162:2015. Revision in this strandard is required.
+  release: '-1'
+  terms:
+    - type: expression
+      designation: flattening
+      normative_status: null
+  _revisions:
+    current: c33f50
+    tree:
+      c33f50:
+        object:
+          id: 187
+          abbrev: f
+          definition: >-
+            ratio of the difference between the semi-major (a) and semi-minor
+            axis (b) of an ellipsoid to the semi-major axis; f = (a - b)/a
+          language_code: eng
+          notes:
+            - >-
+              Sometimes inverse flattening 1/f = a/(a-b) is given instead; 1/f
+              is also known as reciprocal flattening.
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19111:2007'
+            link: 'https://www.iso.org/standard/41126.html'
+          lineage_source: 'ISO 19111:2003'
+          lineage_source_similarity: 1
+          date_accepted: 2003-02-15T00:00:00.000Z
+          date_amended: 2015-08-15T00:00:00.000Z
+          review_date: 2015-08-15T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2015-08-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19162:2015'
+          review_decision_notes: >-
+            The entry has been superseded. An entry with a revised definition
+            has been published in ISO 19162:2015. Revision in this strandard is
+            required.
+          release: '-1'
+          terms:
+            - type: expression
+              designation: flattening
+              normative_status: null
+        parents: []
+        timeCreated: 2003-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+ara:
+  id: 187
+  abbrev: f
+  definition: >-
+    نسبة الفرق بين المحور شبه الأكبر ( أ ) والمحور شبه الأصغر ( ب ) لمجسم القطع
+    الناقص إلى المحور شبه الأكبر، ف = ( أ - ب ) / أ.
+  language_code: ara
+  notes:
+    - >-
+      أحيانا يعطى معامل التفلطح العكسي 1/تف = أ/(أ - ب) بدلاً من التفلطح العادي
+      ؛ ويعرف 1/تف أيضاً باسم آخر هو التفلطح التبادلي.
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19111:2007'
+    link: 'https://www.iso.org/standard/41126.html'
+  lineage_source: 'ISO 19111:2003'
+  lineage_source_similarity: 1
+  date_accepted: 2003-02-15T00:00:00.000Z
+  date_amended: 2015-08-15T00:00:00.000Z
+  review_date: 2015-08-15T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2015-08-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19162:2015'
+  review_decision_notes: >-
+    The entry has been superseded. An entry with a revised definition has been
+    published in ISO 19162:2015. Revision in this strandard is required.
+  release: '-1'
+  terms:
+    - type: expression
+      designation: الانبعاج
+      normative_status: null
+  _revisions:
+    current: b0cd52
+    tree:
+      b0cd52:
+        object:
+          id: 187
+          abbrev: f
+          definition: >-
+            نسبة الفرق بين المحور شبه الأكبر ( أ ) والمحور شبه الأصغر ( ب )
+            لمجسم القطع الناقص إلى المحور شبه الأكبر، ف = ( أ - ب ) / أ.
+          language_code: ara
+          notes:
+            - >-
+              أحيانا يعطى معامل التفلطح العكسي 1/تف = أ/(أ - ب) بدلاً من التفلطح
+              العادي ؛ ويعرف 1/تف أيضاً باسم آخر هو التفلطح التبادلي.
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19111:2007'
+            link: 'https://www.iso.org/standard/41126.html'
+          lineage_source: 'ISO 19111:2003'
+          lineage_source_similarity: 1
+          date_accepted: 2003-02-15T00:00:00.000Z
+          date_amended: 2015-08-15T00:00:00.000Z
+          review_date: 2015-08-15T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2015-08-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19162:2015'
+          review_decision_notes: >-
+            The entry has been superseded. An entry with a revised definition
+            has been published in ISO 19162:2015. Revision in this strandard is
+            required.
+          release: '-1'
+          terms:
+            - type: expression
+              designation: الانبعاج
+              normative_status: null
+        parents: []
+        timeCreated: 2003-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+zho:
+  id: 187
+  abbrev: f
+  definition: 椭球长半轴(a)与短半轴(b)之差和长半轴之比 即：f=(a-b)/a 。
+  language_code: zho
+  notes:
+    - 有时用扁率的倒数1/f=a/(a-b)；1/f又称为倒数扁率（reciprocal flattening）。
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19111:2007'
+    link: 'https://www.iso.org/standard/41126.html'
+  lineage_source: 'ISO 19111:2003'
+  lineage_source_similarity: 1
+  date_accepted: 2003-02-15T00:00:00.000Z
+  date_amended: 2015-08-15T00:00:00.000Z
+  review_date: 2015-08-15T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2015-08-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19162:2015'
+  review_decision_notes: >-
+    The entry has been superseded. An entry with a revised definition has been
+    published in ISO 19162:2015. Revision in this strandard is required.
+  release: '-1'
+  terms:
+    - type: expression
+      designation: 扁率
+      normative_status: null
+  _revisions:
+    current: 08c469
+    tree:
+      08c469:
+        object:
+          id: 187
+          abbrev: f
+          definition: 椭球长半轴(a)与短半轴(b)之差和长半轴之比 即：f=(a-b)/a 。
+          language_code: zho
+          notes:
+            - 有时用扁率的倒数1/f=a/(a-b)；1/f又称为倒数扁率（reciprocal flattening）。
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19111:2007'
+            link: 'https://www.iso.org/standard/41126.html'
+          lineage_source: 'ISO 19111:2003'
+          lineage_source_similarity: 1
+          date_accepted: 2003-02-15T00:00:00.000Z
+          date_amended: 2015-08-15T00:00:00.000Z
+          review_date: 2015-08-15T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2015-08-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19162:2015'
+          review_decision_notes: >-
+            The entry has been superseded. An entry with a revised definition
+            has been published in ISO 19162:2015. Revision in this strandard is
+            required.
+          release: '-1'
+          terms:
+            - type: expression
+              designation: 扁率
+              normative_status: null
+        parents: []
+        timeCreated: 2003-02-15T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+dan:
+  id: 187
+  abbrev: f
+  definition: >-
+    et mål for hvor meget en ellipsoide afviger fra en kugle, udtrykt matematisk
+    med følgende formel: f = (a-b)/a, hvor a = ellipsoidens halve storakse, b =
+    ellipsoidens halve lilleakse.
+  language_code: dan
+  notes:
+    - >-
+      Under tiden angives omvendt fladtrykning 1/f = a/(a-b) i stedet for; 1/f
+      kaldes også reciprok fladtrykning.
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19111:2007'
+    link: 'https://www.iso.org/standard/41126.html'
+  lineage_source: 'ISO 19111:2003'
+  lineage_source_similarity: 1
+  date_accepted: 2003-02-15T00:00:00.000Z
+  date_amended: 2015-08-15T00:00:00.000Z
+  review_date: 2015-08-15T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2015-08-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19162:2015'
+  review_decision_notes: >-
+    The entry has been superseded. An entry with a revised definition has been
+    published in ISO 19162:2015. Revision in this strandard is required.
+  release: '-1'
+  terms:
+    - type: expression
+      designation: fladtrykning
+      normative_status: null
+  _revisions:
+    current: cb209b
+    tree:
+      cb209b:
+        object:
+          id: 187
+          abbrev: f
+          definition: >-
+            et mål for hvor meget en ellipsoide afviger fra en kugle, udtrykt
+            matematisk med følgende formel: f = (a-b)/a, hvor a = ellipsoidens
+            halve storakse, b = ellipsoidens halve lilleakse.
+          language_code: dan
+          notes:
+            - >-
+              Under tiden angives omvendt fladtrykning 1/f = a/(a-b) i stedet
+              for; 1/f kaldes også reciprok fladtrykning.
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19111:2007'
+            link: 'https://www.iso.org/standard/41126.html'
+          lineage_source: 'ISO 19111:2003'
+          lineage_source_similarity: 1
+          date_accepted: 2003-02-15T00:00:00.000Z
+          date_amended: 2015-08-15T00:00:00.000Z
+          review_date: 2015-08-15T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2015-08-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19162:2015'
+          review_decision_notes: >-
+            The entry has been superseded. An entry with a revised definition
+            has been published in ISO 19162:2015. Revision in this strandard is
+            required.
+          release: '-1'
+          terms:
+            - type: expression
+              designation: fladtrykning
+              normative_status: null
+        parents: []
+        timeCreated: 2003-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+nld:
+  id: 187
+  abbrev: f
+  definition: >-
+    verhouding van het verschil tussen de halve lange (a) en de halve korte (b)
+    as van een ellipsoïde ten opzichte van de halve lange as; f = (a - b)/a
+  language_code: nld
+  notes:
+    - >-
+      Soms wordt de inverse afplatting 1/f = a/(a-b) gegeven; 1/f wordt ook wel
+      de inverse afplatting genoemd.
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19111:2007'
+    link: 'https://www.iso.org/standard/41126.html'
+  lineage_source: 'ISO 19111:2003'
+  lineage_source_similarity: 1
+  date_accepted: 2003-02-15T00:00:00.000Z
+  date_amended: 2015-08-15T00:00:00.000Z
+  review_date: 2015-08-15T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2015-08-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19162:2015'
+  review_decision_notes: >-
+    The entry has been superseded. An entry with a revised definition has been
+    published in ISO 19162:2015. Revision in this strandard is required.
+  release: '-1'
+  terms:
+    - type: expression
+      designation: afplatting
+      normative_status: null
+  _revisions:
+    current: aca339
+    tree:
+      aca339:
+        object:
+          id: 187
+          abbrev: f
+          definition: >-
+            verhouding van het verschil tussen de halve lange (a) en de halve
+            korte (b) as van een ellipsoïde ten opzichte van de halve lange as;
+            f = (a - b)/a
+          language_code: nld
+          notes:
+            - >-
+              Soms wordt de inverse afplatting 1/f = a/(a-b) gegeven; 1/f wordt
+              ook wel de inverse afplatting genoemd.
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19111:2007'
+            link: 'https://www.iso.org/standard/41126.html'
+          lineage_source: 'ISO 19111:2003'
+          lineage_source_similarity: 1
+          date_accepted: 2003-02-15T00:00:00.000Z
+          date_amended: 2015-08-15T00:00:00.000Z
+          review_date: 2015-08-15T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2015-08-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19162:2015'
+          review_decision_notes: >-
+            The entry has been superseded. An entry with a revised definition
+            has been published in ISO 19162:2015. Revision in this strandard is
+            required.
+          release: '-1'
+          terms:
+            - type: expression
+              designation: afplatting
+              normative_status: null
+        parents: []
+        timeCreated: 2003-02-15T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+fin:
+  id: 187
+  abbrev: f
+  definition: >-
+    ellipsoidin isoakselin puolikkaan (a) ja pikkuakselin puolikkaan (b)
+    erotuksen suhde isoakselin puolikkaaseen; f = (a - b)/a
+  language_code: fin
+  notes:
+    - >-
+      Joissakin tapauksissa litistyssuhteen sijaan ilmoitetaan sen käänteisluku
+      (reciprocal flattening) 1/f = a/(a-b).
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19111:2007'
+    link: 'https://www.iso.org/standard/41126.html'
+  lineage_source: 'ISO 19111:2003'
+  lineage_source_similarity: 1
+  date_accepted: 2003-02-15T00:00:00.000Z
+  date_amended: 2015-08-15T00:00:00.000Z
+  review_date: 2015-08-15T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2015-08-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19162:2015'
+  review_decision_notes: >-
+    The entry has been superseded. An entry with a revised definition has been
+    published in ISO 19162:2015. Revision in this strandard is required.
+  release: '-1'
+  terms:
+    - type: expression
+      designation: litistyssuhde
+      normative_status: null
+  _revisions:
+    current: c9c8f1
+    tree:
+      c9c8f1:
+        object:
+          id: 187
+          abbrev: f
+          definition: >-
+            ellipsoidin isoakselin puolikkaan (a) ja pikkuakselin puolikkaan (b)
+            erotuksen suhde isoakselin puolikkaaseen; f = (a - b)/a
+          language_code: fin
+          notes:
+            - >-
+              Joissakin tapauksissa litistyssuhteen sijaan ilmoitetaan sen
+              käänteisluku (reciprocal flattening) 1/f = a/(a-b).
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19111:2007'
+            link: 'https://www.iso.org/standard/41126.html'
+          lineage_source: 'ISO 19111:2003'
+          lineage_source_similarity: 1
+          date_accepted: 2003-02-15T00:00:00.000Z
+          date_amended: 2015-08-15T00:00:00.000Z
+          review_date: 2015-08-15T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2015-08-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19162:2015'
+          review_decision_notes: >-
+            The entry has been superseded. An entry with a revised definition
+            has been published in ISO 19162:2015. Revision in this strandard is
+            required.
+          release: '-1'
+          terms:
+            - type: expression
+              designation: litistyssuhde
+              normative_status: null
+        parents: []
+        timeCreated: 2003-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+fra:
+  id: 187
+  definition: >-
+    rapport de la différence entre le demi- grand axe (a) et le demi-petit axe
+    (b) d'un ellipsoïde au demi-grand axe (a); f = (a - b)/a
+  language_code: fra
+  notes: []
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19111:2007'
+    link: 'https://www.iso.org/standard/41126.html'
+  lineage_source: 'ISO 19111:2003'
+  lineage_source_similarity: 1
+  date_accepted: 2003-02-15T00:00:00.000Z
+  date_amended: 2015-08-15T00:00:00.000Z
+  review_date: 2015-08-15T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2015-08-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19162:2015'
+  review_decision_notes: >-
+    The entry has been superseded. An entry with a revised definition has been
+    published in ISO 19162:2015. Revision in this strandard is required.
+  release: '-1'
+  terms:
+    - type: expression
+      designation: aplatissement
+      normative_status: null
+  _revisions:
+    current: 411fba
+    tree:
+      411fba:
+        object:
+          id: 187
+          definition: >-
+            rapport de la différence entre le demi- grand axe (a) et le
+            demi-petit axe (b) d'un ellipsoïde au demi-grand axe (a); f = (a -
+            b)/a
+          language_code: fra
+          notes: []
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19111:2007'
+            link: 'https://www.iso.org/standard/41126.html'
+          lineage_source: 'ISO 19111:2003'
+          lineage_source_similarity: 1
+          date_accepted: 2003-02-15T00:00:00.000Z
+          date_amended: 2015-08-15T00:00:00.000Z
+          review_date: 2015-08-15T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2015-08-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19162:2015'
+          review_decision_notes: >-
+            The entry has been superseded. An entry with a revised definition
+            has been published in ISO 19162:2015. Revision in this strandard is
+            required.
+          release: '-1'
+          terms:
+            - type: expression
+              designation: aplatissement
+              normative_status: null
+        parents: []
+        timeCreated: 2003-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+deu:
+  id: 187
+  abbrev: f
+  definition: >-
+    Verhältnis der Differenz zwischen der großen (a) und kleinen Halbachse (b)
+    zur großen Halbachse dieses Ellipsoids; f = (a - b)/a
+  language_code: deu
+  notes:
+    - >-
+      Sometimes inverse flattening 1/f = a/(a-b) is given instead; 1/f is also
+      known as reciprocal flattening.
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19111:2007'
+    link: 'https://www.iso.org/standard/41126.html'
+  lineage_source: 'ISO 19111:2003'
+  lineage_source_similarity: 1
+  date_accepted: 2003-02-15T00:00:00.000Z
+  date_amended: 2015-08-15T00:00:00.000Z
+  review_date: 2015-08-15T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2015-08-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19162:2015'
+  review_decision_notes: >-
+    The entry has been superseded. An entry with a revised definition has been
+    published in ISO 19162:2015. Revision in this strandard is required.
+  release: '-1'
+  terms:
+    - type: expression
+      designation: Abflachung
+      normative_status: null
+  _revisions:
+    current: '513e88'
+    tree:
+      '513e88':
+        object:
+          id: 187
+          abbrev: f
+          definition: >-
+            Verhältnis der Differenz zwischen der großen (a) und kleinen
+            Halbachse (b) zur großen Halbachse dieses Ellipsoids; f = (a - b)/a
+          language_code: deu
+          notes:
+            - >-
+              Sometimes inverse flattening 1/f = a/(a-b) is given instead; 1/f
+              is also known as reciprocal flattening.
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19111:2007'
+            link: 'https://www.iso.org/standard/41126.html'
+          lineage_source: 'ISO 19111:2003'
+          lineage_source_similarity: 1
+          date_accepted: 2003-02-15T00:00:00.000Z
+          date_amended: 2015-08-15T00:00:00.000Z
+          review_date: 2015-08-15T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2015-08-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19162:2015'
+          review_decision_notes: >-
+            The entry has been superseded. An entry with a revised definition
+            has been published in ISO 19162:2015. Revision in this strandard is
+            required.
+          release: '-1'
+          terms:
+            - type: expression
+              designation: Abflachung
+              normative_status: null
+        parents: []
+        timeCreated: 2003-02-15T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+kor:
+  id: 187
+  abbrev: f
+  definition: 타원체의 장반경(a)과 단반경과(b)의 차이를 장반경으로 나눈 값; f=(a-b)/a
+  language_code: kor
+  notes:
+    - 종종 역편평률 1/f=a/(a-b)이 대신한다.  1/f는 역편평률로 알려져 있다.
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19111:2007'
+    link: 'https://www.iso.org/standard/41126.html'
+  lineage_source: 'ISO 19111:2003'
+  lineage_source_similarity: 1
+  date_accepted: 2003-02-15T00:00:00.000Z
+  date_amended: 2015-08-15T00:00:00.000Z
+  review_date: 2015-08-15T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2015-08-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19162:2015'
+  review_decision_notes: >-
+    The entry has been superseded. An entry with a revised definition has been
+    published in ISO 19162:2015. Revision in this strandard is required.
+  release: '-1'
+  terms:
+    - type: expression
+      designation: 편평률
+      normative_status: null
+  _revisions:
+    current: 16d507
+    tree:
+      16d507:
+        object:
+          id: 187
+          abbrev: f
+          definition: 타원체의 장반경(a)과 단반경과(b)의 차이를 장반경으로 나눈 값; f=(a-b)/a
+          language_code: kor
+          notes:
+            - 종종 역편평률 1/f=a/(a-b)이 대신한다.  1/f는 역편평률로 알려져 있다.
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19111:2007'
+            link: 'https://www.iso.org/standard/41126.html'
+          lineage_source: 'ISO 19111:2003'
+          lineage_source_similarity: 1
+          date_accepted: 2003-02-15T00:00:00.000Z
+          date_amended: 2015-08-15T00:00:00.000Z
+          review_date: 2015-08-15T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2015-08-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19162:2015'
+          review_decision_notes: >-
+            The entry has been superseded. An entry with a revised definition
+            has been published in ISO 19162:2015. Revision in this strandard is
+            required.
+          release: '-1'
+          terms:
+            - type: expression
+              designation: 편평률
+              normative_status: null
+        parents: []
+        timeCreated: 2003-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+pol:
+  id: 187
+  abbrev: f
+  definition: >-
+    stosunek różnicy długości dużej półosi (a) i małej półosi (b) elipsoidy do
+    dużej półosi: f = (a-b)/a
+  language_code: pol
+  notes:
+    - Czasami podawana jest odwrotność spłaszczenia 1/f = a/(a-b).
+  examples: []
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19111:2007'
+    link: 'https://www.iso.org/standard/41126.html'
+  lineage_source: 'ISO 19111:2003'
+  lineage_source_similarity: 1
+  date_accepted: 2003-02-15T00:00:00.000Z
+  date_amended: 2015-08-15T00:00:00.000Z
+  review_date: 2015-08-15T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2015-08-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19162:2015'
+  review_decision_notes: >-
+    The entry has been superseded. An entry with a revised definition has been
+    published in ISO 19162:2015. Revision in this strandard is required.
+  release: '-1'
+  terms:
+    - type: expression
+      designation: spłaszczenie
+      normative_status: null
+  _revisions:
+    current: cca9c3
+    tree:
+      cca9c3:
+        object:
+          id: 187
+          abbrev: f
+          definition: >-
+            stosunek różnicy długości dużej półosi (a) i małej półosi (b)
+            elipsoidy do dużej półosi: f = (a-b)/a
+          language_code: pol
+          notes:
+            - Czasami podawana jest odwrotność spłaszczenia 1/f = a/(a-b).
+          examples: []
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19111:2007'
+            link: 'https://www.iso.org/standard/41126.html'
+          lineage_source: 'ISO 19111:2003'
+          lineage_source_similarity: 1
+          date_accepted: 2003-02-15T00:00:00.000Z
+          date_amended: 2015-08-15T00:00:00.000Z
+          review_date: 2015-08-15T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2015-08-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19162:2015'
+          review_decision_notes: >-
+            The entry has been superseded. An entry with a revised definition
+            has been published in ISO 19162:2015. Revision in this strandard is
+            required.
+          release: '-1'
+          terms:
+            - type: expression
+              designation: spłaszczenie
+              normative_status: null
+        parents: []
+        timeCreated: 2003-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 187
+  abbrev: α
+  definition: >-
+    отношение разности между большой и малой  полуосями к большой полуоси
+    эллипсоида, вычисляемое по формуле   α = (a-b)/a
+  language_code: rus
+  notes:
+    - Иногда применяют обратное сжатие 1/ α = a/(a-b)
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19111:2007'
+    link: 'https://www.iso.org/standard/41126.html'
+  lineage_source: ГОСТ Р 52572-2006
+  date_accepted: 2003-02-15T00:00:00.000Z
+  terms:
+    - type: expression
+      designation: сжатие
+      normative_status: preferred
+  _revisions:
+    current: f8296d
+    tree:
+      f8296d:
+        object:
+          id: 187
+          abbrev: α
+          definition: >-
+            отношение разности между большой и малой  полуосями к большой
+            полуоси эллипсоида, вычисляемое по формуле   α = (a-b)/a
+          language_code: rus
+          notes:
+            - Иногда применяют обратное сжатие 1/ α = a/(a-b)
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19111:2007'
+            link: 'https://www.iso.org/standard/41126.html'
+          lineage_source: ГОСТ Р 52572-2006
+          date_accepted: 2003-02-15T00:00:00.000Z
+          terms:
+            - type: expression
+              designation: сжатие
+              normative_status: preferred
+        parents: []
+        timeCreated: 2003-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 187
+  abbrev: f
+  definition: >-
+    razón de la diferencia entre el semieje mayor (a) y el semieje menor (b) de
+    un elipsoide al semieje mayor: f = (a-b)/a
+  language_code: spa
+  notes:
+    - >-
+      A veces se da la inversa del aplanamiento 1/f = a/(a-b) en lugar del
+      aplanamiento; 1/f es también conocida como aplanamiento recíproco..
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19111:2007'
+    link: 'https://www.iso.org/standard/41126.html'
+  lineage_source: 'ISO 19111:2003'
+  lineage_source_similarity: 1
+  date_accepted: 2003-02-15T00:00:00.000Z
+  date_amended: 2015-08-15T00:00:00.000Z
+  review_date: 2015-08-15T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2015-08-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19162:2015'
+  review_decision_notes: >-
+    The entry has been superseded. An entry with a revised definition has been
+    published in ISO 19162:2015. Revision in this strandard is required.
+  release: '-1'
+  terms:
+    - type: expression
+      designation: achatamiento
+      normative_status: null
+  _revisions:
+    current: 59a508
+    tree:
+      59a508:
+        object:
+          id: 187
+          abbrev: f
+          definition: >-
+            razón de la diferencia entre el semieje mayor (a) y el semieje menor
+            (b) de un elipsoide al semieje mayor: f = (a-b)/a
+          language_code: spa
+          notes:
+            - >-
+              A veces se da la inversa del aplanamiento 1/f = a/(a-b) en lugar
+              del aplanamiento; 1/f es también conocida como aplanamiento
+              recíproco..
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19111:2007'
+            link: 'https://www.iso.org/standard/41126.html'
+          lineage_source: 'ISO 19111:2003'
+          lineage_source_similarity: 1
+          date_accepted: 2003-02-15T00:00:00.000Z
+          date_amended: 2015-08-15T00:00:00.000Z
+          review_date: 2015-08-15T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2015-08-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19162:2015'
+          review_decision_notes: >-
+            The entry has been superseded. An entry with a revised definition
+            has been published in ISO 19162:2015. Revision in this strandard is
+            required.
+          release: '-1'
+          terms:
+            - type: expression
+              designation: achatamiento
+              normative_status: null
+        parents: []
+        timeCreated: 2003-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+swe:
+  id: 187
+  abbrev: f
+  definition: avvikelse från sfärisk form
+  country_code: swe
+  language_code: swe
+  notes:
+    - >-
+      Avvikelsen uttrycks med formeln f=(a-b)/a där a och b är
+      rotationsellipsoidens stora respektive lilla halvaxel.
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19111:2007'
+    link: 'https://www.iso.org/standard/41126.html'
+  lineage_source: 'ISO 19111:2003'
+  lineage_source_similarity: 1
+  date_accepted: 2003-02-15T00:00:00.000Z
+  date_amended: 2015-08-15T00:00:00.000Z
+  review_date: 2015-08-15T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2015-08-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19162:2015'
+  review_decision_notes: >-
+    The entry has been superseded. An entry with a revised definition has been
+    published in ISO 19162:2015. Revision in this strandard is required.
+  release: '-1'
+  terms:
+    - type: expression
+      designation: avplattning
+      normative_status: null
+  _revisions:
+    current: d3b8ee
+    tree:
+      d3b8ee:
+        object:
+          id: 187
+          abbrev: f
+          definition: avvikelse från sfärisk form
+          country_code: swe
+          language_code: swe
+          notes:
+            - >-
+              Avvikelsen uttrycks med formeln f=(a-b)/a där a och b är
+              rotationsellipsoidens stora respektive lilla halvaxel.
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19111:2007'
+            link: 'https://www.iso.org/standard/41126.html'
+          lineage_source: 'ISO 19111:2003'
+          lineage_source_similarity: 1
+          date_accepted: 2003-02-15T00:00:00.000Z
+          date_amended: 2015-08-15T00:00:00.000Z
+          review_date: 2015-08-15T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2015-08-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19162:2015'
+          review_decision_notes: >-
+            The entry has been superseded. An entry with a revised definition
+            has been published in ISO 19162:2015. Revision in this strandard is
+            required.
+          release: '-1'
+          terms:
+            - type: expression
+              designation: avplattning
+              normative_status: null
+        parents: []
+        timeCreated: 2003-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

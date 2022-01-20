@@ -1,0 +1,721 @@
+term: positioning system
+termid: 349
+eng:
+  id: 349
+  definition: system of instrumental and computational components for determining position
+  language_code: eng
+  notes:
+    - >-
+      Examples include inertial, integrated, linear, optical, and satellite
+      positioning systems.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19116:2019'
+    clause: '(E), 3.24'
+    link: 'https://www.iso.org/standard/70882.html'
+  lineage_source: 'ISO 19116:2004(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2004-07-01T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19116:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19116:2004 to ISO 19116:2019(E),
+    3.24. Lineage source added as ISO 19116:2004(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: positioning system
+      normative_status: preferred
+  _revisions:
+    current: '908793'
+    tree:
+      '908793':
+        object:
+          id: 349
+          definition: >-
+            system of instrumental and computational components for determining
+            position
+          language_code: eng
+          notes:
+            - >-
+              Examples include inertial, integrated, linear, optical, and
+              satellite positioning systems.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19116:2019'
+            clause: '(E), 3.24'
+            link: 'https://www.iso.org/standard/70882.html'
+          lineage_source: 'ISO 19116:2004(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2004-07-01T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19116:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19116:2004 to ISO
+            19116:2019(E), 3.24. Lineage source added as ISO 19116:2004(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: positioning system
+              normative_status: preferred
+        parents: []
+        timeCreated: 2004-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+ara:
+  id: 349
+  definition: نظام مكون من آلات ومكونات حاسوبيه لتحديد المواقع
+  language_code: ara
+  notes:
+    - >-
+      تشتمل الأمثلة على نظم تحديد الأماكن بالقصور الذاتي , ونظم تحديد الأماكن
+      المتكاملة , ونظم تحديد الأماكن الخطية والبصرية , ونظم تحديد الأماكن
+      بالأقمار الصناعية.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19116:2019'
+    clause: '(E), 3.24'
+    link: 'https://www.iso.org/standard/70882.html'
+  lineage_source: 'ISO 19116:2004(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2004-07-01T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19116:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19116:2004 to ISO 19116:2019(E),
+    3.24. Lineage source added as ISO 19116:2004(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: نظام تحديد المواقع
+      normative_status: preferred
+  _revisions:
+    current: 92c180
+    tree:
+      92c180:
+        object:
+          id: 349
+          definition: نظام مكون من آلات ومكونات حاسوبيه لتحديد المواقع
+          language_code: ara
+          notes:
+            - >-
+              تشتمل الأمثلة على نظم تحديد الأماكن بالقصور الذاتي , ونظم تحديد
+              الأماكن المتكاملة , ونظم تحديد الأماكن الخطية والبصرية , ونظم
+              تحديد الأماكن بالأقمار الصناعية.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19116:2019'
+            clause: '(E), 3.24'
+            link: 'https://www.iso.org/standard/70882.html'
+          lineage_source: 'ISO 19116:2004(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2004-07-01T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19116:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19116:2004 to ISO
+            19116:2019(E), 3.24. Lineage source added as ISO 19116:2004(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: نظام تحديد المواقع
+              normative_status: preferred
+        parents: []
+        timeCreated: 2004-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+zho:
+  id: 349
+  definition: 为确定位置的仪器和计算部件系统。
+  language_code: zho
+  notes:
+    - 例子包括惯性的、集成的、线性光学的和卫星定位系统。
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19116:2019'
+    clause: '(E), 3.24'
+    link: 'https://www.iso.org/standard/70882.html'
+  lineage_source: 'ISO 19116:2004(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2004-07-01T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19116:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19116:2004 to ISO 19116:2019(E),
+    3.24. Lineage source added as ISO 19116:2004(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: 定位系统
+      normative_status: preferred
+  _revisions:
+    current: '940880'
+    tree:
+      '940880':
+        object:
+          id: 349
+          definition: 为确定位置的仪器和计算部件系统。
+          language_code: zho
+          notes:
+            - 例子包括惯性的、集成的、线性光学的和卫星定位系统。
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19116:2019'
+            clause: '(E), 3.24'
+            link: 'https://www.iso.org/standard/70882.html'
+          lineage_source: 'ISO 19116:2004(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2004-07-01T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19116:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19116:2004 to ISO
+            19116:2019(E), 3.24. Lineage source added as ISO 19116:2004(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: 定位系统
+              normative_status: preferred
+        parents: []
+        timeCreated: 2004-07-01T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+fin:
+  id: 349
+  definition: >-
+    sijainnin määrittämiseen tarkoitettu järjestelmä, joka koostuu laitteisto-
+    ja tietoteknisistä komponenteista
+  language_code: fin
+  notes:
+    - >-
+      Esimerkiksi inertiaan perustuvat, integroidut, lineaariset ja optiset
+      paikannusjärjestelmät sekä satelliittipaikannusjärjestelmät.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19116:2019'
+    clause: '(E), 3.24'
+    link: 'https://www.iso.org/standard/70882.html'
+  lineage_source: 'ISO 19116:2004(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2004-07-01T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19116:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19116:2004 to ISO 19116:2019(E),
+    3.24. Lineage source added as ISO 19116:2004(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: paikannusjärjestelmä
+      normative_status: preferred
+  _revisions:
+    current: 62c5cb
+    tree:
+      62c5cb:
+        object:
+          id: 349
+          definition: >-
+            sijainnin määrittämiseen tarkoitettu järjestelmä, joka koostuu
+            laitteisto- ja tietoteknisistä komponenteista
+          language_code: fin
+          notes:
+            - >-
+              Esimerkiksi inertiaan perustuvat, integroidut, lineaariset ja
+              optiset paikannusjärjestelmät sekä
+              satelliittipaikannusjärjestelmät.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19116:2019'
+            clause: '(E), 3.24'
+            link: 'https://www.iso.org/standard/70882.html'
+          lineage_source: 'ISO 19116:2004(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2004-07-01T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19116:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19116:2004 to ISO
+            19116:2019(E), 3.24. Lineage source added as ISO 19116:2004(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: paikannusjärjestelmä
+              normative_status: preferred
+        parents: []
+        timeCreated: 2004-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+fra:
+  id: 349
+  definition: >-
+    système de composants instrumentaux et informatiques permettant de
+    déterminer la position
+  language_code: fra
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19116:2019'
+    clause: '(E), 3.24'
+    link: 'https://www.iso.org/standard/70882.html'
+  lineage_source: 'ISO 19116:2004(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2004-07-01T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19116:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19116:2004 to ISO 19116:2019(E),
+    3.24. Lineage source added as ISO 19116:2004(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: système de positionnement
+      normative_status: preferred
+  _revisions:
+    current: c31bb7
+    tree:
+      c31bb7:
+        object:
+          id: 349
+          definition: >-
+            système de composants instrumentaux et informatiques permettant de
+            déterminer la position
+          language_code: fra
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19116:2019'
+            clause: '(E), 3.24'
+            link: 'https://www.iso.org/standard/70882.html'
+          lineage_source: 'ISO 19116:2004(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2004-07-01T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19116:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19116:2004 to ISO
+            19116:2019(E), 3.24. Lineage source added as ISO 19116:2004(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: système de positionnement
+              normative_status: preferred
+        parents: []
+        timeCreated: 2004-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+deu:
+  id: 349
+  language_code: deu
+  notes:
+    - >-
+      Examples include inertial, integrated, linear, optical, and satellite
+      positioning systems.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19116:2019'
+    clause: '(E), 3.24'
+    link: 'https://www.iso.org/standard/70882.html'
+  lineage_source: 'ISO 19116:2004(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2004-07-01T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19116:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19116:2004 to ISO 19116:2019(E),
+    3.24. Lineage source added as ISO 19116:2004(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: Positionierungssystem
+      normative_status: preferred
+  _revisions:
+    current: 59eba4
+    tree:
+      59eba4:
+        object:
+          id: 349
+          language_code: deu
+          notes:
+            - >-
+              Examples include inertial, integrated, linear, optical, and
+              satellite positioning systems.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19116:2019'
+            clause: '(E), 3.24'
+            link: 'https://www.iso.org/standard/70882.html'
+          lineage_source: 'ISO 19116:2004(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2004-07-01T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19116:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19116:2004 to ISO
+            19116:2019(E), 3.24. Lineage source added as ISO 19116:2004(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: Positionierungssystem
+              normative_status: preferred
+        parents: []
+        timeCreated: 2004-07-01T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+kor:
+  id: 349
+  definition: 위치 측정을 위해 기구나 계산 컴포넌트를 갖는 시스템
+  language_code: kor
+  notes:
+    - '관성, 통합, 선형, 광학, 및 위성 측위 시스템이 포함된다.'
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19116:2019'
+    clause: '(E), 3.24'
+    link: 'https://www.iso.org/standard/70882.html'
+  lineage_source: 'ISO 19116:2004(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2004-07-01T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19116:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19116:2004 to ISO 19116:2019(E),
+    3.24. Lineage source added as ISO 19116:2004(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: 측위 시스템
+      normative_status: preferred
+  _revisions:
+    current: aa34c4
+    tree:
+      aa34c4:
+        object:
+          id: 349
+          definition: 위치 측정을 위해 기구나 계산 컴포넌트를 갖는 시스템
+          language_code: kor
+          notes:
+            - '관성, 통합, 선형, 광학, 및 위성 측위 시스템이 포함된다.'
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19116:2019'
+            clause: '(E), 3.24'
+            link: 'https://www.iso.org/standard/70882.html'
+          lineage_source: 'ISO 19116:2004(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2004-07-01T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19116:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19116:2004 to ISO
+            19116:2019(E), 3.24. Lineage source added as ISO 19116:2004(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: 측위 시스템
+              normative_status: preferred
+        parents: []
+        timeCreated: 2004-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 349
+  definition: >-
+    система инструментальных и вычислительных средств для определения
+    местоположения
+  language_code: rus
+  notes:
+    - >-
+      В качестве примера – инерциальные, интегрированные, линейные, оптические и
+      спутниковые системы позиционирования
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19116:2019'
+    clause: '(E), 3.24'
+    link: 'https://www.iso.org/standard/70882.html'
+  lineage_source: 'ISO 19116:2004(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2004-07-01T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19116:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19116:2004 to ISO 19116:2019(E),
+    3.24. Lineage source added as ISO 19116:2004(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: система позиционирования
+      normative_status: preferred
+  _revisions:
+    current: b2ae27
+    tree:
+      b2ae27:
+        object:
+          id: 349
+          definition: >-
+            система инструментальных и вычислительных средств для определения
+            местоположения
+          language_code: rus
+          notes:
+            - >-
+              В качестве примера – инерциальные, интегрированные, линейные,
+              оптические и спутниковые системы позиционирования
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19116:2019'
+            clause: '(E), 3.24'
+            link: 'https://www.iso.org/standard/70882.html'
+          lineage_source: 'ISO 19116:2004(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2004-07-01T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19116:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19116:2004 to ISO
+            19116:2019(E), 3.24. Lineage source added as ISO 19116:2004(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: система позиционирования
+              normative_status: preferred
+        parents: []
+        timeCreated: 2004-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 349
+  definition: >-
+    sistema de componentes instrumentales y computacionales para determinar la
+    posición
+  language_code: spa
+  notes:
+    - >-
+      Los ejemplos de estos sistemas de posicionamiento incluyen sistemas
+      inerciales, integrados, lineales y sistemas ópticos y de satélites de
+      posicionamiento.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19116:2019'
+    clause: '(E), 3.24'
+    link: 'https://www.iso.org/standard/70882.html'
+  lineage_source: 'ISO 19116:2004(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2004-07-01T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19116:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19116:2004 to ISO 19116:2019(E),
+    3.24. Lineage source added as ISO 19116:2004(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: sistema de posicionamiento
+      normative_status: preferred
+  _revisions:
+    current: c2750d
+    tree:
+      c2750d:
+        object:
+          id: 349
+          definition: >-
+            sistema de componentes instrumentales y computacionales para
+            determinar la posición
+          language_code: spa
+          notes:
+            - >-
+              Los ejemplos de estos sistemas de posicionamiento incluyen
+              sistemas inerciales, integrados, lineales y sistemas ópticos y de
+              satélites de posicionamiento.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19116:2019'
+            clause: '(E), 3.24'
+            link: 'https://www.iso.org/standard/70882.html'
+          lineage_source: 'ISO 19116:2004(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2004-07-01T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19116:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19116:2004 to ISO
+            19116:2019(E), 3.24. Lineage source added as ISO 19116:2004(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: sistema de posicionamiento
+              normative_status: preferred
+        parents: []
+        timeCreated: 2004-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+swe:
+  id: 349
+  definition: system för att kunna bestämma ett objekts läge
+  country_code: swe
+  language_code: swe
+  notes:
+    - >-
+      Examples include inertial, integrated, linear, optical, and satellite
+      positioning systems.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19116:2019'
+    clause: '(E), 3.24'
+    link: 'https://www.iso.org/standard/70882.html'
+  lineage_source: 'ISO 19116:2004(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2004-07-01T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19116:2019(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 19116:2004 to ISO 19116:2019(E),
+    3.24. Lineage source added as ISO 19116:2004(E)
+  release: '1'
+  terms:
+    - type: expression
+      designation: lägesbestämningssystem
+      normative_status: preferred
+  _revisions:
+    current: 241a4f
+    tree:
+      241a4f:
+        object:
+          id: 349
+          definition: system för att kunna bestämma ett objekts läge
+          country_code: swe
+          language_code: swe
+          notes:
+            - >-
+              Examples include inertial, integrated, linear, optical, and
+              satellite positioning systems.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19116:2019'
+            clause: '(E), 3.24'
+            link: 'https://www.iso.org/standard/70882.html'
+          lineage_source: 'ISO 19116:2004(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2004-07-01T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19116:2019(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 19116:2004 to ISO
+            19116:2019(E), 3.24. Lineage source added as ISO 19116:2004(E)
+          release: '1'
+          terms:
+            - type: expression
+              designation: lägesbestämningssystem
+              normative_status: preferred
+        parents: []
+        timeCreated: 2004-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

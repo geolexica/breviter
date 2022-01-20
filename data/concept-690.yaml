@@ -1,0 +1,601 @@
+term: tracking device
+termid: 690
+eng:
+  id: 690
+  definition: >-
+    device (tag) carried by a vehicle to allow it to determine its location or
+    to be sensed by external objects of known location
+  language_code: eng
+  notes:
+    - >-
+      The most common tracking devices are cell phones, GNSS chips, RFID (Radio
+      Frequency ID) tags, or printed tags which are scanable by optical sensors 
+      such as "bar codes".
+    - >-
+      The common usage of  "vehicle" means a "form of conveyance" or, more
+      simply "thing that conveys (carries) something else".  Thus, a tracked
+      object that carries a tracking device to allow it to be tracked is, by
+      definition, a conveyance or vehicle for that device.  Thus, a cell phone
+      that carries a GNSS device is the vehicle for that device, and the
+      traveller carrying the cell phone, allowing him to be tracked, is the
+      vehicle for the phone and all of its internal electronics.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19132:2007'
+    link: 'https://www.iso.org/standard/40601.html'
+  date_accepted: 2007-10-15T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: tracking device
+      normative_status: preferred
+  _revisions:
+    current: 9d94b4
+    tree:
+      9d94b4:
+        object:
+          id: 690
+          definition: >-
+            device (tag) carried by a vehicle to allow it to determine its
+            location or to be sensed by external objects of known location
+          language_code: eng
+          notes:
+            - >-
+              The most common tracking devices are cell phones, GNSS chips, RFID
+              (Radio Frequency ID) tags, or printed tags which are scanable by
+              optical sensors  such as "bar codes".
+            - >-
+              The common usage of  "vehicle" means a "form of conveyance" or,
+              more simply "thing that conveys (carries) something else".  Thus,
+              a tracked object that carries a tracking device to allow it to be
+              tracked is, by definition, a conveyance or vehicle for that
+              device.  Thus, a cell phone that carries a GNSS device is the
+              vehicle for that device, and the traveller carrying the cell
+              phone, allowing him to be tracked, is the vehicle for the phone
+              and all of its internal electronics.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19132:2007'
+            link: 'https://www.iso.org/standard/40601.html'
+          date_accepted: 2007-10-15T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: tracking device
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-10-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+ara:
+  id: 690
+  definition: >-
+    وسيلة ( وسم ) تحملها مركبة متنقلة لكي يمكن تحديد مكانها أو لكي يمكن رصدها
+    بالاستشعار عن طريق كائنات خارجية ذات أماكن معلومة
+  language_code: ara
+  notes:
+    - >-
+      أكثر أدوات المتابعة انتشاراً هي الهواتف الجوالة , ورقائق النظم الملاحية
+      الفضائية عبر الكرة الأرضية GNSS chips , ورموز التعريف الخاصة بالتعرُّف على
+      الترددات اللاسلكية أو رموز التعريف المطبوعة القابلة للمسح الضوئي بالمجسات
+      البصرية مثل "رموز القضبان المتوازية".
+    - >-
+      الاستعمال الشائع لمصطلح "مركبة" يشير إلى "شكل من أشكال وسيلة النقل" ، أو
+      ببساطة ، "شيء ينقل (أو يحمل) شيئا آخر". و هكذا فإن كيانا خاضعا للرصد
+      والمتابعة وهو يحمل أداة رصد تسهل عملية رصده ومتابعته هو، بالضرورة ، وسيلة
+      نقل أو مركبة لتلك الأداة. لذا فإن أي جهاز هاتف خلوي مجهز بأداة لنظام GNSS
+      لتحديد الأماكن يمثل المركبة الحاملة لتلك الأداة ، والشخص المتنقل أو
+      المتحرك الذي يحمل جهاز الهاتف الخلوي، الذي يسمح بمتابعته، هو أيضا بمثابة
+      المركبة التي تحمل جهاز الهاتف وجميع الإلكترونيات التي بداخله.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19132:2007'
+    link: 'https://www.iso.org/standard/40601.html'
+  date_accepted: 2007-10-15T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: وسيلة رصد ومتابعة
+      normative_status: preferred
+  _revisions:
+    current: 8a46fa
+    tree:
+      8a46fa:
+        object:
+          id: 690
+          definition: >-
+            وسيلة ( وسم ) تحملها مركبة متنقلة لكي يمكن تحديد مكانها أو لكي يمكن
+            رصدها بالاستشعار عن طريق كائنات خارجية ذات أماكن معلومة
+          language_code: ara
+          notes:
+            - >-
+              أكثر أدوات المتابعة انتشاراً هي الهواتف الجوالة , ورقائق النظم
+              الملاحية الفضائية عبر الكرة الأرضية GNSS chips , ورموز التعريف
+              الخاصة بالتعرُّف على الترددات اللاسلكية أو رموز التعريف المطبوعة
+              القابلة للمسح الضوئي بالمجسات البصرية مثل "رموز القضبان
+              المتوازية".
+            - >-
+              الاستعمال الشائع لمصطلح "مركبة" يشير إلى "شكل من أشكال وسيلة
+              النقل" ، أو ببساطة ، "شيء ينقل (أو يحمل) شيئا آخر". و هكذا فإن
+              كيانا خاضعا للرصد والمتابعة وهو يحمل أداة رصد تسهل عملية رصده
+              ومتابعته هو، بالضرورة ، وسيلة نقل أو مركبة لتلك الأداة. لذا فإن أي
+              جهاز هاتف خلوي مجهز بأداة لنظام GNSS لتحديد الأماكن يمثل المركبة
+              الحاملة لتلك الأداة ، والشخص المتنقل أو المتحرك الذي يحمل جهاز
+              الهاتف الخلوي، الذي يسمح بمتابعته، هو أيضا بمثابة المركبة التي
+              تحمل جهاز الهاتف وجميع الإلكترونيات التي بداخله.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19132:2007'
+            link: 'https://www.iso.org/standard/40601.html'
+          date_accepted: 2007-10-15T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: وسيلة رصد ومتابعة
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-10-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+zho:
+  id: 690
+  definition: 车辆所携带的能通过它来判断其位置或感知定位外部对象的装置(标记)。
+  language_code: zho
+  notes:
+    - '最常见的跟踪装置是手机，GNSS芯片, RFID (无线频率ID)标记,或通过光学传感器扫描感应的印刷标记,如"条形码"。'
+    - >-
+      "车辆"通常是指一种"运输工具的形式",或更简单地说是"运送(装载)物品的工具"。据此，带有跟踪装置的跟踪对象（以使它能被跟踪）就是一种运输工具或车辆。所以,带有GNSS的手机，就是一种跟踪装置,
+      同时携带了手机的旅客，如果允许被跟踪的话，那么相对于手机和手机内的所有内部电子而言，旅客就是“车辆”。
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19132:2007'
+    link: 'https://www.iso.org/standard/40601.html'
+  date_accepted: 2007-10-15T00:00:00.000Z
+  terms:
+    - type: expression
+      designation: 跟踪装置
+      normative_status: preferred
+  _revisions:
+    current: 8e2e66
+    tree:
+      8e2e66:
+        object:
+          id: 690
+          definition: 车辆所携带的能通过它来判断其位置或感知定位外部对象的装置(标记)。
+          language_code: zho
+          notes:
+            - '最常见的跟踪装置是手机，GNSS芯片, RFID (无线频率ID)标记,或通过光学传感器扫描感应的印刷标记,如"条形码"。'
+            - >-
+              "车辆"通常是指一种"运输工具的形式",或更简单地说是"运送(装载)物品的工具"。据此，带有跟踪装置的跟踪对象（以使它能被跟踪）就是一种运输工具或车辆。所以,带有GNSS的手机，就是一种跟踪装置,
+              同时携带了手机的旅客，如果允许被跟踪的话，那么相对于手机和手机内的所有内部电子而言，旅客就是“车辆”。
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19132:2007'
+            link: 'https://www.iso.org/standard/40601.html'
+          date_accepted: 2007-10-15T00:00:00.000Z
+          terms:
+            - type: expression
+              designation: 跟踪装置
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-10-15T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+fin:
+  id: 690
+  definition: >-
+    ajoneuvossa oleva laite (tunniste), jonka tarkoituksena on määrittää
+    ajoneuvon sijainti tai mahdollistaa, että sijainniltaan tunnetut
+    ulkopuoliset objektit havaisevat ajoneuvon sijainnin
+  language_code: fin
+  notes:
+    - >-
+      Yleisimpiä seurantalaitteita ovat matkapuhelimet, GNSS-sirut, RFID (Radio
+      Frequency ID) -tunnisteet tai painetut tunnisteet, esimerkiksi
+      viivakoodit, jotka voidaan skannata optisilla sensoreilla.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19132:2007'
+    link: 'https://www.iso.org/standard/40601.html'
+  lineage_source: 'Ei lähdettä, käännetty'
+  date_accepted: 2007-10-15T00:00:00.000Z
+  terms:
+    - type: expression
+      designation: seurantalaite
+      normative_status: preferred
+  _revisions:
+    current: 4de6e7
+    tree:
+      4de6e7:
+        object:
+          id: 690
+          definition: >-
+            ajoneuvossa oleva laite (tunniste), jonka tarkoituksena on määrittää
+            ajoneuvon sijainti tai mahdollistaa, että sijainniltaan tunnetut
+            ulkopuoliset objektit havaisevat ajoneuvon sijainnin
+          language_code: fin
+          notes:
+            - >-
+              Yleisimpiä seurantalaitteita ovat matkapuhelimet, GNSS-sirut, RFID
+              (Radio Frequency ID) -tunnisteet tai painetut tunnisteet,
+              esimerkiksi viivakoodit, jotka voidaan skannata optisilla
+              sensoreilla.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19132:2007'
+            link: 'https://www.iso.org/standard/40601.html'
+          lineage_source: 'Ei lähdettä, käännetty'
+          date_accepted: 2007-10-15T00:00:00.000Z
+          terms:
+            - type: expression
+              designation: seurantalaite
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-10-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+fra:
+  id: 690
+  definition: >-
+    dispositif (étiquette/tag) porté par un véhicule pour lui permettre de
+    déterminer sa localisation ou être capté par des objets externes
+    d'emplacement connu
+  language_code: fra
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: ISO 19132
+    link: 'https://www.iso.org/standard/40601.html'
+  lineage_source: ''
+  date_accepted: 2007-10-15T00:00:00.000Z
+  terms:
+    - type: expression
+      designation: dispositif de suivi
+      normative_status: preferred
+  _revisions:
+    current: 7dc177
+    tree:
+      7dc177:
+        object:
+          id: 690
+          definition: >-
+            dispositif (étiquette/tag) porté par un véhicule pour lui permettre
+            de déterminer sa localisation ou être capté par des objets externes
+            d'emplacement connu
+          language_code: fra
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: ISO 19132
+            link: 'https://www.iso.org/standard/40601.html'
+          lineage_source: ''
+          date_accepted: 2007-10-15T00:00:00.000Z
+          terms:
+            - type: expression
+              designation: dispositif de suivi
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-10-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+kor:
+  id: 690
+  definition: 잘 알려진 위치의 전화 등 외부 객체를 통해 감지하거나 위치 판단을 위해 차량을 통해 운반되는 장치(태그) 및 장치 내부 전자부품
+  language_code: kor
+  notes:
+    - >-
+      가장 일반적인 추적 장치는 휴대폰, GNSS 칩, RFID(라디오 주파수 ID) 태그 및 "바코드" 같은 광학 센서에 의해 스캔되는
+      프린트 태그가 있다.
+    - >-
+      "차량"은 일반적으로"운반 형태"이거나 더 간략하게는 "어떤 무언가를 운반하는 것"을 의미한다. 그러므로 용어 정의에 따르면, 추적을
+      허용하는 추적 장치 운반 객체는 그 장치를 운반하는 운반체 또는 차량이다. 이런 맥락에서 GNSS 장치를 운반하는 휴대폰도 그 장치에
+      대한 차량이며, 자신을 트랙할 수 있는 휴대폰을 소지하고 다니는 여행자 또한 그 장치에 대한 차량이다.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19132:2007'
+    link: 'https://www.iso.org/standard/40601.html'
+  lineage_source: KS X ISO 19132
+  date_accepted: 2009-12-29T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: 추적 장치
+      normative_status: preferred
+    - designation: 트래킹 장치
+      type: expression
+  _revisions:
+    current: 187a49
+    tree:
+      187a49:
+        object:
+          id: 690
+          definition: >-
+            잘 알려진 위치의 전화 등 외부 객체를 통해 감지하거나 위치 판단을 위해 차량을 통해 운반되는 장치(태그) 및 장치 내부
+            전자부품
+          language_code: kor
+          notes:
+            - >-
+              가장 일반적인 추적 장치는 휴대폰, GNSS 칩, RFID(라디오 주파수 ID) 태그 및 "바코드" 같은 광학 센서에
+              의해 스캔되는 프린트 태그가 있다.
+            - >-
+              "차량"은 일반적으로"운반 형태"이거나 더 간략하게는 "어떤 무언가를 운반하는 것"을 의미한다. 그러므로 용어 정의에
+              따르면, 추적을 허용하는 추적 장치 운반 객체는 그 장치를 운반하는 운반체 또는 차량이다. 이런 맥락에서 GNSS
+              장치를 운반하는 휴대폰도 그 장치에 대한 차량이며, 자신을 트랙할 수 있는 휴대폰을 소지하고 다니는 여행자 또한 그
+              장치에 대한 차량이다.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19132:2007'
+            link: 'https://www.iso.org/standard/40601.html'
+          lineage_source: KS X ISO 19132
+          date_accepted: 2009-12-29T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: 추적 장치
+              normative_status: preferred
+            - designation: 트래킹 장치
+              type: expression
+        parents: []
+        timeCreated: 2009-12-29T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 690
+  definition: >-
+    устройство (тег), установленное на транспортном средстве, позволяющее
+    определить его местонахождение или обнаружить его внешними по отношению к
+    нему датчиками с известным местоположением
+  language_code: rus
+  notes:
+    - >-
+      Наиболее общеизвестными устройствами являются сотовые телефоны, чипы
+      глобальной навигационной спутниковой системы (GNSS), радиочастотные метки
+      (RFID) или печатные метки, распознаваемые при помощи оптических сканеров,
+      таких как «штрих-коды»
+    - >-
+      Обычно термин  "транспортное средство" означает "форму транспортировки"
+      или, проще говоря, "вещь, которая транспортирует что-то". Так, объект, 
+      слежение за которым осуществляется с помощью трекера (прибора слежения),
+      по определению, является транспортным средством для этого устройства.
+      Сотовый телефон с устройством GNSS представляет собой транспортное
+      средство для этого устройства, а путешественник, имеющий при себе сотовый
+      телефон, является транспортным средством для этого телефона и всей его
+      внутренней электроники
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19132:2007'
+    link: 'https://www.iso.org/standard/40601.html'
+  lineage_source: Internet
+  date_accepted: 2007-10-15T00:00:00.000Z
+  terms:
+    - type: expression
+      designation: 'трекер [прибор слежения]'
+      normative_status: preferred
+  _revisions:
+    current: a053b3
+    tree:
+      a053b3:
+        object:
+          id: 690
+          definition: >-
+            устройство (тег), установленное на транспортном средстве,
+            позволяющее определить его местонахождение или обнаружить его
+            внешними по отношению к нему датчиками с известным местоположением
+          language_code: rus
+          notes:
+            - >-
+              Наиболее общеизвестными устройствами являются сотовые телефоны,
+              чипы глобальной навигационной спутниковой системы (GNSS),
+              радиочастотные метки (RFID) или печатные метки, распознаваемые при
+              помощи оптических сканеров, таких как «штрих-коды»
+            - >-
+              Обычно термин  "транспортное средство" означает "форму
+              транспортировки" или, проще говоря, "вещь, которая транспортирует
+              что-то". Так, объект,  слежение за которым осуществляется с
+              помощью трекера (прибора слежения), по определению, является
+              транспортным средством для этого устройства. Сотовый телефон с
+              устройством GNSS представляет собой транспортное средство для
+              этого устройства, а путешественник, имеющий при себе сотовый
+              телефон, является транспортным средством для этого телефона и всей
+              его внутренней электроники
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19132:2007'
+            link: 'https://www.iso.org/standard/40601.html'
+          lineage_source: Internet
+          date_accepted: 2007-10-15T00:00:00.000Z
+          terms:
+            - type: expression
+              designation: 'трекер [прибор слежения]'
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-10-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 690
+  definition: >-
+    dispositivo (etiqueta) transportado por un vehículo que le permite
+    determinar su localización o ser detectado por objetos externos cuya
+    localización se conoce
+  language_code: spa
+  notes:
+    - >-
+      Los dispositivos de localización más comunes son los teléfonos móviles,
+      circuitos GNSS (GPS), etiquetas RFID (IDentificación mediante Radio
+      Frecuencia) o etiquetas impresas escaneables por sensores ópticos, tales
+      como "códigos de barras".
+    - >-
+      El término "vehículo" se refiere genéricamente a una "forma de transporte"
+      o, más sencillamente "lo que transporta (lleva) otra cosa". Por lo tanto,
+      un objeto seguido que lleva un dispositivo de seguimiento para que pueda
+      realizarse el seguimiento es, por definición, un transporte o vehículo
+      para ese dispositivo. Así, un teléfono móvil que lleva un dispositivo GNSS
+      es el vehículo para ese dispositivo, y el viajero que lleva el teléfono
+      móvil, permitiéndole ser seguido, es el vehículo para el teléfono y todos
+      sus componentes electrónicos internos.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19132:2007'
+    link: 'https://www.iso.org/standard/40601.html'
+  date_accepted: 2007-10-15T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: dispositivo de rastreo
+      normative_status: preferred
+  _revisions:
+    current: 05df7d
+    tree:
+      05df7d:
+        object:
+          id: 690
+          definition: >-
+            dispositivo (etiqueta) transportado por un vehículo que le permite
+            determinar su localización o ser detectado por objetos externos cuya
+            localización se conoce
+          language_code: spa
+          notes:
+            - >-
+              Los dispositivos de localización más comunes son los teléfonos
+              móviles, circuitos GNSS (GPS), etiquetas RFID (IDentificación
+              mediante Radio Frecuencia) o etiquetas impresas escaneables por
+              sensores ópticos, tales como "códigos de barras".
+            - >-
+              El término "vehículo" se refiere genéricamente a una "forma de
+              transporte" o, más sencillamente "lo que transporta (lleva) otra
+              cosa". Por lo tanto, un objeto seguido que lleva un dispositivo de
+              seguimiento para que pueda realizarse el seguimiento es, por
+              definición, un transporte o vehículo para ese dispositivo. Así, un
+              teléfono móvil que lleva un dispositivo GNSS es el vehículo para
+              ese dispositivo, y el viajero que lleva el teléfono móvil,
+              permitiéndole ser seguido, es el vehículo para el teléfono y todos
+              sus componentes electrónicos internos.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19132:2007'
+            link: 'https://www.iso.org/standard/40601.html'
+          date_accepted: 2007-10-15T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: dispositivo de rastreo
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-10-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+swe:
+  id: 690
+  definition: |-
+    utrustning som kan placeras i fordon, på föremål
+    eller levande varelser för att möjliggöra lokalisering
+  country_code: swe
+  language_code: swe
+  notes:
+    - >-
+      The most common tracking devices are cell phones, GNSS chips, RFID (Radio
+      Frequency ID) tags, or printed tags which are scanable by optical sensors 
+      such as "bar codes".
+    - >-
+      The common usage of  "vehicle" means a "form of conveyance" or, more
+      simply "thing that conveys (carries) something else".  Thus, a tracked
+      object that carries a tracking device to allow it to be tracked is, by
+      definition, a conveyance or vehicle for that device.  Thus, a cell phone
+      that carries a GNSS device is the vehicle for that device, and the
+      traveller carrying the cell phone, allowing him to be tracked, is the
+      vehicle for the phone and all of its internal electronics.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19132:2007'
+    link: 'https://www.iso.org/standard/40601.html'
+  lineage_source: (Type reference to national language document)
+  date_accepted: 2007-10-15T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: spårsändare
+      normative_status: preferred
+  _revisions:
+    current: 06eabf
+    tree:
+      06eabf:
+        object:
+          id: 690
+          definition: |-
+            utrustning som kan placeras i fordon, på föremål
+            eller levande varelser för att möjliggöra lokalisering
+          country_code: swe
+          language_code: swe
+          notes:
+            - >-
+              The most common tracking devices are cell phones, GNSS chips, RFID
+              (Radio Frequency ID) tags, or printed tags which are scanable by
+              optical sensors  such as "bar codes".
+            - >-
+              The common usage of  "vehicle" means a "form of conveyance" or,
+              more simply "thing that conveys (carries) something else".  Thus,
+              a tracked object that carries a tracking device to allow it to be
+              tracked is, by definition, a conveyance or vehicle for that
+              device.  Thus, a cell phone that carries a GNSS device is the
+              vehicle for that device, and the traveller carrying the cell
+              phone, allowing him to be tracked, is the vehicle for the phone
+              and all of its internal electronics.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19132:2007'
+            link: 'https://www.iso.org/standard/40601.html'
+          lineage_source: (Type reference to national language document)
+          date_accepted: 2007-10-15T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: spårsändare
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-10-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

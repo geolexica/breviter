@@ -1,0 +1,788 @@
+term: engineering viewpoint
+termid: 157
+eng:
+  id: 157
+  definition: >-
+    viewpoint on an ODP system and its environment that focuses on the
+    mechanisms and functions required to support distributed interaction between
+    objects in the system
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO/IEC 10746-3:2009'
+    clause: 4.1.1.4
+    link: 'https://www.iso.org/standard/55724.html'
+  lineage_source: 'ISO 19119:2005'
+  lineage_source_similarity: 1
+  date_accepted: 2005-02-15T00:00:00.000Z
+  review_date: 2012-08-11T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2016-01-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19119:2016'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO/IEC 10746-3:1996 to ISO/IEC
+    10746-3:2009, 4.1.1.4. Lineage source added as ISO 19119:2005
+  release: '1'
+  terms:
+    - type: expression
+      designation: engineering viewpoint
+      normative_status: preferred
+  _revisions:
+    current: 3ab3e2
+    tree:
+      3ab3e2:
+        object:
+          id: 157
+          definition: >-
+            viewpoint on an ODP system and its environment that focuses on the
+            mechanisms and functions required to support distributed interaction
+            between objects in the system
+          language_code: eng
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO/IEC 10746-3:2009'
+            clause: 4.1.1.4
+            link: 'https://www.iso.org/standard/55724.html'
+          lineage_source: 'ISO 19119:2005'
+          lineage_source_similarity: 1
+          date_accepted: 2005-02-15T00:00:00.000Z
+          review_date: 2012-08-11T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2016-01-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19119:2016'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO/IEC 10746-3:1996 to ISO/IEC
+            10746-3:2009, 4.1.1.4. Lineage source added as ISO 19119:2005
+          release: '1'
+          terms:
+            - type: expression
+              designation: engineering viewpoint
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+ara:
+  id: 157
+  definition: >-
+    وجهة نظر على نظام المعالجه الموزعة المفتوح وبيئته تركز على الآليات و الوظائف
+    اللازمه لمساندة التفاعل الموزع بين الكائنات التي يحتوي عليها النظام
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO/IEC 10746-3:2009'
+    clause: 4.1.1.4
+    link: 'https://www.iso.org/standard/55724.html'
+  lineage_source: 'ISO 19119:2005'
+  lineage_source_similarity: 1
+  date_accepted: 2005-02-15T00:00:00.000Z
+  review_date: 2012-08-11T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2016-01-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19119:2016'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO/IEC 10746-3:1996 to ISO/IEC
+    10746-3:2009, 4.1.1.4. Lineage source added as ISO 19119:2005
+  release: '1'
+  terms:
+    - type: expression
+      designation: وجهة نظر هندسيه
+      normative_status: preferred
+  _revisions:
+    current: '494324'
+    tree:
+      '494324':
+        object:
+          id: 157
+          definition: >-
+            وجهة نظر على نظام المعالجه الموزعة المفتوح وبيئته تركز على الآليات و
+            الوظائف اللازمه لمساندة التفاعل الموزع بين الكائنات التي يحتوي عليها
+            النظام
+          language_code: ara
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO/IEC 10746-3:2009'
+            clause: 4.1.1.4
+            link: 'https://www.iso.org/standard/55724.html'
+          lineage_source: 'ISO 19119:2005'
+          lineage_source_similarity: 1
+          date_accepted: 2005-02-15T00:00:00.000Z
+          review_date: 2012-08-11T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2016-01-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19119:2016'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO/IEC 10746-3:1996 to ISO/IEC
+            10746-3:2009, 4.1.1.4. Lineage source added as ISO 19119:2005
+          release: '1'
+          terms:
+            - type: expression
+              designation: وجهة نظر هندسيه
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+zho:
+  id: 157
+  definition: 将重点放在机制和功能需求上，支持分布系统间对象交互的基于ODP系统及其环境的视角。
+  language_code: zho
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO/IEC 10746-3:2009'
+    clause: 4.1.1.4
+    link: 'https://www.iso.org/standard/55724.html'
+  lineage_source: 'ISO 19119:2005'
+  lineage_source_similarity: 1
+  date_accepted: 2005-02-15T00:00:00.000Z
+  review_date: 2012-08-11T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2016-01-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19119:2016'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO/IEC 10746-3:1996 to ISO/IEC
+    10746-3:2009, 4.1.1.4. Lineage source added as ISO 19119:2005
+  release: '1'
+  terms:
+    - type: expression
+      designation: 工程视角
+      normative_status: preferred
+  _revisions:
+    current: 6ea83e
+    tree:
+      6ea83e:
+        object:
+          id: 157
+          definition: 将重点放在机制和功能需求上，支持分布系统间对象交互的基于ODP系统及其环境的视角。
+          language_code: zho
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO/IEC 10746-3:2009'
+            clause: 4.1.1.4
+            link: 'https://www.iso.org/standard/55724.html'
+          lineage_source: 'ISO 19119:2005'
+          lineage_source_similarity: 1
+          date_accepted: 2005-02-15T00:00:00.000Z
+          review_date: 2012-08-11T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2016-01-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19119:2016'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO/IEC 10746-3:1996 to ISO/IEC
+            10746-3:2009, 4.1.1.4. Lineage source added as ISO 19119:2005
+          release: '1'
+          terms:
+            - type: expression
+              designation: 工程视角
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-02-15T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+dan:
+  id: 157
+  definition: >-
+    synsvinkel på et ODP-system og dets omgivelser, som fokuserer på de
+    mekanismer og funktioner, der er nødvendigt for at understøtte distribueret
+    interaktion mellem objekter i systemet
+  language_code: dan
+  notes: []
+  examples: []
+  authoritative_source:
+    ref: 'ISO/IEC 10746-3:2009'
+    clause: 4.1.1.4
+    link: 'https://www.iso.org/standard/55724.html'
+  lineage_source: 'ISO 19119:2005'
+  lineage_source_similarity: 1
+  date_accepted: 2005-02-15T00:00:00.000Z
+  review_date: 2012-08-11T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2016-01-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19119:2016'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO/IEC 10746-3:1996 to ISO/IEC
+    10746-3:2009, 4.1.1.4. Lineage source added as ISO 19119:2005
+  release: '1'
+  terms:
+    - type: expression
+      designation: 'synsvinkel, teknisk'
+      normative_status: null
+  _revisions:
+    current: 891da0
+    tree:
+      891da0:
+        object:
+          id: 157
+          definition: >-
+            synsvinkel på et ODP-system og dets omgivelser, som fokuserer på de
+            mekanismer og funktioner, der er nødvendigt for at understøtte
+            distribueret interaktion mellem objekter i systemet
+          language_code: dan
+          notes: []
+          examples: []
+          authoritative_source:
+            ref: 'ISO/IEC 10746-3:2009'
+            clause: 4.1.1.4
+            link: 'https://www.iso.org/standard/55724.html'
+          lineage_source: 'ISO 19119:2005'
+          lineage_source_similarity: 1
+          date_accepted: 2005-02-15T00:00:00.000Z
+          review_date: 2012-08-11T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2016-01-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19119:2016'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO/IEC 10746-3:1996 to ISO/IEC
+            10746-3:2009, 4.1.1.4. Lineage source added as ISO 19119:2005
+          release: '1'
+          terms:
+            - type: expression
+              designation: 'synsvinkel, teknisk'
+              normative_status: null
+        parents: []
+        timeCreated: 2005-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+fin:
+  id: 157
+  definition: >-
+    ODP (Open Distributed Processing, avoin hajautettu suoritus) -järjestelmään
+    ja sen ympäristöön kohdistuva näkökulma, joka keskittyy tarkastelemaan
+    järjestelmän objektien välisen hajautetun vuorovaikutuksen tukemiseen
+    tarvittavia mekanismeja ja toimintoja
+  language_code: fin
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO/IEC 10746-3:2009'
+    clause: 4.1.1.4
+    link: 'https://www.iso.org/standard/55724.html'
+  lineage_source: 'ISO 19119:2005'
+  lineage_source_similarity: 1
+  date_accepted: 2005-02-15T00:00:00.000Z
+  review_date: 2012-08-11T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2016-01-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19119:2016'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO/IEC 10746-3:1996 to ISO/IEC
+    10746-3:2009, 4.1.1.4. Lineage source added as ISO 19119:2005
+  release: '1'
+  terms:
+    - type: expression
+      designation: toteutusnäkökulma
+      normative_status: preferred
+  _revisions:
+    current: 1a9e5a
+    tree:
+      1a9e5a:
+        object:
+          id: 157
+          definition: >-
+            ODP (Open Distributed Processing, avoin hajautettu suoritus)
+            -järjestelmään ja sen ympäristöön kohdistuva näkökulma, joka
+            keskittyy tarkastelemaan järjestelmän objektien välisen hajautetun
+            vuorovaikutuksen tukemiseen tarvittavia mekanismeja ja toimintoja
+          language_code: fin
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO/IEC 10746-3:2009'
+            clause: 4.1.1.4
+            link: 'https://www.iso.org/standard/55724.html'
+          lineage_source: 'ISO 19119:2005'
+          lineage_source_similarity: 1
+          date_accepted: 2005-02-15T00:00:00.000Z
+          review_date: 2012-08-11T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2016-01-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19119:2016'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO/IEC 10746-3:1996 to ISO/IEC
+            10746-3:2009, 4.1.1.4. Lineage source added as ISO 19119:2005
+          release: '1'
+          terms:
+            - type: expression
+              designation: toteutusnäkökulma
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+fra:
+  id: 157
+  definition: >-
+    point de vue sur un système ODP et son environnement qui se concentre sur
+    les mécanismes et les fonctions exigés pour supporter l'interaction
+    distribuée entre objets du système
+  language_code: fra
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO/IEC 10746-3:2009'
+    clause: 4.1.1.4
+    link: 'https://www.iso.org/standard/55724.html'
+  lineage_source: 'ISO 19119:2005'
+  lineage_source_similarity: 1
+  date_accepted: 2005-02-15T00:00:00.000Z
+  review_date: 2012-08-11T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2016-01-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19119:2016'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO/IEC 10746-3:1996 to ISO/IEC
+    10746-3:2009, 4.1.1.4. Lineage source added as ISO 19119:2005
+  release: '1'
+  terms:
+    - type: expression
+      designation: point de vue d'ingénierie
+      normative_status: preferred
+  _revisions:
+    current: 43f823
+    tree:
+      43f823:
+        object:
+          id: 157
+          definition: >-
+            point de vue sur un système ODP et son environnement qui se
+            concentre sur les mécanismes et les fonctions exigés pour supporter
+            l'interaction distribuée entre objets du système
+          language_code: fra
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO/IEC 10746-3:2009'
+            clause: 4.1.1.4
+            link: 'https://www.iso.org/standard/55724.html'
+          lineage_source: 'ISO 19119:2005'
+          lineage_source_similarity: 1
+          date_accepted: 2005-02-15T00:00:00.000Z
+          review_date: 2012-08-11T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2016-01-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19119:2016'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO/IEC 10746-3:1996 to ISO/IEC
+            10746-3:2009, 4.1.1.4. Lineage source added as ISO 19119:2005
+          release: '1'
+          terms:
+            - type: expression
+              designation: point de vue d'ingénierie
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+deu:
+  id: 157
+  language_code: deu
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO/IEC 10746-3:2009'
+    clause: 4.1.1.4
+    link: 'https://www.iso.org/standard/55724.html'
+  lineage_source: 'ISO 19119:2005'
+  lineage_source_similarity: 1
+  date_accepted: 2005-02-15T00:00:00.000Z
+  review_date: 2012-08-11T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2016-01-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19119:2016'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO/IEC 10746-3:1996 to ISO/IEC
+    10746-3:2009, 4.1.1.4. Lineage source added as ISO 19119:2005
+  release: '1'
+  terms:
+    - type: expression
+      designation: technische Sicht
+      normative_status: preferred
+  _revisions:
+    current: 01c583
+    tree:
+      01c583:
+        object:
+          id: 157
+          language_code: deu
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO/IEC 10746-3:2009'
+            clause: 4.1.1.4
+            link: 'https://www.iso.org/standard/55724.html'
+          lineage_source: 'ISO 19119:2005'
+          lineage_source_similarity: 1
+          date_accepted: 2005-02-15T00:00:00.000Z
+          review_date: 2012-08-11T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2016-01-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19119:2016'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO/IEC 10746-3:1996 to ISO/IEC
+            10746-3:2009, 4.1.1.4. Lineage source added as ISO 19119:2005
+          release: '1'
+          terms:
+            - type: expression
+              designation: technische Sicht
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-02-15T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+kor:
+  id: 157
+  definition: 시스템에서 객체들 간의 분산 상호 작용을 위해 요구되는 함수와 메카니즘에 초점을 둔 개방형 분산 처리 시스템과 그 환경에 대한 관점
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO/IEC 10746-3:2009'
+    clause: 4.1.1.4
+    link: 'https://www.iso.org/standard/55724.html'
+  lineage_source: 'ISO 19119:2005'
+  lineage_source_similarity: 1
+  date_accepted: 2005-02-15T00:00:00.000Z
+  review_date: 2012-08-11T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2016-01-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19119:2016'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO/IEC 10746-3:1996 to ISO/IEC
+    10746-3:2009, 4.1.1.4. Lineage source added as ISO 19119:2005
+  release: '1'
+  terms:
+    - type: expression
+      designation: 공학 관점
+      normative_status: preferred
+  _revisions:
+    current: a8adf3
+    tree:
+      a8adf3:
+        object:
+          id: 157
+          definition: >-
+            시스템에서 객체들 간의 분산 상호 작용을 위해 요구되는 함수와 메카니즘에 초점을 둔 개방형 분산 처리 시스템과 그 환경에
+            대한 관점
+          language_code: kor
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO/IEC 10746-3:2009'
+            clause: 4.1.1.4
+            link: 'https://www.iso.org/standard/55724.html'
+          lineage_source: 'ISO 19119:2005'
+          lineage_source_similarity: 1
+          date_accepted: 2005-02-15T00:00:00.000Z
+          review_date: 2012-08-11T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2016-01-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19119:2016'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO/IEC 10746-3:1996 to ISO/IEC
+            10746-3:2009, 4.1.1.4. Lineage source added as ISO 19119:2005
+          release: '1'
+          terms:
+            - type: expression
+              designation: 공학 관점
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+pol:
+  id: 157
+  definition: >-
+    punkt widzenia (4.7) na dany system ODP oraz jego otoczenie, który skupia
+    się na mechanizmach i funkcjach potrzebnych do wsparcia rozproszonej
+    interakcji pomiędzy obiektami systemu
+  language_code: pol
+  notes: []
+  examples: []
+  authoritative_source:
+    ref: 'ISO/IEC 10746-3:2009'
+    clause: 4.1.1.4
+    link: 'https://www.iso.org/standard/55724.html'
+  lineage_source: 'ISO 19119:2005'
+  lineage_source_similarity: 1
+  date_accepted: 2005-02-15T00:00:00.000Z
+  review_date: 2012-08-11T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2016-01-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19119:2016'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO/IEC 10746-3:1996 to ISO/IEC
+    10746-3:2009, 4.1.1.4. Lineage source added as ISO 19119:2005
+  release: '1'
+  terms:
+    - type: expression
+      designation: inżynierski   punkt widzenia
+      normative_status: preferred
+  _revisions:
+    current: '995937'
+    tree:
+      '995937':
+        object:
+          id: 157
+          definition: >-
+            punkt widzenia (4.7) na dany system ODP oraz jego otoczenie, który
+            skupia się na mechanizmach i funkcjach potrzebnych do wsparcia
+            rozproszonej interakcji pomiędzy obiektami systemu
+          language_code: pol
+          notes: []
+          examples: []
+          authoritative_source:
+            ref: 'ISO/IEC 10746-3:2009'
+            clause: 4.1.1.4
+            link: 'https://www.iso.org/standard/55724.html'
+          lineage_source: 'ISO 19119:2005'
+          lineage_source_similarity: 1
+          date_accepted: 2005-02-15T00:00:00.000Z
+          review_date: 2012-08-11T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2016-01-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19119:2016'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO/IEC 10746-3:1996 to ISO/IEC
+            10746-3:2009, 4.1.1.4. Lineage source added as ISO 19119:2005
+          release: '1'
+          terms:
+            - type: expression
+              designation: inżynierski   punkt widzenia
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 157
+  definition: >-
+    аспект ODP-системы и среды ее функционирования, выделяющий механизмы и
+    функции, нужные для поддержки взаимодействия объектов в этой распределенной
+    системе
+  language_code: rus
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO/IEC 10746-3:1996'
+    link: 'https://www.iso.org/standard/20697.html'
+  lineage_source: Internet
+  date_accepted: 2005-02-15T00:00:00.000Z
+  terms:
+    - type: expression
+      designation: инженерный аспект
+      normative_status: preferred
+  _revisions:
+    current: d14d09
+    tree:
+      d14d09:
+        object:
+          id: 157
+          definition: >-
+            аспект ODP-системы и среды ее функционирования, выделяющий механизмы
+            и функции, нужные для поддержки взаимодействия объектов в этой
+            распределенной системе
+          language_code: rus
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO/IEC 10746-3:1996'
+            link: 'https://www.iso.org/standard/20697.html'
+          lineage_source: Internet
+          date_accepted: 2005-02-15T00:00:00.000Z
+          terms:
+            - type: expression
+              designation: инженерный аспект
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 157
+  definition: >-
+    punto de vista de un sistema ODP y su entorno que se centra en los
+    mecanismos y funciones requeridas para soportar la interacción distribuida
+    entre los objetos del sistema
+  language_code: spa
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO/IEC 10746-3:2009'
+    clause: 4.1.1.4
+    link: 'https://www.iso.org/standard/55724.html'
+  lineage_source: 'ISO 19119:2005'
+  lineage_source_similarity: 1
+  date_accepted: 2005-02-15T00:00:00.000Z
+  review_date: 2012-08-11T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2016-01-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19119:2016'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO/IEC 10746-3:1996 to ISO/IEC
+    10746-3:2009, 4.1.1.4. Lineage source added as ISO 19119:2005
+  release: '1'
+  terms:
+    - type: expression
+      designation: punto de vista de la ingeniería
+      normative_status: preferred
+  _revisions:
+    current: 499eb3
+    tree:
+      499eb3:
+        object:
+          id: 157
+          definition: >-
+            punto de vista de un sistema ODP y su entorno que se centra en los
+            mecanismos y funciones requeridas para soportar la interacción
+            distribuida entre los objetos del sistema
+          language_code: spa
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO/IEC 10746-3:2009'
+            clause: 4.1.1.4
+            link: 'https://www.iso.org/standard/55724.html'
+          lineage_source: 'ISO 19119:2005'
+          lineage_source_similarity: 1
+          date_accepted: 2005-02-15T00:00:00.000Z
+          review_date: 2012-08-11T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2016-01-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19119:2016'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO/IEC 10746-3:1996 to ISO/IEC
+            10746-3:2009, 4.1.1.4. Lineage source added as ISO 19119:2005
+          release: '1'
+          terms:
+            - type: expression
+              designation: punto de vista de la ingeniería
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+swe:
+  id: 157
+  definition: >-
+    perspektiv på ett system och dess omgivning som fokuserar på mekanismer och
+    funktioner som behövs för att stödja samverkan mellan systemdelar
+  country_code: swe
+  language_code: swe
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO/IEC 10746-3:2009'
+    clause: 4.1.1.4
+    link: 'https://www.iso.org/standard/55724.html'
+  lineage_source: 'ISO 19119:2005'
+  lineage_source_similarity: 1
+  date_accepted: 2005-02-15T00:00:00.000Z
+  review_date: 2012-08-11T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2016-01-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19119:2016'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO/IEC 10746-3:1996 to ISO/IEC
+    10746-3:2009, 4.1.1.4. Lineage source added as ISO 19119:2005
+  release: '1'
+  terms:
+    - type: expression
+      designation: samverkansperspektiv
+      normative_status: preferred
+  _revisions:
+    current: d5613f
+    tree:
+      d5613f:
+        object:
+          id: 157
+          definition: >-
+            perspektiv på ett system och dess omgivning som fokuserar på
+            mekanismer och funktioner som behövs för att stödja samverkan mellan
+            systemdelar
+          country_code: swe
+          language_code: swe
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO/IEC 10746-3:2009'
+            clause: 4.1.1.4
+            link: 'https://www.iso.org/standard/55724.html'
+          lineage_source: 'ISO 19119:2005'
+          lineage_source_similarity: 1
+          date_accepted: 2005-02-15T00:00:00.000Z
+          review_date: 2012-08-11T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2016-01-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19119:2016'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO/IEC 10746-3:1996 to ISO/IEC
+            10746-3:2009, 4.1.1.4. Lineage source added as ISO 19119:2005
+          release: '1'
+          terms:
+            - type: expression
+              designation: samverkansperspektiv
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

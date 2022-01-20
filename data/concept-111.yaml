@@ -1,0 +1,556 @@
+term: data product specification
+termid: 111
+eng:
+  id: 111
+  definition: >-
+    detailed description of a dataset or dataset series together with additional
+    information that will enable it to be created, supplied to and used by
+    another party
+  language_code: eng
+  notes:
+    - >-
+      A data product specification provides a description of the universe of
+      discourse and a specification for mapping the universe of discourse to a
+      dataset. It may be used for production, sales, end-use or other purposes.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19131:2007'
+    link: 'https://www.iso.org/standard/36760.html'
+  date_accepted: 2007-04-15T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: data product specification
+      normative_status: preferred
+  _revisions:
+    current: ebe000
+    tree:
+      ebe000:
+        object:
+          id: 111
+          definition: >-
+            detailed description of a dataset or dataset series together with
+            additional information that will enable it to be created, supplied
+            to and used by another party
+          language_code: eng
+          notes:
+            - >-
+              A data product specification provides a description of the
+              universe of discourse and a specification for mapping the universe
+              of discourse to a dataset. It may be used for production, sales,
+              end-use or other purposes.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19131:2007'
+            link: 'https://www.iso.org/standard/36760.html'
+          date_accepted: 2007-04-15T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: data product specification
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-04-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+ara:
+  id: 111
+  definition: >-
+    وصف تفصيلي لمجموعة بيانات أو سلسلة مجموعة بيانات مع معلومات إضافية تمكن من
+    إنشائها وتقديمها إلى طرف آخر لاستخدامها
+  language_code: ara
+  notes:
+    - >-
+      مواصفات منتح البيانات تحتوي على وصف المجال المستهدف بالبحث أو الاهتمام
+      ومواصفات لتمثيل المجال المستهدف بالبحث أو الاهتمام وفقاً لمجموعة بيانات
+      معينة. ويمكن استخدام هذه المواصفات للإنتاج , أو للمبيعات , أو للاستخدام
+      النهائي أو لأغراض أخرى.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19131:2007'
+    link: 'https://www.iso.org/standard/36760.html'
+  date_accepted: 2007-04-15T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: مواصفات منتج بيانات
+      normative_status: preferred
+  _revisions:
+    current: bccd6e
+    tree:
+      bccd6e:
+        object:
+          id: 111
+          definition: >-
+            وصف تفصيلي لمجموعة بيانات أو سلسلة مجموعة بيانات مع معلومات إضافية
+            تمكن من إنشائها وتقديمها إلى طرف آخر لاستخدامها
+          language_code: ara
+          notes:
+            - >-
+              مواصفات منتح البيانات تحتوي على وصف المجال المستهدف بالبحث أو
+              الاهتمام ومواصفات لتمثيل المجال المستهدف بالبحث أو الاهتمام وفقاً
+              لمجموعة بيانات معينة. ويمكن استخدام هذه المواصفات للإنتاج , أو
+              للمبيعات , أو للاستخدام النهائي أو لأغراض أخرى.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19131:2007'
+            link: 'https://www.iso.org/standard/36760.html'
+          date_accepted: 2007-04-15T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: مواصفات منتج بيانات
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-04-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+zho:
+  id: 111
+  definition: 数据集或数据集系列的详细描述及补充说明，从而使其他方能够创建、提供和使用数据集或数据集系列。
+  language_code: zho
+  notes:
+    - 数据产品规范提供了对论域的说明，以及将论域映射到数据集的详细描述。可用于生产、销售、最终应用或其他目的。
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19131:2007'
+    link: 'https://www.iso.org/standard/36760.html'
+  date_accepted: 2007-04-15T00:00:00.000Z
+  terms:
+    - type: expression
+      designation: 数据产品规范
+      normative_status: preferred
+  _revisions:
+    current: 4bdd86
+    tree:
+      4bdd86:
+        object:
+          id: 111
+          definition: 数据集或数据集系列的详细描述及补充说明，从而使其他方能够创建、提供和使用数据集或数据集系列。
+          language_code: zho
+          notes:
+            - 数据产品规范提供了对论域的说明，以及将论域映射到数据集的详细描述。可用于生产、销售、最终应用或其他目的。
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19131:2007'
+            link: 'https://www.iso.org/standard/36760.html'
+          date_accepted: 2007-04-15T00:00:00.000Z
+          terms:
+            - type: expression
+              designation: 数据产品规范
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-04-15T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+fin:
+  id: 111
+  definition: >-
+    dokumentti, jossa tietotuote kuvataan yksityiskohtaisesti tuotannon,
+    myynnin, käytön tai jonkin muun toiminnan tarpeisiin
+  language_code: fin
+  notes:
+    - >-
+      Tietotuotemäärittely sisältää kuvauksen kohdemaailmasta ja tiedot
+      kohdemaailman kuvaamisesta tietoaineistoon. Sitä voidaan hyödyntää mm.
+      tuotannon, myynnin ja loppukäytön yhteydessä.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19131:2007'
+    link: 'https://www.iso.org/standard/36760.html'
+  lineage_source: 'Sanastokeskus TSK: Geoinformatiikan sanasto (TSK 42), 2011'
+  date_accepted: 2007-04-15T00:00:00.000Z
+  terms:
+    - type: expression
+      designation: tietotuotemäärittely
+      normative_status: preferred
+    - designation: tietotuoteseloste
+      type: expression
+  _revisions:
+    current: db3e2e
+    tree:
+      db3e2e:
+        object:
+          id: 111
+          definition: >-
+            dokumentti, jossa tietotuote kuvataan yksityiskohtaisesti tuotannon,
+            myynnin, käytön tai jonkin muun toiminnan tarpeisiin
+          language_code: fin
+          notes:
+            - >-
+              Tietotuotemäärittely sisältää kuvauksen kohdemaailmasta ja tiedot
+              kohdemaailman kuvaamisesta tietoaineistoon. Sitä voidaan hyödyntää
+              mm. tuotannon, myynnin ja loppukäytön yhteydessä.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19131:2007'
+            link: 'https://www.iso.org/standard/36760.html'
+          lineage_source: 'Sanastokeskus TSK: Geoinformatiikan sanasto (TSK 42), 2011'
+          date_accepted: 2007-04-15T00:00:00.000Z
+          terms:
+            - type: expression
+              designation: tietotuotemäärittely
+              normative_status: preferred
+            - designation: tietotuoteseloste
+              type: expression
+        parents: []
+        timeCreated: 2007-04-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+fra:
+  id: 111
+  definition: >-
+    description détaillée d'un jeu de données ou d'une série de jeux de données
+    comprenant également des informations supplémentaires permettant leur
+    création, fourniture  et utilisation par une tierce partie
+  language_code: fra
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: ISO 19131
+    link: 'https://www.iso.org/standard/36760.html'
+  lineage_source: ''
+  date_accepted: 2007-04-15T00:00:00.000Z
+  terms:
+    - type: expression
+      designation: spécification de produit (de données)
+      normative_status: preferred
+  _revisions:
+    current: d39ff7
+    tree:
+      d39ff7:
+        object:
+          id: 111
+          definition: >-
+            description détaillée d'un jeu de données ou d'une série de jeux de
+            données comprenant également des informations supplémentaires
+            permettant leur création, fourniture  et utilisation par une tierce
+            partie
+          language_code: fra
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: ISO 19131
+            link: 'https://www.iso.org/standard/36760.html'
+          lineage_source: ''
+          date_accepted: 2007-04-15T00:00:00.000Z
+          terms:
+            - type: expression
+              designation: spécification de produit (de données)
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-04-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+deu:
+  id: 111
+  definition: >-
+    detaillierte Beschreibung eines Datensatzes oder einer Serie von Datensätzen
+    verbunden mit ergänzenden Informationen, die deren Erstellung, Lieferung an
+    und Nutzung durch Dritte ermöglicht
+  language_code: deu
+  notes:
+    - >-
+      A data product specification provides a description of the universe of
+      discourse and a specification for mapping the universe of discourse to a
+      dataset. It may be used for production, sales, end-use or other purposes.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19131:2007'
+    link: 'https://www.iso.org/standard/36760.html'
+  date_accepted: 2007-04-15T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: Datenproduktspezifikation
+      normative_status: preferred
+  _revisions:
+    current: bc3898
+    tree:
+      bc3898:
+        object:
+          id: 111
+          definition: >-
+            detaillierte Beschreibung eines Datensatzes oder einer Serie von
+            Datensätzen verbunden mit ergänzenden Informationen, die deren
+            Erstellung, Lieferung an und Nutzung durch Dritte ermöglicht
+          language_code: deu
+          notes:
+            - >-
+              A data product specification provides a description of the
+              universe of discourse and a specification for mapping the universe
+              of discourse to a dataset. It may be used for production, sales,
+              end-use or other purposes.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19131:2007'
+            link: 'https://www.iso.org/standard/36760.html'
+          date_accepted: 2007-04-15T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: Datenproduktspezifikation
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-04-15T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+kor:
+  id: 111
+  definition: '데이터 제품에 대하여 제3자가 이를 생성, 공급, 사용하는 데 필요한 정보를 제공하는 데이터셋 또는 데이터셋 시리즈의 상세 설명'
+  language_code: kor
+  notes:
+    - >-
+      데이터 제품 사양은 논의의 영역에 대한 설명과 그 논의의 영역과 데이터셋을 매핑하기 위한 사양을 제공한다. 데이터 제품 사양은 생산,
+      판매, 최종 사용 또는 기타 목적을 위해 사용할 수 있다.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19131:2007'
+    link: 'https://www.iso.org/standard/36760.html'
+  lineage_source: KS X ISO 19131
+  date_accepted: 2008-12-01T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: 데이터 제품 사양
+      normative_status: preferred
+  _revisions:
+    current: 38b87b
+    tree:
+      38b87b:
+        object:
+          id: 111
+          definition: >-
+            데이터 제품에 대하여 제3자가 이를 생성, 공급, 사용하는 데 필요한 정보를 제공하는 데이터셋 또는 데이터셋 시리즈의 상세
+            설명
+          language_code: kor
+          notes:
+            - >-
+              데이터 제품 사양은 논의의 영역에 대한 설명과 그 논의의 영역과 데이터셋을 매핑하기 위한 사양을 제공한다. 데이터 제품
+              사양은 생산, 판매, 최종 사용 또는 기타 목적을 위해 사용할 수 있다.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19131:2007'
+            link: 'https://www.iso.org/standard/36760.html'
+          lineage_source: KS X ISO 19131
+          date_accepted: 2008-12-01T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: 데이터 제품 사양
+              normative_status: preferred
+        parents: []
+        timeCreated: 2008-12-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 111
+  definition: >-
+    детальное описание набора данных или ряда наборов данных, а также
+    дополнительная информация, обеспечивающая  его (их) создание, поставку и
+    использование другой стороной
+  language_code: rus
+  notes:
+    - >-
+      В спецификации информационного  продукта дается описание предметной
+      области и требования к отображению предметной области набором данных. Она
+      может быть использована для производства, продажи, конечного использования
+      информационного продукта  и в других целях
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19131:2007'
+    link: 'https://www.iso.org/standard/36760.html'
+  lineage_source: Internet
+  date_accepted: 2007-04-15T00:00:00.000Z
+  terms:
+    - type: expression
+      designation: спецификация информационного продукта
+      normative_status: preferred
+  _revisions:
+    current: '905796'
+    tree:
+      '905796':
+        object:
+          id: 111
+          definition: >-
+            детальное описание набора данных или ряда наборов данных, а также
+            дополнительная информация, обеспечивающая  его (их) создание,
+            поставку и использование другой стороной
+          language_code: rus
+          notes:
+            - >-
+              В спецификации информационного  продукта дается описание
+              предметной области и требования к отображению предметной области
+              набором данных. Она может быть использована для производства,
+              продажи, конечного использования информационного продукта  и в
+              других целях
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19131:2007'
+            link: 'https://www.iso.org/standard/36760.html'
+          lineage_source: Internet
+          date_accepted: 2007-04-15T00:00:00.000Z
+          terms:
+            - type: expression
+              designation: спецификация информационного продукта
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-04-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 111
+  definition: >-
+    descripción detallada de un conjunto de datos o de una serie de conjuntos de
+    datos junto con la información adicional que permite su creación, suministro
+    y utilización por otras partes
+  language_code: spa
+  notes:
+    - >-
+      Unas especificaciones de producto de datos proporcionan una descripción
+      del universo de discurso y unas especificaciones para transformar el
+      universo de discurso en un conjunto de datos. Puede ser utilizada para
+      producción, venta, uso final o para otros propósitos.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19131:2007'
+    link: 'https://www.iso.org/standard/36760.html'
+  date_accepted: 2007-04-15T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: especificaciones de producto de datos
+      normative_status: preferred
+  _revisions:
+    current: 2945b0
+    tree:
+      2945b0:
+        object:
+          id: 111
+          definition: >-
+            descripción detallada de un conjunto de datos o de una serie de
+            conjuntos de datos junto con la información adicional que permite su
+            creación, suministro y utilización por otras partes
+          language_code: spa
+          notes:
+            - >-
+              Unas especificaciones de producto de datos proporcionan una
+              descripción del universo de discurso y unas especificaciones para
+              transformar el universo de discurso en un conjunto de datos. Puede
+              ser utilizada para producción, venta, uso final o para otros
+              propósitos.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19131:2007'
+            link: 'https://www.iso.org/standard/36760.html'
+          date_accepted: 2007-04-15T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: especificaciones de producto de datos
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-04-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+swe:
+  id: 111
+  definition: >-
+    dokumentation som definierar en dataprodukt och de krav som kan ställas på
+    dataprodukten
+  country_code: swe
+  language_code: swe
+  notes:
+    - >-
+      A data product specification provides a description of the universe of
+      discourse and a specification for mapping the universe of discourse to a
+      dataset. It may be used for production, sales, end-use or other purposes.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19131:2007'
+    link: 'https://www.iso.org/standard/36760.html'
+  lineage_source: (Type reference to national language document)
+  date_accepted: 2007-04-15T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: dataproduktspecifikation
+      normative_status: preferred
+  _revisions:
+    current: a01fc4
+    tree:
+      a01fc4:
+        object:
+          id: 111
+          definition: >-
+            dokumentation som definierar en dataprodukt och de krav som kan
+            ställas på dataprodukten
+          country_code: swe
+          language_code: swe
+          notes:
+            - >-
+              A data product specification provides a description of the
+              universe of discourse and a specification for mapping the universe
+              of discourse to a dataset. It may be used for production, sales,
+              end-use or other purposes.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19131:2007'
+            link: 'https://www.iso.org/standard/36760.html'
+          lineage_source: (Type reference to national language document)
+          date_accepted: 2007-04-15T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: dataproduktspecifikation
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-04-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

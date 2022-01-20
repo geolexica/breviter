@@ -1,0 +1,120 @@
+term: context
+termid: 1595
+eng:
+  id: 1595
+  definition: >-
+    aspects or properties of an entity that affect the behaviour or expectations
+    of that entity in any given situation
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19154:2014'
+    clause: '4.4'
+    link: 'https://www.iso.org/standard/32572.html'
+  date_accepted: 2014-11-01T00:00:00.000Z
+  review_date: 2012-08-03T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2014-11-01T00:00:00.000Z
+  review_decision_event: Normal ISO processing
+  review_decision_notes: 'Publication of document ISO 19154:2014(E)'
+  release: '4'
+  terms:
+    - type: expression
+      designation: context
+      normative_status: preferred
+  _revisions:
+    current: ed1ca1
+    tree:
+      ed1ca1:
+        object:
+          id: 1595
+          definition: >-
+            aspects or properties of an entity that affect the behaviour or
+            expectations of that entity in any given situation
+          language_code: eng
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19154:2014'
+            clause: '4.4'
+            link: 'https://www.iso.org/standard/32572.html'
+          date_accepted: 2014-11-01T00:00:00.000Z
+          review_date: 2012-08-03T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2014-11-01T00:00:00.000Z
+          review_decision_event: Normal ISO processing
+          review_decision_notes: 'Publication of document ISO 19154:2014(E)'
+          release: '4'
+          terms:
+            - type: expression
+              designation: context
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-11-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 1595
+  definition: >-
+    aspectos o propiedades de una entidad que afectan al comportamiento o
+    expectativas de esa entidad en cualquier situación dada
+  language_code: spa
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19154:2014'
+    clause: '4.4'
+    link: 'https://www.iso.org/standard/32572.html'
+  date_accepted: 2014-11-01T00:00:00.000Z
+  review_date: 2012-08-03T00:00:00.000Z
+  review_status: final
+  review_decision: ''
+  review_decision_date: 2014-11-01T00:00:00.000Z
+  review_decision_event: Normal ISO processing
+  review_decision_notes: 'Publication of document ISO 19154:2014(E)'
+  release: '4'
+  terms:
+    - type: expression
+      designation: contexto
+      normative_status: preferred
+  _revisions:
+    current: 2b7302
+    tree:
+      2b7302:
+        object:
+          id: 1595
+          definition: >-
+            aspectos o propiedades de una entidad que afectan al comportamiento
+            o expectativas de esa entidad en cualquier situación dada
+          language_code: spa
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19154:2014'
+            clause: '4.4'
+            link: 'https://www.iso.org/standard/32572.html'
+          date_accepted: 2014-11-01T00:00:00.000Z
+          review_date: 2012-08-03T00:00:00.000Z
+          review_status: final
+          review_decision: ''
+          review_decision_date: 2014-11-01T00:00:00.000Z
+          review_decision_event: Normal ISO processing
+          review_decision_notes: 'Publication of document ISO 19154:2014(E)'
+          release: '4'
+          terms:
+            - type: expression
+              designation: contexto
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-11-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

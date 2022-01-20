@@ -1,0 +1,239 @@
+term: hydrophone<SONAR>
+termid: 1392
+eng:
+  id: 1392
+  definition: >-
+    component of the SONAR system which receives the sound echo and converts it
+    to an electric signal
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO/TS 19130-2:2014'
+    clause: '4.30'
+    link: 'https://www.iso.org/standard/56113.html'
+  date_accepted: 2014-01-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: hydrophone<SONAR>
+      normative_status: preferred
+  _revisions:
+    current: 38bf05
+    tree:
+      38bf05:
+        object:
+          id: 1392
+          definition: >-
+            component of the SONAR system which receives the sound echo and
+            converts it to an electric signal
+          language_code: eng
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO/TS 19130-2:2014'
+            clause: '4.30'
+            link: 'https://www.iso.org/standard/56113.html'
+          date_accepted: 2014-01-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: hydrophone<SONAR>
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-01-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+kor:
+  id: 1392
+  definition: 음향에코를 수신 후 전자 신호로 변환하는 소나 시스템의 구성요소
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO/TS 19130-2:2014'
+    clause: '4.30'
+    link: 'https://www.iso.org/standard/56113.html'
+  date_accepted: 2014-01-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: 하이드로폰<소나>
+      normative_status: preferred
+  _revisions:
+    current: 92c8a7
+    tree:
+      92c8a7:
+        object:
+          id: 1392
+          definition: 음향에코를 수신 후 전자 신호로 변환하는 소나 시스템의 구성요소
+          language_code: kor
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO/TS 19130-2:2014'
+            clause: '4.30'
+            link: 'https://www.iso.org/standard/56113.html'
+          date_accepted: 2014-01-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: 하이드로폰<소나>
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-01-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 1392
+  definition: >-
+    компонент системы SONAR, который получает звуковое эхо и преобразует его в
+    электрический сигнал
+  language_code: rus
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO/TS 19130-2:2014'
+    clause: '4.30'
+    link: 'https://www.iso.org/standard/56113.html'
+  lineage_source: 'ISO/TS 19130-2:2014'
+  date_accepted: 2014-01-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: гидрофон <SONAR>
+      normative_status: preferred
+  _revisions:
+    current: 37d47f
+    tree:
+      37d47f:
+        object:
+          id: 1392
+          definition: >-
+            компонент системы SONAR, который получает звуковое эхо и преобразует
+            его в электрический сигнал
+          language_code: rus
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO/TS 19130-2:2014'
+            clause: '4.30'
+            link: 'https://www.iso.org/standard/56113.html'
+          lineage_source: 'ISO/TS 19130-2:2014'
+          date_accepted: 2014-01-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: гидрофон <SONAR>
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-01-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 1392
+  definition: >-
+    componente del sistema sonar que transforma las ondas acústicas en señales
+    eléctricas
+  language_code: spa
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO/TS 19130-2:2014'
+    clause: '4.30'
+    link: 'https://www.iso.org/standard/56113.html'
+  date_accepted: 2014-01-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: hidrófono<SONAR>
+      normative_status: preferred
+  _revisions:
+    current: 52e05f
+    tree:
+      52e05f:
+        object:
+          id: 1392
+          definition: >-
+            componente del sistema sonar que transforma las ondas acústicas en
+            señales eléctricas
+          language_code: spa
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO/TS 19130-2:2014'
+            clause: '4.30'
+            link: 'https://www.iso.org/standard/56113.html'
+          date_accepted: 2014-01-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: hidrófono<SONAR>
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-01-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+swe:
+  id: 1392
+  definition: >-
+    mikrofon för användning i vatten för att lyssna och registrera ljudpulser
+    och omvandla till elektrisk signal
+  country_code: swe
+  language_code: swe
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO/TS 19130-2:2014'
+    clause: '4.30'
+    link: 'https://www.iso.org/standard/56113.html'
+  lineage_source: (Type reference to national language document)
+  date_accepted: 2014-01-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: hydrofon (passiv SONAR)
+      normative_status: preferred
+  _revisions:
+    current: f9f015
+    tree:
+      f9f015:
+        object:
+          id: 1392
+          definition: >-
+            mikrofon för användning i vatten för att lyssna och registrera
+            ljudpulser och omvandla till elektrisk signal
+          country_code: swe
+          language_code: swe
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO/TS 19130-2:2014'
+            clause: '4.30'
+            link: 'https://www.iso.org/standard/56113.html'
+          lineage_source: (Type reference to national language document)
+          date_accepted: 2014-01-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: hydrofon (passiv SONAR)
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-01-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

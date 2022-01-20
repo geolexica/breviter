@@ -1,0 +1,778 @@
+term: behaviour <UML>
+termid: 28
+eng:
+  id: 28
+  definition: 'observable effects of an operation or event, including its results'
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: retired
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO/IEC 19501:2005 '
+    clause: (Adapted from)
+    link: 'https://www.iso.org/standard/32620.html'
+  lineage_source: 'ISO/TS 19103:2005'
+  lineage_source_similarity: 1
+  date_accepted: 2005-07-15T00:00:00.000Z
+  date_amended: 2015-12-01T00:00:00.000Z
+  review_date: 2009-01-14T00:00:00.000Z
+  review_status: final
+  review_type: retirement
+  review_decision: accepted
+  review_decision_date: 2015-12-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19103:2015'
+  review_decision_notes: 'The entry has been omitted from the superseding standard  (ISO 19103:2015).'
+  release: '-1'
+  terms:
+    - type: expression
+      designation: behaviour <UML>
+      normative_status: null
+  _revisions:
+    current: 3bb2ac
+    tree:
+      3bb2ac:
+        object:
+          id: 28
+          definition: 'observable effects of an operation or event, including its results'
+          language_code: eng
+          notes: []
+          examples: []
+          entry_status: retired
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO/IEC 19501:2005 '
+            clause: (Adapted from)
+            link: 'https://www.iso.org/standard/32620.html'
+          lineage_source: 'ISO/TS 19103:2005'
+          lineage_source_similarity: 1
+          date_accepted: 2005-07-15T00:00:00.000Z
+          date_amended: 2015-12-01T00:00:00.000Z
+          review_date: 2009-01-14T00:00:00.000Z
+          review_status: final
+          review_type: retirement
+          review_decision: accepted
+          review_decision_date: 2015-12-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19103:2015'
+          review_decision_notes: >-
+            The entry has been omitted from the superseding standard  (ISO
+            19103:2015).
+          release: '-1'
+          terms:
+            - type: expression
+              designation: behaviour <UML>
+              normative_status: null
+        parents: []
+        timeCreated: 2005-07-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+ara:
+  id: 28
+  definition: الآثار التي يمكن رصدها لعملية أو حدث ، بما في ذلك نتائجها .
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: retired
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO/IEC 19501:2005 '
+    clause: (Adapted from)
+    link: 'https://www.iso.org/standard/32620.html'
+  lineage_source: 'ISO/TS 19103:2005'
+  lineage_source_similarity: 1
+  date_accepted: 2005-07-15T00:00:00.000Z
+  date_amended: 2015-12-01T00:00:00.000Z
+  review_date: 2009-01-14T00:00:00.000Z
+  review_status: final
+  review_type: retirement
+  review_decision: accepted
+  review_decision_date: 2015-12-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19103:2015'
+  review_decision_notes: 'The entry has been omitted from the superseding standard  (ISO 19103:2015).'
+  release: '-1'
+  terms:
+    - type: expression
+      designation: سلوك <UML>
+      normative_status: null
+  _revisions:
+    current: 8fd108
+    tree:
+      8fd108:
+        object:
+          id: 28
+          definition: الآثار التي يمكن رصدها لعملية أو حدث ، بما في ذلك نتائجها .
+          language_code: ara
+          notes: []
+          examples: []
+          entry_status: retired
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO/IEC 19501:2005 '
+            clause: (Adapted from)
+            link: 'https://www.iso.org/standard/32620.html'
+          lineage_source: 'ISO/TS 19103:2005'
+          lineage_source_similarity: 1
+          date_accepted: 2005-07-15T00:00:00.000Z
+          date_amended: 2015-12-01T00:00:00.000Z
+          review_date: 2009-01-14T00:00:00.000Z
+          review_status: final
+          review_type: retirement
+          review_decision: accepted
+          review_decision_date: 2015-12-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19103:2015'
+          review_decision_notes: >-
+            The entry has been omitted from the superseding standard  (ISO
+            19103:2015).
+          release: '-1'
+          terms:
+            - type: expression
+              designation: سلوك <UML>
+              normative_status: null
+        parents: []
+        timeCreated: 2005-07-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+zho:
+  id: 28
+  definition: 由操作或事件产生的可观测的影响及其结果。
+  language_code: zho
+  notes: []
+  examples: []
+  entry_status: retired
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO/IEC 19501:2005 '
+    clause: (Adapted from)
+    link: 'https://www.iso.org/standard/32620.html'
+  lineage_source: 'ISO/TS 19103:2005'
+  lineage_source_similarity: 1
+  date_accepted: 2005-07-15T00:00:00.000Z
+  date_amended: 2015-12-01T00:00:00.000Z
+  review_date: 2009-01-14T00:00:00.000Z
+  review_status: final
+  review_type: retirement
+  review_decision: accepted
+  review_decision_date: 2015-12-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19103:2015'
+  review_decision_notes: 'The entry has been omitted from the superseding standard  (ISO 19103:2015).'
+  release: '-1'
+  terms:
+    - type: expression
+      designation: 行为<UML>
+      normative_status: null
+  _revisions:
+    current: 2f0c8e
+    tree:
+      2f0c8e:
+        object:
+          id: 28
+          definition: 由操作或事件产生的可观测的影响及其结果。
+          language_code: zho
+          notes: []
+          examples: []
+          entry_status: retired
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO/IEC 19501:2005 '
+            clause: (Adapted from)
+            link: 'https://www.iso.org/standard/32620.html'
+          lineage_source: 'ISO/TS 19103:2005'
+          lineage_source_similarity: 1
+          date_accepted: 2005-07-15T00:00:00.000Z
+          date_amended: 2015-12-01T00:00:00.000Z
+          review_date: 2009-01-14T00:00:00.000Z
+          review_status: final
+          review_type: retirement
+          review_decision: accepted
+          review_decision_date: 2015-12-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19103:2015'
+          review_decision_notes: >-
+            The entry has been omitted from the superseding standard  (ISO
+            19103:2015).
+          release: '-1'
+          terms:
+            - type: expression
+              designation: 行为<UML>
+              normative_status: null
+        parents: []
+        timeCreated: 2005-07-15T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+dan:
+  id: 28
+  definition: >-
+    iagttagelige virkninger af en handling eller hændelse, herunder dens
+    resultater
+  language_code: dan
+  notes: []
+  examples: []
+  entry_status: retired
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO/IEC 19501:2005 '
+    clause: (Adapted from)
+    link: 'https://www.iso.org/standard/32620.html'
+  lineage_source: 'ISO/TS 19103:2005'
+  lineage_source_similarity: 1
+  date_accepted: 2005-07-15T00:00:00.000Z
+  date_amended: 2015-12-01T00:00:00.000Z
+  review_date: 2009-01-14T00:00:00.000Z
+  review_status: final
+  review_type: retirement
+  review_decision: accepted
+  review_decision_date: 2015-12-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19103:2015'
+  review_decision_notes: 'The entry has been omitted from the superseding standard  (ISO 19103:2015).'
+  release: '-1'
+  terms:
+    - type: expression
+      designation: opførsel <UML>
+      normative_status: null
+  _revisions:
+    current: fe0164
+    tree:
+      fe0164:
+        object:
+          id: 28
+          definition: >-
+            iagttagelige virkninger af en handling eller hændelse, herunder dens
+            resultater
+          language_code: dan
+          notes: []
+          examples: []
+          entry_status: retired
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO/IEC 19501:2005 '
+            clause: (Adapted from)
+            link: 'https://www.iso.org/standard/32620.html'
+          lineage_source: 'ISO/TS 19103:2005'
+          lineage_source_similarity: 1
+          date_accepted: 2005-07-15T00:00:00.000Z
+          date_amended: 2015-12-01T00:00:00.000Z
+          review_date: 2009-01-14T00:00:00.000Z
+          review_status: final
+          review_type: retirement
+          review_decision: accepted
+          review_decision_date: 2015-12-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19103:2015'
+          review_decision_notes: >-
+            The entry has been omitted from the superseding standard  (ISO
+            19103:2015).
+          release: '-1'
+          terms:
+            - type: expression
+              designation: opførsel <UML>
+              normative_status: null
+        parents: []
+        timeCreated: 2005-07-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+fin:
+  id: 28
+  definition: toiminnon tai tapahtuman havaittavissa olevat vaikutukset ja tulokset
+  language_code: fin
+  notes: []
+  examples: []
+  entry_status: retired
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO/IEC 19501:2005 '
+    clause: (Adapted from)
+    link: 'https://www.iso.org/standard/32620.html'
+  lineage_source: 'ISO/TS 19103:2005'
+  lineage_source_similarity: 1
+  date_accepted: 2005-07-15T00:00:00.000Z
+  date_amended: 2015-12-01T00:00:00.000Z
+  review_date: 2009-01-14T00:00:00.000Z
+  review_status: final
+  review_type: retirement
+  review_decision: accepted
+  review_decision_date: 2015-12-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19103:2015'
+  review_decision_notes: 'The entry has been omitted from the superseding standard  (ISO 19103:2015).'
+  release: '-1'
+  terms:
+    - type: expression
+      designation: käyttäytyminen <UML>
+      normative_status: null
+  _revisions:
+    current: 80221d
+    tree:
+      80221d:
+        object:
+          id: 28
+          definition: >-
+            toiminnon tai tapahtuman havaittavissa olevat vaikutukset ja
+            tulokset
+          language_code: fin
+          notes: []
+          examples: []
+          entry_status: retired
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO/IEC 19501:2005 '
+            clause: (Adapted from)
+            link: 'https://www.iso.org/standard/32620.html'
+          lineage_source: 'ISO/TS 19103:2005'
+          lineage_source_similarity: 1
+          date_accepted: 2005-07-15T00:00:00.000Z
+          date_amended: 2015-12-01T00:00:00.000Z
+          review_date: 2009-01-14T00:00:00.000Z
+          review_status: final
+          review_type: retirement
+          review_decision: accepted
+          review_decision_date: 2015-12-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19103:2015'
+          review_decision_notes: >-
+            The entry has been omitted from the superseding standard  (ISO
+            19103:2015).
+          release: '-1'
+          terms:
+            - type: expression
+              designation: käyttäytyminen <UML>
+              normative_status: null
+        parents: []
+        timeCreated: 2005-07-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+fra:
+  id: 28
+  definition: 'effets observables d''une opération ou d''un événement, incluant ses résultats'
+  language_code: fra
+  notes: []
+  examples: []
+  entry_status: retired
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO/IEC 19501:2005 '
+    clause: (Adapted from)
+    link: 'https://www.iso.org/standard/32620.html'
+  lineage_source: 'ISO/TS 19103:2005'
+  lineage_source_similarity: 1
+  date_accepted: 2005-07-15T00:00:00.000Z
+  date_amended: 2015-12-01T00:00:00.000Z
+  review_date: 2009-01-14T00:00:00.000Z
+  review_status: final
+  review_type: retirement
+  review_decision: accepted
+  review_decision_date: 2015-12-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19103:2015'
+  review_decision_notes: 'The entry has been omitted from the superseding standard  (ISO 19103:2015).'
+  release: '-1'
+  terms:
+    - type: expression
+      designation: comportement <UML>
+      normative_status: null
+  _revisions:
+    current: ce9751
+    tree:
+      ce9751:
+        object:
+          id: 28
+          definition: >-
+            effets observables d'une opération ou d'un événement, incluant ses
+            résultats
+          language_code: fra
+          notes: []
+          examples: []
+          entry_status: retired
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO/IEC 19501:2005 '
+            clause: (Adapted from)
+            link: 'https://www.iso.org/standard/32620.html'
+          lineage_source: 'ISO/TS 19103:2005'
+          lineage_source_similarity: 1
+          date_accepted: 2005-07-15T00:00:00.000Z
+          date_amended: 2015-12-01T00:00:00.000Z
+          review_date: 2009-01-14T00:00:00.000Z
+          review_status: final
+          review_type: retirement
+          review_decision: accepted
+          review_decision_date: 2015-12-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19103:2015'
+          review_decision_notes: >-
+            The entry has been omitted from the superseding standard  (ISO
+            19103:2015).
+          release: '-1'
+          terms:
+            - type: expression
+              designation: comportement <UML>
+              normative_status: null
+        parents: []
+        timeCreated: 2005-07-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+deu:
+  id: 28
+  language_code: deu
+  notes: []
+  examples: []
+  entry_status: retired
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO/IEC 19501:2005 '
+    clause: (Adapted from)
+    link: 'https://www.iso.org/standard/32620.html'
+  lineage_source: 'ISO/TS 19103:2005'
+  lineage_source_similarity: 1
+  date_accepted: 2005-07-15T00:00:00.000Z
+  date_amended: 2015-12-01T00:00:00.000Z
+  review_date: 2009-01-14T00:00:00.000Z
+  review_status: final
+  review_type: retirement
+  review_decision: accepted
+  review_decision_date: 2015-12-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19103:2015'
+  review_decision_notes: 'The entry has been omitted from the superseding standard  (ISO 19103:2015).'
+  release: '-1'
+  terms:
+    - type: expression
+      designation: Verhalten <UML>
+      normative_status: null
+  _revisions:
+    current: aaec3a
+    tree:
+      aaec3a:
+        object:
+          id: 28
+          language_code: deu
+          notes: []
+          examples: []
+          entry_status: retired
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO/IEC 19501:2005 '
+            clause: (Adapted from)
+            link: 'https://www.iso.org/standard/32620.html'
+          lineage_source: 'ISO/TS 19103:2005'
+          lineage_source_similarity: 1
+          date_accepted: 2005-07-15T00:00:00.000Z
+          date_amended: 2015-12-01T00:00:00.000Z
+          review_date: 2009-01-14T00:00:00.000Z
+          review_status: final
+          review_type: retirement
+          review_decision: accepted
+          review_decision_date: 2015-12-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19103:2015'
+          review_decision_notes: >-
+            The entry has been omitted from the superseding standard  (ISO
+            19103:2015).
+          release: '-1'
+          terms:
+            - type: expression
+              designation: Verhalten <UML>
+              normative_status: null
+        parents: []
+        timeCreated: 2005-07-15T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+kor:
+  id: 28
+  definition: '연산, 사건 또는 그 결과 값까지 포함하여 관측 가능한 효과'
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: retired
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO/IEC 19501:2005 '
+    clause: (Adapted from)
+    link: 'https://www.iso.org/standard/32620.html'
+  lineage_source: 'ISO/TS 19103:2005'
+  lineage_source_similarity: 1
+  date_accepted: 2005-07-15T00:00:00.000Z
+  date_amended: 2015-12-01T00:00:00.000Z
+  review_date: 2009-01-14T00:00:00.000Z
+  review_status: final
+  review_type: retirement
+  review_decision: accepted
+  review_decision_date: 2015-12-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19103:2015'
+  review_decision_notes: 'The entry has been omitted from the superseding standard  (ISO 19103:2015).'
+  release: '-1'
+  terms:
+    - type: expression
+      designation: 행태 <UML>
+      normative_status: null
+  _revisions:
+    current: 51984d
+    tree:
+      51984d:
+        object:
+          id: 28
+          definition: '연산, 사건 또는 그 결과 값까지 포함하여 관측 가능한 효과'
+          language_code: kor
+          notes: []
+          examples: []
+          entry_status: retired
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO/IEC 19501:2005 '
+            clause: (Adapted from)
+            link: 'https://www.iso.org/standard/32620.html'
+          lineage_source: 'ISO/TS 19103:2005'
+          lineage_source_similarity: 1
+          date_accepted: 2005-07-15T00:00:00.000Z
+          date_amended: 2015-12-01T00:00:00.000Z
+          review_date: 2009-01-14T00:00:00.000Z
+          review_status: final
+          review_type: retirement
+          review_decision: accepted
+          review_decision_date: 2015-12-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19103:2015'
+          review_decision_notes: >-
+            The entry has been omitted from the superseding standard  (ISO
+            19103:2015).
+          release: '-1'
+          terms:
+            - type: expression
+              designation: 행태 <UML>
+              normative_status: null
+        parents: []
+        timeCreated: 2005-07-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+msa:
+  id: 28
+  definition: kelakuan atau tingkah laku
+  language_code: msa
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO/IEC 19501:2005 '
+    clause: (Adapted from)
+    link: 'https://www.iso.org/standard/32620.html'
+  lineage_source: Pusat Rujukan Persuratan Melayu (DBP)
+  date_accepted: 2005-07-15T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: perangai
+      normative_status: preferred
+  _revisions:
+    current: d3f0c4
+    tree:
+      d3f0c4:
+        object:
+          id: 28
+          definition: kelakuan atau tingkah laku
+          language_code: msa
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO/IEC 19501:2005 '
+            clause: (Adapted from)
+            link: 'https://www.iso.org/standard/32620.html'
+          lineage_source: Pusat Rujukan Persuratan Melayu (DBP)
+          date_accepted: 2005-07-15T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: perangai
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-07-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 28
+  definition: >-
+    доступные для наблюдения последствия выполнения операции или события, в том
+    числе, ее (его)  результаты
+  language_code: rus
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO/IEC 19501:2005 '
+    clause: (Adapted from)
+    link: 'https://www.iso.org/standard/32620.html'
+  lineage_source: Internet
+  date_accepted: 2005-07-15T00:00:00.000Z
+  terms:
+    - type: expression
+      designation: поведение <UML>
+      normative_status: preferred
+  _revisions:
+    current: 4a71c1
+    tree:
+      4a71c1:
+        object:
+          id: 28
+          definition: >-
+            доступные для наблюдения последствия выполнения операции или
+            события, в том числе, ее (его)  результаты
+          language_code: rus
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO/IEC 19501:2005 '
+            clause: (Adapted from)
+            link: 'https://www.iso.org/standard/32620.html'
+          lineage_source: Internet
+          date_accepted: 2005-07-15T00:00:00.000Z
+          terms:
+            - type: expression
+              designation: поведение <UML>
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-07-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 28
+  definition: >-
+    efectos observables de una operación o de un evento, incluyendo sus
+    resultados
+  language_code: spa
+  notes: []
+  examples: []
+  entry_status: retired
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO/IEC 19501:2005 '
+    clause: (Adapted from)
+    link: 'https://www.iso.org/standard/32620.html'
+  lineage_source: 'ISO/TS 19103:2005'
+  lineage_source_similarity: 1
+  date_accepted: 2005-07-15T00:00:00.000Z
+  date_amended: 2015-12-01T00:00:00.000Z
+  review_date: 2009-01-14T00:00:00.000Z
+  review_status: final
+  review_type: retirement
+  review_decision: accepted
+  review_decision_date: 2015-12-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19103:2015'
+  review_decision_notes: 'The entry has been omitted from the superseding standard  (ISO 19103:2015).'
+  release: '-1'
+  terms:
+    - type: expression
+      designation: comportamiento <UML>
+      normative_status: null
+  _revisions:
+    current: 8ff8c4
+    tree:
+      8ff8c4:
+        object:
+          id: 28
+          definition: >-
+            efectos observables de una operación o de un evento, incluyendo sus
+            resultados
+          language_code: spa
+          notes: []
+          examples: []
+          entry_status: retired
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO/IEC 19501:2005 '
+            clause: (Adapted from)
+            link: 'https://www.iso.org/standard/32620.html'
+          lineage_source: 'ISO/TS 19103:2005'
+          lineage_source_similarity: 1
+          date_accepted: 2005-07-15T00:00:00.000Z
+          date_amended: 2015-12-01T00:00:00.000Z
+          review_date: 2009-01-14T00:00:00.000Z
+          review_status: final
+          review_type: retirement
+          review_decision: accepted
+          review_decision_date: 2015-12-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19103:2015'
+          review_decision_notes: >-
+            The entry has been omitted from the superseding standard  (ISO
+            19103:2015).
+          release: '-1'
+          terms:
+            - type: expression
+              designation: comportamiento <UML>
+              normative_status: null
+        parents: []
+        timeCreated: 2005-07-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+swe:
+  id: 28
+  definition: 'observable effects of an operation or event, including its results'
+  language_code: swe
+  notes: []
+  examples: []
+  entry_status: retired
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO/IEC 19501:2005 '
+    clause: (Adapted from)
+    link: 'https://www.iso.org/standard/32620.html'
+  lineage_source: 'ISO/TS 19103:2005'
+  lineage_source_similarity: 1
+  date_accepted: 2005-07-15T00:00:00.000Z
+  date_amended: 2015-12-01T00:00:00.000Z
+  review_date: 2009-01-14T00:00:00.000Z
+  review_status: final
+  review_type: retirement
+  review_decision: accepted
+  review_decision_date: 2015-12-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19103:2015'
+  review_decision_notes: 'The entry has been omitted from the superseding standard  (ISO 19103:2015).'
+  release: '-1'
+  terms:
+    - type: expression
+      designation: behaviour <UML>
+      normative_status: null
+  _revisions:
+    current: c1c7c3
+    tree:
+      c1c7c3:
+        object:
+          id: 28
+          definition: 'observable effects of an operation or event, including its results'
+          language_code: swe
+          notes: []
+          examples: []
+          entry_status: retired
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO/IEC 19501:2005 '
+            clause: (Adapted from)
+            link: 'https://www.iso.org/standard/32620.html'
+          lineage_source: 'ISO/TS 19103:2005'
+          lineage_source_similarity: 1
+          date_accepted: 2005-07-15T00:00:00.000Z
+          date_amended: 2015-12-01T00:00:00.000Z
+          review_date: 2009-01-14T00:00:00.000Z
+          review_status: final
+          review_type: retirement
+          review_decision: accepted
+          review_decision_date: 2015-12-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19103:2015'
+          review_decision_notes: >-
+            The entry has been omitted from the superseding standard  (ISO
+            19103:2015).
+          release: '-1'
+          terms:
+            - type: expression
+              designation: behaviour <UML>
+              normative_status: null
+        parents: []
+        timeCreated: 2005-07-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

@@ -1,0 +1,85 @@
+term: integrated side lobe ratio
+termid: 2285
+eng:
+  id: 2285
+  abbrev: ISLR
+  definition: >-
+    ratio between the side lobe power and the main lobe power of the impulse
+    response of point targets in the radar imaging scene
+  language_code: eng
+  notes:
+    - >-
+      The integrated side lobe ratio (ISLR) can be obtained by integrating the
+      power of the impulse response over suitable regions. The ISLRis expressed
+      as  `ISLR = 10log_(10)
+      {(P_(text(total))-P_(text(main)))/(P_(text(main)))}` where 
+      `P_(text(total))` is the total power, `P_(text(main))` is the main lobe
+      power.
+    - >-
+      The main lobe width can be taken as α times the impulse response width
+      (IRW), centred around the peak, where α is a predefined constant, usually
+      between 2 and 2,5.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO/TS 19159-3:2018'
+    clause: '(E), 3.15'
+    link: 'https://www.iso.org/standard/74032.html'
+  date_accepted: 2018-05-01T00:00:00.000Z
+  review_date: 2018-05-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2018-05-01T00:00:00.000Z
+  review_decision_event: Normal ISO processing
+  review_decision_notes: 'Publication of document ISO/TS 19159-3:2018(E)'
+  release: '5'
+  terms:
+    - type: expression
+      designation: integrated side lobe ratio
+      normative_status: preferred
+  _revisions:
+    current: f81601
+    tree:
+      f81601:
+        object:
+          id: 2285
+          abbrev: ISLR
+          definition: >-
+            ratio between the side lobe power and the main lobe power of the
+            impulse response of point targets in the radar imaging scene
+          language_code: eng
+          notes:
+            - >-
+              The integrated side lobe ratio (ISLR) can be obtained by
+              integrating the power of the impulse response over suitable
+              regions. The ISLRis expressed as  `ISLR = 10log_(10)
+              {(P_(text(total))-P_(text(main)))/(P_(text(main)))}` where 
+              `P_(text(total))` is the total power, `P_(text(main))` is the main
+              lobe power.
+            - >-
+              The main lobe width can be taken as α times the impulse response
+              width (IRW), centred around the peak, where α is a predefined
+              constant, usually between 2 and 2,5.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO/TS 19159-3:2018'
+            clause: '(E), 3.15'
+            link: 'https://www.iso.org/standard/74032.html'
+          date_accepted: 2018-05-01T00:00:00.000Z
+          review_date: 2018-05-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2018-05-01T00:00:00.000Z
+          review_decision_event: Normal ISO processing
+          review_decision_notes: 'Publication of document ISO/TS 19159-3:2018(E)'
+          release: '5'
+          terms:
+            - type: expression
+              designation: integrated side lobe ratio
+              normative_status: preferred
+        parents: []
+        timeCreated: 2018-05-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

@@ -1,0 +1,556 @@
+term: map
+termid: 282
+eng:
+  id: 282
+  definition: >-
+    portrayal of geographic information as a digital image file suitable for
+    display on a computer screen
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19128:2005'
+    link: 'https://www.iso.org/standard/32546.html'
+  date_accepted: 2005-12-01T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: map
+      normative_status: preferred
+  _revisions:
+    current: 40a6f6
+    tree:
+      40a6f6:
+        object:
+          id: 282
+          definition: >-
+            portrayal of geographic information as a digital image file suitable
+            for display on a computer screen
+          language_code: eng
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19128:2005'
+            link: 'https://www.iso.org/standard/32546.html'
+          date_accepted: 2005-12-01T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: map
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-12-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+ara:
+  id: 282
+  definition: تمثيل للمعلومات الجغرافية في شكل ملف رقمي للصور يصلح للعرض على شاشة كمبيوتر
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19128:2005'
+    link: 'https://www.iso.org/standard/32546.html'
+  date_accepted: 2005-12-01T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: خارطة
+      normative_status: preferred
+  _revisions:
+    current: 3bb99e
+    tree:
+      3bb99e:
+        object:
+          id: 282
+          definition: >-
+            تمثيل للمعلومات الجغرافية في شكل ملف رقمي للصور يصلح للعرض على شاشة
+            كمبيوتر
+          language_code: ara
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19128:2005'
+            link: 'https://www.iso.org/standard/32546.html'
+          date_accepted: 2005-12-01T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: خارطة
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-12-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+zho:
+  id: 282
+  definition: 适合在计算机屏幕上显示的数字图像文件的地理信息的图示表达。
+  language_code: zho
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19128:2005'
+    link: 'https://www.iso.org/standard/32546.html'
+  date_accepted: 2005-12-01T00:00:00.000Z
+  terms:
+    - type: expression
+      designation: 地图
+      normative_status: preferred
+  _revisions:
+    current: 02daf8
+    tree:
+      02daf8:
+        object:
+          id: 282
+          definition: 适合在计算机屏幕上显示的数字图像文件的地理信息的图示表达。
+          language_code: zho
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19128:2005'
+            link: 'https://www.iso.org/standard/32546.html'
+          date_accepted: 2005-12-01T00:00:00.000Z
+          terms:
+            - type: expression
+              designation: 地图
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-12-01T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+fin:
+  id: 282
+  definition: paikkatiedon esittäminen tietokoneen ruudulla näytettävänä kuvatiedostona
+  language_code: fin
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19128:2005'
+    link: 'https://www.iso.org/standard/32546.html'
+  lineage_source: Maanmittauslaitos
+  date_accepted: 2005-12-01T00:00:00.000Z
+  terms:
+    - type: expression
+      designation: esittää karttana
+      normative_status: preferred
+  _revisions:
+    current: 02fbfc
+    tree:
+      02fbfc:
+        object:
+          id: 282
+          definition: >-
+            paikkatiedon esittäminen tietokoneen ruudulla näytettävänä
+            kuvatiedostona
+          language_code: fin
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19128:2005'
+            link: 'https://www.iso.org/standard/32546.html'
+          lineage_source: Maanmittauslaitos
+          date_accepted: 2005-12-01T00:00:00.000Z
+          terms:
+            - type: expression
+              designation: esittää karttana
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-12-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+fra:
+  id: 282
+  definition: >-
+    présentation de l'information géographique sous forme de fichier d'image
+    numérique visualisable sur un écran d'ordinateur
+  language_code: fra
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: ISO 19128
+    link: 'https://www.iso.org/standard/32546.html'
+  lineage_source: ''
+  date_accepted: 2005-12-01T00:00:00.000Z
+  terms:
+    - type: expression
+      designation: carte
+      normative_status: preferred
+  _revisions:
+    current: 8f67db
+    tree:
+      8f67db:
+        object:
+          id: 282
+          definition: >-
+            présentation de l'information géographique sous forme de fichier
+            d'image numérique visualisable sur un écran d'ordinateur
+          language_code: fra
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: ISO 19128
+            link: 'https://www.iso.org/standard/32546.html'
+          lineage_source: ''
+          date_accepted: 2005-12-01T00:00:00.000Z
+          terms:
+            - type: expression
+              designation: carte
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-12-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+deu:
+  id: 282
+  definition: >-
+    Darstellung von Geoinformation als digitale Bilddatei zur Anzeige auf einem
+    Computerbildschirm
+  language_code: deu
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19128:2005'
+    link: 'https://www.iso.org/standard/32546.html'
+  date_accepted: 2005-12-01T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: Karte
+      normative_status: preferred
+  _revisions:
+    current: 8d139f
+    tree:
+      8d139f:
+        object:
+          id: 282
+          definition: >-
+            Darstellung von Geoinformation als digitale Bilddatei zur Anzeige
+            auf einem Computerbildschirm
+          language_code: deu
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19128:2005'
+            link: 'https://www.iso.org/standard/32546.html'
+          date_accepted: 2005-12-01T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: Karte
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-12-01T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+kor:
+  id: 282
+  definition: 지리 정보를 컴퓨터 화면에 표시하기 적합한 수치 영상 파일로 묘화한 것
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19128:2005'
+    link: 'https://www.iso.org/standard/32546.html'
+  lineage_source: KS X ISO 19128
+  date_accepted: 2009-12-29T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: 지도
+      normative_status: preferred
+  _revisions:
+    current: 90a78f
+    tree:
+      90a78f:
+        object:
+          id: 282
+          definition: 지리 정보를 컴퓨터 화면에 표시하기 적합한 수치 영상 파일로 묘화한 것
+          language_code: kor
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19128:2005'
+            link: 'https://www.iso.org/standard/32546.html'
+          lineage_source: KS X ISO 19128
+          date_accepted: 2009-12-29T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: 지도
+              normative_status: preferred
+        parents: []
+        timeCreated: 2009-12-29T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+msa:
+  id: 282
+  definition: >-
+    dokumen saintifik bercetak atau berdigit yang mengandungi sebahagian atau
+    keseluruhan permukaan bumi berskala dalam bentuk grafik atau fotografi
+  language_code: msa
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19128:2005'
+    link: 'https://www.iso.org/standard/32546.html'
+  date_accepted: 2005-12-01T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: peta
+      normative_status: preferred
+  _revisions:
+    current: 359e8f
+    tree:
+      359e8f:
+        object:
+          id: 282
+          definition: >-
+            dokumen saintifik bercetak atau berdigit yang mengandungi sebahagian
+            atau keseluruhan permukaan bumi berskala dalam bentuk grafik atau
+            fotografi
+          language_code: msa
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19128:2005'
+            link: 'https://www.iso.org/standard/32546.html'
+          date_accepted: 2005-12-01T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: peta
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-12-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+pol:
+  id: 282
+  definition: >-
+    prezentacja informacji geograficznej w postaci pliku obrazu cyfrowego
+    nadającego się do wyświetlenia na ekranie komputera
+  language_code: pol
+  notes: []
+  examples: []
+  authoritative_source:
+    ref: 'ISO 19128:2005'
+    link: 'https://www.iso.org/standard/32546.html'
+  lineage_source: PN-EN-ISO 19128
+  date_accepted: 2005-12-01T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: mapa
+      normative_status: preferred
+  _revisions:
+    current: 40c5dc
+    tree:
+      40c5dc:
+        object:
+          id: 282
+          definition: >-
+            prezentacja informacji geograficznej w postaci pliku obrazu
+            cyfrowego nadającego się do wyświetlenia na ekranie komputera
+          language_code: pol
+          notes: []
+          examples: []
+          authoritative_source:
+            ref: 'ISO 19128:2005'
+            link: 'https://www.iso.org/standard/32546.html'
+          lineage_source: PN-EN-ISO 19128
+          date_accepted: 2005-12-01T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: mapa
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-12-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 282
+  definition: >-
+    графическое представление географической информации в виде файла в цифровом
+    графическом формате, пригодного для отображения на экране компьютера
+  language_code: rus
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19128:2005'
+    link: 'https://www.iso.org/standard/32546.html'
+  lineage_source: Internet
+  date_accepted: 2005-12-01T00:00:00.000Z
+  terms:
+    - type: expression
+      designation: (электронная) карта
+      normative_status: preferred
+  _revisions:
+    current: 19ea8d
+    tree:
+      19ea8d:
+        object:
+          id: 282
+          definition: >-
+            графическое представление географической информации в виде файла в
+            цифровом графическом формате, пригодного для отображения на экране
+            компьютера
+          language_code: rus
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19128:2005'
+            link: 'https://www.iso.org/standard/32546.html'
+          lineage_source: Internet
+          date_accepted: 2005-12-01T00:00:00.000Z
+          terms:
+            - type: expression
+              designation: (электронная) карта
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-12-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 282
+  definition: >-
+    representación de información geográfica como un fichero de imagen digital
+    apropiado para mostrarse en una pantalla de ordenador
+  language_code: spa
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19128:2005'
+    link: 'https://www.iso.org/standard/32546.html'
+  date_accepted: 2005-12-01T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: mapa
+      normative_status: preferred
+  _revisions:
+    current: 3be88a
+    tree:
+      3be88a:
+        object:
+          id: 282
+          definition: >-
+            representación de información geográfica como un fichero de imagen
+            digital apropiado para mostrarse en una pantalla de ordenador
+          language_code: spa
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19128:2005'
+            link: 'https://www.iso.org/standard/32546.html'
+          date_accepted: 2005-12-01T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: mapa
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-12-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+swe:
+  id: 282
+  definition: >-
+    tvådimensionell, förminskad, redigerad avbildning av en del av jordens eller
+    annan planets yta i bestämd skala och projektion
+  country_code: swe
+  language_code: swe
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19128:2005'
+    link: 'https://www.iso.org/standard/32546.html'
+  lineage_source: (Type reference to national language document)
+  date_accepted: 2005-12-01T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: karta
+      normative_status: preferred
+  _revisions:
+    current: c9b881
+    tree:
+      c9b881:
+        object:
+          id: 282
+          definition: >-
+            tvådimensionell, förminskad, redigerad avbildning av en del av
+            jordens eller annan planets yta i bestämd skala och projektion
+          country_code: swe
+          language_code: swe
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19128:2005'
+            link: 'https://www.iso.org/standard/32546.html'
+          lineage_source: (Type reference to national language document)
+          date_accepted: 2005-12-01T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: karta
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-12-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

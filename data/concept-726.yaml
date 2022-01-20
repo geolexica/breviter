@@ -1,0 +1,878 @@
+term: generalization <UML>
+termid: 726
+eng:
+  id: 726
+  definition: >-
+    taxonomic relationship between a more general element and a more specific
+    element that is fully consistent with the more general element and contains
+    additional information
+  language_code: eng
+  notes:
+    - >-
+      An instance of the more specific element may be used where the more
+      general element is allowed. See: inheritance.
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: ISO/IEC 19501
+    link: 'https://www.iso.org/standard/32620.html'
+  lineage_source: 'ISO/TS 19103:2005 ,4.2.13'
+  lineage_source_similarity: 1
+  date_accepted: 2005-07-15T00:00:00.000Z
+  date_amended: 2015-07-01T00:00:00.000Z
+  review_date: 2009-08-31T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2015-07-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19150-2:2015(E)'
+  review_decision_notes: >-
+    This entry is superseded by the entry for "generalization <UML>" in ISO
+    19103:2015
+  release: '-1'
+  terms:
+    - type: expression
+      designation: generalization <UML>
+      normative_status: null
+  _revisions:
+    current: e9814a
+    tree:
+      e9814a:
+        object:
+          id: 726
+          definition: >-
+            taxonomic relationship between a more general element and a more
+            specific element that is fully consistent with the more general
+            element and contains additional information
+          language_code: eng
+          notes:
+            - >-
+              An instance of the more specific element may be used where the
+              more general element is allowed. See: inheritance.
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: ISO/IEC 19501
+            link: 'https://www.iso.org/standard/32620.html'
+          lineage_source: 'ISO/TS 19103:2005 ,4.2.13'
+          lineage_source_similarity: 1
+          date_accepted: 2005-07-15T00:00:00.000Z
+          date_amended: 2015-07-01T00:00:00.000Z
+          review_date: 2009-08-31T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2015-07-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19150-2:2015(E)'
+          review_decision_notes: >-
+            This entry is superseded by the entry for "generalization <UML>" in
+            ISO 19103:2015
+          release: '-1'
+          terms:
+            - type: expression
+              designation: generalization <UML>
+              normative_status: null
+        parents: []
+        timeCreated: 2005-07-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+ara:
+  id: 726
+  definition: >-
+    علاقة تصنيفية بين عنصر أكثر عمومية وعنصر أكثر تحديداً تنسجم انسجاماً تاماً
+    مع العنصر الأكثر عمومية وتحتوي على معلومات إضافية
+  language_code: ara
+  notes:
+    - >-
+      يمكن استخدام مثال للعنصر الأكثر تحديدا في المواضع التي يسمح فيها بالعنصر
+      الأكثر عمومية. أنظر "إرث".
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: ISO/IEC 19501
+    link: 'https://www.iso.org/standard/32620.html'
+  lineage_source: 'ISO/TS 19103:2005 ,4.2.13'
+  lineage_source_similarity: 1
+  date_accepted: 2005-07-15T00:00:00.000Z
+  date_amended: 2015-07-01T00:00:00.000Z
+  review_date: 2009-08-31T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2015-07-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19150-2:2015(E)'
+  review_decision_notes: >-
+    This entry is superseded by the entry for "generalization <UML>" in ISO
+    19103:2015
+  release: '-1'
+  terms:
+    - type: expression
+      designation: تعميم > UML <
+      normative_status: null
+  _revisions:
+    current: 9661ae
+    tree:
+      9661ae:
+        object:
+          id: 726
+          definition: >-
+            علاقة تصنيفية بين عنصر أكثر عمومية وعنصر أكثر تحديداً تنسجم انسجاماً
+            تاماً مع العنصر الأكثر عمومية وتحتوي على معلومات إضافية
+          language_code: ara
+          notes:
+            - >-
+              يمكن استخدام مثال للعنصر الأكثر تحديدا في المواضع التي يسمح فيها
+              بالعنصر الأكثر عمومية. أنظر "إرث".
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: ISO/IEC 19501
+            link: 'https://www.iso.org/standard/32620.html'
+          lineage_source: 'ISO/TS 19103:2005 ,4.2.13'
+          lineage_source_similarity: 1
+          date_accepted: 2005-07-15T00:00:00.000Z
+          date_amended: 2015-07-01T00:00:00.000Z
+          review_date: 2009-08-31T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2015-07-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19150-2:2015(E)'
+          review_decision_notes: >-
+            This entry is superseded by the entry for "generalization <UML>" in
+            ISO 19103:2015
+          release: '-1'
+          terms:
+            - type: expression
+              designation: تعميم > UML <
+              normative_status: null
+        parents: []
+        timeCreated: 2005-07-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+zho:
+  id: 726
+  definition: 一般元素和特殊元素之间的分类关系，该特殊元素与一般元素完全一致，且包含更多的信息。
+  language_code: zho
+  notes:
+    - 特殊元素与一般元素保持完全的一致性，并且包含其他的信息。如果一般元素允许，可以使用特殊元素的实例。
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: ISO/IEC 19501
+    link: 'https://www.iso.org/standard/32620.html'
+  lineage_source: 'ISO/TS 19103:2005 ,4.2.13'
+  lineage_source_similarity: 1
+  date_accepted: 2005-07-15T00:00:00.000Z
+  date_amended: 2015-07-01T00:00:00.000Z
+  review_date: 2009-08-31T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2015-07-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19150-2:2015(E)'
+  review_decision_notes: >-
+    This entry is superseded by the entry for "generalization <UML>" in ISO
+    19103:2015
+  release: '-1'
+  terms:
+    - type: expression
+      designation: 泛化
+      normative_status: null
+  _revisions:
+    current: 58b4c8
+    tree:
+      58b4c8:
+        object:
+          id: 726
+          definition: 一般元素和特殊元素之间的分类关系，该特殊元素与一般元素完全一致，且包含更多的信息。
+          language_code: zho
+          notes:
+            - 特殊元素与一般元素保持完全的一致性，并且包含其他的信息。如果一般元素允许，可以使用特殊元素的实例。
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: ISO/IEC 19501
+            link: 'https://www.iso.org/standard/32620.html'
+          lineage_source: 'ISO/TS 19103:2005 ,4.2.13'
+          lineage_source_similarity: 1
+          date_accepted: 2005-07-15T00:00:00.000Z
+          date_amended: 2015-07-01T00:00:00.000Z
+          review_date: 2009-08-31T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2015-07-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19150-2:2015(E)'
+          review_decision_notes: >-
+            This entry is superseded by the entry for "generalization <UML>" in
+            ISO 19103:2015
+          release: '-1'
+          terms:
+            - type: expression
+              designation: 泛化
+              normative_status: null
+        parents: []
+        timeCreated: 2005-07-15T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+dan:
+  id: 726
+  definition: >-
+    taksonomisk relation mellem et mere generelt element og et mere specifikt
+    element, som er i fuld overensstemmelse med det mere generelle element og
+    indeholder yderligere information
+  language_code: dan
+  notes:
+    - >-
+      En instans af det mere specifikke element kan bruges, hvor det mere
+      generelle element er tilladt. Se: arv
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: ISO/IEC 19501
+    link: 'https://www.iso.org/standard/32620.html'
+  lineage_source: 'ISO/TS 19103:2005 ,4.2.13'
+  lineage_source_similarity: 1
+  date_accepted: 2005-07-15T00:00:00.000Z
+  date_amended: 2015-07-01T00:00:00.000Z
+  review_date: 2009-08-31T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2015-07-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19150-2:2015(E)'
+  review_decision_notes: >-
+    This entry is superseded by the entry for "generalization <UML>" in ISO
+    19103:2015
+  release: '-1'
+  terms:
+    - type: expression
+      designation: generalisering <UML>
+      normative_status: null
+  _revisions:
+    current: a549bb
+    tree:
+      a549bb:
+        object:
+          id: 726
+          definition: >-
+            taksonomisk relation mellem et mere generelt element og et mere
+            specifikt element, som er i fuld overensstemmelse med det mere
+            generelle element og indeholder yderligere information
+          language_code: dan
+          notes:
+            - >-
+              En instans af det mere specifikke element kan bruges, hvor det
+              mere generelle element er tilladt. Se: arv
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: ISO/IEC 19501
+            link: 'https://www.iso.org/standard/32620.html'
+          lineage_source: 'ISO/TS 19103:2005 ,4.2.13'
+          lineage_source_similarity: 1
+          date_accepted: 2005-07-15T00:00:00.000Z
+          date_amended: 2015-07-01T00:00:00.000Z
+          review_date: 2009-08-31T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2015-07-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19150-2:2015(E)'
+          review_decision_notes: >-
+            This entry is superseded by the entry for "generalization <UML>" in
+            ISO 19103:2015
+          release: '-1'
+          terms:
+            - type: expression
+              designation: generalisering <UML>
+              normative_status: null
+        parents: []
+        timeCreated: 2005-07-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+fin:
+  id: 726
+  definition: >-
+    taksonominen suhde yleisemmän elementin ja sellaisen yksityiskohtaisemman
+    elementin välillä, joka on täysin yhdenmukainen yleisemmän elementin kanssa
+    ja sisältää myös lisätietoa
+  language_code: fin
+  notes:
+    - >-
+      Yksityiskohtaisemman elementin ilmentymää voidaan käyttää yhteyksissä,
+      joissa yleisempi elementti on sallittu. Katso periytyminen.
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: ISO/IEC 19501
+    link: 'https://www.iso.org/standard/32620.html'
+  lineage_source: 'ISO/TS 19103:2005 ,4.2.13'
+  lineage_source_similarity: 1
+  date_accepted: 2005-07-15T00:00:00.000Z
+  date_amended: 2015-07-01T00:00:00.000Z
+  review_date: 2009-08-31T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2015-07-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19150-2:2015(E)'
+  review_decision_notes: >-
+    This entry is superseded by the entry for "generalization <UML>" in ISO
+    19103:2015
+  release: '-1'
+  terms:
+    - type: expression
+      designation: yleistys <UML>
+      normative_status: null
+  _revisions:
+    current: cbce50
+    tree:
+      cbce50:
+        object:
+          id: 726
+          definition: >-
+            taksonominen suhde yleisemmän elementin ja sellaisen
+            yksityiskohtaisemman elementin välillä, joka on täysin yhdenmukainen
+            yleisemmän elementin kanssa ja sisältää myös lisätietoa
+          language_code: fin
+          notes:
+            - >-
+              Yksityiskohtaisemman elementin ilmentymää voidaan käyttää
+              yhteyksissä, joissa yleisempi elementti on sallittu. Katso
+              periytyminen.
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: ISO/IEC 19501
+            link: 'https://www.iso.org/standard/32620.html'
+          lineage_source: 'ISO/TS 19103:2005 ,4.2.13'
+          lineage_source_similarity: 1
+          date_accepted: 2005-07-15T00:00:00.000Z
+          date_amended: 2015-07-01T00:00:00.000Z
+          review_date: 2009-08-31T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2015-07-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19150-2:2015(E)'
+          review_decision_notes: >-
+            This entry is superseded by the entry for "generalization <UML>" in
+            ISO 19103:2015
+          release: '-1'
+          terms:
+            - type: expression
+              designation: yleistys <UML>
+              normative_status: null
+        parents: []
+        timeCreated: 2005-07-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+fra:
+  id: 726
+  definition: >-
+    relation taxonomique entre un élément plus général et un élément plus
+    spécifique qui est entièrement en accord avec l'élément plus général et
+    contient des informations supplémentaires
+  language_code: fra
+  notes: []
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: ISO/IEC 19501
+    link: 'https://www.iso.org/standard/32620.html'
+  lineage_source: 'ISO/TS 19103:2005 ,4.2.13'
+  lineage_source_similarity: 1
+  date_accepted: 2005-07-15T00:00:00.000Z
+  date_amended: 2015-07-01T00:00:00.000Z
+  review_date: 2009-08-31T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2015-07-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19150-2:2015(E)'
+  review_decision_notes: >-
+    This entry is superseded by the entry for "generalization <UML>" in ISO
+    19103:2015
+  release: '-1'
+  terms:
+    - type: expression
+      designation: généralisation <UML>
+      normative_status: null
+  _revisions:
+    current: a14311
+    tree:
+      a14311:
+        object:
+          id: 726
+          definition: >-
+            relation taxonomique entre un élément plus général et un élément
+            plus spécifique qui est entièrement en accord avec l'élément plus
+            général et contient des informations supplémentaires
+          language_code: fra
+          notes: []
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: ISO/IEC 19501
+            link: 'https://www.iso.org/standard/32620.html'
+          lineage_source: 'ISO/TS 19103:2005 ,4.2.13'
+          lineage_source_similarity: 1
+          date_accepted: 2005-07-15T00:00:00.000Z
+          date_amended: 2015-07-01T00:00:00.000Z
+          review_date: 2009-08-31T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2015-07-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19150-2:2015(E)'
+          review_decision_notes: >-
+            This entry is superseded by the entry for "generalization <UML>" in
+            ISO 19103:2015
+          release: '-1'
+          terms:
+            - type: expression
+              designation: généralisation <UML>
+              normative_status: null
+        parents: []
+        timeCreated: 2005-07-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+deu:
+  id: 726
+  language_code: deu
+  notes:
+    - >-
+      An instance of the more specific element may be used where the more
+      general element is allowed. See: inheritance.
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: ISO/IEC 19501
+    link: 'https://www.iso.org/standard/32620.html'
+  lineage_source: 'ISO/TS 19103:2005 ,4.2.13'
+  lineage_source_similarity: 1
+  date_accepted: 2005-07-15T00:00:00.000Z
+  date_amended: 2015-07-01T00:00:00.000Z
+  review_date: 2009-08-31T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2015-07-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19150-2:2015(E)'
+  review_decision_notes: >-
+    This entry is superseded by the entry for "generalization <UML>" in ISO
+    19103:2015
+  release: '-1'
+  terms:
+    - type: expression
+      designation: Generalisierung <UML>
+      normative_status: null
+  _revisions:
+    current: bc4a72
+    tree:
+      bc4a72:
+        object:
+          id: 726
+          language_code: deu
+          notes:
+            - >-
+              An instance of the more specific element may be used where the
+              more general element is allowed. See: inheritance.
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: ISO/IEC 19501
+            link: 'https://www.iso.org/standard/32620.html'
+          lineage_source: 'ISO/TS 19103:2005 ,4.2.13'
+          lineage_source_similarity: 1
+          date_accepted: 2005-07-15T00:00:00.000Z
+          date_amended: 2015-07-01T00:00:00.000Z
+          review_date: 2009-08-31T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2015-07-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19150-2:2015(E)'
+          review_decision_notes: >-
+            This entry is superseded by the entry for "generalization <UML>" in
+            ISO 19103:2015
+          release: '-1'
+          terms:
+            - type: expression
+              designation: Generalisierung <UML>
+              normative_status: null
+        parents: []
+        timeCreated: 2005-07-15T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+kor:
+  id: 726
+  definition: '구성 항목의 상속을 표시하는 기법으로, 하나의 구성 요소가 보다 일반화되며 다른 구성 요소는 보다 세분화됨을 표시하는 관계'
+  language_code: kor
+  notes:
+    - 보다 일반적인 요소가 허용되는 곳에 보다 상세 요소의 인스턴스를 사용할 수 있다. 상속을 참조하라.
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: ISO/IEC 19501
+    link: 'https://www.iso.org/standard/32620.html'
+  lineage_source: 'ISO/TS 19103:2005 ,4.2.13'
+  lineage_source_similarity: 1
+  date_accepted: 2005-07-15T00:00:00.000Z
+  date_amended: 2015-07-01T00:00:00.000Z
+  review_date: 2009-08-31T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2015-07-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19150-2:2015(E)'
+  review_decision_notes: >-
+    This entry is superseded by the entry for "generalization <UML>" in ISO
+    19103:2015
+  release: '-1'
+  terms:
+    - type: expression
+      designation: 일반화 <UML>
+      normative_status: null
+  _revisions:
+    current: 8f1f75
+    tree:
+      8f1f75:
+        object:
+          id: 726
+          definition: '구성 항목의 상속을 표시하는 기법으로, 하나의 구성 요소가 보다 일반화되며 다른 구성 요소는 보다 세분화됨을 표시하는 관계'
+          language_code: kor
+          notes:
+            - 보다 일반적인 요소가 허용되는 곳에 보다 상세 요소의 인스턴스를 사용할 수 있다. 상속을 참조하라.
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: ISO/IEC 19501
+            link: 'https://www.iso.org/standard/32620.html'
+          lineage_source: 'ISO/TS 19103:2005 ,4.2.13'
+          lineage_source_similarity: 1
+          date_accepted: 2005-07-15T00:00:00.000Z
+          date_amended: 2015-07-01T00:00:00.000Z
+          review_date: 2009-08-31T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2015-07-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19150-2:2015(E)'
+          review_decision_notes: >-
+            This entry is superseded by the entry for "generalization <UML>" in
+            ISO 19103:2015
+          release: '-1'
+          terms:
+            - type: expression
+              designation: 일반화 <UML>
+              normative_status: null
+        parents: []
+        timeCreated: 2005-07-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+msa:
+  id: 726
+  language_code: msa
+  notes:
+    - >-
+      An instance of the more specific element may be used where the more
+      general element is allowed. See: inheritance.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: ISO/IEC 19501
+    link: 'https://www.iso.org/standard/32620.html'
+  lineage_source: Kamus-istilah ukur dan pemetaan
+  date_accepted: 2005-07-15T00:00:00.000Z
+  review_date: 2009-08-31T00:00:00.000Z
+  review_status: pending
+  review_type: supersession
+  release: '1'
+  terms:
+    - type: expression
+      designation: pengitlakan
+      normative_status: preferred
+  _revisions:
+    current: d4ffd2
+    tree:
+      d4ffd2:
+        object:
+          id: 726
+          language_code: msa
+          notes:
+            - >-
+              An instance of the more specific element may be used where the
+              more general element is allowed. See: inheritance.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: ISO/IEC 19501
+            link: 'https://www.iso.org/standard/32620.html'
+          lineage_source: Kamus-istilah ukur dan pemetaan
+          date_accepted: 2005-07-15T00:00:00.000Z
+          review_date: 2009-08-31T00:00:00.000Z
+          review_status: pending
+          review_type: supersession
+          release: '1'
+          terms:
+            - type: expression
+              designation: pengitlakan
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-07-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 726
+  definition: >-
+    таксономическое отношение между более общим элементом и более
+    специализированным элементом, который полностью  совместим с более общим
+    элементом и содержит некоторую дополнительную информацию
+  language_code: rus
+  notes:
+    - >-
+      Экземпляр более специализированного элемента можно использовать везде, где
+      объявлен   более  общий элемент. См. термин «наследование»
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: ISO/IEC 19501
+    link: 'https://www.iso.org/standard/32620.html'
+  lineage_source: 'ISO/TS 19103:2005 ,4.2.13'
+  lineage_source_similarity: 1
+  date_accepted: 2005-07-15T00:00:00.000Z
+  review_date: 2009-08-31T00:00:00.000Z
+  review_status: ''
+  review_type: ''
+  release: '1'
+  terms:
+    - type: expression
+      designation: обобщение <UML>
+      normative_status: preferred
+  _revisions:
+    current: '199405'
+    tree:
+      '199405':
+        object:
+          id: 726
+          definition: >-
+            таксономическое отношение между более общим элементом и более
+            специализированным элементом, который полностью  совместим с более
+            общим элементом и содержит некоторую дополнительную информацию
+          language_code: rus
+          notes:
+            - >-
+              Экземпляр более специализированного элемента можно использовать
+              везде, где объявлен   более  общий элемент. См. термин
+              «наследование»
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: ISO/IEC 19501
+            link: 'https://www.iso.org/standard/32620.html'
+          lineage_source: 'ISO/TS 19103:2005 ,4.2.13'
+          lineage_source_similarity: 1
+          date_accepted: 2005-07-15T00:00:00.000Z
+          review_date: 2009-08-31T00:00:00.000Z
+          review_status: ''
+          review_type: ''
+          release: '1'
+          terms:
+            - type: expression
+              designation: обобщение <UML>
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-07-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 726
+  definition: >-
+    relación taxonómica entre un elemento más general y un elemento más
+    específico que es completamente consistente con el elemento más general y
+    contiene además información adicional
+  language_code: spa
+  notes:
+    - >-
+      Una instancia del elemento más específico se puede usar donde se admita el
+      elemento más general. Véase: Herencia.
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: ISO/IEC 19501
+    link: 'https://www.iso.org/standard/32620.html'
+  lineage_source: 'ISO/TS 19103:2005 ,4.2.13'
+  lineage_source_similarity: 1
+  date_accepted: 2005-07-15T00:00:00.000Z
+  date_amended: 2015-07-01T00:00:00.000Z
+  review_date: 2009-08-31T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2015-07-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19150-2:2015(E)'
+  review_decision_notes: >-
+    This entry is superseded by the entry for "generalization <UML>" in ISO
+    19103:2015
+  release: '-1'
+  terms:
+    - type: expression
+      designation: generalización <UML>
+      normative_status: null
+  _revisions:
+    current: 5c9dc1
+    tree:
+      5c9dc1:
+        object:
+          id: 726
+          definition: >-
+            relación taxonómica entre un elemento más general y un elemento más
+            específico que es completamente consistente con el elemento más
+            general y contiene además información adicional
+          language_code: spa
+          notes:
+            - >-
+              Una instancia del elemento más específico se puede usar donde se
+              admita el elemento más general. Véase: Herencia.
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: ISO/IEC 19501
+            link: 'https://www.iso.org/standard/32620.html'
+          lineage_source: 'ISO/TS 19103:2005 ,4.2.13'
+          lineage_source_similarity: 1
+          date_accepted: 2005-07-15T00:00:00.000Z
+          date_amended: 2015-07-01T00:00:00.000Z
+          review_date: 2009-08-31T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2015-07-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19150-2:2015(E)'
+          review_decision_notes: >-
+            This entry is superseded by the entry for "generalization <UML>" in
+            ISO 19103:2015
+          release: '-1'
+          terms:
+            - type: expression
+              designation: generalización <UML>
+              normative_status: null
+        parents: []
+        timeCreated: 2005-07-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+swe:
+  id: 726
+  definition: >-
+    taxonomic relationship between a more general element and a more specific
+    element that is fully consistent with the more general element and contains
+    additional information
+  language_code: swe
+  notes:
+    - >-
+      An instance of the more specific element may be used where the more
+      general element is allowed. See: inheritance.
+  examples: []
+  entry_status: superseded
+  review_indicator: ''
+  authoritative_source:
+    ref: ISO/IEC 19501
+    link: 'https://www.iso.org/standard/32620.html'
+  lineage_source: 'ISO/TS 19103:2005 ,4.2.13'
+  lineage_source_similarity: 1
+  date_accepted: 2005-07-15T00:00:00.000Z
+  date_amended: 2015-07-01T00:00:00.000Z
+  review_date: 2009-08-31T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2015-07-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19150-2:2015(E)'
+  review_decision_notes: >-
+    This entry is superseded by the entry for "generalization <UML>" in ISO
+    19103:2015
+  release: '-1'
+  terms:
+    - type: expression
+      designation: generalization <UML>
+      normative_status: null
+  _revisions:
+    current: 7cde2c
+    tree:
+      7cde2c:
+        object:
+          id: 726
+          definition: >-
+            taxonomic relationship between a more general element and a more
+            specific element that is fully consistent with the more general
+            element and contains additional information
+          language_code: swe
+          notes:
+            - >-
+              An instance of the more specific element may be used where the
+              more general element is allowed. See: inheritance.
+          examples: []
+          entry_status: superseded
+          review_indicator: ''
+          authoritative_source:
+            ref: ISO/IEC 19501
+            link: 'https://www.iso.org/standard/32620.html'
+          lineage_source: 'ISO/TS 19103:2005 ,4.2.13'
+          lineage_source_similarity: 1
+          date_accepted: 2005-07-15T00:00:00.000Z
+          date_amended: 2015-07-01T00:00:00.000Z
+          review_date: 2009-08-31T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2015-07-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19150-2:2015(E)'
+          review_decision_notes: >-
+            This entry is superseded by the entry for "generalization <UML>" in
+            ISO 19103:2015
+          release: '-1'
+          terms:
+            - type: expression
+              designation: generalization <UML>
+              normative_status: null
+        parents: []
+        timeCreated: 2005-07-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

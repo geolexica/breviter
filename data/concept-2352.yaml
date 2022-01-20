@@ -1,0 +1,74 @@
+term: coordinate operation
+termid: 2352
+eng:
+  id: 2352
+  definition: >-
+    process using a mathematical model, based on a one-to-one relationship, that
+    changes coordinates in a source coordinate reference system to coordinates
+    in a target coordinate reference system, or that changes coordinates at a
+    source coordinate epoch to coordinates at a target coordinate epoch within
+    the same coordinate reference system
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19111:2019'
+    clause: '(E), 3.1.8'
+    link: 'https://www.iso.org/standard/74039.html'
+  date_accepted: 2019-01-31T00:00:00.000Z
+  review_date: 2019-01-31T00:00:00.000Z
+  review_status: final
+  review_type: supersession
+  review_decision: accepted
+  review_decision_date: 2019-01-31T00:00:00.000Z
+  review_decision_event: 'Publication of document ISO 19111:2019(E)'
+  review_decision_notes: >-
+    This entry supersedes the entry for coordinate operation in ISO
+    19111:2007(E)
+  release: '5'
+  terms:
+    - type: expression
+      designation: coordinate operation
+      normative_status: preferred
+  _revisions:
+    current: 2115a5
+    tree:
+      2115a5:
+        object:
+          id: 2352
+          definition: >-
+            process using a mathematical model, based on a one-to-one
+            relationship, that changes coordinates in a source coordinate
+            reference system to coordinates in a target coordinate reference
+            system, or that changes coordinates at a source coordinate epoch to
+            coordinates at a target coordinate epoch within the same coordinate
+            reference system
+          language_code: eng
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19111:2019'
+            clause: '(E), 3.1.8'
+            link: 'https://www.iso.org/standard/74039.html'
+          date_accepted: 2019-01-31T00:00:00.000Z
+          review_date: 2019-01-31T00:00:00.000Z
+          review_status: final
+          review_type: supersession
+          review_decision: accepted
+          review_decision_date: 2019-01-31T00:00:00.000Z
+          review_decision_event: 'Publication of document ISO 19111:2019(E)'
+          review_decision_notes: >-
+            This entry supersedes the entry for coordinate operation in ISO
+            19111:2007(E)
+          release: '5'
+          terms:
+            - type: expression
+              designation: coordinate operation
+              normative_status: preferred
+        parents: []
+        timeCreated: 2019-01-31T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

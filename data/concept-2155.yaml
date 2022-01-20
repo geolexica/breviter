@@ -1,0 +1,66 @@
+term: data point <coordinate geometry>
+termid: 2155
+eng:
+  id: 2155
+  definition: point that lies on the geometry
+  language_code: eng
+  notes:
+    - >-
+      The vertices in a line string are data points, the points used to
+      construct a polynomial spline are data points. Data points can be used as
+      control points, but are often derived after the geometry is constructed.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19107:2019'
+    clause: '(E), 3.21'
+    link: 'https://www.iso.org/standard/66175.html'
+  date_accepted: 2019-12-02T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: Normal ISO processing
+  review_decision_notes: 'Publication of document ISO 19107:2019(E)'
+  release: '5'
+  terms:
+    - type: expression
+      designation: data point <coordinate geometry>
+      normative_status: preferred
+  _revisions:
+    current: 582acd
+    tree:
+      582acd:
+        object:
+          id: 2155
+          definition: point that lies on the geometry
+          language_code: eng
+          notes:
+            - >-
+              The vertices in a line string are data points, the points used to
+              construct a polynomial spline are data points. Data points can be
+              used as control points, but are often derived after the geometry
+              is constructed.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19107:2019'
+            clause: '(E), 3.21'
+            link: 'https://www.iso.org/standard/66175.html'
+          date_accepted: 2019-12-02T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: Normal ISO processing
+          review_decision_notes: 'Publication of document ISO 19107:2019(E)'
+          release: '5'
+          terms:
+            - type: expression
+              designation: data point <coordinate geometry>
+              normative_status: preferred
+        parents: []
+        timeCreated: 2019-12-02T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

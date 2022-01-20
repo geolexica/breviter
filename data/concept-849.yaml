@@ -1,0 +1,310 @@
+term: classified object
+termid: 849
+eng:
+  id: 849
+  definition: >-
+    spatial object, temporal object, or spatiotemporal object assigned to a
+    specific legend class
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19144-1:2009'
+    link: 'https://www.iso.org/standard/32562.html'
+  date_accepted: 2009-08-15T00:00:00.000Z
+  release: '2'
+  terms:
+    - type: expression
+      designation: classified object
+      normative_status: preferred
+  _revisions:
+    current: 1c13a8
+    tree:
+      1c13a8:
+        object:
+          id: 849
+          definition: >-
+            spatial object, temporal object, or spatiotemporal object assigned
+            to a specific legend class
+          language_code: eng
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19144-1:2009'
+            link: 'https://www.iso.org/standard/32562.html'
+          date_accepted: 2009-08-15T00:00:00.000Z
+          release: '2'
+          terms:
+            - type: expression
+              designation: classified object
+              normative_status: preferred
+        parents: []
+        timeCreated: 2009-08-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+ara:
+  id: 849
+  definition: كيان مكاني أو زماني أو مكاني-زماني يعين ضمن فئة تصنيف مفهرسة و محددة
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19144-1:2009'
+    link: 'https://www.iso.org/standard/32562.html'
+  date_accepted: 2009-08-15T00:00:00.000Z
+  release: '2'
+  terms:
+    - type: expression
+      designation: كيان مصنَّف
+      normative_status: preferred
+  _revisions:
+    current: a76410
+    tree:
+      a76410:
+        object:
+          id: 849
+          definition: كيان مكاني أو زماني أو مكاني-زماني يعين ضمن فئة تصنيف مفهرسة و محددة
+          language_code: ara
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19144-1:2009'
+            link: 'https://www.iso.org/standard/32562.html'
+          date_accepted: 2009-08-15T00:00:00.000Z
+          release: '2'
+          terms:
+            - type: expression
+              designation: كيان مصنَّف
+              normative_status: preferred
+        parents: []
+        timeCreated: 2009-08-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+deu:
+  id: 849
+  language_code: deu
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19144-1:2009'
+    link: 'https://www.iso.org/standard/32562.html'
+  date_accepted: 2009-08-15T00:00:00.000Z
+  release: '2'
+  terms:
+    - type: expression
+      designation: klassifiziertes Objekt
+      normative_status: preferred
+  _revisions:
+    current: a19802
+    tree:
+      a19802:
+        object:
+          id: 849
+          language_code: deu
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19144-1:2009'
+            link: 'https://www.iso.org/standard/32562.html'
+          date_accepted: 2009-08-15T00:00:00.000Z
+          release: '2'
+          terms:
+            - type: expression
+              designation: klassifiziertes Objekt
+              normative_status: preferred
+        parents: []
+        timeCreated: 2009-08-15T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+kor:
+  id: 849
+  definition: '특정 클래스 범례에 공간개체, 시간개체, 시공간개체를 할당하는 것'
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19144-1:2009'
+    link: 'https://www.iso.org/standard/32562.html'
+  date_accepted: 2009-08-15T00:00:00.000Z
+  release: '2'
+  terms:
+    - type: expression
+      designation: 분류 개체
+      normative_status: preferred
+  _revisions:
+    current: b490a2
+    tree:
+      b490a2:
+        object:
+          id: 849
+          definition: '특정 클래스 범례에 공간개체, 시간개체, 시공간개체를 할당하는 것'
+          language_code: kor
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19144-1:2009'
+            link: 'https://www.iso.org/standard/32562.html'
+          date_accepted: 2009-08-15T00:00:00.000Z
+          release: '2'
+          terms:
+            - type: expression
+              designation: 분류 개체
+              normative_status: preferred
+        parents: []
+        timeCreated: 2009-08-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 849
+  definition: >-
+    пространственный объект, временной объект или пространственно-временной
+    объект, назначенный определенному классу легенды
+  language_code: rus
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19144-1:2009'
+    link: 'https://www.iso.org/standard/32562.html'
+  lineage_source: 'ISO 19144-1:2009'
+  date_accepted: 2009-08-15T00:00:00.000Z
+  release: '2'
+  terms:
+    - type: expression
+      designation: классификационный объект
+      normative_status: preferred
+  _revisions:
+    current: 500c3d
+    tree:
+      500c3d:
+        object:
+          id: 849
+          definition: >-
+            пространственный объект, временной объект или
+            пространственно-временной объект, назначенный определенному классу
+            легенды
+          language_code: rus
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19144-1:2009'
+            link: 'https://www.iso.org/standard/32562.html'
+          lineage_source: 'ISO 19144-1:2009'
+          date_accepted: 2009-08-15T00:00:00.000Z
+          release: '2'
+          terms:
+            - type: expression
+              designation: классификационный объект
+              normative_status: preferred
+        parents: []
+        timeCreated: 2009-08-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 849
+  definition: >-
+    objeto espacial, temporal o espacio-temporal asignado a una clase específica
+    de la leyenda
+  language_code: spa
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19144-1:2009'
+    link: 'https://www.iso.org/standard/32562.html'
+  date_accepted: 2009-08-15T00:00:00.000Z
+  release: '2'
+  terms:
+    - type: expression
+      designation: objeto clasificado
+      normative_status: preferred
+  _revisions:
+    current: a7dbbb
+    tree:
+      a7dbbb:
+        object:
+          id: 849
+          definition: >-
+            objeto espacial, temporal o espacio-temporal asignado a una clase
+            específica de la leyenda
+          language_code: spa
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19144-1:2009'
+            link: 'https://www.iso.org/standard/32562.html'
+          date_accepted: 2009-08-15T00:00:00.000Z
+          release: '2'
+          terms:
+            - type: expression
+              designation: objeto clasificado
+              normative_status: preferred
+        parents: []
+        timeCreated: 2009-08-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+swe:
+  id: 849
+  definition: >-
+    rumsligt, temporalt eller rumstemporalt objekt som tillhör en
+    indelningsklass
+  country_code: swe
+  language_code: swe
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19144-1:2009'
+    link: 'https://www.iso.org/standard/32562.html'
+  lineage_source: (Type reference to national language document)
+  date_accepted: 2009-08-15T00:00:00.000Z
+  release: '2'
+  terms:
+    - type: expression
+      designation: klassificerat objekt
+      normative_status: preferred
+  _revisions:
+    current: '388195'
+    tree:
+      '388195':
+        object:
+          id: 849
+          definition: >-
+            rumsligt, temporalt eller rumstemporalt objekt som tillhör en
+            indelningsklass
+          country_code: swe
+          language_code: swe
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19144-1:2009'
+            link: 'https://www.iso.org/standard/32562.html'
+          lineage_source: (Type reference to national language document)
+          date_accepted: 2009-08-15T00:00:00.000Z
+          release: '2'
+          terms:
+            - type: expression
+              designation: klassificerat objekt
+              normative_status: preferred
+        parents: []
+        timeCreated: 2009-08-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

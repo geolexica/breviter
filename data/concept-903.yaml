@@ -1,0 +1,478 @@
+term: vocabulary
+termid: 903
+eng:
+  id: 903
+  definition: >-
+    terminological dictionary which contains designations and definitions from
+    one or more specific subject fields
+  language_code: eng
+  notes:
+    - 'The vocabulary may be monolingual, bilingual or multilingual.'
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 1087-1:2000'
+    clause: 3.7.2
+    link: 'https://www.iso.org/standard/20057.html'
+  lineage_source: 'ISO 19146:2010(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2010-11-01T00:00:00.000Z
+  review_date: 2018-06-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2018-06-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19146:2018(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 1087-1:2000 to ISO 1087-1:2000,
+    3.7.2. Lineage source added as ISO 19146:2010(E)
+  release: '2'
+  terms:
+    - type: expression
+      designation: vocabulary
+      normative_status: preferred
+  _revisions:
+    current: ecebb1
+    tree:
+      ecebb1:
+        object:
+          id: 903
+          definition: >-
+            terminological dictionary which contains designations and
+            definitions from one or more specific subject fields
+          language_code: eng
+          notes:
+            - 'The vocabulary may be monolingual, bilingual or multilingual.'
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 1087-1:2000'
+            clause: 3.7.2
+            link: 'https://www.iso.org/standard/20057.html'
+          lineage_source: 'ISO 19146:2010(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2010-11-01T00:00:00.000Z
+          review_date: 2018-06-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2018-06-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19146:2018(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 1087-1:2000 to ISO
+            1087-1:2000, 3.7.2. Lineage source added as ISO 19146:2010(E)
+          release: '2'
+          terms:
+            - type: expression
+              designation: vocabulary
+              normative_status: preferred
+        parents: []
+        timeCreated: 2010-11-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+ara:
+  id: 903
+  definition: معجم مصطلحات يحتوي على مسميات وتعريفات في مجال موضوع محدد واحد أو أكثر.
+  language_code: ara
+  notes:
+    - الحصيلة اللغوية قد تكون من لغة واحدة أو تكون ثنائية اللغة أو ثلاثية اللغة.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 1087-1:2000'
+    clause: 3.7.2
+    link: 'https://www.iso.org/standard/20057.html'
+  lineage_source: 'ISO 19146:2010(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2010-11-01T00:00:00.000Z
+  review_date: 2018-06-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2018-06-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19146:2018(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 1087-1:2000 to ISO 1087-1:2000,
+    3.7.2. Lineage source added as ISO 19146:2010(E)
+  release: '2'
+  terms:
+    - type: expression
+      designation: مفردات
+      normative_status: preferred
+  _revisions:
+    current: a735cd
+    tree:
+      a735cd:
+        object:
+          id: 903
+          definition: >-
+            معجم مصطلحات يحتوي على مسميات وتعريفات في مجال موضوع محدد واحد أو
+            أكثر.
+          language_code: ara
+          notes:
+            - >-
+              الحصيلة اللغوية قد تكون من لغة واحدة أو تكون ثنائية اللغة أو
+              ثلاثية اللغة.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 1087-1:2000'
+            clause: 3.7.2
+            link: 'https://www.iso.org/standard/20057.html'
+          lineage_source: 'ISO 19146:2010(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2010-11-01T00:00:00.000Z
+          review_date: 2018-06-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2018-06-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19146:2018(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 1087-1:2000 to ISO
+            1087-1:2000, 3.7.2. Lineage source added as ISO 19146:2010(E)
+          release: '2'
+          terms:
+            - type: expression
+              designation: مفردات
+              normative_status: preferred
+        parents: []
+        timeCreated: 2010-11-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+deu:
+  id: 903
+  language_code: deu
+  notes:
+    - 'The vocabulary may be monolingual, bilingual or multilingual.'
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 1087-1:2000'
+    clause: 3.7.2
+    link: 'https://www.iso.org/standard/20057.html'
+  lineage_source: 'ISO 19146:2010(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2010-11-01T00:00:00.000Z
+  review_date: 2018-06-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2018-06-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19146:2018(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 1087-1:2000 to ISO 1087-1:2000,
+    3.7.2. Lineage source added as ISO 19146:2010(E)
+  release: '2'
+  terms:
+    - type: expression
+      designation: Vokabular
+      normative_status: preferred
+  _revisions:
+    current: 8b55d7
+    tree:
+      8b55d7:
+        object:
+          id: 903
+          language_code: deu
+          notes:
+            - 'The vocabulary may be monolingual, bilingual or multilingual.'
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 1087-1:2000'
+            clause: 3.7.2
+            link: 'https://www.iso.org/standard/20057.html'
+          lineage_source: 'ISO 19146:2010(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2010-11-01T00:00:00.000Z
+          review_date: 2018-06-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2018-06-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19146:2018(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 1087-1:2000 to ISO
+            1087-1:2000, 3.7.2. Lineage source added as ISO 19146:2010(E)
+          release: '2'
+          terms:
+            - type: expression
+              designation: Vokabular
+              normative_status: preferred
+        parents: []
+        timeCreated: 2010-11-01T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+kor:
+  id: 903
+  definition: 하나 또는 그 이상의 특정 주제 분야의 지정한 것과 정의가 담겨있는 용어 사전
+  language_code: kor
+  notes:
+    - 'The vocabulary may be monolingual, bilingual or multilingual.'
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 1087-1:2000'
+    clause: 3.7.2
+    link: 'https://www.iso.org/standard/20057.html'
+  lineage_source: 'ISO 19146:2010(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2010-11-01T00:00:00.000Z
+  review_date: 2018-06-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2018-06-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19146:2018(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 1087-1:2000 to ISO 1087-1:2000,
+    3.7.2. Lineage source added as ISO 19146:2010(E)
+  release: '2'
+  terms:
+    - type: expression
+      designation: 어휘 / 용어
+      normative_status: preferred
+  _revisions:
+    current: a8783e
+    tree:
+      a8783e:
+        object:
+          id: 903
+          definition: 하나 또는 그 이상의 특정 주제 분야의 지정한 것과 정의가 담겨있는 용어 사전
+          language_code: kor
+          notes:
+            - 'The vocabulary may be monolingual, bilingual or multilingual.'
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 1087-1:2000'
+            clause: 3.7.2
+            link: 'https://www.iso.org/standard/20057.html'
+          lineage_source: 'ISO 19146:2010(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2010-11-01T00:00:00.000Z
+          review_date: 2018-06-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2018-06-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19146:2018(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 1087-1:2000 to ISO
+            1087-1:2000, 3.7.2. Lineage source added as ISO 19146:2010(E)
+          release: '2'
+          terms:
+            - type: expression
+              designation: 어휘 / 용어
+              normative_status: preferred
+        parents: []
+        timeCreated: 2010-11-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+msa:
+  id: 903
+  definition: >-
+    1. Kumpulan kod dan suruhan dalam bahasa pengaturcaraan yang boleh digunakan
+    untuk menulis atur cara. 2. Himpunan perkataan yang terdapat dalam bahasa
+    yang boleh digunakan oleh pengguna bahasa tersebut.
+  language_code: msa
+  notes:
+    - 'The vocabulary may be monolingual, bilingual or multilingual.'
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 1087-1:2000'
+    clause: 3.7.2
+    link: 'https://www.iso.org/standard/20057.html'
+  lineage_source: 'ISO 19146:2010(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2010-11-01T00:00:00.000Z
+  review_date: 2018-06-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2018-06-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19146:2018(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 1087-1:2000 to ISO 1087-1:2000,
+    3.7.2. Lineage source added as ISO 19146:2010(E)
+  release: '2'
+  terms:
+    - type: expression
+      designation: perbendaharaan kata
+      normative_status: preferred
+  _revisions:
+    current: 01392d
+    tree:
+      01392d:
+        object:
+          id: 903
+          definition: >-
+            1. Kumpulan kod dan suruhan dalam bahasa pengaturcaraan yang boleh
+            digunakan untuk menulis atur cara. 2. Himpunan perkataan yang
+            terdapat dalam bahasa yang boleh digunakan oleh pengguna bahasa
+            tersebut.
+          language_code: msa
+          notes:
+            - 'The vocabulary may be monolingual, bilingual or multilingual.'
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 1087-1:2000'
+            clause: 3.7.2
+            link: 'https://www.iso.org/standard/20057.html'
+          lineage_source: 'ISO 19146:2010(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2010-11-01T00:00:00.000Z
+          review_date: 2018-06-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2018-06-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19146:2018(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 1087-1:2000 to ISO
+            1087-1:2000, 3.7.2. Lineage source added as ISO 19146:2010(E)
+          release: '2'
+          terms:
+            - type: expression
+              designation: perbendaharaan kata
+              normative_status: preferred
+        parents: []
+        timeCreated: 2010-11-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 903
+  definition: >-
+    терминологический словарь, содержащий обозначения и определения из одной или
+    нескольких конкретных предметных областей
+  language_code: rus
+  notes:
+    - 'словарь может быть одноязычным, двуязычным или многоязычным.'
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 1087-1:2000'
+    clause: 3.7.2
+    link: 'https://www.iso.org/standard/20057.html'
+  lineage_source: 'ISO 19146:2010(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2010-11-01T00:00:00.000Z
+  review_date: 2018-06-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2018-06-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19146:2018(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 1087-1:2000 to ISO 1087-1:2000,
+    3.7.2. Lineage source added as ISO 19146:2010(E)
+  release: '2'
+  terms:
+    - type: expression
+      designation: словарь (вокабуляр)
+      normative_status: preferred
+  _revisions:
+    current: b16a6f
+    tree:
+      b16a6f:
+        object:
+          id: 903
+          definition: >-
+            терминологический словарь, содержащий обозначения и определения из
+            одной или нескольких конкретных предметных областей
+          language_code: rus
+          notes:
+            - 'словарь может быть одноязычным, двуязычным или многоязычным.'
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 1087-1:2000'
+            clause: 3.7.2
+            link: 'https://www.iso.org/standard/20057.html'
+          lineage_source: 'ISO 19146:2010(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2010-11-01T00:00:00.000Z
+          review_date: 2018-06-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2018-06-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19146:2018(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 1087-1:2000 to ISO
+            1087-1:2000, 3.7.2. Lineage source added as ISO 19146:2010(E)
+          release: '2'
+          terms:
+            - type: expression
+              designation: словарь (вокабуляр)
+              normative_status: preferred
+        parents: []
+        timeCreated: 2010-11-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 903
+  definition: >-
+    diccionario terminológico que contiene designaciones y definiciones de uno o
+    varios campos temáticos
+  language_code: spa
+  notes:
+    - 'El vocabulario puede ser monolingüe, bilingüe o multilingüe.'
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 1087-1:2000'
+    clause: 3.7.2
+    link: 'https://www.iso.org/standard/20057.html'
+  lineage_source: 'ISO 19146:2010(E)'
+  lineage_source_similarity: 1
+  date_accepted: 2010-11-01T00:00:00.000Z
+  review_date: 2018-06-01T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2018-06-01T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19146:2018(E)'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO 1087-1:2000 to ISO 1087-1:2000,
+    3.7.2. Lineage source added as ISO 19146:2010(E)
+  release: '2'
+  terms:
+    - type: expression
+      designation: vocabulario
+      normative_status: preferred
+  _revisions:
+    current: abf86b
+    tree:
+      abf86b:
+        object:
+          id: 903
+          definition: >-
+            diccionario terminológico que contiene designaciones y definiciones
+            de uno o varios campos temáticos
+          language_code: spa
+          notes:
+            - 'El vocabulario puede ser monolingüe, bilingüe o multilingüe.'
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 1087-1:2000'
+            clause: 3.7.2
+            link: 'https://www.iso.org/standard/20057.html'
+          lineage_source: 'ISO 19146:2010(E)'
+          lineage_source_similarity: 1
+          date_accepted: 2010-11-01T00:00:00.000Z
+          review_date: 2018-06-01T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2018-06-01T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19146:2018(E)'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO 1087-1:2000 to ISO
+            1087-1:2000, 3.7.2. Lineage source added as ISO 19146:2010(E)
+          release: '2'
+          terms:
+            - type: expression
+              designation: vocabulario
+              normative_status: preferred
+        parents: []
+        timeCreated: 2010-11-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

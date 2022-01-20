@@ -1,0 +1,292 @@
+term: administrative source
+termid: 1286
+eng:
+  id: 1286
+  definition: >-
+    source with the administrative description (where applicable) of the parties
+    involved, the rights, restrictions and responsibilities created and the
+    basic administrative units affected
+  language_code: eng
+  notes: []
+  examples:
+    - It is the evidence of a party’s right to a basic administrative unit.
+    - >-
+      A document describing a transaction (a deed), or a judgement of the
+      register holder.
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19152:2012'
+    clause: 4.1.1
+    link: 'https://www.iso.org/standard/51206.html'
+  date_accepted: 2012-12-01T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: administrative source
+      normative_status: preferred
+  _revisions:
+    current: 0df741
+    tree:
+      0df741:
+        object:
+          id: 1286
+          definition: >-
+            source with the administrative description (where applicable) of the
+            parties involved, the rights, restrictions and responsibilities
+            created and the basic administrative units affected
+          language_code: eng
+          notes: []
+          examples:
+            - >-
+              It is the evidence of a party’s right to a basic administrative
+              unit.
+            - >-
+              A document describing a transaction (a deed), or a judgement of
+              the register holder.
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19152:2012'
+            clause: 4.1.1
+            link: 'https://www.iso.org/standard/51206.html'
+          date_accepted: 2012-12-01T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: administrative source
+              normative_status: preferred
+        parents: []
+        timeCreated: 2012-12-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+kor:
+  id: 1286
+  definition: '관련 관계자, 권한, 제한사항 및 생성 임무와 영향을 받는 행정 단위에 대한 행정적 묘사(적용가능시)가 담긴 요소'
+  language_code: kor
+  notes: []
+  examples:
+    - It is the evidence of a party’s right to a basic administrative unit.
+    - >-
+      A document describing a transaction (a deed), or a judgement of the
+      register holder.
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19152:2012'
+    clause: 4.1.1
+    link: 'https://www.iso.org/standard/51206.html'
+  date_accepted: 2012-12-01T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: 관리상 요소
+      normative_status: preferred
+  _revisions:
+    current: '580753'
+    tree:
+      '580753':
+        object:
+          id: 1286
+          definition: '관련 관계자, 권한, 제한사항 및 생성 임무와 영향을 받는 행정 단위에 대한 행정적 묘사(적용가능시)가 담긴 요소'
+          language_code: kor
+          notes: []
+          examples:
+            - >-
+              It is the evidence of a party’s right to a basic administrative
+              unit.
+            - >-
+              A document describing a transaction (a deed), or a judgement of
+              the register holder.
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19152:2012'
+            clause: 4.1.1
+            link: 'https://www.iso.org/standard/51206.html'
+          date_accepted: 2012-12-01T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: 관리상 요소
+              normative_status: preferred
+        parents: []
+        timeCreated: 2012-12-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 1286
+  definition: >-
+    источник с административным описанием (когда это применимо) участвующих
+    сторон, прав, ограничений и обязанностей, созданный и затронутый в основных
+    административных единицах
+  language_code: rus
+  notes: []
+  examples:
+    - Доказательство прав стороны на базовую административную единицу
+    - 'Документ, описывающий сделку (акт), или суждение владельца реестра.'
+  entry_status: valid
+  authoritative_source:
+    ref: '19153'
+  lineage_source: 'перевод ИСО 19153:2014'
+  date_accepted: 2012-12-01T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: административный источник
+      normative_status: preferred
+  _revisions:
+    current: 606d11
+    tree:
+      606d11:
+        object:
+          id: 1286
+          definition: >-
+            источник с административным описанием (когда это применимо)
+            участвующих сторон, прав, ограничений и обязанностей, созданный и
+            затронутый в основных административных единицах
+          language_code: rus
+          notes: []
+          examples:
+            - Доказательство прав стороны на базовую административную единицу
+            - >-
+              Документ, описывающий сделку (акт), или суждение владельца
+              реестра.
+          entry_status: valid
+          authoritative_source:
+            ref: '19153'
+          lineage_source: 'перевод ИСО 19153:2014'
+          date_accepted: 2012-12-01T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: административный источник
+              normative_status: preferred
+        parents: []
+        timeCreated: 2012-12-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 1286
+  definition: >-
+    fuente con la descripción administrativa (cuando sea aplicable) de las
+    partes  afectadas, los derechos, las restricciones y las responsabilidades
+    creadas y las unidades básicas administrativas  afectadas
+  language_code: spa
+  notes: []
+  examples:
+    - >-
+      Es la evidencia del derecho de una parte con una unidad básica
+      administrativa
+    - >-
+      Un documento que describe una transacción (una escritura) o una
+      declaración del titular del registro
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19152:2012'
+    clause: 4.1.1
+    link: 'https://www.iso.org/standard/51206.html'
+  date_accepted: 2012-12-01T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: fuente administrativa
+      normative_status: preferred
+  _revisions:
+    current: 174d4b
+    tree:
+      174d4b:
+        object:
+          id: 1286
+          definition: >-
+            fuente con la descripción administrativa (cuando sea aplicable) de
+            las partes  afectadas, los derechos, las restricciones y las
+            responsabilidades creadas y las unidades básicas administrativas 
+            afectadas
+          language_code: spa
+          notes: []
+          examples:
+            - >-
+              Es la evidencia del derecho de una parte con una unidad básica
+              administrativa
+            - >-
+              Un documento que describe una transacción (una escritura) o una
+              declaración del titular del registro
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19152:2012'
+            clause: 4.1.1
+            link: 'https://www.iso.org/standard/51206.html'
+          date_accepted: 2012-12-01T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: fuente administrativa
+              normative_status: preferred
+        parents: []
+        timeCreated: 2012-12-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+swe:
+  id: 1286
+  definition: >-
+    markreglerande källhandling som tar upp inblandade parter, deras
+    rättigheter, restriktioner och skyldigheter samt vilka reglerade objekt som
+    berörs
+  country_code: swe
+  language_code: swe
+  notes: []
+  examples:
+    - It is the evidence of a party’s right to a basic administrative unit.
+    - >-
+      A document describing a transaction (a deed), or a judgement of the
+      register holder.
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19152:2012'
+    clause: 4.1.1
+    link: 'https://www.iso.org/standard/51206.html'
+  lineage_source: (Type reference to national language document)
+  date_accepted: 2012-12-01T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: markregleringsakt
+      normative_status: preferred
+  _revisions:
+    current: 0b5e4d
+    tree:
+      0b5e4d:
+        object:
+          id: 1286
+          definition: >-
+            markreglerande källhandling som tar upp inblandade parter, deras
+            rättigheter, restriktioner och skyldigheter samt vilka reglerade
+            objekt som berörs
+          country_code: swe
+          language_code: swe
+          notes: []
+          examples:
+            - >-
+              It is the evidence of a party’s right to a basic administrative
+              unit.
+            - >-
+              A document describing a transaction (a deed), or a judgement of
+              the register holder.
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19152:2012'
+            clause: 4.1.1
+            link: 'https://www.iso.org/standard/51206.html'
+          lineage_source: (Type reference to national language document)
+          date_accepted: 2012-12-01T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: markregleringsakt
+              normative_status: preferred
+        parents: []
+        timeCreated: 2012-12-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

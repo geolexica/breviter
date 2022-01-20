@@ -1,0 +1,118 @@
+term: unqualified cardinality <OWL>
+termid: 1594
+eng:
+  id: 1594
+  definition: >-
+    cardinality restriction that applies to all literals or individuals that are
+    connected by a data property or an object property
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: OWL
+  lineage_source: 'ISO 19150-2:2015, 4.1.37'
+  date_accepted: 2015-07-01T00:00:00.000Z
+  review_date: 2012-05-25T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2015-07-01T00:00:00.000Z
+  review_decision_event: Normal ISO processing
+  review_decision_notes: 'Publication of document ISO 19150-2:2015(E)'
+  release: '4'
+  terms:
+    - type: expression
+      designation: unqualified cardinality <OWL>
+      normative_status: preferred
+  _revisions:
+    current: 7ce945
+    tree:
+      7ce945:
+        object:
+          id: 1594
+          definition: >-
+            cardinality restriction that applies to all literals or individuals
+            that are connected by a data property or an object property
+          language_code: eng
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: OWL
+          lineage_source: 'ISO 19150-2:2015, 4.1.37'
+          date_accepted: 2015-07-01T00:00:00.000Z
+          review_date: 2012-05-25T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2015-07-01T00:00:00.000Z
+          review_decision_event: Normal ISO processing
+          review_decision_notes: 'Publication of document ISO 19150-2:2015(E)'
+          release: '4'
+          terms:
+            - type: expression
+              designation: unqualified cardinality <OWL>
+              normative_status: preferred
+        parents: []
+        timeCreated: 2015-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 1594
+  definition: >-
+    restricción de la cardinalidad que se aplica a todos los literales o
+    individuos que estan conectados mediante una propiedad de los datos o una
+    propiedad de objeto.
+  language_code: spa
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: OWL
+  lineage_source: 'ISO 19150-2:2015, 4.1.37'
+  date_accepted: 2015-07-01T00:00:00.000Z
+  review_date: 2012-05-25T00:00:00.000Z
+  review_status: final
+  review_decision: ''
+  review_decision_date: 2015-07-01T00:00:00.000Z
+  review_decision_event: Normal ISO processing
+  review_decision_notes: 'Publication of document ISO 19150-2:2015(E)'
+  release: '4'
+  terms:
+    - type: expression
+      designation: cardinalidad no calificada <OWL>
+      normative_status: preferred
+  _revisions:
+    current: 6204eb
+    tree:
+      6204eb:
+        object:
+          id: 1594
+          definition: >-
+            restricción de la cardinalidad que se aplica a todos los literales o
+            individuos que estan conectados mediante una propiedad de los datos
+            o una propiedad de objeto.
+          language_code: spa
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: OWL
+          lineage_source: 'ISO 19150-2:2015, 4.1.37'
+          date_accepted: 2015-07-01T00:00:00.000Z
+          review_date: 2012-05-25T00:00:00.000Z
+          review_status: final
+          review_decision: ''
+          review_decision_date: 2015-07-01T00:00:00.000Z
+          review_decision_event: Normal ISO processing
+          review_decision_notes: 'Publication of document ISO 19150-2:2015(E)'
+          release: '4'
+          terms:
+            - type: expression
+              designation: cardinalidad no calificada <OWL>
+              normative_status: preferred
+        parents: []
+        timeCreated: 2015-07-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

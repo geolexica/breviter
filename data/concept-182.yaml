@@ -1,0 +1,542 @@
+term: feature table
+termid: 182
+eng:
+  id: 182
+  definition: >-
+    table where the columns represent feature attributes, and the rows represent
+    features
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19125-2:2004'
+    link: 'https://www.iso.org/standard/40115.html'
+  date_accepted: 2004-08-01T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: feature table
+      normative_status: preferred
+  _revisions:
+    current: ba098d
+    tree:
+      ba098d:
+        object:
+          id: 182
+          definition: >-
+            table where the columns represent feature attributes, and the rows
+            represent features
+          language_code: eng
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19125-2:2004'
+            link: 'https://www.iso.org/standard/40115.html'
+          date_accepted: 2004-08-01T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: feature table
+              normative_status: preferred
+        parents: []
+        timeCreated: 2004-08-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+ara:
+  id: 182
+  definition: جدول تمثل فيه الأعمدة بيانات وصف المعالم بينما تمثل الصفوف المعالم
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19125-2:2004'
+    link: 'https://www.iso.org/standard/40115.html'
+  date_accepted: 2004-08-01T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: جدول المعالم
+      normative_status: preferred
+  _revisions:
+    current: 75673d
+    tree:
+      75673d:
+        object:
+          id: 182
+          definition: جدول تمثل فيه الأعمدة بيانات وصف المعالم بينما تمثل الصفوف المعالم
+          language_code: ara
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19125-2:2004'
+            link: 'https://www.iso.org/standard/40115.html'
+          date_accepted: 2004-08-01T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: جدول المعالم
+              normative_status: preferred
+        parents: []
+        timeCreated: 2004-08-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+zho:
+  id: 182
+  definition: 列表示要素属性，行表示要素的表格。
+  language_code: zho
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19125-2:2004'
+    link: 'https://www.iso.org/standard/40115.html'
+  date_accepted: 2004-08-01T00:00:00.000Z
+  terms:
+    - type: expression
+      designation: 要素表
+      normative_status: preferred
+  _revisions:
+    current: ef271e
+    tree:
+      ef271e:
+        object:
+          id: 182
+          definition: 列表示要素属性，行表示要素的表格。
+          language_code: zho
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19125-2:2004'
+            link: 'https://www.iso.org/standard/40115.html'
+          date_accepted: 2004-08-01T00:00:00.000Z
+          terms:
+            - type: expression
+              designation: 要素表
+              normative_status: preferred
+        parents: []
+        timeCreated: 2004-08-01T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+dan:
+  id: 182
+  definition: >-
+    tabel, hvor kolonnerne repræsenterer featureattributter, og rækkerne
+    repræsenterer features
+  language_code: dan
+  notes: []
+  examples: []
+  authoritative_source:
+    ref: 'ISO 19125-2:2004'
+    link: 'https://www.iso.org/standard/40115.html'
+  release: '1'
+  terms:
+    - type: expression
+      designation: featuretabel
+      normative_status: null
+  _revisions:
+    current: 98e7b5
+    tree:
+      98e7b5:
+        object:
+          id: 182
+          definition: >-
+            tabel, hvor kolonnerne repræsenterer featureattributter, og rækkerne
+            repræsenterer features
+          language_code: dan
+          notes: []
+          examples: []
+          authoritative_source:
+            ref: 'ISO 19125-2:2004'
+            link: 'https://www.iso.org/standard/40115.html'
+          release: '1'
+          terms:
+            - type: expression
+              designation: featuretabel
+              normative_status: null
+        parents: []
+        timeCreated: 2020-07-01T10:08:49.563Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+fin:
+  id: 182
+  definition: 'taulukko, jossa sarakkeet vastaavat kohteen ominaisuuksia ja rivit kohteita'
+  language_code: fin
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19125-2:2004'
+    link: 'https://www.iso.org/standard/40115.html'
+  lineage_source: 'Ei lähdettä, käännetty'
+  date_accepted: 2004-08-01T00:00:00.000Z
+  terms:
+    - type: expression
+      designation: kohdetaulukko
+      normative_status: preferred
+  _revisions:
+    current: 9d5c53
+    tree:
+      9d5c53:
+        object:
+          id: 182
+          definition: >-
+            taulukko, jossa sarakkeet vastaavat kohteen ominaisuuksia ja rivit
+            kohteita
+          language_code: fin
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19125-2:2004'
+            link: 'https://www.iso.org/standard/40115.html'
+          lineage_source: 'Ei lähdettä, käännetty'
+          date_accepted: 2004-08-01T00:00:00.000Z
+          terms:
+            - type: expression
+              designation: kohdetaulukko
+              normative_status: preferred
+        parents: []
+        timeCreated: 2004-08-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+fra:
+  id: 182
+  definition: >-
+    table dont les colonnes représentent des attributs d'entités et les lignes
+    représentent des entités
+  language_code: fra
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: ISO 19125-2
+    link: 'https://www.iso.org/standard/40115.html'
+  lineage_source: ''
+  date_accepted: 2004-08-01T00:00:00.000Z
+  terms:
+    - type: expression
+      designation: table d'entités
+      normative_status: preferred
+  _revisions:
+    current: e47d48
+    tree:
+      e47d48:
+        object:
+          id: 182
+          definition: >-
+            table dont les colonnes représentent des attributs d'entités et les
+            lignes représentent des entités
+          language_code: fra
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: ISO 19125-2
+            link: 'https://www.iso.org/standard/40115.html'
+          lineage_source: ''
+          date_accepted: 2004-08-01T00:00:00.000Z
+          terms:
+            - type: expression
+              designation: table d'entités
+              normative_status: preferred
+        parents: []
+        timeCreated: 2004-08-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+deu:
+  id: 182
+  language_code: deu
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19125-2:2004'
+    link: 'https://www.iso.org/standard/40115.html'
+  date_accepted: 2004-08-01T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: Feature-Tabelle
+      normative_status: preferred
+  _revisions:
+    current: 89fb76
+    tree:
+      89fb76:
+        object:
+          id: 182
+          language_code: deu
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19125-2:2004'
+            link: 'https://www.iso.org/standard/40115.html'
+          date_accepted: 2004-08-01T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: Feature-Tabelle
+              normative_status: preferred
+        parents: []
+        timeCreated: 2004-08-01T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+kor:
+  id: 182
+  definition: '행은 피처 속성을 나타내고, 열은 피처를 나타내는 테이블'
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19125-2:2004'
+    link: 'https://www.iso.org/standard/40115.html'
+  lineage_source: KS X ISO 19125-2
+  date_accepted: 2009-12-29T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: 지형지물 테이블
+      normative_status: preferred
+    - designation: 피처 테이블
+      type: expression
+  _revisions:
+    current: 6b0571
+    tree:
+      6b0571:
+        object:
+          id: 182
+          definition: '행은 피처 속성을 나타내고, 열은 피처를 나타내는 테이블'
+          language_code: kor
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19125-2:2004'
+            link: 'https://www.iso.org/standard/40115.html'
+          lineage_source: KS X ISO 19125-2
+          date_accepted: 2009-12-29T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: 지형지물 테이블
+              normative_status: preferred
+            - designation: 피처 테이블
+              type: expression
+        parents: []
+        timeCreated: 2009-12-29T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+pol:
+  id: 182
+  definition: >-
+    tabela, w której kolumny reprezentują atrybuty obiektu, a wiersze
+    reprezentują obiekty
+  language_code: pol
+  notes: []
+  examples: []
+  authoritative_source:
+    ref: 'ISO 19125-2:2004'
+    link: 'https://www.iso.org/standard/40115.html'
+  lineage_source: PN-EN ISO 19125-2
+  date_accepted: 2004-08-01T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: tabela obiektów
+      normative_status: preferred
+  _revisions:
+    current: f16bf6
+    tree:
+      f16bf6:
+        object:
+          id: 182
+          definition: >-
+            tabela, w której kolumny reprezentują atrybuty obiektu, a wiersze
+            reprezentują obiekty
+          language_code: pol
+          notes: []
+          examples: []
+          authoritative_source:
+            ref: 'ISO 19125-2:2004'
+            link: 'https://www.iso.org/standard/40115.html'
+          lineage_source: PN-EN ISO 19125-2
+          date_accepted: 2004-08-01T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: tabela obiektów
+              normative_status: preferred
+        parents: []
+        timeCreated: 2004-08-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 182
+  definition: >-
+    таблица, в которой столбцы представляют атрибуты, а строки – сами
+    пространственные объекты
+  language_code: rus
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19125-2:2004'
+    link: 'https://www.iso.org/standard/40115.html'
+  lineage_source: Internet
+  date_accepted: 2004-08-01T00:00:00.000Z
+  terms:
+    - type: expression
+      designation: таблица пространственных  объектов
+      normative_status: preferred
+  _revisions:
+    current: 0c2e75
+    tree:
+      0c2e75:
+        object:
+          id: 182
+          definition: >-
+            таблица, в которой столбцы представляют атрибуты, а строки – сами
+            пространственные объекты
+          language_code: rus
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19125-2:2004'
+            link: 'https://www.iso.org/standard/40115.html'
+          lineage_source: Internet
+          date_accepted: 2004-08-01T00:00:00.000Z
+          terms:
+            - type: expression
+              designation: таблица пространственных  объектов
+              normative_status: preferred
+        parents: []
+        timeCreated: 2004-08-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 182
+  definition: >-
+    tabla en la que las columnas representan los atributos de objeto geográfico
+    y las filas representan los objetos geográficos
+  language_code: spa
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19125-2:2004'
+    link: 'https://www.iso.org/standard/40115.html'
+  date_accepted: 2004-08-01T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: tabla de objetos geográficos
+      normative_status: preferred
+  _revisions:
+    current: 8cbfcf
+    tree:
+      8cbfcf:
+        object:
+          id: 182
+          definition: >-
+            tabla en la que las columnas representan los atributos de objeto
+            geográfico y las filas representan los objetos geográficos
+          language_code: spa
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19125-2:2004'
+            link: 'https://www.iso.org/standard/40115.html'
+          date_accepted: 2004-08-01T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: tabla de objetos geográficos
+              normative_status: preferred
+        parents: []
+        timeCreated: 2004-08-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+swe:
+  id: 182
+  definition: >-
+    tabell för en objekttyp utformad så att kolumnerna avser dess attribut och
+    raderna motsvarar olika dataförekomster
+  country_code: swe
+  language_code: swe
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19125-2:2004'
+    link: 'https://www.iso.org/standard/40115.html'
+  lineage_source: (Type reference to national language document)
+  date_accepted: 2004-08-01T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: objekttabell
+      normative_status: preferred
+  _revisions:
+    current: df8ff6
+    tree:
+      df8ff6:
+        object:
+          id: 182
+          definition: >-
+            tabell för en objekttyp utformad så att kolumnerna avser dess
+            attribut och raderna motsvarar olika dataförekomster
+          country_code: swe
+          language_code: swe
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19125-2:2004'
+            link: 'https://www.iso.org/standard/40115.html'
+          lineage_source: (Type reference to national language document)
+          date_accepted: 2004-08-01T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: objekttabell
+              normative_status: preferred
+        parents: []
+        timeCreated: 2004-08-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

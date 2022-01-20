@@ -1,0 +1,901 @@
+term: interoperability
+termid: 255
+eng:
+  id: 255
+  definition: >-
+    capability to communicate, execute programs, or transfer data among various
+    functional units in a manner that requires the user to have little or no
+    knowledge of the unique characteristics of those units
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO/IEC 2382:2009'
+    clause: '2121317'
+  lineage_source: 'ISO 19119:2005'
+  lineage_source_similarity: 1
+  date_accepted: 2005-02-15T00:00:00.000Z
+  review_date: 2012-08-11T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2016-01-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19119:2016'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO/IEC 2382-1:1993 to ISO/IEC
+    2382:2009, 2121317. Lineage source added as ISO 19119:2005
+  release: '1'
+  terms:
+    - type: expression
+      designation: interoperability
+      normative_status: preferred
+  _revisions:
+    current: 1ff236
+    tree:
+      1ff236:
+        object:
+          id: 255
+          definition: >-
+            capability to communicate, execute programs, or transfer data among
+            various functional units in a manner that requires the user to have
+            little or no knowledge of the unique characteristics of those units
+          language_code: eng
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO/IEC 2382:2009'
+            clause: '2121317'
+          lineage_source: 'ISO 19119:2005'
+          lineage_source_similarity: 1
+          date_accepted: 2005-02-15T00:00:00.000Z
+          review_date: 2012-08-11T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2016-01-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19119:2016'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO/IEC 2382-1:1993 to ISO/IEC
+            2382:2009, 2121317. Lineage source added as ISO 19119:2005
+          release: '1'
+          terms:
+            - type: expression
+              designation: interoperability
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+ara:
+  id: 255
+  definition: >-
+    القدرة على الاتصال ، أو تنفيذ البرامج أو نقل البيانات بين مختلف الوحدات
+    العاملة بطريقة لا يحتاج فيها المستخدم إلى معرفة الخصائص الفريده لتلك الوحدات
+    أو  فقط إلى القليل منها
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO/IEC 2382:2009'
+    clause: '2121317'
+  lineage_source: 'ISO 19119:2005'
+  lineage_source_similarity: 1
+  date_accepted: 2005-02-15T00:00:00.000Z
+  review_date: 2012-08-11T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2016-01-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19119:2016'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO/IEC 2382-1:1993 to ISO/IEC
+    2382:2009, 2121317. Lineage source added as ISO 19119:2005
+  release: '1'
+  terms:
+    - type: expression
+      designation: التوافقيه
+      normative_status: preferred
+  _revisions:
+    current: 7f4038
+    tree:
+      7f4038:
+        object:
+          id: 255
+          definition: >-
+            القدرة على الاتصال ، أو تنفيذ البرامج أو نقل البيانات بين مختلف
+            الوحدات العاملة بطريقة لا يحتاج فيها المستخدم إلى معرفة الخصائص
+            الفريده لتلك الوحدات أو  فقط إلى القليل منها
+          language_code: ara
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO/IEC 2382:2009'
+            clause: '2121317'
+          lineage_source: 'ISO 19119:2005'
+          lineage_source_similarity: 1
+          date_accepted: 2005-02-15T00:00:00.000Z
+          review_date: 2012-08-11T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2016-01-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19119:2016'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO/IEC 2382-1:1993 to ISO/IEC
+            2382:2009, 2121317. Lineage source added as ISO 19119:2005
+          release: '1'
+          terms:
+            - type: expression
+              designation: التوافقيه
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+zho:
+  id: 255
+  definition: 一种能力，在要求用户几乎不了解，或者完全不了解各功能单元的独特特征的情况下，能在这些功能单元之间进行通讯、执行程序或传送数据。
+  language_code: zho
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO/IEC 2382:2009'
+    clause: '2121317'
+  lineage_source: 'ISO 19119:2005'
+  lineage_source_similarity: 1
+  date_accepted: 2005-02-15T00:00:00.000Z
+  review_date: 2012-08-11T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2016-01-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19119:2016'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO/IEC 2382-1:1993 to ISO/IEC
+    2382:2009, 2121317. Lineage source added as ISO 19119:2005
+  release: '1'
+  terms:
+    - type: expression
+      designation: 互操作性
+      normative_status: preferred
+  _revisions:
+    current: 67fae7
+    tree:
+      67fae7:
+        object:
+          id: 255
+          definition: 一种能力，在要求用户几乎不了解，或者完全不了解各功能单元的独特特征的情况下，能在这些功能单元之间进行通讯、执行程序或传送数据。
+          language_code: zho
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO/IEC 2382:2009'
+            clause: '2121317'
+          lineage_source: 'ISO 19119:2005'
+          lineage_source_similarity: 1
+          date_accepted: 2005-02-15T00:00:00.000Z
+          review_date: 2012-08-11T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2016-01-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19119:2016'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO/IEC 2382-1:1993 to ISO/IEC
+            2382:2009, 2121317. Lineage source added as ISO 19119:2005
+          release: '1'
+          terms:
+            - type: expression
+              designation: 互操作性
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-02-15T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+nld:
+  id: 255
+  definition: >-
+    mogelijkheid van verschillende autonome, heterogene eenheden, systemen of
+    partijen om met elkaar te communiceren en interacteren
+  language_code: nld
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO/IEC 2382:2009'
+    clause: '2121317'
+  lineage_source: 'ISO 19119:2005'
+  lineage_source_similarity: 1
+  date_accepted: 2005-02-15T00:00:00.000Z
+  review_date: 2012-08-11T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2016-01-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19119:2016'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO/IEC 2382-1:1993 to ISO/IEC
+    2382:2009, 2121317. Lineage source added as ISO 19119:2005
+  release: '1'
+  terms:
+    - type: expression
+      designation: interoperabiliteit
+      normative_status: preferred
+  _revisions:
+    current: 3962a7
+    tree:
+      3962a7:
+        object:
+          id: 255
+          definition: >-
+            mogelijkheid van verschillende autonome, heterogene eenheden,
+            systemen of partijen om met elkaar te communiceren en interacteren
+          language_code: nld
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO/IEC 2382:2009'
+            clause: '2121317'
+          lineage_source: 'ISO 19119:2005'
+          lineage_source_similarity: 1
+          date_accepted: 2005-02-15T00:00:00.000Z
+          review_date: 2012-08-11T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2016-01-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19119:2016'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO/IEC 2382-1:1993 to ISO/IEC
+            2382:2009, 2121317. Lineage source added as ISO 19119:2005
+          release: '1'
+          terms:
+            - type: expression
+              designation: interoperabiliteit
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-02-15T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+fin:
+  id: 255
+  definition: >-
+    tietojärjestelmien kyky viestiä keskenään sellaisella tavalla tai siinä
+    laajuudessa, että ne voivat rutiinimaisesti käyttää toistensa tuloksia
+  language_code: fin
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO/IEC 2382:2009'
+    clause: '2121317'
+  lineage_source: 'ISO 19119:2005'
+  lineage_source_similarity: 1
+  date_accepted: 2005-02-15T00:00:00.000Z
+  review_date: 2012-08-11T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2016-01-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19119:2016'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO/IEC 2382-1:1993 to ISO/IEC
+    2382:2009, 2121317. Lineage source added as ISO 19119:2005
+  release: '1'
+  terms:
+    - type: expression
+      designation: yhteentoimivuus
+      normative_status: preferred
+  _revisions:
+    current: 00c3a8
+    tree:
+      00c3a8:
+        object:
+          id: 255
+          definition: >-
+            tietojärjestelmien kyky viestiä keskenään sellaisella tavalla tai
+            siinä laajuudessa, että ne voivat rutiinimaisesti käyttää toistensa
+            tuloksia
+          language_code: fin
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO/IEC 2382:2009'
+            clause: '2121317'
+          lineage_source: 'ISO 19119:2005'
+          lineage_source_similarity: 1
+          date_accepted: 2005-02-15T00:00:00.000Z
+          review_date: 2012-08-11T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2016-01-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19119:2016'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO/IEC 2382-1:1993 to ISO/IEC
+            2382:2009, 2121317. Lineage source added as ISO 19119:2005
+          release: '1'
+          terms:
+            - type: expression
+              designation: yhteentoimivuus
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+fra:
+  id: 255
+  definition: >-
+    capacité de communiquer, d'exécuter des programmes, ou transférer des
+    données entre des unités fonctionnelles diverses, d'une façon n'exigeant de
+    l'utilisateur que peu ou pas de connaissance des caractéristiques
+    spécifiques de ces unités
+  language_code: fra
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO/IEC 2382:2009'
+    clause: '2121317'
+  lineage_source: 'ISO 19119:2005'
+  lineage_source_similarity: 1
+  date_accepted: 2005-02-15T00:00:00.000Z
+  review_date: 2012-08-11T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2016-01-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19119:2016'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO/IEC 2382-1:1993 to ISO/IEC
+    2382:2009, 2121317. Lineage source added as ISO 19119:2005
+  release: '1'
+  terms:
+    - type: expression
+      designation: interopérabilité
+      normative_status: preferred
+  _revisions:
+    current: '298353'
+    tree:
+      '298353':
+        object:
+          id: 255
+          definition: >-
+            capacité de communiquer, d'exécuter des programmes, ou transférer
+            des données entre des unités fonctionnelles diverses, d'une façon
+            n'exigeant de l'utilisateur que peu ou pas de connaissance des
+            caractéristiques spécifiques de ces unités
+          language_code: fra
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO/IEC 2382:2009'
+            clause: '2121317'
+          lineage_source: 'ISO 19119:2005'
+          lineage_source_similarity: 1
+          date_accepted: 2005-02-15T00:00:00.000Z
+          review_date: 2012-08-11T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2016-01-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19119:2016'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO/IEC 2382-1:1993 to ISO/IEC
+            2382:2009, 2121317. Lineage source added as ISO 19119:2005
+          release: '1'
+          terms:
+            - type: expression
+              designation: interopérabilité
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+deu:
+  id: 255
+  definition: >-
+    Fähigkeit zur Kommunikation, zur Ausführung von Programmen oder zur
+    Übertragung von Daten zwischen verschiedenen Funktionseinheiten in einer
+    solchen Weise, dass der Anwender nur geringe oder keine Kenntnisse über die
+    einzelnen Merkmale dieser Einheiten besitzen muss
+  language_code: deu
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO/IEC 2382:2009'
+    clause: '2121317'
+  lineage_source: 'ISO 19119:2005'
+  lineage_source_similarity: 1
+  date_accepted: 2005-02-15T00:00:00.000Z
+  review_date: 2012-08-11T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2016-01-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19119:2016'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO/IEC 2382-1:1993 to ISO/IEC
+    2382:2009, 2121317. Lineage source added as ISO 19119:2005
+  release: '1'
+  terms:
+    - type: expression
+      designation: Interoperabilität
+      normative_status: preferred
+  _revisions:
+    current: 324d1a
+    tree:
+      324d1a:
+        object:
+          id: 255
+          definition: >-
+            Fähigkeit zur Kommunikation, zur Ausführung von Programmen oder zur
+            Übertragung von Daten zwischen verschiedenen Funktionseinheiten in
+            einer solchen Weise, dass der Anwender nur geringe oder keine
+            Kenntnisse über die einzelnen Merkmale dieser Einheiten besitzen
+            muss
+          language_code: deu
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO/IEC 2382:2009'
+            clause: '2121317'
+          lineage_source: 'ISO 19119:2005'
+          lineage_source_similarity: 1
+          date_accepted: 2005-02-15T00:00:00.000Z
+          review_date: 2012-08-11T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2016-01-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19119:2016'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO/IEC 2382-1:1993 to ISO/IEC
+            2382:2009, 2121317. Lineage source added as ISO 19119:2005
+          release: '1'
+          terms:
+            - type: expression
+              designation: Interoperabilität
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-02-15T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+kor:
+  id: 255
+  definition: >-
+    사용자가 기능적 구성 단위들의 고유 특성을 알지 못해도, 다양한 구성 단위 간의 데이터 전송, 프로그램 실행, 의사소통을 가능하게 하는
+    성능
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO/IEC 2382:2009'
+    clause: '2121317'
+  lineage_source: 'ISO 19119:2005'
+  lineage_source_similarity: 1
+  date_accepted: 2005-02-15T00:00:00.000Z
+  review_date: 2012-08-11T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2016-01-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19119:2016'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO/IEC 2382-1:1993 to ISO/IEC
+    2382:2009, 2121317. Lineage source added as ISO 19119:2005
+  release: '1'
+  terms:
+    - type: expression
+      designation: 상호 운용성
+      normative_status: preferred
+  _revisions:
+    current: 26370a
+    tree:
+      26370a:
+        object:
+          id: 255
+          definition: >-
+            사용자가 기능적 구성 단위들의 고유 특성을 알지 못해도, 다양한 구성 단위 간의 데이터 전송, 프로그램 실행, 의사소통을
+            가능하게 하는 성능
+          language_code: kor
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO/IEC 2382:2009'
+            clause: '2121317'
+          lineage_source: 'ISO 19119:2005'
+          lineage_source_similarity: 1
+          date_accepted: 2005-02-15T00:00:00.000Z
+          review_date: 2012-08-11T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2016-01-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19119:2016'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO/IEC 2382-1:1993 to ISO/IEC
+            2382:2009, 2121317. Lineage source added as ISO 19119:2005
+          release: '1'
+          terms:
+            - type: expression
+              designation: 상호 운용성
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+msa:
+  id: 255
+  definition: Keupayaan menggandingkan satu sistem dengan satu sistem yang lain.
+  language_code: msa
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO/IEC 2382-1:1993'
+    link: 'https://www.iso.org/standard/7229.html'
+  lineage_source: Pusat Rujukan Persuratan Melayu (DBP)
+  date_accepted: 2005-02-15T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: saling kendali
+      normative_status: preferred
+  _revisions:
+    current: d7350f
+    tree:
+      d7350f:
+        object:
+          id: 255
+          definition: Keupayaan menggandingkan satu sistem dengan satu sistem yang lain.
+          language_code: msa
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO/IEC 2382-1:1993'
+            link: 'https://www.iso.org/standard/7229.html'
+          lineage_source: Pusat Rujukan Persuratan Melayu (DBP)
+          date_accepted: 2005-02-15T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: saling kendali
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+pol:
+  id: 255
+  definition: >-
+    zdolność do komunikowania, wykonywania programów lub dokonywania transferu
+    danych między różnymi jednostkami funkcjonalnymi w sposób, który w
+    niewielkim stopniu lub w ogóle nie wymaga od użytkownika wiedzy o
+    indywidualnych cechach tych jednostek
+  language_code: pol
+  notes: []
+  examples: []
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO/IEC 2382:2009'
+    clause: '2121317'
+  lineage_source: 'ISO 19119:2005'
+  lineage_source_similarity: 1
+  date_accepted: 2005-02-15T00:00:00.000Z
+  review_date: 2012-08-11T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2016-01-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19119:2016'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO/IEC 2382-1:1993 to ISO/IEC
+    2382:2009, 2121317. Lineage source added as ISO 19119:2005
+  release: '1'
+  terms:
+    - type: expression
+      designation: zdolność do współdziałania
+      normative_status: preferred
+  _revisions:
+    current: 23524d
+    tree:
+      23524d:
+        object:
+          id: 255
+          definition: >-
+            zdolność do komunikowania, wykonywania programów lub dokonywania
+            transferu danych między różnymi jednostkami funkcjonalnymi w sposób,
+            który w niewielkim stopniu lub w ogóle nie wymaga od użytkownika
+            wiedzy o indywidualnych cechach tych jednostek
+          language_code: pol
+          notes: []
+          examples: []
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO/IEC 2382:2009'
+            clause: '2121317'
+          lineage_source: 'ISO 19119:2005'
+          lineage_source_similarity: 1
+          date_accepted: 2005-02-15T00:00:00.000Z
+          review_date: 2012-08-11T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2016-01-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19119:2016'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO/IEC 2382-1:1993 to ISO/IEC
+            2382:2009, 2121317. Lineage source added as ISO 19119:2005
+          release: '1'
+          terms:
+            - type: expression
+              designation: zdolność do współdziałania
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 255
+  definition: >-
+    возможность устанавливать связь, исполнять программы или осуществлять
+    передачу данных между различными функциональными блоками таким образом,
+    чтобы от пользователя требовались немногие (или не требовались вообще)
+    знания об уникальных характеристиках этих блоков
+  language_code: rus
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO/IEC 2382-1:1993'
+    link: 'https://www.iso.org/standard/7229.html'
+  lineage_source: Internet
+  date_accepted: 2005-02-15T00:00:00.000Z
+  terms:
+    - type: expression
+      designation: интероперабельность
+      normative_status: preferred
+  _revisions:
+    current: c42d7b
+    tree:
+      c42d7b:
+        object:
+          id: 255
+          definition: >-
+            возможность устанавливать связь, исполнять программы или
+            осуществлять передачу данных между различными функциональными
+            блоками таким образом, чтобы от пользователя требовались немногие
+            (или не требовались вообще) знания об уникальных характеристиках
+            этих блоков
+          language_code: rus
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO/IEC 2382-1:1993'
+            link: 'https://www.iso.org/standard/7229.html'
+          lineage_source: Internet
+          date_accepted: 2005-02-15T00:00:00.000Z
+          terms:
+            - type: expression
+              designation: интероперабельность
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 255
+  definition: >-
+    capacidad de comunicarse, ejecutar programas o transferir datos entre
+    distintas unidades funcionales de modo que el usuario sólo necesite un
+    conocimiento escaso o nulo sobre las características particulares de tales
+    unidades
+  language_code: spa
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO/IEC 2382:2009'
+    clause: '2121317'
+  lineage_source: 'ISO 19119:2005'
+  lineage_source_similarity: 1
+  date_accepted: 2005-02-15T00:00:00.000Z
+  review_date: 2012-08-11T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2016-01-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19119:2016'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO/IEC 2382-1:1993 to ISO/IEC
+    2382:2009, 2121317. Lineage source added as ISO 19119:2005
+  release: '1'
+  terms:
+    - type: expression
+      designation: interoperabilidad
+      normative_status: preferred
+  _revisions:
+    current: 480b4a
+    tree:
+      480b4a:
+        object:
+          id: 255
+          definition: >-
+            capacidad de comunicarse, ejecutar programas o transferir datos
+            entre distintas unidades funcionales de modo que el usuario sólo
+            necesite un conocimiento escaso o nulo sobre las características
+            particulares de tales unidades
+          language_code: spa
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO/IEC 2382:2009'
+            clause: '2121317'
+          lineage_source: 'ISO 19119:2005'
+          lineage_source_similarity: 1
+          date_accepted: 2005-02-15T00:00:00.000Z
+          review_date: 2012-08-11T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2016-01-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19119:2016'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO/IEC 2382-1:1993 to ISO/IEC
+            2382:2009, 2121317. Lineage source added as ISO 19119:2005
+          release: '1'
+          terms:
+            - type: expression
+              designation: interoperabilidad
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+swe:
+  id: 255
+  definition: förmåga att fungera ihop utan att särskilda åtgärder måste vidtas
+  country_code: swe
+  language_code: swe
+  notes:
+    - >-
+      I definitionen avser "särskilda åtgärder" framför allt återkommande
+      mänskligt ingripande, till exempel genom manuell hantering eller tolkning.
+
+      till termpost: Interoperabilitet mellan IT-system innebär att data från
+      ett system kan tas emot och tolkas av ett annat.
+
+      Anm. 3 till termpost: Interoperabilitet kan beskrivas i fyra olika
+      perspektiv:
+
+      Juridisk interoperabilitet kan uppnås genom att harmonisering görs av
+      nationella författningar, så kallad formell tillnärmning,.
+
+      Organisatorisk interoperabilitet kan uppnås genom att på förhand bestämma 
+      gemensamma processer, ansvarsfördelning, praxis, verktyg, användande av
+      för området aktuell lagstiftning och/eller standarder.
+
+      Semantisk interoperabilitet kan uppnås genom att organisationer och
+      verksamheter med gemensamt syfte bestämmer exempelvis vilka begrepp som
+      behövs för utbytet och hur dessa då ska tolkas, samt för utbytet tar fram
+      gemensamma begrepps- och informationsutbytes-modeller.
+
+      Teknisk interoperabilitet kan uppnås genom till exempel harmonisering av
+      specifikationer för data och tjänster.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO/IEC 2382:2009'
+    clause: '2121317'
+  lineage_source: 'ISO 19119:2005'
+  lineage_source_similarity: 1
+  date_accepted: 2005-02-15T00:00:00.000Z
+  review_date: 2012-08-11T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2016-01-15T00:00:00.000Z
+  review_decision_event: 'Publication of ISO 19119:2016'
+  review_decision_notes: >-
+    Authoritative reference changed from ISO/IEC 2382-1:1993 to ISO/IEC
+    2382:2009, 2121317. Lineage source added as ISO 19119:2005
+  release: '1'
+  terms:
+    - type: expression
+      designation: interoperabilitet
+      normative_status: preferred
+  _revisions:
+    current: '971767'
+    tree:
+      '971767':
+        object:
+          id: 255
+          definition: förmåga att fungera ihop utan att särskilda åtgärder måste vidtas
+          country_code: swe
+          language_code: swe
+          notes:
+            - >-
+              I definitionen avser "särskilda åtgärder" framför allt
+              återkommande mänskligt ingripande, till exempel genom manuell
+              hantering eller tolkning.
+
+              till termpost: Interoperabilitet mellan IT-system innebär att data
+              från ett system kan tas emot och tolkas av ett annat.
+
+              Anm. 3 till termpost: Interoperabilitet kan beskrivas i fyra olika
+              perspektiv:
+
+              Juridisk interoperabilitet kan uppnås genom att harmonisering görs
+              av nationella författningar, så kallad formell tillnärmning,.
+
+              Organisatorisk interoperabilitet kan uppnås genom att på förhand
+              bestämma  gemensamma processer, ansvarsfördelning, praxis,
+              verktyg, användande av för området aktuell lagstiftning och/eller
+              standarder.
+
+              Semantisk interoperabilitet kan uppnås genom att organisationer
+              och verksamheter med gemensamt syfte bestämmer exempelvis vilka
+              begrepp som behövs för utbytet och hur dessa då ska tolkas, samt
+              för utbytet tar fram gemensamma begrepps- och
+              informationsutbytes-modeller.
+
+              Teknisk interoperabilitet kan uppnås genom till exempel
+              harmonisering av specifikationer för data och tjänster.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO/IEC 2382:2009'
+            clause: '2121317'
+          lineage_source: 'ISO 19119:2005'
+          lineage_source_similarity: 1
+          date_accepted: 2005-02-15T00:00:00.000Z
+          review_date: 2012-08-11T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2016-01-15T00:00:00.000Z
+          review_decision_event: 'Publication of ISO 19119:2016'
+          review_decision_notes: >-
+            Authoritative reference changed from ISO/IEC 2382-1:1993 to ISO/IEC
+            2382:2009, 2121317. Lineage source added as ISO 19119:2005
+          release: '1'
+          terms:
+            - type: expression
+              designation: interoperabilitet
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

@@ -1,0 +1,356 @@
+term: correction
+termid: 1449
+eng:
+  id: 1449
+  definition: compensation for an estimated systematic effect
+  language_code: eng
+  notes:
+    - >-
+      See ISO/IEC Guide 98-3:2008, 3.2.3, for an explanation of "systematic
+      effect".
+    - >-
+      The compensation can take different forms, such as an addend or a factor,
+      or can be deduced from a table.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO/IEC Guide 99:2007'
+    clause: '2.53'
+    link: 'https://www.iso.org/standard/45324.html'
+  lineage_source: 'ISO/TS 19159-1:2014, 4.5'
+  lineage_source_similarity: 1
+  date_accepted: 2014-07-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: correction
+      normative_status: preferred
+  _revisions:
+    current: f1eb5d
+    tree:
+      f1eb5d:
+        object:
+          id: 1449
+          definition: compensation for an estimated systematic effect
+          language_code: eng
+          notes:
+            - >-
+              See ISO/IEC Guide 98-3:2008, 3.2.3, for an explanation of
+              "systematic effect".
+            - >-
+              The compensation can take different forms, such as an addend or a
+              factor, or can be deduced from a table.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO/IEC Guide 99:2007'
+            clause: '2.53'
+            link: 'https://www.iso.org/standard/45324.html'
+          lineage_source: 'ISO/TS 19159-1:2014, 4.5'
+          lineage_source_similarity: 1
+          date_accepted: 2014-07-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: correction
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-07-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+kor:
+  id: 1449
+  definition: 예상되는 체계적 효과에 대한 보정
+  language_code: kor
+  notes:
+    - >-
+      See ISO/IEC Guide 98-3:2008, 3.2.3, for an explanation of "systematic
+      effect".
+    - >-
+      The compensation can take different forms, such as an addend or a factor,
+      or can be deduced from a table.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO/IEC Guide 99:2007'
+    clause: '2.53'
+    link: 'https://www.iso.org/standard/45324.html'
+  lineage_source: 'ISO/TS 19159-1:2014, 4.5'
+  lineage_source_similarity: 1
+  date_accepted: 2014-07-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: 수정
+      normative_status: preferred
+  _revisions:
+    current: b96ca7
+    tree:
+      b96ca7:
+        object:
+          id: 1449
+          definition: 예상되는 체계적 효과에 대한 보정
+          language_code: kor
+          notes:
+            - >-
+              See ISO/IEC Guide 98-3:2008, 3.2.3, for an explanation of
+              "systematic effect".
+            - >-
+              The compensation can take different forms, such as an addend or a
+              factor, or can be deduced from a table.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO/IEC Guide 99:2007'
+            clause: '2.53'
+            link: 'https://www.iso.org/standard/45324.html'
+          lineage_source: 'ISO/TS 19159-1:2014, 4.5'
+          lineage_source_similarity: 1
+          date_accepted: 2014-07-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: 수정
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-07-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+msa:
+  id: 1449
+  definition: perbuatan atau hal membetulkan.
+  language_code: msa
+  notes:
+    - >-
+      See ISO/IEC Guide 98-3:2008, 3.2.3, for an explanation of "systematic
+      effect".
+    - >-
+      The compensation can take different forms, such as an addend or a factor,
+      or can be deduced from a table.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO/IEC Guide 99:2007'
+    clause: '2.53'
+    link: 'https://www.iso.org/standard/45324.html'
+  lineage_source: Pusat Rujukan Persuratan Melayu (DBP)
+  date_accepted: 2014-07-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: pembetulan
+      normative_status: preferred
+  _revisions:
+    current: eaeeab
+    tree:
+      eaeeab:
+        object:
+          id: 1449
+          definition: perbuatan atau hal membetulkan.
+          language_code: msa
+          notes:
+            - >-
+              See ISO/IEC Guide 98-3:2008, 3.2.3, for an explanation of
+              "systematic effect".
+            - >-
+              The compensation can take different forms, such as an addend or a
+              factor, or can be deduced from a table.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO/IEC Guide 99:2007'
+            clause: '2.53'
+            link: 'https://www.iso.org/standard/45324.html'
+          lineage_source: Pusat Rujukan Persuratan Melayu (DBP)
+          date_accepted: 2014-07-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: pembetulan
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-07-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 1449
+  definition: компенсация для предполагаемого систематического эффекта
+  language_code: rus
+  notes:
+    - >-
+      Смотри ISO/IEC Guide 98-3:2008, 3.2.3, для объяснения "систематического
+      эффекта"
+    - >-
+      компенсация может принимать различные формы, такие как добавление или
+      коэффициент, или может быть выведена из таблицы.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO/IEC Guide 99:2007'
+    clause: '2.53'
+    link: 'https://www.iso.org/standard/45324.html'
+  lineage_source: 'ISO/TS 19159-1:2014, 4.5'
+  lineage_source_similarity: 1
+  date_accepted: 2014-07-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: коррекция
+      normative_status: preferred
+  _revisions:
+    current: 101a92
+    tree:
+      101a92:
+        object:
+          id: 1449
+          definition: компенсация для предполагаемого систематического эффекта
+          language_code: rus
+          notes:
+            - >-
+              Смотри ISO/IEC Guide 98-3:2008, 3.2.3, для объяснения
+              "систематического эффекта"
+            - >-
+              компенсация может принимать различные формы, такие как добавление
+              или коэффициент, или может быть выведена из таблицы.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO/IEC Guide 99:2007'
+            clause: '2.53'
+            link: 'https://www.iso.org/standard/45324.html'
+          lineage_source: 'ISO/TS 19159-1:2014, 4.5'
+          lineage_source_similarity: 1
+          date_accepted: 2014-07-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: коррекция
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-07-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 1449
+  definition: compensación de un efecto sistemático estimado
+  language_code: spa
+  notes:
+    - >-
+      Véase la Guía ISO/EAC 98-3:2008, apartado 3.2.3 para una explicación del
+      "efecto sistemático"
+    - >-
+      La compensación puede adoptar diferentes formas, como un sumando o un
+      factor, o se puede deducir de una tabla
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO/IEC Guide 99:2007'
+    clause: '2.53'
+    link: 'https://www.iso.org/standard/45324.html'
+  lineage_source: 'ISO/TS 19159-1:2014, 4.5'
+  lineage_source_similarity: 1
+  date_accepted: 2014-07-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: corrección
+      normative_status: preferred
+  _revisions:
+    current: cb769b
+    tree:
+      cb769b:
+        object:
+          id: 1449
+          definition: compensación de un efecto sistemático estimado
+          language_code: spa
+          notes:
+            - >-
+              Véase la Guía ISO/EAC 98-3:2008, apartado 3.2.3 para una
+              explicación del "efecto sistemático"
+            - >-
+              La compensación puede adoptar diferentes formas, como un sumando o
+              un factor, o se puede deducir de una tabla
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO/IEC Guide 99:2007'
+            clause: '2.53'
+            link: 'https://www.iso.org/standard/45324.html'
+          lineage_source: 'ISO/TS 19159-1:2014, 4.5'
+          lineage_source_similarity: 1
+          date_accepted: 2014-07-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: corrección
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-07-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+swe:
+  id: 1449
+  definition: kompensering för en beräknad systematisk följdverkan
+  country_code: swe
+  language_code: swe
+  notes:
+    - >-
+      See ISO/IEC Guide 98-3:2008, 3.2.3, for an explanation of "systematic
+      effect".
+    - >-
+      The compensation can take different forms, such as an addend or a factor,
+      or can be deduced from a table.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO/IEC Guide 99:2007'
+    clause: '2.53'
+    link: 'https://www.iso.org/standard/45324.html'
+  lineage_source: 'ISO/TS 19159-1:2014, 4.5'
+  lineage_source_similarity: 1
+  date_accepted: 2014-07-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: korrektion
+      normative_status: preferred
+  _revisions:
+    current: ffc401
+    tree:
+      ffc401:
+        object:
+          id: 1449
+          definition: kompensering för en beräknad systematisk följdverkan
+          country_code: swe
+          language_code: swe
+          notes:
+            - >-
+              See ISO/IEC Guide 98-3:2008, 3.2.3, for an explanation of
+              "systematic effect".
+            - >-
+              The compensation can take different forms, such as an addend or a
+              factor, or can be deduced from a table.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO/IEC Guide 99:2007'
+            clause: '2.53'
+            link: 'https://www.iso.org/standard/45324.html'
+          lineage_source: 'ISO/TS 19159-1:2014, 4.5'
+          lineage_source_similarity: 1
+          date_accepted: 2014-07-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: korrektion
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-07-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

@@ -1,0 +1,239 @@
+term: draught
+termid: 1386
+eng:
+  id: 1386
+  definition: >-
+    vertical distance, at any section of a vessel from the surface of the water
+    to the bottom of the keel
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: IHO Hydrographic Dictionary
+    clause: 'S-32, Fifth Edition'
+  lineage_source: 'ISO/TS 19130-2:2014, 4.17'
+  lineage_source_similarity: 1
+  date_accepted: 2014-01-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: draught
+      normative_status: preferred
+  _revisions:
+    current: c674c3
+    tree:
+      c674c3:
+        object:
+          id: 1386
+          definition: >-
+            vertical distance, at any section of a vessel from the surface of
+            the water to the bottom of the keel
+          language_code: eng
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: IHO Hydrographic Dictionary
+            clause: 'S-32, Fifth Edition'
+          lineage_source: 'ISO/TS 19130-2:2014, 4.17'
+          lineage_source_similarity: 1
+          date_accepted: 2014-01-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: draught
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-01-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+kor:
+  id: 1386
+  definition: 선체내 해수면에서 용골바닥까지의 수직 거리
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: IHO Hydrographic Dictionary
+    clause: 'S-32, Fifth Edition'
+  lineage_source: 'ISO/TS 19130-2:2014, 4.17'
+  lineage_source_similarity: 1
+  date_accepted: 2014-01-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: 흘수
+      normative_status: preferred
+  _revisions:
+    current: 366d98
+    tree:
+      366d98:
+        object:
+          id: 1386
+          definition: 선체내 해수면에서 용골바닥까지의 수직 거리
+          language_code: kor
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: IHO Hydrographic Dictionary
+            clause: 'S-32, Fifth Edition'
+          lineage_source: 'ISO/TS 19130-2:2014, 4.17'
+          lineage_source_similarity: 1
+          date_accepted: 2014-01-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: 흘수
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-01-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+msa:
+  id: 1386
+  language_code: msa
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: IHO Hydrographic Dictionary
+    clause: 'S-32, Fifth Edition'
+  lineage_source: 'Istilah ukur dan Pemetaan (DBP, 1992)'
+  date_accepted: 2014-01-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: lunas
+      normative_status: preferred
+  _revisions:
+    current: 27f06d
+    tree:
+      27f06d:
+        object:
+          id: 1386
+          language_code: msa
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: IHO Hydrographic Dictionary
+            clause: 'S-32, Fifth Edition'
+          lineage_source: 'Istilah ukur dan Pemetaan (DBP, 1992)'
+          date_accepted: 2014-01-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: lunas
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-01-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 1386
+  definition: >-
+    вертикальное расстояние, на любом участке судна от поверхности воды до дна
+    киля
+  language_code: rus
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: IHO Hydrographic Dictionary
+    clause: 'S-32, Fifth Edition'
+  lineage_source: 'ISO/TS 19130-2:2014, 4.17'
+  lineage_source_similarity: 1
+  date_accepted: 2014-01-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: осадка
+      normative_status: preferred
+  _revisions:
+    current: af466e
+    tree:
+      af466e:
+        object:
+          id: 1386
+          definition: >-
+            вертикальное расстояние, на любом участке судна от поверхности воды
+            до дна киля
+          language_code: rus
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: IHO Hydrographic Dictionary
+            clause: 'S-32, Fifth Edition'
+          lineage_source: 'ISO/TS 19130-2:2014, 4.17'
+          lineage_source_similarity: 1
+          date_accepted: 2014-01-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: осадка
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-01-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 1386
+  definition: >-
+    distancia vertical, medida en cualquier parte del buque, desde la superficie
+    del agua
+
+    hasta el fondo de la quilla
+  language_code: spa
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: IHO Hydrographic Dictionary
+    clause: 'S-32, Fifth Edition'
+  lineage_source: 'ISO/TS 19130-2:2014, 4.17'
+  lineage_source_similarity: 1
+  date_accepted: 2014-01-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: calado
+      normative_status: preferred
+  _revisions:
+    current: 566ad0
+    tree:
+      566ad0:
+        object:
+          id: 1386
+          definition: >-
+            distancia vertical, medida en cualquier parte del buque, desde la
+            superficie del agua
+
+            hasta el fondo de la quilla
+          language_code: spa
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: IHO Hydrographic Dictionary
+            clause: 'S-32, Fifth Edition'
+          lineage_source: 'ISO/TS 19130-2:2014, 4.17'
+          lineage_source_similarity: 1
+          date_accepted: 2014-01-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: calado
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-01-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

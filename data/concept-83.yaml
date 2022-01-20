@@ -1,0 +1,698 @@
+term: continuous coverage
+termid: 83
+eng:
+  id: 83
+  definition: >-
+    coverage that returns different values for the same feature attribute at
+    different direct positions within a single spatial object, temporal object,
+    or spatiotemporal object in its domain
+  language_code: eng
+  notes:
+    - >-
+      Although the domain of a continuous coverage is ordinarily bounded in
+      terms of its spatial and/or temporal extent, it can be subdivided into an
+      infinite number of direct positions.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19123:2005'
+    link: 'https://www.iso.org/standard/40121.html'
+  date_accepted: 2005-08-15T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: continuous coverage
+      normative_status: preferred
+  _revisions:
+    current: 8d2fb9
+    tree:
+      8d2fb9:
+        object:
+          id: 83
+          definition: >-
+            coverage that returns different values for the same feature
+            attribute at different direct positions within a single spatial
+            object, temporal object, or spatiotemporal object in its domain
+          language_code: eng
+          notes:
+            - >-
+              Although the domain of a continuous coverage is ordinarily bounded
+              in terms of its spatial and/or temporal extent, it can be
+              subdivided into an infinite number of direct positions.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19123:2005'
+            link: 'https://www.iso.org/standard/40121.html'
+          date_accepted: 2005-08-15T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: continuous coverage
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-08-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+ara:
+  id: 83
+  definition: >-
+    تغطية تعيد قيم مختلفة لخاصية المعلم نفسه ، التي تكون على مواقع مباشرة مختلفة
+    ضمن كيان مكاني واحد ،أو كيان زماني أو كيان مكاني-زماني ، في نطاقها
+  language_code: ara
+  notes:
+    - >-
+      رغم أن مجال التغطية المستمرة يكون في الأحوال العادية محدداً بحدود معلومة
+      حسب امتداده المكاني أو الزماني ، أو بالامتدادين معاً , إلا أنه قابل
+      للتقسيم إلى أقسام فرعية من المواقع المباشرة بعدد لا متناهٍ .
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19123:2005'
+    link: 'https://www.iso.org/standard/40121.html'
+  date_accepted: 2005-08-15T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: تغطية مستمرة
+      normative_status: preferred
+  _revisions:
+    current: e19ef1
+    tree:
+      e19ef1:
+        object:
+          id: 83
+          definition: >-
+            تغطية تعيد قيم مختلفة لخاصية المعلم نفسه ، التي تكون على مواقع
+            مباشرة مختلفة ضمن كيان مكاني واحد ،أو كيان زماني أو كيان مكاني-زماني
+            ، في نطاقها
+          language_code: ara
+          notes:
+            - >-
+              رغم أن مجال التغطية المستمرة يكون في الأحوال العادية محدداً بحدود
+              معلومة حسب امتداده المكاني أو الزماني ، أو بالامتدادين معاً , إلا
+              أنه قابل للتقسيم إلى أقسام فرعية من المواقع المباشرة بعدد لا
+              متناهٍ .
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19123:2005'
+            link: 'https://www.iso.org/standard/40121.html'
+          date_accepted: 2005-08-15T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: تغطية مستمرة
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-08-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+zho:
+  id: 83
+  definition: 在一个数据覆盖域中，单独的空间对象、时间对象或时空对象的相同要素属性在不同的直接位置返回不同值的覆盖。
+  language_code: zho
+  notes:
+    - '虽然连续数据覆盖域通常受空间范围和/或时间范围的限制,但是它可以再分成无限个直接位置。'
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19123:2005'
+    link: 'https://www.iso.org/standard/40121.html'
+  date_accepted: 2005-08-15T00:00:00.000Z
+  terms:
+    - type: expression
+      designation: 连续覆盖
+      normative_status: preferred
+  _revisions:
+    current: 2945be
+    tree:
+      2945be:
+        object:
+          id: 83
+          definition: 在一个数据覆盖域中，单独的空间对象、时间对象或时空对象的相同要素属性在不同的直接位置返回不同值的覆盖。
+          language_code: zho
+          notes:
+            - '虽然连续数据覆盖域通常受空间范围和/或时间范围的限制,但是它可以再分成无限个直接位置。'
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19123:2005'
+            link: 'https://www.iso.org/standard/40121.html'
+          date_accepted: 2005-08-15T00:00:00.000Z
+          terms:
+            - type: expression
+              designation: 连续覆盖
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-08-15T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+dan:
+  id: 83
+  definition: >-
+    coverage, der giver forskellige værdier for samme featureattribut på
+    forskellige direkte positioner inden for et enkelt spatialt objekt,
+    temporale objekt eller temporalt-spatialt objekt i sit domæne
+  language_code: dan
+  notes:
+    - >-
+      Skønt en sammenhængende coverages domæne sædvanligvis er afgrænset ved sin
+      rumlige og/eller tidsmæssige udbredelse, kan den underinddeles i et
+      uendeligt antal direkte positioner.
+  examples: []
+  authoritative_source:
+    ref: 'ISO 19123:2005'
+    link: 'https://www.iso.org/standard/40121.html'
+  date_accepted: 2005-08-15T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: 'coverage,  sammenhængende'
+      normative_status: null
+  _revisions:
+    current: 0bf6de
+    tree:
+      0bf6de:
+        object:
+          id: 83
+          definition: >-
+            coverage, der giver forskellige værdier for samme featureattribut på
+            forskellige direkte positioner inden for et enkelt spatialt objekt,
+            temporale objekt eller temporalt-spatialt objekt i sit domæne
+          language_code: dan
+          notes:
+            - >-
+              Skønt en sammenhængende coverages domæne sædvanligvis er afgrænset
+              ved sin rumlige og/eller tidsmæssige udbredelse, kan den
+              underinddeles i et uendeligt antal direkte positioner.
+          examples: []
+          authoritative_source:
+            ref: 'ISO 19123:2005'
+            link: 'https://www.iso.org/standard/40121.html'
+          date_accepted: 2005-08-15T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: 'coverage,  sammenhængende'
+              normative_status: null
+        parents: []
+        timeCreated: 2005-08-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+fin:
+  id: 83
+  definition: >-
+    paikkatietojatkumo, jonka alueella olevan spatiaalisen, temporaalisen tai
+    spatiotemporaalisen objektin sisällä sama kohteen ominaisuus saa eri arvot
+    eri koordinaattipisteissä
+  language_code: fin
+  notes:
+    - >-
+      Vaikka jatkuvan paikkatietojatkumon kattama alue on tavallisesti
+      spatiaalisesti ja/tai temporaalisesti rajattu, se voidaan jakaa
+      äärettömään määrään koordinaattipisteitä.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19123:2005'
+    link: 'https://www.iso.org/standard/40121.html'
+  lineage_source: >-
+    Sanastokeskus TSK: Geoinformatiikan sanasto (TSK 45), 2013;
+    Maanmittauslaitos
+  date_accepted: 2013-07-03T00:00:00.000Z
+  terms:
+    - type: expression
+      designation: jatkuva paikkatietojatkumo
+      normative_status: preferred
+  _revisions:
+    current: aa434b
+    tree:
+      aa434b:
+        object:
+          id: 83
+          definition: >-
+            paikkatietojatkumo, jonka alueella olevan spatiaalisen,
+            temporaalisen tai spatiotemporaalisen objektin sisällä sama kohteen
+            ominaisuus saa eri arvot eri koordinaattipisteissä
+          language_code: fin
+          notes:
+            - >-
+              Vaikka jatkuvan paikkatietojatkumon kattama alue on tavallisesti
+              spatiaalisesti ja/tai temporaalisesti rajattu, se voidaan jakaa
+              äärettömään määrään koordinaattipisteitä.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19123:2005'
+            link: 'https://www.iso.org/standard/40121.html'
+          lineage_source: >-
+            Sanastokeskus TSK: Geoinformatiikan sanasto (TSK 45), 2013;
+            Maanmittauslaitos
+          date_accepted: 2013-07-03T00:00:00.000Z
+          terms:
+            - type: expression
+              designation: jatkuva paikkatietojatkumo
+              normative_status: preferred
+        parents: []
+        timeCreated: 2013-07-03T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+fra:
+  id: 83
+  definition: >-
+    couverture qui retourne des valeurs différentes pour le même attribut
+    d'entité à différentes positions directes à l'intérieur de tout objet
+    spatial, temporel ou spatiotemporel dans son domaine
+  language_code: fra
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: ISO 19123
+    link: 'https://www.iso.org/standard/40121.html'
+  lineage_source: ''
+  date_accepted: 2005-08-15T00:00:00.000Z
+  terms:
+    - type: expression
+      designation: couverture continue
+      normative_status: preferred
+  _revisions:
+    current: 600a52
+    tree:
+      600a52:
+        object:
+          id: 83
+          definition: >-
+            couverture qui retourne des valeurs différentes pour le même
+            attribut d'entité à différentes positions directes à l'intérieur de
+            tout objet spatial, temporel ou spatiotemporel dans son domaine
+          language_code: fra
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: ISO 19123
+            link: 'https://www.iso.org/standard/40121.html'
+          lineage_source: ''
+          date_accepted: 2005-08-15T00:00:00.000Z
+          terms:
+            - type: expression
+              designation: couverture continue
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-08-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+deu:
+  id: 83
+  language_code: deu
+  notes:
+    - >-
+      Although the domain of a continuous coverage is ordinarily bounded in
+      terms of its spatial and/or temporal extent, it can be subdivided into an
+      infinite number of direct positions.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19123:2005'
+    link: 'https://www.iso.org/standard/40121.html'
+  date_accepted: 2005-08-15T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: stetiges Coverage
+      normative_status: preferred
+  _revisions:
+    current: 83243d
+    tree:
+      83243d:
+        object:
+          id: 83
+          language_code: deu
+          notes:
+            - >-
+              Although the domain of a continuous coverage is ordinarily bounded
+              in terms of its spatial and/or temporal extent, it can be
+              subdivided into an infinite number of direct positions.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19123:2005'
+            link: 'https://www.iso.org/standard/40121.html'
+          date_accepted: 2005-08-15T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: stetiges Coverage
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-08-15T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+kor:
+  id: 83
+  definition: '동일한 피처(공간 객체, 시간 객체, 시공간 객체) 속성값이 영역 내 서로 다른 직접 위치에서 다른 값을 갖는 커버리지'
+  language_code: kor
+  notes:
+    - '연속 커버리지의 영역이 통상적으로 시간 또는 공간 범위의 표현으로 한정될지라도, 이는 무한한 수의 위치로 세분될 수 있다.'
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19123:2005'
+    link: 'https://www.iso.org/standard/40121.html'
+  lineage_source: KS X ISO 19123
+  date_accepted: 2007-11-01T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: 연속 커버리지
+      normative_status: preferred
+  _revisions:
+    current: 7bef94
+    tree:
+      7bef94:
+        object:
+          id: 83
+          definition: '동일한 피처(공간 객체, 시간 객체, 시공간 객체) 속성값이 영역 내 서로 다른 직접 위치에서 다른 값을 갖는 커버리지'
+          language_code: kor
+          notes:
+            - >-
+              연속 커버리지의 영역이 통상적으로 시간 또는 공간 범위의 표현으로 한정될지라도, 이는 무한한 수의 위치로 세분될 수
+              있다.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19123:2005'
+            link: 'https://www.iso.org/standard/40121.html'
+          lineage_source: KS X ISO 19123
+          date_accepted: 2007-11-01T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: 연속 커버리지
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-11-01T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+msa:
+  id: 83
+  language_code: msa
+  notes:
+    - >-
+      Although the domain of a continuous coverage is ordinarily bounded in
+      terms of its spatial and/or temporal extent, it can be subdivided into an
+      infinite number of direct positions.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19123:2005'
+    link: 'https://www.iso.org/standard/40121.html'
+  lineage_source: kamus-istilah ukur dan pemetaan
+  date_accepted: 2005-08-15T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: liputan selanjar
+      normative_status: preferred
+  _revisions:
+    current: 10cf0e
+    tree:
+      10cf0e:
+        object:
+          id: 83
+          language_code: msa
+          notes:
+            - >-
+              Although the domain of a continuous coverage is ordinarily bounded
+              in terms of its spatial and/or temporal extent, it can be
+              subdivided into an infinite number of direct positions.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19123:2005'
+            link: 'https://www.iso.org/standard/40121.html'
+          lineage_source: kamus-istilah ukur dan pemetaan
+          date_accepted: 2005-08-15T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: liputan selanjar
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-08-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+pol:
+  id: 83
+  definition: >-
+    pokrycie, które przyjmuje różne wartości tego samego atrybutu obiektu w
+    różnych położeniach bezpośrednich w obrębie pojedynczego obiektu
+    przestrzennego, czasowego lub czasoprzestrzennego z jego dziedziny
+  language_code: pol
+  notes:
+    - >-
+      Mimo, że dziedzina pokrycia ciągłego jest zwykle ograniczona przestrzennie
+      i/lub czasowo, to może być dzielona na nieskończoną ilość położeń
+      bezpośrednich.
+  examples: []
+  authoritative_source:
+    ref: 'ISO 19123:2005'
+    link: 'https://www.iso.org/standard/40121.html'
+  lineage_source: PN-EN ISO 19123
+  date_accepted: 2005-08-15T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: pokrycie ciągłe
+      normative_status: preferred
+  _revisions:
+    current: 7b4c51
+    tree:
+      7b4c51:
+        object:
+          id: 83
+          definition: >-
+            pokrycie, które przyjmuje różne wartości tego samego atrybutu
+            obiektu w różnych położeniach bezpośrednich w obrębie pojedynczego
+            obiektu przestrzennego, czasowego lub czasoprzestrzennego z jego
+            dziedziny
+          language_code: pol
+          notes:
+            - >-
+              Mimo, że dziedzina pokrycia ciągłego jest zwykle ograniczona
+              przestrzennie i/lub czasowo, to może być dzielona na nieskończoną
+              ilość położeń bezpośrednich.
+          examples: []
+          authoritative_source:
+            ref: 'ISO 19123:2005'
+            link: 'https://www.iso.org/standard/40121.html'
+          lineage_source: PN-EN ISO 19123
+          date_accepted: 2005-08-15T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: pokrycie ciągłe
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-08-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 83
+  definition: >-
+    покрытие, возвращающее разные значения одного атрибута для различных  точек
+    в пределах одного пространственного , временнóго или
+    пространственно-временнóго объекта в его области определения
+  language_code: rus
+  notes:
+    - >-
+      Хотя область определения непрерывного покрытия обычно ограничивают,
+      используя понятия пространственной и/или временнóй протяженности, она
+      может быть подразделена на бесконечное количество точек
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19123:2005'
+    link: 'https://www.iso.org/standard/40121.html'
+  lineage_source: Internet
+  date_accepted: 2005-08-15T00:00:00.000Z
+  terms:
+    - type: expression
+      designation: непрерывное покрытие
+      normative_status: preferred
+  _revisions:
+    current: 9ee942
+    tree:
+      9ee942:
+        object:
+          id: 83
+          definition: >-
+            покрытие, возвращающее разные значения одного атрибута для
+            различных  точек в пределах одного пространственного , временнóго
+            или пространственно-временнóго объекта в его области определения
+          language_code: rus
+          notes:
+            - >-
+              Хотя область определения непрерывного покрытия обычно
+              ограничивают, используя понятия пространственной и/или временнóй
+              протяженности, она может быть подразделена на бесконечное
+              количество точек
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19123:2005'
+            link: 'https://www.iso.org/standard/40121.html'
+          lineage_source: Internet
+          date_accepted: 2005-08-15T00:00:00.000Z
+          terms:
+            - type: expression
+              designation: непрерывное покрытие
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-08-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 83
+  definition: >-
+    cobertura que devuelve valores diferentes para el mismo atributo de objeto
+    geográfico en diferentes posiciones directas dentro de un único objeto
+    espacial, objeto temporal, u objeto espacio-temporal en su dominio
+  language_code: spa
+  notes:
+    - >-
+      Aunque el dominio de una cobertura continua está habitualmente limitado en
+      términos de su extensión espacial y/o temporal, puede subdividirse en un
+      número infinito de posiciones directas.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19123:2005'
+    link: 'https://www.iso.org/standard/40121.html'
+  date_accepted: 2005-08-15T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: cobertura continua
+      normative_status: preferred
+  _revisions:
+    current: '859512'
+    tree:
+      '859512':
+        object:
+          id: 83
+          definition: >-
+            cobertura que devuelve valores diferentes para el mismo atributo de
+            objeto geográfico en diferentes posiciones directas dentro de un
+            único objeto espacial, objeto temporal, u objeto espacio-temporal en
+            su dominio
+          language_code: spa
+          notes:
+            - >-
+              Aunque el dominio de una cobertura continua está habitualmente
+              limitado en términos de su extensión espacial y/o temporal, puede
+              subdividirse en un número infinito de posiciones directas.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19123:2005'
+            link: 'https://www.iso.org/standard/40121.html'
+          date_accepted: 2005-08-15T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: cobertura continua
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-08-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+swe:
+  id: 83
+  definition: >-
+    domänobjekttyp vars objekt definierar en domän inom vilket objektets
+    uppgifter varierar kontinuerligt med positionen
+  country_code: swe
+  language_code: swe
+  notes:
+    - >-
+      Although the domain of a continuous coverage is ordinarily bounded in
+      terms of its spatial and/or temporal extent, it can be subdivided into an
+      infinite number of direct positions.
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19123:2005'
+    link: 'https://www.iso.org/standard/40121.html'
+  lineage_source: (Type reference to national language document)
+  date_accepted: 2005-08-15T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: kontinuerlig domänobjekttyp
+      normative_status: preferred
+  _revisions:
+    current: '949e97'
+    tree:
+      '949e97':
+        object:
+          id: 83
+          definition: >-
+            domänobjekttyp vars objekt definierar en domän inom vilket objektets
+            uppgifter varierar kontinuerligt med positionen
+          country_code: swe
+          language_code: swe
+          notes:
+            - >-
+              Although the domain of a continuous coverage is ordinarily bounded
+              in terms of its spatial and/or temporal extent, it can be
+              subdivided into an infinite number of direct positions.
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19123:2005'
+            link: 'https://www.iso.org/standard/40121.html'
+          lineage_source: (Type reference to national language document)
+          date_accepted: 2005-08-15T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: kontinuerlig domänobjekttyp
+              normative_status: preferred
+        parents: []
+        timeCreated: 2005-08-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

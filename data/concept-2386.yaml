@@ -1,0 +1,70 @@
+term: measure
+termid: 2386
+eng:
+  id: 2386
+  definition: operations associated to measurements
+  language_code: eng
+  notes:
+    - >-
+      Generically, a metric is a standard of measure of any kind. The Greek word
+      metron, meaning “measure,” giving us “metr”. Latin metricus and Greek
+      metrikós "of, relating to measuring". See metric unit
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19107:2019'
+    clause: '(E), 3.61'
+    link: 'https://www.iso.org/standard/66175.html'
+  date_accepted: 2019-12-02T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: Normal ISO processing
+  review_decision_notes: 'Publication of document ISO 19107:2019(E)'
+  release: '5'
+  terms:
+    - type: expression
+      designation: measure
+      normative_status: admitted
+    - designation: metric operation
+      type: expression
+  _revisions:
+    current: 5061bc
+    tree:
+      5061bc:
+        object:
+          id: 2386
+          definition: operations associated to measurements
+          language_code: eng
+          notes:
+            - >-
+              Generically, a metric is a standard of measure of any kind. The
+              Greek word metron, meaning “measure,” giving us “metr”. Latin
+              metricus and Greek metrikós "of, relating to measuring". See
+              metric unit
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19107:2019'
+            clause: '(E), 3.61'
+            link: 'https://www.iso.org/standard/66175.html'
+          date_accepted: 2019-12-02T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: Normal ISO processing
+          review_decision_notes: 'Publication of document ISO 19107:2019(E)'
+          release: '5'
+          terms:
+            - type: expression
+              designation: measure
+              normative_status: admitted
+            - designation: metric operation
+              type: expression
+        parents: []
+        timeCreated: 2019-12-02T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

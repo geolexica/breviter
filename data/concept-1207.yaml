@@ -1,0 +1,233 @@
+term: agency
+termid: 1207
+eng:
+  id: 1207
+  definition: >-
+    legal relationship of a person (called the agent) who acts on behalf of
+    another person, company, or government (called the principal)
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19153:2014'
+    clause: '4.2'
+    link: 'https://www.iso.org/standard/32571.html'
+  date_accepted: 2014-02-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: agency
+      normative_status: preferred
+  _revisions:
+    current: ebcc7b
+    tree:
+      ebcc7b:
+        object:
+          id: 1207
+          definition: >-
+            legal relationship of a person (called the agent) who acts on behalf
+            of another person, company, or government (called the principal)
+          language_code: eng
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19153:2014'
+            clause: '4.2'
+            link: 'https://www.iso.org/standard/32571.html'
+          date_accepted: 2014-02-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: agency
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+kor:
+  id: 1207
+  definition: '타인, 회사 또는 정부(본인)를 대리한 자(대리인)의 법률적 관계'
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19153:2014'
+    clause: '4.2'
+    link: 'https://www.iso.org/standard/32571.html'
+  date_accepted: 2014-02-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: 대리기관
+      normative_status: preferred
+  _revisions:
+    current: be2364
+    tree:
+      be2364:
+        object:
+          id: 1207
+          definition: '타인, 회사 또는 정부(본인)를 대리한 자(대리인)의 법률적 관계'
+          language_code: kor
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19153:2014'
+            clause: '4.2'
+            link: 'https://www.iso.org/standard/32571.html'
+          date_accepted: 2014-02-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: 대리기관
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+msa:
+  id: 1207
+  definition: badan yg menjalankan urusan tertentu
+  language_code: msa
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19153:2014'
+    clause: '4.2'
+    link: 'https://www.iso.org/standard/32571.html'
+  lineage_source: Pusat Rujukan Persuratan Melayu (DBP)
+  date_accepted: 2014-02-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: Agensi
+      normative_status: preferred
+  _revisions:
+    current: 49b8b6
+    tree:
+      49b8b6:
+        object:
+          id: 1207
+          definition: badan yg menjalankan urusan tertentu
+          language_code: msa
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19153:2014'
+            clause: '4.2'
+            link: 'https://www.iso.org/standard/32571.html'
+          lineage_source: Pusat Rujukan Persuratan Melayu (DBP)
+          date_accepted: 2014-02-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: Agensi
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 1207
+  definition: >-
+    правовые отношения лица (называемого агентом), действующего от имени другого
+    лица, компании или правительства (называемого принципалом)
+  language_code: rus
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19153:2014'
+    clause: '4.2'
+    link: 'https://www.iso.org/standard/32571.html'
+  lineage_source: 'перевод ИСО 19153:2014'
+  date_accepted: 2014-02-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: агентирование
+      normative_status: preferred
+  _revisions:
+    current: 49a1b6
+    tree:
+      49a1b6:
+        object:
+          id: 1207
+          definition: >-
+            правовые отношения лица (называемого агентом), действующего от имени
+            другого лица, компании или правительства (называемого принципалом)
+          language_code: rus
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19153:2014'
+            clause: '4.2'
+            link: 'https://www.iso.org/standard/32571.html'
+          lineage_source: 'перевод ИСО 19153:2014'
+          date_accepted: 2014-02-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: агентирование
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 1207
+  definition: >-
+    relación legal de una persona (llamada representante) que actua en nombre de
+    otra persona, compañía o gobierno (llamado titular)
+  language_code: spa
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19153:2014'
+    clause: '4.2'
+    link: 'https://www.iso.org/standard/32571.html'
+  date_accepted: 2014-02-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: representación
+      normative_status: preferred
+  _revisions:
+    current: 9cfd0f
+    tree:
+      9cfd0f:
+        object:
+          id: 1207
+          definition: >-
+            relación legal de una persona (llamada representante) que actua en
+            nombre de otra persona, compañía o gobierno (llamado titular)
+          language_code: spa
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19153:2014'
+            clause: '4.2'
+            link: 'https://www.iso.org/standard/32571.html'
+          date_accepted: 2014-02-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: representación
+              normative_status: preferred
+        parents: []
+        timeCreated: 2014-02-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

@@ -1,0 +1,495 @@
+term: passive tracking
+termid: 678
+eng:
+  id: 678
+  definition: >-
+    tracking dependent on stationary sensors external to the vehicle or
+    traveller allowing for measurements of location when the vehicle's or
+    traveller's tracking device passes through the range of external sensors of
+    known position
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19132:2007'
+    link: 'https://www.iso.org/standard/40601.html'
+  date_accepted: 2007-10-15T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: passive tracking
+      normative_status: preferred
+  _revisions:
+    current: '850097'
+    tree:
+      '850097':
+        object:
+          id: 678
+          definition: >-
+            tracking dependent on stationary sensors external to the vehicle or
+            traveller allowing for measurements of location when the vehicle's
+            or traveller's tracking device passes through the range of external
+            sensors of known position
+          language_code: eng
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19132:2007'
+            link: 'https://www.iso.org/standard/40601.html'
+          date_accepted: 2007-10-15T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: passive tracking
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-10-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+ara:
+  id: 678
+  definition: >-
+    تتبع يعتمد على أجهزة استشعار ثابتة تقع خارج العربه أو الجسم المتحرك وتسمح
+    بإجراء قياسات للمواقع عندما تمر أداة التتبع المحمولة في السيارة أو الجسم
+    المتحرك بمنطقة تقع داخل المدى الذي تغطيه أجهزة الاستشعار الخارجية ذات
+    المواقع المحددة
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19132:2007'
+    link: 'https://www.iso.org/standard/40601.html'
+  date_accepted: 2007-10-15T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: تتبع سلبي
+      normative_status: preferred
+  _revisions:
+    current: c89c05
+    tree:
+      c89c05:
+        object:
+          id: 678
+          definition: >-
+            تتبع يعتمد على أجهزة استشعار ثابتة تقع خارج العربه أو الجسم المتحرك
+            وتسمح بإجراء قياسات للمواقع عندما تمر أداة التتبع المحمولة في
+            السيارة أو الجسم المتحرك بمنطقة تقع داخل المدى الذي تغطيه أجهزة
+            الاستشعار الخارجية ذات المواقع المحددة
+          language_code: ara
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19132:2007'
+            link: 'https://www.iso.org/standard/40601.html'
+          date_accepted: 2007-10-15T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: تتبع سلبي
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-10-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+zho:
+  id: 678
+  definition: 只能响应外界刺激，不能主动发起动作的对象。
+  language_code: zho
+  notes:
+    - >-
+      被动对象通常通过外部接口被访问，通过外部接口接收请求、处理请求并返回数据作为请求的响应。由于对象可以实现多个类型,因此，单个对象可能经历主动状态和被动状态。比如,除非跟踪请求处于激活期,否则跟踪服务就处于不活动状态。这里，激活期是指根据内部触发器指定的请求，对象的内部将进入跟踪活动的时段。当跟踪请求取消时,该对象可返回到被动状态。
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19132:2007'
+    link: 'https://www.iso.org/standard/40601.html'
+  date_accepted: 2007-10-15T00:00:00.000Z
+  terms:
+    - type: expression
+      designation: 被动对象
+      normative_status: preferred
+  _revisions:
+    current: ecca84
+    tree:
+      ecca84:
+        object:
+          id: 678
+          definition: 只能响应外界刺激，不能主动发起动作的对象。
+          language_code: zho
+          notes:
+            - >-
+              被动对象通常通过外部接口被访问，通过外部接口接收请求、处理请求并返回数据作为请求的响应。由于对象可以实现多个类型,因此，单个对象可能经历主动状态和被动状态。比如,除非跟踪请求处于激活期,否则跟踪服务就处于不活动状态。这里，激活期是指根据内部触发器指定的请求，对象的内部将进入跟踪活动的时段。当跟踪请求取消时,该对象可返回到被动状态。
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19132:2007'
+            link: 'https://www.iso.org/standard/40601.html'
+          date_accepted: 2007-10-15T00:00:00.000Z
+          terms:
+            - type: expression
+              designation: 被动对象
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-10-15T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+fin:
+  id: 678
+  definition: >-
+    seuranta, jossa hyödynnetään paikallaan pysyviä, ajoneuvon tai
+    seurantakohteen ulkopuolisia sensoreita, joilla tehdään sijaintimittauksia,
+    kun ajoneuvon tai kohteen seurantalaite kulkee sijainniltaan tunnettujen
+    ulkoisten sensoreiden ohi
+  language_code: fin
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19132:2007'
+    link: 'https://www.iso.org/standard/40601.html'
+  lineage_source: 'Ei lähdettä, käännetty'
+  date_accepted: 2007-10-15T00:00:00.000Z
+  terms:
+    - type: expression
+      designation: passiivinen seuranta
+      normative_status: preferred
+  _revisions:
+    current: 499c2e
+    tree:
+      499c2e:
+        object:
+          id: 678
+          definition: >-
+            seuranta, jossa hyödynnetään paikallaan pysyviä, ajoneuvon tai
+            seurantakohteen ulkopuolisia sensoreita, joilla tehdään
+            sijaintimittauksia, kun ajoneuvon tai kohteen seurantalaite kulkee
+            sijainniltaan tunnettujen ulkoisten sensoreiden ohi
+          language_code: fin
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19132:2007'
+            link: 'https://www.iso.org/standard/40601.html'
+          lineage_source: 'Ei lähdettä, käännetty'
+          date_accepted: 2007-10-15T00:00:00.000Z
+          terms:
+            - type: expression
+              designation: passiivinen seuranta
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-10-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+fra:
+  id: 678
+  definition: >-
+    suivi et positionnement du véhicule (ou du voyageur) équipé d'un dispositif
+    d'asservissement lorsque celui-ci passe à portée de capteurs stationnaires
+    externes
+  language_code: fra
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: ISO 19132
+    link: 'https://www.iso.org/standard/40601.html'
+  lineage_source: ''
+  date_accepted: 2007-10-15T00:00:00.000Z
+  terms:
+    - type: expression
+      designation: localisation passive
+      normative_status: preferred
+  _revisions:
+    current: 0961c7
+    tree:
+      0961c7:
+        object:
+          id: 678
+          definition: >-
+            suivi et positionnement du véhicule (ou du voyageur) équipé d'un
+            dispositif d'asservissement lorsque celui-ci passe à portée de
+            capteurs stationnaires externes
+          language_code: fra
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: ISO 19132
+            link: 'https://www.iso.org/standard/40601.html'
+          lineage_source: ''
+          date_accepted: 2007-10-15T00:00:00.000Z
+          terms:
+            - type: expression
+              designation: localisation passive
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-10-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+deu:
+  id: 678
+  language_code: deu
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19132:2007'
+    link: 'https://www.iso.org/standard/40601.html'
+  date_accepted: 2007-10-15T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: passives Tracking
+      normative_status: preferred
+  _revisions:
+    current: 7a5493
+    tree:
+      7a5493:
+        object:
+          id: 678
+          language_code: deu
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19132:2007'
+            link: 'https://www.iso.org/standard/40601.html'
+          date_accepted: 2007-10-15T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: passives Tracking
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-10-15T00:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
+kor:
+  id: 678
+  definition: >-
+    차량 또는 여행자의 추적 장치가 정해진 위치의 외부 센서 범위를 통과할 때, 차량 또는 여행자의 위치 측정이 가능하도록 외부에 설치한
+    고정 센서에 따른 추적
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19132:2007'
+    link: 'https://www.iso.org/standard/40601.html'
+  lineage_source: KS X ISO 19132
+  date_accepted: 2009-12-29T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: 수동 추적
+      normative_status: preferred
+    - designation: 수동 트래킹
+      type: expression
+  _revisions:
+    current: 4767af
+    tree:
+      4767af:
+        object:
+          id: 678
+          definition: >-
+            차량 또는 여행자의 추적 장치가 정해진 위치의 외부 센서 범위를 통과할 때, 차량 또는 여행자의 위치 측정이 가능하도록
+            외부에 설치한 고정 센서에 따른 추적
+          language_code: kor
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19132:2007'
+            link: 'https://www.iso.org/standard/40601.html'
+          lineage_source: KS X ISO 19132
+          date_accepted: 2009-12-29T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: 수동 추적
+              normative_status: preferred
+            - designation: 수동 트래킹
+              type: expression
+        parents: []
+        timeCreated: 2009-12-29T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 678
+  definition: >-
+    слежение с использованием стационарных сенсоров, внешних по отношению к
+    транспортному средству или пешеходу; позволяет определять местоположение
+    транспортного средства или пешехода  при прохождении его трекера через зону
+    действия внешних сенсоров с известным положением
+  language_code: rus
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19132:2007'
+    link: 'https://www.iso.org/standard/40601.html'
+  lineage_source: Internet
+  date_accepted: 2007-10-15T00:00:00.000Z
+  terms:
+    - type: expression
+      designation: пассивное слежение
+      normative_status: preferred
+  _revisions:
+    current: a1db1c
+    tree:
+      a1db1c:
+        object:
+          id: 678
+          definition: >-
+            слежение с использованием стационарных сенсоров, внешних по
+            отношению к транспортному средству или пешеходу; позволяет
+            определять местоположение транспортного средства или пешехода  при
+            прохождении его трекера через зону действия внешних сенсоров с
+            известным положением
+          language_code: rus
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19132:2007'
+            link: 'https://www.iso.org/standard/40601.html'
+          lineage_source: Internet
+          date_accepted: 2007-10-15T00:00:00.000Z
+          terms:
+            - type: expression
+              designation: пассивное слежение
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-10-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 678
+  definition: >-
+    seguimiento dependiente de sensores fijos externos al vehículo o al viajero
+    permitiendo mediciones de la localización cuando el dispositivo de
+    seguimiento del vehículo o del viajero pasa a través del alcance de sensores
+    externos de posición conocida
+  language_code: spa
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19132:2007'
+    link: 'https://www.iso.org/standard/40601.html'
+  date_accepted: 2007-10-15T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: seguimiento pasivo
+      normative_status: preferred
+  _revisions:
+    current: 77ad5e
+    tree:
+      77ad5e:
+        object:
+          id: 678
+          definition: >-
+            seguimiento dependiente de sensores fijos externos al vehículo o al
+            viajero permitiendo mediciones de la localización cuando el
+            dispositivo de seguimiento del vehículo o del viajero pasa a través
+            del alcance de sensores externos de posición conocida
+          language_code: spa
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19132:2007'
+            link: 'https://www.iso.org/standard/40601.html'
+          date_accepted: 2007-10-15T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: seguimiento pasivo
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-10-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+swe:
+  id: 678
+  definition: >-
+    <av fordon> spårning som bygger på att fordonet passerar sensorer som är
+    uppsatta på kända platser
+  country_code: swe
+  language_code: swe
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: 'ISO 19132:2007'
+    link: 'https://www.iso.org/standard/40601.html'
+  lineage_source: (Type reference to national language document)
+  date_accepted: 2007-10-15T00:00:00.000Z
+  release: '1'
+  terms:
+    - type: expression
+      designation: passiv spårning
+      normative_status: preferred
+  _revisions:
+    current: e2e5b5
+    tree:
+      e2e5b5:
+        object:
+          id: 678
+          definition: >-
+            <av fordon> spårning som bygger på att fordonet passerar sensorer
+            som är uppsatta på kända platser
+          country_code: swe
+          language_code: swe
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 19132:2007'
+            link: 'https://www.iso.org/standard/40601.html'
+          lineage_source: (Type reference to national language document)
+          date_accepted: 2007-10-15T00:00:00.000Z
+          release: '1'
+          terms:
+            - type: expression
+              designation: passiv spårning
+              normative_status: preferred
+        parents: []
+        timeCreated: 2007-10-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

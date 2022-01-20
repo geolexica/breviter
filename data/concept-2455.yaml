@@ -1,0 +1,98 @@
+term: barycentric coordinates <coordinate geometry>
+termid: 2455
+eng:
+  id: 2455
+  definition: >-
+    point in a n-dimension coordinate system using `n+1` numbers, \([u_0, u_1,
+    u_2, u_3, ... , u_n] \backepsilon [[0 \leq u_i \leq 1] \wedge \sum u_i =
+    1.0]\), in which the location of a point of an n-simplex (of any dimension)
+    is specified by a weighted center of mass of equal masses placed at its
+    vertices using vector algebra of the `RR^n` used in the coordinate reference
+    system
+  language_code: eng
+  notes:
+    - >-
+      Even though there are `n+1` coordinates in a barycentric coordinate
+      system, the topological dimension is n, since the restriction (sums to
+      1.0) loses 1 degree of freedom (once you have n ordinates, the remaining
+      one is determined such as `u_n = 1.0 − sum_(i=0)^(n-1) u_i`. he
+      coordinates for the simplex are all non-negative, but the system can be
+      extended outside of the simples by using negative numbers. If the
+      ordinates are all positive, then the point is inside (interior to) the
+      n-simplex. If one of them is 1.0 and the other 0, this is a corner of the
+      simplex. If one of them is zero and the others still each greater than or
+      equal to zero, the point is on the n-1-simplex opposite the vertex zeroed
+      out. If any are negative, the point is outside of the simplex. The
+      coordinates are dependent on the underlying coordinate reference system of
+      the source data.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 19107:2019'
+    clause: '(E), 3.3'
+    link: 'https://www.iso.org/standard/66175.html'
+  date_accepted: 2019-12-02T00:00:00.000Z
+  review_date: 2019-12-02T00:00:00.000Z
+  review_status: final
+  review_decision: accepted
+  review_decision_date: 2019-12-02T00:00:00.000Z
+  review_decision_event: Normal ISO processing
+  review_decision_notes: 'Publication of document ISO 19107:2019(E)'
+  release: '5'
+  terms:
+    - type: expression
+      designation: barycentric coordinates <coordinate geometry>
+      normative_status: preferred
+  _revisions:
+    current: 36cba1
+    tree:
+      36cba1:
+        object:
+          id: 2455
+          definition: >-
+            point in a n-dimension coordinate system using `n+1` numbers,
+            \([u_0, u_1, u_2, u_3, ... , u_n] \backepsilon [[0 \leq u_i \leq 1]
+            \wedge \sum u_i = 1.0]\), in which the location of a point of an
+            n-simplex (of any dimension) is specified by a weighted center of
+            mass of equal masses placed at its vertices using vector algebra of
+            the `RR^n` used in the coordinate reference system
+          language_code: eng
+          notes:
+            - >-
+              Even though there are `n+1` coordinates in a barycentric
+              coordinate system, the topological dimension is n, since the
+              restriction (sums to 1.0) loses 1 degree of freedom (once you have
+              n ordinates, the remaining one is determined such as `u_n = 1.0 −
+              sum_(i=0)^(n-1) u_i`. he coordinates for the simplex are all
+              non-negative, but the system can be extended outside of the
+              simples by using negative numbers. If the ordinates are all
+              positive, then the point is inside (interior to) the n-simplex. If
+              one of them is 1.0 and the other 0, this is a corner of the
+              simplex. If one of them is zero and the others still each greater
+              than or equal to zero, the point is on the n-1-simplex opposite
+              the vertex zeroed out. If any are negative, the point is outside
+              of the simplex. The coordinates are dependent on the underlying
+              coordinate reference system of the source data.
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 19107:2019'
+            clause: '(E), 3.3'
+            link: 'https://www.iso.org/standard/66175.html'
+          date_accepted: 2019-12-02T00:00:00.000Z
+          review_date: 2019-12-02T00:00:00.000Z
+          review_status: final
+          review_decision: accepted
+          review_decision_date: 2019-12-02T00:00:00.000Z
+          review_decision_event: Normal ISO processing
+          review_decision_notes: 'Publication of document ISO 19107:2019(E)'
+          release: '5'
+          terms:
+            - type: expression
+              designation: barycentric coordinates <coordinate geometry>
+              normative_status: preferred
+        parents: []
+        timeCreated: 2019-12-02T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com

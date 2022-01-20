@@ -1,0 +1,296 @@
+term: catalogue
+termid: 1291
+eng:
+  id: 1291
+  definition: >-
+    collection of items or an electronic or paper document that contains
+    information about the collection of items
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 10303-227:2005'
+    clause: '3.3.10, modified - Note has been deleted.'
+    link: 'https://www.iso.org/standard/34006.html'
+  lineage_source: 'ISO 19157:2013, 4.2'
+  lineage_source_similarity: 1
+  date_accepted: 2013-12-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: catalogue
+      normative_status: preferred
+  _revisions:
+    current: 5dd1ed
+    tree:
+      5dd1ed:
+        object:
+          id: 1291
+          definition: >-
+            collection of items or an electronic or paper document that contains
+            information about the collection of items
+          language_code: eng
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 10303-227:2005'
+            clause: '3.3.10, modified - Note has been deleted.'
+            link: 'https://www.iso.org/standard/34006.html'
+          lineage_source: 'ISO 19157:2013, 4.2'
+          lineage_source_similarity: 1
+          date_accepted: 2013-12-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: catalogue
+              normative_status: preferred
+        parents: []
+        timeCreated: 2013-12-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+kor:
+  id: 1291
+  definition: '수집된 품목에 관한 정보를 담고 있는 전자문서, 종이문서 또는 수집 품목 목록'
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 10303-227:2005'
+    clause: '3.3.10, modified - Note has been deleted.'
+    link: 'https://www.iso.org/standard/34006.html'
+  lineage_source: 'ISO 19157:2013, 4.2'
+  lineage_source_similarity: 1
+  date_accepted: 2013-12-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: 목록
+      normative_status: preferred
+  _revisions:
+    current: 3a6b7e
+    tree:
+      3a6b7e:
+        object:
+          id: 1291
+          definition: '수집된 품목에 관한 정보를 담고 있는 전자문서, 종이문서 또는 수집 품목 목록'
+          language_code: kor
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 10303-227:2005'
+            clause: '3.3.10, modified - Note has been deleted.'
+            link: 'https://www.iso.org/standard/34006.html'
+          lineage_source: 'ISO 19157:2013, 4.2'
+          lineage_source_similarity: 1
+          date_accepted: 2013-12-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: 목록
+              normative_status: preferred
+        parents: []
+        timeCreated: 2013-12-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+msa:
+  id: 1291
+  definition: 'senarai atau daftar nama buku, barang dll dlm susunan tertentu'
+  language_code: msa
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 10303-227:2005'
+    clause: '3.3.10, modified - Note has been deleted.'
+    link: 'https://www.iso.org/standard/34006.html'
+  lineage_source: Pusat Rujukan Persuratan Melayu (DBP)
+  date_accepted: 2013-12-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: katalog
+      normative_status: preferred
+  _revisions:
+    current: 0ac9ba
+    tree:
+      0ac9ba:
+        object:
+          id: 1291
+          definition: 'senarai atau daftar nama buku, barang dll dlm susunan tertentu'
+          language_code: msa
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 10303-227:2005'
+            clause: '3.3.10, modified - Note has been deleted.'
+            link: 'https://www.iso.org/standard/34006.html'
+          lineage_source: Pusat Rujukan Persuratan Melayu (DBP)
+          date_accepted: 2013-12-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: katalog
+              normative_status: preferred
+        parents: []
+        timeCreated: 2013-12-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+rus:
+  id: 1291
+  definition: >-
+    коллекция элементов, либо электронный или бумажный документ, который
+    содержит информацию о коллекции элементов
+  language_code: rus
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 10303-227:2005'
+    clause: '3.3.10, modified - Note has been deleted.'
+    link: 'https://www.iso.org/standard/34006.html'
+  lineage_source: 'ГОСТ Р 57773-2017 (ИСО 19157:2013)'
+  lineage_source_similarity: 1
+  date_accepted: 2013-12-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: каталог
+      normative_status: preferred
+  _revisions:
+    current: 30a5fd
+    tree:
+      30a5fd:
+        object:
+          id: 1291
+          definition: >-
+            коллекция элементов, либо электронный или бумажный документ, который
+            содержит информацию о коллекции элементов
+          language_code: rus
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 10303-227:2005'
+            clause: '3.3.10, modified - Note has been deleted.'
+            link: 'https://www.iso.org/standard/34006.html'
+          lineage_source: 'ГОСТ Р 57773-2017 (ИСО 19157:2013)'
+          lineage_source_similarity: 1
+          date_accepted: 2013-12-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: каталог
+              normative_status: preferred
+        parents: []
+        timeCreated: 2013-12-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+spa:
+  id: 1291
+  definition: >-
+    colección de ítems, o documento en papel o electrónico, que contiene
+    información acerca de la colección de ítems
+  language_code: spa
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 10303-227:2005'
+    clause: '3.3.10, modified - Note has been deleted.'
+    link: 'https://www.iso.org/standard/34006.html'
+  lineage_source: 'ISO 19157:2013, 4.2'
+  lineage_source_similarity: 1
+  date_accepted: 2013-12-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: catálogo
+      normative_status: preferred
+  _revisions:
+    current: 99a339
+    tree:
+      99a339:
+        object:
+          id: 1291
+          definition: >-
+            colección de ítems, o documento en papel o electrónico, que contiene
+            información acerca de la colección de ítems
+          language_code: spa
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 10303-227:2005'
+            clause: '3.3.10, modified - Note has been deleted.'
+            link: 'https://www.iso.org/standard/34006.html'
+          lineage_source: 'ISO 19157:2013, 4.2'
+          lineage_source_similarity: 1
+          date_accepted: 2013-12-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: catálogo
+              normative_status: preferred
+        parents: []
+        timeCreated: 2013-12-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
+swe:
+  id: 1291
+  definition: samling av företeelser eller en förteckning över en sådan samling
+  country_code: swe
+  language_code: swe
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: 'ISO 10303-227:2005'
+    clause: '3.3.10, modified - Note has been deleted.'
+    link: 'https://www.iso.org/standard/34006.html'
+  lineage_source: 'ISO 19157:2013, 4.2'
+  lineage_source_similarity: 1
+  date_accepted: 2013-12-15T00:00:00.000Z
+  release: '3'
+  terms:
+    - type: expression
+      designation: katalog
+      normative_status: preferred
+  _revisions:
+    current: c5fc8a
+    tree:
+      c5fc8a:
+        object:
+          id: 1291
+          definition: samling av företeelser eller en förteckning över en sådan samling
+          country_code: swe
+          language_code: swe
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 10303-227:2005'
+            clause: '3.3.10, modified - Note has been deleted.'
+            link: 'https://www.iso.org/standard/34006.html'
+          lineage_source: 'ISO 19157:2013, 4.2'
+          lineage_source_similarity: 1
+          date_accepted: 2013-12-15T00:00:00.000Z
+          release: '3'
+          terms:
+            - type: expression
+              designation: katalog
+              normative_status: preferred
+        parents: []
+        timeCreated: 2013-12-15T00:00:00.000Z
+        author:
+          name: Glossarist bot
+          email: glossarist@ribose.com
