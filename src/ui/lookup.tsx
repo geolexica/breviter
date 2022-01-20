@@ -48,12 +48,11 @@ const LookupUI: React.FC<{
       {answer.length > 0 && (
         <div>
           Top-{answer.length} answers:
-        {answer.map((x, index) => (
-        <AnswerField answer={x} key={index} />
-      ))}
+          {answer.map((x, index) => (
+            <AnswerField answer={x} key={index} />
+          ))}
         </div>
-      )
-      }
+      )}
     </div>
   );
 };

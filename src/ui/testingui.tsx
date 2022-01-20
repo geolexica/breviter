@@ -1,4 +1,5 @@
-import {Spinner} from '@blueprintjs/core';
+import {Button, Spinner} from '@blueprintjs/core';
+import {Popover2} from '@blueprintjs/popover2';
 import {useMemo, useState} from 'react';
 import {UniversalSentenceEncoder} from '../sent';
 import {convertBERT, DBItem} from '../util/reverseEngine';
@@ -14,6 +15,12 @@ type Scores = {
   top5: number;
   top10: number;
   top20: number;
+};
+
+type ResultEntry = {
+  query: string;
+  expected: string;
+  answers: [string, number][];
 };
 
 const lens = [1, 3, 5, 10, 20] as const;
@@ -33,7 +40,7 @@ export default function TestingUI({data}: {data: DBItem[]}) {
   const [ready, setReady] = useState<boolean>(false);
   const [task, setTask] = useState<number>(0);
   const [scores, setScores] = useState<Scores>(initScore);
-  const [result, setResults] = useState<string[]>([]);
+  const [result, setResults] = useState<ResultEntry[]>([]);
 
   const loader = useMemo(() => {
     const l = new UniversalSentenceEncoder();
@@ -43,7 +50,7 @@ export default function TestingUI({data}: {data: DBItem[]}) {
     return l;
   }, []);
 
-  async function test(c: string[]) {
+  async function test(c: string[]): Promise<ResultEntry> {
     const query = await convertBERT(c[0], loader);
     const answer: Answer[] = [];
     for (const item of data) {
@@ -54,10 +61,11 @@ export default function TestingUI({data}: {data: DBItem[]}) {
     const words = final.map(f => f.word);
     setScores(s => updateScore(s, c, words));
     setProgress(p => p + 1);
-    return (
-      `Search: ${c[0]} Expected: ${c[1]} Results` +
-      final.map(w => `${w.word} (${w.score})`).join(' ')
-    );
+    return {
+      query: c[0],
+      expected: c[1],
+      answers: final.map(w => [w.word, w.score]),
+    };
   }
 
   async function process(x: string) {
@@ -67,7 +75,7 @@ export default function TestingUI({data}: {data: DBItem[]}) {
       .filter(x => x.length === 2);
     setTask(cases.length);
     setProgress(0);
-    const results: string[] = [];
+    const results: ResultEntry[] = [];
     for (const c of cases) {
       results.push(await test(c));
     }
@@ -117,7 +125,7 @@ const Progress: React.FC<{
 const Result: React.FC<{
   scores: Scores;
   task: number;
-  results: string[];
+  results: ResultEntry[];
 }> = function ({scores, task, results}) {
   return (
     <div>
@@ -128,9 +136,54 @@ const Result: React.FC<{
       ))}
       Details:
       {results.map((r, index) => (
-        <p key={index}>{r}</p>
+        <ResultItemDisplay key={index} item={r} pos={index + 1} />
       ))}
     </div>
+  );
+};
+
+const ResultItemDisplay: React.FC<{
+  item: ResultEntry;
+  pos: number;
+}> = function ({item, pos}) {
+  const rank = item.answers.map(x => x[0]).indexOf(item.expected);
+  return (
+    <fieldset
+      style={{
+        backgroundColor:
+          rank === 0 ? 'lightgreen' : rank !== -1 ? 'lightyellow' : 'lightpink',
+      }}
+    >
+      <legend>Test {pos}</legend>
+      <p>Search: {item.query}</p>
+      <p>Expected: {item.expected}</p>
+      <p>Result: rank {rank !== -1 ? rank + 1 : 'Not in Top 20'}</p>
+      <Popover2
+        content={<AnswerList list={item.answers} expected={item.expected} />}
+      >
+        <Button>Details</Button>
+      </Popover2>
+    </fieldset>
+  );
+};
+
+const AnswerList: React.FC<{
+  list: [string, number][];
+  expected: string;
+}> = function ({list, expected}) {
+  return (
+    <>
+      {list.map((x, index) => (
+        <p
+          style={{
+            color: x[0] === expected ? 'green' : 'black',
+          }}
+          key={index}
+        >
+          {index + 1}. {x[0]} ({x[1]})
+        </p>
+      ))}
+    </>
   );
 };
 
