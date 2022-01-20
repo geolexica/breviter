@@ -99,6 +99,6 @@ https://github.com/google-research/bert
 
 In fact, there is a multilingual version of the model that supports 102 languages in one single model. Not sure how to make it usable in the current application. Didn't have time to study it in details. Probably worth to study how to make it usable in a web environment.
 
-# Possible alternatives
+# Possible alternative solution
 
-1. The multilingual BERT model is native to python. Maybe it is simpler if the web can invoke some python codes.
+The multilingual BERT model is native to python. Maybe it is simpler if the web can invoke some python codes.
