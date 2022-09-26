@@ -6,7 +6,7 @@ The project proposal (including plan and deliverables) can be found on the Googl
 
 # Current status
 
-The database of the Geolexica is (asynchornizely) imported to the project. The AI model for English is done. A demo (for English) and a simple testing platform are ready.
+The database of the Geolexica is (asynchronously) imported to the project. The AI model for English is done. A demo (for English) and a simple testing platform are ready.
 
 # Instructions
 
