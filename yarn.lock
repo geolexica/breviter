@@ -233,6 +233,11 @@
   dependencies:
     tslib "^2.4.0"
 
+"@tensorflow-models/universal-sentence-encoder@^1.3.3":
+  version "1.3.3"
+  resolved "https://registry.yarnpkg.com/@tensorflow-models/universal-sentence-encoder/-/universal-sentence-encoder-1.3.3.tgz#39874e8a49a42c9c06716a3cdc25eea844f4de50"
+  integrity sha512-mipL7ad0CW6uQ68FUkNgkNj/zgA4qgBnNcnMMkNTdL9MUMnzCxu3AE8pWnx2ReKHwdqEG4e8IpaYKfH4B8bojg==
+
 "@tensorflow/tfjs-backend-cpu@3.20.0":
   version "3.20.0"
   resolved "https://registry.yarnpkg.com/@tensorflow/tfjs-backend-cpu/-/tfjs-backend-cpu-3.20.0.tgz#338ec5cfc7c713355839fd85ddf90b5b59b6099a"

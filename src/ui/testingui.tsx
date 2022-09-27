@@ -1,7 +1,7 @@
 import {Button, Spinner} from '@blueprintjs/core';
 import {Popover2} from '@blueprintjs/popover2';
 import {useMemo, useState} from 'react';
-import {UniversalSentenceEncoder} from '../sent';
+import {UniversalSentenceEncoder} from '@tensorflow-models/universal-sentence-encoder';
 import {convertBERT, DBItem} from '../util/reverseEngine';
 
 type Answer = {
