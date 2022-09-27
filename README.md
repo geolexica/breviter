@@ -31,9 +31,9 @@ Google drive.
 
 ## Current status
 
-* The database of the Geolexica has been imported to the project.
+* The Geolexica ISO/TC 211 concepts database is submoduled under this repo.
 * The AI model for English is done.
-* A demo (for English) and a testing platform are ready.
+* A demo (for English) and a bulk test platform are provided.
 * We need to deploy the demo on isotc211.geolexica.org
 
 
@@ -41,11 +41,9 @@ Google drive.
 
 ### Geolexica database
 
-The ISO/TC 211 Geolexica concept dataset (YAML) is placed under the directory
-'data/'.
+The ISO/TC 211 Geolexica concept dataset (YAML) is submoduled under 'data/'.
 
-To update the database, simply replace the files with the latest concept
-dataset.
+To update the database, simply go inside 'data/' and run ``git pull``.
 
 ### The (English) AI model
 
