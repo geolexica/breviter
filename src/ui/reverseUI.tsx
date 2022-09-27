@@ -1,3 +1,4 @@
+import {UniversalSentenceEncoder} from '@tensorflow-models/universal-sentence-encoder';
 import {useMemo, useState} from 'react';
 import {buildDatabase, DBItem} from '../util/reverseEngine';
 import Loading from './loading';
@@ -10,7 +11,15 @@ const ReverseUI: React.FC<{
   useMemo(() => {
     if (typeof window !== 'undefined') {
       setDatabase(undefined);
-      buildDatabase(data, setDatabase);
+      buildDatabase(
+        data,
+        {
+          modelUrl: 'xxx/public/sbert/model.json',
+          vocabUrl: 'xxx/public/sbert/vocab.json',
+        },
+        new UniversalSentenceEncoder(),
+        setDatabase
+      );
     }
   }, [data]);
 

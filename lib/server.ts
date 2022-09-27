@@ -1,6 +1,7 @@
 import fs from 'fs';
 import path from 'path';
 import {buildDatabase} from '../src/util/reverseEngine';
+import {LocalUse} from '../src/util/local_use';
 
 export function listFolder() {
   const testFolder = path.join(process.cwd(), 'data', 'concepts');
@@ -15,10 +16,18 @@ export function listFolder() {
 
 export function savePrecomputedDB() {
   const data = listFolder();
-  buildDatabase(data, d => {
-    const filepath = path.join(process.cwd(), 'public', 'db.json');
-    return fs.writeFileSync(filepath, JSON.stringify(d), 'utf8');
-  });
+  buildDatabase(
+    data,
+    {
+      modelPath: path.join(process.cwd(), 'public', 'sbert', 'model.json'),
+      vocabPath: path.join(process.cwd(), 'public', 'sbert', 'vocab.json'),
+    },
+    new LocalUse(),
+    d => {
+      const filepath = path.join(process.cwd(), 'public', 'db.json');
+      return fs.writeFileSync(filepath, JSON.stringify(d), 'utf8');
+    },
+  );
 }
 
 export function loadPrecomputedDB() {

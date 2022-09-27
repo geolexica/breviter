@@ -1,5 +1,13 @@
 import {slice, Tensor2D} from '@tensorflow/tfjs';
-import {UniversalSentenceEncoder} from '@tensorflow-models/universal-sentence-encoder';
+import {UniversalSentenceEncoder, Tokenizer} from '@tensorflow-models/universal-sentence-encoder';
+
+// Extends LoadConfig used
+export interface LocalUseLoadConfig {
+  modelUrl?: string;
+  modelPath?: string;
+  vocabUrl?: string;
+  vocabPath?: string;
+}
 
 export type DBItem = {
   id: string;
@@ -24,21 +32,26 @@ type RawYAMLDoc = Partial<YAMLDoc>;
 
 export async function buildDatabase(
   data: string[],
+  loadConfig: LocalUseLoadConfig,
+  loader: UniversalSentenceEncoder,
   callback: (db: DBItem[]) => void
 ) {
-  const loader = new UniversalSentenceEncoder();
   console.log(`Got ${data.length} entries`);
   const yaml = require('js-yaml');
   const raws = data
     .map(x => yaml.load(x) as RawYAMLDoc)
     .map(x => validateYAML(x));
   console.log('YAML parsing done');
+
   const objs = raws.filter(x => x).map(x => x as YAMLDoc);
   const definitions: Array<string> = objs.map(x => x.eng.definition[0].content);
-  await loader.load();
-  console.log('BERT loaded');
+
+  await loader.load(loadConfig);
+  console.log('Model loaded');
+
   const embeddings = await loader.embed(definitions);
   console.log('Done transformation');
+
   const db = objs.map((x, index) => transform(x, index, embeddings));
   callback(db);
 }
