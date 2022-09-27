@@ -26,7 +26,7 @@ export function savePrecomputedDB() {
     d => {
       const filepath = path.join(process.cwd(), 'public', 'db.json');
       return fs.writeFileSync(filepath, JSON.stringify(d), 'utf8');
-    },
+    }
   );
 }
 
