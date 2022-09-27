@@ -1,5 +1,5 @@
 import {slice, Tensor2D} from '@tensorflow/tfjs';
-import {UniversalSentenceEncoder} from '../sent';
+import {UniversalSentenceEncoder} from '@tensorflow-models/universal-sentence-encoder';
 
 export type DBItem = {
   id: string;
