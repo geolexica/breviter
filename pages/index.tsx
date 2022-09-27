@@ -10,7 +10,17 @@ export default function Main() {
       </p>
       <p>
         <Link href="/testing">
-          <a>Experiment</a>
+          <a>Bulk search and reporting</a>
+        </Link>
+      </p>
+      <p>
+        <Link href="/list">
+          <a>Filter loaded entries</a>
+        </Link>
+      </p>
+      <p>
+        <Link href="/readdb">
+          <a>Show loaded database in delimited format</a>
         </Link>
       </p>
     </>
