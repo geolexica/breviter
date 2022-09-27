@@ -2,7 +2,7 @@ import fs from 'fs';
 import path from 'path';
 
 export function listFolder() {
-  const testFolder = path.join(process.cwd(), 'data');
+  const testFolder = path.join(process.cwd(), 'data', 'concepts');
   const files = fs.readdirSync(testFolder);
   const contents = files.map(f => {
     const filename = path.join(testFolder, f);
