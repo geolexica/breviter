@@ -15,12 +15,10 @@ export function listFolder() {
 
 export function savePrecomputedDB() {
   const data = listFolder();
-  const database = buildDatabase(data, d => {
-    return d;
+  buildDatabase(data, d => {
+    const filepath = path.join(process.cwd(), 'public', 'db.json');
+    return fs.writeFileSync(filepath, JSON.stringify(d), 'utf8');
   });
-
-  const filepath = path.join(process.cwd(), 'public', 'db.json');
-  return fs.writeFileSync(filepath, JSON.stringify(database), 'utf8');
 }
 
 export function loadPrecomputedDB() {

@@ -14,7 +14,9 @@ type YAMLDoc = {
   termid: string;
   term: string;
   eng: {
-    definition: string;
+    definition: Array<{
+      content: string;
+    }>;
   };
 };
 
@@ -32,7 +34,7 @@ export async function buildDatabase(
     .map(x => validateYAML(x));
   console.log('YAML parsing done');
   const objs = raws.filter(x => x).map(x => x as YAMLDoc);
-  const definitions = objs.map(x => x.eng.definition);
+  const definitions: Array<string> = objs.map(x => x.eng.definition[0].content);
   await loader.load();
   console.log('BERT loaded');
   const embeddings = await loader.embed(definitions);
@@ -54,7 +56,7 @@ function transform(x: YAMLDoc, index: number, embed: Tensor2D): DBItem {
   return {
     id: x.termid,
     term: x.term,
-    definition: x.eng.definition,
+    definition: x.eng.definition[0].content,
     vector: v,
   };
 }
