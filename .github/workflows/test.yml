@@ -10,14 +10,25 @@ jobs:
     name: Build site
     runs-on: ubuntu-latest
     steps:
+      - run: |
+          sudo apt update -y
+          sudo apt install -y build-essential
+
       - uses: actions/checkout@v3
         with:
           submodules: true
 
-      - uses: borales/actions-yarn@v3
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
         with:
-          cmd: install
+          node-version: '16'
+          cache: 'yarn'
 
-      - uses: borales/actions-yarn@v3
-        with:
-          cmd: build
+      - name: Install JS dependencies
+        run: yarn install
+
+      - name: Build public/db.json
+        run: yarn compute_db
+
+      - name: Build site
+        run: yarn build
