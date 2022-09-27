@@ -145,7 +145,7 @@ Samples of the test cases can be found under the 'public/testcases/' directory.
 
 ## Todos
 
-1. Prepare additional testcases.
+1. Prepare additional test cases.
 
 1. Collect accuracy statistics of our platform and compare to the existing competitors ([Reverse dictionary](https://reversedictionary.org/) and [OneLook](https://www.onelook.com/reverse-dictionary.shtml)). As there is no API from the competitors, we either need to perform the tests manually or write some scripts to do the tests. To collect the accuracy statistics of our platform, we can use UI #2.
 
@@ -154,17 +154,11 @@ Samples of the test cases can be found under the 'public/testcases/' directory.
 
 ## Resources
 
-Tensorflow.js sample applications are available at:
-
-```
-https://github.com/tensorflow/tfjs-models
-```
+Tensorflow.js pre-trained models are available at:
+* https://github.com/tensorflow/tfjs-models
 
 Off-the-shelf Tensorflow models can be found at:
-
-```
-https://tfhub.dev
-```
+* https://tfhub.dev
 
 NOTE: The Tensorflow.js model format is specific -- normal Tensorflow models
 must be converted to this format for them to be useable. Non-Tensorflow formats
@@ -173,9 +167,7 @@ found [here](https://www.tensorflow.org/hub/model_formats).
 
 
 Link to the original BERT model and paper from Google:
-```
-https://github.com/google-research/bert
-```
+* https://github.com/google-research/bert
 
 While there is a multilingual version of the model that supports 102 languages
 in one single model, it is unsure how we can make it usable in the current
