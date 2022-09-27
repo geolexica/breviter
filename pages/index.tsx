@@ -1,11 +1,17 @@
+import Link from 'next/link';
+
 export default function Main() {
   return (
     <>
       <p>
-        <a href="/reverse"> Reverse search demo</a>
+        <Link href="/reverse">
+          <a>Reverse search demo</a>
+        </Link>
       </p>
       <p>
-        <a href="/testing"> Experiment </a>
+        <Link href="/testing">
+          <a>Experiment</a>
+        </Link>
       </p>
     </>
   );
