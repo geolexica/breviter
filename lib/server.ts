@@ -1,5 +1,6 @@
 import fs from 'fs';
 import path from 'path';
+import {buildDatabase} from '../src/util/reverseEngine';
 
 export function listFolder() {
   const testFolder = path.join(process.cwd(), 'data');
@@ -10,6 +11,16 @@ export function listFolder() {
   });
 
   return contents;
+}
+
+export function savePrecomputedDB() {
+  const data = listFolder();
+  const database = buildDatabase(data, d => {
+    return d;
+  });
+
+  const filepath = path.join(process.cwd(), 'public', 'db.json');
+  return fs.writeFileSync(filepath, JSON.stringify(database), 'utf8');
 }
 
 export function loadPrecomputedDB() {
