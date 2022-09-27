@@ -1,6 +1,9 @@
 import fs from 'fs';
-import {UniversalSentenceEncoder, Tokenizer} from '@tensorflow-models/universal-sentence-encoder';
-import {LocalUseLoadConfig} from './reverseEngine'
+import {
+  UniversalSentenceEncoder,
+  Tokenizer,
+} from '@tensorflow-models/universal-sentence-encoder';
+import {LocalUseLoadConfig} from './reverseEngine';
 import * as tf from '@tensorflow/tfjs';
 import * as tfn from '@tensorflow/tfjs-node';
 
@@ -19,13 +22,13 @@ class LocalUse extends UniversalSentenceEncoder {
     if (config.modelUrl && config.vocabUrl) {
       return super.load({
         modelUrl: config.modelUrl,
-        vocabUrl: config.vocabUrl
+        vocabUrl: config.vocabUrl,
       });
     }
 
     const [model, vocabulary] = await Promise.all([
-      this.loadLocalModel(config.modelPath || ""),
-      this.loadLocalVocabulary(config.vocabPath || "")
+      this.loadLocalModel(config.modelPath || ''),
+      this.loadLocalVocabulary(config.vocabPath || ''),
     ]);
 
     // Hack to set private attributes...
@@ -43,4 +46,4 @@ class LocalUse extends UniversalSentenceEncoder {
   // }
 }
 
-export {LocalUse}
+export {LocalUse};

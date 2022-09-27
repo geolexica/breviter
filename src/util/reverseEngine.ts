@@ -1,5 +1,5 @@
 import {slice, Tensor2D} from '@tensorflow/tfjs';
-import {UniversalSentenceEncoder, Tokenizer} from '@tensorflow-models/universal-sentence-encoder';
+import {UniversalSentenceEncoder} from '@tensorflow-models/universal-sentence-encoder';
 
 // Extends LoadConfig used
 export interface LocalUseLoadConfig {
