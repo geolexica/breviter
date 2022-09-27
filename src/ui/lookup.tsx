@@ -1,6 +1,6 @@
 import {Button, TextArea} from '@blueprintjs/core';
 import {useMemo, useState} from 'react';
-import {UniversalSentenceEncoder} from '../sent';
+import {UniversalSentenceEncoder} from '@tensorflow-models/universal-sentence-encoder';
 import {convertBERT, DBItem} from '../util/reverseEngine';
 
 type Answer = {
