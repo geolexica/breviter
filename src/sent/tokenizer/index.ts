@@ -22,18 +22,20 @@
  * details, refer to https://arxiv.org/pdf/1804.10959.pdf.
  */
 
-import {util} from '@tensorflow/tfjs';
+import * as tf from '@tensorflow/tfjs-core';
+
 import {stringToChars} from '../util';
 
 import {Trie} from './trie';
 
-const separator = '\u2581'; // This is the unicode character 'lower one eighth block'.
+const separator =
+    '\u2581';  // This is the unicode character 'lower one eighth block'.
 
 function processInput(str: string): string {
   const normalized = str.normalize('NFKC');
-  return normalized.length > 0
-    ? separator + normalized.replace(/ /g, separator)
-    : normalized;
+  return normalized.length > 0 ?
+      separator + normalized.replace(/ /g, separator) :
+      normalized;
 }
 
 // The first tokens are reserved for unk, control symbols, and user-defined
@@ -43,18 +45,17 @@ const RESERVED_SYMBOLS_COUNT = 6;
 export type Vocabulary = Array<[string, number]>;
 
 type Score = {
-  key: string[];
-  score: number;
-  index: number;
+  key: string[],
+  score: number,
+  index: number
 };
 
 export class Tokenizer {
   trie: Trie;
 
   constructor(
-    private vocabulary: Vocabulary,
-    private reservedSymbolsCount = RESERVED_SYMBOLS_COUNT
-  ) {
+      private vocabulary: Vocabulary,
+      private reservedSymbolsCount = RESERVED_SYMBOLS_COUNT) {
     this.trie = new Trie();
 
     for (let i = this.reservedSymbolsCount; i < this.vocabulary.length; i++) {
@@ -86,10 +87,7 @@ export class Tokenizer {
         const obj = {key: piece[0], score: piece[1], index: piece[2]};
 
         const endPos = piece[0].length;
-        if (
-          nodes[i + endPos][i] === null ||
-          nodes[i + endPos][i] === undefined
-        ) {
+        if (nodes[i + endPos][i] == null) {
           nodes[i + endPos][i] = [];
         }
 
@@ -143,7 +141,7 @@ export class Tokenizer {
  *
  * @param pathToVocabulary (optional) Provide a path to the vocabulary file.
  */
-export async function loadTokenizer(pathToVocabulary: string) {
+export async function loadTokenizer(pathToVocabulary?: string) {
   const vocabulary = await loadVocabulary(pathToVocabulary);
   const tokenizer = new Tokenizer(vocabulary);
   return tokenizer;
@@ -156,6 +154,6 @@ export async function loadTokenizer(pathToVocabulary: string) {
  * UniversalSentenceEncoder.
  */
 export async function loadVocabulary(pathToVocabulary: string) {
-  const vocabulary = await util.fetch(pathToVocabulary);
+  const vocabulary = await tf.util.fetch(pathToVocabulary);
   return vocabulary.json();
 }
