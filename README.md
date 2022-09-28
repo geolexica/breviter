@@ -85,6 +85,14 @@ To start the app, first install all the dependencies:
 yarn install
 ```
 
+Then compute the dataset using the model:
+
+```
+yarn compute
+# which is a shorthand for:
+# yarn cli compute data -o public/db.json
+```
+
 Then, start the web server:
 
 ```
