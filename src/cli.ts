@@ -1,4 +1,4 @@
-#!/usr/bin/env node
+#!/usr/bin/env npx ts-node-esm
 
 import * as yargs from 'yargs';
 

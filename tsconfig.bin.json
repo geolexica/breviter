@@ -4,16 +4,9 @@
     "allowJs": false,
     "allowSyntheticDefaultImports": true,
     "declaration": true,
-    "esModuleInterop": true,
-    "experimentalDecorators": true,
-    "module": "commonjs",
-    "moduleResolution": "node",
-    "skipLibCheck": true,
-    "strict": true,
-    "target": "esnext"
+    "experimentalDecorators": true
   },
   "include": [
-    "bin",
     "src/cli.ts",
     "src/commands/*.ts",
     "next-env.d.ts",

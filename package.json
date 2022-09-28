@@ -20,7 +20,7 @@
     "posttest": "npm run lint"
   },
   "bin": {
-    "breviter": "src/cli.js"
+    "breviter": "src/cli.ts"
   },
   "repository": {
     "type": "git",
