@@ -22,6 +22,14 @@
   "bin": {
     "breviter": "src/cli.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/geolexica/breviter.git"
+  },
+  "bugs": {
+    "url": "https://github.com/geolexica/breviter/issues"
+  },
+  "homepage": "https://github.com/geolexica/breviter/#readme",
   "dependencies": {
     "@blueprintjs/core": "^3.54.0",
     "@blueprintjs/popover2": "^0.14.0",
