@@ -17,9 +17,10 @@ const ReverseUI: React.FC<{
           modelUrl: 'xxx/public/sbert/model.json',
           vocabUrl: 'xxx/public/sbert/vocab.json',
         },
-        new UniversalSentenceEncoder(),
-        setDatabase
-      );
+        new UniversalSentenceEncoder()
+      ).then(d => {
+        setDatabase(d);
+      });
     }
   }, [data]);
 

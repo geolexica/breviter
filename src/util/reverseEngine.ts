@@ -34,26 +34,28 @@ export async function buildDatabase(
   data: string[],
   loadConfig: LocalUseLoadConfig,
   loader: UniversalSentenceEncoder,
-  callback: (db: DBItem[]) => void
+  // callback: (db: DBItem[]) => void
 ) {
-  console.log(`Got ${data.length} entries`);
+  console.log(`[breviter] Loaded concept dataset with ${data.length} entries.`);
   const yaml = require('js-yaml');
   const raws = data
     .map(x => yaml.load(x) as RawYAMLDoc)
     .map(x => validateYAML(x));
-  console.log('YAML parsing done');
+  console.log('[breviter] Concept dataset YAML parsing complete.');
 
   const objs = raws.filter(x => x).map(x => x as YAMLDoc);
   const definitions: Array<string> = objs.map(x => x.eng.definition[0].content);
 
   await loader.load(loadConfig);
-  console.log('Model loaded');
+  console.log(`[breviter] Model loaded.`);
 
   const embeddings = await loader.embed(definitions);
-  console.log('Done transformation');
+  console.log('[breviter] Concept dataset embeddings generated.');
 
   const db = objs.map((x, index) => transform(x, index, embeddings));
-  callback(db);
+  console.log('[breviter] Concept dataset transform completed.');
+
+  return db;
 }
 
 export async function convertBERT(
@@ -79,7 +81,7 @@ function validateYAML(x: RawYAMLDoc): YAMLDoc | undefined {
   if (termid && term && eng && eng.definition) {
     return {termid, term, eng};
   }
-  console.error('undefined object detected!', x);
+  console.error('[breviter] validateYAML: undefined object detected!', x);
   return undefined;
 }
 

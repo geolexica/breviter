@@ -9,7 +9,7 @@
     "dev": "([[ -e 'public/db.json' ]] || yarn compute_db) && yarn init-dev",
     "build": "([[ -e 'public/db.json' ]] || yarn compute_db) && yarn init-build",
     "start": "([[ -e 'public/db.json' ]] || yarn compute_db) && yarn init-start",
-    "compute_db": "ts-node --project tsconfig.bin.json bin/compute_db.ts",
+    "cli": "ts-node --project tsconfig.bin.json src/cli.ts",
     "lint": "gts lint",
     "clean": "gts clean",
     "compile": "tsc",
@@ -17,6 +17,9 @@
     "prepare": "npm run compile",
     "pretest": "npm run compile",
     "posttest": "npm run lint"
+  },
+  "bin": {
+    "breviter": "src/cli.js"
   },
   "dependencies": {
     "@blueprintjs/core": "^3.54.0",
@@ -28,12 +31,14 @@
     "next": "12.3.1",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
-    "ts-node": "^10.9.1"
+    "ts-node": "^10.9.1",
+    "yargs": "^17.5.1"
   },
   "devDependencies": {
     "@next/eslint-plugin-next": "^12.3.1",
     "@types/node": "^14.18.30",
     "@types/react": "17.0.50",
+    "@types/yargs": "^17.0.13",
     "gts": "^3.1.1",
     "typescript": "4.8.3"
   }

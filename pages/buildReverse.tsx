@@ -1,3 +1,4 @@
+import path from 'path';
 import {listFolder} from '../lib/server';
 import ReverseUI from '../src/ui/reverseUI';
 import '@blueprintjs/popover2/lib/css/blueprint-popover2.css';
@@ -11,7 +12,8 @@ type TermsYAML = {
 };
 
 export async function getStaticProps(): Promise<{props: TermsYAML}> {
-  const data = listFolder();
+  const datasetPath = path.join(process.cwd(), 'data');
+  const data = listFolder(datasetPath);
   return {
     props: {data},
   };

@@ -28,7 +28,7 @@ jobs:
         run: yarn install
 
       - name: Build public/db.json
-        run: yarn compute_db
+        run: yarn cli compute data -o public/db.json
 
       - name: Build site
         run: yarn build
