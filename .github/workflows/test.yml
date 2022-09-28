@@ -31,4 +31,5 @@ jobs:
         run: yarn cli compute data -o public/db.json
 
       - name: Build site
+        shell: bash
         run: yarn build
