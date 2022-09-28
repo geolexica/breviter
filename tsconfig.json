@@ -26,5 +26,7 @@
   ],
   "exclude": [
     "node_modules",
+    "src/cli.ts",
+    "src/commands/*.ts"
   ]
 }
