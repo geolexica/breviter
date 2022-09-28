@@ -18,7 +18,7 @@ export function listFolder(datasetPath: string) {
 const localLoadConfig = {
   modelPath: path.join(process.cwd(), 'public', 'sbert', 'model.json'),
   vocabPath: path.join(process.cwd(), 'public', 'sbert', 'vocab.json'),
-}
+};
 
 function setLoadConfig(modelPath: string) {
   // TODO: check if the files don't exist, return error
@@ -31,14 +31,14 @@ function setLoadConfig(modelPath: string) {
 export async function savePrecomputedDB(
   datasetPath: string,
   outputPath: string,
-  modelPath: string,
+  modelPath: string
 ) {
   const data = listFolder(datasetPath);
   const filepath = path.resolve(path.join(outputPath));
   const db = await buildDatabase(
     data,
     setLoadConfig(modelPath),
-    new LocalUse(),
+    new LocalUse()
   );
 
   return fs.writeFileSync(filepath, JSON.stringify(db), 'utf8');

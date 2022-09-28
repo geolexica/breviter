@@ -33,7 +33,7 @@ type RawYAMLDoc = Partial<YAMLDoc>;
 export async function buildDatabase(
   data: string[],
   loadConfig: LocalUseLoadConfig,
-  loader: UniversalSentenceEncoder,
+  loader: UniversalSentenceEncoder
   // callback: (db: DBItem[]) => void
 ) {
   console.log(`[breviter] Loaded concept dataset with ${data.length} entries.`);
@@ -47,7 +47,7 @@ export async function buildDatabase(
   const definitions: Array<string> = objs.map(x => x.eng.definition[0].content);
 
   await loader.load(loadConfig);
-  console.log(`[breviter] Model loaded.`);
+  console.log('[breviter] Model loaded.');
 
   const embeddings = await loader.embed(definitions);
   console.log('[breviter] Concept dataset embeddings generated.');
