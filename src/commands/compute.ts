@@ -1,10 +1,11 @@
-import path from 'path';
+// import path from 'path';
 import '@tensorflow/tfjs-node';
-import {savePrecomputedDB} from '../../lib/server';
-import type { ArgumentsCamelCase, CommandBuilder } from 'yargs';
+// import {savePrecomputedDB} from '../../lib/server';
+// import type {ArgumentsCamelCase, CommandBuilder} from 'yargs';
 
 export const command = 'compute <dataset>';
-export const desc = 'Compute semantic database for concept dataset at <dataset>';
+export const desc =
+  'Compute semantic database for concept dataset at <dataset>';
 
 // TODO: Somehow I can't get yargs to read the "builder" and "handler" functions...
 
