@@ -2,8 +2,10 @@ import {Button, TextArea} from '@blueprintjs/core';
 import {useMemo, useState} from 'react';
 import {UniversalSentenceEncoder} from '@tensorflow-models/universal-sentence-encoder';
 import {convertBERT, DBItem} from '../util/reverseEngine';
+import Link from 'next/link';
 
 type Answer = {
+  id: string;
   word: string;
   definition: string;
   score: number;
@@ -32,7 +34,12 @@ const LookupUI: React.FC<{
       const answer: Answer[] = [];
       for (const item of data) {
         const score = dotProduct(item.vector, vector);
-        answer.push({word: item.term, definition: item.definition, score});
+        answer.push({
+          id: item.id,
+          word: item.term,
+          definition: item.definition,
+          score,
+        });
       }
       const final = answer.sort((x, y) => y.score - x.score).slice(0, 20);
       console.log(final.length);
@@ -68,7 +75,9 @@ function dotProduct(x: number[], y: number[]): number {
 const AnswerField: React.FC<{answer: Answer}> = function ({answer}) {
   return (
     <fieldset>
-      <legend>{answer.word}</legend>
+      <legend>
+        <Link href={'/concepts/' + answer.id}>{answer.word}</Link>
+      </legend>
       <p>Definition: {answer.definition}</p>
       <p>BERT score: {answer.score}</p>
     </fieldset>
