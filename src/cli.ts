@@ -4,12 +4,19 @@ import * as yargs from 'yargs';
 
 import {command, desc, builder, handler} from './commands/compute';
 
-// Do not exit process until the save is finished!
-yargs
+const parser = yargs
+  .strict()
   .command(command, desc, builder, handler)
   .help()
   .demandCommand()
-  .fail(false)
-  .parseSync(); //.fail(err => { console.info(`${err.message}\n ${parser.getHelp()}`); });
+  .fail((msg, err, yargs) => {
+    if (err) throw err; // preserve stack
+    console.error(msg);
+    console.error(yargs.help());
+    process.exitCode = 1;
+  });
 
-console.info('finish');
+parser.parseSync();
+
+// const argv = parser.parseSync();
+// console.debug('Finished!', argv);
