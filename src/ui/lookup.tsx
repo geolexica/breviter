@@ -21,7 +21,10 @@ const LookupUI: React.FC<{
   const loader = useMemo(() => {
     const l = new UniversalSentenceEncoder();
     if (typeof window !== 'undefined') {
-      l.load().then(() => setReady(true));
+      l.load({
+        modelUrl: '/sbert/model.json',
+        vocabUrl: '/sbert/vocab.json',
+      }).then(() => setReady(true));
     }
     return l;
   }, []);
