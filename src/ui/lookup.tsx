@@ -4,11 +4,11 @@ import {UniversalSentenceEncoder} from '@tensorflow-models/universal-sentence-en
 import {convertBERT, DBItem} from '../util/reverseEngine';
 import Link from 'next/link';
 
-type Answer = {
-  id: string;
+type WordScoreWithIdDefn = {
   word: string;
-  definition: string;
   score: number;
+  id: string;
+  definition: string;
 };
 
 const LookupUI: React.FC<{
@@ -16,7 +16,7 @@ const LookupUI: React.FC<{
 }> = function ({data}) {
   const [query, setQuery] = useState<string>('');
   const [ready, setReady] = useState<boolean>(false);
-  const [answer, setAnswers] = useState<Answer[]>([]);
+  const [answer, setAnswers] = useState<WordScoreWithIdDefn[]>([]);
 
   const loader = useMemo(() => {
     const l = new UniversalSentenceEncoder();
@@ -34,7 +34,7 @@ const LookupUI: React.FC<{
       console.log('Computing');
       const vector = await convertBERT(query, loader);
       console.log('Done computing', vector);
-      const answer: Answer[] = [];
+      const answer: WordScoreWithIdDefn[] = [];
       for (const item of data) {
         const score = dotProduct(item.vector, vector);
         answer.push({
@@ -75,7 +75,7 @@ function dotProduct(x: number[], y: number[]): number {
   return sum;
 }
 
-const AnswerField: React.FC<{answer: Answer}> = function ({answer}) {
+const AnswerField: React.FC<{answer: WordScoreWithIdDefn}> = function ({answer}) {
   return (
     <fieldset>
       <legend>
