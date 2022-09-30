@@ -193,12 +193,12 @@ const TSV: React.FC<{
     .map((item, index) => {
       const {query, expected} = item;
       const rank = getRankOfExpected(item);
-      return `${query}	${expected}	${rank}\n`;
+      return `${expected}	${query}	${rank}\n`;
     })
     .join('');
 
   const asciidoc = `[%autowidth,frame=ends,format=tsv,cols="1,1,1"]\n|===\n` +
-    `query	expected	rank\n\n${tsv}\n|===\n\n`;
+    `expected	query	rank\n\n${tsv}\n|===\n\n`;
 
   return (
     <>
