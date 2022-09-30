@@ -255,9 +255,9 @@ function updateTopNScores(
   words: string[]
 ): TopNScores {
   const newS = {...s};
-  if (words[0] !== c[1]) {
-    console.debug(words[0], c[1], c[0]);
-  }
+  // if (words[0] !== c[1]) {
+  //   console.debug(words[0], c[1], c[0]);
+  // }
   for (const l of lens) {
     const parts = words.slice(0, l);
     if (parts.includes(c[1])) {
