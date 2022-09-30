@@ -4,12 +4,12 @@ import {useMemo, useState} from 'react';
 import {UniversalSentenceEncoder} from '@tensorflow-models/universal-sentence-encoder';
 import {convertBERT, DBItem} from '../util/reverseEngine';
 
-type Answer = {
+type WordScore = {
   word: string;
   score: number;
 };
 
-type Scores = {
+type TopNScores = {
   top1: number;
   top3: number;
   top5: number;
@@ -20,12 +20,18 @@ type Scores = {
 type ResultEntry = {
   query: string;
   expected: string;
-  answers: [string, number][];
+  answers: WordScore[];
+};
+
+const getRankOfExpected = (resultEntry: ResultEntry) => {
+  const {answers, expected} = resultEntry;
+  const rank = answers.map(({word}) => word).indexOf(expected);
+  return rank;
 };
 
 const lens = [1, 3, 5, 10, 20] as const;
 
-const properties: Record<number, keyof Scores> = {
+const properties: Record<number, keyof TopNScores> = {
   1: 'top1',
   3: 'top3',
   5: 'top5',
@@ -39,8 +45,8 @@ export default function TestingUI({data}: {data: DBItem[]}) {
   const [progress, setProgress] = useState<number>(0);
   const [ready, setReady] = useState<boolean>(false);
   const [task, setTask] = useState<number>(0);
-  const [scores, setScores] = useState<Scores>(initScore);
-  const [result, setResults] = useState<ResultEntry[]>([]);
+  const [scores, setScores] = useState<TopNScores>(initScore);
+  const [results, setResults] = useState<ResultEntry[]>([]);
 
   const loader = useMemo(() => {
     const l = new UniversalSentenceEncoder();
@@ -53,31 +59,34 @@ export default function TestingUI({data}: {data: DBItem[]}) {
     return l;
   }, []);
 
-  async function test(c: string[]): Promise<ResultEntry> {
-    const query = await convertBERT(c[0], loader);
-    const answer: Answer[] = [];
+  async function test(c: [string, string]): Promise<ResultEntry> {
+    const [query, expected] = c;
+    const bertAnswer = await convertBERT(query, loader);
+    const answer: WordScore[] = [];
     for (const item of data) {
-      const score = dotProduct(item.vector, query);
+      const score = dotProduct(item.vector, bertAnswer);
       answer.push({word: item.term, score});
     }
     const final = answer.sort((x, y) => y.score - x.score).slice(0, 20);
     const words = final.map(f => f.word);
-    setScores(s => updateScore(s, c, words));
+    setScores(s => updateTopNScores(s, c, words));
     setProgress(p => p + 1);
     return {
-      query: c[0],
-      expected: c[1],
-      answers: final.map(w => [w.word, w.score]),
+      query,
+      expected,
+      answers: final,
     };
   }
 
   async function process(x: string) {
     const lines = x.split('\n');
-    const cases = lines
+    const cases: [string,string][] = lines
       .map(x => x.trim().split(';'))
-      .filter(x => x.length === 2);
+      .filter(x => x.length === 2) as [string,string][];
+
     setTask(cases.length);
     setProgress(0);
+
     const results: ResultEntry[] = [];
     for (const c of cases) {
       results.push(await test(c));
@@ -107,7 +116,7 @@ export default function TestingUI({data}: {data: DBItem[]}) {
         <Progress progress={progress} task={task} />
       )}
       {task !== 0 && progress === task && (
-        <Result scores={scores} task={task} results={result} />
+        <Result scores={scores} task={task} results={results} />
       )}
     </div>
   );
@@ -126,7 +135,7 @@ const Progress: React.FC<{
 };
 
 const Result: React.FC<{
-  scores: Scores;
+  scores: TopNScores;
   task: number;
   results: ResultEntry[];
 }> = function ({scores, task, results}) {
@@ -149,7 +158,7 @@ const ResultItemDisplay: React.FC<{
   item: ResultEntry;
   pos: number;
 }> = function ({item, pos}) {
-  const rank = item.answers.map(x => x[0]).indexOf(item.expected);
+  const rank = getRankOfExpected(item);
   return (
     <fieldset
       style={{
@@ -171,19 +180,19 @@ const ResultItemDisplay: React.FC<{
 };
 
 const AnswerList: React.FC<{
-  list: [string, number][];
+  list: WordScore[];
   expected: string;
 }> = function ({list, expected}) {
   return (
     <>
-      {list.map((x, index) => (
+      {list.map(({word, score}, index) => (
         <p
           style={{
-            color: x[0] === expected ? 'green' : 'black',
+            color: word === expected ? 'green' : 'black',
           }}
           key={index}
         >
-          {index + 1}. {x[0]} ({x[1]})
+          {index + 1}. {word} ({score})
         </p>
       ))}
     </>
@@ -198,10 +207,14 @@ function dotProduct(x: number[], y: number[]): number {
   return sum;
 }
 
-function updateScore(s: Scores, c: string[], words: string[]): Scores {
+function updateTopNScores(
+  s: TopNScores,
+  c: string[],
+  words: string[]
+): TopNScores {
   const newS = {...s};
   if (words[0] !== c[1]) {
-    console.log(words[0], c[1], c[0]);
+    console.debug(words[0], c[1], c[0]);
   }
   for (const l of lens) {
     const parts = words.slice(0, l);
