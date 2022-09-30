@@ -35,7 +35,83 @@ const getScoreOfExpected = (resultEntry: ResultEntry) => {
   return maybeAnswer === undefined ? -1 : maybeAnswer.score;
 };
 
+// TODO
+const overallFitScore = (results: ResultEntry[]): number => {
+  const resultSize = results.length;
+  const maxIndividualScore = Object.values(fitScores)[0];
+  const maxOverallScore = resultSize * maxIndividualScore;
+  // console.log('resultSize', resultSize);
+  // console.log('maxIndividualScore', maxIndividualScore);
+  // console.log('maxOverallScore', maxOverallScore);
+  // const res1 = results.map(item => getScoreFromRank(getRankOfExpected(item)));
+  // console.log('res1', res1);
+  // const res2 = res1.reduce((acc, score) => acc + score, 0);
+  // console.log('res2', res2);
+  return (
+    results
+      .map(item => getScoreFromRank(getRankOfExpected(item)))
+      .reduce((acc, score) => acc + score, 0) / maxOverallScore
+  );
+};
+const displayOverallFitScoreFormula = (results: ResultEntry[]): string => {
+  const resultSize = results.length;
+  const maxIndividualScore = Object.values(fitScores)[0];
+  const maxOverallScore = resultSize * maxIndividualScore;
+  const rankPartitions = results.map(item =>
+    getRankPartition(getRankOfExpected(item))
+  );
+  const overallScore = overallFitScore(results);
+  const sortedByRankPartitions = rankPartitions.reduce((acc, partition) => {
+    acc[partition] ||= 0;
+    acc[partition] += 1;
+    return acc;
+  }, {} as RankPartition);
+  console.log('sortedByRankPartitions', sortedByRankPartitions);
+  return (
+    '(' +
+    Object.keys(sortedByRankPartitions)
+      .map(
+        (partition: Lens) =>
+          `${fitScores[partition]} x ${sortedByRankPartitions[partition]}`
+      )
+      .join(' + ') +
+    `) / ${maxOverallScore} = ${overallScore}`
+  );
+};
+
+/**
+ * Rank 1     => 1st partition
+ * Rank 2-3   => 2nd partition
+ * Rank 4-5   => 3rd partition
+ * Rank 6-10  => 4th partition
+ * Rank 11-   => 5th partition
+ * Default rank partition is the last one.
+ *
+ * It is used for calculating fit score.
+ */
+const getRankPartition = (rank: number) => {
+  const defaultRankPartition = lens[lens.length - 1];
+  if (rank < 0) {
+    return defaultRankPartition;
+  }
+  return lens.find((i, idx) => rank < lens[idx]) || defaultRankPartition;
+};
+
+/**
+ * Look up score from table
+ */
+const getScoreFromRank = (rank: number) => {
+  return fitScores[getRankPartition(rank)];
+};
+
 const lens = [1, 3, 5, 10, 20] as const;
+
+type ValueOf<T> = T[keyof T];
+type Lens = ValueOf<typeof lens>;
+
+type RankPartition = {
+  [key in keyof typeof lens]: number;
+};
 
 const properties: Record<number, keyof TopNScores> = {
   1: 'top1',
@@ -43,6 +119,14 @@ const properties: Record<number, keyof TopNScores> = {
   5: 'top5',
   10: 'top10',
   20: 'top20',
+};
+
+const fitScores: Record<number, number> = {
+  1: 20,
+  3: 10,
+  5: 5,
+  10: 3,
+  20: 1,
 };
 
 const initScore = {top1: 0, top3: 0, top5: 0, top10: 0, top20: 0};
@@ -152,7 +236,12 @@ const Result: React.FC<{
           {key} score: {score} / {task}
         </div>
       ))}
-      Details:
+      <h2>Details</h2>
+      <p>
+        normalized fit score:{' '}
+        <strong>{overallFitScore(results).toString()}</strong>
+      </p>
+      <p>{displayOverallFitScoreFormula(results)}</p>
       <TSV results={results} />
       {results.map((r, index) => (
         <ResultItemDisplay key={index} item={r} pos={index + 1} />

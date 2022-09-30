@@ -75,7 +75,9 @@ function dotProduct(x: number[], y: number[]): number {
   return sum;
 }
 
-const AnswerField: React.FC<{answer: WordScoreWithIdDefn}> = function ({answer}) {
+const AnswerField: React.FC<{answer: WordScoreWithIdDefn}> = function ({
+  answer,
+}) {
   return (
     <fieldset>
       <legend>
