@@ -31,7 +31,7 @@ const getRankOfExpected = (resultEntry: ResultEntry) => {
 
 const getScoreOfExpected = (resultEntry: ResultEntry) => {
   const {answers, expected} = resultEntry;
-  const maybeAnswer = (answers.find(({word}) => word.indexOf(expected)));
+  const maybeAnswer = answers.find(({word}) => word.indexOf(expected));
   return maybeAnswer === undefined ? -1 : maybeAnswer.score;
 };
 
@@ -86,9 +86,9 @@ export default function TestingUI({data}: {data: DBItem[]}) {
 
   async function process(x: string) {
     const lines = x.split('\n');
-    const cases: [string,string][] = lines
+    const cases: [string, string][] = lines
       .map(x => x.trim().split(';'))
-      .filter(x => x.length === 2) as [string,string][];
+      .filter(x => x.length === 2) as [string, string][];
 
     setTask(cases.length);
     setProgress(0);
@@ -197,7 +197,8 @@ const TSV: React.FC<{
     })
     .join('');
 
-  const asciidoc = `[%autowidth,frame=ends,format=tsv,cols="1,1,1"]\n|===\n` +
+  const asciidoc =
+    '[%autowidth,frame=ends,format=tsv,cols="1,1,1"]\n|===\n' +
     `expected	query	rank\n\n${tsv}\n|===\n\n`;
 
   return (
