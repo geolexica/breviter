@@ -29,6 +29,12 @@ const getRankOfExpected = (resultEntry: ResultEntry) => {
   return rank;
 };
 
+const getScoreOfExpected = (resultEntry: ResultEntry) => {
+  const {answers, expected} = resultEntry;
+  const maybeAnswer = (answers.find(({word}) => word.indexOf(expected)));
+  return maybeAnswer === undefined ? -1 : maybeAnswer.score;
+};
+
 const lens = [1, 3, 5, 10, 20] as const;
 
 const properties: Record<number, keyof TopNScores> = {
