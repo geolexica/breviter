@@ -72,7 +72,7 @@ const displayOverallFitScoreFormula = (results: ResultEntry[]): string => {
     Object.keys(sortedByRankPartitions)
       .map(
         partition =>
-          `${fitScores[parseInt(partition, 10)]} x ${
+          `${fitScores[parseInt(partition, 10)]} × ${
             sortedByRankPartitions[parseInt(partition, 10)]
           }`
       )
