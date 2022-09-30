@@ -65,14 +65,16 @@ const displayOverallFitScoreFormula = (results: ResultEntry[]): string => {
     acc[partition] ||= 0;
     acc[partition] += 1;
     return acc;
-  }, {} as RankPartition);
+  }, {} as {[key: number]: number});
   console.log('sortedByRankPartitions', sortedByRankPartitions);
   return (
     '(' +
     Object.keys(sortedByRankPartitions)
       .map(
-        (partition: Lens) =>
-          `${fitScores[partition]} x ${sortedByRankPartitions[partition]}`
+        partition =>
+          `${fitScores[parseInt(partition, 10)]} x ${
+            sortedByRankPartitions[parseInt(partition, 10)]
+          }`
       )
       .join(' + ') +
     `) / ${maxOverallScore} = ${overallScore}`
@@ -106,12 +108,12 @@ const getScoreFromRank = (rank: number) => {
 
 const lens = [1, 3, 5, 10, 20] as const;
 
-type ValueOf<T> = T[keyof T];
-type Lens = ValueOf<typeof lens>;
+// type ValueOf<T> = T[keyof T];
+// type Lens = ValueOf<typeof lens>;
 
-type RankPartition = {
-  [key in keyof typeof lens]: number;
-};
+// type RankPartition = {
+//   [key in keyof typeof lens]: number;
+// };
 
 const properties: Record<number, keyof TopNScores> = {
   1: 'top1',
@@ -279,7 +281,7 @@ const TSV: React.FC<{
   results: ResultEntry[];
 }> = function ({results}) {
   const tsv = results
-    .map((item, index) => {
+    .map(item => {
       const {query, expected} = item;
       const rank = getRankOfExpected(item);
       return `${expected}	${query}	${rank}\n`;
