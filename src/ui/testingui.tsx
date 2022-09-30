@@ -153,6 +153,7 @@ const Result: React.FC<{
         </div>
       ))}
       Details:
+      <TSV results={results} />
       {results.map((r, index) => (
         <ResultItemDisplay key={index} item={r} pos={index + 1} />
       ))}
@@ -182,6 +183,41 @@ const ResultItemDisplay: React.FC<{
         <Button>Details</Button>
       </Popover2>
     </fieldset>
+  );
+};
+
+const TSV: React.FC<{
+  results: ResultEntry[];
+}> = function ({results}) {
+  const tsv = results
+    .map((item, index) => {
+      const {query, expected} = item;
+      const rank = getRankOfExpected(item);
+      return `${query}	${expected}	${rank}\n`;
+    })
+    .join('');
+
+  const asciidoc = `[%autowidth,frame=ends,format=tsv,cols="1,1,1"]\n|===\n` +
+    `query	expected	rank\n\n${tsv}\n|===\n\n`;
+
+  return (
+    <>
+      <Button
+        onClick={() => {
+          navigator.clipboard.writeText(tsv);
+        }}
+      >
+        Copy TSV to clipboard
+      </Button>
+      <Button
+        onClick={() => {
+          navigator.clipboard.writeText(asciidoc);
+        }}
+      >
+        Copy asciidoc table to clipboard
+      </Button>
+      <pre>{tsv}</pre>
+    </>
   );
 };
 
