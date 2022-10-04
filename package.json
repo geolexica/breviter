@@ -6,6 +6,7 @@
     "init-dev": "next dev",
     "init-build": "next build",
     "init-start": "next start",
+    "export": "next export",
     "dev": "([[ -e 'public/db.json' ]] || yarn compute) && yarn init-dev",
     "build": "([[ -e 'public/db.json' ]] || yarn compute) && yarn init-build",
     "start": "([[ -e 'public/db.json' ]] || yarn compute) && yarn init-start",
