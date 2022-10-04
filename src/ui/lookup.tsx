@@ -51,16 +51,28 @@ const LookupUI: React.FC<{
   }
 
   return (
-    <div>
+    <div className="concepts">
       Search phrase:
       <TextArea value={query} onChange={x => setQuery(x.target.value)} />
       <Button onClick={search}>Search</Button>
       {answer.length > 0 && (
-        <div>
-          Top-{answer.length} answers:
-          {answer.map((x, index) => (
-            <AnswerField answer={x} key={index} />
-          ))}
+        <div className="all-concepts">
+          <div className="search-text">Top-{answer.length} answers:</div>
+          <table>
+            <thead>
+              <tr>
+                <th className="field-termid">Term ID</th>
+                <th className="field-term">Term</th>
+                <th className="field-term">BERT Score</th>
+              </tr>
+            </thead>
+
+            <tbody>
+              {answer.map((x, index) => (
+                <AnswerField answer={x} key={index} />
+              ))}
+            </tbody>
+          </table>
         </div>
       )}
     </div>
@@ -79,13 +91,19 @@ const AnswerField: React.FC<{answer: WordScoreWithIdDefn}> = function ({
   answer,
 }) {
   return (
-    <fieldset>
-      <legend>
-        <Link href={'/concepts/' + answer.id}>{answer.word}</Link>
-      </legend>
-      <p>Definition: {answer.definition}</p>
-      <p>BERT score: {answer.score}</p>
-    </fieldset>
+    <tr>
+      <td className="field-termid">
+        <a href={'/concepts/' + answer.id} target="_top">
+          {answer.id}
+        </a>
+      </td>
+      <td className="field-term">
+        <a href={'/concepts/' + answer.id} target="_top">
+          {answer.word}
+        </a>
+      </td>
+      <td className="field-term">{answer.score}</td>
+    </tr>
   );
 };
 

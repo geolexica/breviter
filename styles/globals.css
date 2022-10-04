@@ -14,3 +14,53 @@ a {
 * {
   box-sizing: border-box;
 }
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+.search-text {
+  padding: 15px 0;
+}
+
+.concepts a {
+  font-size: 16px;
+  line-height: 1.6;
+}
+
+.concepts .all-concepts table tr.main td {
+  border-top: 2px solid #f0f0f0;
+}
+.concepts .all-concepts table tr:first-child td {
+  border-top: 0;
+}
+.concepts .all-concepts table tr.status-superseded {
+  opacity: 0.5;
+  background-color: darkgray;
+}
+
+.concepts .all-concepts table td,
+.concepts .all-concepts table th {
+  padding: 0.5em;
+}
+.concepts .all-concepts table td.field-termid,
+.concepts .all-concepts table th.field-termid {
+  width: 5em;
+  font-weight: bold;
+}
+.concepts .all-concepts table td.field-language_code,
+.concepts .all-concepts table th.field-language_code {
+  width: 3em;
+}
+.concepts .all-concepts table th {
+  background: #f7f7f7;
+  font-weight: bold;
+  text-align: left;
+}
+
+.concepts .all-concepts table td a {
+  color: #0f6db3;
+  border-bottom: 1px solid #0f6db3;
+}
