@@ -64,3 +64,12 @@ table {
   color: #0f6db3;
   border-bottom: 1px solid #0f6db3;
 }
+
+.semantic-search {
+  background-color: #f7f7f7 !important;
+  padding: .5em .75em !important;
+  border-radius: .5em !important;
+  border: 0 !important;
+  font-size: 18px !important;
+  outline: none !important;
+}
