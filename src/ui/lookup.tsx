@@ -1,4 +1,4 @@
-import {Button, TextArea} from '@blueprintjs/core';
+import {Button} from '@blueprintjs/core';
 import {useMemo, useState} from 'react';
 import {UniversalSentenceEncoder} from '@tensorflow-models/universal-sentence-encoder';
 import {convertBERT, DBItem} from '../util/reverseEngine';
@@ -22,8 +22,8 @@ const LookupUI: React.FC<{
     const l = new UniversalSentenceEncoder();
     if (typeof window !== 'undefined') {
       l.load({
-        modelUrl: '/sbert/model.json',
-        vocabUrl: '/sbert/vocab.json',
+        modelUrl: 'sbert/model.json',
+        vocabUrl: 'sbert/vocab.json',
       }).then(() => setReady(true));
     }
     return l;
@@ -52,9 +52,16 @@ const LookupUI: React.FC<{
 
   return (
     <div className="concepts">
-      Search phrase:
-      <TextArea value={query} onChange={x => setQuery(x.target.value)} />
+      <input
+        className="semantic-search bp3-input"
+        type="text"
+        placeholder="Search phrase"
+        dir="auto"
+        value={query}
+        onChange={x => setQuery(x.target.value)}
+      />
       <Button onClick={search}>Search</Button>
+
       {answer.length > 0 && (
         <div className="all-concepts">
           <div className="search-text">Top-{answer.length} answers:</div>
